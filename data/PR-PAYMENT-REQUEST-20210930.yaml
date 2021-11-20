@@ -1,0 +1,54 @@
+---
+id: W3CPR-payment-request-20210930
+title:
+  content: Payment Request API
+  format: text/plain
+link:
+  content: https://www.w3.org/TR/2021/PR-payment-request-20210930/
+  type: src
+type: standard
+docid:
+  id: W3C PR-payment-request-20210930
+  type: W3C
+docnumber: PR-payment-request-20210930
+date:
+  type: published
+  value: '2021-09-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language: en
+        script: Latn
+  role: editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language: en
+        script: Latn
+  role: editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language: en
+        script: Latn
+  role: editor
+revdate: '2021-09-30'
+language: en
+script: Latn
+relation:
+  type: obsoletes
+  bibitem:
+    formattedref: W3C CRD-payment-request-20210928
+series:
+  title:
+    content: W3C PR
+    format: text/plain
+  number: PR-payment-request-20210930
+fetched: '2021-11-20'
+doctype: proposedRecommendation
+editorialgroup:
+  name: Web Payments Working Group

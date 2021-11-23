@@ -1,0 +1,47 @@
+---
+id: W3CREC-pub-manifest-20201110
+title:
+  content: Publication Manifest
+  format: text/plain
+link:
+  content: https://www.w3.org/TR/2020/REC-pub-manifest-20201110/
+  type: src
+type: standard
+docid:
+  id: W3C REC-pub-manifest-20201110
+  type: W3C
+docnumber: REC-pub-manifest-20201110
+date:
+  type: published
+  value: '2020-11-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ivan Herman
+        language: en
+        script: Latn
+  role: editor
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language: en
+        script: Latn
+  role: editor
+revdate: '2020-11-10'
+language: en
+script: Latn
+relation:
+  type: obsoletes
+  bibitem:
+    formattedref: W3C PR-pub-manifest-20201001
+series:
+  title:
+    content: W3C REC
+    format: text/plain
+  number: REC-pub-manifest-20201110
+fetched: '2021-11-23'
+doctype: recommendation
+editorialgroup:
+  name: Audiobooks Working Group

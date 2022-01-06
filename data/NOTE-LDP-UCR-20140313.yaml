@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-ldp-ucr-20140313
 title:
-  content: Linked Data Platform Use Cases and Requirements
+- content: Linked Data Platform Use Cases and Requirements
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/NOTE-ldp-ucr-20140313/
+- content: https://www.w3.org/TR/2014/NOTE-ldp-ucr-20140313/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-ldp-ucr-20140313
+- id: W3C NOTE-ldp-ucr-20140313
   type: W3C
 docnumber: NOTE-ldp-ucr-20140313
 date:
-  type: published
+- type: published
   value: '2014-03-13'
 contributor:
 - person:
     name:
       completename:
         content: Steve Battle
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Steve Speicher
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-03-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-ldp-ucr-20131031
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ldp-ucr-20140313
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Linked Data Platform Working Group
+- name: Linked Data Platform Working Group

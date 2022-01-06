@@ -1,40 +1,45 @@
 ---
 id: W3CSPSD-hr-time-1-20191121
 title:
-  content: High Resolution Time
+- content: High Resolution Time
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2019/SPSD-hr-time-1-20191121/
+- content: https://www.w3.org/TR/2019/SPSD-hr-time-1-20191121/
   type: src
 type: standard
 docid:
-  id: W3C SPSD-hr-time-1-20191121
+- id: W3C SPSD-hr-time-1-20191121
   type: W3C
 docnumber: SPSD-hr-time-1-20191121
 date:
-  type: published
+- type: published
   value: '2019-11-21'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Michael McKeough
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2019-11-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-hr-time-20121217
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: SPSD-hr-time-1-20191121
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Performance Working Group
+- name: Web Performance Working Group

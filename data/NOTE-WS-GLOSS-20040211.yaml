@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-ws-gloss-20040211
 title:
-  content: Web Services Glossary
+- content: Web Services Glossary
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2004/NOTE-ws-gloss-20040211/
+- content: https://www.w3.org/TR/2004/NOTE-ws-gloss-20040211/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-ws-gloss-20040211
+- id: W3C NOTE-ws-gloss-20040211
   type: W3C
 docnumber: NOTE-ws-gloss-20040211
 date:
-  type: published
+- type: published
   value: '2004-02-11'
 contributor:
 - person:
     name:
       completename:
         content: Allen Brown
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Hugo Haas
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2004-02-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-ws-gloss-20030808
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ws-gloss-20040211
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Web Services Architecture Working Group
+- name: Web Services Architecture Working Group

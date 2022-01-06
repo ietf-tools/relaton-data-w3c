@@ -1,47 +1,55 @@
 ---
 id: W3CSPSD-CSS1-20180913
 title:
-  content: Cascading Style Sheets, level 1
+- content: Cascading Style Sheets, level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/SPSD-CSS1-20180913/
+- content: https://www.w3.org/TR/2018/SPSD-CSS1-20180913/
   type: src
 type: standard
 docid:
-  id: W3C SPSD-CSS1-20180913
+- id: W3C SPSD-CSS1-20180913
   type: W3C
 docnumber: SPSD-CSS1-20180913
 date:
-  type: published
+- type: published
   value: '2018-09-13'
 contributor:
 - person:
     name:
       completename:
         content: Bert Bos
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Håkon Wium Lie
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-09-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-CSS1-20080411
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: SPSD-CSS1-20180913
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

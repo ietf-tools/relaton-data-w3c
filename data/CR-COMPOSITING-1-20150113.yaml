@@ -1,47 +1,55 @@
 ---
 id: W3CCR-compositing-1-20150113
 title:
-  content: Compositing and Blending Level 1
+- content: Compositing and Blending Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/CR-compositing-1-20150113/
+- content: https://www.w3.org/TR/2015/CR-compositing-1-20150113/
   type: src
 type: standard
 docid:
-  id: W3C CR-compositing-1-20150113
+- id: W3C CR-compositing-1-20150113
   type: W3C
 docnumber: CR-compositing-1-20150113
 date:
-  type: published
+- type: published
   value: '2015-01-13'
 contributor:
 - person:
     name:
       completename:
         content: Nikos Andronikos
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rik Cabanier
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-01-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-compositing-1-20140220
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CR-compositing-1-20150113
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
 - name: SVG Working Group

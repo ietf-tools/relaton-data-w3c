@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-vocab-adms-20130801
 title:
-  content: Asset Description Metadata Schema (ADMS)
+- content: Asset Description Metadata Schema (ADMS)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/NOTE-vocab-adms-20130801/
+- content: https://www.w3.org/TR/2013/NOTE-vocab-adms-20130801/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-vocab-adms-20130801
+- id: W3C NOTE-vocab-adms-20130801
   type: W3C
 docnumber: NOTE-vocab-adms-20130801
 date:
-  type: published
+- type: published
   value: '2013-08-01'
 contributor:
 - person:
     name:
       completename:
         content: Gofran Shukair
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Phil Archer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-vocab-adms-20130528
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vocab-adms-20130801
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Government Linked Data Working Group
+- name: Government Linked Data Working Group

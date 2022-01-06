@@ -1,68 +1,85 @@
 ---
 id: W3CCR-resource-timing-1-20170330
 title:
-  content: Resource Timing Level 1
+- content: Resource Timing Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/CR-resource-timing-1-20170330/
+- content: https://www.w3.org/TR/2017/CR-resource-timing-1-20170330/
   type: src
 type: standard
 docid:
-  id: W3C CR-resource-timing-1-20170330
+- id: W3C CR-resource-timing-1-20170330
   type: W3C
 docnumber: CR-resource-timing-1-20170330
 date:
-  type: published
+- type: published
   value: '2017-03-30'
 contributor:
 - person:
     name:
       completename:
         content: Anderson Quach
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Arvind Jain
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jatinder Mann
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Todd Reifsteck
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Zhiheng Wang
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-03-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-resource-timing-1-20160721
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CR-resource-timing-1-20170330
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Web Performance Working Group
+- name: Web Performance Working Group

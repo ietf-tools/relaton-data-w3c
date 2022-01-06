@@ -1,40 +1,45 @@
 ---
 id: W3CREC-eventsource-20150203
 title:
-  content: Server-Sent Events
+- content: Server-Sent Events
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/REC-eventsource-20150203/
+- content: https://www.w3.org/TR/2015/REC-eventsource-20150203/
   type: src
 type: standard
 docid:
-  id: W3C REC-eventsource-20150203
+- id: W3C REC-eventsource-20150203
   type: W3C
 docnumber: REC-eventsource-20150203
 date:
-  type: published
+- type: published
   value: '2015-02-03'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Ian Hickson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-eventsource-20141209
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-eventsource-20150203
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

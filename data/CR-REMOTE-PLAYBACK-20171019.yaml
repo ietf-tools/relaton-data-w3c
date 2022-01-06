@@ -1,47 +1,55 @@
 ---
 id: W3CCR-remote-playback-20171019
 title:
-  content: Remote Playback API
+- content: Remote Playback API
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/CR-remote-playback-20171019/
+- content: https://www.w3.org/TR/2017/CR-remote-playback-20171019/
   type: src
 type: standard
 docid:
-  id: W3C CR-remote-playback-20171019
+- id: W3C CR-remote-playback-20171019
   type: W3C
 docnumber: CR-remote-playback-20171019
 date:
-  type: published
+- type: published
   value: '2017-10-19'
 contributor:
 - person:
     name:
       completename:
         content: Anton Vayvod
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Mounir Lamouri
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-10-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-remote-playback-20161107
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CR-remote-playback-20171019
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Second Screen Working Group
+- name: Second Screen Working Group

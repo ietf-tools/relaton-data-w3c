@@ -1,47 +1,55 @@
 ---
 id: W3CWD-picture-in-picture-20210830
 title:
-  content: Picture-in-Picture
+- content: Picture-in-Picture
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-picture-in-picture-20210830/
+- content: https://www.w3.org/TR/2021/WD-picture-in-picture-20210830/
   type: src
 type: standard
 docid:
-  id: W3C WD-picture-in-picture-20210830
+- id: W3C WD-picture-in-picture-20210830
   type: W3C
 docnumber: WD-picture-in-picture-20210830
 date:
-  type: published
+- type: published
   value: '2021-08-30'
 contributor:
 - person:
     name:
       completename:
         content: Francois Beaufort
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Mounir Lamouri
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-08-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-picture-in-picture-20210604
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-picture-in-picture-20210830
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Media Working Group
+- name: Media Working Group

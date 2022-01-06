@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-soap12-n11n-20031008
 title:
-  content: SOAP Version 1.2 Message Normalization
+- content: SOAP Version 1.2 Message Normalization
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2003/NOTE-soap12-n11n-20031008/
+- content: https://www.w3.org/TR/2003/NOTE-soap12-n11n-20031008/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-soap12-n11n-20031008
+- id: W3C NOTE-soap12-n11n-20031008
   type: W3C
 docnumber: NOTE-soap12-n11n-20031008
 date:
-  type: published
+- type: published
   value: '2003-10-08'
 contributor:
 - person:
     name:
       completename:
         content: Marc Hadley
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Martin Gudgin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2003-10-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-soap12-n11n-20030328
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-soap12-n11n-20031008
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: XML Protocol Working Group
+- name: XML Protocol Working Group

@@ -1,68 +1,85 @@
 ---
 id: W3CNOTE-2dcontext2-20150929
 title:
-  content: HTML Canvas 2D Context, Level 2
+- content: HTML Canvas 2D Context, Level 2
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/NOTE-2dcontext2-20150929/
+- content: https://www.w3.org/TR/2015/NOTE-2dcontext2-20150929/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-2dcontext2-20150929
+- id: W3C NOTE-2dcontext2-20150929
   type: W3C
 docnumber: NOTE-2dcontext2-20150929
 date:
-  type: published
+- type: published
   value: '2015-09-29'
 contributor:
 - person:
     name:
       completename:
         content: Ian Hickson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jatinder Mann
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jay Munro
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rik Cabanier
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Tom Wiltzius
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-09-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-2dcontext2-20140828
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-2dcontext2-20150929
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: HTML Working Group
+- name: HTML Working Group

@@ -1,47 +1,55 @@
 ---
 id: W3CREC-IndexedDB-2-20180130
 title:
-  content: Indexed Database API 2.0
+- content: Indexed Database API 2.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/
+- content: https://www.w3.org/TR/2018/REC-IndexedDB-2-20180130/
   type: src
 type: standard
 docid:
-  id: W3C REC-IndexedDB-2-20180130
+- id: W3C REC-IndexedDB-2-20180130
   type: W3C
 docnumber: REC-IndexedDB-2-20180130
 date:
-  type: published
+- type: published
   value: '2018-01-30'
 contributor:
 - person:
     name:
       completename:
         content: Ali Alabbas
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Joshua Bell
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-01-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-IndexedDB-2-20171116
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-IndexedDB-2-20180130
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

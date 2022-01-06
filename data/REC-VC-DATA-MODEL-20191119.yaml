@@ -1,68 +1,85 @@
 ---
 id: W3CREC-vc-data-model-20191119
 title:
-  content: Verifiable Credentials Data Model 1.0
+- content: Verifiable Credentials Data Model 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2019/REC-vc-data-model-20191119/
+- content: https://www.w3.org/TR/2019/REC-vc-data-model-20191119/
   type: src
 type: standard
 docid:
-  id: W3C REC-vc-data-model-20191119
+- id: W3C REC-vc-data-model-20191119
   type: W3C
 docnumber: REC-vc-data-model-20191119
 date:
-  type: published
+- type: published
   value: '2019-11-19'
 contributor:
 - person:
     name:
       completename:
         content: Brent Zundel
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Daniel Burnett
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Dave Longley
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Grant Noble
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Manu Sporny
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2019-11-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-vc-data-model-20190905
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-vc-data-model-20191119
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Verifiable Credentials Working Group
+- name: Verifiable Credentials Working Group

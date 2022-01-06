@@ -1,68 +1,85 @@
 ---
 id: W3CNOTE-xquery-use-cases-20070323
 title:
-  content: XML Query Use Cases
+- content: XML Query Use Cases
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2007/NOTE-xquery-use-cases-20070323/
+- content: https://www.w3.org/TR/2007/NOTE-xquery-use-cases-20070323/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xquery-use-cases-20070323
+- id: W3C NOTE-xquery-use-cases-20070323
   type: W3C
 docnumber: NOTE-xquery-use-cases-20070323
 date:
-  type: published
+- type: published
   value: '2007-03-23'
 contributor:
 - person:
     name:
       completename:
         content: Daniela Florescu
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Don Chamberlin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jonathan Robie
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Massimo Marchiori
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Peter Fankhauser
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2007-03-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xquery-use-cases-20060608
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xquery-use-cases-20070323
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: XML Query Working Group
+- name: XML Query Working Group

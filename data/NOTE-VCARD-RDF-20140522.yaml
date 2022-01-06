@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-vcard-rdf-20140522
 title:
-  content: vCard Ontology - for describing People and Organizations
+- content: vCard Ontology - for describing People and Organizations
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/NOTE-vcard-rdf-20140522/
+- content: https://www.w3.org/TR/2014/NOTE-vcard-rdf-20140522/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-vcard-rdf-20140522
+- id: W3C NOTE-vcard-rdf-20140522
   type: W3C
 docnumber: NOTE-vcard-rdf-20140522
 date:
-  type: published
+- type: published
   value: '2014-05-22'
 contributor:
 - person:
     name:
       completename:
         content: James McKinney
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Renato Iannella
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-05-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-vcard-rdf-20130924
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vcard-rdf-20140522
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Semantic Web Interest Group
+- name: Semantic Web Interest Group

@@ -1,47 +1,55 @@
 ---
 id: W3CREC-notifications-20151022
 title:
-  content: Web Notifications
+- content: Web Notifications
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/REC-notifications-20151022/
+- content: https://www.w3.org/TR/2015/REC-notifications-20151022/
   type: src
 type: standard
 docid:
-  id: W3C REC-notifications-20151022
+- id: W3C REC-notifications-20151022
   type: W3C
 docnumber: REC-notifications-20151022
 date:
-  type: published
+- type: published
   value: '2015-10-22'
 contributor:
 - person:
     name:
       completename:
         content: Anne van Kesteren
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: John Gregg
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-10-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-notifications-20150910
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-notifications-20151022
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Notification Working Group
+- name: Web Notification Working Group

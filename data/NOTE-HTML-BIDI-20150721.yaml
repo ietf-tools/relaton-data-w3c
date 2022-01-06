@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-html-bidi-20150721
 title:
-  content: Additional Requirements for Bidi in HTML & CSS
+- content: Additional Requirements for Bidi in HTML & CSS
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/NOTE-html-bidi-20150721/
+- content: https://www.w3.org/TR/2015/NOTE-html-bidi-20150721/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-html-bidi-20150721
+- id: W3C NOTE-html-bidi-20150721
   type: W3C
 docnumber: NOTE-html-bidi-20150721
 date:
-  type: published
+- type: published
   value: '2015-07-21'
 contributor:
 - person:
     name:
       completename:
         content: Aharon Lanin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Richard Ishida
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-07-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-html-bidi-20100304
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-bidi-20150721
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

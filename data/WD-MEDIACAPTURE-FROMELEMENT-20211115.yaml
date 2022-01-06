@@ -1,54 +1,65 @@
 ---
 id: W3CWD-mediacapture-fromelement-20211115
 title:
-  content: Media Capture from DOM Elements
+- content: Media Capture from DOM Elements
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-mediacapture-fromelement-20211115/
+- content: https://www.w3.org/TR/2021/WD-mediacapture-fromelement-20211115/
   type: src
 type: standard
 docid:
-  id: W3C WD-mediacapture-fromelement-20211115
+- id: W3C WD-mediacapture-fromelement-20211115
   type: W3C
 docnumber: WD-mediacapture-fromelement-20211115
 date:
-  type: published
+- type: published
   value: '2021-11-15'
 contributor:
 - person:
     name:
       completename:
         content: Emircan Uysaler
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Martin Thomson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Miguel Casas-sanchez
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-11-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-mediacapture-fromelement-20210705
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-mediacapture-fromelement-20211115
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Web Real-Time Communications Working Group
+- name: Web Real-Time Communications Working Group

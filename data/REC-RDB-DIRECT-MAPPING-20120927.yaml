@@ -1,61 +1,75 @@
 ---
 id: W3CREC-rdb-direct-mapping-20120927
 title:
-  content: A Direct Mapping of Relational Data to RDF
+- content: A Direct Mapping of Relational Data to RDF
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/
+- content: https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/
   type: src
 type: standard
 docid:
-  id: W3C REC-rdb-direct-mapping-20120927
+- id: W3C REC-rdb-direct-mapping-20120927
   type: W3C
 docnumber: REC-rdb-direct-mapping-20120927
 date:
-  type: published
+- type: published
   value: '2012-09-27'
 contributor:
 - person:
     name:
       completename:
         content: Alexandre Bertails
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Eric Prud'hommeaux
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Juan Sequeda
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Marcelo Arenas
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2012-09-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-rdb-direct-mapping-20120814
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-rdb-direct-mapping-20120927
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: RDB2RDF Working Group
+- name: RDB2RDF Working Group

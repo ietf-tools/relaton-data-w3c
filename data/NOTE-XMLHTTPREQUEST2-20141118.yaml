@@ -1,61 +1,75 @@
 ---
 id: W3CNOTE-XMLHttpRequest2-20141118
 title:
-  content: XMLHttpRequest Level 2
+- content: XMLHttpRequest Level 2
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/NOTE-XMLHttpRequest2-20141118/
+- content: https://www.w3.org/TR/2014/NOTE-XMLHttpRequest2-20141118/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-XMLHttpRequest2-20141118
+- id: W3C NOTE-XMLHttpRequest2-20141118
   type: W3C
 docnumber: NOTE-XMLHttpRequest2-20141118
 date:
-  type: published
+- type: published
   value: '2014-11-18'
 contributor:
 - person:
     name:
       completename:
         content: Anne van Kesteren
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Hallvord Steen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Julian Aubourg
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jungkee Song
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-11-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-XMLHttpRequest-20120117
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-XMLHttpRequest2-20141118
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

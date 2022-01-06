@@ -1,47 +1,55 @@
 ---
 id: W3CREC-MathML-19990707
 title:
-  content: Mathematical Markup Language (MathML) 1.01 Specification
+- content: Mathematical Markup Language (MathML) 1.01 Specification
   format: text/plain
 link:
-  content: https://www.w3.org/1999/07/REC-MathML-19990707/
+- content: https://www.w3.org/1999/07/REC-MathML-19990707/
   type: src
 type: standard
 docid:
-  id: W3C REC-MathML-19990707
+- id: W3C REC-MathML-19990707
   type: W3C
 docnumber: REC-MathML-19990707
 date:
-  type: published
+- type: published
   value: '1999-07-07'
 contributor:
 - person:
     name:
       completename:
         content: Patrick D F Ion
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Robert R Miner
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '1999-07-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-MathML-19980407
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-MathML-19990707
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Math Working Group
+- name: Math Working Group

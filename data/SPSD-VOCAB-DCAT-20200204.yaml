@@ -1,47 +1,55 @@
 ---
 id: W3CSPSD-vocab-dcat-20200204
 title:
-  content: Data Catalog Vocabulary (DCAT)
+- content: Data Catalog Vocabulary (DCAT)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/SPSD-vocab-dcat-20200204/
+- content: https://www.w3.org/TR/2020/SPSD-vocab-dcat-20200204/
   type: src
 type: standard
 docid:
-  id: W3C SPSD-vocab-dcat-20200204
+- id: W3C SPSD-vocab-dcat-20200204
   type: W3C
 docnumber: SPSD-vocab-dcat-20200204
 date:
-  type: published
+- type: published
   value: '2020-02-04'
 contributor:
 - person:
     name:
       completename:
         content: Fadi Maali
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: John Erickson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-02-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-vocab-dcat-20140116
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: SPSD-vocab-dcat-20200204
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Government Linked Data Working Group
+- name: Government Linked Data Working Group

@@ -1,61 +1,75 @@
 ---
 id: W3CWD-wot-thing-description11-20210607
 title:
-  content: Web of Things (WoT) Thing Description 1.1
+- content: Web of Things (WoT) Thing Description 1.1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-wot-thing-description11-20210607/
+- content: https://www.w3.org/TR/2021/WD-wot-thing-description11-20210607/
   type: src
 type: standard
 docid:
-  id: W3C WD-wot-thing-description11-20210607
+- id: W3C WD-wot-thing-description11-20210607
   type: W3C
 docnumber: WD-wot-thing-description11-20210607
 date:
-  type: published
+- type: published
   value: '2021-06-07'
 contributor:
 - person:
     name:
       completename:
         content: Michael McCool
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Sebastian Käbisch
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Takuki Kamiya
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Victor Charpenay
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-06-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-wot-thing-description11-20201124
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-wot-thing-description11-20210607
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Web of Things Working Group
+- name: Web of Things Working Group

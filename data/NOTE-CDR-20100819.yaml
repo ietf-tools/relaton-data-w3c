@@ -1,61 +1,75 @@
 ---
 id: W3CNOTE-CDR-20100819
 title:
-  content: Compound Document by Reference Framework 1.0
+- content: Compound Document by Reference Framework 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2010/NOTE-CDR-20100819/
+- content: https://www.w3.org/TR/2010/NOTE-CDR-20100819/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-CDR-20100819
+- id: W3C NOTE-CDR-20100819
   type: W3C
 docnumber: NOTE-CDR-20100819
 date:
-  type: published
+- type: published
   value: '2010-08-19'
 contributor:
 - person:
     name:
       completename:
         content: Daniel Appelquist
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Julien Quint
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Lasse Pajunen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Timur Mehrvarz
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2010-08-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-CDR-20070718
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-CDR-20100819
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Compound Document Formats Working Group
+- name: Compound Document Formats Working Group

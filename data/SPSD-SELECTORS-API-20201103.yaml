@@ -1,47 +1,55 @@
 ---
 id: W3CSPSD-selectors-api-20201103
 title:
-  content: Selectors API Level 1
+- content: Selectors API Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/SPSD-selectors-api-20201103/
+- content: https://www.w3.org/TR/2020/SPSD-selectors-api-20201103/
   type: src
 type: standard
 docid:
-  id: W3C SPSD-selectors-api-20201103
+- id: W3C SPSD-selectors-api-20201103
   type: W3C
 docnumber: SPSD-selectors-api-20201103
 date:
-  type: published
+- type: published
   value: '2020-11-03'
 contributor:
 - person:
     name:
       completename:
         content: Anne van Kesteren
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Lachlan Hunt
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-11-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-selectors-api-20130221
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: SPSD-selectors-api-20201103
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

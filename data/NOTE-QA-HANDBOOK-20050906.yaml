@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-qa-handbook-20050906
 title:
-  content: The QA Handbook
+- content: The QA Handbook
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2005/NOTE-qa-handbook-20050906/
+- content: https://www.w3.org/TR/2005/NOTE-qa-handbook-20050906/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-qa-handbook-20050906
+- id: W3C NOTE-qa-handbook-20050906
   type: W3C
 docnumber: NOTE-qa-handbook-20050906
 date:
-  type: published
+- type: published
   value: '2005-09-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Lofton Henderson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2005-09-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-qa-handbook-20041122
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-qa-handbook-20050906
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Quality Assurance Working Group
+- name: Quality Assurance Working Group

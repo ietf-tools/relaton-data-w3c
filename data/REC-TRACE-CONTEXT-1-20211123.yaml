@@ -1,75 +1,95 @@
 ---
 id: W3CREC-trace-context-1-20211123
 title:
-  content: Trace Context
+- content: Trace Context
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/REC-trace-context-1-20211123/
+- content: https://www.w3.org/TR/2021/REC-trace-context-1-20211123/
   type: src
 type: standard
 docid:
-  id: W3C REC-trace-context-1-20211123
+- id: W3C REC-trace-context-1-20211123
   type: W3C
 docnumber: REC-trace-context-1-20211123
 date:
-  type: published
+- type: published
   value: '2021-11-23'
 contributor:
 - person:
     name:
       completename:
         content: Alois Reitbauer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Bogdan Drutu
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Morgan McLean
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Nik Molnar
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Sergey Kanzhelev
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Yuri Shkuro
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-11-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-trace-context-1-20200206
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-trace-context-1-20211123
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Distributed Tracing Working Group
+- name: Distributed Tracing Working Group

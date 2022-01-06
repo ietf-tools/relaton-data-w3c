@@ -1,40 +1,45 @@
 ---
 id: W3CREC-xmldsig-properties-20130411
 title:
-  content: XML Signature Properties
+- content: XML Signature Properties
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/REC-xmldsig-properties-20130411/
+- content: https://www.w3.org/TR/2013/REC-xmldsig-properties-20130411/
   type: src
 type: standard
 docid:
-  id: W3C REC-xmldsig-properties-20130411
+- id: W3C REC-xmldsig-properties-20130411
   type: W3C
 docnumber: REC-xmldsig-properties-20130411
 date:
-  type: published
+- type: published
   value: '2013-04-11'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Frederick Hirsch
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-04-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-xmldsig-properties-20130124
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-xmldsig-properties-20130411
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: XML Security Working Group
+- name: XML Security Working Group

@@ -1,47 +1,55 @@
 ---
 id: W3CREC-html-longdesc-20150226
 title:
-  content: HTML5 Image Description Extension (longdesc)
+- content: HTML5 Image Description Extension (longdesc)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/REC-html-longdesc-20150226/
+- content: https://www.w3.org/TR/2015/REC-html-longdesc-20150226/
   type: src
 type: standard
 docid:
-  id: W3C REC-html-longdesc-20150226
+- id: W3C REC-html-longdesc-20150226
   type: W3C
 docnumber: REC-html-longdesc-20150226
 date:
-  type: published
+- type: published
   value: '2015-02-26'
 contributor:
 - person:
     name:
       completename:
         content: Charles McCathieNevile
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Mark Sadecki
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-html-longdesc-20141204
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-html-longdesc-20150226
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: HTML Working Group
+- name: HTML Working Group

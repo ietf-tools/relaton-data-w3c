@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-di-princ-20030901
 title:
-  content: Device Independence Principles
+- content: Device Independence Principles
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2003/NOTE-di-princ-20030901/
+- content: https://www.w3.org/TR/2003/NOTE-di-princ-20030901/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-di-princ-20030901
+- id: W3C NOTE-di-princ-20030901
   type: W3C
 docnumber: NOTE-di-princ-20030901
 date:
-  type: published
+- type: published
   value: '2003-09-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Roger Gimson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2003-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-di-princ-20010918
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-di-princ-20030901
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Device Independence Working Group
+- name: Device Independence Working Group

@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-ldp-paging-20150630
 title:
-  content: Linked Data Platform Paging 1.0
+- content: Linked Data Platform Paging 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/NOTE-ldp-paging-20150630/
+- content: https://www.w3.org/TR/2015/NOTE-ldp-paging-20150630/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-ldp-paging-20150630
+- id: W3C NOTE-ldp-paging-20150630
   type: W3C
 docnumber: NOTE-ldp-paging-20150630
 date:
-  type: published
+- type: published
   value: '2015-06-30'
 contributor:
 - person:
     name:
       completename:
         content: Ashok Malhotra
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: John Arwe
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Steve Speicher
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-06-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-ldp-paging-20141216
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ldp-paging-20150630
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Linked Data Platform Working Group
+- name: Linked Data Platform Working Group

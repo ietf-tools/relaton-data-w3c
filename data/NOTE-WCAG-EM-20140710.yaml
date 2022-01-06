@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-WCAG-EM-20140710
 title:
-  content: Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0
+- content: Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/
+- content: https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-WCAG-EM-20140710
+- id: W3C NOTE-WCAG-EM-20140710
   type: W3C
 docnumber: NOTE-WCAG-EM-20140710
 date:
-  type: published
+- type: published
   value: '2014-07-10'
 contributor:
 - person:
     name:
       completename:
         content: Eric Velleman
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Shadi Abou-Zahra
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-07-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-WCAG-EM-20140130
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-WCAG-EM-20140710
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
 - name: Evaluation and Repair Tools Working Group

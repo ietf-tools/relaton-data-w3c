@@ -1,55 +1,69 @@
 ---
 id: W3CWD-http-pep-971121
 title:
-  content: 'PEP Specification: an Extension Mechanism for HTTP'
+- content: 'PEP Specification: an Extension Mechanism for HTTP'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/WD-http-pep-971121
+- content: https://www.w3.org/TR/WD-http-pep-971121
   type: src
 type: standard
 docid:
-  id: W3C WD-http-pep-971121
+- id: W3C WD-http-pep-971121
   type: W3C
 docnumber: WD-http-pep-971121
 date:
-  type: published
+- type: published
   value: '1997-11-21'
 contributor:
 - person:
     name:
       completename:
         content: Dan Connolly
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Eric Prud'hommeaux
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Henrik Frystyk Nielsen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rohit Khare
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '1997-11-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-http-pep-971121
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft

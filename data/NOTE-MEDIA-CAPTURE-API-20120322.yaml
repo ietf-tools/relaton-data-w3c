@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-media-capture-api-20120322
 title:
-  content: The Media Capture API
+- content: The Media Capture API
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2012/NOTE-media-capture-api-20120322/
+- content: https://www.w3.org/TR/2012/NOTE-media-capture-api-20120322/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-media-capture-api-20120322
+- id: W3C NOTE-media-capture-api-20120322
   type: W3C
 docnumber: NOTE-media-capture-api-20120322
 date:
-  type: published
+- type: published
   value: '2012-03-22'
 contributor:
 - person:
     name:
       completename:
         content: Dzung Tran
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Ilkka Oksanen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Ingmar Kliche
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2012-03-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-media-capture-api-20100928
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-media-capture-api-20120322
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Devices and Sensors Working Group
+- name: Devices and Sensors Working Group

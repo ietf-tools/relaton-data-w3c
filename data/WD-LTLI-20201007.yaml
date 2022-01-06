@@ -1,40 +1,45 @@
 ---
 id: W3CWD-ltli-20201007
 title:
-  content: Language Tags and Locale Identifiers for the World Wide Web
+- content: Language Tags and Locale Identifiers for the World Wide Web
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/WD-ltli-20201007/
+- content: https://www.w3.org/TR/2020/WD-ltli-20201007/
   type: src
 type: standard
 docid:
-  id: W3C WD-ltli-20201007
+- id: W3C WD-ltli-20201007
   type: W3C
 docnumber: WD-ltli-20201007
 date:
-  type: published
+- type: published
   value: '2020-10-07'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Addison Phillips
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-ltli-20150423
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-ltli-20201007
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

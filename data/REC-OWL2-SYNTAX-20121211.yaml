@@ -1,55 +1,66 @@
 ---
 id: W3CREC-owl2-syntax-20121211
 title:
-  content: OWL 2 Web Ontology Language Structural Specification and Functional-Style
+- content: OWL 2 Web Ontology Language Structural Specification and Functional-Style
     Syntax (Second Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2012/REC-owl2-syntax-20121211/
+- content: https://www.w3.org/TR/2012/REC-owl2-syntax-20121211/
   type: src
 type: standard
 docid:
-  id: W3C REC-owl2-syntax-20121211
+- id: W3C REC-owl2-syntax-20121211
   type: W3C
 docnumber: REC-owl2-syntax-20121211
 date:
-  type: published
+- type: published
   value: '2012-12-11'
 contributor:
 - person:
     name:
       completename:
         content: Bijan Parsia
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Boris Motik
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Peter Patel-Schneider
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2012-12-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PER-owl2-syntax-20121018
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-owl2-syntax-20121211
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: OWL Working Group
+- name: OWL Working Group

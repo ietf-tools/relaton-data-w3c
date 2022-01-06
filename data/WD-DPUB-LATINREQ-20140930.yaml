@@ -1,40 +1,45 @@
 ---
 id: W3CWD-dpub-latinreq-20140930
 title:
-  content: Requirements for Latin Text Layout and Pagination
+- content: Requirements for Latin Text Layout and Pagination
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/WD-dpub-latinreq-20140930/
+- content: https://www.w3.org/TR/2014/WD-dpub-latinreq-20140930/
   type: src
 type: standard
 docid:
-  id: W3C WD-dpub-latinreq-20140930
+- id: W3C WD-dpub-latinreq-20140930
   type: W3C
 docnumber: WD-dpub-latinreq-20140930
 date:
-  type: published
+- type: published
   value: '2014-09-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Dave Cramer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-09-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-dpub-latinreq-20140313
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-dpub-latinreq-20140930
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Digital Publishing Interest Group
+- name: Digital Publishing Interest Group

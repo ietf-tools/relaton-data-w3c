@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-css-2018-20190122
 title:
-  content: CSS Snapshot 2018
+- content: CSS Snapshot 2018
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2019/NOTE-css-2018-20190122/
+- content: https://www.w3.org/TR/2019/NOTE-css-2018-20190122/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-css-2018-20190122
+- id: W3C NOTE-css-2018-20190122
   type: W3C
 docnumber: NOTE-css-2018-20190122
 date:
-  type: published
+- type: published
   value: '2019-01-22'
 contributor:
 - person:
     name:
       completename:
         content: Elika Etemad
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Florian Rivoal
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Tab Atkins Jr.
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2019-01-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-css-2018-20181115
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-css-2018-20190122
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

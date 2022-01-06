@@ -1,47 +1,55 @@
 ---
 id: W3CCRD-css-syntax-3-20211224
 title:
-  content: CSS Syntax Module Level 3
+- content: CSS Syntax Module Level 3
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CRD-css-syntax-3-20211224/
+- content: https://www.w3.org/TR/2021/CRD-css-syntax-3-20211224/
   type: src
 type: standard
 docid:
-  id: W3C CRD-css-syntax-3-20211224
+- id: W3C CRD-css-syntax-3-20211224
   type: W3C
 docnumber: CRD-css-syntax-3-20211224
 date:
-  type: published
+- type: published
   value: '2021-12-24'
 contributor:
 - person:
     name:
       completename:
         content: Simon Sapin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Tab Atkins Jr.
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-12-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-css-syntax-3-20190716
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CRD-css-syntax-3-20211224
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

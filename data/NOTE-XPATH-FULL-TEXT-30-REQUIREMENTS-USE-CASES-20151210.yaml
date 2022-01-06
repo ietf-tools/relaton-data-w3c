@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-xpath-full-text-30-requirements-use-cases-20151210
 title:
-  content: XQuery and XPath Full Text 3.0 Requirements and Use Cases
+- content: XQuery and XPath Full Text 3.0 Requirements and Use Cases
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2015/NOTE-xpath-full-text-30-requirements-use-cases-20151210/
+- content: https://www.w3.org/TR/2015/NOTE-xpath-full-text-30-requirements-use-cases-20151210/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xpath-full-text-30-requirements-use-cases-20151210
+- id: W3C NOTE-xpath-full-text-30-requirements-use-cases-20151210
   type: W3C
 docnumber: NOTE-xpath-full-text-30-requirements-use-cases-20151210
 date:
-  type: published
+- type: published
   value: '2015-12-10'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Pat Case
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2015-12-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xpath-full-text-30-requirements-use-cases-20150312
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xpath-full-text-30-requirements-use-cases-20151210
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
 - name: Extensible Stylesheet Language Family

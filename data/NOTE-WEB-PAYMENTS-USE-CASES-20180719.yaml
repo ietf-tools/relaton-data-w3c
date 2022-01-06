@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-web-payments-use-cases-20180719
 title:
-  content: Web Payments Use Cases 1.0
+- content: Web Payments Use Cases 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/NOTE-web-payments-use-cases-20180719/
+- content: https://www.w3.org/TR/2018/NOTE-web-payments-use-cases-20180719/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-web-payments-use-cases-20180719
+- id: W3C NOTE-web-payments-use-cases-20180719
   type: W3C
 docnumber: NOTE-web-payments-use-cases-20180719
 date:
-  type: published
+- type: published
   value: '2018-07-19'
 contributor:
 - person:
     name:
       completename:
         content: Ian Jacobs
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Manu Sporny
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-07-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-web-payments-use-cases-20150730
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-web-payments-use-cases-20180719
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Web Commerce Interest Group
+- name: Web Commerce Interest Group

@@ -1,47 +1,55 @@
 ---
 id: W3CCR-page-visibility-2-20210518
 title:
-  content: Page Visibility Level 2
+- content: Page Visibility Level 2
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CR-page-visibility-2-20210518/
+- content: https://www.w3.org/TR/2021/CR-page-visibility-2-20210518/
   type: src
 type: standard
 docid:
-  id: W3C CR-page-visibility-2-20210518
+- id: W3C CR-page-visibility-2-20210518
   type: W3C
 docnumber: CR-page-visibility-2-20210518
 date:
-  type: published
+- type: published
   value: '2021-05-18'
 contributor:
 - person:
     name:
       completename:
         content: Ilya Grigorik
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Marcos Caceres
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-05-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-page-visibility-2-20171017
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CR-page-visibility-2-20210518
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Web Performance Working Group
+- name: Web Performance Working Group

@@ -1,47 +1,55 @@
 ---
 id: W3CREC-exi-c14n-20180607
 title:
-  content: Canonical EXI
+- content: Canonical EXI
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/REC-exi-c14n-20180607/
+- content: https://www.w3.org/TR/2018/REC-exi-c14n-20180607/
   type: src
 type: standard
 docid:
-  id: W3C REC-exi-c14n-20180607
+- id: W3C REC-exi-c14n-20180607
   type: W3C
 docnumber: REC-exi-c14n-20180607
 date:
-  type: published
+- type: published
   value: '2018-06-07'
 contributor:
 - person:
     name:
       completename:
         content: Daniel Peintner
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Sebastian Käbisch
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-06-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-exi-c14n-20180426
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-exi-c14n-20180607
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Efficient Extensible Interchange Working Group
+- name: Efficient Extensible Interchange Working Group

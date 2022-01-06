@@ -1,47 +1,55 @@
 ---
 id: W3CREC-activitystreams-core-20170523
 title:
-  content: Activity Streams 2.0
+- content: Activity Streams 2.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/
+- content: https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/
   type: src
 type: standard
 docid:
-  id: W3C REC-activitystreams-core-20170523
+- id: W3C REC-activitystreams-core-20170523
   type: W3C
 docnumber: REC-activitystreams-core-20170523
 date:
-  type: published
+- type: published
   value: '2017-05-23'
 contributor:
 - person:
     name:
       completename:
         content: Evan Prodromou
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: James Snell
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-05-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-activitystreams-core-20170413
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-activitystreams-core-20170523
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Social Web Working Group
+- name: Social Web Working Group

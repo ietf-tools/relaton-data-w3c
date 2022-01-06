@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-ct-landscape-20091027
 title:
-  content: Content Transformation Landscape 1.0
+- content: Content Transformation Landscape 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2009/NOTE-ct-landscape-20091027/
+- content: https://www.w3.org/TR/2009/NOTE-ct-landscape-20091027/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-ct-landscape-20091027
+- id: W3C NOTE-ct-landscape-20091027
   type: W3C
 docnumber: NOTE-ct-landscape-20091027
 date:
-  type: published
+- type: published
   value: '2009-10-27'
 contributor:
 - person:
     name:
       completename:
         content: Andrew Swainston
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jo Rabin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2009-10-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-ct-landscape-20071025
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ct-landscape-20091027
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Mobile Web Best Practices Working Group
+- name: Mobile Web Best Practices Working Group

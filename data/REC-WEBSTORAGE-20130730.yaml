@@ -1,40 +1,45 @@
 ---
 id: W3CREC-webstorage-20130730
 title:
-  content: Web Storage
+- content: Web Storage
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/REC-webstorage-20130730/
+- content: https://www.w3.org/TR/2013/REC-webstorage-20130730/
   type: src
 type: standard
 docid:
-  id: W3C REC-webstorage-20130730
+- id: W3C REC-webstorage-20130730
   type: W3C
 docnumber: REC-webstorage-20130730
 date:
-  type: published
+- type: published
   value: '2013-07-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Ian Hickson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-07-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-webstorage-20130409
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-webstorage-20130730
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

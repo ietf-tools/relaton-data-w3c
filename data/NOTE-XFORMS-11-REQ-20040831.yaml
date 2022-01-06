@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-xforms-11-req-20040831
 title:
-  content: XForms 1.1 Requirements
+- content: XForms 1.1 Requirements
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2004/NOTE-xforms-11-req-20040831/
+- content: https://www.w3.org/TR/2004/NOTE-xforms-11-req-20040831/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xforms-11-req-20040831
+- id: W3C NOTE-xforms-11-req-20040831
   type: W3C
 docnumber: NOTE-xforms-11-req-20040831
 date:
-  type: published
+- type: published
   value: '2004-08-31'
 contributor:
 - person:
     name:
       completename:
         content: John Boyer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Roland Merrick
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2004-08-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-xforms-11-req-20040611
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xforms-11-req-20040831
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Forms Working Group
+- name: Forms Working Group

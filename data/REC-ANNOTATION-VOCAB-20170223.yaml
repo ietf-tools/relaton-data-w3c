@@ -1,54 +1,65 @@
 ---
 id: W3CREC-annotation-vocab-20170223
 title:
-  content: Web Annotation Vocabulary
+- content: Web Annotation Vocabulary
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/
+- content: https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/
   type: src
 type: standard
 docid:
-  id: W3C REC-annotation-vocab-20170223
+- id: W3C REC-annotation-vocab-20170223
   type: W3C
 docnumber: REC-annotation-vocab-20170223
 date:
-  type: published
+- type: published
   value: '2017-02-23'
 contributor:
 - person:
     name:
       completename:
         content: Benjamin Young
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Paolo Ciccarese
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Robert Sanderson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-02-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-annotation-vocab-20170117
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-annotation-vocab-20170223
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Annotation Working Group
+- name: Annotation Working Group

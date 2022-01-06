@@ -1,47 +1,55 @@
 ---
 id: W3CWD-proximity-20210903
 title:
-  content: Proximity Sensor
+- content: Proximity Sensor
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-proximity-20210903/
+- content: https://www.w3.org/TR/2021/WD-proximity-20210903/
   type: src
 type: standard
 docid:
-  id: W3C WD-proximity-20210903
+- id: W3C WD-proximity-20210903
   type: W3C
 docnumber: WD-proximity-20210903
 date:
-  type: published
+- type: published
   value: '2021-09-03'
 contributor:
 - person:
     name:
       completename:
         content: Anssi Kostiainen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rijubrata Bhaumik
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-09-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-proximity-20210817
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-proximity-20210903
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Devices and Sensors Working Group
+- name: Devices and Sensors Working Group

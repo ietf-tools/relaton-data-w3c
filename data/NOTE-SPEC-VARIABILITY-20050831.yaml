@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-spec-variability-20050831
 title:
-  content: Variability in Specifications
+- content: Variability in Specifications
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2005/NOTE-spec-variability-20050831/
+- content: https://www.w3.org/TR/2005/NOTE-spec-variability-20050831/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-spec-variability-20050831
+- id: W3C NOTE-spec-variability-20050831
   type: W3C
 docnumber: NOTE-spec-variability-20050831
 date:
-  type: published
+- type: published
   value: '2005-08-31'
 contributor:
 - person:
     name:
       completename:
         content: Dominique Hazaël-Massieux
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Lynne Rosenthal
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2005-08-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-spec-variability-20050629
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-spec-variability-20050831
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Quality Assurance Working Group
+- name: Quality Assurance Working Group

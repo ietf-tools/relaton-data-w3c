@@ -1,47 +1,55 @@
 ---
 id: W3CREC-css-writing-modes-3-20191210
 title:
-  content: CSS Writing Modes Level 3
+- content: CSS Writing Modes Level 3
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/
+- content: https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/
   type: src
 type: standard
 docid:
-  id: W3C REC-css-writing-modes-3-20191210
+- id: W3C REC-css-writing-modes-3-20191210
   type: W3C
 docnumber: REC-css-writing-modes-3-20191210
 date:
-  type: published
+- type: published
   value: '2019-12-10'
 contributor:
 - person:
     name:
       completename:
         content: Elika Etemad
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Koji Ishii
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2019-12-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-css-writing-modes-3-20191024
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-css-writing-modes-3-20191210
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

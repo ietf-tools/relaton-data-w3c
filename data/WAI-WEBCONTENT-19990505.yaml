@@ -1,54 +1,65 @@
 ---
 id: W3CWAI-WEBCONTENT-19990505
 title:
-  content: Web Content Accessibility Guidelines 1.0
+- content: Web Content Accessibility Guidelines 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/
+- content: https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/
   type: src
 type: standard
 docid:
-  id: W3C WAI-WEBCONTENT-19990505
+- id: W3C WAI-WEBCONTENT-19990505
   type: W3C
 docnumber: WAI-WEBCONTENT-19990505
 date:
-  type: published
+- type: published
   value: '1999-05-05'
 contributor:
 - person:
     name:
       completename:
         content: Gregg Vanderheiden
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Ian Jacobs
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Wendy Chisholm
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '1999-05-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WAI-WEBCONTENT-19990324
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: WAI-WEBCONTENT-19990505
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Accessibility Guidelines Working Group
+- name: Accessibility Guidelines Working Group

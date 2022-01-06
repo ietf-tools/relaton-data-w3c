@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-skos-ucr-20090818
 title:
-  content: SKOS Use Cases and Requirements
+- content: SKOS Use Cases and Requirements
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2009/NOTE-skos-ucr-20090818/
+- content: https://www.w3.org/TR/2009/NOTE-skos-ucr-20090818/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-skos-ucr-20090818
+- id: W3C NOTE-skos-ucr-20090818
   type: W3C
 docnumber: NOTE-skos-ucr-20090818
 date:
-  type: published
+- type: published
   value: '2009-08-18'
 contributor:
 - person:
     name:
       completename:
         content: Antoine Isaac
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Daniel Rubin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jon Phipps
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2009-08-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-skos-ucr-20070516
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-skos-ucr-20090818
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Semantic Web Deployment Working Group
+- name: Semantic Web Deployment Working Group

@@ -1,61 +1,75 @@
 ---
 id: W3CREC-html51-20171003
 title:
-  content: HTML 5.1 2nd Edition
+- content: HTML 5.1 2nd Edition
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/REC-html51-20171003/
+- content: https://www.w3.org/TR/2017/REC-html51-20171003/
   type: src
 type: standard
 docid:
-  id: W3C REC-html51-20171003
+- id: W3C REC-html51-20171003
   type: W3C
 docnumber: REC-html51-20171003
 date:
-  type: published
+- type: published
   value: '2017-10-03'
 contributor:
 - person:
     name:
       completename:
         content: Alex Danilo
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Arron Eicholz
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Steve Faulkner
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Travis Leithead
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-10-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-html51-20170803
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-html51-20171003
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

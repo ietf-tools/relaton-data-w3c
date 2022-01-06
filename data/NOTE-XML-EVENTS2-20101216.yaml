@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-xml-events2-20101216
 title:
-  content: XML Events 2
+- content: XML Events 2
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2010/NOTE-xml-events2-20101216/
+- content: https://www.w3.org/TR/2010/NOTE-xml-events2-20101216/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xml-events2-20101216
+- id: W3C NOTE-xml-events2-20101216
   type: W3C
 docnumber: NOTE-xml-events2-20101216
 date:
-  type: published
+- type: published
   value: '2010-12-16'
 contributor:
 - person:
     name:
       completename:
         content: Mark Birbeck
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Roland Merrick
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Shane McCarron
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2010-12-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xml-events-20070216
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xml-events2-20101216
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
 - name: Forms Working Group

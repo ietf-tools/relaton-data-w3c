@@ -1,54 +1,65 @@
 ---
 id: W3CREC-rdf11-concepts-20140225
 title:
-  content: RDF 1.1 Concepts and Abstract Syntax
+- content: RDF 1.1 Concepts and Abstract Syntax
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/
+- content: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/
   type: src
 type: standard
 docid:
-  id: W3C REC-rdf11-concepts-20140225
+- id: W3C REC-rdf11-concepts-20140225
   type: W3C
 docnumber: REC-rdf11-concepts-20140225
 date:
-  type: published
+- type: published
   value: '2014-02-25'
 contributor:
 - person:
     name:
       completename:
         content: David Wood
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Markus Lanthaler
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Richard Cyganiak
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-rdf11-concepts-20140109
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-rdf11-concepts-20140225
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: RDF Working Group
+- name: RDF Working Group

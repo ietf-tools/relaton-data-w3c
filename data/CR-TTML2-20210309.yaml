@@ -1,47 +1,55 @@
 ---
 id: W3CCR-ttml2-20210309
 title:
-  content: Timed Text Markup Language 2 (TTML2) (2nd Edition)
+- content: Timed Text Markup Language 2 (TTML2) (2nd Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CR-ttml2-20210309/
+- content: https://www.w3.org/TR/2021/CR-ttml2-20210309/
   type: src
 type: standard
 docid:
-  id: W3C CR-ttml2-20210309
+- id: W3C CR-ttml2-20210309
   type: W3C
 docnumber: CR-ttml2-20210309
 date:
-  type: published
+- type: published
   value: '2021-03-09'
 contributor:
 - person:
     name:
       completename:
         content: Cyril Concolato
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Glenn Adams
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-03-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-ttml2-20200128
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CR-ttml2-20210309
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Timed Text Working Group
+- name: Timed Text Working Group

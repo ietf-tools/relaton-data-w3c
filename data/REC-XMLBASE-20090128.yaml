@@ -1,47 +1,55 @@
 ---
 id: W3CREC-xmlbase-20090128
 title:
-  content: XML Base (Second Edition)
+- content: XML Base (Second Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2009/REC-xmlbase-20090128/
+- content: https://www.w3.org/TR/2009/REC-xmlbase-20090128/
   type: src
 type: standard
 docid:
-  id: W3C REC-xmlbase-20090128
+- id: W3C REC-xmlbase-20090128
   type: W3C
 docnumber: REC-xmlbase-20090128
 date:
-  type: published
+- type: published
   value: '2009-01-28'
 contributor:
 - person:
     name:
       completename:
         content: Jonathan Marsh
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Richard Tobin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2009-01-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PER-xmlbase-20080320
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-xmlbase-20090128
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: XML Core Working Group
+- name: XML Core Working Group

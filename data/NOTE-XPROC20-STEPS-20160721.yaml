@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-xproc20-steps-20160721
 title:
-  content: 'XProc 2.0: Standard Step Library'
+- content: 'XProc 2.0: Standard Step Library'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2016/NOTE-xproc20-steps-20160721/
+- content: https://www.w3.org/TR/2016/NOTE-xproc20-steps-20160721/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xproc20-steps-20160721
+- id: W3C NOTE-xproc20-steps-20160721
   type: W3C
 docnumber: NOTE-xproc20-steps-20160721
 date:
-  type: published
+- type: published
   value: '2016-07-21'
 contributor:
 - person:
     name:
       completename:
         content: Alex Miłowski
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Henry Thompson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Norman Walsh
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2016-07-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xproc20-steps-20141218
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xproc20-steps-20160721
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: XML Processing Model Working Group
+- name: XML Processing Model Working Group

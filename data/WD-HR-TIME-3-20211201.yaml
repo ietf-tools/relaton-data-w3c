@@ -1,40 +1,45 @@
 ---
 id: W3CWD-hr-time-3-20211201
 title:
-  content: High Resolution Time
+- content: High Resolution Time
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-hr-time-3-20211201/
+- content: https://www.w3.org/TR/2021/WD-hr-time-3-20211201/
   type: src
 type: standard
 docid:
-  id: W3C WD-hr-time-3-20211201
+- id: W3C WD-hr-time-3-20211201
   type: W3C
 docnumber: WD-hr-time-3-20211201
 date:
-  type: published
+- type: published
   value: '2021-12-01'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Yoav Weiss
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-hr-time-3-20211012
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-hr-time-3-20211201
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Web Performance Working Group
+- name: Web Performance Working Group

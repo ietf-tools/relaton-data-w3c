@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-wpub-20190813
 title:
-  content: Web Publications
+- content: Web Publications
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2019/NOTE-wpub-20190813/
+- content: https://www.w3.org/TR/2019/NOTE-wpub-20190813/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-wpub-20190813
+- id: W3C NOTE-wpub-20190813
   type: W3C
 docnumber: NOTE-wpub-20190813
 date:
-  type: published
+- type: published
   value: '2019-08-13'
 contributor:
 - person:
     name:
       completename:
         content: Ivan Herman
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Matt Garrish
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2019-08-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-wpub-20190614
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wpub-20190813
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Audiobooks Working Group
+- name: Audiobooks Working Group

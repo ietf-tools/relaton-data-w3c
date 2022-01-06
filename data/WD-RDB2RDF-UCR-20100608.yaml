@@ -1,43 +1,51 @@
 ---
 id: W3CWD-rdb2rdf-ucr-20100608
 title:
-  content: Use Cases and Requirements for Mapping Relational Databases to RDF
+- content: Use Cases and Requirements for Mapping Relational Databases to RDF
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2010/WD-rdb2rdf-ucr-20100608/
+- content: https://www.w3.org/TR/2010/WD-rdb2rdf-ucr-20100608/
   type: src
 type: standard
 docid:
-  id: W3C WD-rdb2rdf-ucr-20100608
+- id: W3C WD-rdb2rdf-ucr-20100608
   type: W3C
 docnumber: WD-rdb2rdf-ucr-20100608
 date:
-  type: published
+- type: published
   value: '2010-06-08'
 contributor:
 - person:
     name:
       completename:
         content: Eric Prud'hommeaux
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Michael Hausenblas
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2010-06-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-rdb2rdf-ucr-20100608
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: RDB2RDF Working Group
+- name: RDB2RDF Working Group

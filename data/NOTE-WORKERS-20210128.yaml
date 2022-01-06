@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-workers-20210128
 title:
-  content: Web Workers
+- content: Web Workers
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/NOTE-workers-20210128/
+- content: https://www.w3.org/TR/2021/NOTE-workers-20210128/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-workers-20210128
+- id: W3C NOTE-workers-20210128
   type: W3C
 docnumber: NOTE-workers-20210128
 date:
-  type: published
+- type: published
   value: '2021-01-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Ian Hickson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-01-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-workers-20150924
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-workers-20210128
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: HTML Working Group
+- name: HTML Working Group

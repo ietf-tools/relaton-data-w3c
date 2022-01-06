@@ -1,75 +1,95 @@
 ---
 id: W3CWD-gamepad-20210805
 title:
-  content: Gamepad
+- content: Gamepad
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-gamepad-20210805/
+- content: https://www.w3.org/TR/2021/WD-gamepad-20210805/
   type: src
 type: standard
 docid:
-  id: W3C WD-gamepad-20210805
+- id: W3C WD-gamepad-20210805
   type: W3C
 docnumber: WD-gamepad-20210805
 date:
-  type: published
+- type: published
   value: '2021-08-05'
 contributor:
 - person:
     name:
       completename:
         content: Brandon Jones
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: James Hollyer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Matthew Reynolds
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Scott Graham
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Steve Agoston
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Theodore Mielczarek
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-08-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-gamepad-20210803
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-gamepad-20210805
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

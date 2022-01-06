@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-streams-api-20161129
 title:
-  content: Streams API
+- content: Streams API
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2016/NOTE-streams-api-20161129/
+- content: https://www.w3.org/TR/2016/NOTE-streams-api-20161129/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-streams-api-20161129
+- id: W3C NOTE-streams-api-20161129
   type: W3C
 docnumber: NOTE-streams-api-20161129
 date:
-  type: published
+- type: published
   value: '2016-11-29'
 contributor:
 - person:
     name:
       completename:
         content: Feras Moussa
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Takeshi Yoshino
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2016-11-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-streams-api-20141023
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-streams-api-20161129
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Web Applications Working Group
+- name: Web Applications Working Group

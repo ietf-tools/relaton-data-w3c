@@ -1,40 +1,45 @@
 ---
 id: W3CSPSD-html32-20180315
 title:
-  content: HTML 3.2 Reference Specification
+- content: HTML 3.2 Reference Specification
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/SPSD-html32-20180315/
+- content: https://www.w3.org/TR/2018/SPSD-html32-20180315/
   type: src
 type: standard
 docid:
-  id: W3C SPSD-html32-20180315
+- id: W3C SPSD-html32-20180315
   type: W3C
 docnumber: SPSD-html32-20180315
 date:
-  type: published
+- type: published
   value: '2018-03-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Dave Raggett
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-03-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C REC-html32-19970114
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: SPSD-html32-20180315
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: XHTML2 Working Group
+- name: XHTML2 Working Group

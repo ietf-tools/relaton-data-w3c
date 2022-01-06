@@ -1,47 +1,55 @@
 ---
 id: W3CCRD-css-paint-api-1-20211216
 title:
-  content: CSS Painting API Level 1
+- content: CSS Painting API Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CRD-css-paint-api-1-20211216/
+- content: https://www.w3.org/TR/2021/CRD-css-paint-api-1-20211216/
   type: src
 type: standard
 docid:
-  id: W3C CRD-css-paint-api-1-20211216
+- id: W3C CRD-css-paint-api-1-20211216
   type: W3C
 docnumber: CRD-css-paint-api-1-20211216
 date:
-  type: published
+- type: published
   value: '2021-12-16'
 contributor:
 - person:
     name:
       completename:
         content: Dean Jackson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Ian Kilpatrick
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-12-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CR-css-paint-api-1-20180809
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CRD-css-paint-api-1-20211216
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

@@ -1,41 +1,49 @@
 ---
 id: W3CNOTE-xkms-pgp-20051219
 title:
-  content: Using XKMS with PGP
+- content: Using XKMS with PGP
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2005/NOTE-xkms-pgp-20051219/
+- content: https://www.w3.org/TR/2005/NOTE-xkms-pgp-20051219/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xkms-pgp-20051219
+- id: W3C NOTE-xkms-pgp-20051219
   type: W3C
 docnumber: NOTE-xkms-pgp-20051219
 date:
-  type: published
+- type: published
   value: '2005-12-19'
 contributor:
 - person:
     name:
       completename:
         content: José Kahan
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Tommy Lindberg
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2005-12-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xkms-pgp-20051219
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote

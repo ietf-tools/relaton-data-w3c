@@ -1,48 +1,56 @@
 ---
 id: W3CNOTE-owl2-dr-linear-20121211
 title:
-  content: 'OWL 2 Web Ontology Language Data Range Extension: Linear Equations (Second
+- content: 'OWL 2 Web Ontology Language Data Range Extension: Linear Equations (Second
     Edition)'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2012/NOTE-owl2-dr-linear-20121211/
+- content: https://www.w3.org/TR/2012/NOTE-owl2-dr-linear-20121211/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-owl2-dr-linear-20121211
+- id: W3C NOTE-owl2-dr-linear-20121211
   type: W3C
 docnumber: NOTE-owl2-dr-linear-20121211
 date:
-  type: published
+- type: published
   value: '2012-12-11'
 contributor:
 - person:
     name:
       completename:
         content: Bijan Parsia
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Uli Sattler
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2012-12-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-owl2-dr-linear-20121018
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-owl2-dr-linear-20121211
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: OWL Working Group
+- name: OWL Working Group

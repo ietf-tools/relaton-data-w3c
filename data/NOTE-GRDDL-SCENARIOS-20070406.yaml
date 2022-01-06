@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-grddl-scenarios-20070406
 title:
-  content: 'GRDDL Use Cases: Scenarios of extracting RDF data from XML documents'
+- content: 'GRDDL Use Cases: Scenarios of extracting RDF data from XML documents'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2007/NOTE-grddl-scenarios-20070406/
+- content: https://www.w3.org/TR/2007/NOTE-grddl-scenarios-20070406/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-grddl-scenarios-20070406
+- id: W3C NOTE-grddl-scenarios-20070406
   type: W3C
 docnumber: NOTE-grddl-scenarios-20070406
 date:
-  type: published
+- type: published
   value: '2007-04-06'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Fabien Gandon
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2007-04-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-grddl-scenarios-20061002
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-grddl-scenarios-20070406
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: GRDDL Working Group
+- name: GRDDL Working Group

@@ -1,47 +1,55 @@
 ---
 id: W3CREC-sawsdl-20070828
 title:
-  content: Semantic Annotations for WSDL and XML Schema
+- content: Semantic Annotations for WSDL and XML Schema
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2007/REC-sawsdl-20070828/
+- content: https://www.w3.org/TR/2007/REC-sawsdl-20070828/
   type: src
 type: standard
 docid:
-  id: W3C REC-sawsdl-20070828
+- id: W3C REC-sawsdl-20070828
   type: W3C
 docnumber: REC-sawsdl-20070828
 date:
-  type: published
+- type: published
   value: '2007-08-28'
 contributor:
 - person:
     name:
       completename:
         content: Holger Lausen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Joel Farrell
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2007-08-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-sawsdl-20070705
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-sawsdl-20070828
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Semantic Annotations for WSDL Working Group
+- name: Semantic Annotations for WSDL Working Group

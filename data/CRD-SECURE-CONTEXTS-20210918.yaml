@@ -1,40 +1,45 @@
 ---
 id: W3CCRD-secure-contexts-20210918
 title:
-  content: Secure Contexts
+- content: Secure Contexts
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CRD-secure-contexts-20210918/
+- content: https://www.w3.org/TR/2021/CRD-secure-contexts-20210918/
   type: src
 type: standard
 docid:
-  id: W3C CRD-secure-contexts-20210918
+- id: W3C CRD-secure-contexts-20210918
   type: W3C
 docnumber: CRD-secure-contexts-20210918
 date:
-  type: published
+- type: published
   value: '2021-09-18'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Mike West
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-09-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CRD-secure-contexts-20210916
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CRD-secure-contexts-20210918
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Web Application Security Working Group
+- name: Web Application Security Working Group

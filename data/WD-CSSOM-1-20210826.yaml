@@ -1,47 +1,55 @@
 ---
 id: W3CWD-cssom-1-20210826
 title:
-  content: CSS Object Model (CSSOM)
+- content: CSS Object Model (CSSOM)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-cssom-1-20210826/
+- content: https://www.w3.org/TR/2021/WD-cssom-1-20210826/
   type: src
 type: standard
 docid:
-  id: W3C WD-cssom-1-20210826
+- id: W3C WD-cssom-1-20210826
   type: W3C
 docnumber: WD-cssom-1-20210826
 date:
-  type: published
+- type: published
   value: '2021-08-26'
 contributor:
 - person:
     name:
       completename:
         content: Daniel Glazman
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Emilio Cobos Álvarez
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-08-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-cssom-1-20160317
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-cssom-1-20210826
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

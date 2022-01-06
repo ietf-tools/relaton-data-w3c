@@ -1,40 +1,45 @@
 ---
 id: W3CREC-html-rdfa-20130822
 title:
-  content: HTML+RDFa 1.1
+- content: HTML+RDFa 1.1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/REC-html-rdfa-20130822/
+- content: https://www.w3.org/TR/2013/REC-html-rdfa-20130822/
   type: src
 type: standard
 docid:
-  id: W3C REC-html-rdfa-20130822
+- id: W3C REC-html-rdfa-20130822
   type: W3C
 docnumber: REC-html-rdfa-20130822
 date:
-  type: published
+- type: published
   value: '2013-08-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Manu Sporny
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-08-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-html-rdfa-20130625
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-html-rdfa-20130822
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: RDFa Working Group
+- name: RDFa Working Group

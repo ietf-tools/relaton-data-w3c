@@ -1,47 +1,55 @@
 ---
 id: W3CWD-xmlp-am-20030220
 title:
-  content: XML Protocol Abstract Model
+- content: XML Protocol Abstract Model
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2003/WD-xmlp-am-20030220/
+- content: https://www.w3.org/TR/2003/WD-xmlp-am-20030220/
   type: src
 type: standard
 docid:
-  id: W3C WD-xmlp-am-20030220
+- id: W3C WD-xmlp-am-20030220
   type: W3C
 docnumber: WD-xmlp-am-20030220
 date:
-  type: published
+- type: published
   value: '2003-02-20'
 contributor:
 - person:
     name:
       completename:
         content: Mark Jones
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Stuart Williams
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2003-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xmlp-am-20010709
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-xmlp-am-20030220
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: XML Protocol Working Group
+- name: XML Protocol Working Group

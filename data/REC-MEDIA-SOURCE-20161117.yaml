@@ -1,68 +1,85 @@
 ---
 id: W3CREC-media-source-20161117
 title:
-  content: Media Source Extensions™
+- content: Media Source Extensions™
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2016/REC-media-source-20161117/
+- content: https://www.w3.org/TR/2016/REC-media-source-20161117/
   type: src
 type: standard
 docid:
-  id: W3C REC-media-source-20161117
+- id: W3C REC-media-source-20161117
   type: W3C
 docnumber: REC-media-source-20161117
 date:
-  type: published
+- type: published
   value: '2016-11-17'
 contributor:
 - person:
     name:
       completename:
         content: Aaron Colwell
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Adrian Bateman
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jerry Smith
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Mark Watson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Matthew Wolenetz
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2016-11-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-media-source-20161004
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-media-source-20161117
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: HTML Working Group
+- name: HTML Working Group

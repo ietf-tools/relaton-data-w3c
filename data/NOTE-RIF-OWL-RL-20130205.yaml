@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-rif-owl-rl-20130205
 title:
-  content: OWL 2 RL in RIF (Second Edition)
+- content: OWL 2 RL in RIF (Second Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/NOTE-rif-owl-rl-20130205/
+- content: https://www.w3.org/TR/2013/NOTE-rif-owl-rl-20130205/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-rif-owl-rl-20130205
+- id: W3C NOTE-rif-owl-rl-20130205
   type: W3C
 docnumber: NOTE-rif-owl-rl-20130205
 date:
-  type: published
+- type: published
   value: '2013-02-05'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Dave Reynolds
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-02-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-rif-owl-rl-20121211
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-rif-owl-rl-20130205
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: RIF Working Group
+- name: RIF Working Group

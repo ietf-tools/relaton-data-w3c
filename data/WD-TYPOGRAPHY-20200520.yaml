@@ -1,40 +1,45 @@
 ---
 id: W3CWD-typography-20200520
 title:
-  content: Language enablement index
+- content: Language enablement index
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/WD-typography-20200520/
+- content: https://www.w3.org/TR/2020/WD-typography-20200520/
   type: src
 type: standard
 docid:
-  id: W3C WD-typography-20200520
+- id: W3C WD-typography-20200520
   type: W3C
 docnumber: WD-typography-20200520
 date:
-  type: published
+- type: published
   value: '2020-05-20'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Richard Ishida
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-05-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-typography-20190520
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-typography-20200520
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

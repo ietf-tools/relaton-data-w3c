@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-qb4st-20170928
 title:
-  content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
+- content: 'QB4ST: RDF Data Cube extensions for spatio-temporal components'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/NOTE-qb4st-20170928/
+- content: https://www.w3.org/TR/2017/NOTE-qb4st-20170928/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-qb4st-20170928
+- id: W3C NOTE-qb4st-20170928
   type: W3C
 docnumber: NOTE-qb4st-20170928
 date:
-  type: published
+- type: published
   value: '2017-09-28'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Rob Atkinson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-09-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-qb4st-20170418
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-qb4st-20170928
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Spatial Data on the Web Working Group
+- name: Spatial Data on the Web Working Group

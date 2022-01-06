@@ -1,43 +1,51 @@
 ---
 id: W3CNOTE-did-cbor-representation-20210629
 title:
-  content: The Plain CBOR Representation v1.0
+- content: The Plain CBOR Representation v1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/
+- content: https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-did-cbor-representation-20210629
+- id: W3C NOTE-did-cbor-representation-20210629
   type: W3C
 docnumber: NOTE-did-cbor-representation-20210629
 date:
-  type: published
+- type: published
   value: '2021-06-29'
 contributor:
 - person:
     name:
       completename:
         content: Drummond Reed
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Manu Sporny
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-did-cbor-representation-20210629
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Decentralized Identifier Working Group
+- name: Decentralized Identifier Working Group

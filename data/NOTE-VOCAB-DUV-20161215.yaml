@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-vocab-duv-20161215
 title:
-  content: 'Data on the Web Best Practices: Dataset Usage Vocabulary'
+- content: 'Data on the Web Best Practices: Dataset Usage Vocabulary'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2016/NOTE-vocab-duv-20161215/
+- content: https://www.w3.org/TR/2016/NOTE-vocab-duv-20161215/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-vocab-duv-20161215
+- id: W3C NOTE-vocab-duv-20161215
   type: W3C
 docnumber: NOTE-vocab-duv-20161215
 date:
-  type: published
+- type: published
   value: '2016-12-15'
 contributor:
 - person:
     name:
       completename:
         content: Bernadette Farias Loscio
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Eric Stephan
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Sumit Purohit
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2016-12-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-vocab-duv-20160830
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vocab-duv-20161215
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Data on the Web Best Practices Working Group
+- name: Data on the Web Best Practices Working Group

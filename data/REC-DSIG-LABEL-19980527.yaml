@@ -1,59 +1,73 @@
 ---
 id: W3CREC-DSig-label-19980527
 title:
-  content: PICS Signed Labels (DSig) 1.0 Specification
+- content: PICS Signed Labels (DSig) 1.0 Specification
   format: text/plain
 link:
-  content: https://www.w3.org/TR/1998/REC-DSig-label-19980527/
+- content: https://www.w3.org/TR/1998/REC-DSig-label-19980527/
   type: src
 type: standard
 docid:
-  id: W3C REC-DSig-label-19980527
+- id: W3C REC-DSig-label-19980527
   type: W3C
 docnumber: REC-DSig-label-19980527
 date:
-  type: published
+- type: published
   value: '1998-05-27'
 contributor:
 - person:
     name:
       completename:
         content: Brian LaMacchia
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Peter Lipp
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Philip DesAutels
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Yanghua Chu
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '1998-05-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-DSig-label-19980403
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-DSig-label-19980527
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation

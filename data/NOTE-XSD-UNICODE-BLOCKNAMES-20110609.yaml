@@ -1,36 +1,41 @@
 ---
 id: W3CNOTE-xsd-unicode-blocknames-20110609
 title:
-  content: Unicode block names for use in XSD regular expressions
+- content: Unicode block names for use in XSD regular expressions
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2011/NOTE-xsd-unicode-blocknames-20110609/
+- content: https://www.w3.org/TR/2011/NOTE-xsd-unicode-blocknames-20110609/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xsd-unicode-blocknames-20110609
+- id: W3C NOTE-xsd-unicode-blocknames-20110609
   type: W3C
 docnumber: NOTE-xsd-unicode-blocknames-20110609
 date:
-  type: published
+- type: published
   value: '2011-06-09'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Michael Sperberg-McQueen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2011-06-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xsd-unicode-blocknames-20110609
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: XML Schema Working Group
+- name: XML Schema Working Group

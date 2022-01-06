@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-unicode-xml-20170713
 title:
-  content: Unicode in XML and other Markup Languages
+- content: Unicode in XML and other Markup Languages
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2017/NOTE-unicode-xml-20170713/
+- content: https://www.w3.org/TR/2017/NOTE-unicode-xml-20170713/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-unicode-xml-20170713
+- id: W3C NOTE-unicode-xml-20170713
   type: W3C
 docnumber: NOTE-unicode-xml-20170713
 date:
-  type: published
+- type: published
   value: '2017-07-13'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Addison Phillips
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2017-07-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C NOTE-unicode-xml-20160503
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-unicode-xml-20170713
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

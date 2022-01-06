@@ -1,54 +1,65 @@
 ---
 id: W3CNOTE-csvw-ucr-20160225
 title:
-  content: 'CSV on the Web: Use Cases and Requirements'
+- content: 'CSV on the Web: Use Cases and Requirements'
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2016/NOTE-csvw-ucr-20160225/
+- content: https://www.w3.org/TR/2016/NOTE-csvw-ucr-20160225/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-csvw-ucr-20160225
+- id: W3C NOTE-csvw-ucr-20160225
   type: W3C
 docnumber: NOTE-csvw-ucr-20160225
 date:
-  type: published
+- type: published
   value: '2016-02-25'
 contributor:
 - person:
     name:
       completename:
         content: Davide Ceolin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Eric Stephan
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jeremy Tandy
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2016-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-csvw-ucr-20140701
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-csvw-ucr-20160225
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: CSV on the Web Working Group
+- name: CSV on the Web Working Group

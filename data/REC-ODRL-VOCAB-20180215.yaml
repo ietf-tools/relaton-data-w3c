@@ -1,61 +1,75 @@
 ---
 id: W3CREC-odrl-vocab-20180215
 title:
-  content: ODRL Vocabulary & Expression 2.2
+- content: ODRL Vocabulary & Expression 2.2
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/
+- content: https://www.w3.org/TR/2018/REC-odrl-vocab-20180215/
   type: src
 type: standard
 docid:
-  id: W3C REC-odrl-vocab-20180215
+- id: W3C REC-odrl-vocab-20180215
   type: W3C
 docnumber: REC-odrl-vocab-20180215
 date:
-  type: published
+- type: published
   value: '2018-02-15'
 contributor:
 - person:
     name:
       completename:
         content: Michael Steidl
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Renato Iannella
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Stuart Myles
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Víctor Rodríguez-Doncel
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-02-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-odrl-vocab-20180104
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-odrl-vocab-20180215
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Permissions and Obligations Expression Working Group
+- name: Permissions and Obligations Expression Working Group

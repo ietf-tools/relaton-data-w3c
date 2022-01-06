@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-dd-ecosystem-20071031
 title:
-  content: Device Description Ecosystem 1.0
+- content: Device Description Ecosystem 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2007/NOTE-dd-ecosystem-20071031/
+- content: https://www.w3.org/TR/2007/NOTE-dd-ecosystem-20071031/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-dd-ecosystem-20071031
+- id: W3C NOTE-dd-ecosystem-20071031
   type: W3C
 docnumber: NOTE-dd-ecosystem-20071031
 date:
-  type: published
+- type: published
   value: '2007-10-31'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Rotan Hanrahan
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2007-10-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-dd-ecosystem-20051121
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dd-ecosystem-20071031
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Mobile Web Initiative Device Description Working Group
+- name: Mobile Web Initiative Device Description Working Group

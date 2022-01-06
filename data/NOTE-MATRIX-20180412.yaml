@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-matrix-20180412
 title:
-  content: DOMMatrix interface
+- content: DOMMatrix interface
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2018/NOTE-matrix-20180412/
+- content: https://www.w3.org/TR/2018/NOTE-matrix-20180412/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-matrix-20180412
+- id: W3C NOTE-matrix-20180412
   type: W3C
 docnumber: NOTE-matrix-20180412
 date:
-  type: published
+- type: published
   value: '2018-04-12'
 contributor:
 - person:
     name:
       completename:
         content: Dirk Schulze
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rik Cabanier
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2018-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-matrix-20130919
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-matrix-20180412
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

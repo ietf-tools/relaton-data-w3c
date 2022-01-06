@@ -1,38 +1,43 @@
 ---
 id: W3CREC-rdf-syntax-19990222
 title:
-  content: Resource Description Framework (RDF) Model and Syntax Specification
+- content: Resource Description Framework (RDF) Model and Syntax Specification
   format: text/plain
 link:
-  content: https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/
+- content: https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/
   type: src
 type: standard
 docid:
-  id: W3C REC-rdf-syntax-19990222
+- id: W3C REC-rdf-syntax-19990222
   type: W3C
 docnumber: REC-rdf-syntax-19990222
 date:
-  type: published
+- type: published
   value: '1999-02-22'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Ora Lassila
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '1999-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-rdf-syntax-19990105
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-rdf-syntax-19990222
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation

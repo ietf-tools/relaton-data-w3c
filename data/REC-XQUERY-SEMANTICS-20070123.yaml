@@ -1,89 +1,115 @@
 ---
 id: W3CREC-xquery-semantics-20070123
 title:
-  content: XQuery 1.0 and XPath 2.0 Formal Semantics
+- content: XQuery 1.0 and XPath 2.0 Formal Semantics
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2007/REC-xquery-semantics-20070123/
+- content: https://www.w3.org/TR/2007/REC-xquery-semantics-20070123/
   type: src
 type: standard
 docid:
-  id: W3C REC-xquery-semantics-20070123
+- id: W3C REC-xquery-semantics-20070123
   type: W3C
 docnumber: REC-xquery-semantics-20070123
 date:
-  type: published
+- type: published
   value: '2007-01-23'
 contributor:
 - person:
     name:
       completename:
         content: Ashok Malhotra
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Denise Draper
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Jerome Simeon
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Kristoffer Rose
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Mary Fernandez
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Michael Rys
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Peter Fankhauser
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Philip Wadler
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2007-01-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-xquery-semantics-20061121
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-xquery-semantics-20070123
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
 - name: Extensible Stylesheet Language Family

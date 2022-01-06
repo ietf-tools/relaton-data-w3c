@@ -1,54 +1,65 @@
 ---
 id: W3CWD-webcodecs-20211216
 title:
-  content: WebCodecs
+- content: WebCodecs
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-webcodecs-20211216/
+- content: https://www.w3.org/TR/2021/WD-webcodecs-20211216/
   type: src
 type: standard
 docid:
-  id: W3C WD-webcodecs-20211216
+- id: W3C WD-webcodecs-20211216
   type: W3C
 docnumber: WD-webcodecs-20211216
 date:
-  type: published
+- type: published
   value: '2021-12-16'
 contributor:
 - person:
     name:
       completename:
         content: Bernard Aboba
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Chris Cunningham
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Paul Adenot
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-12-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-webcodecs-20211129
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-webcodecs-20211216
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Media Working Group
+- name: Media Working Group

@@ -1,47 +1,55 @@
 ---
 id: W3CNOTE-webpayments-http-messages-20200721
 title:
-  content: Web Payments HTTP Messages 1.0
+- content: Web Payments HTTP Messages 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/NOTE-webpayments-http-messages-20200721/
+- content: https://www.w3.org/TR/2020/NOTE-webpayments-http-messages-20200721/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-webpayments-http-messages-20200721
+- id: W3C NOTE-webpayments-http-messages-20200721
   type: W3C
 docnumber: NOTE-webpayments-http-messages-20200721
 date:
-  type: published
+- type: published
   value: '2020-07-21'
 contributor:
 - person:
     name:
       completename:
         content: Manu Sporny
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Shane McCarron
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-07-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-webpayments-http-messages-20160915
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-webpayments-http-messages-20200721
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Web Payments Working Group
+- name: Web Payments Working Group

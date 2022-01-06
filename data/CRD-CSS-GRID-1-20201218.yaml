@@ -1,61 +1,75 @@
 ---
 id: W3CCRD-css-grid-1-20201218
 title:
-  content: CSS Grid Layout Module Level 1
+- content: CSS Grid Layout Module Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/
+- content: https://www.w3.org/TR/2020/CRD-css-grid-1-20201218/
   type: src
 type: standard
 docid:
-  id: W3C CRD-css-grid-1-20201218
+- id: W3C CRD-css-grid-1-20201218
   type: W3C
 docnumber: CRD-css-grid-1-20201218
 date:
-  type: published
+- type: published
   value: '2020-12-18'
 contributor:
 - person:
     name:
       completename:
         content: Elika Etemad
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Oriol Brufau
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rossen Atanassov
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Tab Atkins Jr.
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2020-12-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CRD-css-grid-1-20201021
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CRD-css-grid-1-20201218
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Cascading Style Sheets Working Group
+- name: Cascading Style Sheets Working Group

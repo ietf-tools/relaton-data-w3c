@@ -1,47 +1,55 @@
 ---
 id: W3CREC-rif-fld-20130205
 title:
-  content: RIF Framework for Logic Dialects (Second Edition)
+- content: RIF Framework for Logic Dialects (Second Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/REC-rif-fld-20130205/
+- content: https://www.w3.org/TR/2013/REC-rif-fld-20130205/
   type: src
 type: standard
 docid:
-  id: W3C REC-rif-fld-20130205
+- id: W3C REC-rif-fld-20130205
   type: W3C
 docnumber: REC-rif-fld-20130205
 date:
-  type: published
+- type: published
   value: '2013-02-05'
 contributor:
 - person:
     name:
       completename:
         content: Harold Boley
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Michael Kifer
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-02-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PER-rif-fld-20121211
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-rif-fld-20130205
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: RIF Working Group
+- name: RIF Working Group

@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-xmlp-scenarios-20030730
 title:
-  content: SOAP Version 1.2 Usage Scenarios
+- content: SOAP Version 1.2 Usage Scenarios
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2003/NOTE-xmlp-scenarios-20030730/
+- content: https://www.w3.org/TR/2003/NOTE-xmlp-scenarios-20030730/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-xmlp-scenarios-20030730
+- id: W3C NOTE-xmlp-scenarios-20030730
   type: W3C
 docnumber: NOTE-xmlp-scenarios-20030730
 date:
-  type: published
+- type: published
   value: '2003-07-30'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: John Ibbotson
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2003-07-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-xmlp-scenarios-20020626
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xmlp-scenarios-20030730
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: XML Protocol Working Group
+- name: XML Protocol Working Group

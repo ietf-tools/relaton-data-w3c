@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-html-data-guide-20120308
 title:
-  content: HTML Data Guide
+- content: HTML Data Guide
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2012/NOTE-html-data-guide-20120308/
+- content: https://www.w3.org/TR/2012/NOTE-html-data-guide-20120308/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-html-data-guide-20120308
+- id: W3C NOTE-html-data-guide-20120308
   type: W3C
 docnumber: NOTE-html-data-guide-20120308
 date:
-  type: published
+- type: published
   value: '2012-03-08'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Jeni Tennison
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2012-03-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-html-data-guide-20120112
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-data-guide-20120308
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Semantic Web Interest Group
+- name: Semantic Web Interest Group

@@ -1,54 +1,65 @@
 ---
 id: W3CWD-webxr-ar-module-1-20211224
 title:
-  content: WebXR Augmented Reality Module - Level 1
+- content: WebXR Augmented Reality Module - Level 1
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-webxr-ar-module-1-20211224/
+- content: https://www.w3.org/TR/2021/WD-webxr-ar-module-1-20211224/
   type: src
 type: standard
 docid:
-  id: W3C WD-webxr-ar-module-1-20211224
+- id: W3C WD-webxr-ar-module-1-20211224
   type: W3C
 docnumber: WD-webxr-ar-module-1-20211224
 date:
-  type: published
+- type: published
   value: '2021-12-24'
 contributor:
 - person:
     name:
       completename:
         content: Brandon Jones
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Manish Goregaokar
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Rik Cabanier
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-12-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-webxr-ar-module-1-20211223
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-webxr-ar-module-1-20211224
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Immersive Web Working Group
+- name: Immersive Web Working Group

@@ -1,54 +1,65 @@
 ---
 id: W3CREC-rif-prd-20130205
 title:
-  content: RIF Production Rule Dialect (Second Edition)
+- content: RIF Production Rule Dialect (Second Edition)
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2013/REC-rif-prd-20130205/
+- content: https://www.w3.org/TR/2013/REC-rif-prd-20130205/
   type: src
 type: standard
 docid:
-  id: W3C REC-rif-prd-20130205
+- id: W3C REC-rif-prd-20130205
   type: W3C
 docnumber: REC-rif-prd-20130205
 date:
-  type: published
+- type: published
   value: '2013-02-05'
 contributor:
 - person:
     name:
       completename:
         content: Adrian Paschke
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Christian de Sainte Marie
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Gary Hallmark
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2013-02-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PER-rif-prd-20121211
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-rif-prd-20130205
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: RIF Working Group
+- name: RIF Working Group

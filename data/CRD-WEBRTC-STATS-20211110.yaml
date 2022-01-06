@@ -1,54 +1,65 @@
 ---
 id: W3CCRD-webrtc-stats-20211110
 title:
-  content: Identifiers for WebRTC's Statistics API
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/
+- content: https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/
   type: src
 type: standard
 docid:
-  id: W3C CRD-webrtc-stats-20211110
+- id: W3C CRD-webrtc-stats-20211110
   type: W3C
 docnumber: CRD-webrtc-stats-20211110
 date:
-  type: published
+- type: published
   value: '2021-11-10'
 contributor:
 - person:
     name:
       completename:
         content: Harald Alvestrand
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Henrik Boström
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Varun Singh
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-11-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C CRD-webrtc-stats-20210715
 series:
-  title:
+- title:
     content: W3C CR
     format: text/plain
   number: CRD-webrtc-stats-20211110
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: candidateRecommendation
 editorialgroup:
-  name: Web Real-Time Communications Working Group
+- name: Web Real-Time Communications Working Group

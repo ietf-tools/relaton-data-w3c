@@ -1,43 +1,51 @@
 ---
 id: W3CNOTE-rdf11-testcases-20140225
 title:
-  content: RDF 1.1 Test Cases
+- content: RDF 1.1 Test Cases
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/
+- content: https://www.w3.org/TR/2014/NOTE-rdf11-testcases-20140225/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-rdf11-testcases-20140225
+- id: W3C NOTE-rdf11-testcases-20140225
   type: W3C
 docnumber: NOTE-rdf11-testcases-20140225
 date:
-  type: published
+- type: published
   value: '2014-02-25'
 contributor:
 - person:
     name:
       completename:
         content: Gregg Kellogg
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Markus Lanthaler
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2014-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-rdf11-testcases-20140225
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: RDF Working Group
+- name: RDF Working Group

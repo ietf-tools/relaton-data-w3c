@@ -1,47 +1,55 @@
 ---
 id: W3CREC-mobileOK-basic10-tests-20081208
 title:
-  content: W3C mobileOK Basic Tests 1.0
+- content: W3C mobileOK Basic Tests 1.0
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2008/REC-mobileOK-basic10-tests-20081208/
+- content: https://www.w3.org/TR/2008/REC-mobileOK-basic10-tests-20081208/
   type: src
 type: standard
 docid:
-  id: W3C REC-mobileOK-basic10-tests-20081208
+- id: W3C REC-mobileOK-basic10-tests-20081208
   type: W3C
 docnumber: REC-mobileOK-basic10-tests-20081208
 date:
-  type: published
+- type: published
   value: '2008-12-08'
 contributor:
 - person:
     name:
       completename:
         content: Jo Rabin
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Sean Owen
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2008-12-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C PR-mobileOK-basic10-tests-20081103
 series:
-  title:
+- title:
     content: W3C REC
     format: text/plain
   number: REC-mobileOK-basic10-tests-20081208
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: recommendation
 editorialgroup:
-  name: Mobile Web Best Practices Working Group
+- name: Mobile Web Best Practices Working Group

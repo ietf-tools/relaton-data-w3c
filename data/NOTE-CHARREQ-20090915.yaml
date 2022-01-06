@@ -1,40 +1,45 @@
 ---
 id: W3CNOTE-charreq-20090915
 title:
-  content: Requirements for String Identity Matching and String Indexing
+- content: Requirements for String Identity Matching and String Indexing
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2009/NOTE-charreq-20090915/
+- content: https://www.w3.org/TR/2009/NOTE-charreq-20090915/
   type: src
 type: standard
 docid:
-  id: W3C NOTE-charreq-20090915
+- id: W3C NOTE-charreq-20090915
   type: W3C
 docnumber: NOTE-charreq-20090915
 date:
-  type: published
+- type: published
   value: '2009-09-15'
 contributor:
-  person:
+- person:
     name:
       completename:
         content: Martin Dürst
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2009-09-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-charreq-19980710
 series:
-  title:
+- title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-charreq-20090915
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: groupNote
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

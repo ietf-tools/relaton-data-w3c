@@ -1,47 +1,55 @@
 ---
 id: W3CWD-deva-gap-20210525
 title:
-  content: Devanagari Gap Analysis
+- content: Devanagari Gap Analysis
   format: text/plain
 link:
-  content: https://www.w3.org/TR/2021/WD-deva-gap-20210525/
+- content: https://www.w3.org/TR/2021/WD-deva-gap-20210525/
   type: src
 type: standard
 docid:
-  id: W3C WD-deva-gap-20210525
+- id: W3C WD-deva-gap-20210525
   type: W3C
 docnumber: WD-deva-gap-20210525
 date:
-  type: published
+- type: published
   value: '2021-05-25'
 contributor:
 - person:
     name:
       completename:
         content: Akshat Joshi
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 - person:
     name:
       completename:
         content: Richard Ishida
-        language: en
-        script: Latn
-  role: editor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
 revdate: '2021-05-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 relation:
-  type: obsoletes
+- type: obsoletes
   bibitem:
     formattedref: W3C WD-deva-gap-20210331
 series:
-  title:
+- title:
     content: W3C WD
     format: text/plain
   number: WD-deva-gap-20210525
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 doctype: workingDraft
 editorialgroup:
-  name: Internationalization Working Group
+- name: Internationalization Working Group

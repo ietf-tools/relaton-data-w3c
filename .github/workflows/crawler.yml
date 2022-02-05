@@ -21,7 +21,7 @@ jobs:
           gem install relaton-cli
       - name: Fetch documents
         run: |
-          rm -f data/*
+          rm -rf data
           relaton fetch-data w3c-rdf
       - name: Push data
         run: |

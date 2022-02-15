@@ -1,20 +1,20 @@
 ---
-id: W3CWD-webxr-depth-sensing-1-20210831
+id: W3CWD-webxr-depth-sensing-1-20220215
 title:
 - content: WebXR Depth Sensing Module
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/
+- content: https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/
   type: src
 type: standard
 docid:
-- id: W3C WD-webxr-depth-sensing-1-20210831
+- id: W3C WD-webxr-depth-sensing-1-20220215
   type: W3C
   primary: true
-docnumber: WD-webxr-depth-sensing-1-20210831
+docnumber: WD-webxr-depth-sensing-1-20220215
 date:
 - type: published
-  value: '2021-08-31'
+  value: '2022-02-15'
 contributor:
 - person:
     name:
@@ -26,17 +26,21 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2021-08-31'
+revdate: '2022-02-15'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-webxr-depth-sensing-1-20210831
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxr-depth-sensing-1-20210831
-fetched: '2022-02-14'
+  number: WD-webxr-depth-sensing-1-20220215
+fetched: '2022-02-15'
 doctype: workingDraft
 editorialgroup:
 - name: Immersive Web Working Group

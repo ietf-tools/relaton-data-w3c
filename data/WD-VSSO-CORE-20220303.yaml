@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220302
+id: W3CWD-vsso-core-20220303
 title:
-- content: WebGPU
+- content: 'VSSo Core: Vehicle Signal Specification Core Ontology'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220302/
+- content: https://www.w3.org/TR/2022/WD-vsso-core-20220303/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220302
+- id: W3C WD-vsso-core-20220303
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220302
+docnumber: WD-vsso-core-20220303
 date:
 - type: published
-  value: '2022-03-02'
+  value: '2022-03-03'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Benjamin Klotz
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Daniel Wilms
         language:
         - en
         script:
@@ -39,28 +39,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Raphaël Troncy
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-02'
+revdate: '2022-03-03'
 language:
 - en
 script:
 - Latn
-relation:
-- type: obsoletes
-  bibitem:
-    formattedref: W3C WD-webgpu-20220225
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220302
-fetched: '2022-03-02'
+  number: WD-vsso-core-20220303
+fetched: '2022-03-03'
 doctype: workingDraft
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Automotive Working Group

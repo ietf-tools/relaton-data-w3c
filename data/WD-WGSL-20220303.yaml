@@ -1,25 +1,25 @@
 ---
-id: W3CWD-dpub-aria-1.1-20220215
+id: W3CWD-WGSL-20220303
 title:
-- content: Digital Publishing WAI-ARIA Module 1.1
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220215/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220303/
   type: src
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20220215
+- id: W3C WD-WGSL-20220303
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20220215
+docnumber: WD-WGSL-20220303
 date:
 - type: published
-  value: '2022-02-15'
+  value: '2022-03-03'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: David Neto
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-02-15'
+revdate: '2022-03-03'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-dpub-aria-1.1-20220120
+    formattedref: W3C WD-WGSL-20220302
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aria-1.1-20220215
-fetched: '2022-03-02'
+  number: WD-WGSL-20220303
+fetched: '2022-03-03'
 doctype: workingDraft
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: GPU for the Web Working Group

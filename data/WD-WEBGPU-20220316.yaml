@@ -1,25 +1,25 @@
 ---
-id: W3CWD-web-share-20211122
+id: W3CWD-webgpu-20220316
 title:
-- content: Web Share API
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-web-share-20211122/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220316/
   type: src
 type: standard
 docid:
-- id: W3C WD-web-share-20211122
+- id: W3C WD-webgpu-20220316
   type: W3C
   primary: true
-docnumber: WD-web-share-20211122
+docnumber: WD-webgpu-20220316
 date:
 - type: published
-  value: '2021-11-22'
+  value: '2022-03-16'
 contributor:
 - person:
     name:
       completename:
-        content: Eric Willigers
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Dzmitry Malyshau
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Giuca
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-11-22'
+revdate: '2022-03-16'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-web-share-20211013
+    formattedref: W3C WD-webgpu-20220315
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-web-share-20211122
-fetched: '2022-03-16'
+  number: WD-webgpu-20220316
+fetched: '2022-03-18'
 doctype: workingDraft
 editorialgroup:
-- name: Web Applications Working Group
+- name: GPU for the Web Working Group

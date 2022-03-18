@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-rs-33-20220315
+id: W3CWD-web-share-20220316
 title:
-- content: EPUB Reading Systems 3.3
+- content: Web Share API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-rs-33-20220315/
+- content: https://www.w3.org/TR/2022/WD-web-share-20220316/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-rs-33-20220315
+- id: W3C WD-web-share-20220316
   type: W3C
   primary: true
-docnumber: WD-epub-rs-33-20220315
+docnumber: WD-web-share-20220316
 date:
 - type: published
-  value: '2022-03-15'
+  value: '2022-03-16'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Eric Willigers
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Matt Giuca
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-15'
+revdate: '2022-03-16'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-rs-33-20220310
+    formattedref: W3C WD-web-share-20211122
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-epub-rs-33-20220315
-fetched: '2022-03-16'
+  number: WD-web-share-20220316
+fetched: '2022-03-18'
 doctype: workingDraft
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Applications Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-geolocation-20220314
+id: W3CWD-pointerevents3-20220316
 title:
-- content: Geolocation API
+- content: Pointer Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-geolocation-20220314/
+- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220316/
   type: src
 type: standard
 docid:
-- id: W3C CRD-geolocation-20220314
+- id: W3C WD-pointerevents3-20220316
   type: W3C
   primary: true
-docnumber: CRD-geolocation-20220314
+docnumber: WD-pointerevents3-20220316
 date:
 - type: published
-  value: '2022-03-14'
+  value: '2022-03-16'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Navid Zolghadr
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Reilly Grant
+        content: Patrick Lauke
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-14'
+revdate: '2022-03-16'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-geolocation-20220307
+    formattedref: W3C WD-pointerevents3-20220302
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-geolocation-20220314
-fetched: '2022-03-16'
-doctype: candidateRecommendation
+  number: WD-pointerevents3-20220316
+fetched: '2022-03-18'
+doctype: workingDraft
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Pointer Events Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-push-api-20211103
+id: W3CWD-WGSL-20220323
 title:
-- content: Push API
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-push-api-20211103/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220323/
   type: src
 type: standard
 docid:
-- id: W3C WD-push-api-20211103
+- id: W3C WD-WGSL-20220323
   type: W3C
   primary: true
-docnumber: WD-push-api-20211103
+docnumber: WD-WGSL-20220323
 date:
 - type: published
-  value: '2021-11-03'
+  value: '2022-03-23'
 contributor:
 - person:
     name:
       completename:
-        content: Martin Thomson
+        content: David Neto
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Beverloo
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-11-03'
+revdate: '2022-03-23'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-push-api-20211028
+    formattedref: W3C WD-WGSL-20220321
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-push-api-20211103
-fetched: '2022-03-22'
+  number: WD-WGSL-20220323
+fetched: '2022-03-23'
 doctype: workingDraft
 editorialgroup:
-- name: Web Applications Working Group
+- name: GPU for the Web Working Group

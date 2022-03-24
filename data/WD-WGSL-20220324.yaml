@@ -1,25 +1,25 @@
 ---
-id: W3CWD-miniapp-lifecycle-20220224
+id: W3CWD-WGSL-20220324
 title:
-- content: MiniApp Lifecycle
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220224/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220324/
   type: src
 type: standard
 docid:
-- id: W3C WD-miniapp-lifecycle-20220224
+- id: W3C WD-WGSL-20220324
   type: W3C
   primary: true
-docnumber: WD-miniapp-lifecycle-20220224
+docnumber: WD-WGSL-20220324
 date:
 - type: published
-  value: '2022-02-24'
+  value: '2022-03-24'
 contributor:
 - person:
     name:
       completename:
-        content: Haoyang Xu
+        content: David Neto
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Qing An
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-02-24'
+revdate: '2022-03-24'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-miniapp-lifecycle-20220223
+    formattedref: W3C WD-WGSL-20220323
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-miniapp-lifecycle-20220224
-fetched: '2022-03-23'
+  number: WD-WGSL-20220324
+fetched: '2022-03-24'
 doctype: workingDraft
 editorialgroup:
-- name: MiniApps Working Group
+- name: GPU for the Web Working Group

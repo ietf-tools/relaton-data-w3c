@@ -1,17 +1,17 @@
 ---
-id: W3CWD-WGSL-20220325
+id: W3CWD-webxr-20220325
 title:
-- content: WebGPU Shading Language
+- content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220325/
+- content: https://www.w3.org/TR/2022/WD-webxr-20220325/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220325
+- id: W3C WD-webxr-20220325
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220325
+docnumber: WD-webxr-20220325
 date:
 - type: published
   value: '2022-03-25'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,7 +29,17 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Manish Goregaokar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rik Cabanier
         language:
         - en
         script:
@@ -44,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-WGSL-20220324
+    formattedref: W3C WD-webxr-20220314
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220325
-fetched: '2022-03-25'
+  number: WD-webxr-20220325
+fetched: '2022-03-26'
 doctype: workingDraft
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Immersive Web Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-rs-33-20220330
+id: W3CCR-webxr-20220331
 title:
-- content: EPUB Reading Systems 3.3
+- content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-rs-33-20220330/
+- content: https://www.w3.org/TR/2022/CR-webxr-20220331/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-rs-33-20220330
+- id: W3C CR-webxr-20220331
   type: W3C
   primary: true
-docnumber: WD-epub-rs-33-20220330
+docnumber: CR-webxr-20220331
 date:
 - type: published
-  value: '2022-03-30'
+  value: '2022-03-31'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Manish Goregaokar
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Rik Cabanier
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-30'
+revdate: '2022-03-31'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-rs-33-20220329
+    formattedref: W3C WD-webxr-20220330
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-epub-rs-33-20220330
-fetched: '2022-03-30'
-doctype: workingDraft
+  number: CR-webxr-20220331
+fetched: '2022-03-31'
+doctype: candidateRecommendation
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Immersive Web Working Group

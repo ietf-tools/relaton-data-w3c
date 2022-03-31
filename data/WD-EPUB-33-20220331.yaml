@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220329
+id: W3CWD-epub-33-20220331
 title:
-- content: WebGPU
+- content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220329/
+- content: https://www.w3.org/TR/2022/WD-epub-33-20220331/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220329
+- id: W3C WD-epub-33-20220331
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220329
+docnumber: WD-epub-33-20220331
 date:
 - type: published
-  value: '2022-03-29'
+  value: '2022-03-31'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Dave Cramer
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Ivan Herman
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-29'
+revdate: '2022-03-31'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220328
+    formattedref: W3C WD-epub-33-20220330
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220329
-fetched: '2022-03-30'
+  number: WD-epub-33-20220331
+fetched: '2022-03-31'
 doctype: workingDraft
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: EPUB 3 Working Group

@@ -1,31 +1,21 @@
 ---
-id: W3CWD-epub-33-20220331
+id: W3CNOTE-epub-ssv-11-20220331
 title:
-- content: EPUB 3.3
+- content: EPUB 3 Structural Semantics Vocabulary 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-33-20220331/
+- content: https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220331/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-33-20220331
+- id: W3C NOTE-epub-ssv-11-20220331
   type: W3C
   primary: true
-docnumber: WD-epub-33-20220331
+docnumber: NOTE-epub-ssv-11-20220331
 date:
 - type: published
   value: '2022-03-31'
 contributor:
-- person:
-    name:
-      completename:
-        content: Dave Cramer
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
 - person:
     name:
       completename:
@@ -54,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-33-20220330
+    formattedref: W3C NOTE-epub-ssv-11-20220310
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-epub-33-20220331
-fetched: '2022-03-31'
-doctype: workingDraft
+  number: NOTE-epub-ssv-11-20220331
+fetched: '2022-04-01'
+doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

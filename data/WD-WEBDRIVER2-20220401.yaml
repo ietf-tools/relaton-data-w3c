@@ -1,17 +1,17 @@
 ---
-id: W3CWD-epub-33-20220401
+id: W3CWD-webdriver2-20220401
 title:
-- content: EPUB 3.3
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-33-20220401/
+- content: https://www.w3.org/TR/2022/WD-webdriver2-20220401/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-33-20220401
+- id: W3C WD-webdriver2-20220401
   type: W3C
   primary: true
-docnumber: WD-epub-33-20220401
+docnumber: WD-webdriver2-20220401
 date:
 - type: published
   value: '2022-04-01'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: David Burns
         language:
         - en
         script:
@@ -29,17 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Matt Garrish
+        content: Simon Stewart
         language:
         - en
         script:
@@ -54,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-33-20220331
+    formattedref: W3C WD-webdriver2-20220315
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-epub-33-20220401
-fetched: '2022-04-01'
+  number: WD-webdriver2-20220401
+fetched: '2022-04-02'
 doctype: workingDraft
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Browser Testing and Tools Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-33-20220404
+id: W3CWD-reporting-1-20220405
 title:
-- content: EPUB 3.3
+- content: Reporting API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-33-20220404/
+- content: https://www.w3.org/TR/2022/WD-reporting-1-20220405/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-33-20220404
+- id: W3C WD-reporting-1-20220405
   type: W3C
   primary: true
-docnumber: WD-epub-33-20220404
+docnumber: WD-reporting-1-20220405
 date:
 - type: published
-  value: '2022-04-04'
+  value: '2022-04-05'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Douglas Creager
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Ian Clelland
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-04'
+revdate: '2022-04-05'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-33-20220403
+    formattedref: W3C WD-reporting-1-20180925
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-epub-33-20220404
-fetched: '2022-04-04'
+  number: WD-reporting-1-20220405
+fetched: '2022-04-05'
 doctype: workingDraft
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Performance Working Group

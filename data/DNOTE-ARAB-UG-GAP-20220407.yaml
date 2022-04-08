@@ -1,20 +1,20 @@
 ---
-id: W3CDNOTE-arab-ks-gap-20220329
+id: W3CDNOTE-arab-ug-gap-20220407
 title:
-- content: Perso-arabic Kashmiri Gap Analysis
+- content: Uighur Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-arab-ks-gap-20220329/
+- content: https://www.w3.org/TR/2022/DNOTE-arab-ug-gap-20220407/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-arab-ks-gap-20220329
+- id: W3C DNOTE-arab-ug-gap-20220407
   type: W3C
   primary: true
-docnumber: DNOTE-arab-ks-gap-20220329
+docnumber: DNOTE-arab-ug-gap-20220407
 date:
 - type: published
-  value: '2022-03-29'
+  value: '2022-04-07'
 contributor:
 - person:
     name:
@@ -26,17 +26,21 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-03-29'
+revdate: '2022-04-07'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C DNOTE-arab-ug-gap-20220329
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-arab-ks-gap-20220329
-fetched: '2022-04-07'
+  number: DNOTE-arab-ug-gap-20220407
+fetched: '2022-04-08'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

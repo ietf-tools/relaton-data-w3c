@@ -1,25 +1,25 @@
 ---
-id: W3CWD-picture-in-picture-20210830
+id: W3CWD-resource-timing-2-20220411
 title:
-- content: Picture-in-Picture
+- content: Resource Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-picture-in-picture-20210830/
+- content: https://www.w3.org/TR/2022/WD-resource-timing-2-20220411/
   type: src
 type: standard
 docid:
-- id: W3C WD-picture-in-picture-20210830
+- id: W3C WD-resource-timing-2-20220411
   type: W3C
   primary: true
-docnumber: WD-picture-in-picture-20210830
+docnumber: WD-resource-timing-2-20220411
 date:
 - type: published
-  value: '2021-08-30'
+  value: '2022-04-11'
 contributor:
 - person:
     name:
       completename:
-        content: Francois Beaufort
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mounir Lamouri
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-08-30'
+revdate: '2022-04-11'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-picture-in-picture-20210604
+    formattedref: W3C WD-resource-timing-2-20220127
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-picture-in-picture-20210830
-fetched: '2022-04-10'
+  number: WD-resource-timing-2-20220411
+fetched: '2022-04-11'
 doctype: workingDraft
 editorialgroup:
-- name: Media Working Group
+- name: Web Performance Working Group

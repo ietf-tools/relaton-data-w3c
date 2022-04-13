@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-33-20220412
+id: W3CWD-resource-timing-2-20220413
 title:
-- content: EPUB 3.3
+- content: Resource Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-33-20220412/
+- content: https://www.w3.org/TR/2022/WD-resource-timing-2-20220413/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-33-20220412
+- id: W3C WD-resource-timing-2-20220413
   type: W3C
   primary: true
-docnumber: WD-epub-33-20220412
+docnumber: WD-resource-timing-2-20220413
 date:
 - type: published
-  value: '2022-04-12'
+  value: '2022-04-13'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -29,24 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Matt Garrish
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-04-12'
+revdate: '2022-04-13'
 language:
 - en
 script:
@@ -54,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-33-20220411
+    formattedref: W3C WD-resource-timing-2-20220411
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-epub-33-20220412
-fetched: '2022-04-12'
+  number: WD-resource-timing-2-20220413
+fetched: '2022-04-13'
 doctype: workingDraft
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Performance Working Group

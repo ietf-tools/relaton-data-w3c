@@ -1,25 +1,25 @@
 ---
-id: W3CWD-resource-timing-2-20220411
+id: W3CWD-WGSL-20220412
 title:
-- content: Resource Timing Level 2
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-resource-timing-2-20220411/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220412/
   type: src
 type: standard
 docid:
-- id: W3C WD-resource-timing-2-20220411
+- id: W3C WD-WGSL-20220412
   type: W3C
   primary: true
-docnumber: WD-resource-timing-2-20220411
+docnumber: WD-WGSL-20220412
 date:
 - type: published
-  value: '2022-04-11'
+  value: '2022-04-12'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: David Neto
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-11'
+revdate: '2022-04-12'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-resource-timing-2-20220127
+    formattedref: W3C WD-WGSL-20220411
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-resource-timing-2-20220411
-fetched: '2022-04-12'
+  number: WD-WGSL-20220412
+fetched: '2022-04-13'
 doctype: workingDraft
 editorialgroup:
-- name: Web Performance Working Group
+- name: GPU for the Web Working Group

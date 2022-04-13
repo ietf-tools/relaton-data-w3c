@@ -1,25 +1,25 @@
 ---
-id: W3CWD-html-aam-1.0-20220404
+id: W3CWD-baggage-20220413
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: 'Propagation format for distributed trace context: Baggage'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20220404/
+- content: https://www.w3.org/TR/2022/WD-baggage-20220413/
   type: src
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20220404
+- id: W3C WD-baggage-20220413
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20220404
+docnumber: WD-baggage-20220413
 date:
 - type: published
-  value: '2022-04-04'
+  value: '2022-04-13'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Sergey Kanzhelev
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Yuri Shkuro
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-04'
+revdate: '2022-04-13'
 language:
 - en
 script:
@@ -44,13 +44,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-html-aam-1.0-20220307
+    formattedref: W3C WD-baggage-20220412
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20220404
-fetched: '2022-04-12'
+  number: WD-baggage-20220413
+fetched: '2022-04-13'
 doctype: workingDraft
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Distributed Tracing Working Group

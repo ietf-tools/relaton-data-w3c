@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-rs-33-20220414
+id: W3CNOTE-epub-a11y-eaa-mapping-20220415
 title:
-- content: EPUB Reading Systems 3.3
+- content: EPUB Accessibility - EU Accessibility Act Mapping
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-rs-33-20220414/
+- content: https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220415/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-rs-33-20220414
+- id: W3C NOTE-epub-a11y-eaa-mapping-20220415
   type: W3C
   primary: true
-docnumber: WD-epub-rs-33-20220414
+docnumber: NOTE-epub-a11y-eaa-mapping-20220415
 date:
 - type: published
-  value: '2022-04-14'
+  value: '2022-04-15'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Cristina Mussinelli
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Gregorio Pellegrino
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Luc Audrain
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-14'
+revdate: '2022-04-15'
 language:
 - en
 script:
@@ -54,13 +54,13 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-rs-33-20220412
+    formattedref: W3C NOTE-epub-a11y-eaa-mapping-20220414
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-epub-rs-33-20220414
-fetched: '2022-04-14'
-doctype: workingDraft
+  number: NOTE-epub-a11y-eaa-mapping-20220415
+fetched: '2022-04-15'
+doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

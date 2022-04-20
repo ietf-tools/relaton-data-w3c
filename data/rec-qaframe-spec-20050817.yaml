@@ -1,0 +1,85 @@
+---
+id: W3CREC-qaframe-spec-20050817
+title:
+- content: 'QA Framework: Specification Guidelines'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2005/REC-qaframe-spec-20050817/
+  type: src
+type: standard
+docid:
+- id: W3C REC-qaframe-spec-20050817
+  type: W3C
+  primary: true
+docnumber: REC-qaframe-spec-20050817
+date:
+- type: published
+  value: '2005-08-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dominique Hazaël-Massieux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Karl Dubost
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lofton Henderson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lynne Rosenthal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-08-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-qaframe-spec-20050629
+- type: updatedBy
+  bibitem:
+    formattedref: W3C specgl-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-qaframe-spec-20050817
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Quality Assurance Working Group

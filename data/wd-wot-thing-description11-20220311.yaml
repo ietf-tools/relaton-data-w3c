@@ -1,0 +1,85 @@
+---
+id: W3CWD-wot-thing-description11-20220311
+title:
+- content: Web of Things (WoT) Thing Description 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-wot-thing-description11-20220311/
+  type: src
+type: standard
+docid:
+- id: W3C WD-wot-thing-description11-20220311
+  type: W3C
+  primary: true
+docnumber: WD-wot-thing-description11-20220311
+date:
+- type: published
+  value: '2022-03-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Michael McCool
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Sebastian Käbisch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Takuki Kamiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Victor Charpenay
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-03-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-wot-thing-description11-20210607
+- type: hasDraft
+  bibitem:
+    formattedref: W3C wot-thing-description
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wot-thing-description11-20220311
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web of Things Working Group

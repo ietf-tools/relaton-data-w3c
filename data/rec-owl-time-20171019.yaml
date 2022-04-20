@@ -1,0 +1,71 @@
+---
+id: W3CREC-owl-time-20171019
+title:
+- content: Time Ontology in OWL
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/REC-owl-time-20171019/
+  type: src
+type: standard
+docid:
+- id: W3C REC-owl-time-20171019
+  type: W3C
+  primary: true
+docnumber: REC-owl-time-20171019
+date:
+- type: published
+  value: '2017-10-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Little
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Cox
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-10-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-owl-time-20170907
+- type: updatedBy
+  bibitem:
+    formattedref: W3C owl-time-errata.html
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C time
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-owl-time-20171019
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Spatial Data on the Web Working Group

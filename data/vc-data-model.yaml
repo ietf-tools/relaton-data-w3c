@@ -1,0 +1,31 @@
+---
+link:
+- content: https://www.w3.org/TR/vc-data-model/
+  type: src
+type: standard
+docnumber: vc-data-model
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C vc-data-model
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-vc-data-model-20191119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-vc-data-model-20211109
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-vc-data-model-20220303
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

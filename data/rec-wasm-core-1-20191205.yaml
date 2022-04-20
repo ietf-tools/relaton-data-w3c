@@ -1,0 +1,61 @@
+---
+id: W3CREC-wasm-core-1-20191205
+title:
+- content: WebAssembly Core Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/REC-wasm-core-1-20191205/
+  type: src
+type: standard
+docid:
+- id: W3C REC-wasm-core-1-20191205
+  type: W3C
+  primary: true
+docnumber: REC-wasm-core-1-20191205
+date:
+- type: published
+  value: '2019-12-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Rossberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-wasm-core-1-20191001
+- type: updatedBy
+  bibitem:
+    formattedref: W3C wasm-errata
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C bikeshed
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-wasm-core-1-20191205
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: WebAssembly Working Group

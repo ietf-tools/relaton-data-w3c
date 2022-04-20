@@ -1,0 +1,68 @@
+---
+id: W3CREC-xqueryx-20101214
+title:
+- content: XML Syntax for XQuery 1.0 (XQueryX) (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2010/REC-xqueryx-20101214/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xqueryx-20101214
+  type: W3C
+  primary: true
+docnumber: REC-xqueryx-20101214
+date:
+- type: published
+  value: '2010-12-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jim Melton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Subramanian Muralidhar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-12-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PER-xqueryx-20090421
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xqueryx-errata2e.html
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-xqueryx-20070123
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xqueryx-20101214
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Query Working Group

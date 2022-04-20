@@ -1,0 +1,75 @@
+---
+id: W3CREC-xproc-20100511
+title:
+- content: 'XProc: An XML Pipeline Language'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2010/REC-xproc-20100511/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xproc-20100511
+  type: W3C
+  primary: true
+docnumber: REC-xproc-20100511
+date:
+- type: published
+  value: '2010-05-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Miłowski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Henry Thompson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-05-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xproc-20100309
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xproc-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xproc-20100511
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Processing Model Working Group

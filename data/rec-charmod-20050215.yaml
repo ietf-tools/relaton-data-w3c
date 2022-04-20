@@ -1,0 +1,95 @@
+---
+id: W3CREC-charmod-20050215
+title:
+- content: 'Character Model for the World Wide Web 1.0: Fundamentals'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2005/REC-charmod-20050215/
+  type: src
+type: standard
+docid:
+- id: W3C REC-charmod-20050215
+  type: W3C
+  primary: true
+docnumber: REC-charmod-20050215
+date:
+- type: published
+  value: '2005-02-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: François Yergeau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Dürst
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Misha Wolf
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tex Texin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-02-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-charmod-20041122
+- type: updatedBy
+  bibitem:
+    formattedref: W3C charmod-fundamentals-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-charmod-20050215
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

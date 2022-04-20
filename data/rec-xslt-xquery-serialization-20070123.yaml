@@ -1,0 +1,96 @@
+---
+id: W3CREC-xslt-xquery-serialization-20070123
+title:
+- content: XSLT 2.0 and XQuery 1.0 Serialization
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2007/REC-xslt-xquery-serialization-20070123/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xslt-xquery-serialization-20070123
+  type: W3C
+  primary: true
+docnumber: REC-xslt-xquery-serialization-20070123
+date:
+- type: published
+  value: '2007-01-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Henry Zongaro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joanne Tong
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Kay
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Scott Boag
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-01-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xslt-xquery-serialization-20061121
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xslt-xquery-serialization-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xslt-xquery-serialization-20070123
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family
+- name: XML Query Working Group

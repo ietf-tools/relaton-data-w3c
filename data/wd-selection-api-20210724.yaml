@@ -1,0 +1,55 @@
+---
+id: W3CWD-selection-api-20210724
+title:
+- content: Selection API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-selection-api-20210724/
+  type: src
+type: standard
+docid:
+- id: W3C WD-selection-api-20210724
+  type: W3C
+  primary: true
+docnumber: WD-selection-api-20210724
+date:
+- type: published
+  value: '2021-07-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ryosuke Niwa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-07-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-selection-api-20210713
+- type: hasDraft
+  bibitem:
+    formattedref: W3C selection-api
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-selection-api-20210724
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

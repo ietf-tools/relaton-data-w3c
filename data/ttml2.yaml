@@ -1,0 +1,26 @@
+---
+link:
+- content: https://www.w3.org/TR/ttml2/
+  type: src
+type: standard
+docnumber: ttml2
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C ttml2
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C CR-ttml2-20210309
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-ttml2-20181108
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

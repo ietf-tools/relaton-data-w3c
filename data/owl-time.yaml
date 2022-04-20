@@ -1,0 +1,26 @@
+---
+link:
+- content: https://www.w3.org/TR/owl-time/
+  type: src
+type: standard
+docnumber: owl-time
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C owl-time
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-owl-time-20171019
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C CR-owl-time-20200326
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

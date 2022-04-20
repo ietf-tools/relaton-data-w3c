@@ -1,0 +1,81 @@
+---
+id: W3CREC-graphics-aam-1.0-20181002
+title:
+- content: Graphics Accessibility API Mappings
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/REC-graphics-aam-1.0-20181002/
+  type: src
+type: standard
+docid:
+- id: W3C REC-graphics-aam-1.0-20181002
+  type: W3C
+  primary: true
+docnumber: REC-graphics-aam-1.0-20181002
+date:
+- type: published
+  value: '2018-10-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Amelia Bellamy-Royds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joanmarie Diggs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-10-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-graphics-aam-1.0-20180626
+- type: updatedBy
+  bibitem:
+    formattedref: W3C graphics-aria
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C graphics-aam
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-graphics-aam-1.0-20181002
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group

@@ -1,0 +1,52 @@
+---
+id: W3CNOTE-discovery-api-20170112
+title:
+- content: Network Service Discovery
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/NOTE-discovery-api-20170112/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-discovery-api-20170112
+  type: W3C
+  primary: true
+docnumber: NOTE-discovery-api-20170112
+date:
+- type: published
+  value: '2017-01-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Rich Tibbett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-01-12'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-discovery-api-20140220
+- type: hasDraft
+  bibitem:
+    formattedref: W3C discovery-api/Overview
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-discovery-api-20170112
+fetched: '2022-04-20'
+doctype: groupNote
+editorialgroup:
+- name: Devices and Sensors Working Group

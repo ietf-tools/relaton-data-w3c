@@ -1,0 +1,65 @@
+---
+id: W3CREC-MathML-19980407
+title:
+- content: Mathematical Markup Language (MathML) 1.0 Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/1998/REC-MathML-19980407/
+  type: src
+type: standard
+docid:
+- id: W3C REC-MathML-19980407
+  type: W3C
+  primary: true
+docnumber: REC-MathML-19980407
+date:
+- type: published
+  value: '1998-04-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Patrick D F Ion
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Robert R Miner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '1998-04-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-math-19980224
+- type: updatedBy
+  bibitem:
+    formattedref: W3C mathml101-updates/errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-MathML-19980407
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Math Working Group

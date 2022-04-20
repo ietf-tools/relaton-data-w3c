@@ -1,0 +1,95 @@
+---
+id: W3CREC-widgets-digsig-20130418
+title:
+- content: XML Digital Signatures for Widgets
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2013/REC-widgets-digsig-20130418/
+  type: src
+type: standard
+docid:
+- id: W3C REC-widgets-digsig-20130418
+  type: W3C
+  primary: true
+docnumber: REC-widgets-digsig-20130418
+date:
+- type: published
+  value: '2013-04-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Priestley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paddy Byers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Stuart Knightley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-04-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-widgets-digsig-20110811
+- type: updatedBy
+  bibitem:
+    formattedref: W3C widgets-digsig/errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-widgets-digsig-20130418
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

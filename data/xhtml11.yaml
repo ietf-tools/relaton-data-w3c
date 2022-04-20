@@ -1,0 +1,31 @@
+---
+link:
+- content: https://www.w3.org/TR/xhtml11/
+  type: src
+type: standard
+docnumber: xhtml11
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C xhtml11
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xhtml11-20010531
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xhtml11-20101123
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C SPSD-xhtml11-20180327
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

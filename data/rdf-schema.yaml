@@ -1,0 +1,26 @@
+---
+link:
+- content: https://www.w3.org/TR/rdf-schema/
+  type: src
+type: standard
+docnumber: rdf-schema
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C rdf-schema
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-rdf-schema-20140225
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-rdf-schema-20040210
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

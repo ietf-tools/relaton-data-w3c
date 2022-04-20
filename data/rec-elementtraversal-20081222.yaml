@@ -1,0 +1,65 @@
+---
+id: W3CREC-ElementTraversal-20081222
+title:
+- content: Element Traversal Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2008/REC-ElementTraversal-20081222/
+  type: src
+type: standard
+docid:
+- id: W3C REC-ElementTraversal-20081222
+  type: W3C
+  primary: true
+docnumber: REC-ElementTraversal-20081222
+date:
+- type: published
+  value: '2008-12-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Doug Schepers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Robin Berjon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-12-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-ElementTraversal-20081117
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-ElementTraversal-20081222-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-ElementTraversal-20081222
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

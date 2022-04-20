@@ -1,0 +1,72 @@
+---
+id: W3CNOTE-ldpatch-20150728
+title:
+- content: Linked Data Patch Format
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2015/NOTE-ldpatch-20150728/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-ldpatch-20150728
+  type: W3C
+  primary: true
+docnumber: NOTE-ldpatch-20150728
+date:
+- type: published
+  value: '2015-07-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexandre Bertails
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Andrei Sambra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Pierre-Antoine Champin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-07-28'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C CR-ldpatch-20150303
+- type: hasDraft
+  bibitem:
+    formattedref: W3C raw-file/ldpatch
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-ldpatch-20150728
+fetched: '2022-04-20'
+doctype: groupNote
+editorialgroup:
+- name: Linked Data Platform Working Group

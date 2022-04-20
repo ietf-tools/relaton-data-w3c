@@ -1,0 +1,65 @@
+---
+id: W3CWD-dx-prof-conneg-20191126
+title:
+- content: Content Negotiation by Profile
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/WD-dx-prof-conneg-20191126/
+  type: src
+type: standard
+docid:
+- id: W3C WD-dx-prof-conneg-20191126
+  type: W3C
+  primary: true
+docnumber: WD-dx-prof-conneg-20191126
+date:
+- type: published
+  value: '2019-11-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lars G. Svensson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nicholas Car
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-11-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-dx-prof-conneg-20190430
+- type: hasDraft
+  bibitem:
+    formattedref: W3C connegp
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-dx-prof-conneg-20191126
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Dataset Exchange Working Group

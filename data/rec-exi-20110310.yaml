@@ -1,0 +1,65 @@
+---
+id: W3CREC-exi-20110310
+title:
+- content: Efficient XML Interchange (EXI) Format 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2011/REC-exi-20110310/
+  type: src
+type: standard
+docid:
+- id: W3C REC-exi-20110310
+  type: W3C
+  primary: true
+docnumber: REC-exi-20110310
+date:
+- type: published
+  value: '2011-03-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: John Schneider
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Takuki Kamiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-03-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-exi-20110120
+- type: updatedBy
+  bibitem:
+    formattedref: W3C exi-10-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-exi-20110310
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Efficient Extensible Interchange Working Group

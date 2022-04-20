@@ -1,0 +1,55 @@
+---
+id: W3CREC-rdfa-lite-20120607
+title:
+- content: RDFa Lite 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2012/REC-rdfa-lite-20120607/
+  type: src
+type: standard
+docid:
+- id: W3C REC-rdfa-lite-20120607
+  type: W3C
+  primary: true
+docnumber: REC-rdfa-lite-20120607
+date:
+- type: published
+  value: '2012-06-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-06-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-rdfa-lite-20120508
+- type: updatedBy
+  bibitem:
+    formattedref: W3C errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-rdfa-lite-20120607
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: RDFa Working Group

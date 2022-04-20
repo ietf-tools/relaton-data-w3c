@@ -1,0 +1,68 @@
+---
+id: W3CREC-rif-bld-20130205
+title:
+- content: RIF Basic Logic Dialect (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2013/REC-rif-bld-20130205/
+  type: src
+type: standard
+docid:
+- id: W3C REC-rif-bld-20130205
+  type: W3C
+  primary: true
+docnumber: REC-rif-bld-20130205
+date:
+- type: published
+  value: '2013-02-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Harold Boley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Kifer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-02-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PER-rif-bld-20121211
+- type: updatedBy
+  bibitem:
+    formattedref: W3C errata
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-rif-bld-20100622
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-rif-bld-20130205
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: RIF Working Group

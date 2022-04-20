@@ -1,0 +1,71 @@
+---
+id: W3CREC-webdriver1-20180605
+title:
+- content: WebDriver
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/REC-webdriver1-20180605/
+  type: src
+type: standard
+docid:
+- id: W3C REC-webdriver1-20180605
+  type: W3C
+  primary: true
+docnumber: REC-webdriver1-20180605
+date:
+- type: published
+  value: '2018-06-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Burns
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Stewart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-06-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-webdriver1-20180426
+- type: updatedBy
+  bibitem:
+    formattedref: W3C issues?q=is%3Aissue+label%3Aerrata
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C webdriver
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-webdriver1-20180605
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Browser Testing and Tools Working Group

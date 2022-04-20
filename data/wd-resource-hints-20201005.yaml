@@ -1,0 +1,55 @@
+---
+id: W3CWD-resource-hints-20201005
+title:
+- content: Resource Hints
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-resource-hints-20201005/
+  type: src
+type: standard
+docid:
+- id: W3C WD-resource-hints-20201005
+  type: W3C
+  primary: true
+docnumber: WD-resource-hints-20201005
+date:
+- type: published
+  value: '2020-10-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-10-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-resource-hints-20190702
+- type: hasDraft
+  bibitem:
+    formattedref: W3C resource-hints
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-resource-hints-20201005
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

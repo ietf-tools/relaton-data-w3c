@@ -1,0 +1,69 @@
+---
+id: W3CREC-json-ld-api-20140116
+title:
+- content: JSON-LD 1.0 Processing Algorithms and API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2014/REC-json-ld-api-20140116/
+  type: src
+type: standard
+docid:
+- id: W3C REC-json-ld-api-20140116
+  type: W3C
+  primary: true
+docnumber: REC-json-ld-api-20140116
+date:
+- type: published
+  value: '2014-01-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Markus Lanthaler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-01-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-json-ld-api-20131105
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-json-ld-api-20140116
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: RDF Working Group

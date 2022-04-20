@@ -1,0 +1,86 @@
+---
+id: W3CREC-rdfa-syntax-20081014
+title:
+- content: 'RDFa in XHTML: Syntax and Processing'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2008/REC-rdfa-syntax-20081014/
+  type: src
+type: standard
+docid:
+- id: W3C REC-rdfa-syntax-20081014
+  type: W3C
+  primary: true
+docnumber: REC-rdfa-syntax-20081014
+date:
+- type: published
+  value: '2008-10-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ben Adida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Birbeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane McCarron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steven Pemberton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-10-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-rdfa-syntax-20080904
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-rdfa-syntax-20081014-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-rdfa-syntax-20081014
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Semantic Web Deployment Working Group
+- name: XHTML2 Working Group

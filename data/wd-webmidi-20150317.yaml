@@ -1,0 +1,65 @@
+---
+id: W3CWD-webmidi-20150317
+title:
+- content: Web MIDI API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2015/WD-webmidi-20150317/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webmidi-20150317
+  type: W3C
+  primary: true
+docnumber: WD-webmidi-20150317
+date:
+- type: published
+  value: '2015-03-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jussi Kalliokoski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-03-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-webmidi-20131126
+- type: hasDraft
+  bibitem:
+    formattedref: W3C web-midi-api
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webmidi-20150317
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Audio Working Group

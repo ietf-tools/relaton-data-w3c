@@ -1,0 +1,62 @@
+---
+id: W3CNOTE-ldp-primer-20150423
+title:
+- content: Linked Data Platform 1.0 Primer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2015/NOTE-ldp-primer-20150423/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-ldp-primer-20150423
+  type: W3C
+  primary: true
+docnumber: NOTE-ldp-primer-20150423
+date:
+- type: published
+  value: '2015-04-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nandana Mihindukulasooriya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roger Menday
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-04-23'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-ldp-primer-20140626
+- type: hasDraft
+  bibitem:
+    formattedref: W3C ldp-primer.html
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-ldp-primer-20150423
+fetched: '2022-04-20'
+doctype: groupNote
+editorialgroup:
+- name: Linked Data Platform Working Group

@@ -1,0 +1,82 @@
+---
+id: W3CREC-exi-20140211
+title:
+- content: Efficient XML Interchange (EXI) Format 1.0 (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2014/REC-exi-20140211/
+  type: src
+type: standard
+docid:
+- id: W3C REC-exi-20140211
+  type: W3C
+  primary: true
+docnumber: REC-exi-20140211
+date:
+- type: published
+  value: '2014-02-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Peintner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Schneider
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rumen Kyusakov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Takuki Kamiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-02-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PER-exi-20131022
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-exi-20110310
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-exi-20140211
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Efficient Extensible Interchange Working Group

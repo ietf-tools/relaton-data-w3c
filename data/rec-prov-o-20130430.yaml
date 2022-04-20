@@ -1,0 +1,75 @@
+---
+id: W3CREC-prov-o-20130430
+title:
+- content: 'PROV-O: The PROV Ontology'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2013/REC-prov-o-20130430/
+  type: src
+type: standard
+docid:
+- id: W3C REC-prov-o-20130430
+  type: W3C
+  primary: true
+docnumber: REC-prov-o-20130430
+date:
+- type: published
+  value: '2013-04-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Deborah McGuinness
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Satya Sahoo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Timothy Lebo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-04-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-prov-o-20130312
+- type: updatedBy
+  bibitem:
+    formattedref: W3C errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-prov-o-20130430
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Provenance Working Group

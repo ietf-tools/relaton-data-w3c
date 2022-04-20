@@ -1,0 +1,91 @@
+---
+id: W3CREC-encrypted-media-20170918
+title:
+- content: Encrypted Media Extensions
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/REC-encrypted-media-20170918/
+  type: src
+type: standard
+docid:
+- id: W3C REC-encrypted-media-20170918
+  type: W3C
+  primary: true
+docnumber: REC-encrypted-media-20170918
+date:
+- type: published
+  value: '2017-09-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Bateman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Dorwin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jerry Smith
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-09-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-encrypted-media-20170316
+- type: updatedBy
+  bibitem:
+    formattedref: W3C encrypted-media-respec.html
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C encrypted-media
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-encrypted-media-20170918
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

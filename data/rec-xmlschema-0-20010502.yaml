@@ -1,0 +1,55 @@
+---
+id: W3CREC-xmlschema-0-20010502
+title:
+- content: 'XML Schema Part 0: Primer'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2001/REC-xmlschema-0-20010502/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xmlschema-0-20010502
+  type: W3C
+  primary: true
+docnumber: REC-xmlschema-0-20010502
+date:
+- type: published
+  value: '2001-05-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Fallside
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2001-05-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xmlschema-0-20010330
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xmlschema-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xmlschema-0-20010502
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Schema Working Group

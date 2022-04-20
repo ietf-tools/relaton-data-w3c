@@ -1,0 +1,55 @@
+---
+id: W3CREC-grddl-20070911
+title:
+- content: Gleaning Resource Descriptions from Dialects of Languages (GRDDL)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2007/REC-grddl-20070911/
+  type: src
+type: standard
+docid:
+- id: W3C REC-grddl-20070911
+  type: W3C
+  primary: true
+docnumber: REC-grddl-20070911
+date:
+- type: published
+  value: '2007-09-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dan Connolly
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-09-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-grddl-20070716
+- type: updatedBy
+  bibitem:
+    formattedref: W3C grddl-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-grddl-20070911
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: GRDDL Working Group

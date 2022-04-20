@@ -1,0 +1,50 @@
+---
+id: W3CSPSD-cors-20200602
+title:
+- content: Cross-Origin Resource Sharing
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/SPSD-cors-20200602/
+  type: src
+type: standard
+docid:
+- id: W3C SPSD-cors-20200602
+  type: W3C
+  primary: true
+docnumber: SPSD-cors-20200602
+date:
+- type: published
+  value: '2020-06-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anne van Kesteren
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-06-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C REC-html32-19970114
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: SPSD-cors-20200602
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group
+- name: Web Application Security Working Group

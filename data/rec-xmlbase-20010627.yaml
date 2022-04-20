@@ -1,0 +1,55 @@
+---
+id: W3CREC-xmlbase-20010627
+title:
+- content: XML Base
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2001/REC-xmlbase-20010627/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xmlbase-20010627
+  type: W3C
+  primary: true
+docnumber: REC-xmlbase-20010627
+date:
+- type: published
+  value: '2001-06-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2001-06-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xmlbase-20001220
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xmlbase-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xmlbase-20010627
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Linking Working Group

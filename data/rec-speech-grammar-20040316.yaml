@@ -1,0 +1,65 @@
+---
+id: W3CREC-speech-grammar-20040316
+title:
+- content: Speech Recognition Grammar Specification Version 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2004/REC-speech-grammar-20040316/
+  type: src
+type: standard
+docid:
+- id: W3C REC-speech-grammar-20040316
+  type: W3C
+  primary: true
+docnumber: REC-speech-grammar-20040316
+date:
+- type: published
+  value: '2004-03-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrew Hunt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Scott McGlashan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2004-03-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-speech-grammar-20031218
+- type: updatedBy
+  bibitem:
+    formattedref: W3C speech-grammar-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-speech-grammar-20040316
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Voice Browser Working Group

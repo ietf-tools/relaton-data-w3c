@@ -1,0 +1,71 @@
+---
+id: W3CREC-WOFF2-20180301
+title:
+- content: WOFF File Format 2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/REC-WOFF2-20180301/
+  type: src
+type: standard
+docid:
+- id: W3C REC-WOFF2-20180301
+  type: W3C
+  primary: true
+docnumber: REC-WOFF2-20180301
+date:
+- type: published
+  value: '2018-03-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Raph Levien
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Vladimir Levantovsky
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-03-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-WOFF2-20180111
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-WOFF2-20180301-errata.html
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C woff2
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-WOFF2-20180301
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Fonts Working Group

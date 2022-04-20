@@ -1,0 +1,75 @@
+---
+id: W3CREC-rif-prd-20100622
+title:
+- content: RIF Production Rule Dialect
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2010/REC-rif-prd-20100622/
+  type: src
+type: standard
+docid:
+- id: W3C REC-rif-prd-20100622
+  type: W3C
+  primary: true
+docnumber: REC-rif-prd-20100622
+date:
+- type: published
+  value: '2010-06-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Paschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Christian de Sainte Marie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gary Hallmark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-06-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-rif-prd-20100511
+- type: updatedBy
+  bibitem:
+    formattedref: W3C errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-rif-prd-20100622
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: RIF Working Group

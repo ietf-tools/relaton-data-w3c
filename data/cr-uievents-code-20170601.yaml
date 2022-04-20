@@ -1,0 +1,65 @@
+---
+id: W3CCR-uievents-code-20170601
+title:
+- content: UI Events KeyboardEvent code Values
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/CR-uievents-code-20170601/
+  type: src
+type: standard
+docid:
+- id: W3C CR-uievents-code-20170601
+  type: W3C
+  primary: true
+docnumber: CR-uievents-code-20170601
+date:
+- type: published
+  value: '2017-06-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gary Kacmarcik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Travis Leithead
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-06-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-uievents-code-20161024
+- type: hasDraft
+  bibitem:
+    formattedref: W3C uievents-code
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-uievents-code-20170601
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

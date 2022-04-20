@@ -1,0 +1,61 @@
+---
+id: W3CREC-ttaf1-dfxp-20101118
+title:
+- content: Timed Text Markup Language (TTML) 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2010/REC-ttaf1-dfxp-20101118/
+  type: src
+type: standard
+docid:
+- id: W3C REC-ttaf1-dfxp-20101118
+  type: W3C
+  primary: true
+docnumber: REC-ttaf1-dfxp-20101118
+date:
+- type: published
+  value: '2010-11-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Glenn Adams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-11-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-ttaf1-dfxp-20100914
+- type: updatedBy
+  bibitem:
+    formattedref: W3C ttml-issues.html
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C index.html
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-ttaf1-dfxp-20101118
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Timed Text Working Group

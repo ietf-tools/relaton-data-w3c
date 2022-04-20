@@ -1,0 +1,57 @@
+---
+id: W3CSPSD-WebCGM-20191205
+title:
+- content: WebCGM 1.0 Second Release
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/SPSD-WebCGM-20191205
+  type: src
+type: standard
+docid:
+- id: W3C SPSD-WebCGM-20191205
+  type: W3C
+  primary: true
+docnumber: SPSD-WebCGM-20191205
+date:
+- type: published
+  value: '2019-12-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Cruikshank
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lofton Henderson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C REC-WebCGM-20011217
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: SPSD-WebCGM-20191205
+fetched: '2022-04-20'
+doctype: recommendation

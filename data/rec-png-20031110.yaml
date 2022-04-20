@@ -1,0 +1,62 @@
+---
+id: W3CREC-PNG-20031110
+title:
+- content: Portable Network Graphics (PNG) Specification (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2003/REC-PNG-20031110/
+  type: src
+type: standard
+docid:
+- id: W3C REC-PNG-20031110
+  type: W3C
+  primary: true
+docnumber: REC-PNG-20031110
+date:
+- type: published
+  value: '2003-11-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Duce
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-11-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-PNG-20030520
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-PNG-20031110-errata
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-png-961001
+- type: hasDraft
+  bibitem:
+    formattedref: W3C PNG-spec
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-PNG-20031110
+fetched: '2022-04-20'
+doctype: recommendation

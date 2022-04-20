@@ -1,0 +1,65 @@
+---
+id: W3CREC-wsc-ui-20100812
+title:
+- content: 'Web Security Context: User Interface Guidelines'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2010/REC-wsc-ui-20100812/
+  type: src
+type: standard
+docid:
+- id: W3C REC-wsc-ui-20100812
+  type: W3C
+  primary: true
+docnumber: REC-wsc-ui-20100812
+date:
+- type: published
+  value: '2010-08-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anil Saldhana
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Thomas Roessler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-08-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-wsc-ui-20100622
+- type: updatedBy
+  bibitem:
+    formattedref: W3C wsc-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-wsc-ui-20100812
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Security Context Working Group

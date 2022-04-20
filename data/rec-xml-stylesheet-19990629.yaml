@@ -1,0 +1,55 @@
+---
+id: W3CREC-xml-stylesheet-19990629
+title:
+- content: Associating Style Sheets with XML documents
+  format: text/plain
+link:
+- content: https://www.w3.org/1999/06/REC-xml-stylesheet-19990629/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xml-stylesheet-19990629
+  type: W3C
+  primary: true
+docnumber: REC-xml-stylesheet-19990629
+date:
+- type: published
+  value: '1999-06-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: James Clark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '1999-06-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C xml-stylesheet-19990428
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-xml-stylesheet-19990629/errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xml-stylesheet-19990629
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

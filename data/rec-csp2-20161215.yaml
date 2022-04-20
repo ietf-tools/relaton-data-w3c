@@ -1,0 +1,81 @@
+---
+id: W3CREC-CSP2-20161215
+title:
+- content: Content Security Policy Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/REC-CSP2-20161215/
+  type: src
+type: standard
+docid:
+- id: W3C REC-CSP2-20161215
+  type: W3C
+  primary: true
+docnumber: REC-CSP2-20161215
+date:
+- type: published
+  value: '2016-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Barth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Daniel Veditz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-CSP2-20161108
+- type: updatedBy
+  bibitem:
+    formattedref: W3C webappsec-csp/issues
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C webappsec-csp
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-CSP2-20161215
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

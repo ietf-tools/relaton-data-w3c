@@ -1,0 +1,65 @@
+---
+id: W3CWD-using-aria-20180927
+title:
+- content: Using ARIA
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-using-aria-20180927/
+  type: src
+type: standard
+docid:
+- id: W3C WD-using-aria-20180927
+  type: W3C
+  primary: true
+docnumber: WD-using-aria-20180927
+date:
+- type: published
+  value: '2018-09-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: David MacDonald
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steve Faulkner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-09-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-using-aria-20180924
+- type: hasDraft
+  bibitem:
+    formattedref: W3C using-aria
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-using-aria-20180927
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

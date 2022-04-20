@@ -1,0 +1,26 @@
+---
+link:
+- content: https://www.w3.org/TR/json-ld-api/
+  type: src
+type: standard
+docnumber: json-ld-api
+language:
+- en
+script:
+- Latn
+formattedref:
+  content: W3C json-ld-api
+  format: text/plain
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C SPSD-json-ld-api-20201103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-json-ld-api-20140116
+      format: text/plain
+fetched: '2022-04-20'
+doctype: recommendation

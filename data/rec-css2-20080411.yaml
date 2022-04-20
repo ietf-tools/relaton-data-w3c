@@ -1,0 +1,91 @@
+---
+id: W3CREC-CSS2-20080411
+title:
+- content: Cascading Style Sheets, level 2 (CSS2) Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2008/REC-CSS2-20080411/
+  type: src
+type: standard
+docid:
+- id: W3C REC-CSS2-20080411
+  type: W3C
+  primary: true
+docnumber: REC-CSS2-20080411
+date:
+- type: published
+  value: '2008-04-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bert Bos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Chris Lilley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Håkon Wium Lie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-04-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C REC-CSS2-19980512
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-CSS2-19980512-errata.html
+  description:
+    content: errata
+    format: text/plain
+- type: hasDraft
+  bibitem:
+    formattedref: W3C css2
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-CSS2-20080411
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

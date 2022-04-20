@@ -1,0 +1,65 @@
+---
+id: W3CWD-FileAPI-20210604
+title:
+- content: File API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-FileAPI-20210604/
+  type: src
+type: standard
+docid:
+- id: W3C WD-FileAPI-20210604
+  type: W3C
+  primary: true
+docnumber: WD-FileAPI-20210604
+date:
+- type: published
+  value: '2021-06-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arun Ranganathan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marijn Kruisselbrink
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-06-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-FileAPI-20210427
+- type: hasDraft
+  bibitem:
+    formattedref: W3C FileAPI
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-FileAPI-20210604
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

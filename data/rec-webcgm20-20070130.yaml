@@ -1,0 +1,75 @@
+---
+id: W3CREC-webcgm20-20070130
+title:
+- content: WebCGM 2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2007/REC-webcgm20-20070130/
+  type: src
+type: standard
+docid:
+- id: W3C REC-webcgm20-20070130
+  type: W3C
+  primary: true
+docnumber: REC-webcgm20-20070130
+date:
+- type: published
+  value: '2007-01-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benoit Bezaire
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Cruikshank
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lofton Henderson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-01-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-webcgm20-20061017
+- type: updatedBy
+  bibitem:
+    formattedref: W3C WebCGM20-errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-webcgm20-20070130
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: WebCGM Working Group

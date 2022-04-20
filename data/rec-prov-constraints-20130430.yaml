@@ -1,0 +1,75 @@
+---
+id: W3CREC-prov-constraints-20130430
+title:
+- content: Constraints of the PROV Data Model
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2013/REC-prov-constraints-20130430/
+  type: src
+type: standard
+docid:
+- id: W3C REC-prov-constraints-20130430
+  type: W3C
+  primary: true
+docnumber: REC-prov-constraints-20130430
+date:
+- type: published
+  value: '2013-04-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: James Cheney
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Luc Moreau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paolo Missier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-04-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-prov-constraints-20130312
+- type: updatedBy
+  bibitem:
+    formattedref: W3C errata.html
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-prov-constraints-20130430
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Provenance Working Group

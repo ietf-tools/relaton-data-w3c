@@ -1,0 +1,68 @@
+---
+id: W3CREC-xml-infoset-20040204
+title:
+- content: XML Information Set (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2004/REC-xml-infoset-20040204/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xml-infoset-20040204
+  type: W3C
+  primary: true
+docnumber: REC-xml-infoset-20040204
+date:
+- type: published
+  value: '2004-02-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: John Cowan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Tobin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2004-02-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PER-xml-infoset-20031210
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xml-infoset-errata.html
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-xml-infoset-20011024
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xml-infoset-20040204
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

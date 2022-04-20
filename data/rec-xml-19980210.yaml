@@ -1,0 +1,75 @@
+---
+id: W3CREC-xml-19980210
+title:
+- content: XML 1.0 Recommendation
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/1998/REC-xml-19980210
+  type: src
+type: standard
+docid:
+- id: W3C REC-xml-19980210
+  type: W3C
+  primary: true
+docnumber: REC-xml-19980210
+date:
+- type: published
+  value: '1998-02-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jean Paoli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Sperberg-McQueen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tim Bray
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '1998-02-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xml-971208
+- type: updatedBy
+  bibitem:
+    formattedref: W3C xml-V10-2e-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xml-19980210
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

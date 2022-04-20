@@ -1,0 +1,63 @@
+---
+id: W3CNOTE-security-privacy-questionnaire-20211216
+title:
+- content: 'Self-Review Questionnaire: Security and Privacy'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/NOTE-security-privacy-questionnaire-20211216/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-security-privacy-questionnaire-20211216
+  type: W3C
+  primary: true
+docnumber: NOTE-security-privacy-questionnaire-20211216
+date:
+- type: published
+  value: '2021-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Snyder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Theresa O'Connor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-12-16'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C NOTE-security-privacy-questionnaire-20210923
+- type: hasDraft
+  bibitem:
+    formattedref: W3C security-questionnaire
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-security-privacy-questionnaire-20211216
+fetched: '2022-04-20'
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group
+- name: Privacy Interest Group

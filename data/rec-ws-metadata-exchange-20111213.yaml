@@ -1,0 +1,85 @@
+---
+id: W3CREC-ws-metadata-exchange-20111213
+title:
+- content: Web Services Metadata Exchange (WS-MetadataExchange)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2011/REC-ws-metadata-exchange-20111213/
+  type: src
+type: standard
+docid:
+- id: W3C REC-ws-metadata-exchange-20111213
+  type: W3C
+  primary: true
+docnumber: REC-ws-metadata-exchange-20111213
+date:
+- type: published
+  value: '2011-12-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ashok Malhotra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Doug Davis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Katy Warr
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Wu Chou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-ws-metadata-exchange-20110927
+- type: updatedBy
+  bibitem:
+    formattedref: W3C ws-metadata-exchange-20111213-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-ws-metadata-exchange-20111213
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Resource Access Working Group

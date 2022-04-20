@@ -1,0 +1,88 @@
+---
+id: W3CREC-MathML2-20031021
+title:
+- content: Mathematical Markup Language (MathML) Version 2.0 (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2003/REC-MathML2-20031021/
+  type: src
+type: standard
+docid:
+- id: W3C REC-MathML2-20031021
+  type: W3C
+  primary: true
+docnumber: REC-MathML2-20031021
+date:
+- type: published
+  value: '2003-10-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Carlisle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nico Poppelier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Patrick D F Ion
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Robert R Miner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-10-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PER-MathML2-20030804
+- type: updatedBy
+  bibitem:
+    formattedref: W3C mathml2e2-errata.html
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    formattedref: W3C REC-MathML2-20010221
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-MathML2-20031021
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: Math Working Group

@@ -1,0 +1,85 @@
+---
+id: W3CREC-xptr-xmlns-20030325
+title:
+- content: XPointer xmlns() Scheme
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2003/REC-xptr-xmlns-20030325/
+  type: src
+type: standard
+docid:
+- id: W3C REC-xptr-xmlns-20030325
+  type: W3C
+  primary: true
+docnumber: REC-xptr-xmlns-20030325
+date:
+- type: published
+  value: '2003-03-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eve Maler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ron Daniel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steven DeRose
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-03-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C PR-xptr-xmlns-20021113
+- type: updatedBy
+  bibitem:
+    formattedref: W3C REC-xptr-20030325-errata
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-xptr-xmlns-20030325
+fetched: '2022-04-20'
+doctype: recommendation
+editorialgroup:
+- name: XML Linking Working Group

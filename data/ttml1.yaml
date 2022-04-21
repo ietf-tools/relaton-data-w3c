@@ -15,6 +15,11 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
+      content: W3C REC-ttaf1-dfxp-20101118
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
       content: W3C REC-ttml1-20181108
       format: text/plain
 - type: hasEdition
@@ -22,10 +27,5 @@ relation:
     formattedref:
       content: W3C REC-ttml1-20130924
       format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
-      content: W3C REC-ttaf1-dfxp-20101118
-      format: text/plain
-fetched: '2022-04-20'
+fetched: '2022-04-21'
 doctype: recommendation

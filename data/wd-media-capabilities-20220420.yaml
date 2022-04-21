@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220419
+id: W3CWD-media-capabilities-20220420
 title:
-- content: WebGPU
+- content: Media Capabilities
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220419/
+- content: https://www.w3.org/TR/2022/WD-media-capabilities-20220420/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220419
+- id: W3C WD-media-capabilities-20220420
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220419
+docnumber: WD-media-capabilities-20220420
 date:
 - type: published
-  value: '2022-04-19'
+  value: '2022-04-20'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Mounir Lamouri
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Vi Nguyen
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-19'
+revdate: '2022-04-20'
 language:
 - en
 script:
@@ -57,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220412
+    formattedref: W3C WD-media-capabilities-20220419
 - type: hasDraft
   bibitem:
-    formattedref: W3C gpuweb
+    formattedref: W3C media-capabilities
   description:
     content: Editor's draft
     format: text/plain
@@ -68,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220419
-fetched: '2022-04-20'
+  number: WD-media-capabilities-20220420
+fetched: '2022-04-21'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Media Working Group

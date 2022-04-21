@@ -1,25 +1,25 @@
 ---
-id: W3CNOTE-epub-ssv-11-20220419
+id: W3CDNOTE-international-specs-20220420
 title:
-- content: EPUB 3 Structural Semantics Vocabulary 1.1
+- content: Internationalization Best Practices for Spec Developers
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220419/
+- content: https://www.w3.org/TR/2022/DNOTE-international-specs-20220420/
   type: src
 type: standard
 docid:
-- id: W3C NOTE-epub-ssv-11-20220419
+- id: W3C DNOTE-international-specs-20220420
   type: W3C
   primary: true
-docnumber: NOTE-epub-ssv-11-20220419
+docnumber: DNOTE-international-specs-20220420
 date:
 - type: published
-  value: '2022-04-19'
+  value: '2022-04-20'
 contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Addison Phillips
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-19'
+revdate: '2022-04-20'
 language:
 - en
 script:
@@ -44,10 +44,10 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-epub-ssv-11-20220415
+    formattedref: W3C WD-international-specs-20210325
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-specs/epub33
+    formattedref: W3C bp-i18n-specdev
   description:
     content: Editor's draft
     format: text/plain
@@ -55,8 +55,8 @@ series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-ssv-11-20220419
-fetched: '2022-04-20'
+  number: DNOTE-international-specs-20220420
+fetched: '2022-04-21'
 doctype: groupNote
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Internationalization Working Group

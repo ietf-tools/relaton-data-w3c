@@ -1,31 +1,21 @@
 ---
-id: W3CNOTE-epub-overview-33-20220415
+id: W3CNOTE-epub-tts-10-20220420
 title:
-- content: EPUB 3 Overview
+- content: EPUB 3 Text-to-Speech Enhancements 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220415/
+- content: https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220420/
   type: src
 type: standard
 docid:
-- id: W3C NOTE-epub-overview-33-20220415
+- id: W3C NOTE-epub-tts-10-20220420
   type: W3C
   primary: true
-docnumber: NOTE-epub-overview-33-20220415
+docnumber: NOTE-epub-tts-10-20220420
 date:
 - type: published
-  value: '2022-04-15'
+  value: '2022-04-20'
 contributor:
-- person:
-    name:
-      completename:
-        content: Ivan Herman
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
 - person:
     name:
       completename:
@@ -36,7 +26,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-04-15'
+revdate: '2022-04-20'
 language:
 - en
 script:
@@ -44,7 +34,7 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-epub-overview-33-20220414
+    formattedref: W3C NOTE-epub-tts-10-20220419
 - type: hasDraft
   bibitem:
     formattedref: W3C epub-specs/epub33
@@ -55,8 +45,8 @@ series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-overview-33-20220415
-fetched: '2022-04-20'
+  number: NOTE-epub-tts-10-20220420
+fetched: '2022-04-21'
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

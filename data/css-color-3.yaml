@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-css-color-3-20180619
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-css-color-3-20220118
       format: text/plain
 - type: hasEdition
@@ -27,5 +22,10 @@ relation:
     formattedref:
       content: W3C REC-css-color-3-20210805
       format: text/plain
-fetched: '2022-04-22'
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-css-color-3-20180619
+      format: text/plain
+fetched: '2022-04-23'
 doctype: recommendation

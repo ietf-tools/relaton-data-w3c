@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xml-20001006
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-xml-20040204
       format: text/plain
 - type: hasEdition
@@ -27,5 +22,15 @@ relation:
     formattedref:
       content: W3C REC-xml-19980210
       format: text/plain
-fetched: '2022-04-23'
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xml-20001006
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: REC-xml
+fetched: '2022-04-24'
 doctype: recommendation

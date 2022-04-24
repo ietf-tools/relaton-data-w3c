@@ -15,6 +15,11 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
+      content: W3C SPSD-html40-20180327
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
       content: W3C REC-html40-971218
       format: text/plain
 - type: hasEdition
@@ -22,10 +27,10 @@ relation:
     formattedref:
       content: W3C REC-html40-19980424
       format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
-      content: W3C SPSD-html40-20180327
-      format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: html40
+fetched: '2022-04-24'
 doctype: recommendation

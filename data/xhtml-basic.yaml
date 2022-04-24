@@ -20,17 +20,22 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-basic-20001219
+      content: W3C REC-xhtml-basic-20101123
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-basic-20101123
+      content: W3C REC-xhtml-basic-20001219
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
       content: W3C SPSD-xhtml-basic-20180327
       format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xhtml-basic
+fetched: '2022-04-24'
 doctype: recommendation

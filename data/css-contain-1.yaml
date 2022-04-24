@@ -15,12 +15,17 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-css-contain-1-20191121
+      content: W3C REC-css-contain-1-20201222
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-css-contain-1-20201222
+      content: W3C REC-css-contain-1-20191121
       format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: css-contain-1
+fetched: '2022-04-24'
 doctype: recommendation

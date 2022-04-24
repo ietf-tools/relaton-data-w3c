@@ -15,7 +15,12 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C NOTE-miniapp-widget-req-20220418
+      content: W3C NOTE-miniapp-widget-req-20220424
       format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: miniapp-widget-req
+fetched: '2022-04-24'
 doctype: recommendation

@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xforms-20071029
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-xforms-20060314
       format: text/plain
 - type: hasEdition
@@ -27,5 +22,15 @@ relation:
     formattedref:
       content: W3C REC-xforms-20031014
       format: text/plain
-fetched: '2022-04-23'
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xforms-20071029
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xforms
+fetched: '2022-04-24'
 doctype: recommendation

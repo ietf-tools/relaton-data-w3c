@@ -15,17 +15,22 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-PICSRules-971229
+      content: W3C REC-PICSRules-971222
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-PICSRules-971222
+      content: W3C REC-PICSRules-971229
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
       content: W3C REC-PICSRules-20091124
       format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: REC-PICSRules
+fetched: '2022-04-24'
 doctype: recommendation

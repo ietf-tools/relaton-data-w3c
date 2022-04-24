@@ -15,7 +15,7 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-rdfa-20120607
+      content: W3C REC-xhtml-rdfa-20130822
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -25,7 +25,12 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-rdfa-20130822
+      content: W3C REC-xhtml-rdfa-20120607
       format: text/plain
-fetched: '2022-04-23'
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xhtml-rdfa
+fetched: '2022-04-24'
 doctype: recommendation

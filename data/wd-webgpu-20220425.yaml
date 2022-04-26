@@ -1,20 +1,20 @@
 ---
-id: W3CWD-webxr-gamepads-module-1-20220203
+id: W3CWD-webgpu-20220425
 title:
-- content: WebXR Gamepads Module - Level 1
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220203/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220425/
   type: src
 type: standard
 docid:
-- id: W3C WD-webxr-gamepads-module-1-20220203
+- id: W3C WD-webgpu-20220425
   type: W3C
   primary: true
-docnumber: WD-webxr-gamepads-module-1-20220203
+docnumber: WD-webgpu-20220425
 date:
 - type: published
-  value: '2022-02-03'
+  value: '2022-04-25'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manish Goregaokar
+        content: Dzmitry Malyshau
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Rik Cabanier
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-02-03'
+revdate: '2022-04-25'
 language:
 - en
 script:
@@ -57,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webxr-gamepads-module-1-20220105
+    formattedref: W3C WD-webgpu-20220421
 - type: hasDraft
   bibitem:
-    formattedref: W3C webxr-gamepads-module
+    formattedref: W3C gpuweb
   description:
     content: Editor's draft
     format: text/plain
@@ -68,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxr-gamepads-module-1-20220203
-fetched: '2022-04-25'
+  number: WD-webgpu-20220425
+fetched: '2022-04-26'
 doctype: recommendation
 editorialgroup:
-- name: Immersive Web Working Group
+- name: GPU for the Web Working Group

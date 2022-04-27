@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-WOFF2-20210706
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-WOFF2-20220310
       format: text/plain
 - type: hasEdition
@@ -27,10 +22,15 @@ relation:
     formattedref:
       content: W3C REC-WOFF2-20180301
       format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-WOFF2-20210706
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: WOFF2
-fetched: '2022-04-26'
+fetched: '2022-04-27'
 doctype: recommendation

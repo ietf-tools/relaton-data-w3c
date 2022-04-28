@@ -1,25 +1,25 @@
 ---
-id: W3CWD-miniapp-manifest-20220324
+id: W3CWD-css-color-4-20220428
 title:
-- content: MiniApp Manifest
+- content: CSS Color Module Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-miniapp-manifest-20220324/
+- content: https://www.w3.org/TR/2022/WD-css-color-4-20220428/
   type: src
 type: standard
 docid:
-- id: W3C WD-miniapp-manifest-20220324
+- id: W3C WD-css-color-4-20220428
   type: W3C
   primary: true
-docnumber: WD-miniapp-manifest-20220324
+docnumber: WD-css-color-4-20220428
 date:
 - type: published
-  value: '2022-03-24'
+  value: '2022-04-28'
 contributor:
 - person:
     name:
       completename:
-        content: Martin Alvarez-Espinar
+        content: Chris Lilley
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Yongjing ZHANG
+        content: Lea Verou
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-24'
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-04-28'
 language:
 - en
 script:
@@ -47,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-miniapp-manifest-20220128
+    formattedref: W3C WD-css-color-4-20211215
 - type: hasDraft
   bibitem:
-    formattedref: W3C miniapp-manifest
+    formattedref: W3C css-color
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-miniapp-manifest-20220324
-fetched: '2022-04-27'
+  number: WD-css-color-4-20220428
+fetched: '2022-04-28'
 doctype: recommendation
 editorialgroup:
-- name: MiniApps Working Group
+- name: Cascading Style Sheets Working Group

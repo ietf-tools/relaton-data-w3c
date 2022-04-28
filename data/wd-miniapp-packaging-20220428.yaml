@@ -1,25 +1,25 @@
 ---
-id: W3CWD-css-color-5-20211215
+id: W3CWD-miniapp-packaging-20220428
 title:
-- content: CSS Color Module Level 5
+- content: MiniApp Packaging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-css-color-5-20211215/
+- content: https://www.w3.org/TR/2022/WD-miniapp-packaging-20220428/
   type: src
 type: standard
 docid:
-- id: W3C WD-css-color-5-20211215
+- id: W3C WD-miniapp-packaging-20220428
   type: W3C
   primary: true
-docnumber: WD-css-color-5-20211215
+docnumber: WD-miniapp-packaging-20220428
 date:
 - type: published
-  value: '2021-12-15'
+  value: '2022-04-28'
 contributor:
 - person:
     name:
       completename:
-        content: Adam Argyle
+        content: Dan Zhou
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Lilley
+        content: Martin Alvarez-Espinar
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Lea Verou
+        content: Qing An
         language:
         - en
         script:
@@ -49,14 +49,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Una Kravets
+        content: Tengyuan Zhang
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-12-15'
+- person:
+    name:
+      completename:
+        content: Yongjing ZHANG
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-04-28'
 language:
 - en
 script:
@@ -67,10 +77,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-css-color-5-20210722
+    formattedref: W3C WD-miniapp-packaging-20220324
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-color-5
+    formattedref: W3C miniapp-packaging
   description:
     content: Editor's draft
     format: text/plain
@@ -78,8 +88,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-color-5-20211215
-fetched: '2022-04-27'
+  number: WD-miniapp-packaging-20220428
+fetched: '2022-04-28'
 doctype: recommendation
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: MiniApps Working Group

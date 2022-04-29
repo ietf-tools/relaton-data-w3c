@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220426
+id: W3CWD-WGSL-20220428
 title:
-- content: WebGPU
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220426/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220428/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220426
+- id: W3C WD-WGSL-20220428
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220426
+docnumber: WD-WGSL-20220428
 date:
 - type: published
-  value: '2022-04-26'
+  value: '2022-04-28'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: David Neto
         language:
         - en
         script:
@@ -29,24 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-04-26'
+revdate: '2022-04-28'
 language:
 - en
 script:
@@ -57,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220425
+    formattedref: W3C WD-WGSL-20220426
 - type: hasDraft
   bibitem:
-    formattedref: W3C gpuweb
+    formattedref: W3C wgsl
   description:
     content: Editor's draft
     format: text/plain
@@ -68,8 +58,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220426
-fetched: '2022-04-28'
+  number: WD-WGSL-20220428
+fetched: '2022-04-29'
 doctype: recommendation
 editorialgroup:
 - name: GPU for the Web Working Group

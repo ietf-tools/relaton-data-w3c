@@ -1,25 +1,25 @@
 ---
-id: W3CWD-viss2-core-20220405
+id: W3CDNOTE-webcodecs-opus-codec-registration-20220504
 title:
-- content: VISS version 2 - Core
+- content: Opus WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-viss2-core-20220405/
+- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-opus-codec-registration-20220504/
   type: src
 type: standard
 docid:
-- id: W3C WD-viss2-core-20220405
+- id: W3C DNOTE-webcodecs-opus-codec-registration-20220504
   type: W3C
   primary: true
-docnumber: WD-viss2-core-20220405
+docnumber: DNOTE-webcodecs-opus-codec-registration-20220504
 date:
 - type: published
-  value: '2022-04-05'
+  value: '2022-05-04'
 contributor:
 - person:
     name:
       completename:
-        content: Isaac Agudo
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ulf Bjorkengren
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -39,37 +39,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Wonsuk Lee
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-05'
+revdate: '2022-05-04'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-viss2-core-20220308
+    formattedref: W3C DNOTE-webcodecs-opus-codec-registration-20220411
 - type: hasDraft
   bibitem:
-    formattedref: W3C gh-pages/spec
+    formattedref: W3C opus_codec_registration.html
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-viss2-core-20220405
-fetched: '2022-05-03'
-doctype: recommendation
+  number: DNOTE-webcodecs-opus-codec-registration-20220504
+fetched: '2022-05-04'
+doctype: groupNote
 editorialgroup:
-- name: Automotive Working Group
+- name: Media Working Group

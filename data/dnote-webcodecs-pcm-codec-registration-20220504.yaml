@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220428
+id: W3CDNOTE-webcodecs-pcm-codec-registration-20220504
 title:
-- content: WebGPU
+- content: Linear PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220428/
+- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-pcm-codec-registration-20220504/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220428
+- id: W3C DNOTE-webcodecs-pcm-codec-registration-20220504
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220428
+docnumber: DNOTE-webcodecs-pcm-codec-registration-20220504
 date:
 - type: published
-  value: '2022-04-28'
+  value: '2022-05-04'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -39,37 +39,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-28'
+revdate: '2022-05-04'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220426
+    formattedref: W3C DNOTE-webcodecs-pcm-codec-registration-20220411
 - type: hasDraft
   bibitem:
-    formattedref: W3C gpuweb
+    formattedref: W3C pcm_codec_registration.html
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webgpu-20220428
-fetched: '2022-05-03'
-doctype: recommendation
+  number: DNOTE-webcodecs-pcm-codec-registration-20220504
+fetched: '2022-05-04'
+doctype: groupNote
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Media Working Group

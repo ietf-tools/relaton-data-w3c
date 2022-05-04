@@ -1,25 +1,25 @@
 ---
-id: W3CWD-WGSL-20220428
+id: W3CWD-viss2-core-20220503
 title:
-- content: WebGPU Shading Language
+- content: VISS version 2 - Core
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220428/
+- content: https://www.w3.org/TR/2022/WD-viss2-core-20220503/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220428
+- id: W3C WD-viss2-core-20220503
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220428
+docnumber: WD-viss2-core-20220503
 date:
 - type: published
-  value: '2022-04-28'
+  value: '2022-05-03'
 contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Isaac Agudo
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Ulf Bjorkengren
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-28'
+- person:
+    name:
+      completename:
+        content: Wonsuk Lee
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-03'
 language:
 - en
 script:
@@ -47,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-WGSL-20220426
+    formattedref: W3C WD-viss2-core-20220405
 - type: hasDraft
   bibitem:
-    formattedref: W3C wgsl
+    formattedref: W3C gh-pages/spec
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220428
-fetched: '2022-05-03'
+  number: WD-viss2-core-20220503
+fetched: '2022-05-04'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Automotive Working Group

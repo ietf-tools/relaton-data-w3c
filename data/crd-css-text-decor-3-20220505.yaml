@@ -1,32 +1,42 @@
 ---
-id: W3CCR-css-will-change-1-20151203
+id: W3CCRD-css-text-decor-3-20220505
 title:
-- content: CSS Will Change Module Level 1
+- content: CSS Text Decoration Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2015/CR-css-will-change-1-20151203/
+- content: https://www.w3.org/TR/2022/CRD-css-text-decor-3-20220505/
   type: src
 type: standard
 docid:
-- id: W3C CR-css-will-change-1-20151203
+- id: W3C CRD-css-text-decor-3-20220505
   type: W3C
   primary: true
-docnumber: CR-css-will-change-1-20151203
+docnumber: CRD-css-text-decor-3-20220505
 date:
 - type: published
-  value: '2015-12-03'
+  value: '2022-05-05'
 contributor:
 - person:
     name:
       completename:
-        content: Tab Atkins Jr.
+        content: Elika Etemad
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2015-12-03'
+- person:
+    name:
+      completename:
+        content: Koji Ishii
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-05'
 language:
 - en
 script:
@@ -37,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-css-will-change-1-20140429
+    formattedref: W3C CR-css-text-decor-3-20190813
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-will-change
+    formattedref: W3C css-text-decor-3
   description:
     content: Editor's draft
     format: text/plain
@@ -48,8 +58,8 @@ series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-css-will-change-1-20151203
-fetched: '2022-05-04'
+  number: CRD-css-text-decor-3-20220505
+fetched: '2022-05-05'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

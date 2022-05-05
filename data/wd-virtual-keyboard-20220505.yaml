@@ -1,20 +1,20 @@
 ---
-id: W3CWD-virtual-keyboard-20210928
+id: W3CWD-virtual-keyboard-20220505
 title:
 - content: VirtualKeyboard API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-virtual-keyboard-20210928/
+- content: https://www.w3.org/TR/2022/WD-virtual-keyboard-20220505/
   type: src
 type: standard
 docid:
-- id: W3C WD-virtual-keyboard-20210928
+- id: W3C WD-virtual-keyboard-20220505
   type: W3C
   primary: true
-docnumber: WD-virtual-keyboard-20210928
+docnumber: WD-virtual-keyboard-20220505
 date:
 - type: published
-  value: '2021-09-28'
+  value: '2022-05-05'
 contributor:
 - person:
     name:
@@ -26,17 +26,7 @@ contributor:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Grisha Lyukshin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2021-09-28'
+revdate: '2022-05-05'
 language:
 - en
 script:
@@ -47,7 +37,7 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-virtual-keyboard-20210824
+    formattedref: W3C WD-virtual-keyboard-20210928
 - type: hasDraft
   bibitem:
     formattedref: W3C virtual-keyboard
@@ -58,8 +48,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-virtual-keyboard-20210928
-fetched: '2022-05-04'
+  number: WD-virtual-keyboard-20220505
+fetched: '2022-05-05'
 doctype: recommendation
 editorialgroup:
 - name: Web Editing Working Group

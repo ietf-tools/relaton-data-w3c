@@ -15,27 +15,27 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-basic-20001219
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-xhtml-basic-20101123
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-basic-20080729
+      content: W3C REC-xhtml-basic-20001219
       format: text/plain
 - type: hasEdition
   bibitem:
     formattedref:
       content: W3C SPSD-xhtml-basic-20180327
       format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xhtml-basic-20080729
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-basic
-fetched: '2022-05-08'
+fetched: '2022-05-09'
 doctype: recommendation

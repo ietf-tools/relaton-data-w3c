@@ -1,25 +1,25 @@
 ---
-id: W3CWD-permissions-20220506
+id: W3CWD-webgpu-20220509
 title:
-- content: Permissions
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-permissions-20220506/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220509/
   type: src
 type: standard
 docid:
-- id: W3C WD-permissions-20220506
+- id: W3C WD-webgpu-20220509
   type: W3C
   primary: true
-docnumber: WD-permissions-20220506
+docnumber: WD-webgpu-20220509
 date:
 - type: published
-  value: '2022-05-06'
+  value: '2022-05-09'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike Taylor
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-06'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-09'
 language:
 - en
 script:
@@ -47,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-permissions-20220311
+    formattedref: W3C WD-webgpu-20220506
 - type: hasDraft
   bibitem:
-    formattedref: W3C permissions
+    formattedref: W3C gpuweb
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-permissions-20220506
-fetched: '2022-05-08'
+  number: WD-webgpu-20220509
+fetched: '2022-05-09'
 doctype: recommendation
 editorialgroup:
-- name: Web Application Security Working Group
+- name: GPU for the Web Working Group

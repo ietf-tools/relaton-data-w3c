@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-xhtml-rdfa-20120607
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-xhtml-rdfa-20130822
       format: text/plain
 - type: hasEdition
@@ -27,10 +22,15 @@ relation:
     formattedref:
       content: W3C REC-xhtml-rdfa-20150317
       format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-xhtml-rdfa-20120607
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-rdfa
-fetched: '2022-05-09'
+fetched: '2022-05-10'
 doctype: recommendation

@@ -1,17 +1,17 @@
 ---
-id: W3CDNOTE-mini-app-white-paper-20220510
+id: W3CWD-vocab-dcat-3-20220510
 title:
-- content: MiniApp Standardization White Paper version 2
+- content: Data Catalog Vocabulary (DCAT) - Version 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220510/
+- content: https://www.w3.org/TR/2022/WD-vocab-dcat-3-20220510/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-mini-app-white-paper-20220510
+- id: W3C WD-vocab-dcat-3-20220510
   type: W3C
   primary: true
-docnumber: DNOTE-mini-app-white-paper-20220510
+docnumber: WD-vocab-dcat-3-20220510
 date:
 - type: published
   value: '2022-05-10'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: An Qi (Angel) Li
+        content: Alejandra Gonzalez Beltran
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chen Yinli
+        content: Andrea Perego
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dan Zhou
+        content: David Browning
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Fuqiao Xue
+        content: Peter Winstanley
         language:
         - en
         script:
@@ -59,7 +59,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenny Yuan
+        content: Riccardo Albertoni
         language:
         - en
         script:
@@ -69,27 +69,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Qing An
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Wanming Lin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: xiaowei jiang
+        content: Simon Cox
         language:
         - en
         script:
@@ -101,22 +81,25 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-mini-app-white-paper-20190912
+    formattedref: W3C WD-vocab-dcat-3-20220111
 - type: hasDraft
   bibitem:
-    formattedref: W3C mini-app-white-paper
+    formattedref: W3C dcat
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-mini-app-white-paper-20220510
-fetched: '2022-05-10'
-doctype: groupNote
+  number: WD-vocab-dcat-3-20220510
+fetched: '2022-05-11'
+doctype: recommendation
 editorialgroup:
-- name: MiniApps Working Group
+- name: Dataset Exchange Working Group

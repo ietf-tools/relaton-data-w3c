@@ -15,11 +15,6 @@ relation:
 - type: hasEdition
   bibitem:
     formattedref:
-      content: W3C REC-webstorage-20130730
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    formattedref:
       content: W3C REC-webstorage-20160419
       format: text/plain
 - type: hasEdition
@@ -27,10 +22,15 @@ relation:
     formattedref:
       content: W3C SPSD-webstorage-20210128
       format: text/plain
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: W3C REC-webstorage-20130730
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webstorage
-fetched: '2022-05-10'
+fetched: '2022-05-11'
 doctype: recommendation

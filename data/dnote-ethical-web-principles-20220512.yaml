@@ -1,25 +1,25 @@
 ---
-id: W3CWD-epub-33-20220420
+id: W3CDNOTE-ethical-web-principles-20220512
 title:
-- content: EPUB 3.3
+- content: W3C TAG Ethical Web Principles
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-epub-33-20220420/
+- content: https://www.w3.org/TR/2022/DNOTE-ethical-web-principles-20220512/
   type: src
 type: standard
 docid:
-- id: W3C WD-epub-33-20220420
+- id: W3C DNOTE-ethical-web-principles-20220512
   type: W3C
   primary: true
-docnumber: WD-epub-33-20220420
+docnumber: DNOTE-ethical-web-principles-20220512
 date:
 - type: published
-  value: '2022-04-20'
+  value: '2022-05-12'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Amy Guy
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Daniel Appelquist
         language:
         - en
         script:
@@ -39,37 +39,31 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Hadley Beeman
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-20'
+revdate: '2022-05-12'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
-- type: obsoletes
-  bibitem:
-    formattedref: W3C WD-epub-33-20220419
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-specs/epub33
+    formattedref: W3C ethical-web-principles
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-epub-33-20220420
-fetched: '2022-05-11'
-doctype: recommendation
+  number: DNOTE-ethical-web-principles-20220512
+fetched: '2022-05-12'
+doctype: groupNote
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Technical Architecture Group

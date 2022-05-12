@@ -1,17 +1,17 @@
 ---
-id: W3CWD-webgpu-20220511
+id: W3CWD-dpub-aria-1.1-20220511
 title:
-- content: WebGPU
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220511/
+- content: https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220511/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220511
+- id: W3C WD-dpub-aria-1.1-20220511
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220511
+docnumber: WD-dpub-aria-1.1-20220511
 date:
 - type: published
   value: '2022-05-11'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Matt Garrish
         language:
         - en
         script:
@@ -29,17 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
+        content: Tzviya Siegman
         language:
         - en
         script:
@@ -57,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220510
+    formattedref: W3C WD-dpub-aria-1.1-20220302
 - type: hasDraft
   bibitem:
-    formattedref: W3C gpuweb
+    formattedref: W3C dpub-aria
   description:
     content: Editor's draft
     format: text/plain
@@ -68,8 +58,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220511
-fetched: '2022-05-11'
+  number: WD-dpub-aria-1.1-20220511
+fetched: '2022-05-12'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Accessible Rich Internet Applications Working Group

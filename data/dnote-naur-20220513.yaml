@@ -1,0 +1,62 @@
+---
+id: W3CDNOTE-naur-20220513
+title:
+- content: Natural Language Interface Accessibility User Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/DNOTE-naur-20220513/
+  type: src
+type: standard
+docid:
+- id: W3C DNOTE-naur-20220513
+  type: W3C
+  primary: true
+docnumber: DNOTE-naur-20220513
+date:
+- type: published
+  value: '2022-05-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jason White
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joshue O'Connor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-13'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    formattedref: W3C WD-naur-20211012
+- type: hasDraft
+  bibitem:
+    formattedref: W3C naur
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-naur-20220513
+fetched: '2022-05-13'
+doctype: groupNote
+editorialgroup:
+- name: Accessible Platform Architectures

@@ -1,25 +1,35 @@
 ---
-id: W3CDNOTE-mini-app-white-paper-20220511
+id: W3CDNOTE-mini-app-white-paper-20220516
 title:
 - content: MiniApp Standardization White Paper version 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220511/
+- content: https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220516/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-mini-app-white-paper-20220511
+- id: W3C DNOTE-mini-app-white-paper-20220516
   type: W3C
   primary: true
-docnumber: DNOTE-mini-app-white-paper-20220511
+docnumber: DNOTE-mini-app-white-paper-20220516
 date:
 - type: published
-  value: '2022-05-11'
+  value: '2022-05-16'
 contributor:
 - person:
     name:
       completename:
         content: An Qi (Angel) Li
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Canfeng Chen
         language:
         - en
         script:
@@ -69,6 +79,16 @@ contributor:
 - person:
     name:
       completename:
+        content: Martin Alvarez-Espinar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
         content: Qing An
         language:
         - en
@@ -89,14 +109,14 @@ contributor:
 - person:
     name:
       completename:
-        content: xiaowei jiang
+        content: Zitao Wang
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-11'
+revdate: '2022-05-16'
 language:
 - en
 script:
@@ -104,7 +124,7 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C DNOTE-mini-app-white-paper-20220510
+    formattedref: W3C DNOTE-mini-app-white-paper-20220511
 - type: hasDraft
   bibitem:
     formattedref: W3C white-paper
@@ -115,8 +135,8 @@ series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-mini-app-white-paper-20220511
-fetched: '2022-05-15'
+  number: DNOTE-mini-app-white-paper-20220516
+fetched: '2022-05-16'
 doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group

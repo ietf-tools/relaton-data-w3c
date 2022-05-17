@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-webrtc-stats-20220422
+id: W3CNOTE-epub-a11y-eaa-mapping-20220517
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: EPUB Accessibility - EU Accessibility Act Mapping
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-webrtc-stats-20220422/
+- content: https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220517/
   type: src
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20220422
+- id: W3C NOTE-epub-a11y-eaa-mapping-20220517
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20220422
+docnumber: NOTE-epub-a11y-eaa-mapping-20220517
 date:
 - type: published
-  value: '2022-04-22'
+  value: '2022-05-17'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Cristina Mussinelli
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Gregorio Pellegrino
         language:
         - en
         script:
@@ -39,37 +39,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Luc Audrain
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-22'
+revdate: '2022-05-17'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-webrtc-stats-20220421
+    formattedref: W3C NOTE-epub-a11y-eaa-mapping-20220419
 - type: hasDraft
   bibitem:
-    formattedref: W3C webrtc-stats
+    formattedref: W3C epub-a11y-eaa-mapping
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-webrtc-stats-20220422
-fetched: '2022-05-16'
-doctype: recommendation
+  number: NOTE-epub-a11y-eaa-mapping-20220517
+fetched: '2022-05-17'
+doctype: groupNote
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: EPUB 3 Working Group

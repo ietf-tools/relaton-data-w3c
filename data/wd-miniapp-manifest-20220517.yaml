@@ -1,25 +1,25 @@
 ---
-id: W3CWD-WGSL-20220513
+id: W3CWD-miniapp-manifest-20220517
 title:
-- content: WebGPU Shading Language
+- content: MiniApp Manifest
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220513/
+- content: https://www.w3.org/TR/2022/WD-miniapp-manifest-20220517/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220513
+- id: W3C WD-miniapp-manifest-20220517
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220513
+docnumber: WD-miniapp-manifest-20220517
 date:
 - type: published
-  value: '2022-05-13'
+  value: '2022-05-17'
 contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Martin Alvarez-Espinar
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Yongjing ZHANG
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-13'
+revdate: '2022-05-17'
 language:
 - en
 script:
@@ -47,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-WGSL-20220512
+    formattedref: W3C WD-miniapp-manifest-20220428
 - type: hasDraft
   bibitem:
-    formattedref: W3C wgsl
+    formattedref: W3C miniapp-manifest
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +58,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220513
-fetched: '2022-05-16'
+  number: WD-miniapp-manifest-20220517
+fetched: '2022-05-17'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: MiniApps Working Group

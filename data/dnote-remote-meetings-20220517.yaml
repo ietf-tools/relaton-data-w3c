@@ -1,25 +1,25 @@
 ---
-id: W3CCR-epub-a11y-11-20220512
+id: W3CDNOTE-remote-meetings-20220517
 title:
-- content: EPUB Accessibility 1.1
+- content: Accessibility of Remote Meetings
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CR-epub-a11y-11-20220512/
+- content: https://www.w3.org/TR/2022/DNOTE-remote-meetings-20220517/
   type: src
 type: standard
 docid:
-- id: W3C CR-epub-a11y-11-20220512
+- id: W3C DNOTE-remote-meetings-20220517
   type: W3C
   primary: true
-docnumber: CR-epub-a11y-11-20220512
+docnumber: DNOTE-remote-meetings-20220517
 date:
 - type: published
-  value: '2022-05-12'
+  value: '2022-05-17'
 contributor:
 - person:
     name:
       completename:
-        content: Avneesh Singh
+        content: Janina Sajka
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
+        content: Jason White
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: George Kerscher
+        content: Joshue O'Connor
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Judy Brewer
         language:
         - en
         script:
@@ -59,37 +59,44 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Scott Hollier
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-12'
+- person:
+    name:
+      completename:
+        content: Steve Noble
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-17'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-epub-a11y-11-20220420
+    formattedref: W3C WD-remote-meetings-20211014
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-specs/epub33
+    formattedref: W3C remote-meetings
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CR-epub-a11y-11-20220512
-fetched: '2022-05-16'
-doctype: recommendation
+  number: DNOTE-remote-meetings-20220517
+fetched: '2022-05-17'
+doctype: groupNote
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Accessible Platform Architectures

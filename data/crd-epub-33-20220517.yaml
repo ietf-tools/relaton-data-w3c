@@ -1,25 +1,25 @@
 ---
-id: W3CNOTE-epub-a11y-eaa-mapping-20220419
+id: W3CCRD-epub-33-20220517
 title:
-- content: EPUB Accessibility - EU Accessibility Act Mapping
+- content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220419/
+- content: https://www.w3.org/TR/2022/CRD-epub-33-20220517/
   type: src
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-eaa-mapping-20220419
+- id: W3C CRD-epub-33-20220517
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-eaa-mapping-20220419
+docnumber: CRD-epub-33-20220517
 date:
 - type: published
-  value: '2022-04-19'
+  value: '2022-05-17'
 contributor:
 - person:
     name:
       completename:
-        content: Cristina Mussinelli
+        content: Dave Cramer
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Ivan Herman
         language:
         - en
         script:
@@ -39,34 +39,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Luc Audrain
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-19'
+revdate: '2022-05-17'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-epub-a11y-eaa-mapping-20220415
+    formattedref: W3C CR-epub-33-20220512
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-a11y-eaa-mapping
+    formattedref: W3C epub-specs/epub33
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C CR
     format: text/plain
-  number: NOTE-epub-a11y-eaa-mapping-20220419
-fetched: '2022-05-16'
-doctype: groupNote
+  number: CRD-epub-33-20220517
+fetched: '2022-05-17'
+doctype: recommendation
 editorialgroup:
 - name: EPUB 3 Working Group

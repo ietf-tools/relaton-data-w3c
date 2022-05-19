@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-epub-a11y-11-20220517
+id: W3CCRD-epub-rs-33-20220519
 title:
-- content: EPUB Accessibility 1.1
+- content: EPUB Reading Systems 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-a11y-11-20220517/
+- content: https://www.w3.org/TR/2022/CRD-epub-rs-33-20220519/
   type: src
 type: standard
 docid:
-- id: W3C CRD-epub-a11y-11-20220517
+- id: W3C CRD-epub-rs-33-20220519
   type: W3C
   primary: true
-docnumber: CRD-epub-a11y-11-20220517
+docnumber: CRD-epub-rs-33-20220519
 date:
 - type: published
-  value: '2022-05-17'
+  value: '2022-05-19'
 contributor:
 - person:
     name:
       completename:
-        content: Avneesh Singh
+        content: Dave Cramer
         language:
         - en
         script:
@@ -29,27 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: George Kerscher
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Gregorio Pellegrino
+        content: Ivan Herman
         language:
         - en
         script:
@@ -66,7 +46,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-05-17'
+revdate: '2022-05-19'
 language:
 - en
 script:
@@ -77,7 +57,7 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-epub-a11y-11-20220512
+    formattedref: W3C CRD-epub-rs-33-20220518
 - type: hasDraft
   bibitem:
     formattedref: W3C epub-specs/epub33
@@ -88,8 +68,8 @@ series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-epub-a11y-11-20220517
-fetched: '2022-05-18'
+  number: CRD-epub-rs-33-20220519
+fetched: '2022-05-19'
 doctype: recommendation
 editorialgroup:
 - name: EPUB 3 Working Group

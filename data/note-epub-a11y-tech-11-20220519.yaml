@@ -1,25 +1,25 @@
 ---
-id: W3CWD-screen-capture-20220505
+id: W3CNOTE-epub-a11y-tech-11-20220519
 title:
-- content: Screen Capture
+- content: EPUB Accessibility Techniques 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-screen-capture-20220505/
+- content: https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220519/
   type: src
 type: standard
 docid:
-- id: W3C WD-screen-capture-20220505
+- id: W3C NOTE-epub-a11y-tech-11-20220519
   type: W3C
   primary: true
-docnumber: WD-screen-capture-20220505
+docnumber: NOTE-epub-a11y-tech-11-20220519
 date:
 - type: published
-  value: '2022-05-05'
+  value: '2022-05-19'
 contributor:
 - person:
     name:
       completename:
-        content: Elad Alon
+        content: Avneesh Singh
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Charles LaPierre
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jan-Ivar Bruaroey
+        content: George Kerscher
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Keith Griffin
+        content: Gregorio Pellegrino
         language:
         - en
         script:
@@ -59,47 +59,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Thomson
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Suhas Nandakumar
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-05-05'
+revdate: '2022-05-19'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-screen-capture-20220421
+    formattedref: W3C NOTE-epub-a11y-tech-11-20220517
 - type: hasDraft
   bibitem:
-    formattedref: W3C mediacapture-screen-share
+    formattedref: W3C a11y-tech
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-screen-capture-20220505
-fetched: '2022-05-18'
-doctype: recommendation
+  number: NOTE-epub-a11y-tech-11-20220519
+fetched: '2022-05-19'
+doctype: groupNote
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: EPUB 3 Working Group

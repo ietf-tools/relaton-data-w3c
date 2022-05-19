@@ -1,25 +1,25 @@
 ---
-id: W3CWD-media-source-2-20220510
+id: W3CWD-webgpu-20220518
 title:
-- content: Media Source Extensions™
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-media-source-2-20220510/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220518/
   type: src
 type: standard
 docid:
-- id: W3C WD-media-source-2-20220510
+- id: W3C WD-webgpu-20220518
   type: W3C
   primary: true
-docnumber: WD-media-source-2-20220510
+docnumber: WD-webgpu-20220518
 date:
 - type: published
-  value: '2022-05-10'
+  value: '2022-05-18'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Watson
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Matthew Wolenetz
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-10'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-18'
 language:
 - en
 script:
@@ -47,10 +57,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-media-source-2-20220505
+    formattedref: W3C WD-webgpu-20220517
 - type: hasDraft
   bibitem:
-    formattedref: W3C media-source
+    formattedref: W3C gpuweb
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +68,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-source-2-20220510
-fetched: '2022-05-18'
+  number: WD-webgpu-20220518
+fetched: '2022-05-19'
 doctype: recommendation
 editorialgroup:
-- name: Media Working Group
+- name: GPU for the Web Working Group

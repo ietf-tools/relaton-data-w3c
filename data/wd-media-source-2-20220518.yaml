@@ -1,25 +1,25 @@
 ---
-id: W3CNOTE-epub-ssv-11-20220517
+id: W3CWD-media-source-2-20220518
 title:
-- content: EPUB 3 Structural Semantics Vocabulary 1.1
+- content: Media Source Extensions™
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220517/
+- content: https://www.w3.org/TR/2022/WD-media-source-2-20220518/
   type: src
 type: standard
 docid:
-- id: W3C NOTE-epub-ssv-11-20220517
+- id: W3C WD-media-source-2-20220518
   type: W3C
   primary: true
-docnumber: NOTE-epub-ssv-11-20220517
+docnumber: WD-media-source-2-20220518
 date:
 - type: published
-  value: '2022-05-17'
+  value: '2022-05-18'
 contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Mark Watson
         language:
         - en
         script:
@@ -29,34 +29,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Matthew Wolenetz
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-17'
+revdate: '2022-05-18'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-epub-ssv-11-20220420
+    formattedref: W3C WD-media-source-2-20220510
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-specs/epub33
+    formattedref: W3C media-source
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-epub-ssv-11-20220517
-fetched: '2022-05-18'
-doctype: groupNote
+  number: WD-media-source-2-20220518
+fetched: '2022-05-19'
+doctype: recommendation
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Media Working Group

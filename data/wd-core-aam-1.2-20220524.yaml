@@ -1,25 +1,25 @@
 ---
-id: W3CDNOTE-webcodecs-alaw-codec-registration-20220504
+id: W3CWD-core-aam-1.2-20220524
 title:
-- content: A-law PCM WebCodecs Registration
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-alaw-codec-registration-20220504/
+- content: https://www.w3.org/TR/2022/WD-core-aam-1.2-20220524/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-alaw-codec-registration-20220504
+- id: W3C WD-core-aam-1.2-20220524
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-alaw-codec-registration-20220504
+docnumber: WD-core-aam-1.2-20220524
 date:
 - type: published
-  value: '2022-05-04'
+  value: '2022-05-24'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Cunningham
+        content: Joanmarie Diggs
         language:
         - en
         script:
@@ -39,34 +39,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Michael Cooper
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-04'
+revdate: '2022-05-24'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C DNOTE-webcodecs-alaw-codec-registration-20220411
+    formattedref: W3C WD-core-aam-1.2-20220517
 - type: hasDraft
   bibitem:
-    formattedref: W3C alaw_codec_registration.html
+    formattedref: W3C core-aam
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-alaw-codec-registration-20220504
-fetched: '2022-05-24'
-doctype: groupNote
+  number: WD-core-aam-1.2-20220524
+fetched: '2022-05-25'
+doctype: recommendation
 editorialgroup:
-- name: Media Working Group
+- name: Accessible Rich Internet Applications Working Group

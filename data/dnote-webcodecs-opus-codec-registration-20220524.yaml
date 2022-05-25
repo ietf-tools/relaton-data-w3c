@@ -1,17 +1,17 @@
 ---
-id: W3CCRD-epub-rs-33-20220524
+id: W3CDNOTE-webcodecs-opus-codec-registration-20220524
 title:
-- content: EPUB Reading Systems 3.3
+- content: Opus WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-rs-33-20220524/
+- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-opus-codec-registration-20220524/
   type: src
 type: standard
 docid:
-- id: W3C CRD-epub-rs-33-20220524
+- id: W3C DNOTE-webcodecs-opus-codec-registration-20220524
   type: W3C
   primary: true
-docnumber: CRD-epub-rs-33-20220524
+docnumber: DNOTE-webcodecs-opus-codec-registration-20220524
 date:
 - type: published
   value: '2022-05-24'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Paul Adenot
         language:
         - en
         script:
@@ -51,25 +51,22 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-epub-rs-33-20220522
+    formattedref: W3C DNOTE-webcodecs-opus-codec-registration-20220504
 - type: hasDraft
   bibitem:
-    formattedref: W3C epub-specs/epub33
+    formattedref: W3C opus_codec_registration.html
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-epub-rs-33-20220524
-fetched: '2022-05-24'
-doctype: recommendation
+  number: DNOTE-webcodecs-opus-codec-registration-20220524
+fetched: '2022-05-25'
+doctype: groupNote
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Media Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220521
+id: W3CDNOTE-webcodecs-vp9-codec-registration-20220524
 title:
-- content: WebGPU
+- content: VP9 WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220521/
+- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-vp9-codec-registration-20220524/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220521
+- id: W3C DNOTE-webcodecs-vp9-codec-registration-20220524
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220521
+docnumber: DNOTE-webcodecs-vp9-codec-registration-20220524
 date:
 - type: published
-  value: '2022-05-21'
+  value: '2022-05-24'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -39,37 +39,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-21'
+revdate: '2022-05-24'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webgpu-20220520
+    formattedref: W3C DNOTE-webcodecs-vp9-codec-registration-20220504
 - type: hasDraft
   bibitem:
-    formattedref: W3C gpuweb
+    formattedref: W3C vp9_codec_registration.html
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webgpu-20220521
-fetched: '2022-05-24'
-doctype: recommendation
+  number: DNOTE-webcodecs-vp9-codec-registration-20220524
+fetched: '2022-05-25'
+doctype: groupNote
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Media Working Group

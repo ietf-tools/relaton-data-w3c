@@ -1,25 +1,25 @@
 ---
-id: W3CWD-pointerevents3-20220321
+id: W3CWD-baggage-20220524
 title:
-- content: Pointer Events
+- content: 'Propagation format for distributed context: Baggage'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220321/
+- content: https://www.w3.org/TR/2022/WD-baggage-20220524/
   type: src
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20220321
+- id: W3C WD-baggage-20220524
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20220321
+docnumber: WD-baggage-20220524
 date:
 - type: published
-  value: '2022-03-21'
+  value: '2022-05-24'
 contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Sergey Kanzhelev
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Yuri Shkuro
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-03-21'
+revdate: '2022-05-24'
 language:
 - en
 script:
@@ -47,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-pointerevents3-20220316
+    formattedref: W3C WD-baggage-20220426
 - type: hasDraft
   bibitem:
-    formattedref: W3C pointerevents
+    formattedref: W3C baggage
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +58,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20220321
-fetched: '2022-05-24'
+  number: WD-baggage-20220524
+fetched: '2022-05-25'
 doctype: recommendation
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Distributed Tracing Working Group

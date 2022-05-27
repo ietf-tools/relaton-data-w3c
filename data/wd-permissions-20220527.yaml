@@ -1,25 +1,25 @@
 ---
-id: W3CWD-miniapp-lifecycle-20220526
+id: W3CWD-permissions-20220527
 title:
-- content: MiniApp Lifecycle
+- content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220526/
+- content: https://www.w3.org/TR/2022/WD-permissions-20220527/
   type: src
 type: standard
 docid:
-- id: W3C WD-miniapp-lifecycle-20220526
+- id: W3C WD-permissions-20220527
   type: W3C
   primary: true
-docnumber: WD-miniapp-lifecycle-20220526
+docnumber: WD-permissions-20220527
 date:
 - type: published
-  value: '2022-05-26'
+  value: '2022-05-27'
 contributor:
 - person:
     name:
       completename:
-        content: Haoyang Xu
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Qing An
+        content: Mike Taylor
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-26'
+revdate: '2022-05-27'
 language:
 - en
 script:
@@ -47,10 +47,10 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-miniapp-lifecycle-20220324
+    formattedref: W3C WD-permissions-20220509
 - type: hasDraft
   bibitem:
-    formattedref: W3C miniapp-lifecycle
+    formattedref: W3C permissions
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +58,6 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-miniapp-lifecycle-20220526
-fetched: '2022-05-26'
+  number: WD-permissions-20220527
+fetched: '2022-05-27'
 doctype: recommendation
-editorialgroup:
-- name: MiniApps Working Group

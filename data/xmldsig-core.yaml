@@ -1,24 +1,39 @@
 ---
+id: W3Cxmldsig-core
+title:
+- content: XML Signature Syntax and Processing (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmldsig-core/
   type: src
 type: standard
+docid:
+- id: W3C xmldsig-core
+  type: W3C
+  primary: true
 docnumber: xmldsig-core
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmldsig-core
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmldsig-core-20020212
+    docid:
+    - id: W3C REC-xmldsig-core-20020212
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmldsig-core-20020212
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmldsig-core-20080610
+    docid:
+    - id: W3C REC-xmldsig-core-20080610
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmldsig-core-20080610
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmldsig-core
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

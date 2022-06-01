@@ -1,19 +1,30 @@
 ---
+id: W3Caccessibility-conformance-challenges
+title:
+- content: Challenges with Accessibility Guidelines Conformance and Testing, and Approaches
+    for Mitigating Them
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/accessibility-conformance-challenges/
   type: src
 type: standard
+docid:
+- id: W3C accessibility-conformance-challenges
+  type: W3C
+  primary: true
 docnumber: accessibility-conformance-challenges
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C accessibility-conformance-challenges
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-accessibility-conformance-challenges-20200619
+    docid:
+    - id: W3C WD-accessibility-conformance-challenges-20200619
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-accessibility-conformance-challenges-20200619
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: accessibility-conformance-challenges
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

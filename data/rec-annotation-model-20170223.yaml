@@ -57,16 +57,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-annotation-model-20170117
+    id: W3CPR-annotation-model-20170117
+    docid:
+    - id: W3C PR-annotation-model-20170117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-annotation-model-20170117
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C web-annotation
+    id: W3Cweb-annotation
+    docid:
+    - id: W3C web-annotation
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-annotation
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -75,7 +96,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-annotation-model-20170223
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Annotation Working Group

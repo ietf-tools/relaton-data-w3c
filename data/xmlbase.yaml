@@ -1,24 +1,39 @@
 ---
+id: W3Cxmlbase
+title:
+- content: XML Base (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmlbase/
   type: src
 type: standard
+docid:
+- id: W3C xmlbase
+  type: W3C
+  primary: true
 docnumber: xmlbase
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmlbase
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlbase-20010627
+    docid:
+    - id: W3C REC-xmlbase-20010627
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlbase-20010627
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlbase-20090128
+    docid:
+    - id: W3C REC-xmlbase-20090128
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlbase-20090128
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmlbase
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-latn-de-gap-20210525
+    id: W3CWD-latn-de-gap-20210525
+    docid:
+    - id: W3C WD-latn-de-gap-20210525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-latn-de-gap-20210525
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C latn-de-gap
+    id: W3Clatn-de-gap
+    docid:
+    - id: W3C latn-de-gap
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C latn-de-gap
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-latn-de-gap-20220119
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

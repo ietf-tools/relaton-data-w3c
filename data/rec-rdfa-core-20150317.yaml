@@ -67,16 +67,30 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-rdfa-core-20141216
+    id: W3CPER-rdfa-core-20141216
+    docid:
+    - id: W3C PER-rdfa-core-20141216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-rdfa-core-20141216
+      format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-rdfa-core-20130822
+    id: W3CREC-rdfa-core-20130822
+    docid:
+    - id: W3C REC-rdfa-core-20130822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rdfa-core-20130822
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-rdfa-core-20150317
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDFa Working Group

@@ -97,11 +97,18 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-font-970721
+    id: W3CWD-font-970721
+    docid:
+    - id: W3C WD-font-970721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-font-970721
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-font-19990902
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

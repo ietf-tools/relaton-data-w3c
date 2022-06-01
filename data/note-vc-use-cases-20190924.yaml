@@ -84,10 +84,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-verifiable-claims-use-cases-20170608
+    id: W3CNOTE-verifiable-claims-use-cases-20170608
+    docid:
+    - id: W3C NOTE-verifiable-claims-use-cases-20170608
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-verifiable-claims-use-cases-20170608
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C vc-use-cases
+    id: W3Cvc-use-cases
+    docid:
+    - id: W3C vc-use-cases
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vc-use-cases
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -96,7 +110,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vc-use-cases-20190924
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Verifiable Credentials Working Group

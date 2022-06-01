@@ -23,7 +23,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C html-transcript-src.html
+    id: W3Chtml-transcript-src.html
+    docid:
+    - id: W3C html-transcript-src.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-transcript-src.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -32,7 +39,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-transcript-src-20151001
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

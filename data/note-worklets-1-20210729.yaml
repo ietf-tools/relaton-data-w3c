@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-worklets-1-20200908
+    id: W3CWD-worklets-1-20200908
+    docid:
+    - id: W3C WD-worklets-1-20200908
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-worklets-1-20200908
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C worklets
+    id: W3Cworklets
+    docid:
+    - id: W3C worklets
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C worklets
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-worklets-1-20210729
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

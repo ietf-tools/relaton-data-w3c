@@ -1,19 +1,30 @@
 ---
+id: W3Cmodality-interface
+title:
+- content: Modality Component to Host Environment DOM Requirements and Capabilities
+    Assessment
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/modality-interface/
   type: src
 type: standard
+docid:
+- id: W3C modality-interface
+  type: W3C
+  primary: true
 docnumber: modality-interface
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C modality-interface
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-modality-interface-20040510
+    docid:
+    - id: W3C NOTE-modality-interface-20040510
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-modality-interface-20040510
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: modality-interface
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

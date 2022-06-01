@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-skos-ucr-20070516
+    id: W3CWD-skos-ucr-20070516
+    docid:
+    - id: W3C WD-skos-ucr-20070516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-skos-ucr-20070516
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-skos-ucr-20090818
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Deployment Working Group

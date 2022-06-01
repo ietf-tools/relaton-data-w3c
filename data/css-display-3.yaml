@@ -1,19 +1,29 @@
 ---
+id: W3Ccss-display-3
+title:
+- content: CSS Display Module Level 3
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/css-display-3/
   type: src
 type: standard
+docid:
+- id: W3C css-display-3
+  type: W3C
+  primary: true
 docnumber: css-display-3
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C css-display-3
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CCRD-css-display-3-20210903
+    docid:
+    - id: W3C CRD-css-display-3-20210903
+      type: W3C
+      primary: true
     formattedref:
       content: W3C CRD-css-display-3-20210903
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: css-display-3
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

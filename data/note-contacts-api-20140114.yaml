@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-contacts-api-20120712
+    id: W3CWD-contacts-api-20120712
+    docid:
+    - id: W3C WD-contacts-api-20120712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-contacts-api-20120712
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-contacts-api-20140114
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Devices and Sensors Working Group

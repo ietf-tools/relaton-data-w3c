@@ -1,24 +1,39 @@
 ---
+id: W3Cowl2-overview
+title:
+- content: OWL 2 Web Ontology Language Document Overview (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/owl2-overview/
   type: src
 type: standard
+docid:
+- id: W3C owl2-overview
+  type: W3C
+  primary: true
 docnumber: owl2-overview
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C owl2-overview
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-owl2-overview-20091027
+    docid:
+    - id: W3C REC-owl2-overview-20091027
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-owl2-overview-20091027
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-owl2-overview-20121211
+    docid:
+    - id: W3C REC-owl2-overview-20121211
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-owl2-overview-20121211
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: owl2-overview
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

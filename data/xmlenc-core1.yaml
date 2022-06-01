@@ -1,24 +1,39 @@
 ---
+id: W3Cxmlenc-core1
+title:
+- content: XML Encryption Syntax and Processing Version 1.1
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmlenc-core1/
   type: src
 type: standard
+docid:
+- id: W3C xmlenc-core1
+  type: W3C
+  primary: true
 docnumber: xmlenc-core1
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmlenc-core1
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlenc-core-20021210
+    docid:
+    - id: W3C REC-xmlenc-core-20021210
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlenc-core-20021210
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlenc-core1-20130411
+    docid:
+    - id: W3C REC-xmlenc-core1-20130411
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlenc-core1-20130411
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmlenc-core1
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

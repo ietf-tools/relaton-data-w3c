@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C DNOTE-international-specs-20220429
+    id: W3CDNOTE-international-specs-20220429
+    docid:
+    - id: W3C DNOTE-international-specs-20220429
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-international-specs-20220429
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C bp-i18n-specdev
+    id: W3Cbp-i18n-specdev
+    docid:
+    - id: W3C bp-i18n-specdev
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C bp-i18n-specdev
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-international-specs-20220501
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

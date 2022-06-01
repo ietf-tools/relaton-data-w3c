@@ -1,19 +1,30 @@
 ---
+id: W3Cpowder-voc
+title:
+- content: 'Protocol for Web Description Resources (POWDER): Web Description Resources
+    (WDR) Vocabulary'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/powder-voc/
   type: src
 type: standard
+docid:
+- id: W3C powder-voc
+  type: W3C
+  primary: true
 docnumber: powder-voc
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C powder-voc
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-powder-voc-20070925
+    docid:
+    - id: W3C WD-powder-voc-20070925
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-powder-voc-20070925
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: powder-voc
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

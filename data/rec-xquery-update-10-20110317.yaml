@@ -87,10 +87,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xquery-update-10-20110125
+    id: W3CPR-xquery-update-10-20110125
+    docid:
+    - id: W3C PR-xquery-update-10-20110125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xquery-update-10-20110125
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xquery-update-10-errata.html
+    id: W3Cxquery-update-10-errata.html
+    docid:
+    - id: W3C xquery-update-10-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xquery-update-10-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -99,7 +113,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xquery-update-10-20110317
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Query Working Group

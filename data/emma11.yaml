@@ -1,19 +1,29 @@
 ---
+id: W3Cemma11
+title:
+- content: 'EMMA: Extensible MultiModal Annotation markup language Version 1.1'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/emma11/
   type: src
 type: standard
+docid:
+- id: W3C emma11
+  type: W3C
+  primary: true
 docnumber: emma11
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C emma11
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-emma11-20130627
+    docid:
+    - id: W3C WD-emma11-20130627
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-emma11-20130627
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: emma11
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

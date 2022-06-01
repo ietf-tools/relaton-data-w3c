@@ -1,19 +1,30 @@
 ---
+id: W3Cklreq
+title:
+- content: 'Requirements for Hangul Text Layout and Typography : 한국어 텍스트 레이아웃 및 타이포그래피를
+    위한 요구사항'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/klreq/
   type: src
 type: standard
+docid:
+- id: W3C klreq
+  type: W3C
+  primary: true
 docnumber: klreq
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C klreq
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-klreq-20200527
+    docid:
+    - id: W3C NOTE-klreq-20200527
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-klreq-20200527
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: klreq
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

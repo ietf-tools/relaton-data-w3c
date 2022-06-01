@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-css-2010-20101202
+    id: W3CWD-css-2010-20101202
+    docid:
+    - id: W3C WD-css-2010-20101202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-2010-20101202
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-css-2010-20110512
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Cascading Style Sheets Working Group

@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-pronunciation-lexicon-20080818
+    id: W3CPR-pronunciation-lexicon-20080818
+    docid:
+    - id: W3C PR-pronunciation-lexicon-20080818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-pronunciation-lexicon-20080818
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C pronunciation-lexicon-errata.html
+    id: W3Cpronunciation-lexicon-errata.html
+    docid:
+    - id: W3C pronunciation-lexicon-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C pronunciation-lexicon-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-pronunciation-lexicon-20081014
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Voice Browser Working Group

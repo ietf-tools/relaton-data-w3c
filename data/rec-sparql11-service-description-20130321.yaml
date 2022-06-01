@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-sparql11-service-description-20121108
+    id: W3CPR-sparql11-service-description-20121108
+    docid:
+    - id: W3C PR-sparql11-service-description-20121108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-sparql11-service-description-20121108
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C sparql-errata
+    id: W3Csparql-errata
+    docid:
+    - id: W3C sparql-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C sparql-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-sparql11-service-description-20130321
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SPARQL Working Group

@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-vocab-ssn-ext-20181122
+    id: W3CWD-vocab-ssn-ext-20181122
+    docid:
+    - id: W3C WD-vocab-ssn-ext-20181122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-ssn-ext-20181122
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ssn-extensions
+    id: W3Cssn-extensions
+    docid:
+    - id: W3C ssn-extensions
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ssn-extensions
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-vocab-ssn-ext-20200116
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Spatial Data on the Web Interest Group

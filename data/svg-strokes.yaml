@@ -1,19 +1,29 @@
 ---
+id: W3Csvg-strokes
+title:
+- content: SVG Strokes
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/svg-strokes/
   type: src
 type: standard
+docid:
+- id: W3C svg-strokes
+  type: W3C
+  primary: true
 docnumber: svg-strokes
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C svg-strokes
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-svg-strokes-20150409
+    docid:
+    - id: W3C WD-svg-strokes-20150409
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-svg-strokes-20150409
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: svg-strokes
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

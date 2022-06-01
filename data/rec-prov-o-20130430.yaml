@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-prov-o-20130312
+    id: W3CPR-prov-o-20130312
+    docid:
+    - id: W3C PR-prov-o-20130312
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-prov-o-20130312
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata.html
+    id: W3Cerrata.html
+    docid:
+    - id: W3C errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-prov-o-20130430
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Provenance Working Group

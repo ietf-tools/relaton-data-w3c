@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-webvtt1-20180510
+    id: W3CCR-webvtt1-20180510
+    docid:
+    - id: W3C CR-webvtt1-20180510
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webvtt1-20180510
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webvtt
+    id: W3Cwebvtt
+    docid:
+    - id: W3C webvtt
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webvtt
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-webvtt1-20190404
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Timed Text Working Group

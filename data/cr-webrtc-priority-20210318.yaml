@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webrtc-priority-20200922
+    id: W3CWD-webrtc-priority-20200922
+    docid:
+    - id: W3C WD-webrtc-priority-20200922
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-priority-20200922
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webrtc-priority
+    id: W3Cwebrtc-priority
+    docid:
+    - id: W3C webrtc-priority
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webrtc-priority
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-webrtc-priority-20210318
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Real-Time Communications Working Group

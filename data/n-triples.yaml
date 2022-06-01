@@ -1,19 +1,29 @@
 ---
+id: W3Cn-triples
+title:
+- content: RDF 1.1 N-Triples
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/n-triples/
   type: src
 type: standard
+docid:
+- id: W3C n-triples
+  type: W3C
+  primary: true
 docnumber: n-triples
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C n-triples
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-n-triples-20140225
+    docid:
+    - id: W3C REC-n-triples-20140225
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-n-triples-20140225
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: n-triples
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

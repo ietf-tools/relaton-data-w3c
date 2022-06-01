@@ -67,22 +67,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-xml-names11-20060614
+    id: W3CPER-xml-names11-20060614
+    docid:
+    - id: W3C PER-xml-names11-20060614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xml-names11-20060614
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xml-names11-errata
+    id: W3Cxml-names11-errata
+    docid:
+    - id: W3C xml-names11-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xml-names11-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-xml-names11-20040204
+    id: W3CREC-xml-names11-20040204
+    docid:
+    - id: W3C REC-xml-names11-20040204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xml-names11-20040204
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-xml-names11-20060816
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Core Working Group

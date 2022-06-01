@@ -1,19 +1,29 @@
 ---
+id: W3Ccss3-roadmap
+title:
+- content: CSS3 introduction
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/css3-roadmap/
   type: src
 type: standard
+docid:
+- id: W3C css3-roadmap
+  type: W3C
+  primary: true
 docnumber: css3-roadmap
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C css3-roadmap
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-css3-roadmap-20010523
+    docid:
+    - id: W3C WD-css3-roadmap-20010523
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-css3-roadmap-20010523
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: css3-roadmap
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

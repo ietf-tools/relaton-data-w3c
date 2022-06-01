@@ -97,22 +97,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-soap12-part1-20061219
+    id: W3CPER-soap12-part1-20061219
+    docid:
+    - id: W3C PER-soap12-part1-20061219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-soap12-part1-20061219
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-soap12-part1-20070427-errata.html
+    id: W3CREC-soap12-part1-20070427-errata.html
+    docid:
+    - id: W3C REC-soap12-part1-20070427-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-soap12-part1-20070427-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-soap12-part1-20030624
+    id: W3CREC-soap12-part1-20030624
+    docid:
+    - id: W3C REC-soap12-part1-20030624
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-soap12-part1-20030624
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-soap12-part1-20070427
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Protocol Working Group

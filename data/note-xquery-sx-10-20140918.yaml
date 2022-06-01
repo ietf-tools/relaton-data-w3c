@@ -94,13 +94,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xquery-sx-10-20100408
+    id: W3CWD-xquery-sx-10-20100408
+    docid:
+    - id: W3C WD-xquery-sx-10-20100408
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-sx-10-20100408
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xquery-sx-10-20140918
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Query Working Group

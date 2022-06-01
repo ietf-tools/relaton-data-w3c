@@ -117,10 +117,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-xquery-semantics-20090421
+    id: W3CPER-xquery-semantics-20090421
+    docid:
+    - id: W3C PER-xquery-semantics-20090421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xquery-semantics-20090421
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xquery-semantics-errata2e.html
+    id: W3Cxquery-semantics-errata2e.html
+    docid:
+    - id: W3C xquery-semantics-errata2e.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xquery-semantics-errata2e.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -129,7 +143,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xquery-semantics-20101214
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Extensible Stylesheet Language Family

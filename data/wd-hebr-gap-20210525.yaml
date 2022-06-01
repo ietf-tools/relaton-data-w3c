@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-hebr-gap-20210204
+    id: W3CWD-hebr-gap-20210204
+    docid:
+    - id: W3C WD-hebr-gap-20210204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-hebr-gap-20210204
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C gap-analysis
+    id: W3Cgap-analysis
+    docid:
+    - id: W3C gap-analysis
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gap-analysis
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-hebr-gap-20210525
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Internationalization Working Group

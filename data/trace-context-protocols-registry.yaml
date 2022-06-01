@@ -1,19 +1,29 @@
 ---
+id: W3Ctrace-context-protocols-registry
+title:
+- content: Trace Context Protocols Registry
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/trace-context-protocols-registry/
   type: src
 type: standard
+docid:
+- id: W3C trace-context-protocols-registry
+  type: W3C
+  primary: true
 docnumber: trace-context-protocols-registry
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C trace-context-protocols-registry
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-trace-context-protocols-registry-20191119
+    docid:
+    - id: W3C NOTE-trace-context-protocols-registry-20191119
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-trace-context-protocols-registry-20191119
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: trace-context-protocols-registry
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

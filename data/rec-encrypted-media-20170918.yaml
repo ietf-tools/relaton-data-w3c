@@ -67,16 +67,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-encrypted-media-20170316
+    id: W3CPR-encrypted-media-20170316
+    docid:
+    - id: W3C PR-encrypted-media-20170316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-encrypted-media-20170316
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C encrypted-media-respec.html
+    id: W3Cencrypted-media-respec.html
+    docid:
+    - id: W3C encrypted-media-respec.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C encrypted-media-respec.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C encrypted-media
+    id: W3Cencrypted-media
+    docid:
+    - id: W3C encrypted-media
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C encrypted-media
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -85,7 +106,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-encrypted-media-20170918
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: HTML Working Group

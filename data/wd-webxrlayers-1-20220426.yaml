@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webxrlayers-1-20220421
+    id: W3CWD-webxrlayers-1-20220421
+    docid:
+    - id: W3C WD-webxrlayers-1-20220421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxrlayers-1-20220421
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C immersive-web.github.io/layers
+    id: W3Cimmersive-web.github.io/layers
+    docid:
+    - id: W3C immersive-web.github.io/layers
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C immersive-web.github.io/layers
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-webxrlayers-1-20220426
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Immersive Web Working Group

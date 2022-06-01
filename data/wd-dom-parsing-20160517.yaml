@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-DOM-Parsing-20140617
+    id: W3CCR-DOM-Parsing-20140617
+    docid:
+    - id: W3C CR-DOM-Parsing-20140617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-DOM-Parsing-20140617
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C DOM-Parsing
+    id: W3CDOM-Parsing
+    docid:
+    - id: W3C DOM-Parsing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DOM-Parsing
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-DOM-Parsing-20160517
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

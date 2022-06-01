@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-hr-time-20121023
+    id: W3CPR-hr-time-20121023
+    docid:
+    - id: W3C PR-hr-time-20121023
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-hr-time-20121023
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C hr-time-errata.html
+    id: W3Chr-time-errata.html
+    docid:
+    - id: W3C hr-time-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C hr-time-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-hr-time-20121217
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-css-images-3-20191010
+    id: W3CCR-css-images-3-20191010
+    docid:
+    - id: W3C CR-css-images-3-20191010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-images-3-20191010
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-images-3
+    id: W3Ccss-images-3
+    docid:
+    - id: W3C css-images-3
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-images-3
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-css-images-3-20201217
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

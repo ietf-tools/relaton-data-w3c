@@ -1,19 +1,29 @@
 ---
+id: W3Cmmi-auth
+title:
+- content: Authoring Applications for the Multimodal Architecture
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/mmi-auth/
   type: src
 type: standard
+docid:
+- id: W3C mmi-auth
+  type: W3C
+  primary: true
 docnumber: mmi-auth
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C mmi-auth
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-mmi-auth-20080702
+    docid:
+    - id: W3C NOTE-mmi-auth-20080702
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-mmi-auth-20080702
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: mmi-auth
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

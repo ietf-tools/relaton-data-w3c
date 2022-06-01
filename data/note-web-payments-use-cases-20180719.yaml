@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-web-payments-use-cases-20150730
+    id: W3CWD-web-payments-use-cases-20150730
+    docid:
+    - id: W3C WD-web-payments-use-cases-20150730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-payments-use-cases-20150730
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-web-payments-use-cases-20180719
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Commerce Interest Group

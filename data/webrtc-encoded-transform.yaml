@@ -1,19 +1,29 @@
 ---
+id: W3Cwebrtc-encoded-transform
+title:
+- content: WebRTC Encoded Transform
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webrtc-encoded-transform/
   type: src
 type: standard
+docid:
+- id: W3C webrtc-encoded-transform
+  type: W3C
+  primary: true
 docnumber: webrtc-encoded-transform
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webrtc-encoded-transform
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-webrtc-encoded-transform-20220519
+    docid:
+    - id: W3C WD-webrtc-encoded-transform-20220519
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-webrtc-encoded-transform-20220519
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webrtc-encoded-transform
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

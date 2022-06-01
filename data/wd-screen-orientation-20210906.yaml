@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-screen-orientation-20210617
+    id: W3CWD-screen-orientation-20210617
+    docid:
+    - id: W3C WD-screen-orientation-20210617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-orientation-20210617
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C screen-orientation
+    id: W3Cscreen-orientation
+    docid:
+    - id: W3C screen-orientation
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C screen-orientation
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-screen-orientation-20210906
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

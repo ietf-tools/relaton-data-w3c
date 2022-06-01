@@ -47,7 +47,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C largest-contentful-paint
+    id: W3Clargest-contentful-paint
+    docid:
+    - id: W3C largest-contentful-paint
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C largest-contentful-paint
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-largest-contentful-paint-20220524
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-notifications-20150910
+    id: W3CPR-notifications-20150910
+    docid:
+    - id: W3C PR-notifications-20150910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-notifications-20150910
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-notifications-20151022
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Notification Working Group

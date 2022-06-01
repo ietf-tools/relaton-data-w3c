@@ -23,13 +23,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-P3P10-principles-19980721
+    id: W3CNOTE-P3P10-principles-19980721
+    docid:
+    - id: W3C NOTE-P3P10-principles-19980721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-P3P10-principles-19980721
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-P3P10-principles-20180830
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: P3P Specification Working Group

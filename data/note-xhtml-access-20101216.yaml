@@ -74,13 +74,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xhtml-access-20080526
+    id: W3CWD-xhtml-access-20080526
+    docid:
+    - id: W3C WD-xhtml-access-20080526
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-access-20080526
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xhtml-access-20101216
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XHTML2 Working Group

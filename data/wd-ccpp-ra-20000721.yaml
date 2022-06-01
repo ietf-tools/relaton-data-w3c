@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-CCPP-ra-20000228
+    id: W3CWD-CCPP-ra-20000228
+    docid:
+    - id: W3C WD-CCPP-ra-20000228
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CCPP-ra-20000228
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-CCPP-ra-20000721
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Composite Capability/Preference Profiles Working Group

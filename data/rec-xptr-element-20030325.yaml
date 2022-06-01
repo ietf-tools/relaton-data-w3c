@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xptr-element-20021113
+    id: W3CPR-xptr-element-20021113
+    docid:
+    - id: W3C PR-xptr-element-20021113
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xptr-element-20021113
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-xptr-20030325-errata
+    id: W3CREC-xptr-20030325-errata
+    docid:
+    - id: W3C REC-xptr-20030325-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xptr-20030325-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xptr-element-20030325
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Linking Working Group

@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xslt-19991008
+    id: W3CPR-xslt-19991008
+    docid:
+    - id: W3C PR-xslt-19991008
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xslt-19991008
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-xslt-19991116-errata
+    id: W3CREC-xslt-19991116-errata
+    docid:
+    - id: W3C REC-xslt-19991116-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xslt-19991116-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xslt-19991116
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Extensible Stylesheet Language Family

@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-di-dco-20050118
+    id: W3CNOTE-di-dco-20050118
+    docid:
+    - id: W3C NOTE-di-dco-20050118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-di-dco-20050118
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-di-dco-20060320
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Device Independence Working Group

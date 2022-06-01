@@ -1,24 +1,39 @@
 ---
+id: W3Crdf-plain-literal
+title:
+- content: 'rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rdf-plain-literal/
   type: src
 type: standard
+docid:
+- id: W3C rdf-plain-literal
+  type: W3C
+  primary: true
 docnumber: rdf-plain-literal
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rdf-plain-literal
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-plain-literal-20091027
+    docid:
+    - id: W3C REC-rdf-plain-literal-20091027
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-plain-literal-20091027
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-plain-literal-20121211
+    docid:
+    - id: W3C REC-rdf-plain-literal-20121211
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-plain-literal-20121211
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rdf-plain-literal
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

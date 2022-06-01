@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-mixed-content-20210930
+    id: W3CCRD-mixed-content-20210930
+    docid:
+    - id: W3C CRD-mixed-content-20210930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mixed-content-20210930
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-mixed-content
+    id: W3Cwebappsec-mixed-content
+    docid:
+    - id: W3C webappsec-mixed-content
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-mixed-content
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,5 +83,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-mixed-content-20211004
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

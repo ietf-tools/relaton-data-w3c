@@ -57,16 +57,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-webrtc-20201215
+    id: W3CPR-webrtc-20201215
+    docid:
+    - id: W3C PR-webrtc-20201215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webrtc-20201215
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C webrtc-pc/errata
+    id: W3Cwebrtc-pc/errata
+    docid:
+    - id: W3C webrtc-pc/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webrtc-pc/errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webrtc-pc
+    id: W3Cwebrtc-pc
+    docid:
+    - id: W3C webrtc-pc
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webrtc-pc
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -75,7 +96,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-webrtc-20210126
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Real-Time Communications Working Group

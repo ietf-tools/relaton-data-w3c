@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-xqueryx-20090421
+    id: W3CPER-xqueryx-20090421
+    docid:
+    - id: W3C PER-xqueryx-20090421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xqueryx-20090421
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xqueryx-errata2e.html
+    id: W3Cxqueryx-errata2e.html
+    docid:
+    - id: W3C xqueryx-errata2e.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xqueryx-errata2e.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-xqueryx-20070123
+    id: W3CREC-xqueryx-20070123
+    docid:
+    - id: W3C REC-xqueryx-20070123
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xqueryx-20070123
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-xqueryx-20101214
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Query Working Group

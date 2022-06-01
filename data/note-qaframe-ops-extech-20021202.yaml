@@ -64,13 +64,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-qaframe-ops-extech-20020515
+    id: W3CWD-qaframe-ops-extech-20020515
+    docid:
+    - id: W3C WD-qaframe-ops-extech-20020515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-qaframe-ops-extech-20020515
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-qaframe-ops-extech-20021202
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Quality Assurance Working Group

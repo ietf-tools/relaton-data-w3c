@@ -47,16 +47,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-shacl-20170608
+    id: W3CPR-shacl-20170608
+    docid:
+    - id: W3C PR-shacl-20170608
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-shacl-20170608
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C data-shapes/shacl
+    id: W3Cdata-shapes/shacl
+    docid:
+    - id: W3C data-shapes/shacl
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C data-shapes/shacl
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -65,7 +86,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-shacl-20170720
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDF Data Shapes Working Group

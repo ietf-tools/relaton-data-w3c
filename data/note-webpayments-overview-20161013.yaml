@@ -74,7 +74,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C webpayments-overview
+    id: W3Cwebpayments-overview
+    docid:
+    - id: W3C webpayments-overview
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webpayments-overview
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -83,7 +90,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-webpayments-overview-20161013
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group

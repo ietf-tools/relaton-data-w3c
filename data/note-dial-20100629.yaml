@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-dial-20070727
+    id: W3CWD-dial-20070727
+    docid:
+    - id: W3C WD-dial-20070727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dial-20070727
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dial-20100629
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Ubiquitous Web Applications Working Group

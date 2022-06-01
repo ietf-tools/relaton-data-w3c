@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-webcgm20-20061017
+    id: W3CPR-webcgm20-20061017
+    docid:
+    - id: W3C PR-webcgm20-20061017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webcgm20-20061017
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C WebCGM20-errata.html
+    id: W3CWebCGM20-errata.html
+    docid:
+    - id: W3C WebCGM20-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WebCGM20-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-webcgm20-20070130
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: WebCGM Working Group

@@ -1,19 +1,29 @@
 ---
+id: W3Cselectors-4
+title:
+- content: Selectors Level 4
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/selectors-4/
   type: src
 type: standard
+docid:
+- id: W3C selectors-4
+  type: W3C
+  primary: true
 docnumber: selectors-4
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C selectors-4
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-selectors-4-20220507
+    docid:
+    - id: W3C WD-selectors-4-20220507
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-selectors-4-20220507
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: selectors-4
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

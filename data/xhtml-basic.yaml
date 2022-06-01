@@ -1,34 +1,59 @@
 ---
+id: W3Cxhtml-basic
+title:
+- content: XHTML™ Basic 1.1 - Second Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-basic/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-basic
+  type: W3C
+  primary: true
 docnumber: xhtml-basic
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-basic
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-basic-20001219
+    docid:
+    - id: W3C REC-xhtml-basic-20001219
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-basic-20001219
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-basic-20080729
+    docid:
+    - id: W3C REC-xhtml-basic-20080729
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-basic-20080729
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-basic-20101123
+    docid:
+    - id: W3C REC-xhtml-basic-20101123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-basic-20101123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-xhtml-basic-20180327
+    docid:
+    - id: W3C SPSD-xhtml-basic-20180327
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-xhtml-basic-20180327
       format: text/plain
@@ -37,5 +62,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-basic
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

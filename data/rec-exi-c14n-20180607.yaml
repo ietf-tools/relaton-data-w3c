@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-exi-c14n-20180426
+    id: W3CPR-exi-c14n-20180426
+    docid:
+    - id: W3C PR-exi-c14n-20180426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-exi-c14n-20180426
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C exi-c14n-errata
+    id: W3Cexi-c14n-errata
+    docid:
+    - id: W3C exi-c14n-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C exi-c14n-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-exi-c14n-20180607
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Efficient Extensible Interchange Working Group

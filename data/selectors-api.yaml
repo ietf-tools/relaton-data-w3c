@@ -1,24 +1,39 @@
 ---
+id: W3Cselectors-api
+title:
+- content: Selectors API Level 1
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/selectors-api/
   type: src
 type: standard
+docid:
+- id: W3C selectors-api
+  type: W3C
+  primary: true
 docnumber: selectors-api
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C selectors-api
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-selectors-api-20130221
+    docid:
+    - id: W3C REC-selectors-api-20130221
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-selectors-api-20130221
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-selectors-api-20201103
+    docid:
+    - id: W3C SPSD-selectors-api-20201103
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-selectors-api-20201103
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: selectors-api
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

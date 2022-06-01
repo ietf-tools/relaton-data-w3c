@@ -1,24 +1,39 @@
 ---
+id: W3Crdf-schema
+title:
+- content: RDF Schema 1.1
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rdf-schema/
   type: src
 type: standard
+docid:
+- id: W3C rdf-schema
+  type: W3C
+  primary: true
 docnumber: rdf-schema
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rdf-schema
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-schema-20040210
+    docid:
+    - id: W3C REC-rdf-schema-20040210
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-schema-20040210
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-schema-20140225
+    docid:
+    - id: W3C REC-rdf-schema-20140225
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-schema-20140225
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rdf-schema
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

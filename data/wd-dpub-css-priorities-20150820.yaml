@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C dpub-pagination/priorities
+    id: W3Cdpub-pagination/priorities
+    docid:
+    - id: W3C dpub-pagination/priorities
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dpub-pagination/priorities
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +53,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-dpub-css-priorities-20150820
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Digital Publishing Interest Group

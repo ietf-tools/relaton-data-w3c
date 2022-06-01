@@ -1,19 +1,29 @@
 ---
+id: W3Cowl-parsing
+title:
+- content: OWL Web Ontology Language Parsing OWL in RDF/XML
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/owl-parsing/
   type: src
 type: standard
+docid:
+- id: W3C owl-parsing
+  type: W3C
+  primary: true
 docnumber: owl-parsing
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C owl-parsing
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-owl-parsing-20040121
+    docid:
+    - id: W3C NOTE-owl-parsing-20040121
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-owl-parsing-20040121
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: owl-parsing
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

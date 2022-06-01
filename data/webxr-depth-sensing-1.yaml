@@ -1,19 +1,29 @@
 ---
+id: W3Cwebxr-depth-sensing-1
+title:
+- content: WebXR Depth Sensing Module
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webxr-depth-sensing-1/
   type: src
 type: standard
+docid:
+- id: W3C webxr-depth-sensing-1
+  type: W3C
+  primary: true
 docnumber: webxr-depth-sensing-1
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webxr-depth-sensing-1
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-webxr-depth-sensing-1-20220419
+    docid:
+    - id: W3C WD-webxr-depth-sensing-1-20220419
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-webxr-depth-sensing-1-20220419
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webxr-depth-sensing-1
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

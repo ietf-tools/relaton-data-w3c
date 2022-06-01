@@ -127,22 +127,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-SVG11-20110609
+    id: W3CPR-SVG11-20110609
+    docid:
+    - id: W3C PR-SVG11-20110609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SVG11-20110609
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-SVG11-20110816-errata
+    id: W3CREC-SVG11-20110816-errata
+    docid:
+    - id: W3C REC-SVG11-20110816-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-SVG11-20110816-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-SVG11-20030114
+    id: W3CREC-SVG11-20030114
+    docid:
+    - id: W3C REC-SVG11-20030114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-SVG11-20030114
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-SVG11-20110816
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

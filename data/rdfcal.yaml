@@ -1,19 +1,30 @@
 ---
+id: W3Crdfcal
+title:
+- content: RDF Calendar - an application of the Resource Description Framework to
+    iCalendar Data
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rdfcal/
   type: src
 type: standard
+docid:
+- id: W3C rdfcal
+  type: W3C
+  primary: true
 docnumber: rdfcal
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rdfcal
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-rdfcal-20050929
+    docid:
+    - id: W3C NOTE-rdfcal-20050929
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-rdfcal-20050929
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rdfcal
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

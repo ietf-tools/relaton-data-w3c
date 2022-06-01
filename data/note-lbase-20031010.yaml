@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-lbase-20030905
+    id: W3CNOTE-lbase-20030905
+    docid:
+    - id: W3C NOTE-lbase-20030905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-lbase-20030905
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-lbase-20031010
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: RDFCore Working Group

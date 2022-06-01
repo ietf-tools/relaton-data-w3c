@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-html-data-guide-20120112
+    id: W3CWD-html-data-guide-20120112
+    docid:
+    - id: W3C WD-html-data-guide-20120112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-data-guide-20120112
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-data-guide-20120308
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Interest Group

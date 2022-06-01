@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-html32-19970114
+    id: W3CREC-html32-19970114
+    docid:
+    - id: W3C REC-html32-19970114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html32-19970114
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-notifications-20200602
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Notification Working Group

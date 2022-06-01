@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C Overview.html
+    id: W3COverview.html
+    docid:
+    - id: W3C Overview.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C Overview.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-IFT-20210907
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Fonts Working Group

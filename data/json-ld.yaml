@@ -1,24 +1,39 @@
 ---
+id: W3Cjson-ld
+title:
+- content: JSON-LD 1.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/json-ld/
   type: src
 type: standard
+docid:
+- id: W3C json-ld
+  type: W3C
+  primary: true
 docnumber: json-ld
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C json-ld
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-json-ld-20140116
+    docid:
+    - id: W3C REC-json-ld-20140116
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-json-ld-20140116
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-json-ld-20201103
+    docid:
+    - id: W3C SPSD-json-ld-20201103
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-json-ld-20201103
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: json-ld
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

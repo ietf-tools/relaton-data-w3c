@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-rdf-dawg-uc-20041012
+    id: W3CWD-rdf-dawg-uc-20041012
+    docid:
+    - id: W3C WD-rdf-dawg-uc-20041012
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-dawg-uc-20041012
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-rdf-dawg-uc-20050325
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SPARQL Working Group

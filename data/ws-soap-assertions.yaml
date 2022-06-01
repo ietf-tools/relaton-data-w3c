@@ -1,19 +1,29 @@
 ---
+id: W3Cws-soap-assertions
+title:
+- content: Web Services SOAP Assertions (WS-SOAPAssertions)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/ws-soap-assertions/
   type: src
 type: standard
+docid:
+- id: W3C ws-soap-assertions
+  type: W3C
+  primary: true
 docnumber: ws-soap-assertions
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C ws-soap-assertions
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-ws-soap-assertions-20111213
+    docid:
+    - id: W3C REC-ws-soap-assertions-20111213
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-ws-soap-assertions-20111213
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: ws-soap-assertions
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

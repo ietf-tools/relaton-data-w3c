@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-contacts-manager-api-20130307
+    id: W3CWD-contacts-manager-api-20130307
+    docid:
+    - id: W3C WD-contacts-manager-api-20130307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-contacts-manager-api-20130307
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C contacts-manager-api
+    id: W3Ccontacts-manager-api
+    docid:
+    - id: W3C contacts-manager-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C contacts-manager-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-contacts-manager-api-20150602
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: System Applications Working Group

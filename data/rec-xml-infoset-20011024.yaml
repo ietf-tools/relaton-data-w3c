@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xml-infoset-20010810
+    id: W3CPR-xml-infoset-20010810
+    docid:
+    - id: W3C PR-xml-infoset-20010810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xml-infoset-20010810
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xml-infoset-errata.html
+    id: W3Cxml-infoset-errata.html
+    docid:
+    - id: W3C xml-infoset-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xml-infoset-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xml-infoset-20011024
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Core Working Group

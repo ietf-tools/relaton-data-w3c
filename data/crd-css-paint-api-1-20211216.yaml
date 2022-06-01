@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-css-paint-api-1-20180809
+    id: W3CCR-css-paint-api-1-20180809
+    docid:
+    - id: W3C CR-css-paint-api-1-20180809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-paint-api-1-20180809
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-paint-api-1
+    id: W3Ccss-paint-api-1
+    docid:
+    - id: W3C css-paint-api-1
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-paint-api-1
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-css-paint-api-1-20211216
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

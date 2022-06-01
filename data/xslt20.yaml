@@ -1,24 +1,39 @@
 ---
+id: W3Cxslt20
+title:
+- content: XSL Transformations (XSLT) Version 2.0 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xslt20/
   type: src
 type: standard
+docid:
+- id: W3C xslt20
+  type: W3C
+  primary: true
 docnumber: xslt20
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xslt20
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xslt20-20070123
+    docid:
+    - id: W3C REC-xslt20-20070123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xslt20-20070123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xslt20-20210330
+    docid:
+    - id: W3C REC-xslt20-20210330
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xslt20-20210330
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xslt20
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

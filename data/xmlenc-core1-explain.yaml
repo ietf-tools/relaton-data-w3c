@@ -1,19 +1,29 @@
 ---
+id: W3Cxmlenc-core1-explain
+title:
+- content: Functional Explanation of Changes in XML Encryption 1.1
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmlenc-core1-explain/
   type: src
 type: standard
+docid:
+- id: W3C xmlenc-core1-explain
+  type: W3C
+  primary: true
 docnumber: xmlenc-core1-explain
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmlenc-core1-explain
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-xmlenc-core1-explain-20130411
+    docid:
+    - id: W3C NOTE-xmlenc-core1-explain-20130411
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-xmlenc-core1-explain-20130411
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmlenc-core1-explain
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

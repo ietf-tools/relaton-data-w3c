@@ -35,13 +35,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-i18n-html-tech-char-20040509
+    id: W3CWD-i18n-html-tech-char-20040509
+    docid:
+    - id: W3C WD-i18n-html-tech-char-20040509
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-i18n-html-tech-char-20040509
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-i18n-html-tech-char-20150127
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

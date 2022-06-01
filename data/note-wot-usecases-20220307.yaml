@@ -64,10 +64,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-wot-usecases-20210518
+    id: W3CNOTE-wot-usecases-20210518
+    docid:
+    - id: W3C NOTE-wot-usecases-20210518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-wot-usecases-20210518
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C wot-usecases
+    id: W3Cwot-usecases
+    docid:
+    - id: W3C wot-usecases
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-usecases
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -76,7 +90,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wot-usecases-20220307
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: WoT Interest Group

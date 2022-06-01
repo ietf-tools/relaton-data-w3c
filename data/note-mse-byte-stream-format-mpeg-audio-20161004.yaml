@@ -44,7 +44,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C mpeg-audio-byte-stream-format.html
+    id: W3Cmpeg-audio-byte-stream-format.html
+    docid:
+    - id: W3C mpeg-audio-byte-stream-format.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mpeg-audio-byte-stream-format.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -53,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mse-byte-stream-format-mpeg-audio-20161004
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

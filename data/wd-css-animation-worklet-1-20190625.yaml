@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-animationworklet-1
+    id: W3Ccss-animationworklet-1
+    docid:
+    - id: W3C css-animationworklet-1
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-animationworklet-1
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-css-animation-worklet-1-20190625
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-soap12-os-ucr-20031112
+    id: W3CWD-soap12-os-ucr-20031112
+    docid:
+    - id: W3C WD-soap12-os-ucr-20031112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-soap12-os-ucr-20031112
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-soap12-os-ucr-20040608
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Protocol Working Group

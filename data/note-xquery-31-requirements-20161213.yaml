@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-xquery-31-requirements-20150811
+    id: W3CNOTE-xquery-31-requirements-20150811
+    docid:
+    - id: W3C NOTE-xquery-31-requirements-20150811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xquery-31-requirements-20150811
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xquery-31-requirements-20161213
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Query Working Group

@@ -1,24 +1,39 @@
 ---
+id: W3Ceventsource
+title:
+- content: Server-Sent Events
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/eventsource/
   type: src
 type: standard
+docid:
+- id: W3C eventsource
+  type: W3C
+  primary: true
 docnumber: eventsource
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C eventsource
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-eventsource-20150203
+    docid:
+    - id: W3C REC-eventsource-20150203
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-eventsource-20150203
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-eventsource-20210128
+    docid:
+    - id: W3C SPSD-eventsource-20210128
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-eventsource-20210128
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: eventsource
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

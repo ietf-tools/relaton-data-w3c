@@ -1,24 +1,39 @@
 ---
+id: W3Cttml2
+title:
+- content: Timed Text Markup Language 2 (TTML2) (2nd Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/ttml2/
   type: src
 type: standard
+docid:
+- id: W3C ttml2
+  type: W3C
+  primary: true
 docnumber: ttml2
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C ttml2
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-ttml2-20181108
+    docid:
+    - id: W3C REC-ttml2-20181108
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-ttml2-20181108
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-ttml2-20210309
+    docid:
+    - id: W3C CR-ttml2-20210309
+      type: W3C
+      primary: true
     formattedref:
       content: W3C CR-ttml2-20210309
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: ttml2
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -44,7 +44,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C did-cbor-note
+    id: W3Cdid-cbor-note
+    docid:
+    - id: W3C did-cbor-note
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C did-cbor-note
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -53,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-did-cbor-representation-20210629
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Decentralized Identifier Working Group

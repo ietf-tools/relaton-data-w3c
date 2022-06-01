@@ -1,24 +1,39 @@
 ---
+id: W3Crif-dtb
+title:
+- content: RIF Datatypes and Built-Ins 1.0 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rif-dtb/
   type: src
 type: standard
+docid:
+- id: W3C rif-dtb
+  type: W3C
+  primary: true
 docnumber: rif-dtb
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rif-dtb
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rif-dtb-20100622
+    docid:
+    - id: W3C REC-rif-dtb-20100622
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rif-dtb-20100622
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rif-dtb-20130205
+    docid:
+    - id: W3C REC-rif-dtb-20130205
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rif-dtb-20130205
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rif-dtb
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

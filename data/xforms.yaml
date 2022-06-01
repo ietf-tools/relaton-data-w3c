@@ -1,29 +1,49 @@
 ---
+id: W3Cxforms
+title:
+- content: XForms 1.0 (Third Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xforms/
   type: src
 type: standard
+docid:
+- id: W3C xforms
+  type: W3C
+  primary: true
 docnumber: xforms
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xforms
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xforms-20031014
+    docid:
+    - id: W3C REC-xforms-20031014
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xforms-20031014
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xforms-20060314
+    docid:
+    - id: W3C REC-xforms-20060314
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xforms-20060314
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xforms-20071029
+    docid:
+    - id: W3C REC-xforms-20071029
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xforms-20071029
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xforms
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

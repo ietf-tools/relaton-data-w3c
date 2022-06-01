@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-qaframe-spec-20050629
+    id: W3CPR-qaframe-spec-20050629
+    docid:
+    - id: W3C PR-qaframe-spec-20050629
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-qaframe-spec-20050629
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C specgl-errata
+    id: W3Cspecgl-errata
+    docid:
+    - id: W3C specgl-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C specgl-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-qaframe-spec-20050817
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Quality Assurance Working Group

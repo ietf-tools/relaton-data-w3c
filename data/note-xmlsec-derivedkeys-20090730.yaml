@@ -34,11 +34,18 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xmlsec-derivedkeys-20090226
+    id: W3CWD-xmlsec-derivedkeys-20090226
+    docid:
+    - id: W3C WD-xmlsec-derivedkeys-20090226
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-derivedkeys-20090226
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xmlsec-derivedkeys-20090730
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote

@@ -1,29 +1,49 @@
 ---
+id: W3Cxhtml-rdfa
+title:
+- content: XHTML+RDFa 1.1 - Third Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-rdfa/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-rdfa
+  type: W3C
+  primary: true
 docnumber: xhtml-rdfa
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-rdfa
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-rdfa-20120607
+    docid:
+    - id: W3C REC-xhtml-rdfa-20120607
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-rdfa-20120607
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-rdfa-20130822
+    docid:
+    - id: W3C REC-xhtml-rdfa-20130822
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-rdfa-20130822
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-rdfa-20150317
+    docid:
+    - id: W3C REC-xhtml-rdfa-20150317
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-rdfa-20150317
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-rdfa
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

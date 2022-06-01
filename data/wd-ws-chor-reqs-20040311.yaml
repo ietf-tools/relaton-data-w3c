@@ -67,13 +67,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-ws-chor-reqs-20030812
+    id: W3CWD-ws-chor-reqs-20030812
+    docid:
+    - id: W3C WD-ws-chor-reqs-20030812
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-chor-reqs-20030812
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-ws-chor-reqs-20040311
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Services Choreography Working Group

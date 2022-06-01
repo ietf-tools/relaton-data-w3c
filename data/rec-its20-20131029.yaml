@@ -107,13 +107,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-its20-20130924
+    id: W3CPR-its20-20130924
+    docid:
+    - id: W3C PR-its20-20130924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-its20-20130924
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-its20-20131029
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: MultilingualWeb-LT Working Group

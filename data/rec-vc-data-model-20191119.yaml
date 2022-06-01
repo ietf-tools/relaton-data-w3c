@@ -77,10 +77,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-vc-data-model-20190905
+    id: W3CPR-vc-data-model-20190905
+    docid:
+    - id: W3C PR-vc-data-model-20190905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vc-data-model-20190905
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C vc-data-model
+    id: W3Cvc-data-model
+    docid:
+    - id: W3C vc-data-model
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vc-data-model
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -89,7 +103,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-vc-data-model-20191119
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Verifiable Credentials Working Group

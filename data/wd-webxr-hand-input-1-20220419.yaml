@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webxr-hand-input-1-20220105
+    id: W3CWD-webxr-hand-input-1-20220105
+    docid:
+    - id: W3C WD-webxr-hand-input-1-20220105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-hand-input-1-20220105
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webxr-hand-input
+    id: W3Cwebxr-hand-input
+    docid:
+    - id: W3C webxr-hand-input
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webxr-hand-input
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-webxr-hand-input-1-20220419
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Immersive Web Working Group

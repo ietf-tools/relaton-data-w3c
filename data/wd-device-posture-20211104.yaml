@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-device-posture-20210802
+    id: W3CWD-device-posture-20210802
+    docid:
+    - id: W3C WD-device-posture-20210802
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-device-posture-20210802
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C device-posture
+    id: W3Cdevice-posture
+    docid:
+    - id: W3C device-posture
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C device-posture
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-device-posture-20211104
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Devices and Sensors Working Group

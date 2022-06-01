@@ -1,19 +1,29 @@
 ---
+id: W3Cxhtml-roadmap
+title:
+- content: HTML Working Group Roadmap
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-roadmap/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-roadmap
+  type: W3C
+  primary: true
 docnumber: xhtml-roadmap
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-roadmap
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-xhtml-roadmap-20001108
+    docid:
+    - id: W3C NOTE-xhtml-roadmap-20001108
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-xhtml-roadmap-20001108
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-roadmap
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

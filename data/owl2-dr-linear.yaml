@@ -1,19 +1,30 @@
 ---
+id: W3Cowl2-dr-linear
+title:
+- content: 'OWL 2 Web Ontology Language Data Range Extension: Linear Equations (Second
+    Edition)'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/owl2-dr-linear/
   type: src
 type: standard
+docid:
+- id: W3C owl2-dr-linear
+  type: W3C
+  primary: true
 docnumber: owl2-dr-linear
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C owl2-dr-linear
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-owl2-dr-linear-20121211
+    docid:
+    - id: W3C NOTE-owl2-dr-linear-20121211
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-owl2-dr-linear-20121211
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: owl2-dr-linear
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

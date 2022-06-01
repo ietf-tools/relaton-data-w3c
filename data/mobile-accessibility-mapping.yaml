@@ -1,19 +1,30 @@
 ---
+id: W3Cmobile-accessibility-mapping
+title:
+- content: 'Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply
+    to Mobile'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/mobile-accessibility-mapping/
   type: src
 type: standard
+docid:
+- id: W3C mobile-accessibility-mapping
+  type: W3C
+  primary: true
 docnumber: mobile-accessibility-mapping
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C mobile-accessibility-mapping
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-mobile-accessibility-mapping-20150226
+    docid:
+    - id: W3C WD-mobile-accessibility-mapping-20150226
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-mobile-accessibility-mapping-20150226
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: mobile-accessibility-mapping
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

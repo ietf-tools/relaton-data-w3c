@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-rif-test-20121211
+    id: W3CNOTE-rif-test-20121211
+    docid:
+    - id: W3C NOTE-rif-test-20121211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rif-test-20121211
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-rif-test-20130205
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: RIF Working Group

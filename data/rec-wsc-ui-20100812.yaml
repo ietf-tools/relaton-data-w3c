@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-wsc-ui-20100622
+    id: W3CPR-wsc-ui-20100622
+    docid:
+    - id: W3C PR-wsc-ui-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-wsc-ui-20100622
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C wsc-errata.html
+    id: W3Cwsc-errata.html
+    docid:
+    - id: W3C wsc-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wsc-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-wsc-ui-20100812
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Security Context Working Group

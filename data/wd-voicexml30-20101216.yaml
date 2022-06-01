@@ -157,13 +157,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-voicexml30-20100831
+    id: W3CWD-voicexml30-20100831
+    docid:
+    - id: W3C WD-voicexml30-20100831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-voicexml30-20100831
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-voicexml30-20101216
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Voice Browser Working Group

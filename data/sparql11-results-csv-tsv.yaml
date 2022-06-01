@@ -1,19 +1,29 @@
 ---
+id: W3Csparql11-results-csv-tsv
+title:
+- content: SPARQL 1.1 Query Results CSV and TSV Formats
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/sparql11-results-csv-tsv/
   type: src
 type: standard
+docid:
+- id: W3C sparql11-results-csv-tsv
+  type: W3C
+  primary: true
 docnumber: sparql11-results-csv-tsv
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C sparql11-results-csv-tsv
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-sparql11-results-csv-tsv-20130321
+    docid:
+    - id: W3C REC-sparql11-results-csv-tsv-20130321
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-sparql11-results-csv-tsv-20130321
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: sparql11-results-csv-tsv
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

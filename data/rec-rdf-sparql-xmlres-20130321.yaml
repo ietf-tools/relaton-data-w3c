@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-rdf-sparql-XMLres-20121108
+    id: W3CPER-rdf-sparql-XMLres-20121108
+    docid:
+    - id: W3C PER-rdf-sparql-XMLres-20121108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-rdf-sparql-XMLres-20121108
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C sparql-errata
+    id: W3Csparql-errata
+    docid:
+    - id: W3C sparql-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C sparql-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-rdf-sparql-XMLres-20080115
+    id: W3CREC-rdf-sparql-XMLres-20080115
+    docid:
+    - id: W3C REC-rdf-sparql-XMLres-20080115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rdf-sparql-XMLres-20080115
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-rdf-sparql-XMLres-20130321
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SPARQL Working Group

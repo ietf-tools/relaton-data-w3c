@@ -1,19 +1,29 @@
 ---
+id: W3Cuievents-code
+title:
+- content: UI Events KeyboardEvent code Values
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/uievents-code/
   type: src
 type: standard
+docid:
+- id: W3C uievents-code
+  type: W3C
+  primary: true
 docnumber: uievents-code
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C uievents-code
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CCR-uievents-code-20170601
+    docid:
+    - id: W3C CR-uievents-code-20170601
+      type: W3C
+      primary: true
     formattedref:
       content: W3C CR-uievents-code-20170601
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: uievents-code
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

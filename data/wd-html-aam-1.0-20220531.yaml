@@ -1,20 +1,20 @@
 ---
-id: W3CWD-html-aam-1.0-20220526
+id: W3CWD-html-aam-1.0-20220531
 title:
 - content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20220526/
+- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/
   type: src
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20220526
+- id: W3C WD-html-aam-1.0-20220531
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20220526
+docnumber: WD-html-aam-1.0-20220531
 date:
 - type: published
-  value: '2022-05-26'
+  value: '2022-05-31'
 contributor:
 - person:
     name:
@@ -36,7 +36,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-05-26'
+revdate: '2022-05-31'
 language:
 - en
 script:
@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-html-aam-1.0-20220524
+    id: W3CWD-html-aam-1.0-20220526
+    docid:
+    - id: W3C WD-html-aam-1.0-20220526
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aam-1.0-20220526
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C html-aam
+    id: W3Chtml-aam
+    docid:
+    - id: W3C html-aam
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-aam
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -58,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20220526
-fetched: '2022-05-31'
+  number: WD-html-aam-1.0-20220531
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

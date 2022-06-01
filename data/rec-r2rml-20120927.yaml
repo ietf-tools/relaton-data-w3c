@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-r2rml-20120814
+    id: W3CPR-r2rml-20120814
+    docid:
+    - id: W3C PR-r2rml-20120814
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-r2rml-20120814
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata.html
+    id: W3Cerrata.html
+    docid:
+    - id: W3C errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-r2rml-20120927
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDB2RDF Working Group

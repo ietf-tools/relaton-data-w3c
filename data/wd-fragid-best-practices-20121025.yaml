@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-fragid-best-practices-20120726
+    id: W3CWD-fragid-best-practices-20120726
+    docid:
+    - id: W3C WD-fragid-best-practices-20120726
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-fragid-best-practices-20120726
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-fragid-best-practices-20121025
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Technical Architecture Group

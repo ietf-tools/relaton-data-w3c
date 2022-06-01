@@ -1,24 +1,39 @@
 ---
+id: W3CREC-MathML
+title:
+- content: Mathematical Markup Language (MathML) 1.01 Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/REC-MathML/
   type: src
 type: standard
+docid:
+- id: W3C REC-MathML
+  type: W3C
+  primary: true
 docnumber: REC-MathML
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C REC-MathML
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML-19990707
+    docid:
+    - id: W3C REC-MathML-19990707
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML-19990707
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML-19980407
+    docid:
+    - id: W3C REC-MathML-19980407
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML-19980407
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: REC-MathML
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

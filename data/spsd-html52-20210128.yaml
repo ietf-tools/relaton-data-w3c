@@ -77,10 +77,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-html52-20171214
+    id: W3CREC-html52-20171214
+    docid:
+    - id: W3C REC-html52-20171214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html52-20171214
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C html
+    id: W3Chtml
+    docid:
+    - id: W3C html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -89,7 +103,7 @@ series:
     content: W3C REC
     format: text/plain
   number: SPSD-html52-20210128
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: HTML Working Group

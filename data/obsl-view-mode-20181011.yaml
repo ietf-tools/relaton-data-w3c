@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-view-mode-20120619
+    id: W3CREC-view-mode-20120619
+    docid:
+    - id: W3C REC-view-mode-20120619
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-view-mode-20120619
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: OBSL-view-mode-20181011
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

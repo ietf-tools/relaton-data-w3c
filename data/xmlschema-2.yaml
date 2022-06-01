@@ -1,24 +1,39 @@
 ---
+id: W3Cxmlschema-2
+title:
+- content: 'XML Schema Part 2: Datatypes Second Edition'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmlschema-2/
   type: src
 type: standard
+docid:
+- id: W3C xmlschema-2
+  type: W3C
+  primary: true
 docnumber: xmlschema-2
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmlschema-2
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlschema-2-20010502
+    docid:
+    - id: W3C REC-xmlschema-2-20010502
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlschema-2-20010502
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlschema-2-20041028
+    docid:
+    - id: W3C REC-xmlschema-2-20041028
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlschema-2-20041028
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmlschema-2
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

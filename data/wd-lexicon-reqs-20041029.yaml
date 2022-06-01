@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-lexicon-reqs-20010312
+    id: W3CWD-lexicon-reqs-20010312
+    docid:
+    - id: W3C WD-lexicon-reqs-20010312
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-lexicon-reqs-20010312
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-lexicon-reqs-20041029
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Voice Browser Working Group

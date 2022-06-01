@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-aria-roadmap-20071019
+    id: W3CWD-aria-roadmap-20071019
+    docid:
+    - id: W3C WD-aria-roadmap-20071019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-aria-roadmap-20071019
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wai-aria-roadmap-20080204
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Protocols and Formats Working Group

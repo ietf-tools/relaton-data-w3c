@@ -1,19 +1,29 @@
 ---
+id: W3Cminiapp-packaging
+title:
+- content: MiniApp Packaging
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/miniapp-packaging/
   type: src
 type: standard
+docid:
+- id: W3C miniapp-packaging
+  type: W3C
+  primary: true
 docnumber: miniapp-packaging
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C miniapp-packaging
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-miniapp-packaging-20220428
+    docid:
+    - id: W3C WD-miniapp-packaging-20220428
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-miniapp-packaging-20220428
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: miniapp-packaging
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

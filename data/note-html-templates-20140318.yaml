@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-html-templates-20130214
+    id: W3CWD-html-templates-20130214
+    docid:
+    - id: W3C WD-html-templates-20130214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-templates-20130214
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C raw-file/tip
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-templates-20140318
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

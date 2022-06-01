@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-wsdl20-20070523
+    id: W3CPR-wsdl20-20070523
+    docid:
+    - id: W3C PR-wsdl20-20070523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-wsdl20-20070523
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C wsdl20-errata.html
+    id: W3Cwsdl20-errata.html
+    docid:
+    - id: W3C wsdl20-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wsdl20-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-wsdl20-20070626
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Services Description Working Group

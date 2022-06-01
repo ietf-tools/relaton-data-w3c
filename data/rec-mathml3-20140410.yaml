@@ -57,16 +57,30 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-MathML3-20140211
+    id: W3CPER-MathML3-20140211
+    docid:
+    - id: W3C PER-MathML3-20140211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-MathML3-20140211
+      format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-MathML3-20101021
+    id: W3CREC-MathML3-20101021
+    docid:
+    - id: W3C REC-MathML3-20101021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-MathML3-20101021
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-MathML3-20140410
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Math Working Group

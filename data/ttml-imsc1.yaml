@@ -1,24 +1,39 @@
 ---
+id: W3Cttml-imsc1
+title:
+- content: TTML Profiles for Internet Media Subtitles and Captions 1.0 (IMSC1)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/ttml-imsc1/
   type: src
 type: standard
+docid:
+- id: W3C ttml-imsc1
+  type: W3C
+  primary: true
 docnumber: ttml-imsc1
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C ttml-imsc1
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-ttml-imsc1-20160421
+    docid:
+    - id: W3C REC-ttml-imsc1-20160421
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-ttml-imsc1-20160421
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-ttml-imsc1-20180626
+    docid:
+    - id: W3C SPSD-ttml-imsc1-20180626
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-ttml-imsc1-20180626
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: ttml-imsc1
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -1,29 +1,49 @@
 ---
+id: W3Cxhtml-print
+title:
+- content: XHTML-Print - Second Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-print/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-print
+  type: W3C
+  primary: true
 docnumber: xhtml-print
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-print
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-print-20060920
+    docid:
+    - id: W3C REC-xhtml-print-20060920
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-print-20060920
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-print-20101123
+    docid:
+    - id: W3C REC-xhtml-print-20101123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-print-20101123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-xhtml-print-20180327
+    docid:
+    - id: W3C SPSD-xhtml-print-20180327
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-xhtml-print-20180327
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-print
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

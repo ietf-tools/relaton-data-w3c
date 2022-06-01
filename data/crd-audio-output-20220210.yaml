@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-audio-output-20211115
+    id: W3CCRD-audio-output-20211115
+    docid:
+    - id: W3C CRD-audio-output-20211115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-audio-output-20211115
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C mediacapture-output
+    id: W3Cmediacapture-output
+    docid:
+    - id: W3C mediacapture-output
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediacapture-output
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-audio-output-20220210
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Real-Time Communications Working Group

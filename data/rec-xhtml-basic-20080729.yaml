@@ -87,22 +87,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xhtml-basic-20080611
+    id: W3CPR-xhtml-basic-20080611
+    docid:
+    - id: W3C PR-xhtml-basic-20080611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xhtml-basic-20080611
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-xhtml-basic-20080729-errata
+    id: W3CREC-xhtml-basic-20080729-errata
+    docid:
+    - id: W3C REC-xhtml-basic-20080729-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-basic-20080729-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-xhtml-basic-20001219
+    id: W3CREC-xhtml-basic-20001219
+    docid:
+    - id: W3C REC-xhtml-basic-20001219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-basic-20001219
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-xhtml-basic-20080729
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XHTML2 Working Group

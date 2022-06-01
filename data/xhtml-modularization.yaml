@@ -1,34 +1,59 @@
 ---
+id: W3Cxhtml-modularization
+title:
+- content: XHTML™ Modularization 1.1 - Second Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-modularization/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-modularization
+  type: W3C
+  primary: true
 docnumber: xhtml-modularization
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-modularization
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-modularization-20010410
+    docid:
+    - id: W3C REC-xhtml-modularization-20010410
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-modularization-20010410
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-modularization-20081008
+    docid:
+    - id: W3C REC-xhtml-modularization-20081008
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-modularization-20081008
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml-modularization-20100729
+    docid:
+    - id: W3C REC-xhtml-modularization-20100729
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml-modularization-20100729
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-xhtml-modularization-20180327
+    docid:
+    - id: W3C SPSD-xhtml-modularization-20180327
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-xhtml-modularization-20180327
       format: text/plain
@@ -37,5 +62,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-modularization
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

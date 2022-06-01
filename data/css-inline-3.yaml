@@ -1,19 +1,29 @@
 ---
+id: W3Ccss-inline-3
+title:
+- content: CSS Inline Layout Module Level 3
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/css-inline-3/
   type: src
 type: standard
+docid:
+- id: W3C css-inline-3
+  type: W3C
+  primary: true
 docnumber: css-inline-3
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C css-inline-3
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-css-inline-3-20200827
+    docid:
+    - id: W3C WD-css-inline-3-20200827
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-css-inline-3-20200827
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: css-inline-3
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

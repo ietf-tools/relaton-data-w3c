@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-referrer-policy-20161222
+    id: W3CWD-referrer-policy-20161222
+    docid:
+    - id: W3C WD-referrer-policy-20161222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-referrer-policy-20161222
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-referrer-policy
+    id: W3Cwebappsec-referrer-policy
+    docid:
+    - id: W3C webappsec-referrer-policy
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-referrer-policy
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,5 +73,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-referrer-policy-20170126
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-selectors-api-20121213
+    id: W3CPR-selectors-api-20121213
+    docid:
+    - id: W3C PR-selectors-api-20121213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-selectors-api-20121213
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata-l1.html
+    id: W3Cerrata-l1.html
+    docid:
+    - id: W3C errata-l1.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata-l1.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-selectors-api-20130221
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

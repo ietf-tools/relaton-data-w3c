@@ -64,13 +64,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-WICDMobile-20070718
+    id: W3CCR-WICDMobile-20070718
+    docid:
+    - id: W3C CR-WICDMobile-20070718
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-WICDMobile-20070718
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-WICDMobile-20100819
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Compound Document Formats Working Group

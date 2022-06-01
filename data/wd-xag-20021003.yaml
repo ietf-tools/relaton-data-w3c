@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xmlgl-20010829
+    id: W3CWD-xmlgl-20010829
+    docid:
+    - id: W3C WD-xmlgl-20010829
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlgl-20010829
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-xag-20021003
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Protocols and Formats Working Group

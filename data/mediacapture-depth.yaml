@@ -1,19 +1,29 @@
 ---
+id: W3Cmediacapture-depth
+title:
+- content: Media Capture Depth Stream Extensions
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/mediacapture-depth/
   type: src
 type: standard
+docid:
+- id: W3C mediacapture-depth
+  type: W3C
+  primary: true
 docnumber: mediacapture-depth
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C mediacapture-depth
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CDISC-mediacapture-depth-20220201
+    docid:
+    - id: W3C DISC-mediacapture-depth-20220201
+      type: W3C
+      primary: true
     formattedref:
       content: W3C DISC-mediacapture-depth-20220201
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: mediacapture-depth
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

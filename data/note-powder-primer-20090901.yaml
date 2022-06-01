@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-powder-primer-20090604
+    id: W3CNOTE-powder-primer-20090604
+    docid:
+    - id: W3C NOTE-powder-primer-20090604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-powder-primer-20090604
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-powder-primer-20090901
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Protocol for Web Description Resources Working Group

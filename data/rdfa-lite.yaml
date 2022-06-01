@@ -1,24 +1,39 @@
 ---
+id: W3Crdfa-lite
+title:
+- content: RDFa Lite 1.1 - Second Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rdfa-lite/
   type: src
 type: standard
+docid:
+- id: W3C rdfa-lite
+  type: W3C
+  primary: true
 docnumber: rdfa-lite
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rdfa-lite
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdfa-lite-20120607
+    docid:
+    - id: W3C REC-rdfa-lite-20120607
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdfa-lite-20120607
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdfa-lite-20150317
+    docid:
+    - id: W3C REC-rdfa-lite-20150317
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdfa-lite-20150317
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rdfa-lite
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

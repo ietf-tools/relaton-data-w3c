@@ -1,24 +1,39 @@
 ---
+id: W3CP3P
+title:
+- content: The Platform for Privacy Preferences 1.0 (P3P1.0) Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/P3P/
   type: src
 type: standard
+docid:
+- id: W3C P3P
+  type: W3C
+  primary: true
 docnumber: P3P
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C P3P
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-P3P-20020416
+    docid:
+    - id: W3C REC-P3P-20020416
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-P3P-20020416
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3COBSL-P3P-20180830
+    docid:
+    - id: W3C OBSL-P3P-20180830
+      type: W3C
+      primary: true
     formattedref:
       content: W3C OBSL-P3P-20180830
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: P3P
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

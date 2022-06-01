@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-P3P-preferences-20010226
+    id: W3CWD-P3P-preferences-20010226
+    docid:
+    - id: W3C WD-P3P-preferences-20010226
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-P3P-preferences-20010226
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-P3P-preferences-20020415
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: P3P Specification Working Group

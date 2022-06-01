@@ -87,10 +87,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-personalization-semantics-1.0-20200127
+    id: W3CWD-personalization-semantics-1.0-20200127
+    docid:
+    - id: W3C WD-personalization-semantics-1.0-20200127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-personalization-semantics-1.0-20200127
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C personalization-semantics
+    id: W3Cpersonalization-semantics
+    docid:
+    - id: W3C personalization-semantics
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C personalization-semantics
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -99,7 +113,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-personalization-semantics-1.0-20210812
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Platform Architectures

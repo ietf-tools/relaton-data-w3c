@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-quota-api-20160515
+    id: W3CNOTE-quota-api-20160515
+    docid:
+    - id: W3C NOTE-quota-api-20160515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-quota-api-20160515
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C quota-api
+    id: W3Cquota-api
+    docid:
+    - id: W3C quota-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C quota-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-quota-api-20160523
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

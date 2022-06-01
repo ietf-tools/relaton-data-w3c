@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-css-font-loading-3-20140220
+    id: W3CWD-css-font-loading-3-20140220
+    docid:
+    - id: W3C WD-css-font-loading-3-20140220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-font-loading-3-20140220
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-font-loading
+    id: W3Ccss-font-loading
+    docid:
+    - id: W3C css-font-loading
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-font-loading
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-css-font-loading-3-20140522
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

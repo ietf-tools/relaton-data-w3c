@@ -1,24 +1,39 @@
 ---
+id: W3Cxinclude
+title:
+- content: XML Inclusions (XInclude) Version 1.0 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xinclude/
   type: src
 type: standard
+docid:
+- id: W3C xinclude
+  type: W3C
+  primary: true
 docnumber: xinclude
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xinclude
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xinclude-20041220
+    docid:
+    - id: W3C REC-xinclude-20041220
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xinclude-20041220
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xinclude-20061115
+    docid:
+    - id: W3C REC-xinclude-20061115
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xinclude-20061115
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xinclude
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

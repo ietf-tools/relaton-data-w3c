@@ -1,19 +1,29 @@
 ---
+id: W3Cxptr
+title:
+- content: XML Pointer Language (XPointer)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xptr/
   type: src
 type: standard
+docid:
+- id: W3C xptr
+  type: W3C
+  primary: true
 docnumber: xptr
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xptr
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-xptr-20020816
+    docid:
+    - id: W3C WD-xptr-20020816
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-xptr-20020816
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xptr
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

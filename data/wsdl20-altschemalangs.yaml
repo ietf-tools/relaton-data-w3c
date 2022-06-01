@@ -1,19 +1,30 @@
 ---
+id: W3Cwsdl20-altschemalangs
+title:
+- content: Discussion of Alternative Schema Languages and Type System Support in WSDL
+    2.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/wsdl20-altschemalangs/
   type: src
 type: standard
+docid:
+- id: W3C wsdl20-altschemalangs
+  type: W3C
+  primary: true
 docnumber: wsdl20-altschemalangs
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C wsdl20-altschemalangs
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-wsdl20-altschemalangs-20050817
+    docid:
+    - id: W3C NOTE-wsdl20-altschemalangs-20050817
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-wsdl20-altschemalangs-20050817
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: wsdl20-altschemalangs
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -64,13 +64,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-xml-c14n2-20120124
+    id: W3CCR-xml-c14n2-20120124
+    docid:
+    - id: W3C CR-xml-c14n2-20120124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xml-c14n2-20120124
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xml-c14n2-20130411
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Security Working Group

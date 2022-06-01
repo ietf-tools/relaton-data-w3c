@@ -64,13 +64,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-task-models-20131107
+    id: W3CWD-task-models-20131107
+    docid:
+    - id: W3C WD-task-models-20131107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-models-20131107
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-task-models-20140408
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Model-Based User Interfaces Working Group

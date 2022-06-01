@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-gyroscope-20211204
+    id: W3CCRD-gyroscope-20211204
+    docid:
+    - id: W3C CRD-gyroscope-20211204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-gyroscope-20211204
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C gyroscope
+    id: W3Cgyroscope
+    docid:
+    - id: W3C gyroscope
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gyroscope
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-gyroscope-20211207
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Devices and Sensors Working Group

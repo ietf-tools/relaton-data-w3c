@@ -1,24 +1,39 @@
 ---
+id: W3Cxpath-datamodel
+title:
+- content: XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xpath-datamodel/
   type: src
 type: standard
+docid:
+- id: W3C xpath-datamodel
+  type: W3C
+  primary: true
 docnumber: xpath-datamodel
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xpath-datamodel
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xpath-datamodel-20070123
+    docid:
+    - id: W3C REC-xpath-datamodel-20070123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xpath-datamodel-20070123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xpath-datamodel-20101214
+    docid:
+    - id: W3C REC-xpath-datamodel-20101214
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xpath-datamodel-20101214
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xpath-datamodel
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

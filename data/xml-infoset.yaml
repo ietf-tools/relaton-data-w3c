@@ -1,24 +1,39 @@
 ---
+id: W3Cxml-infoset
+title:
+- content: XML Information Set (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xml-infoset/
   type: src
 type: standard
+docid:
+- id: W3C xml-infoset
+  type: W3C
+  primary: true
 docnumber: xml-infoset
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xml-infoset
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-infoset-20011024
+    docid:
+    - id: W3C REC-xml-infoset-20011024
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-infoset-20011024
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-infoset-20040204
+    docid:
+    - id: W3C REC-xml-infoset-20040204
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-infoset-20040204
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xml-infoset
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

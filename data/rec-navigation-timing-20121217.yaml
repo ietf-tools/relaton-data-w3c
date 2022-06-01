@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-navigation-timing-20120726
+    id: W3CPR-navigation-timing-20120726
+    docid:
+    - id: W3C PR-navigation-timing-20120726
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-navigation-timing-20120726
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C navigation-timing-errata.html
+    id: W3Cnavigation-timing-errata.html
+    docid:
+    - id: W3C navigation-timing-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C navigation-timing-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-navigation-timing-20121217
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

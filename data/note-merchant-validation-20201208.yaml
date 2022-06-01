@@ -34,7 +34,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C merchant-validation
+    id: W3Cmerchant-validation
+    docid:
+    - id: W3C merchant-validation
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C merchant-validation
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -43,7 +50,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-merchant-validation-20201208
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group

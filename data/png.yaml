@@ -1,24 +1,39 @@
 ---
+id: W3CPNG
+title:
+- content: Portable Network Graphics (PNG) Specification (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/PNG/
   type: src
 type: standard
+docid:
+- id: W3C PNG
+  type: W3C
+  primary: true
 docnumber: PNG
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C PNG
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-PNG-20031110
+    docid:
+    - id: W3C REC-PNG-20031110
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-PNG-20031110
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-png-961001
+    docid:
+    - id: W3C REC-png-961001
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-png-961001
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: PNG
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

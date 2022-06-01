@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xmlschema-guide2versioning-20060928
+    id: W3CWD-xmlschema-guide2versioning-20060928
+    docid:
+    - id: W3C WD-xmlschema-guide2versioning-20060928
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema-guide2versioning-20060928
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-xmlschema-guide2versioning-20070720
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Schema Working Group

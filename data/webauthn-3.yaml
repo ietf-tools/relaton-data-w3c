@@ -1,19 +1,30 @@
 ---
+id: W3Cwebauthn-3
+title:
+- content: 'Web Authentication: An API for accessing Public Key Credentials - Level
+    3'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webauthn-3/
   type: src
 type: standard
+docid:
+- id: W3C webauthn-3
+  type: W3C
+  primary: true
 docnumber: webauthn-3
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webauthn-3
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-webauthn-3-20210427
+    docid:
+    - id: W3C WD-webauthn-3-20210427
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-webauthn-3-20210427
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webauthn-3
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

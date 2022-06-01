@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-css-values-3-20190131
+    id: W3CCR-css-values-3-20190131
+    docid:
+    - id: W3C CR-css-values-3-20190131
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-values-3-20190131
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-values-3
+    id: W3Ccss-values-3
+    docid:
+    - id: W3C css-values-3
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-values-3
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-css-values-3-20190606
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-picture-in-picture-20220411
+    id: W3CWD-picture-in-picture-20220411
+    docid:
+    - id: W3C WD-picture-in-picture-20220411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-picture-in-picture-20220411
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C picture-in-picture
+    id: W3Cpicture-in-picture
+    docid:
+    - id: W3C picture-in-picture
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C picture-in-picture
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-picture-in-picture-20220428
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Media Working Group

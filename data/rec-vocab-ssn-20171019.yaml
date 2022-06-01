@@ -87,16 +87,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-vocab-ssn-20170907
+    id: W3CPR-vocab-ssn-20170907
+    docid:
+    - id: W3C PR-vocab-ssn-20170907
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vocab-ssn-20170907
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C vocab-ssn-errata.html
+    id: W3Cvocab-ssn-errata.html
+    docid:
+    - id: W3C vocab-ssn-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vocab-ssn-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ssn
+    id: W3Cssn
+    docid:
+    - id: W3C ssn
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ssn
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -105,7 +126,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-vocab-ssn-20171019
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Spatial Data on the Web Working Group

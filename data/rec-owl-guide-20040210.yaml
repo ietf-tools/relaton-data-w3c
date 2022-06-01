@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-owl-guide-20031215
+    id: W3CPR-owl-guide-20031215
+    docid:
+    - id: W3C PR-owl-guide-20031215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-owl-guide-20031215
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata#owl-guide
+    id: W3Cerrata#owl-guide
+    docid:
+    - id: W3C errata#owl-guide
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata#owl-guide
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-owl-guide-20040210
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web-Ontology Working Group

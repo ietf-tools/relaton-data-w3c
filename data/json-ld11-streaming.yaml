@@ -1,19 +1,29 @@
 ---
+id: W3Cjson-ld11-streaming
+title:
+- content: Streaming JSON-LD
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/json-ld11-streaming/
   type: src
 type: standard
+docid:
+- id: W3C json-ld11-streaming
+  type: W3C
+  primary: true
 docnumber: json-ld11-streaming
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C json-ld11-streaming
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-json-ld11-streaming-20200507
+    docid:
+    - id: W3C NOTE-json-ld11-streaming-20200507
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-json-ld11-streaming-20200507
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: json-ld11-streaming
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

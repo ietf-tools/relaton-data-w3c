@@ -1,19 +1,30 @@
 ---
+id: W3CUWA-personalization-roadmap
+title:
+- content: 'W3C Personalization Roadmap: Ubiquitous Web Integration of AccessForAll
+    1.0'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/UWA-personalization-roadmap/
   type: src
 type: standard
+docid:
+- id: W3C UWA-personalization-roadmap
+  type: W3C
+  primary: true
 docnumber: UWA-personalization-roadmap
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C UWA-personalization-roadmap
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-UWA-personalization-roadmap-20090409
+    docid:
+    - id: W3C NOTE-UWA-personalization-roadmap-20090409
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-UWA-personalization-roadmap-20090409
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: UWA-personalization-roadmap
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

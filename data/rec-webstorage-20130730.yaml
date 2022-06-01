@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-webstorage-20130409
+    id: W3CPR-webstorage-20130409
+    docid:
+    - id: W3C PR-webstorage-20130409
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webstorage-20130409
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webstorage
+    id: W3Cwebstorage
+    docid:
+    - id: W3C webstorage
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webstorage
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-webstorage-20130730
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

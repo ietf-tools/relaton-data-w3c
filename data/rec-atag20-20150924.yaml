@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-ATAG20-20150721
+    id: W3CPR-ATAG20-20150721
+    docid:
+    - id: W3C PR-ATAG20-20150721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-ATAG20-20150721
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-ATAG20-20150924
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Authoring Tool Accessibility Guidelines Working Group

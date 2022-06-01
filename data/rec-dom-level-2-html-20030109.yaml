@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-DOM-Level-2-HTML-20021108
+    id: W3CPR-DOM-Level-2-HTML-20021108
+    docid:
+    - id: W3C PR-DOM-Level-2-HTML-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-DOM-Level-2-HTML-20021108
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C DOM-Level-2-errata
+    id: W3CDOM-Level-2-errata
+    docid:
+    - id: W3C DOM-Level-2-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DOM-Level-2-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-DOM-Level-2-HTML-20030109
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Hypertext Application Technology Working Group

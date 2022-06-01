@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C payment-method-manifest
+    id: W3Cpayment-method-manifest
+    docid:
+    - id: W3C payment-method-manifest
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C payment-method-manifest
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-payment-method-manifest-20171212
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Payments Working Group

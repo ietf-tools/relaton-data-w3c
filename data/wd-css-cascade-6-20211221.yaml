@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-cascade-6
+    id: W3Ccss-cascade-6
+    docid:
+    - id: W3C css-cascade-6
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-cascade-6
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-css-cascade-6-20211221
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

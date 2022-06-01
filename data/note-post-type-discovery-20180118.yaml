@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-post-type-discovery-20170801
+    id: W3CWD-post-type-discovery-20170801
+    docid:
+    - id: W3C WD-post-type-discovery-20170801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-post-type-discovery-20170801
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ptd.spec.indieweb.org
+    id: W3Cptd.spec.indieweb.org
+    docid:
+    - id: W3C ptd.spec.indieweb.org
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ptd.spec.indieweb.org
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-post-type-discovery-20180118
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Social Web Working Group

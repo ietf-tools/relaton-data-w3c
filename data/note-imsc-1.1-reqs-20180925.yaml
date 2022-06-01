@@ -34,7 +34,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C imsc-vnext-reqs
+    id: W3Cimsc-vnext-reqs
+    docid:
+    - id: W3C imsc-vnext-reqs
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C imsc-vnext-reqs
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -43,7 +50,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-imsc-1.1-reqs-20180925
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Timed Text Working Group

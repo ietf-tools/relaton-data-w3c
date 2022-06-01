@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: updatedBy
   bibitem:
-    formattedref: W3C P3Pv1-errata
+    id: W3CP3Pv1-errata
+    docid:
+    - id: W3C P3Pv1-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C P3Pv1-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -46,7 +53,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-P3P-20020416
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: P3P Specification Working Group

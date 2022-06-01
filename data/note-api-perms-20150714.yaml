@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-api-perms-20101005
+    id: W3CWD-api-perms-20101005
+    docid:
+    - id: W3C WD-api-perms-20101005
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-api-perms-20101005
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C api-perms
+    id: W3Capi-perms
+    docid:
+    - id: W3C api-perms
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C api-perms
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-api-perms-20150714
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Devices and Sensors Working Group

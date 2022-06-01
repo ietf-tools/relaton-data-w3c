@@ -1,19 +1,29 @@
 ---
+id: W3Cmmi-suggestions
+title:
+- content: Common Sense Suggestions for Developing Multimodal User Interfaces
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/mmi-suggestions/
   type: src
 type: standard
+docid:
+- id: W3C mmi-suggestions
+  type: W3C
+  primary: true
 docnumber: mmi-suggestions
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C mmi-suggestions
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-mmi-suggestions-20060911
+    docid:
+    - id: W3C NOTE-mmi-suggestions-20060911
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-mmi-suggestions-20060911
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: mmi-suggestions
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

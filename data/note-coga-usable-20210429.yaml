@@ -64,10 +64,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-coga-usable-20201211
+    id: W3CWD-coga-usable-20201211
+    docid:
+    - id: W3C WD-coga-usable-20201211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-coga-usable-20201211
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C content-usable
+    id: W3Ccontent-usable
+    docid:
+    - id: W3C content-usable
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C content-usable
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -76,7 +90,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-coga-usable-20210429
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

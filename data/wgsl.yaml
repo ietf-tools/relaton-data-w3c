@@ -1,26 +1,36 @@
 ---
+id: W3CWGSL
+title:
+- content: WebGPU Shading Language
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/WGSL/
   type: src
 type: standard
+docid:
+- id: W3C WGSL
+  type: W3C
+  primary: true
 docnumber: WGSL
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C WGSL
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-WGSL-20220531
+    docid:
+    - id: W3C WD-WGSL-20220531
+      type: W3C
+      primary: true
     formattedref:
-      content: W3C WD-WGSL-20220527
+      content: W3C WD-WGSL-20220531
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: WGSL
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

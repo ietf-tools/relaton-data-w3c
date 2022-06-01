@@ -54,7 +54,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C byte-stream-format-registry.html
+    id: W3Cbyte-stream-format-registry.html
+    docid:
+    - id: W3C byte-stream-format-registry.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C byte-stream-format-registry.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -63,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mse-byte-stream-format-registry-20161004
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

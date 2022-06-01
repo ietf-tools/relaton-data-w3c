@@ -1,26 +1,36 @@
 ---
+id: W3Cepub-33
+title:
+- content: EPUB 3.3
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/epub-33/
   type: src
 type: standard
+docid:
+- id: W3C epub-33
+  type: W3C
+  primary: true
 docnumber: epub-33
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C epub-33
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CCRD-epub-33-20220601
+    docid:
+    - id: W3C CRD-epub-33-20220601
+      type: W3C
+      primary: true
     formattedref:
-      content: W3C CRD-epub-33-20220531
+      content: W3C CRD-epub-33-20220601
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: epub-33
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-csv2rdf-20151117
+    id: W3CPR-csv2rdf-20151117
+    docid:
+    - id: W3C PR-csv2rdf-20151117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-csv2rdf-20151117
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C csv2rdf
+    id: W3Ccsv2rdf
+    docid:
+    - id: W3C csv2rdf
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C csv2rdf
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-csv2rdf-20151217
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: CSV on the Web Working Group

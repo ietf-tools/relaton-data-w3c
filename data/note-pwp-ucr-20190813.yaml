@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-pwp-ucr-20190219
+    id: W3CNOTE-pwp-ucr-20190219
+    docid:
+    - id: W3C NOTE-pwp-ucr-20190219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-pwp-ucr-20190219
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C dpub-pwp-ucr
+    id: W3Cdpub-pwp-ucr
+    docid:
+    - id: W3C dpub-pwp-ucr
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dpub-pwp-ucr
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-pwp-ucr-20190813
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Audiobooks Working Group

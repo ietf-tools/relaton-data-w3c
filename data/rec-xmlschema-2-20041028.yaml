@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-xmlschema-2-20040318
+    id: W3CPER-xmlschema-2-20040318
+    docid:
+    - id: W3C PER-xmlschema-2-20040318
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xmlschema-2-20040318
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xmlschema-errata
+    id: W3Cxmlschema-errata
+    docid:
+    - id: W3C xmlschema-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xmlschema-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-xmlschema-2-20010502
+    id: W3CREC-xmlschema-2-20010502
+    docid:
+    - id: W3C REC-xmlschema-2-20010502
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xmlschema-2-20010502
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-xmlschema-2-20041028
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Schema Working Group

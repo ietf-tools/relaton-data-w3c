@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-CSS1-20080411
+    id: W3CREC-CSS1-20080411
+    docid:
+    - id: W3C REC-CSS1-20080411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS1-20080411
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-CSS1-20180913
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

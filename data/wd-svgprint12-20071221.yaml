@@ -77,13 +77,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-SVGPrint12-20070501
+    id: W3CWD-SVGPrint12-20070501
+    docid:
+    - id: W3C WD-SVGPrint12-20070501
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVGPrint12-20070501
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-SVGPrint12-20071221
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

@@ -57,16 +57,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-html-media-capture-20171128
+    id: W3CPR-html-media-capture-20171128
+    docid:
+    - id: W3C PR-html-media-capture-20171128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html-media-capture-20171128
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C html-media-capture/labels
+    id: W3Chtml-media-capture/labels
+    docid:
+    - id: W3C html-media-capture/labels
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-media-capture/labels
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C html-media-capture
+    id: W3Chtml-media-capture
+    docid:
+    - id: W3C html-media-capture
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-media-capture
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -75,7 +96,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-html-media-capture-20180201
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Devices and Sensors Working Group

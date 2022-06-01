@@ -1,19 +1,30 @@
 ---
+id: W3CCCPP-struct-vocab2
+title:
+- content: 'Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies
+    2.0'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/CCPP-struct-vocab2/
   type: src
 type: standard
+docid:
+- id: W3C CCPP-struct-vocab2
+  type: W3C
+  primary: true
 docnumber: CCPP-struct-vocab2
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C CCPP-struct-vocab2
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-CCPP-struct-vocab2-20100629
+    docid:
+    - id: W3C NOTE-CCPP-struct-vocab2-20100629
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-CCPP-struct-vocab2-20100629
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: CCPP-struct-vocab2
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

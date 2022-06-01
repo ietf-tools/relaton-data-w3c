@@ -58,10 +58,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-accessibility-conformance-challenges-20200604
+    id: W3CWD-accessibility-conformance-challenges-20200604
+    docid:
+    - id: W3C WD-accessibility-conformance-challenges-20200604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-accessibility-conformance-challenges-20200604
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C conformance-challenges
+    id: W3Cconformance-challenges
+    docid:
+    - id: W3C conformance-challenges
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C conformance-challenges
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -70,7 +84,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-accessibility-conformance-challenges-20200619
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessibility Guidelines Working Group

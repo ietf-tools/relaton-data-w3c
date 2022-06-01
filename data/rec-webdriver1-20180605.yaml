@@ -47,16 +47,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-webdriver1-20180426
+    id: W3CPR-webdriver1-20180426
+    docid:
+    - id: W3C PR-webdriver1-20180426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webdriver1-20180426
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C issues?q=is%3Aissue+label%3Aerrata
+    id: W3Cissues?q=is%3Aissue+label%3Aerrata
+    docid:
+    - id: W3C issues?q=is%3Aissue+label%3Aerrata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C issues?q=is%3Aissue+label%3Aerrata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webdriver
+    id: W3Cwebdriver
+    docid:
+    - id: W3C webdriver
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webdriver
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -65,7 +86,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-webdriver1-20180605
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Browser Testing and Tools Working Group

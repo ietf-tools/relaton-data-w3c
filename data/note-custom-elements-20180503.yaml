@@ -23,10 +23,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-custom-elements-20180216
+    id: W3CWD-custom-elements-20180216
+    docid:
+    - id: W3C WD-custom-elements-20180216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-custom-elements-20180216
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C custom
+    id: W3Ccustom
+    docid:
+    - id: W3C custom
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C custom
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -35,7 +49,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-custom-elements-20180503
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

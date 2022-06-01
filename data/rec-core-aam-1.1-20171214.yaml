@@ -87,16 +87,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-core-aam-1.1-20171102
+    id: W3CPR-core-aam-1.1-20171102
+    docid:
+    - id: W3C PR-core-aam-1.1-20171102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-core-aam-1.1-20171102
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C aria
+    id: W3Caria
+    docid:
+    - id: W3C aria
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C aria
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C core-aam
+    id: W3Ccore-aam
+    docid:
+    - id: W3C core-aam
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C core-aam
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -105,7 +126,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-core-aam-1.1-20171214
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

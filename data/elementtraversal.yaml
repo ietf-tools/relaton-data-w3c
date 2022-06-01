@@ -1,24 +1,39 @@
 ---
+id: W3CElementTraversal
+title:
+- content: Element Traversal Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/ElementTraversal/
   type: src
 type: standard
+docid:
+- id: W3C ElementTraversal
+  type: W3C
+  primary: true
 docnumber: ElementTraversal
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C ElementTraversal
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-ElementTraversal-20081222
+    docid:
+    - id: W3C REC-ElementTraversal-20081222
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-ElementTraversal-20081222
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-ElementTraversal-20201103
+    docid:
+    - id: W3C SPSD-ElementTraversal-20201103
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-ElementTraversal-20201103
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: ElementTraversal
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

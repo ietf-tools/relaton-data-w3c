@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-user-timing-2-20190110
+    id: W3CPR-user-timing-2-20190110
+    docid:
+    - id: W3C PR-user-timing-2-20190110
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-user-timing-2-20190110
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C user-timing
+    id: W3Cuser-timing
+    docid:
+    - id: W3C user-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C user-timing
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-user-timing-2-20190226
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

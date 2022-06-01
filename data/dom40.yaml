@@ -1,24 +1,39 @@
 ---
+id: W3Cdom40
+title:
+- content: W3C DOM4
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/dom40/
   type: src
 type: standard
+docid:
+- id: W3C dom40
+  type: W3C
+  primary: true
 docnumber: dom40
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C dom40
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-dom-20151119
+    docid:
+    - id: W3C REC-dom-20151119
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-dom-20151119
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-dom-20201103
+    docid:
+    - id: W3C SPSD-dom-20201103
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-dom-20201103
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: dom40
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

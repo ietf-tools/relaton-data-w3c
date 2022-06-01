@@ -58,7 +58,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C Mobile-A11y-TF-Note
+    id: W3CMobile-A11y-TF-Note
+    docid:
+    - id: W3C Mobile-A11y-TF-Note
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C Mobile-A11y-TF-Note
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -67,7 +74,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-mobile-accessibility-mapping-20150226
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessibility Guidelines Working Group

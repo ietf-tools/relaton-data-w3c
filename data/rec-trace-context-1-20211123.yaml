@@ -87,16 +87,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-trace-context-1-20200206
+    id: W3CREC-trace-context-1-20200206
+    docid:
+    - id: W3C REC-trace-context-1-20200206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-trace-context-1-20200206
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C trace-context/errata
+    id: W3Ctrace-context/errata
+    docid:
+    - id: W3C trace-context/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C trace-context/errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C trace-context
+    id: W3Ctrace-context
+    docid:
+    - id: W3C trace-context
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C trace-context
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -105,7 +126,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-trace-context-1-20211123
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Distributed Tracing Working Group

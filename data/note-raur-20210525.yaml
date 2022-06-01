@@ -64,10 +64,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-raur-20201207
+    id: W3CWD-raur-20201207
+    docid:
+    - id: W3C WD-raur-20201207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-raur-20201207
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C raur
+    id: W3Craur
+    docid:
+    - id: W3C raur
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raur
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -76,7 +90,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-raur-20210525
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

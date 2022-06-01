@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-xquery-update-10-requirements-20080314
+    id: W3CCR-xquery-update-10-requirements-20080314
+    docid:
+    - id: W3C CR-xquery-update-10-requirements-20080314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xquery-update-10-requirements-20080314
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xquery-update-10-requirements-20110125
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Query Working Group

@@ -1,24 +1,39 @@
 ---
+id: W3Crdf-syntax-grammar
+title:
+- content: RDF 1.1 XML Syntax
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rdf-syntax-grammar/
   type: src
 type: standard
+docid:
+- id: W3C rdf-syntax-grammar
+  type: W3C
+  primary: true
 docnumber: rdf-syntax-grammar
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rdf-syntax-grammar
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-syntax-grammar-20040210
+    docid:
+    - id: W3C REC-rdf-syntax-grammar-20040210
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-syntax-grammar-20040210
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rdf-syntax-grammar-20140225
+    docid:
+    - id: W3C REC-rdf-syntax-grammar-20140225
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rdf-syntax-grammar-20140225
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rdf-syntax-grammar
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

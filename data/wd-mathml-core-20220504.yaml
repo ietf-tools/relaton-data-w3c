@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-mathml-core-20210816
+    id: W3CWD-mathml-core-20210816
+    docid:
+    - id: W3C WD-mathml-core-20210816
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mathml-core-20210816
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C mathml-core
+    id: W3Cmathml-core
+    docid:
+    - id: W3C mathml-core
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mathml-core
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-mathml-core-20220504
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Math Working Group

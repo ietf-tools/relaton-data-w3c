@@ -87,16 +87,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-vocab-dcat-2-20191119
+    id: W3CPR-vocab-dcat-2-20191119
+    docid:
+    - id: W3C PR-vocab-dcat-2-20191119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vocab-dcat-2-20191119
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C dcat
+    id: W3Cdcat
+    docid:
+    - id: W3C dcat
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dcat
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -105,7 +126,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-vocab-dcat-2-20200204
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Dataset Exchange Working Group

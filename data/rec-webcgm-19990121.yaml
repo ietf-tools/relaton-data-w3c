@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-WebCGM-19981207
+    id: W3CPR-WebCGM-19981207
+    docid:
+    - id: W3C PR-WebCGM-19981207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-WebCGM-19981207
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C WebCGM-20011217-errata
+    id: W3CWebCGM-20011217-errata
+    docid:
+    - id: W3C WebCGM-20011217-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WebCGM-20011217-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,5 +73,5 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-WebCGM-19990121
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

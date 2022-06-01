@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xml-fragment-19990630.html
+    id: W3CWD-xml-fragment-19990630.html
+    docid:
+    - id: W3C WD-xml-fragment-19990630.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-fragment-19990630.html
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-xml-fragment-20010212
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Core Working Group

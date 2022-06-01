@@ -1,24 +1,39 @@
 ---
+id: W3Ctrace-context-1
+title:
+- content: Trace Context
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/trace-context-1/
   type: src
 type: standard
+docid:
+- id: W3C trace-context-1
+  type: W3C
+  primary: true
 docnumber: trace-context-1
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C trace-context-1
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-trace-context-1-20200206
+    docid:
+    - id: W3C REC-trace-context-1-20200206
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-trace-context-1-20200206
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-trace-context-1-20211123
+    docid:
+    - id: W3C REC-trace-context-1-20211123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-trace-context-1-20211123
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: trace-context-1
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

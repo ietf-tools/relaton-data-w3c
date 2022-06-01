@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-dpub-latinreq-20140313
+    id: W3CWD-dpub-latinreq-20140313
+    docid:
+    - id: W3C WD-dpub-latinreq-20140313
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-latinreq-20140313
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C dpub-pagination
+    id: W3Cdpub-pagination
+    docid:
+    - id: W3C dpub-pagination
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dpub-pagination
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-dpub-latinreq-20140930
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Digital Publishing Interest Group

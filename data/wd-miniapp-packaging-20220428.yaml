@@ -77,10 +77,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-miniapp-packaging-20220324
+    id: W3CWD-miniapp-packaging-20220324
+    docid:
+    - id: W3C WD-miniapp-packaging-20220324
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-packaging-20220324
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C miniapp-packaging
+    id: W3Cminiapp-packaging
+    docid:
+    - id: W3C miniapp-packaging
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C miniapp-packaging
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -89,7 +103,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-miniapp-packaging-20220428
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: MiniApps Working Group

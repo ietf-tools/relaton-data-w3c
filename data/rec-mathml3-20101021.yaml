@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-MathML3-20100810
+    id: W3CPR-MathML3-20100810
+    docid:
+    - id: W3C PR-MathML3-20100810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-MathML3-20100810
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C mathml3-errata.html
+    id: W3Cmathml3-errata.html
+    docid:
+    - id: W3C mathml3-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mathml3-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-MathML3-20101021
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Math Working Group

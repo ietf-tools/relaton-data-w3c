@@ -23,10 +23,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-eme-stream-registry-20160907
+    id: W3CNOTE-eme-stream-registry-20160907
+    docid:
+    - id: W3C NOTE-eme-stream-registry-20160907
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-eme-stream-registry-20160907
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C format-registry/stream
+    id: W3Cformat-registry/stream
+    docid:
+    - id: W3C format-registry/stream
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C format-registry/stream
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -35,7 +49,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-eme-stream-registry-20160915
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

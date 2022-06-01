@@ -1,19 +1,30 @@
 ---
+id: W3Cmmi-discovery
+title:
+- content: 'Registration & Discovery of Multimodal Modality Components in Multimodal
+    Systems: Use Cases and Requirements'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/mmi-discovery/
   type: src
 type: standard
+docid:
+- id: W3C mmi-discovery
+  type: W3C
+  primary: true
 docnumber: mmi-discovery
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C mmi-discovery
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-mmi-discovery-20120705
+    docid:
+    - id: W3C NOTE-mmi-discovery-20120705
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-mmi-discovery-20120705
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: mmi-discovery
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-tvcontrol-api-20170316
+    id: W3CWD-tvcontrol-api-20170316
+    docid:
+    - id: W3C WD-tvcontrol-api-20170316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tvcontrol-api-20170316
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C tvcontrol-api
+    id: W3Ctvcontrol-api
+    docid:
+    - id: W3C tvcontrol-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C tvcontrol-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-tvcontrol-api-20170518
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: TV Control Working Group

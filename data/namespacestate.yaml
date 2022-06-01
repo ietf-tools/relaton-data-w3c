@@ -1,19 +1,29 @@
 ---
+id: W3CnamespaceState
+title:
+- content: The Disposition of Names in an XML Namespace
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/namespaceState/
   type: src
 type: standard
+docid:
+- id: W3C namespaceState
+  type: W3C
+  primary: true
 docnumber: namespaceState
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C namespaceState
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-namespaceState-20060329
+    docid:
+    - id: W3C WD-namespaceState-20060329
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-namespaceState-20060329
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: namespaceState
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

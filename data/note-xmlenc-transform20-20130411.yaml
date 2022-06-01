@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-xmlenc-transform20-20120313
+    id: W3CCR-xmlenc-transform20-20120313
+    docid:
+    - id: W3C CR-xmlenc-transform20-20120313
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmlenc-transform20-20120313
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xmlenc-transform20-20130411
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Security Working Group

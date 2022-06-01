@@ -74,10 +74,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-telephony-20130620
+    id: W3CWD-telephony-20130620
+    docid:
+    - id: W3C WD-telephony-20130620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-telephony-20130620
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C telephony
+    id: W3Ctelephony
+    docid:
+    - id: W3C telephony
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C telephony
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -86,7 +100,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-telephony-20150602
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: System Applications Working Group

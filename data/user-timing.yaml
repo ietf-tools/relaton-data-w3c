@@ -1,24 +1,39 @@
 ---
+id: W3Cuser-timing
+title:
+- content: User Timing
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/user-timing/
   type: src
 type: standard
+docid:
+- id: W3C user-timing
+  type: W3C
+  primary: true
 docnumber: user-timing
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C user-timing
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-user-timing-20131212
+    docid:
+    - id: W3C REC-user-timing-20131212
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-user-timing-20131212
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-user-timing-20211202
+    docid:
+    - id: W3C CR-user-timing-20211202
+      type: W3C
+      primary: true
     formattedref:
       content: W3C CR-user-timing-20211202
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: user-timing
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

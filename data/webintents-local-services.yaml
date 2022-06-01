@@ -1,19 +1,29 @@
 ---
+id: W3Cwebintents-local-services
+title:
+- content: Web Intents Addendum - Local Services
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webintents-local-services/
   type: src
 type: standard
+docid:
+- id: W3C webintents-local-services
+  type: W3C
+  primary: true
 docnumber: webintents-local-services
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webintents-local-services
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-webintents-local-services-20140114
+    docid:
+    - id: W3C NOTE-webintents-local-services-20140114
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-webintents-local-services-20140114
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webintents-local-services
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

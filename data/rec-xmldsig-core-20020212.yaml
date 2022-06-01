@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xmldsig-core-20010820
+    id: W3CPR-xmldsig-core-20010820
+    docid:
+    - id: W3C PR-xmldsig-core-20010820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xmldsig-core-20010820
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xmldsig-errata
+    id: W3Cxmldsig-errata
+    docid:
+    - id: W3C xmldsig-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xmldsig-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xmldsig-core-20020212
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Security Working Group

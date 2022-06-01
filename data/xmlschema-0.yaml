@@ -1,24 +1,39 @@
 ---
+id: W3Cxmlschema-0
+title:
+- content: 'XML Schema Part 0: Primer Second Edition'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xmlschema-0/
   type: src
 type: standard
+docid:
+- id: W3C xmlschema-0
+  type: W3C
+  primary: true
 docnumber: xmlschema-0
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xmlschema-0
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlschema-0-20010502
+    docid:
+    - id: W3C REC-xmlschema-0-20010502
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlschema-0-20010502
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xmlschema-0-20041028
+    docid:
+    - id: W3C REC-xmlschema-0-20041028
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xmlschema-0-20041028
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xmlschema-0
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

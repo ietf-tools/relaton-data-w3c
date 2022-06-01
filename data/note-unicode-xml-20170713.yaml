@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-unicode-xml-20160503
+    id: W3CNOTE-unicode-xml-20160503
+    docid:
+    - id: W3C NOTE-unicode-xml-20160503
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20160503
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C unicode-xml
+    id: W3Cunicode-xml
+    docid:
+    - id: W3C unicode-xml
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C unicode-xml
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-unicode-xml-20170713
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

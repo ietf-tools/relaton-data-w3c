@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-SVG-20010719
+    id: W3CPR-SVG-20010719
+    docid:
+    - id: W3C PR-SVG-20010719
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SVG-20010719
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-SVG-20010904-errata
+    id: W3CREC-SVG-20010904-errata
+    docid:
+    - id: W3C REC-SVG-20010904-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-SVG-20010904-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-SVG-20010904
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

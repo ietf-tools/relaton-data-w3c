@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-geolocation-API-v2-20111201
+    id: W3CWD-geolocation-API-v2-20111201
+    docid:
+    - id: W3C WD-geolocation-API-v2-20111201
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geolocation-API-v2-20111201
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C spec-source-v2.html
+    id: W3Cspec-source-v2.html
+    docid:
+    - id: W3C spec-source-v2.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C spec-source-v2.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-geolocation-API-v2-20170706
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Geolocation Working Group

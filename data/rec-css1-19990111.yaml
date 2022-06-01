@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-CSS1-961217
+    id: W3CREC-CSS1-961217
+    docid:
+    - id: W3C REC-CSS1-961217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS1-961217
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-CSS1-19990111-errata
+    id: W3CREC-CSS1-19990111-errata
+    docid:
+    - id: W3C REC-CSS1-19990111-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS1-19990111-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-CSS1-961217
+    id: W3CREC-CSS1-961217
+    docid:
+    - id: W3C REC-CSS1-961217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS1-961217
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-CSS1-19990111
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

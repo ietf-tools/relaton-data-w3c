@@ -137,10 +137,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-voicexml21-20070425
+    id: W3CPR-voicexml21-20070425
+    docid:
+    - id: W3C PR-voicexml21-20070425
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-voicexml21-20070425
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C voicexml21-errata.html
+    id: W3Cvoicexml21-errata.html
+    docid:
+    - id: W3C voicexml21-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C voicexml21-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -149,7 +163,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-voicexml21-20070619
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Voice Browser Working Group

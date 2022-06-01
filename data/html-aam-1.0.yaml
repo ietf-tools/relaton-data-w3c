@@ -1,26 +1,36 @@
 ---
+id: W3Chtml-aam-1.0
+title:
+- content: HTML Accessibility API Mappings 1.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/html-aam-1.0/
   type: src
 type: standard
+docid:
+- id: W3C html-aam-1.0
+  type: W3C
+  primary: true
 docnumber: html-aam-1.0
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C html-aam-1.0
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-html-aam-1.0-20220531
+    docid:
+    - id: W3C WD-html-aam-1.0-20220531
+      type: W3C
+      primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20220526
+      content: W3C WD-html-aam-1.0-20220531
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: html-aam-1.0
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

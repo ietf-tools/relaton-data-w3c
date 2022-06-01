@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xquery-update-30-requirements-use-cases-20120327
+    id: W3CWD-xquery-update-30-requirements-use-cases-20120327
+    docid:
+    - id: W3C WD-xquery-update-30-requirements-use-cases-20120327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-update-30-requirements-use-cases-20120327
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xquery-update-30-requirements-use-cases-20170124
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Query Working Group

@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-xhtml-basic-20101123
+    id: W3CREC-xhtml-basic-20101123
+    docid:
+    - id: W3C REC-xhtml-basic-20101123
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-basic-20101123
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-xhtml-basic-20180327
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XHTML2 Working Group

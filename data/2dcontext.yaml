@@ -1,24 +1,39 @@
 ---
+id: W3C2dcontext
+title:
+- content: HTML Canvas 2D Context
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/2dcontext/
   type: src
 type: standard
+docid:
+- id: W3C 2dcontext
+  type: W3C
+  primary: true
 docnumber: 2dcontext
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C 2dcontext
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-2dcontext-20151119
+    docid:
+    - id: W3C REC-2dcontext-20151119
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-2dcontext-20151119
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-2dcontext-20210128
+    docid:
+    - id: W3C SPSD-2dcontext-20210128
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-2dcontext-20210128
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: 2dcontext
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

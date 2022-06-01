@@ -1,24 +1,39 @@
 ---
+id: W3Cowl2-xml-serialization
+title:
+- content: OWL 2 Web Ontology Language XML Serialization (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/owl2-xml-serialization/
   type: src
 type: standard
+docid:
+- id: W3C owl2-xml-serialization
+  type: W3C
+  primary: true
 docnumber: owl2-xml-serialization
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C owl2-xml-serialization
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-owl2-xml-serialization-20091027
+    docid:
+    - id: W3C REC-owl2-xml-serialization-20091027
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-owl2-xml-serialization-20091027
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-owl2-xml-serialization-20121211
+    docid:
+    - id: W3C REC-owl2-xml-serialization-20121211
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-owl2-xml-serialization-20121211
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: owl2-xml-serialization
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

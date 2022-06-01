@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-mst-content-hint-20210701
+    id: W3CWD-mst-content-hint-20210701
+    docid:
+    - id: W3C WD-mst-content-hint-20210701
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mst-content-hint-20210701
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C mst-content-hint
+    id: W3Cmst-content-hint
+    docid:
+    - id: W3C mst-content-hint
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mst-content-hint
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-mst-content-hint-20210722
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Real-Time Communications Working Group

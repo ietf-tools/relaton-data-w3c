@@ -1,19 +1,30 @@
 ---
+id: W3CDOM-Level-3-ASLS
+title:
+- content: Document Object Model (DOM) Level 3 Abstract Schemas and Load and       Save
+    Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/DOM-Level-3-ASLS/
   type: src
 type: standard
+docid:
+- id: W3C DOM-Level-3-ASLS
+  type: W3C
+  primary: true
 docnumber: DOM-Level-3-ASLS
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C DOM-Level-3-ASLS
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-DOM-Level-3-ASLS-20020725
+    docid:
+    - id: W3C WD-DOM-Level-3-ASLS-20020725
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-DOM-Level-3-ASLS-20020725
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: DOM-Level-3-ASLS
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

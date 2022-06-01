@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xforms-20030801
+    id: W3CPR-xforms-20030801
+    docid:
+    - id: W3C PR-xforms-20030801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xforms-20030801
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-xforms-10-20031014-errata.html
+    id: W3CREC-xforms-10-20031014-errata.html
+    docid:
+    - id: W3C REC-xforms-10-20031014-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xforms-10-20031014-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xforms-20031014
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Forms Working Group

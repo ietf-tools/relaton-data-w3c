@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-encoding-20180327
+    id: W3CCR-encoding-20180327
+    docid:
+    - id: W3C CR-encoding-20180327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-encoding-20180327
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C encoding.spec.whatwg.org
+    id: W3Cencoding.spec.whatwg.org
+    docid:
+    - id: W3C encoding.spec.whatwg.org
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C encoding.spec.whatwg.org
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-encoding-20200602
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

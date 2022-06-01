@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C DNOTE-i18n-glossary-20220126
+    id: W3CDNOTE-i18n-glossary-20220126
+    docid:
+    - id: W3C DNOTE-i18n-glossary-20220126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-i18n-glossary-20220126
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C i18n-glossary
+    id: W3Ci18n-glossary
+    docid:
+    - id: W3C i18n-glossary
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C i18n-glossary
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-i18n-glossary-20220211
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

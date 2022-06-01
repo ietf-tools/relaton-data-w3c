@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-swbp-specified-values-20040803
+    id: W3CWD-swbp-specified-values-20040803
+    docid:
+    - id: W3C WD-swbp-specified-values-20040803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-swbp-specified-values-20040803
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-swbp-specified-values-20050517
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Best Practices and Deployment Working Group

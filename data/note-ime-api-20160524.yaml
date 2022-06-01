@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-ime-api-20160515
+    id: W3CNOTE-ime-api-20160515
+    docid:
+    - id: W3C NOTE-ime-api-20160515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-ime-api-20160515
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ime-api
+    id: W3Cime-api
+    docid:
+    - id: W3C ime-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ime-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ime-api-20160524
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

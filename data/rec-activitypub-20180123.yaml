@@ -47,16 +47,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-activitypub-20171205
+    id: W3CPR-activitypub-20171205
+    docid:
+    - id: W3C PR-activitypub-20171205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-activitypub-20171205
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C ActivityPub_errata
+    id: W3CActivityPub_errata
+    docid:
+    - id: W3C ActivityPub_errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ActivityPub_errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C activitypub
+    id: W3Cactivitypub
+    docid:
+    - id: W3C activitypub
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C activitypub
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -65,7 +86,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-activitypub-20180123
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Social Web Working Group

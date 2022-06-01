@@ -77,16 +77,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-html52-20171102
+    id: W3CPR-html52-20171102
+    docid:
+    - id: W3C PR-html52-20171102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html52-20171102
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C html
+    id: W3Chtml
+    docid:
+    - id: W3C html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -95,7 +116,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-html52-20171214
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

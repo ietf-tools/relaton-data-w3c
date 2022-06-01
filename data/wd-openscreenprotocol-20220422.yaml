@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-openscreenprotocol-20210318
+    id: W3CWD-openscreenprotocol-20210318
+    docid:
+    - id: W3C WD-openscreenprotocol-20210318
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-openscreenprotocol-20210318
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C openscreenprotocol
+    id: W3Copenscreenprotocol
+    docid:
+    - id: W3C openscreenprotocol
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C openscreenprotocol
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-openscreenprotocol-20220422
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Second Screen Working Group

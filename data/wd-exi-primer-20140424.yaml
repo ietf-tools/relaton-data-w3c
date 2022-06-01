@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-exi-primer-20091208
+    id: W3CWD-exi-primer-20091208
+    docid:
+    - id: W3C WD-exi-primer-20091208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-exi-primer-20091208
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-exi-primer-20140424
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Efficient Extensible Interchange Working Group

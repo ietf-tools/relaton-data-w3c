@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-wai-aria-primer-20100916
+    id: W3CWD-wai-aria-primer-20100916
+    docid:
+    - id: W3C WD-wai-aria-primer-20100916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-primer-20100916
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wai-aria-primer-20160714
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

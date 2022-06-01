@@ -1,24 +1,39 @@
 ---
+id: W3CREC-DSig-label
+title:
+- content: PICS Signed Labels (DSig) 1.0 Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/REC-DSig-label/
   type: src
 type: standard
+docid:
+- id: W3C REC-DSig-label
+  type: W3C
+  primary: true
 docnumber: REC-DSig-label
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C REC-DSig-label
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-DSig-label-19980527
+    docid:
+    - id: W3C REC-DSig-label-19980527
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-DSig-label-19980527
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-DSig-label-20091124
+    docid:
+    - id: W3C REC-DSig-label-20091124
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-DSig-label-20091124
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: REC-DSig-label
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

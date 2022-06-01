@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-performance-timeline-20131031
+    id: W3CPR-performance-timeline-20131031
+    docid:
+    - id: W3C PR-performance-timeline-20131031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-performance-timeline-20131031
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-performance-timeline-20131212
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

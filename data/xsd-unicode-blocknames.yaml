@@ -1,19 +1,29 @@
 ---
+id: W3Cxsd-unicode-blocknames
+title:
+- content: Unicode block names for use in XSD regular expressions
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xsd-unicode-blocknames/
   type: src
 type: standard
+docid:
+- id: W3C xsd-unicode-blocknames
+  type: W3C
+  primary: true
 docnumber: xsd-unicode-blocknames
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xsd-unicode-blocknames
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-xsd-unicode-blocknames-20110609
+    docid:
+    - id: W3C NOTE-xsd-unicode-blocknames-20110609
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-xsd-unicode-blocknames-20110609
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xsd-unicode-blocknames
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

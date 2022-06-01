@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-sXBL-20050405
+    id: W3CWD-sXBL-20050405
+    docid:
+    - id: W3C WD-sXBL-20050405
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sXBL-20050405
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-sXBL-20050815
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

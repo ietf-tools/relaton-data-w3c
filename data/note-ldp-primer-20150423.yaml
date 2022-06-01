@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-ldp-primer-20140626
+    id: W3CWD-ldp-primer-20140626
+    docid:
+    - id: W3C WD-ldp-primer-20140626
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ldp-primer-20140626
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ldp-primer.html
+    id: W3Cldp-primer.html
+    docid:
+    - id: W3C ldp-primer.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ldp-primer.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ldp-primer-20150423
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Linked Data Platform Working Group

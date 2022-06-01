@@ -1,24 +1,39 @@
 ---
+id: W3Cwidgets-apis
+title:
+- content: Widget Interface
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/widgets-apis/
   type: src
 type: standard
+docid:
+- id: W3C widgets-apis
+  type: W3C
+  primary: true
 docnumber: widgets-apis
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C widgets-apis
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-widgets-apis-20131031
+    docid:
+    - id: W3C REC-widgets-apis-20131031
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-widgets-apis-20131031
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3COBSL-widgets-apis-20181011
+    docid:
+    - id: W3C OBSL-widgets-apis-20181011
+      type: W3C
+      primary: true
     formattedref:
       content: W3C OBSL-widgets-apis-20181011
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: widgets-apis
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

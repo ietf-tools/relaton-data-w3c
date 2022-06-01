@@ -1,24 +1,39 @@
 ---
+id: W3Ccors
+title:
+- content: Cross-Origin Resource Sharing
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/cors/
   type: src
 type: standard
+docid:
+- id: W3C cors
+  type: W3C
+  primary: true
 docnumber: cors
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C cors
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-cors-20140116
+    docid:
+    - id: W3C REC-cors-20140116
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-cors-20140116
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-cors-20200602
+    docid:
+    - id: W3C SPSD-cors-20200602
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-cors-20200602
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: cors
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

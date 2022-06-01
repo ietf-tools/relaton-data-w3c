@@ -64,7 +64,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C NOTE-act-rules-common-aspects.html
+    id: W3CNOTE-act-rules-common-aspects.html
+    docid:
+    - id: W3C NOTE-act-rules-common-aspects.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-act-rules-common-aspects.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -73,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-act-rules-aspects-20190416
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessibility Guidelines Working Group

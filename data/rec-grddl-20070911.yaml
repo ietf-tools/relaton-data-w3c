@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-grddl-20070716
+    id: W3CPR-grddl-20070716
+    docid:
+    - id: W3C PR-grddl-20070716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-grddl-20070716
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C grddl-errata
+    id: W3Cgrddl-errata
+    docid:
+    - id: W3C grddl-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C grddl-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-grddl-20070911
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: GRDDL Working Group

@@ -67,13 +67,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-exi-measurements-20060718
+    id: W3CWD-exi-measurements-20060718
+    docid:
+    - id: W3C WD-exi-measurements-20060718
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-exi-measurements-20060718
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-exi-measurements-20070725
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Efficient Extensible Interchange Working Group

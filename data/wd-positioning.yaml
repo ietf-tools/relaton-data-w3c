@@ -1,19 +1,29 @@
 ---
+id: W3CWD-positioning
+title:
+- content: Positioning HTML Elements with Cascading Style Sheets
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/WD-positioning
   type: src
 type: standard
+docid:
+- id: W3C WD-positioning
+  type: W3C
+  primary: true
 docnumber: WD-positioning
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C WD-positioning
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-positioning-19990902
+    docid:
+    - id: W3C WD-positioning-19990902
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-positioning-19990902
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: WD-positioning
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

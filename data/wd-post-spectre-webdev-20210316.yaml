@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-post-spectre-webdev
+    id: W3Cwebappsec-post-spectre-webdev
+    docid:
+    - id: W3C webappsec-post-spectre-webdev
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-post-spectre-webdev
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,5 +53,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-post-spectre-webdev-20210316
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

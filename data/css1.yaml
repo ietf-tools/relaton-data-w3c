@@ -1,24 +1,39 @@
 ---
+id: W3CCSS1
+title:
+- content: Cascading Style Sheets, level 1
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/CSS1/
   type: src
 type: standard
+docid:
+- id: W3C CSS1
+  type: W3C
+  primary: true
 docnumber: CSS1
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C CSS1
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-CSS1-20080411
+    docid:
+    - id: W3C REC-CSS1-20080411
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-CSS1-20080411
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-CSS1-20180913
+    docid:
+    - id: W3C SPSD-CSS1-20180913
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-CSS1-20180913
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: CSS1
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

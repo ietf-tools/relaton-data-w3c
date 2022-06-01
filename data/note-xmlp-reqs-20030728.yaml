@@ -194,13 +194,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xmlp-reqs-20020626
+    id: W3CWD-xmlp-reqs-20020626
+    docid:
+    - id: W3C WD-xmlp-reqs-20020626
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlp-reqs-20020626
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xmlp-reqs-20030728
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Protocol Working Group

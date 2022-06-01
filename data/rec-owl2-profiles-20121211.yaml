@@ -77,22 +77,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-owl2-profiles-20121018
+    id: W3CPER-owl2-profiles-20121018
+    docid:
+    - id: W3C PER-owl2-profiles-20121018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-owl2-profiles-20121018
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-owl2-profiles-20091027
+    id: W3CREC-owl2-profiles-20091027
+    docid:
+    - id: W3C REC-owl2-profiles-20091027
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-owl2-profiles-20091027
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-owl2-profiles-20121211
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: OWL Working Group

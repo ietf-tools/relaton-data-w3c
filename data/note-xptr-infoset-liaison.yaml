@@ -1,19 +1,29 @@
 ---
+id: W3CNOTE-xptr-infoset-liaison
+title:
+- content: XPointer-Information Set Liaison Statement Version 1.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/NOTE-xptr-infoset-liaison
   type: src
 type: standard
+docid:
+- id: W3C NOTE-xptr-infoset-liaison
+  type: W3C
+  primary: true
 docnumber: NOTE-xptr-infoset-liaison
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C NOTE-xptr-infoset-liaison
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-xptr-infoset-liaison-19990224
+    docid:
+    - id: W3C NOTE-xptr-infoset-liaison-19990224
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-xptr-infoset-liaison-19990224
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: NOTE-xptr-infoset-liaison
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

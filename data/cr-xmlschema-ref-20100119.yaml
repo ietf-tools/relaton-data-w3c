@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xmlschema-ref-20081117
+    id: W3CWD-xmlschema-ref-20081117
+    docid:
+    - id: W3C WD-xmlschema-ref-20081117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema-ref-20081117
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-xmlschema-ref-20100119
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Schema Working Group

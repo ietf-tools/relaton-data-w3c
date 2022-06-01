@@ -1,24 +1,39 @@
 ---
+id: W3Cxml-entity-names
+title:
+- content: XML Entity Definitions for Characters (2nd Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xml-entity-names/
   type: src
 type: standard
+docid:
+- id: W3C xml-entity-names
+  type: W3C
+  primary: true
 docnumber: xml-entity-names
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xml-entity-names
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-entity-names-20100401
+    docid:
+    - id: W3C REC-xml-entity-names-20100401
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-entity-names-20100401
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-entity-names-20140410
+    docid:
+    - id: W3C REC-xml-entity-names-20140410
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-entity-names-20140410
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xml-entity-names
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

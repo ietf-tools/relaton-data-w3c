@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-responsible-use-spatial-20210119
+    id: W3CNOTE-responsible-use-spatial-20210119
+    docid:
+    - id: W3C NOTE-responsible-use-spatial-20210119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-responsible-use-spatial-20210119
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C responsible-use
+    id: W3Cresponsible-use
+    docid:
+    - id: W3C responsible-use
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C responsible-use
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-responsible-use-spatial-20210527
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Interest Group

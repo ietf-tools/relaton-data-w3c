@@ -1,29 +1,49 @@
 ---
+id: W3Cwidgets
+title:
+- content: Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/widgets/
   type: src
 type: standard
+docid:
+- id: W3C widgets
+  type: W3C
+  primary: true
 docnumber: widgets
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C widgets
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-widgets-20110927
+    docid:
+    - id: W3C REC-widgets-20110927
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-widgets-20110927
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-widgets-20121127
+    docid:
+    - id: W3C REC-widgets-20121127
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-widgets-20121127
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3COBSL-widgets-20181011
+    docid:
+    - id: W3C OBSL-widgets-20181011
+      type: W3C
+      primary: true
     formattedref:
       content: W3C OBSL-widgets-20181011
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: widgets
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

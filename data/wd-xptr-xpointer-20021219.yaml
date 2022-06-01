@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xptr-xpointer-20020710
+    id: W3CWD-xptr-xpointer-20020710
+    docid:
+    - id: W3C WD-xptr-xpointer-20020710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xptr-xpointer-20020710
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-xptr-xpointer-20021219
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Linking Working Group

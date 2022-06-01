@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-task-scheduler-20141202
+    id: W3CWD-task-scheduler-20141202
+    docid:
+    - id: W3C WD-task-scheduler-20141202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-scheduler-20141202
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C web-alarms
+    id: W3Cweb-alarms
+    docid:
+    - id: W3C web-alarms
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-alarms
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-task-scheduler-20150723
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: System Applications Working Group

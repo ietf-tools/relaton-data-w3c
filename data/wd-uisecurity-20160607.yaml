@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-UISecurity-20140318
+    id: W3CWD-UISecurity-20140318
+    docid:
+    - id: W3C WD-UISecurity-20140318
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UISecurity-20140318
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-uisecurity/index
+    id: W3Cwebappsec-uisecurity/index
+    docid:
+    - id: W3C webappsec-uisecurity/index
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-uisecurity/index
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,5 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-UISecurity-20160607
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-xforms-20021112
+    id: W3CCR-xforms-20021112
+    docid:
+    - id: W3C CR-xforms-20021112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xforms-20021112
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-xforms-basic-20031014
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Forms Working Group

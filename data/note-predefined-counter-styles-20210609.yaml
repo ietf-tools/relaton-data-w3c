@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-predefined-counter-styles-20210606
+    id: W3CNOTE-predefined-counter-styles-20210606
+    docid:
+    - id: W3C NOTE-predefined-counter-styles-20210606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-predefined-counter-styles-20210606
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C predefined-counter-styles
+    id: W3Cpredefined-counter-styles
+    docid:
+    - id: W3C predefined-counter-styles
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C predefined-counter-styles
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-predefined-counter-styles-20210609
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

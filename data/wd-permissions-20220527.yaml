@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-permissions-20220509
+    id: W3CWD-permissions-20220509
+    docid:
+    - id: W3C WD-permissions-20220509
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20220509
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C permissions
+    id: W3Cpermissions
+    docid:
+    - id: W3C permissions
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C permissions
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,5 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-permissions-20220527
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

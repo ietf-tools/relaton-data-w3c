@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-vibration-20141209
+    id: W3CPR-vibration-20141209
+    docid:
+    - id: W3C PR-vibration-20141209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vibration-20141209
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C vibration
+    id: W3Cvibration
+    docid:
+    - id: W3C vibration
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vibration
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-vibration-20150210
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Devices and Sensors Working Group

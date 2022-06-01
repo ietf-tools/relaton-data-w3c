@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C dom-overlays
+    id: W3Cdom-overlays
+    docid:
+    - id: W3C dom-overlays
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dom-overlays
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +53,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-webxr-dom-overlays-1-20210831
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Immersive Web Working Group

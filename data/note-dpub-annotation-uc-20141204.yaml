@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-dpub-annotation-uc-20140313
+    id: W3CWD-dpub-annotation-uc-20140313
+    docid:
+    - id: W3C WD-dpub-annotation-uc-20140313
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-annotation-uc-20140313
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C dpub-annotation
+    id: W3Cdpub-annotation
+    docid:
+    - id: W3C dpub-annotation
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dpub-annotation
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dpub-annotation-uc-20141204
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Digital Publishing Interest Group

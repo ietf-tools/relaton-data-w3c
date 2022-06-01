@@ -1,29 +1,49 @@
 ---
+id: W3Cxhtml11
+title:
+- content: XHTML™ 1.1 - Module-based XHTML - Second Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml11/
   type: src
 type: standard
+docid:
+- id: W3C xhtml11
+  type: W3C
+  primary: true
 docnumber: xhtml11
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml11
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml11-20010531
+    docid:
+    - id: W3C REC-xhtml11-20010531
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml11-20010531
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xhtml11-20101123
+    docid:
+    - id: W3C REC-xhtml11-20101123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xhtml11-20101123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-xhtml11-20180327
+    docid:
+    - id: W3C SPSD-xhtml11-20180327
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-xhtml11-20180327
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml11
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-DDR-Simple-API-20080917
+    id: W3CPR-DDR-Simple-API-20080917
+    docid:
+    - id: W3C PR-DDR-Simple-API-20080917
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-DDR-Simple-API-20080917
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C DDR-Simple-API-errata.html
+    id: W3CDDR-Simple-API-errata.html
+    docid:
+    - id: W3C DDR-Simple-API-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DDR-Simple-API-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-DDR-Simple-API-20081205
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Mobile Web Initiative Device Description Working Group

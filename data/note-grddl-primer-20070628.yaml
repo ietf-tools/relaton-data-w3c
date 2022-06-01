@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-grddl-primer-20061002
+    id: W3CWD-grddl-primer-20061002
+    docid:
+    - id: W3C WD-grddl-primer-20061002
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-grddl-primer-20061002
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-grddl-primer-20070628
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: GRDDL Working Group

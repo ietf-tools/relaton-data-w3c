@@ -57,16 +57,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-dwbp-20161215
+    id: W3CPR-dwbp-20161215
+    docid:
+    - id: W3C PR-dwbp-20161215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-dwbp-20161215
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata.html
+    id: W3Cerrata.html
+    docid:
+    - id: W3C errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C bp.html
+    id: W3Cbp.html
+    docid:
+    - id: W3C bp.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C bp.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -75,7 +96,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-dwbp-20170131
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Data on the Web Best Practices Working Group

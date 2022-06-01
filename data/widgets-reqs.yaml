@@ -1,19 +1,29 @@
 ---
+id: W3Cwidgets-reqs
+title:
+- content: Requirement For Standardizing Widgets
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/widgets-reqs/
   type: src
 type: standard
+docid:
+- id: W3C widgets-reqs
+  type: W3C
+  primary: true
 docnumber: widgets-reqs
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C widgets-reqs
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-widgets-reqs-20110927
+    docid:
+    - id: W3C NOTE-widgets-reqs-20110927
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-widgets-reqs-20110927
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: widgets-reqs
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

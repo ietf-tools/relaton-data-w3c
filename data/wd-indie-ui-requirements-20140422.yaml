@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C indie-ui-requirements.html
+    id: W3Cindie-ui-requirements.html
+    docid:
+    - id: W3C indie-ui-requirements.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C indie-ui-requirements.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +53,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-indie-ui-requirements-20140422
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Independent User Interface Working Group

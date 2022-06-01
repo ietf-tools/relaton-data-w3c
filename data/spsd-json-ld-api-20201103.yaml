@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-json-ld-api-20140116
+    id: W3CREC-json-ld-api-20140116
+    docid:
+    - id: W3C REC-json-ld-api-20140116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-json-ld-api-20140116
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-json-ld-api-20201103
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDF Working Group

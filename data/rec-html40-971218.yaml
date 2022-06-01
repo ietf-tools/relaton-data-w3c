@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-html40-971107
+    id: W3CPR-html40-971107
+    docid:
+    - id: W3C PR-html40-971107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html40-971107
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-html40-971218
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XHTML2 Working Group

@@ -57,13 +57,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-json-ld-20131105
+    id: W3CPR-json-ld-20131105
+    docid:
+    - id: W3C PR-json-ld-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-json-ld-20131105
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-json-ld-20140116
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDF Working Group

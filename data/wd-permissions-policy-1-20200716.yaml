@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-feature-policy-1-20190416
+    id: W3CWD-feature-policy-1-20190416
+    docid:
+    - id: W3C WD-feature-policy-1-20190416
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-feature-policy-1-20190416
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-permissions-policy
+    id: W3Cwebappsec-permissions-policy
+    docid:
+    - id: W3C webappsec-permissions-policy
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-permissions-policy
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,5 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-permissions-policy-1-20200716
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

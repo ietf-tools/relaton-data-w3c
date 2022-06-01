@@ -1,26 +1,36 @@
 ---
+id: W3Cwebgpu
+title:
+- content: WebGPU
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webgpu/
   type: src
 type: standard
+docid:
+- id: W3C webgpu
+  type: W3C
+  primary: true
 docnumber: webgpu
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webgpu
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-webgpu-20220531
+    docid:
+    - id: W3C WD-webgpu-20220531
+      type: W3C
+      primary: true
     formattedref:
-      content: W3C WD-webgpu-20220527
+      content: W3C WD-webgpu-20220531
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webgpu
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

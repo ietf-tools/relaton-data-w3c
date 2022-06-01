@@ -77,10 +77,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-soap12-part1-20030507
+    id: W3CPR-soap12-part1-20030507
+    docid:
+    - id: W3C PR-soap12-part1-20030507
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-soap12-part1-20030507
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-soap12-20030624-errata
+    id: W3CREC-soap12-20030624-errata
+    docid:
+    - id: W3C REC-soap12-20030624-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-soap12-20030624-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -89,7 +103,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-soap12-part1-20030624
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Protocol Working Group

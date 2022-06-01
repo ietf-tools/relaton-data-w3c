@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-websockets-20120920
+    id: W3CCR-websockets-20120920
+    docid:
+    - id: W3C CR-websockets-20120920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-websockets-20120920
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-websockets-20210128
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

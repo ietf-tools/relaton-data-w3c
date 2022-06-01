@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-MathML2-20010108
+    id: W3CPR-MathML2-20010108
+    docid:
+    - id: W3C PR-MathML2-20010108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-MathML2-20010108
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C MathML2-errata
+    id: W3CMathML2-errata
+    docid:
+    - id: W3C MathML2-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C MathML2-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-MathML2-20010221
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Math Working Group

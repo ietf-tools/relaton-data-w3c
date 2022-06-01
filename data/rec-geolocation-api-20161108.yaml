@@ -37,16 +37,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-geolocation-API-20150528
+    id: W3CPER-geolocation-API-20150528
+    docid:
+    - id: W3C PER-geolocation-API-20150528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-geolocation-API-20150528
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C geoapi-errata.html
+    id: W3Cgeoapi-errata.html
+    docid:
+    - id: W3C geoapi-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C geoapi-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C geolocation-api
+    id: W3Cgeolocation-api
+    docid:
+    - id: W3C geolocation-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C geolocation-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -55,7 +76,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-geolocation-API-20161108
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Geolocation Working Group

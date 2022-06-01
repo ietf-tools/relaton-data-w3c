@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C paths
+    id: W3Cpaths
+    docid:
+    - id: W3C paths
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C paths
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-svg-paths-20150709
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

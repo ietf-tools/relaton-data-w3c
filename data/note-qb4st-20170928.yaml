@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-qb4st-20170418
+    id: W3CNOTE-qb4st-20170418
+    docid:
+    - id: W3C NOTE-qb4st-20170418
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-qb4st-20170418
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C qb4st
+    id: W3Cqb4st
+    docid:
+    - id: W3C qb4st
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C qb4st
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-qb4st-20170928
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Working Group

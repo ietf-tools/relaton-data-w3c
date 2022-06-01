@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-css-will-change-1-20151203
+    id: W3CCR-css-will-change-1-20151203
+    docid:
+    - id: W3C CR-css-will-change-1-20151203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-will-change-1-20151203
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-will-change
+    id: W3Ccss-will-change
+    docid:
+    - id: W3C css-will-change
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-will-change
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-css-will-change-1-20220505
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

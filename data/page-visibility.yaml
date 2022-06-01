@@ -1,24 +1,39 @@
 ---
+id: W3Cpage-visibility
+title:
+- content: Page Visibility (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/page-visibility/
   type: src
 type: standard
+docid:
+- id: W3C page-visibility
+  type: W3C
+  primary: true
 docnumber: page-visibility
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C page-visibility
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-page-visibility-20130514
+    docid:
+    - id: W3C REC-page-visibility-20130514
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-page-visibility-20130514
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-page-visibility-20131029
+    docid:
+    - id: W3C REC-page-visibility-20131029
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-page-visibility-20131029
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: page-visibility
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

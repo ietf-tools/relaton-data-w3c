@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-image-resource-20210426
+    id: W3CWD-image-resource-20210426
+    docid:
+    - id: W3C WD-image-resource-20210426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-resource-20210426
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C image-resource
+    id: W3Cimage-resource
+    docid:
+    - id: W3C image-resource
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C image-resource
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-image-resource-20210604
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

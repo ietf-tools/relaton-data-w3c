@@ -1,24 +1,39 @@
 ---
+id: W3Csoap12-testcollection
+title:
+- content: SOAP Version 1.2 Specification Assertions and Test Collection (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/soap12-testcollection/
   type: src
 type: standard
+docid:
+- id: W3C soap12-testcollection
+  type: W3C
+  primary: true
 docnumber: soap12-testcollection
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C soap12-testcollection
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-soap12-testcollection-20030624
+    docid:
+    - id: W3C REC-soap12-testcollection-20030624
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-soap12-testcollection-20030624
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-soap12-testcollection-20070427
+    docid:
+    - id: W3C REC-soap12-testcollection-20070427
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-soap12-testcollection-20070427
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: soap12-testcollection
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

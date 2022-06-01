@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-csvw-ucr-20140701
+    id: W3CWD-csvw-ucr-20140701
+    docid:
+    - id: W3C WD-csvw-ucr-20140701
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-csvw-ucr-20140701
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C use-cases-and-requirements
+    id: W3Cuse-cases-and-requirements
+    docid:
+    - id: W3C use-cases-and-requirements
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C use-cases-and-requirements
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-csvw-ucr-20160225
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: CSV on the Web Working Group

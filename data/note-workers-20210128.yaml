@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-workers-20150924
+    id: W3CWD-workers-20150924
+    docid:
+    - id: W3C WD-workers-20150924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-workers-20150924
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C workers.html
+    id: W3Cworkers.html
+    docid:
+    - id: W3C workers.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C workers.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-workers-20210128
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

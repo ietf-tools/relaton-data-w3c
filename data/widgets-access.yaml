@@ -1,24 +1,39 @@
 ---
+id: W3Cwidgets-access
+title:
+- content: Widget Access Request Policy
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/widgets-access/
   type: src
 type: standard
+docid:
+- id: W3C widgets-access
+  type: W3C
+  primary: true
 docnumber: widgets-access
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C widgets-access
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-widgets-access-20120207
+    docid:
+    - id: W3C REC-widgets-access-20120207
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-widgets-access-20120207
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3COBSL-widgets-access-20181011
+    docid:
+    - id: W3C OBSL-widgets-access-20181011
+      type: W3C
+      primary: true
     formattedref:
       content: W3C OBSL-widgets-access-20181011
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: widgets-access
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

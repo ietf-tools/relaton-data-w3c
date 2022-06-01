@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-rif-rdf-owl-20121211
+    id: W3CPER-rif-rdf-owl-20121211
+    docid:
+    - id: W3C PER-rif-rdf-owl-20121211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-rif-rdf-owl-20121211
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata
+    id: W3Cerrata
+    docid:
+    - id: W3C errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-rif-rdf-owl-20100622
+    id: W3CREC-rif-rdf-owl-20100622
+    docid:
+    - id: W3C REC-rif-rdf-owl-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rif-rdf-owl-20100622
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-rif-rdf-owl-20130205
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RIF Working Group

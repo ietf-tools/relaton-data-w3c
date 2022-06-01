@@ -57,7 +57,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C requirements.html
+    id: W3Crequirements.html
+    docid:
+    - id: W3C requirements.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C requirements.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-wcag2-ext-req-20160105
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessibility Guidelines Working Group

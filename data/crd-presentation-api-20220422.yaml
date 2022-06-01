@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CRD-presentation-api-20201105
+    id: W3CCRD-presentation-api-20201105
+    docid:
+    - id: W3C CRD-presentation-api-20201105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-presentation-api-20201105
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C presentation-api
+    id: W3Cpresentation-api
+    docid:
+    - id: W3C presentation-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C presentation-api
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CRD-presentation-api-20220422
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Second Screen Working Group

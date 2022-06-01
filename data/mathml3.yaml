@@ -1,24 +1,39 @@
 ---
+id: W3CMathML3
+title:
+- content: Mathematical Markup Language (MathML) Version 3.0 2nd Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/MathML3/
   type: src
 type: standard
+docid:
+- id: W3C MathML3
+  type: W3C
+  primary: true
 docnumber: MathML3
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C MathML3
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML3-20101021
+    docid:
+    - id: W3C REC-MathML3-20101021
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML3-20101021
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML3-20140410
+    docid:
+    - id: W3C REC-MathML3-20140410
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML3-20140410
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: MathML3
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

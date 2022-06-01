@@ -1,19 +1,30 @@
 ---
+id: W3Ceo-qb
+title:
+- content: Publishing and Using Earth Observation Data with the RDF Data Cube and
+    the Discrete Global Grid System
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/eo-qb/
   type: src
 type: standard
+docid:
+- id: W3C eo-qb
+  type: W3C
+  primary: true
 docnumber: eo-qb
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C eo-qb
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-eo-qb-20170928
+    docid:
+    - id: W3C NOTE-eo-qb-20170928
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-eo-qb-20170928
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: eo-qb
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

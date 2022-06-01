@@ -74,10 +74,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-epub-a11y-tech-11-20220519
+    id: W3CNOTE-epub-a11y-tech-11-20220519
+    docid:
+    - id: W3C NOTE-epub-a11y-tech-11-20220519
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-epub-a11y-tech-11-20220519
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C a11y-tech
+    id: W3Ca11y-tech
+    docid:
+    - id: W3C a11y-tech
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C a11y-tech
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -86,7 +100,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-epub-a11y-tech-11-20220520
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

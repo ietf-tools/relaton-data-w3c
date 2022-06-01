@@ -47,22 +47,43 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PER-SMIL2-20041105
+    id: W3CPER-SMIL2-20041105
+    docid:
+    - id: W3C PER-SMIL2-20041105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-SMIL2-20041105
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C EditedREC-SMIL20-errata
+    id: W3CEditedREC-SMIL20-errata
+    docid:
+    - id: W3C EditedREC-SMIL20-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C EditedREC-SMIL20-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-smil20-20010807
+    id: W3CREC-smil20-20010807
+    docid:
+    - id: W3C REC-smil20-20010807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-smil20-20010807
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-SMIL2-20050107
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Synchronized Multimedia Working Group

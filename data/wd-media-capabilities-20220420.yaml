@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-media-capabilities-20220419
+    id: W3CWD-media-capabilities-20220419
+    docid:
+    - id: W3C WD-media-capabilities-20220419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-capabilities-20220419
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C media-capabilities
+    id: W3Cmedia-capabilities
+    docid:
+    - id: W3C media-capabilities
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C media-capabilities
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-media-capabilities-20220420
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Media Working Group

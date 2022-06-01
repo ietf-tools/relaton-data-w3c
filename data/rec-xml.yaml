@@ -1,29 +1,49 @@
 ---
+id: W3CREC-xml
+title:
+- content: Extensible Markup Language (XML) 1.0 (Third Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/REC-xml/
   type: src
 type: standard
+docid:
+- id: W3C REC-xml
+  type: W3C
+  primary: true
 docnumber: REC-xml
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C REC-xml
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-19980210
+    docid:
+    - id: W3C REC-xml-19980210
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-19980210
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-20001006
+    docid:
+    - id: W3C REC-xml-20001006
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-20001006
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-20040204
+    docid:
+    - id: W3C REC-xml-20040204
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-20040204
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: REC-xml
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

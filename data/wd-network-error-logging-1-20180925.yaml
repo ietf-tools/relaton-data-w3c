@@ -87,10 +87,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-network-error-logging-20160720
+    id: W3CNOTE-network-error-logging-20160720
+    docid:
+    - id: W3C NOTE-network-error-logging-20160720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-network-error-logging-20160720
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C network-error-logging
+    id: W3Cnetwork-error-logging
+    docid:
+    - id: W3C network-error-logging
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C network-error-logging
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -99,7 +113,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-network-error-logging-1-20180925
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

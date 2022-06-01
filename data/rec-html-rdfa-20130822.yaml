@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-html-rdfa-20130625
+    id: W3CPR-html-rdfa-20130625
+    docid:
+    - id: W3C PR-html-rdfa-20130625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html-rdfa-20130625
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-html-rdfa-20130822
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDFa Working Group

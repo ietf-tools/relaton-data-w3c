@@ -1,24 +1,39 @@
 ---
+id: W3Cjson-ld-api
+title:
+- content: JSON-LD 1.0 Processing Algorithms and API
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/json-ld-api/
   type: src
 type: standard
+docid:
+- id: W3C json-ld-api
+  type: W3C
+  primary: true
 docnumber: json-ld-api
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C json-ld-api
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-json-ld-api-20140116
+    docid:
+    - id: W3C REC-json-ld-api-20140116
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-json-ld-api-20140116
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-json-ld-api-20201103
+    docid:
+    - id: W3C SPSD-json-ld-api-20201103
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-json-ld-api-20201103
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: json-ld-api
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -77,16 +77,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-wot-thing-description-20200130
+    id: W3CPR-wot-thing-description-20200130
+    docid:
+    - id: W3C PR-wot-thing-description-20200130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-wot-thing-description-20200130
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C wot-thing-description/errata
+    id: W3Cwot-thing-description/errata
+    docid:
+    - id: W3C wot-thing-description/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-thing-description/errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C wot-thing-description
+    id: W3Cwot-thing-description
+    docid:
+    - id: W3C wot-thing-description
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-thing-description
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -95,7 +116,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-wot-thing-description-20200409
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web of Things Working Group

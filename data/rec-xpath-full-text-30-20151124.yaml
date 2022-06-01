@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xpath-full-text-30-20150806
+    id: W3CPR-xpath-full-text-30-20150806
+    docid:
+    - id: W3C PR-xpath-full-text-30-20150806
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xpath-full-text-30-20150806
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-xpath-full-text-30-20151124
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Extensible Stylesheet Language Family

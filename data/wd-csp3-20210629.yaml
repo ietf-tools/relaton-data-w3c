@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-CSP3-20210628
+    id: W3CWD-CSP3-20210628
+    docid:
+    - id: W3C WD-CSP3-20210628
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP3-20210628
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C webappsec-csp
+    id: W3Cwebappsec-csp
+    docid:
+    - id: W3C webappsec-csp
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-csp
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -49,5 +63,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-CSP3-20210629
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

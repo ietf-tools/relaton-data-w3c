@@ -37,16 +37,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-ttml-imsc1.2-20200616
+    id: W3CPR-ttml-imsc1.2-20200616
+    docid:
+    - id: W3C PR-ttml-imsc1.2-20200616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-ttml-imsc1.2-20200616
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C ttml-imsc1.2-errata.html
+    id: W3Cttml-imsc1.2-errata.html
+    docid:
+    - id: W3C ttml-imsc1.2-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ttml-imsc1.2-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C ttml-ww-profiles.html
+    id: W3Cttml-ww-profiles.html
+    docid:
+    - id: W3C ttml-ww-profiles.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ttml-ww-profiles.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -55,7 +76,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-ttml-imsc1.2-20200804
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Timed Text Working Group

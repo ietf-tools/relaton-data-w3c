@@ -1,19 +1,29 @@
 ---
+id: W3Cxhtml-role
+title:
+- content: XHTML Role Attribute Module
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xhtml-role/
   type: src
 type: standard
+docid:
+- id: W3C xhtml-role
+  type: W3C
+  primary: true
 docnumber: xhtml-role
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xhtml-role
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-xhtml-role-20101216
+    docid:
+    - id: W3C NOTE-xhtml-role-20101216
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-xhtml-role-20101216
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-role
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

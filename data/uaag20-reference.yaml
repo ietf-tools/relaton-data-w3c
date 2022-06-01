@@ -1,19 +1,30 @@
 ---
+id: W3CUAAG20-Reference
+title:
+- content: 'UAAG 2.0 Reference: Explanations, Examples, and Resources for User Agent
+    Accessibility Guidelines 2.0'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/UAAG20-Reference/
   type: src
 type: standard
+docid:
+- id: W3C UAAG20-Reference
+  type: W3C
+  primary: true
 docnumber: UAAG20-Reference
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C UAAG20-Reference
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-UAAG20-Reference-20151215
+    docid:
+    - id: W3C NOTE-UAAG20-Reference-20151215
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-UAAG20-Reference-20151215
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: UAAG20-Reference
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-file-system-api-20120417
+    id: W3CWD-file-system-api-20120417
+    docid:
+    - id: W3C WD-file-system-api-20120417
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-system-api-20120417
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C file-dir-sys.html
+    id: W3Cfile-dir-sys.html
+    docid:
+    - id: W3C file-dir-sys.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C file-dir-sys.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-file-system-api-20140424
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

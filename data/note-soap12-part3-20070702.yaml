@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-soap12-part3-20061219
+    id: W3CWD-soap12-part3-20061219
+    docid:
+    - id: W3C WD-soap12-part3-20061219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-soap12-part3-20061219
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-soap12-part3-20070702
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Protocol Working Group

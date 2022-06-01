@@ -1,24 +1,39 @@
 ---
+id: W3Cwebmessaging
+title:
+- content: HTML5 Web Messaging
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webmessaging/
   type: src
 type: standard
+docid:
+- id: W3C webmessaging
+  type: W3C
+  primary: true
 docnumber: webmessaging
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webmessaging
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-webmessaging-20150519
+    docid:
+    - id: W3C REC-webmessaging-20150519
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-webmessaging-20150519
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-webmessaging-20210128
+    docid:
+    - id: W3C SPSD-webmessaging-20210128
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-webmessaging-20210128
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webmessaging
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

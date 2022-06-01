@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-rdf-schema-20031215
+    id: W3CPR-rdf-schema-20031215
+    docid:
+    - id: W3C PR-rdf-schema-20031215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdf-schema-20031215
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata#rdf-schema
+    id: W3Cerrata#rdf-schema
+    docid:
+    - id: W3C errata#rdf-schema
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata#rdf-schema
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-rdf-schema-20040210
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDFCore Working Group

@@ -64,10 +64,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-turingtest-20191209
+    id: W3CNOTE-turingtest-20191209
+    docid:
+    - id: W3C NOTE-turingtest-20191209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-turingtest-20191209
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C captcha-accessibility
+    id: W3Ccaptcha-accessibility
+    docid:
+    - id: W3C captcha-accessibility
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C captcha-accessibility
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -76,7 +90,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-turingtest-20211216
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

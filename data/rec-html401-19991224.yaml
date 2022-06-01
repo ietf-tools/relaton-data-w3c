@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-html40-19990824
+    id: W3CPR-html40-19990824
+    docid:
+    - id: W3C PR-html40-19990824
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html40-19990824
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C html4-updates/errata
+    id: W3Chtml4-updates/errata
+    docid:
+    - id: W3C html4-updates/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html4-updates/errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-html401-19991224
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XHTML2 Working Group

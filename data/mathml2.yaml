@@ -1,24 +1,39 @@
 ---
+id: W3CMathML2
+title:
+- content: Mathematical Markup Language (MathML) Version 2.0 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/MathML2/
   type: src
 type: standard
+docid:
+- id: W3C MathML2
+  type: W3C
+  primary: true
 docnumber: MathML2
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C MathML2
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML2-20010221
+    docid:
+    - id: W3C REC-MathML2-20010221
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML2-20010221
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-MathML2-20031021
+    docid:
+    - id: W3C REC-MathML2-20031021
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-MathML2-20031021
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: MathML2
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

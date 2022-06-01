@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-ct-guidelines-20100617
+    id: W3CCR-ct-guidelines-20100617
+    docid:
+    - id: W3C CR-ct-guidelines-20100617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ct-guidelines-20100617
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ct-guidelines-20101026
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Mobile Web Best Practices Working Group

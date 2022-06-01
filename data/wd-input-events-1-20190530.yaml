@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-input-events-1-20181109
+    id: W3CWD-input-events-1-20181109
+    docid:
+    - id: W3C WD-input-events-1-20181109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-input-events-1-20181109
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C input-events/v1
+    id: W3Cinput-events/v1
+    docid:
+    - id: W3C input-events/v1
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C input-events/v1
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-input-events-1-20190530
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

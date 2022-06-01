@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-DSig-usage-20060915
+    id: W3CWD-DSig-usage-20060915
+    docid:
+    - id: W3C WD-DSig-usage-20060915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DSig-usage-20060915
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-DSig-usage-20061220
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: XML Core Working Group

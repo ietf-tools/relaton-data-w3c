@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-xml-blueberry-req-20010620
+    id: W3CWD-xml-blueberry-req-20010620
+    docid:
+    - id: W3C WD-xml-blueberry-req-20010620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-blueberry-req-20010620
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-xml-blueberry-req-20010921
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Core Working Group

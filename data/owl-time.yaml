@@ -1,24 +1,39 @@
 ---
+id: W3Cowl-time
+title:
+- content: Time Ontology in OWL
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/owl-time/
   type: src
 type: standard
+docid:
+- id: W3C owl-time
+  type: W3C
+  primary: true
 docnumber: owl-time
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C owl-time
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-owl-time-20171019
+    docid:
+    - id: W3C REC-owl-time-20171019
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-owl-time-20171019
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-owl-time-20200326
+    docid:
+    - id: W3C CR-owl-time-20200326
+      type: W3C
+      primary: true
     formattedref:
       content: W3C CR-owl-time-20200326
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: owl-time
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

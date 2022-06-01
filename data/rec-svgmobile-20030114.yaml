@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-SVGMobile-20021115
+    id: W3CPR-SVGMobile-20021115
+    docid:
+    - id: W3C PR-SVGMobile-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SVGMobile-20021115
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-SVGMobile-20030114-errata
+    id: W3CREC-SVGMobile-20030114-errata
+    docid:
+    - id: W3C REC-SVGMobile-20030114-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-SVGMobile-20030114-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-SVGMobile-20030114
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-ws-arch-scenarios-20030514
+    id: W3CWD-ws-arch-scenarios-20030514
+    docid:
+    - id: W3C WD-ws-arch-scenarios-20030514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-arch-scenarios-20030514
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ws-arch-scenarios-20040211
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Services Architecture Working Group

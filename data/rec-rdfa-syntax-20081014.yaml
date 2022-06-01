@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-rdfa-syntax-20080904
+    id: W3CPR-rdfa-syntax-20080904
+    docid:
+    - id: W3C PR-rdfa-syntax-20080904
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdfa-syntax-20080904
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-rdfa-syntax-20081014-errata
+    id: W3CREC-rdfa-syntax-20081014-errata
+    docid:
+    - id: W3C REC-rdfa-syntax-20081014-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rdfa-syntax-20081014-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-rdfa-syntax-20081014
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Semantic Web Deployment Working Group

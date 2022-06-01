@@ -54,7 +54,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C wake-lock-use-cases
+    id: W3Cwake-lock-use-cases
+    docid:
+    - id: W3C wake-lock-use-cases
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wake-lock-use-cases
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -63,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wake-lock-use-cases-20140814
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web and Mobile Interest Group

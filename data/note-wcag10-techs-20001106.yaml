@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-WCAG10-TECHS-20000920
+    id: W3CNOTE-WCAG10-TECHS-20000920
+    docid:
+    - id: W3C NOTE-WCAG10-TECHS-20000920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-WCAG10-TECHS-20000920
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-WCAG10-TECHS-20001106
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessibility Guidelines Working Group

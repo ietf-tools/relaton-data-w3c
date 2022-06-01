@@ -1,19 +1,30 @@
 ---
+id: W3Cwcag2ict
+title:
+- content: Guidance on Applying WCAG 2.0 to Non-Web Information and Communications
+    Technologies (WCAG2ICT)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/wcag2ict/
   type: src
 type: standard
+docid:
+- id: W3C wcag2ict
+  type: W3C
+  primary: true
 docnumber: wcag2ict
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C wcag2ict
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-wcag2ict-20130905
+    docid:
+    - id: W3C NOTE-wcag2ict-20130905
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-wcag2ict-20130905
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: wcag2ict
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

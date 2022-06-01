@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-mobileOK-20090625
+    id: W3CNOTE-mobileOK-20090625
+    docid:
+    - id: W3C NOTE-mobileOK-20090625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-mobileOK-20090625
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mobileOK-20090825
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Mobile Web Best Practices Working Group

@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xproc-20100309
+    id: W3CPR-xproc-20100309
+    docid:
+    - id: W3C PR-xproc-20100309
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xproc-20100309
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xproc-errata.html
+    id: W3Cxproc-errata.html
+    docid:
+    - id: W3C xproc-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xproc-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xproc-20100511
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XML Processing Model Working Group

@@ -1,24 +1,39 @@
 ---
+id: W3Cwebcgm20
+title:
+- content: WebCGM 2.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/webcgm20/
   type: src
 type: standard
+docid:
+- id: W3C webcgm20
+  type: W3C
+  primary: true
 docnumber: webcgm20
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C webcgm20
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-webcgm20-20070130
+    docid:
+    - id: W3C REC-webcgm20-20070130
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-webcgm20-20070130
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-webcgm20-20191205
+    docid:
+    - id: W3C SPSD-webcgm20-20191205
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-webcgm20-20191205
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: webcgm20
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

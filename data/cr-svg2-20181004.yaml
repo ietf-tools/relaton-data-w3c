@@ -87,10 +87,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-SVG2-20180807
+    id: W3CCR-SVG2-20180807
+    docid:
+    - id: W3C CR-SVG2-20180807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-SVG2-20180807
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C svg2-draft
+    id: W3Csvg2-draft
+    docid:
+    - id: W3C svg2-draft
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C svg2-draft
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -99,7 +113,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-SVG2-20181004
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SVG Working Group

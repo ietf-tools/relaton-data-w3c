@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-xbl-20070316
+    id: W3CCR-xbl-20070316
+    docid:
+    - id: W3C CR-xbl-20070316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xbl-20070316
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xbl-20120524
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

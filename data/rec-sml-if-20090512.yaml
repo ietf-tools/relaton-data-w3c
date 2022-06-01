@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-sml-if-20090212
+    id: W3CPR-sml-if-20090212
+    docid:
+    - id: W3C PR-sml-if-20090212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-sml-if-20090212
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C sml-errata
+    id: W3Csml-errata
+    docid:
+    - id: W3C sml-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C sml-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-sml-if-20090512
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Service Modeling Language

@@ -1,19 +1,30 @@
 ---
+id: W3Ci18n-html-tech-char
+title:
+- content: 'Authoring Techniques for XHTML & HTML Internationalization: Characters
+    and Encodings 1.0'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/i18n-html-tech-char/
   type: src
 type: standard
+docid:
+- id: W3C i18n-html-tech-char
+  type: W3C
+  primary: true
 docnumber: i18n-html-tech-char
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C i18n-html-tech-char
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-i18n-html-tech-char-20150127
+    docid:
+    - id: W3C NOTE-i18n-html-tech-char-20150127
+      type: W3C
+      primary: true
     formattedref:
       content: W3C NOTE-i18n-html-tech-char-20150127
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: i18n-html-tech-char
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

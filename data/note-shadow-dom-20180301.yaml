@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-shadow-dom-20170905
+    id: W3CWD-shadow-dom-20170905
+    docid:
+    - id: W3C WD-shadow-dom-20170905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shadow-dom-20170905
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C shadow
+    id: W3Cshadow
+    docid:
+    - id: W3C shadow
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C shadow
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-shadow-dom-20180301
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

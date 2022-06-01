@@ -1,24 +1,39 @@
 ---
+id: W3Cgeolocation-API
+title:
+- content: Geolocation API Specification 2nd Edition
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/geolocation-API/
   type: src
 type: standard
+docid:
+- id: W3C geolocation-API
+  type: W3C
+  primary: true
 docnumber: geolocation-API
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C geolocation-API
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-geolocation-API-20131024
+    docid:
+    - id: W3C REC-geolocation-API-20131024
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-geolocation-API-20131024
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-geolocation-API-20161108
+    docid:
+    - id: W3C REC-geolocation-API-20161108
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-geolocation-API-20161108
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: geolocation-API
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

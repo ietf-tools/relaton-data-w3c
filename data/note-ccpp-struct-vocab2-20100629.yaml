@@ -35,13 +35,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-CCPP-struct-vocab2-20070430
+    id: W3CWD-CCPP-struct-vocab2-20070430
+    docid:
+    - id: W3C WD-CCPP-struct-vocab2-20070430
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CCPP-struct-vocab2-20070430
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-CCPP-struct-vocab2-20100629
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Ubiquitous Web Applications Working Group

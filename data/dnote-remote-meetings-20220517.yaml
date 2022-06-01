@@ -84,10 +84,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-remote-meetings-20211014
+    id: W3CWD-remote-meetings-20211014
+    docid:
+    - id: W3C WD-remote-meetings-20211014
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-remote-meetings-20211014
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C remote-meetings
+    id: W3Cremote-meetings
+    docid:
+    - id: W3C remote-meetings
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C remote-meetings
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -96,7 +110,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-remote-meetings-20220517
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

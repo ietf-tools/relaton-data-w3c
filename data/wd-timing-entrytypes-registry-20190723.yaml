@@ -37,7 +37,14 @@ docstatus:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C timing-entrytypes-registry
+    id: W3Ctiming-entrytypes-registry
+    docid:
+    - id: W3C timing-entrytypes-registry
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C timing-entrytypes-registry
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +53,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-timing-entrytypes-registry-20190723
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

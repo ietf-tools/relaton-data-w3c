@@ -1,24 +1,39 @@
 ---
+id: W3Cxml
+title:
+- content: Extensible Markup Language (XML) 1.0 (Fifth Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xml/
   type: src
 type: standard
+docid:
+- id: W3C xml
+  type: W3C
+  primary: true
 docnumber: xml
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xml
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-20060816
+    docid:
+    - id: W3C REC-xml-20060816
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-20060816
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-20081126
+    docid:
+    - id: W3C REC-xml-20081126
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-20081126
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xml
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

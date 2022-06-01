@@ -1,24 +1,39 @@
 ---
+id: W3Cvibration
+title:
+- content: Vibration API (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/vibration/
   type: src
 type: standard
+docid:
+- id: W3C vibration
+  type: W3C
+  primary: true
 docnumber: vibration
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C vibration
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-vibration-20150210
+    docid:
+    - id: W3C REC-vibration-20150210
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-vibration-20150210
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-vibration-20161018
+    docid:
+    - id: W3C REC-vibration-20161018
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-vibration-20161018
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: vibration
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

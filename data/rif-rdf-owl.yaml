@@ -1,24 +1,39 @@
 ---
+id: W3Crif-rdf-owl
+title:
+- content: RIF RDF and OWL Compatibility (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/rif-rdf-owl/
   type: src
 type: standard
+docid:
+- id: W3C rif-rdf-owl
+  type: W3C
+  primary: true
 docnumber: rif-rdf-owl
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C rif-rdf-owl
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-rif-rdf-owl-20100622
+    docid:
+    - id: W3C REC-rif-rdf-owl-20100622
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rif-rdf-owl-20100622
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-rif-rdf-owl-20130205
+    docid:
+    - id: W3C REC-rif-rdf-owl-20130205
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-rif-rdf-owl-20130205
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: rif-rdf-owl
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

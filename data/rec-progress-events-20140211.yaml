@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-progress-events-20131212
+    id: W3CPR-progress-events-20131212
+    docid:
+    - id: W3C PR-progress-events-20131212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-progress-events-20131212
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C xhr.spec.whatwg.org
+    id: W3Cxhr.spec.whatwg.org
+    docid:
+    - id: W3C xhr.spec.whatwg.org
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xhr.spec.whatwg.org
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-progress-events-20140211
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

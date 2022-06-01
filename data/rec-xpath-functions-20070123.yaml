@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xpath-functions-20061121
+    id: W3CPR-xpath-functions-20061121
+    docid:
+    - id: W3C PR-xpath-functions-20061121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xpath-functions-20061121
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C xpath-functions-errata.html
+    id: W3Cxpath-functions-errata.html
+    docid:
+    - id: W3C xpath-functions-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xpath-functions-errata.html
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xpath-functions-20070123
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Extensible Stylesheet Language Family

@@ -67,13 +67,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-media-annot-reqs-20090604
+    id: W3CWD-media-annot-reqs-20090604
+    docid:
+    - id: W3C WD-media-annot-reqs-20090604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-annot-reqs-20090604
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-media-annot-reqs-20100121
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Media Annotations Working Group

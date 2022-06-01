@@ -34,7 +34,14 @@ script:
 relation:
 - type: hasDraft
   bibitem:
-    formattedref: W3C ldp-acr.html
+    id: W3Cldp-acr.html
+    docid:
+    - id: W3C ldp-acr.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ldp-acr.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -43,7 +50,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ldp-acr-20140916
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Linked Data Platform Working Group

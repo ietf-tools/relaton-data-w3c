@@ -97,13 +97,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-DOM-Level-3-Core-20040407
+    id: W3CREC-DOM-Level-3-Core-20040407
+    docid:
+    - id: W3C REC-DOM-Level-3-Core-20040407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-DOM-Level-3-Core-20040407
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-DOM-Level-3-Core-20210928
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Hypertext Application Technology Working Group

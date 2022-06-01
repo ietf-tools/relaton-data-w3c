@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-filter-effects-1-20181124
+    id: W3CWD-filter-effects-1-20181124
+    docid:
+    - id: W3C WD-filter-effects-1-20181124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-filter-effects-1-20181124
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C filter-effects-1
+    id: W3Cfilter-effects-1
+    docid:
+    - id: W3C filter-effects-1
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C filter-effects-1
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-filter-effects-1-20181218
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

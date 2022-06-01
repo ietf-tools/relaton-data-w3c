@@ -37,16 +37,37 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-webmessaging-20150407
+    id: W3CPR-webmessaging-20150407
+    docid:
+    - id: W3C PR-webmessaging-20150407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webmessaging-20150407
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C WebMessaging
+    id: W3CWebMessaging
+    docid:
+    - id: W3C WebMessaging
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WebMessaging
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C web-messaging.html
+    id: W3Cweb-messaging.html
+    docid:
+    - id: W3C web-messaging.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-messaging.html
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -55,7 +76,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-webmessaging-20150519
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

@@ -1,19 +1,29 @@
 ---
+id: W3Chtml-media-capture
+title:
+- content: HTML Media Capture
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/html-media-capture/
   type: src
 type: standard
+docid:
+- id: W3C html-media-capture
+  type: W3C
+  primary: true
 docnumber: html-media-capture
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C html-media-capture
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-html-media-capture-20180201
+    docid:
+    - id: W3C REC-html-media-capture-20180201
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-html-media-capture-20180201
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: html-media-capture
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

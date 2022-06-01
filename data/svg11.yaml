@@ -1,24 +1,39 @@
 ---
+id: W3CSVG11
+title:
+- content: Scalable Vector Graphics (SVG) 1.1 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/SVG11/
   type: src
 type: standard
+docid:
+- id: W3C SVG11
+  type: W3C
+  primary: true
 docnumber: SVG11
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C SVG11
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-SVG11-20030114
+    docid:
+    - id: W3C REC-SVG11-20030114
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-SVG11-20030114
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-SVG11-20110816
+    docid:
+    - id: W3C REC-SVG11-20110816
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-SVG11-20110816
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: SVG11
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

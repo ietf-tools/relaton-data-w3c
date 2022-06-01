@@ -37,19 +37,47 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-PNG-20030520
+    id: W3CPR-PNG-20030520
+    docid:
+    - id: W3C PR-PNG-20030520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-PNG-20030520
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-PNG-20031110-errata
+    id: W3CREC-PNG-20031110-errata
+    docid:
+    - id: W3C REC-PNG-20031110-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-PNG-20031110-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
 - type: editionOf
   bibitem:
-    formattedref: W3C REC-png-961001
+    id: W3CREC-png-961001
+    docid:
+    - id: W3C REC-png-961001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-png-961001
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C PNG-spec
+    id: W3CPNG-spec
+    docid:
+    - id: W3C PNG-spec
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PNG-spec
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -58,5 +86,5 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-PNG-20031110
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

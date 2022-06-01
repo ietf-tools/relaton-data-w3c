@@ -37,13 +37,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-rex-20060202
+    id: W3CWD-rex-20060202
+    docid:
+    - id: W3C WD-rex-20060202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rex-20060202
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-rex-20061013
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web API Working Group

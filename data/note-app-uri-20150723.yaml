@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-app-uri-20140529
+    id: W3CWD-app-uri-20140529
+    docid:
+    - id: W3C WD-app-uri-20140529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-app-uri-20140529
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C app-uri.sysapps.org
+    id: W3Capp-uri.sysapps.org
+    docid:
+    - id: W3C app-uri.sysapps.org
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C app-uri.sysapps.org
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-app-uri-20150723
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: System Applications Working Group

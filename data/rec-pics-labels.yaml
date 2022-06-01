@@ -1,24 +1,39 @@
 ---
+id: W3CREC-PICS-labels
+title:
+- content: PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/REC-PICS-labels/
   type: src
 type: standard
+docid:
+- id: W3C REC-PICS-labels
+  type: W3C
+  primary: true
 docnumber: REC-PICS-labels
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C REC-PICS-labels
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-PICS-labels-961031
+    docid:
+    - id: W3C REC-PICS-labels-961031
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-PICS-labels-961031
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-PICS-labels-20091124
+    docid:
+    - id: W3C REC-PICS-labels-20091124
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-PICS-labels-20091124
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: REC-PICS-labels
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

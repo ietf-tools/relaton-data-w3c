@@ -1,24 +1,39 @@
 ---
+id: W3Cxquery-semantics
+title:
+- content: XQuery 1.0 and XPath 2.0 Formal Semantics (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xquery-semantics/
   type: src
 type: standard
+docid:
+- id: W3C xquery-semantics
+  type: W3C
+  primary: true
 docnumber: xquery-semantics
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xquery-semantics
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xquery-semantics-20070123
+    docid:
+    - id: W3C REC-xquery-semantics-20070123
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xquery-semantics-20070123
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xquery-semantics-20101214
+    docid:
+    - id: W3C REC-xquery-semantics-20101214
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xquery-semantics-20101214
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xquery-semantics
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

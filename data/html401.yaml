@@ -1,24 +1,39 @@
 ---
+id: W3Chtml401
+title:
+- content: HTML 4.01 Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/html401/
   type: src
 type: standard
+docid:
+- id: W3C html401
+  type: W3C
+  primary: true
 docnumber: html401
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C html401
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-html401-19991224
+    docid:
+    - id: W3C REC-html401-19991224
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-html401-19991224
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CSPSD-html401-20180327
+    docid:
+    - id: W3C SPSD-html401-20180327
+      type: W3C
+      primary: true
     formattedref:
       content: W3C SPSD-html401-20180327
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: html401
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

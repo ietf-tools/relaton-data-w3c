@@ -1,19 +1,29 @@
 ---
+id: W3CCSS21
+title:
+- content: Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/CSS21/
   type: src
 type: standard
+docid:
+- id: W3C CSS21
+  type: W3C
+  primary: true
 docnumber: CSS21
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C CSS21
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-CSS2-20110607
+    docid:
+    - id: W3C REC-CSS2-20110607
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-CSS2-20110607
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: CSS21
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

@@ -47,13 +47,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-DOM-Level-2-Style-20001113
+    id: W3CREC-DOM-Level-2-Style-20001113
+    docid:
+    - id: W3C REC-DOM-Level-2-Style-20001113
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-DOM-Level-2-Style-20001113
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-DOM-Level-2-Style-20201103
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Hypertext Application Technology Working Group

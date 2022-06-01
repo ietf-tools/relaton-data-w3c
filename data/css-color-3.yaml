@@ -1,29 +1,49 @@
 ---
+id: W3Ccss-color-3
+title:
+- content: CSS Color Module Level 3
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/css-color-3/
   type: src
 type: standard
+docid:
+- id: W3C css-color-3
+  type: W3C
+  primary: true
 docnumber: css-color-3
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C css-color-3
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-css-color-3-20180619
+    docid:
+    - id: W3C REC-css-color-3-20180619
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-css-color-3-20180619
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-css-color-3-20210805
+    docid:
+    - id: W3C REC-css-color-3-20210805
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-css-color-3-20210805
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-css-color-3-20220118
+    docid:
+    - id: W3C REC-css-color-3-20220118
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-css-color-3-20220118
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: css-color-3
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

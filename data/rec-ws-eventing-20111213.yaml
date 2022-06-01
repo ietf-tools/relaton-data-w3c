@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-ws-eventing-20110927
+    id: W3CPR-ws-eventing-20110927
+    docid:
+    - id: W3C PR-ws-eventing-20110927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-ws-eventing-20110927
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C ws-eventing-20111213-errata
+    id: W3Cws-eventing-20111213-errata
+    docid:
+    - id: W3C ws-eventing-20111213-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ws-eventing-20111213-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-ws-eventing-20111213
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Web Services Resource Access Working Group

@@ -34,13 +34,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-webdatabase-20091222
+    id: W3CWD-webdatabase-20091222
+    docid:
+    - id: W3C WD-webdatabase-20091222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdatabase-20091222
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-webdatabase-20101118
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

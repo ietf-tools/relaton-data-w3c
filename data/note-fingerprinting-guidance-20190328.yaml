@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-fingerprinting-guidance-20151124
+    id: W3CNOTE-fingerprinting-guidance-20151124
+    docid:
+    - id: W3C NOTE-fingerprinting-guidance-20151124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-fingerprinting-guidance-20151124
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C fingerprinting-guidance
+    id: W3Cfingerprinting-guidance
+    docid:
+    - id: W3C fingerprinting-guidance
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C fingerprinting-guidance
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-fingerprinting-guidance-20190328
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Privacy Interest Group

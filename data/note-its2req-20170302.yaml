@@ -54,10 +54,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-its2req-20120524
+    id: W3CWD-its2req-20120524
+    docid:
+    - id: W3C WD-its2req-20120524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-its2req-20120524
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C its2req
+    id: W3Cits2req
+    docid:
+    - id: W3C its2req
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C its2req
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -66,7 +80,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-its2req-20170302
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

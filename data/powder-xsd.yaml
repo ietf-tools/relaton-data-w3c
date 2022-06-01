@@ -1,19 +1,30 @@
 ---
+id: W3Cpowder-xsd
+title:
+- content: 'Protocol for Web Description Resources (POWDER): Web Description Resources
+    Datatypes (WDRD)'
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/powder-xsd/
   type: src
 type: standard
+docid:
+- id: W3C powder-xsd
+  type: W3C
+  primary: true
 docnumber: powder-xsd
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C powder-xsd
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-powder-xsd-20070925
+    docid:
+    - id: W3C WD-powder-xsd-20070925
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-powder-xsd-20070925
       format: text/plain
@@ -22,5 +33,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: powder-xsd
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

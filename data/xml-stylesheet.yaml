@@ -1,24 +1,39 @@
 ---
+id: W3Cxml-stylesheet
+title:
+- content: Associating Style Sheets with XML documents 1.0 (Second Edition)
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/xml-stylesheet/
   type: src
 type: standard
+docid:
+- id: W3C xml-stylesheet
+  type: W3C
+  primary: true
 docnumber: xml-stylesheet
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C xml-stylesheet
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-stylesheet-19990629
+    docid:
+    - id: W3C REC-xml-stylesheet-19990629
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-stylesheet-19990629
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-xml-stylesheet-20101028
+    docid:
+    - id: W3C REC-xml-stylesheet-20101028
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-xml-stylesheet-20101028
       format: text/plain
@@ -27,5 +42,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: xml-stylesheet
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

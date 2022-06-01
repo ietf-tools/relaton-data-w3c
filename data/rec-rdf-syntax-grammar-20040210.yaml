@@ -37,10 +37,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-rdf-syntax-grammar-20031215
+    id: W3CPR-rdf-syntax-grammar-20031215
+    docid:
+    - id: W3C PR-rdf-syntax-grammar-20031215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdf-syntax-grammar-20031215
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C errata#rdf-syntax-grammar
+    id: W3Cerrata#rdf-syntax-grammar
+    docid:
+    - id: W3C errata#rdf-syntax-grammar
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata#rdf-syntax-grammar
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -49,7 +63,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-rdf-syntax-grammar-20040210
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: RDFCore Working Group

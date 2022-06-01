@@ -44,13 +44,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-swbp-xsch-datatypes-20050427
+    id: W3CWD-swbp-xsch-datatypes-20050427
+    docid:
+    - id: W3C WD-swbp-xsch-datatypes-20050427
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-swbp-xsch-datatypes-20050427
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-swbp-xsch-datatypes-20060314
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Best Practices and Deployment Working Group

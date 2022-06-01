@@ -44,10 +44,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-animation-timing-20131031
+    id: W3CCR-animation-timing-20131031
+    docid:
+    - id: W3C CR-animation-timing-20131031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-animation-timing-20131031
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C animation-timing
+    id: W3Canimation-timing
+    docid:
+    - id: W3C animation-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C animation-timing
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -56,7 +70,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-animation-timing-20150922
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Web Performance Working Group

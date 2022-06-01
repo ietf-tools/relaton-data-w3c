@@ -54,13 +54,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-timesheets-20080110
+    id: W3CWD-timesheets-20080110
+    docid:
+    - id: W3C WD-timesheets-20080110
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-timesheets-20080110
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-timesheets-20120328
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Synchronized Multimedia Working Group

@@ -1,19 +1,29 @@
 ---
+id: W3CWD-print
+title:
+- content: CSS Printing Extensions
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/WD-print
   type: src
 type: standard
+docid:
+- id: W3C WD-print
+  type: W3C
+  primary: true
 docnumber: WD-print
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C WD-print
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-print-19990902
+    docid:
+    - id: W3C WD-print-19990902
+      type: W3C
+      primary: true
     formattedref:
       content: W3C WD-print-19990902
       format: text/plain
@@ -22,5 +32,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: WD-print
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

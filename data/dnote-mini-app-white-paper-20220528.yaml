@@ -124,10 +124,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C DNOTE-mini-app-white-paper-20220519
+    id: W3CDNOTE-mini-app-white-paper-20220519
+    docid:
+    - id: W3C DNOTE-mini-app-white-paper-20220519
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-mini-app-white-paper-20220519
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C white-paper
+    id: W3Cwhite-paper
+    docid:
+    - id: W3C white-paper
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C white-paper
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -136,7 +150,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-mini-app-white-paper-20220528
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group

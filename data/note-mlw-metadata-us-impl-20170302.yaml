@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-mlw-metadata-us-impl-20130307
+    id: W3CWD-mlw-metadata-us-impl-20130307
+    docid:
+    - id: W3C WD-mlw-metadata-us-impl-20130307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mlw-metadata-us-impl-20130307
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C mlw-metadata-us-impl
+    id: W3Cmlw-metadata-us-impl
+    docid:
+    - id: W3C mlw-metadata-us-impl
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mlw-metadata-us-impl
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mlw-metadata-us-impl-20170302
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

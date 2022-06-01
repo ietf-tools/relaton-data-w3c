@@ -1,29 +1,49 @@
 ---
+id: W3CWOFF2
+title:
+- content: WOFF File Format 2.0
+  format: text/plain
 link:
 - content: https://www.w3.org/TR/WOFF2/
   type: src
 type: standard
+docid:
+- id: W3C WOFF2
+  type: W3C
+  primary: true
 docnumber: WOFF2
 language:
 - en
 script:
 - Latn
-formattedref:
-  content: W3C WOFF2
-  format: text/plain
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CREC-WOFF2-20180301
+    docid:
+    - id: W3C REC-WOFF2-20180301
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-WOFF2-20180301
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-WOFF2-20210706
+    docid:
+    - id: W3C REC-WOFF2-20210706
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-WOFF2-20210706
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-WOFF2-20220310
+    docid:
+    - id: W3C REC-WOFF2-20220310
+      type: W3C
+      primary: true
     formattedref:
       content: W3C REC-WOFF2-20220310
       format: text/plain
@@ -32,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: WOFF2
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

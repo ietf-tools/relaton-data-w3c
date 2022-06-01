@@ -57,10 +57,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-core-aam-1.2-20220524
+    id: W3CWD-core-aam-1.2-20220524
+    docid:
+    - id: W3C WD-core-aam-1.2-20220524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-core-aam-1.2-20220524
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C core-aam
+    id: W3Ccore-aam
+    docid:
+    - id: W3C core-aam
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C core-aam
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -69,7 +83,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-core-aam-1.2-20220526
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

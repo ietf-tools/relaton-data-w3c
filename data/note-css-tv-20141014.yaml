@@ -64,13 +64,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C CR-css-tv-20030514
+    id: W3CCR-css-tv-20030514
+    docid:
+    - id: W3C CR-css-tv-20030514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-tv-20030514
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-css-tv-20141014
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Cascading Style Sheets Working Group

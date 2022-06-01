@@ -47,11 +47,18 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C REC-WebCGM-20011217
+    id: W3CREC-WebCGM-20011217
+    docid:
+    - id: W3C REC-WebCGM-20011217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-WebCGM-20011217
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-WebCGM-20191205
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation

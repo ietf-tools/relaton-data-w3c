@@ -67,10 +67,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C WD-css-transitions-1-20171130
+    id: W3CWD-css-transitions-1-20171130
+    docid:
+    - id: W3C WD-css-transitions-1-20171130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-transitions-1-20171130
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C css-transitions
+    id: W3Ccss-transitions
+    docid:
+    - id: W3C css-transitions
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-transitions
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -79,7 +93,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-css-transitions-1-20181011
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Cascading Style Sheets Working Group

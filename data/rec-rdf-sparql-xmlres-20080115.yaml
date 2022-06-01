@@ -47,10 +47,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-rdf-sparql-XMLres-20071112
+    id: W3CPR-rdf-sparql-XMLres-20071112
+    docid:
+    - id: W3C PR-rdf-sparql-XMLres-20071112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdf-sparql-XMLres-20071112
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C XML-errata
+    id: W3CXML-errata
+    docid:
+    - id: W3C XML-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C XML-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -59,7 +73,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-rdf-sparql-XMLres-20080115
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: SPARQL Working Group

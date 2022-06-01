@@ -77,10 +77,24 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-xhtml-modularization-20080611
+    id: W3CPR-xhtml-modularization-20080611
+    docid:
+    - id: W3C PR-xhtml-modularization-20080611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xhtml-modularization-20080611
+      format: text/plain
 - type: updatedBy
   bibitem:
-    formattedref: W3C REC-xhtml-modularization-20081008-errata
+    id: W3CREC-xhtml-modularization-20081008-errata
+    docid:
+    - id: W3C REC-xhtml-modularization-20081008-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-modularization-20081008-errata
+      format: text/plain
   description:
     content: errata
     format: text/plain
@@ -89,7 +103,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xhtml-modularization-20081008
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: XHTML2 Working Group

@@ -34,10 +34,24 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C NOTE-png-hdr-pq-20170727
+    id: W3CNOTE-png-hdr-pq-20170727
+    docid:
+    - id: W3C NOTE-png-hdr-pq-20170727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-png-hdr-pq-20170727
+      format: text/plain
 - type: hasDraft
   bibitem:
-    formattedref: W3C png-hdr-pq
+    id: W3Cpng-hdr-pq
+    docid:
+    - id: W3C png-hdr-pq
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C png-hdr-pq
+      format: text/plain
   description:
     content: Editor's draft
     format: text/plain
@@ -46,7 +60,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-png-hdr-pq-20170911
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: groupNote
 editorialgroup:
 - name: Timed Text Working Group

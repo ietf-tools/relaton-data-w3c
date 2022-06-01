@@ -77,13 +77,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    formattedref: W3C PR-mediaont-api-1.0-20131015
+    id: W3CPR-mediaont-api-1.0-20131015
+    docid:
+    - id: W3C PR-mediaont-api-1.0-20131015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-mediaont-api-1.0-20131015
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-mediaont-api-1.0-20140313
-fetched: '2022-05-31'
+fetched: '2022-06-01'
 doctype: recommendation
 editorialgroup:
 - name: Media Annotations Working Group

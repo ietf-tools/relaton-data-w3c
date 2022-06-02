@@ -1,25 +1,25 @@
 ---
-id: W3CWD-html-aam-1.0-20220531
+id: W3CWD-push-api-20220602
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: Push API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/
+- content: https://www.w3.org/TR/2022/WD-push-api-20220602/
   type: src
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20220531
+- id: W3C WD-push-api-20220602
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20220531
+docnumber: WD-push-api-20220602
 date:
 - type: published
-  value: '2022-05-31'
+  value: '2022-06-02'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Martin Thomson
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Peter Beverloo
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-31'
+revdate: '2022-06-02'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aam-1.0-20220526
+    id: W3CWD-push-api-20220323
     docid:
-    - id: W3C WD-html-aam-1.0-20220526
+    - id: W3C WD-push-api-20220323
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20220526
+      content: W3C WD-push-api-20220323
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Chtml-aam
+    id: W3Cpush-api
     docid:
-    - id: W3C html-aam
+    - id: W3C push-api
       type: W3C
       primary: true
     formattedref:
-      content: W3C html-aam
+      content: W3C push-api
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20220531
-fetched: '2022-06-01'
+  number: WD-push-api-20220602
+fetched: '2022-06-02'
 doctype: recommendation
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Web Applications Working Group

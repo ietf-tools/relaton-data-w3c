@@ -1,32 +1,42 @@
 ---
-id: W3CWD-mediacapture-region-20220531
+id: W3CWD-uievents-20220601
 title:
-- content: Region Capture
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-mediacapture-region-20220531/
+- content: https://www.w3.org/TR/2022/WD-uievents-20220601/
   type: src
 type: standard
 docid:
-- id: W3C WD-mediacapture-region-20220531
+- id: W3C WD-uievents-20220601
   type: W3C
   primary: true
-docnumber: WD-mediacapture-region-20220531
+docnumber: WD-uievents-20220601
 date:
 - type: published
-  value: '2022-05-31'
+  value: '2022-06-01'
 contributor:
 - person:
     name:
       completename:
-        content: Elad Alon
+        content: Gary Kacmarcik
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-31'
+- person:
+    name:
+      completename:
+        content: Travis Leithead
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-01'
 language:
 - en
 script:
@@ -37,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mediacapture-region-20220520
+    id: W3CWD-uievents-20211020
     docid:
-    - id: W3C WD-mediacapture-region-20220520
+    - id: W3C WD-uievents-20211020
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediacapture-region-20220520
+      content: W3C WD-uievents-20211020
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cmediacapture-region
+    id: W3Cuievents
     docid:
-    - id: W3C mediacapture-region
+    - id: W3C uievents
       type: W3C
       primary: true
     formattedref:
-      content: W3C mediacapture-region
+      content: W3C uievents
       format: text/plain
   description:
     content: Editor's draft
@@ -62,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-mediacapture-region-20220531
-fetched: '2022-06-01'
+  number: WD-uievents-20220601
+fetched: '2022-06-02'
 doctype: recommendation
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Web Applications Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-pointerevents3-20220525
+id: W3CWD-html-aam-1.0-20220602
 title:
-- content: Pointer Events
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220525/
+- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20220602/
   type: src
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20220525
+- id: W3C WD-html-aam-1.0-20220602
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20220525
+docnumber: WD-html-aam-1.0-20220602
 date:
 - type: published
-  value: '2022-05-25'
+  value: '2022-06-02'
 contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-25'
+revdate: '2022-06-02'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20220321
+    id: W3CWD-html-aam-1.0-20220531
     docid:
-    - id: W3C WD-pointerevents3-20220321
+    - id: W3C WD-html-aam-1.0-20220531
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20220321
+      content: W3C WD-html-aam-1.0-20220531
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpointerevents
+    id: W3Chtml-aam
     docid:
-    - id: W3C pointerevents
+    - id: W3C html-aam
       type: W3C
       primary: true
     formattedref:
-      content: W3C pointerevents
+      content: W3C html-aam
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20220525
-fetched: '2022-06-01'
+  number: WD-html-aam-1.0-20220602
+fetched: '2022-06-02'
 doctype: recommendation
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Accessible Rich Internet Applications Working Group

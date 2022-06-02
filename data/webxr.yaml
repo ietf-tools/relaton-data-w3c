@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCRD-webxr-20220526
+    id: W3CCRD-webxr-20220601
     docid:
-    - id: W3C CRD-webxr-20220526
+    - id: W3C CRD-webxr-20220601
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20220526
+      content: W3C CRD-webxr-20220601
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webxr
-fetched: '2022-06-01'
+fetched: '2022-06-02'
 doctype: recommendation

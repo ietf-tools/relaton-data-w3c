@@ -1,25 +1,25 @@
 ---
-id: W3CWD-uievents-20211020
+id: W3CCRD-webxr-20220601
 title:
-- content: UI Events
+- content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-uievents-20211020/
+- content: https://www.w3.org/TR/2022/CRD-webxr-20220601/
   type: src
 type: standard
 docid:
-- id: W3C WD-uievents-20211020
+- id: W3C CRD-webxr-20220601
   type: W3C
   primary: true
-docnumber: WD-uievents-20211020
+docnumber: CRD-webxr-20220601
 date:
 - type: published
-  value: '2021-10-20'
+  value: '2022-06-01'
 contributor:
 - person:
     name:
       completename:
-        content: Gary Kacmarcik
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,51 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Travis Leithead
+        content: Manish Goregaokar
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-10-20'
+- person:
+    name:
+      completename:
+        content: Rik Cabanier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-01'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20211019
+    id: W3CCRD-webxr-20220526
     docid:
-    - id: W3C WD-uievents-20211019
+    - id: W3C CRD-webxr-20220526
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20211019
+      content: W3C CRD-webxr-20220526
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cuievents
+    id: W3Cimmersive-web.github.io/webxr
     docid:
-    - id: W3C uievents
+    - id: W3C immersive-web.github.io/webxr
       type: W3C
       primary: true
     formattedref:
-      content: W3C uievents
+      content: W3C immersive-web.github.io/webxr
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-uievents-20211020
-fetched: '2022-06-01'
+  number: CRD-webxr-20220601
+fetched: '2022-06-02'
 doctype: recommendation
 editorialgroup:
-- name: Web Applications Working Group
+- name: Immersive Web Working Group

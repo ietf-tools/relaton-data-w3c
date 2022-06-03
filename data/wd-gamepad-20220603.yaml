@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-presentation-api-20220422
+id: W3CWD-gamepad-20220603
 title:
-- content: Presentation API
+- content: Gamepad
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-presentation-api-20220422/
+- content: https://www.w3.org/TR/2022/WD-gamepad-20220603/
   type: src
 type: standard
 docid:
-- id: W3C CRD-presentation-api-20220422
+- id: W3C WD-gamepad-20220603
   type: W3C
   primary: true
-docnumber: CRD-presentation-api-20220422
+docnumber: WD-gamepad-20220603
 date:
 - type: published
-  value: '2022-04-22'
+  value: '2022-06-03'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Röttsches
+        content: James Hollyer
         language:
         - en
         script:
@@ -29,51 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Matthew Reynolds
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-04-22'
+- person:
+    name:
+      completename:
+        content: Steve Agoston
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-presentation-api-20201105
+    id: W3CWD-gamepad-20220512
     docid:
-    - id: W3C CRD-presentation-api-20201105
+    - id: W3C WD-gamepad-20220512
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20201105
+      content: W3C WD-gamepad-20220512
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpresentation-api
+    id: W3Cgamepad
     docid:
-    - id: W3C presentation-api
+    - id: W3C gamepad
       type: W3C
       primary: true
     formattedref:
-      content: W3C presentation-api
+      content: W3C gamepad
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-presentation-api-20220422
-fetched: '2022-06-02'
+  number: WD-gamepad-20220603
+fetched: '2022-06-03'
 doctype: recommendation
 editorialgroup:
-- name: Second Screen Working Group
+- name: Web Applications Working Group

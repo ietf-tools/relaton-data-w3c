@@ -1,17 +1,17 @@
 ---
-id: W3CWD-WGSL-20220602
+id: W3CCRD-presentation-api-20220602
 title:
-- content: WebGPU Shading Language
+- content: Presentation API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220602/
+- content: https://www.w3.org/TR/2022/CRD-presentation-api-20220602/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220602
+- id: W3C CRD-presentation-api-20220602
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220602
+docnumber: CRD-presentation-api-20220602
 date:
 - type: published
   value: '2022-06-02'
@@ -19,7 +19,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Dominik Röttsches
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Mark Foltz
         language:
         - en
         script:
@@ -43,37 +43,37 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220601
+    id: W3CCRD-presentation-api-20220422
     docid:
-    - id: W3C WD-WGSL-20220601
+    - id: W3C CRD-presentation-api-20220422
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220601
+      content: W3C CRD-presentation-api-20220422
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwgsl
+    id: W3Cpresentation-api
     docid:
-    - id: W3C wgsl
+    - id: W3C presentation-api
       type: W3C
       primary: true
     formattedref:
-      content: W3C wgsl
+      content: W3C presentation-api
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20220602
-fetched: '2022-06-02'
+  number: CRD-presentation-api-20220602
+fetched: '2022-06-03'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Second Screen Working Group

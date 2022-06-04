@@ -1,20 +1,20 @@
 ---
-id: W3CWD-webgpu-20220602
+id: W3CWD-webxr-lighting-estimation-1-20220603
 title:
-- content: WebGPU
+- content: WebXR Lighting Estimation API Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220602/
+- content: https://www.w3.org/TR/2022/WD-webxr-lighting-estimation-1-20220603/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220602
+- id: W3C WD-webxr-lighting-estimation-1-20220603
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220602
+docnumber: WD-webxr-lighting-estimation-1-20220603
 date:
 - type: published
-  value: '2022-06-02'
+  value: '2022-06-03'
 contributor:
 - person:
     name:
@@ -26,27 +26,7 @@ contributor:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Dzmitry Malyshau
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-06-02'
+revdate: '2022-06-03'
 language:
 - en
 script:
@@ -57,23 +37,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220601
+    id: W3CWD-webxr-lighting-estimation-1-20210909
     docid:
-    - id: W3C WD-webgpu-20220601
+    - id: W3C WD-webxr-lighting-estimation-1-20210909
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220601
+      content: W3C WD-webxr-lighting-estimation-1-20210909
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cgpuweb
+    id: W3Clighting-estimation
     docid:
-    - id: W3C gpuweb
+    - id: W3C lighting-estimation
       type: W3C
       primary: true
     formattedref:
-      content: W3C gpuweb
+      content: W3C lighting-estimation
       format: text/plain
   description:
     content: Editor's draft
@@ -82,8 +62,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220602
-fetched: '2022-06-03'
+  number: WD-webxr-lighting-estimation-1-20220603
+fetched: '2022-06-04'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Immersive Web Working Group

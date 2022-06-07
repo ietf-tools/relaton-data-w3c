@@ -1,25 +1,25 @@
 ---
-id: W3CWD-mediastream-recording-20210604
+id: W3CCRD-epub-rs-33-20220607
 title:
-- content: MediaStream Recording
+- content: EPUB Reading Systems 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-mediastream-recording-20210604/
+- content: https://www.w3.org/TR/2022/CRD-epub-rs-33-20220607/
   type: src
 type: standard
 docid:
-- id: W3C WD-mediastream-recording-20210604
+- id: W3C CRD-epub-rs-33-20220607
   type: W3C
   primary: true
-docnumber: WD-mediastream-recording-20210604
+docnumber: CRD-epub-rs-33-20220607
 date:
 - type: published
-  value: '2021-06-04'
+  value: '2022-06-07'
 contributor:
 - person:
     name:
       completename:
-        content: James Barnett
+        content: Dave Cramer
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Miguel Casas-sanchez
+        content: Ivan Herman
         language:
         - en
         script:
@@ -39,51 +39,51 @@ contributor:
 - person:
     name:
       completename:
-        content: Travis Leithead
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-06-04'
+revdate: '2022-06-07'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mediastream-recording-20210216
+    id: W3CCRD-epub-rs-33-20220531
     docid:
-    - id: W3C WD-mediastream-recording-20210216
+    - id: W3C CRD-epub-rs-33-20220531
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediastream-recording-20210216
+      content: W3C CRD-epub-rs-33-20220531
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cmediacapture-record
+    id: W3Cepub-specs/epub33
     docid:
-    - id: W3C mediacapture-record
+    - id: W3C epub-specs/epub33
       type: W3C
       primary: true
     formattedref:
-      content: W3C mediacapture-record
+      content: W3C epub-specs/epub33
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-mediastream-recording-20210604
-fetched: '2022-06-06'
+  number: CRD-epub-rs-33-20220607
+fetched: '2022-06-07'
 doctype: recommendation
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: EPUB 3 Working Group

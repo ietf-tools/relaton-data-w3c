@@ -1,25 +1,25 @@
 ---
-id: W3CWD-baggage-20220524
+id: W3CWD-WGSL-20220608
 title:
-- content: 'Propagation format for distributed context: Baggage'
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-baggage-20220524/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220608/
   type: src
 type: standard
 docid:
-- id: W3C WD-baggage-20220524
+- id: W3C WD-WGSL-20220608
   type: W3C
   primary: true
-docnumber: WD-baggage-20220524
+docnumber: WD-WGSL-20220608
 date:
 - type: published
-  value: '2022-05-24'
+  value: '2022-06-08'
 contributor:
 - person:
     name:
       completename:
-        content: Sergey Kanzhelev
+        content: David Neto
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Yuri Shkuro
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-24'
+revdate: '2022-06-08'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-baggage-20220426
+    id: W3CWD-WGSL-20220607
     docid:
-    - id: W3C WD-baggage-20220426
+    - id: W3C WD-WGSL-20220607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-baggage-20220426
+      content: W3C WD-WGSL-20220607
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cbaggage
+    id: W3Cwgsl
     docid:
-    - id: W3C baggage
+    - id: W3C wgsl
       type: W3C
       primary: true
     formattedref:
-      content: W3C baggage
+      content: W3C wgsl
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-baggage-20220524
-fetched: '2022-06-07'
+  number: WD-WGSL-20220608
+fetched: '2022-06-08'
 doctype: recommendation
 editorialgroup:
-- name: Distributed Tracing Working Group
+- name: GPU for the Web Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220607
+id: W3CWD-web-share-20220608
 title:
-- content: WebGPU
+- content: Web Share API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220607/
+- content: https://www.w3.org/TR/2022/WD-web-share-20220608/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220607
+- id: W3C WD-web-share-20220608
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220607
+docnumber: WD-web-share-20220608
 date:
 - type: published
-  value: '2022-06-07'
+  value: '2022-06-08'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Eric Willigers
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Matt Giuca
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-07'
+revdate: '2022-06-08'
 language:
 - en
 script:
@@ -57,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220606
+    id: W3CWD-web-share-20220607
     docid:
-    - id: W3C WD-webgpu-20220606
+    - id: W3C WD-web-share-20220607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220606
+      content: W3C WD-web-share-20220607
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cgpuweb
+    id: W3Cweb-share
     docid:
-    - id: W3C gpuweb
+    - id: W3C web-share
       type: W3C
       primary: true
     formattedref:
-      content: W3C gpuweb
+      content: W3C web-share
       format: text/plain
   description:
     content: Editor's draft
@@ -82,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220607
-fetched: '2022-06-07'
+  number: WD-web-share-20220608
+fetched: '2022-06-08'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group

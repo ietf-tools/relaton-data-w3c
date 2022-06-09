@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCRD-remote-playback-20220422
+    id: W3CCRD-remote-playback-20220608
     docid:
-    - id: W3C CRD-remote-playback-20220422
+    - id: W3C CRD-remote-playback-20220608
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-remote-playback-20220422
+      content: W3C CRD-remote-playback-20220608
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: remote-playback
-fetched: '2022-06-08'
+fetched: '2022-06-09'
 doctype: recommendation

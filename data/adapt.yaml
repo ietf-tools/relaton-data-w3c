@@ -1,0 +1,36 @@
+---
+id: W3Cadapt
+title:
+- content: WAI-Adapt Explainer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/adapt/
+  type: src
+type: standard
+docid:
+- id: W3C adapt
+  type: W3C
+  primary: true
+docnumber: adapt
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-adapt-20220609
+    docid:
+    - id: W3C DNOTE-adapt-20220609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-adapt-20220609
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: adapt
+fetched: '2022-06-09'
+doctype: recommendation

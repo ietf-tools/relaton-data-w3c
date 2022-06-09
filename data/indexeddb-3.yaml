@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-IndexedDB-3-20211006
+    id: W3CWD-IndexedDB-3-20220608
     docid:
-    - id: W3C WD-IndexedDB-3-20211006
+    - id: W3C WD-IndexedDB-3-20220608
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20211006
+      content: W3C WD-IndexedDB-3-20220608
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: IndexedDB-3
-fetched: '2022-06-08'
+fetched: '2022-06-09'
 doctype: recommendation

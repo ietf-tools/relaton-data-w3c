@@ -1,0 +1,36 @@
+---
+id: W3Cadapt-help
+title:
+- content: 'WAI-Adapt: Help and Support Module'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/adapt-help/
+  type: src
+type: standard
+docid:
+- id: W3C adapt-help
+  type: W3C
+  primary: true
+docnumber: adapt-help
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-adapt-help-20220609
+    docid:
+    - id: W3C WD-adapt-help-20220609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-adapt-help-20220609
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: adapt-help
+fetched: '2022-06-09'
+doctype: recommendation

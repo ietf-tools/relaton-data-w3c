@@ -1,20 +1,20 @@
 ---
-id: W3CWD-personalization-semantics-content-1.0-20210812
+id: W3CDNOTE-adapt-20220609
 title:
-- content: Personalization Semantics Content Module 1.0
+- content: WAI-Adapt Explainer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-personalization-semantics-content-1.0-20210812/
+- content: https://www.w3.org/TR/2022/DNOTE-adapt-20220609/
   type: src
 type: standard
 docid:
-- id: W3C WD-personalization-semantics-content-1.0-20210812
+- id: W3C DNOTE-adapt-20220609
   type: W3C
   primary: true
-docnumber: WD-personalization-semantics-content-1.0-20210812
+docnumber: DNOTE-adapt-20220609
 date:
 - type: published
-  value: '2021-08-12'
+  value: '2022-06-09'
 contributor:
 - person:
     name:
@@ -76,44 +76,41 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2021-08-12'
+revdate: '2022-06-09'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-personalization-semantics-content-1.0-20200127
+    id: W3CWD-personalization-semantics-1.0-20210812
     docid:
-    - id: W3C WD-personalization-semantics-content-1.0-20200127
+    - id: W3C WD-personalization-semantics-1.0-20210812
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-personalization-semantics-content-1.0-20200127
+      content: W3C WD-personalization-semantics-1.0-20210812
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpersonalization-semantics/content
+    id: W3Cpersonalization-semantics
     docid:
-    - id: W3C personalization-semantics/content
+    - id: W3C personalization-semantics
       type: W3C
       primary: true
     formattedref:
-      content: W3C personalization-semantics/content
+      content: W3C personalization-semantics
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-personalization-semantics-content-1.0-20210812
-fetched: '2022-06-08'
-doctype: recommendation
+  number: DNOTE-adapt-20220609
+fetched: '2022-06-09'
+doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

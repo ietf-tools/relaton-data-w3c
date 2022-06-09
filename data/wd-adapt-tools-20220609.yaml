@@ -1,25 +1,35 @@
 ---
-id: W3CWD-personalization-semantics-requirements-1.0-20201028
+id: W3CWD-adapt-tools-20220609
 title:
-- content: Requirements for Personalization Semantics
+- content: 'WAI-Adapt: Tools Module'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2020/WD-personalization-semantics-requirements-1.0-20201028/
+- content: https://www.w3.org/TR/2022/WD-adapt-tools-20220609/
   type: src
 type: standard
 docid:
-- id: W3C WD-personalization-semantics-requirements-1.0-20201028
+- id: W3C WD-adapt-tools-20220609
   type: W3C
   primary: true
-docnumber: WD-personalization-semantics-requirements-1.0-20201028
+docnumber: WD-adapt-tools-20220609
 date:
 - type: published
-  value: '2020-10-28'
+  value: '2022-06-09'
 contributor:
 - person:
     name:
       completename:
         content: Charles LaPierre
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Foliot
         language:
         - en
         script:
@@ -49,6 +59,16 @@ contributor:
 - person:
     name:
       completename:
+        content: Richard Schwerdtfeger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
         content: Ruoxi Ran
         language:
         - en
@@ -56,7 +76,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2020-10-28'
+revdate: '2022-06-09'
 language:
 - en
 script:
@@ -67,23 +87,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-personalization-semantics-requirements-1.0-20200130
+    id: W3CWD-personalization-semantics-tools-1.0-20190711
     docid:
-    - id: W3C WD-personalization-semantics-requirements-1.0-20200130
+    - id: W3C WD-personalization-semantics-tools-1.0-20190711
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-personalization-semantics-requirements-1.0-20200130
+      content: W3C WD-personalization-semantics-tools-1.0-20190711
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpersonalization-semantics/requirements
+    id: W3Cpersonalization-semantics/tools
     docid:
-    - id: W3C personalization-semantics/requirements
+    - id: W3C personalization-semantics/tools
       type: W3C
       primary: true
     formattedref:
-      content: W3C personalization-semantics/requirements
+      content: W3C personalization-semantics/tools
       format: text/plain
   description:
     content: Editor's draft
@@ -92,8 +112,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-personalization-semantics-requirements-1.0-20201028
-fetched: '2022-06-08'
+  number: WD-adapt-tools-20220609
+fetched: '2022-06-09'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Platform Architectures

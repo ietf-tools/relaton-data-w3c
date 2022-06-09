@@ -1,20 +1,20 @@
 ---
-id: W3CWD-personalization-semantics-help-1.0-20190711
+id: W3CDNOTE-adapt-requirements-20220609
 title:
-- content: Personalization Help and Support 1.0
+- content: Requirements for WAI-Adapt specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2019/WD-personalization-semantics-help-1.0-20190711/
+- content: https://www.w3.org/TR/2022/DNOTE-adapt-requirements-20220609/
   type: src
 type: standard
 docid:
-- id: W3C WD-personalization-semantics-help-1.0-20190711
+- id: W3C DNOTE-adapt-requirements-20220609
   type: W3C
   primary: true
-docnumber: WD-personalization-semantics-help-1.0-20190711
+docnumber: DNOTE-adapt-requirements-20220609
 date:
 - type: published
-  value: '2019-07-11'
+  value: '2022-06-09'
 contributor:
 - person:
     name:
@@ -49,16 +49,6 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Schwerdtfeger
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
         content: Ruoxi Ran
         language:
         - en
@@ -66,44 +56,41 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2019-07-11'
+revdate: '2022-06-09'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-personalization-semantics-help-1.0-20181018
+    id: W3CWD-personalization-semantics-requirements-1.0-20201028
     docid:
-    - id: W3C WD-personalization-semantics-help-1.0-20181018
+    - id: W3C WD-personalization-semantics-requirements-1.0-20201028
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-personalization-semantics-help-1.0-20181018
+      content: W3C WD-personalization-semantics-requirements-1.0-20201028
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpersonalization-semantics/help
+    id: W3Cpersonalization-semantics/requirements
     docid:
-    - id: W3C personalization-semantics/help
+    - id: W3C personalization-semantics/requirements
       type: W3C
       primary: true
     formattedref:
-      content: W3C personalization-semantics/help
+      content: W3C personalization-semantics/requirements
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-personalization-semantics-help-1.0-20190711
-fetched: '2022-06-08'
-doctype: recommendation
+  number: DNOTE-adapt-requirements-20220609
+fetched: '2022-06-09'
+doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

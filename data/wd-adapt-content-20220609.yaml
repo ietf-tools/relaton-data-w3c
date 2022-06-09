@@ -1,25 +1,35 @@
 ---
-id: W3CWD-personalization-semantics-tools-1.0-20190711
+id: W3CWD-adapt-content-20220609
 title:
-- content: Personalization Tools 1.0
+- content: 'WAI-Adapt: Content Module'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2019/WD-personalization-semantics-tools-1.0-20190711/
+- content: https://www.w3.org/TR/2022/WD-adapt-content-20220609/
   type: src
 type: standard
 docid:
-- id: W3C WD-personalization-semantics-tools-1.0-20190711
+- id: W3C WD-adapt-content-20220609
   type: W3C
   primary: true
-docnumber: WD-personalization-semantics-tools-1.0-20190711
+docnumber: WD-adapt-content-20220609
 date:
 - type: published
-  value: '2019-07-11'
+  value: '2022-06-09'
 contributor:
 - person:
     name:
       completename:
         content: Charles LaPierre
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Foliot
         language:
         - en
         script:
@@ -66,7 +76,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2019-07-11'
+revdate: '2022-06-09'
 language:
 - en
 script:
@@ -77,23 +87,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-personalization-semantics-tools-1.0-20181018
+    id: W3CWD-personalization-semantics-content-1.0-20210812
     docid:
-    - id: W3C WD-personalization-semantics-tools-1.0-20181018
+    - id: W3C WD-personalization-semantics-content-1.0-20210812
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-personalization-semantics-tools-1.0-20181018
+      content: W3C WD-personalization-semantics-content-1.0-20210812
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpersonalization-semantics/tools
+    id: W3Cpersonalization-semantics/content
     docid:
-    - id: W3C personalization-semantics/tools
+    - id: W3C personalization-semantics/content
       type: W3C
       primary: true
     formattedref:
-      content: W3C personalization-semantics/tools
+      content: W3C personalization-semantics/content
       format: text/plain
   description:
     content: Editor's draft
@@ -102,8 +112,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-personalization-semantics-tools-1.0-20190711
-fetched: '2022-06-08'
+  number: WD-adapt-content-20220609
+fetched: '2022-06-09'
 doctype: recommendation
 editorialgroup:
 - name: Accessible Platform Architectures

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-WGSL-20220613
+id: W3CWD-intersection-observer-20220614
 title:
-- content: WebGPU Shading Language
+- content: Intersection Observer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220613/
+- content: https://www.w3.org/TR/2022/WD-intersection-observer-20220614/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220613
+- id: W3C WD-intersection-observer-20220614
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220613
+docnumber: WD-intersection-observer-20220614
 date:
 - type: published
-  value: '2022-06-13'
+  value: '2022-06-14'
 contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Emilio Cobos Álvarez
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Stefan Zager
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-13'
+revdate: '2022-06-14'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220611
+    id: W3CWD-intersection-observer-20220613
     docid:
-    - id: W3C WD-WGSL-20220611
+    - id: W3C WD-intersection-observer-20220613
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220611
+      content: W3C WD-intersection-observer-20220613
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwgsl
+    id: W3CIntersectionObserver
     docid:
-    - id: W3C wgsl
+    - id: W3C IntersectionObserver
       type: W3C
       primary: true
     formattedref:
-      content: W3C wgsl
+      content: W3C IntersectionObserver
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220613
-fetched: '2022-06-13'
+  number: WD-intersection-observer-20220614
+fetched: '2022-06-14'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group

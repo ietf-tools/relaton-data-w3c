@@ -1,25 +1,25 @@
 ---
-id: W3CWD-intersection-observer-20220610
+id: W3CWD-webgpu-20220614
 title:
-- content: Intersection Observer
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-intersection-observer-20220610/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220614/
   type: src
 type: standard
 docid:
-- id: W3C WD-intersection-observer-20220610
+- id: W3C WD-webgpu-20220614
   type: W3C
   primary: true
-docnumber: WD-intersection-observer-20220610
+docnumber: WD-webgpu-20220614
 date:
 - type: published
-  value: '2022-06-10'
+  value: '2022-06-14'
 contributor:
 - person:
     name:
       completename:
-        content: Emilio Cobos Álvarez
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Stefan Zager
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-10'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-14'
 language:
 - en
 script:
@@ -47,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-intersection-observer-20210624
+    id: W3CWD-webgpu-20220613
     docid:
-    - id: W3C WD-intersection-observer-20210624
+    - id: W3C WD-webgpu-20220613
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-intersection-observer-20210624
+      content: W3C WD-webgpu-20220613
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3CIntersectionObserver
+    id: W3Cgpuweb
     docid:
-    - id: W3C IntersectionObserver
+    - id: W3C gpuweb
       type: W3C
       primary: true
     formattedref:
-      content: W3C IntersectionObserver
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-intersection-observer-20220610
-fetched: '2022-06-13'
+  number: WD-webgpu-20220614
+fetched: '2022-06-14'
 doctype: recommendation
 editorialgroup:
-- name: Web Applications Working Group
+- name: GPU for the Web Working Group

@@ -1,20 +1,20 @@
 ---
-id: W3CWD-webdriver2-20220525
+id: W3CWD-webdriver2-20220615
 title:
 - content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webdriver2-20220525/
+- content: https://www.w3.org/TR/2022/WD-webdriver2-20220615/
   type: src
 type: standard
 docid:
-- id: W3C WD-webdriver2-20220525
+- id: W3C WD-webdriver2-20220615
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20220525
+docnumber: WD-webdriver2-20220615
 date:
 - type: published
-  value: '2022-05-25'
+  value: '2022-06-15'
 contributor:
 - person:
     name:
@@ -36,7 +36,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-05-25'
+revdate: '2022-06-15'
 language:
 - en
 script:
@@ -47,13 +47,13 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20220401
+    id: W3CWD-webdriver2-20220525
     docid:
-    - id: W3C WD-webdriver2-20220401
+    - id: W3C WD-webdriver2-20220525
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20220401
+      content: W3C WD-webdriver2-20220525
       format: text/plain
 - type: hasDraft
   bibitem:
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver2-20220525
-fetched: '2022-06-14'
+  number: WD-webdriver2-20220615
+fetched: '2022-06-15'
 doctype: recommendation
 editorialgroup:
 - name: Browser Testing and Tools Working Group

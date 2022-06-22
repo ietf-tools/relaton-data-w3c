@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-did-spec-registries-20211102
+    id: W3CNOTE-did-spec-registries-20220621
     docid:
-    - id: W3C NOTE-did-spec-registries-20211102
+    - id: W3C NOTE-did-spec-registries-20220621
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20211102
+      content: W3C NOTE-did-spec-registries-20220621
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: did-spec-registries
-fetched: '2022-06-21'
+fetched: '2022-06-22'
 doctype: recommendation

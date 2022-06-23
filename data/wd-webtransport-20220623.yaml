@@ -1,25 +1,25 @@
 ---
-id: W3CCR-page-visibility-2-20210518
+id: W3CWD-webtransport-20220623
 title:
-- content: Page Visibility Level 2
+- content: WebTransport
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/CR-page-visibility-2-20210518/
+- content: https://www.w3.org/TR/2022/WD-webtransport-20220623/
   type: src
 type: standard
 docid:
-- id: W3C CR-page-visibility-2-20210518
+- id: W3C WD-webtransport-20220623
   type: W3C
   primary: true
-docnumber: CR-page-visibility-2-20210518
+docnumber: WD-webtransport-20220623
 date:
 - type: published
-  value: '2021-05-18'
+  value: '2022-06-23'
 contributor:
 - person:
     name:
       completename:
-        content: Ilya Grigorik
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -29,51 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Victor Vasiliev
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-05-18'
+- person:
+    name:
+      completename:
+        content: Yutaka Hirano
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-23'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CPR-page-visibility-2-20171017
+    id: W3CWD-webtransport-20220311
     docid:
-    - id: W3C PR-page-visibility-2-20171017
+    - id: W3C WD-webtransport-20220311
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-page-visibility-2-20171017
+      content: W3C WD-webtransport-20220311
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpage-visibility
+    id: W3Cwebtransport
     docid:
-    - id: W3C page-visibility
+    - id: W3C webtransport
       type: W3C
       primary: true
     formattedref:
-      content: W3C page-visibility
+      content: W3C webtransport
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-page-visibility-2-20210518
-fetched: '2022-06-22'
+  number: WD-webtransport-20220623
+fetched: '2022-06-23'
 doctype: recommendation
 editorialgroup:
-- name: Web Performance Working Group
+- name: WebTransport Working Group

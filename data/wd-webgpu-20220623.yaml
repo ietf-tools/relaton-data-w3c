@@ -1,25 +1,25 @@
 ---
-id: W3CNOTE-epub-ssv-11-20220519
+id: W3CWD-webgpu-20220623
 title:
-- content: EPUB 3 Structural Semantics Vocabulary 1.1
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220519/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220623/
   type: src
 type: standard
 docid:
-- id: W3C NOTE-epub-ssv-11-20220519
+- id: W3C WD-webgpu-20220623
   type: W3C
   primary: true
-docnumber: NOTE-epub-ssv-11-20220519
+docnumber: WD-webgpu-20220623
 date:
 - type: published
-  value: '2022-05-19'
+  value: '2022-06-23'
 contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,48 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-19'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-23'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-ssv-11-20220517
+    id: W3CWD-webgpu-20220617
     docid:
-    - id: W3C NOTE-epub-ssv-11-20220517
+    - id: W3C WD-webgpu-20220617
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-ssv-11-20220517
+      content: W3C WD-webgpu-20220617
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cepub-specs/epub33
+    id: W3Cgpuweb
     docid:
-    - id: W3C epub-specs/epub33
+    - id: W3C gpuweb
       type: W3C
       primary: true
     formattedref:
-      content: W3C epub-specs/epub33
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-epub-ssv-11-20220519
-fetched: '2022-06-23'
-doctype: groupNote
+  number: WD-webgpu-20220623
+fetched: '2022-06-24'
+doctype: recommendation
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: GPU for the Web Working Group

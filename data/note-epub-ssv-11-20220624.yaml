@@ -1,25 +1,25 @@
 ---
-id: W3CWD-WGSL-20220617
+id: W3CNOTE-epub-ssv-11-20220624
 title:
-- content: WebGPU Shading Language
+- content: EPUB 3 Structural Semantics Vocabulary 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220617/
+- content: https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220624/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220617
+- id: W3C NOTE-epub-ssv-11-20220624
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220617
+docnumber: NOTE-epub-ssv-11-20220624
 date:
 - type: published
-  value: '2022-06-17'
+  value: '2022-06-24'
 contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Ivan Herman
         language:
         - en
         script:
@@ -29,51 +29,48 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-17'
+revdate: '2022-06-24'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220616
+    id: W3CNOTE-epub-ssv-11-20220519
     docid:
-    - id: W3C WD-WGSL-20220616
+    - id: W3C NOTE-epub-ssv-11-20220519
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220616
+      content: W3C NOTE-epub-ssv-11-20220519
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwgsl
+    id: W3Cepub-specs/epub33
     docid:
-    - id: W3C wgsl
+    - id: W3C epub-specs/epub33
       type: W3C
       primary: true
     formattedref:
-      content: W3C wgsl
+      content: W3C epub-specs/epub33
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-WGSL-20220617
-fetched: '2022-06-23'
-doctype: recommendation
+  number: NOTE-epub-ssv-11-20220624
+fetched: '2022-06-24'
+doctype: groupNote
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: EPUB 3 Working Group

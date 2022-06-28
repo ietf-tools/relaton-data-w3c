@@ -1,7 +1,7 @@
 ---
 id: W3Crequestidlecallback
 title:
-- content: Cooperative Scheduling of Background Tasks
+- content: requestIdleCallback() Cooperative Scheduling of Background Tasks
   format: text/plain
 link:
 - content: https://www.w3.org/TR/requestidlecallback/
@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CPR-requestidlecallback-20171010
+    id: W3CWD-requestidlecallback-20220628
     docid:
-    - id: W3C PR-requestidlecallback-20171010
+    - id: W3C WD-requestidlecallback-20220628
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-requestidlecallback-20171010
+      content: W3C WD-requestidlecallback-20220628
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: requestidlecallback
-fetched: '2022-06-27'
+fetched: '2022-06-28'
 doctype: recommendation

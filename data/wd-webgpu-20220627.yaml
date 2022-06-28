@@ -1,25 +1,25 @@
 ---
-id: W3CWD-IFT-20210907
+id: W3CWD-webgpu-20220627
 title:
-- content: Incremental Font Transfer
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-IFT-20210907/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220627/
   type: src
 type: standard
 docid:
-- id: W3C WD-IFT-20210907
+- id: W3C WD-webgpu-20220627
   type: W3C
   primary: true
-docnumber: WD-IFT-20210907
+docnumber: WD-webgpu-20220627
 date:
 - type: published
-  value: '2021-09-07'
+  value: '2022-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: Chris Lilley
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Garret Rieger
+        content: Dzmitry Malyshau
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-09-07'
+revdate: '2022-06-27'
 language:
 - en
 script:
@@ -55,15 +55,25 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasDraft
+- type: obsoletes
   bibitem:
-    id: W3COverview.html
+    id: W3CWD-webgpu-20220624
     docid:
-    - id: W3C Overview.html
+    - id: W3C WD-webgpu-20220624
       type: W3C
       primary: true
     formattedref:
-      content: W3C Overview.html
+      content: W3C WD-webgpu-20220624
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cgpuweb
+    docid:
+    - id: W3C gpuweb
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IFT-20210907
-fetched: '2022-06-27'
+  number: WD-webgpu-20220627
+fetched: '2022-06-28'
 doctype: recommendation
 editorialgroup:
-- name: Web Fonts Working Group
+- name: GPU for the Web Working Group

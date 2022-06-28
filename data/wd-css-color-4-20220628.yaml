@@ -1,25 +1,25 @@
 ---
-id: W3CPR-requestidlecallback-20171010
+id: W3CWD-css-color-4-20220628
 title:
-- content: Cooperative Scheduling of Background Tasks
+- content: CSS Color Module Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2017/PR-requestidlecallback-20171010/
+- content: https://www.w3.org/TR/2022/WD-css-color-4-20220628/
   type: src
 type: standard
 docid:
-- id: W3C PR-requestidlecallback-20171010
+- id: W3C WD-css-color-4-20220628
   type: W3C
   primary: true
-docnumber: PR-requestidlecallback-20171010
+docnumber: WD-css-color-4-20220628
 date:
 - type: published
-  value: '2017-10-10'
+  value: '2022-06-28'
 contributor:
 - person:
     name:
       completename:
-        content: Ilya Grigorik
+        content: Chris Lilley
         language:
         - en
         script:
@@ -29,51 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Ross McIlroy
+        content: Lea Verou
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2017-10-10'
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-28'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-requestidlecallback-20170131
+    id: W3CWD-css-color-4-20220428
     docid:
-    - id: W3C CR-requestidlecallback-20170131
+    - id: W3C WD-css-color-4-20220428
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-requestidlecallback-20170131
+      content: W3C WD-css-color-4-20220428
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Crequestidlecallback
+    id: W3Ccss-color
     docid:
-    - id: W3C requestidlecallback
+    - id: W3C css-color
       type: W3C
       primary: true
     formattedref:
-      content: W3C requestidlecallback
+      content: W3C css-color
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C WD
     format: text/plain
-  number: PR-requestidlecallback-20171010
-fetched: '2022-06-27'
+  number: WD-css-color-4-20220628
+fetched: '2022-06-28'
 doctype: recommendation
 editorialgroup:
-- name: Web Performance Working Group
+- name: Cascading Style Sheets Working Group

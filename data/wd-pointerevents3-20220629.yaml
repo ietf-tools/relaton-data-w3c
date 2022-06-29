@@ -1,25 +1,25 @@
 ---
-id: W3CWD-uievents-20220601
+id: W3CWD-pointerevents3-20220629
 title:
-- content: UI Events
+- content: Pointer Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-uievents-20220601/
+- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220629/
   type: src
 type: standard
 docid:
-- id: W3C WD-uievents-20220601
+- id: W3C WD-pointerevents3-20220629
   type: W3C
   primary: true
-docnumber: WD-uievents-20220601
+docnumber: WD-pointerevents3-20220629
 date:
 - type: published
-  value: '2022-06-01'
+  value: '2022-06-29'
 contributor:
 - person:
     name:
       completename:
-        content: Gary Kacmarcik
+        content: Navid Zolghadr
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Travis Leithead
+        content: Patrick Lauke
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-01'
+revdate: '2022-06-29'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20211020
+    id: W3CWD-pointerevents3-20220625
     docid:
-    - id: W3C WD-uievents-20211020
+    - id: W3C WD-pointerevents3-20220625
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20211020
+      content: W3C WD-pointerevents3-20220625
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cuievents
+    id: W3Cpointerevents
     docid:
-    - id: W3C uievents
+    - id: W3C pointerevents
       type: W3C
       primary: true
     formattedref:
-      content: W3C uievents
+      content: W3C pointerevents
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-uievents-20220601
-fetched: '2022-06-28'
+  number: WD-pointerevents3-20220629
+fetched: '2022-06-29'
 doctype: recommendation
 editorialgroup:
-- name: Web Applications Working Group
+- name: Pointer Events Working Group

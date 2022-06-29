@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220627
+id: W3CWD-uievents-20220629
 title:
-- content: WebGPU
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220627/
+- content: https://www.w3.org/TR/2022/WD-uievents-20220629/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220627
+- id: W3C WD-uievents-20220629
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220627
+docnumber: WD-uievents-20220629
 date:
 - type: published
-  value: '2022-06-27'
+  value: '2022-06-29'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -29,24 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-06-27'
+revdate: '2022-06-29'
 language:
 - en
 script:
@@ -57,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220624
+    id: W3CWD-uievents-20220601
     docid:
-    - id: W3C WD-webgpu-20220624
+    - id: W3C WD-uievents-20220601
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220624
+      content: W3C WD-uievents-20220601
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cgpuweb
+    id: W3Cuievents
     docid:
-    - id: W3C gpuweb
+    - id: W3C uievents
       type: W3C
       primary: true
     formattedref:
-      content: W3C gpuweb
+      content: W3C uievents
       format: text/plain
   description:
     content: Editor's draft
@@ -82,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220627
-fetched: '2022-06-28'
+  number: WD-uievents-20220629
+fetched: '2022-06-29'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-pointerevents3-20220625
+id: W3CWD-webgpu-20220628
 title:
-- content: Pointer Events
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220625/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220628/
   type: src
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20220625
+- id: W3C WD-webgpu-20220628
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20220625
+docnumber: WD-webgpu-20220628
 date:
 - type: published
-  value: '2022-06-25'
+  value: '2022-06-28'
 contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-25'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-06-28'
 language:
 - en
 script:
@@ -47,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20220617
+    id: W3CWD-webgpu-20220627
     docid:
-    - id: W3C WD-pointerevents3-20220617
+    - id: W3C WD-webgpu-20220627
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20220617
+      content: W3C WD-webgpu-20220627
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpointerevents
+    id: W3Cgpuweb
     docid:
-    - id: W3C pointerevents
+    - id: W3C gpuweb
       type: W3C
       primary: true
     formattedref:
-      content: W3C pointerevents
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20220625
-fetched: '2022-06-28'
+  number: WD-webgpu-20220628
+fetched: '2022-06-29'
 doctype: recommendation
 editorialgroup:
-- name: Pointer Events Working Group
+- name: GPU for the Web Working Group

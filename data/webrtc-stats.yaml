@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCRD-webrtc-stats-20220614
+    id: W3CCRD-webrtc-stats-20220629
     docid:
-    - id: W3C CRD-webrtc-stats-20220614
+    - id: W3C CRD-webrtc-stats-20220629
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20220614
+      content: W3C CRD-webrtc-stats-20220629
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webrtc-stats
-fetched: '2022-06-28'
+fetched: '2022-06-29'
 doctype: recommendation

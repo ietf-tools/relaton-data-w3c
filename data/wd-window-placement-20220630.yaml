@@ -1,25 +1,25 @@
 ---
-id: W3CWD-push-api-20220602
+id: W3CWD-window-placement-20220630
 title:
-- content: Push API
+- content: Multi-Screen Window Placement
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-push-api-20220602/
+- content: https://www.w3.org/TR/2022/WD-window-placement-20220630/
   type: src
 type: standard
 docid:
-- id: W3C WD-push-api-20220602
+- id: W3C WD-window-placement-20220630
   type: W3C
   primary: true
-docnumber: WD-push-api-20220602
+docnumber: WD-window-placement-20220630
 date:
 - type: published
-  value: '2022-06-02'
+  value: '2022-06-30'
 contributor:
 - person:
     name:
       completename:
-        content: Martin Thomson
+        content: Joshua Bell
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Beverloo
+        content: Mike Wasserman
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-02'
+revdate: '2022-06-30'
 language:
 - en
 script:
@@ -45,25 +45,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: obsoletes
-  bibitem:
-    id: W3CWD-push-api-20220323
-    docid:
-    - id: W3C WD-push-api-20220323
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-push-api-20220323
-      format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpush-api
+    id: W3Cwindow-placement
     docid:
-    - id: W3C push-api
+    - id: W3C window-placement
       type: W3C
       primary: true
     formattedref:
-      content: W3C push-api
+      content: W3C window-placement
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +62,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-push-api-20220602
-fetched: '2022-06-29'
+  number: WD-window-placement-20220630
+fetched: '2022-06-30'
 doctype: recommendation
 editorialgroup:
-- name: Web Applications Working Group
+- name: Second Screen Working Group

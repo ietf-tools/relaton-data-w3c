@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webgpu-20220628
+id: W3CWD-push-api-20220630
 title:
-- content: WebGPU
+- content: Push API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220628/
+- content: https://www.w3.org/TR/2022/WD-push-api-20220630/
   type: src
 type: standard
 docid:
-- id: W3C WD-webgpu-20220628
+- id: W3C WD-push-api-20220630
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220628
+docnumber: WD-push-api-20220630
 date:
 - type: published
-  value: '2022-06-28'
+  value: '2022-06-30'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dzmitry Malyshau
+        content: Martin Thomson
         language:
         - en
         script:
@@ -39,14 +39,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Peter Beverloo
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-28'
+revdate: '2022-06-30'
 language:
 - en
 script:
@@ -57,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220627
+    id: W3CWD-push-api-20220602
     docid:
-    - id: W3C WD-webgpu-20220627
+    - id: W3C WD-push-api-20220602
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220627
+      content: W3C WD-push-api-20220602
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cgpuweb
+    id: W3Cpush-api
     docid:
-    - id: W3C gpuweb
+    - id: W3C push-api
       type: W3C
       primary: true
     formattedref:
-      content: W3C gpuweb
+      content: W3C push-api
       format: text/plain
   description:
     content: Editor's draft
@@ -82,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220628
-fetched: '2022-06-29'
+  number: WD-push-api-20220630
+fetched: '2022-06-30'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group

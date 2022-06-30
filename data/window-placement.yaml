@@ -1,0 +1,36 @@
+---
+id: W3Cwindow-placement
+title:
+- content: Multi-Screen Window Placement
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/window-placement/
+  type: src
+type: standard
+docid:
+- id: W3C window-placement
+  type: W3C
+  primary: true
+docnumber: window-placement
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-window-placement-20220630
+    docid:
+    - id: W3C WD-window-placement-20220630
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-window-placement-20220630
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: window-placement
+fetched: '2022-06-30'
+doctype: recommendation

@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20220602
+    id: W3CWD-push-api-20220630
     docid:
-    - id: W3C WD-push-api-20220602
+    - id: W3C WD-push-api-20220630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20220602
+      content: W3C WD-push-api-20220630
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: push-api
-fetched: '2022-06-29'
+fetched: '2022-06-30'
 doctype: recommendation

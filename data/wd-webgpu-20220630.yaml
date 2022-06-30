@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-webrtc-stats-20220629
+id: W3CWD-webgpu-20220630
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-webrtc-stats-20220629/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220630/
   type: src
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20220629
+- id: W3C WD-webgpu-20220630
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20220629
+docnumber: WD-webgpu-20220630
 date:
 - type: published
-  value: '2022-06-29'
+  value: '2022-06-30'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Dzmitry Malyshau
         language:
         - en
         script:
@@ -39,51 +39,51 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-29'
+revdate: '2022-06-30'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20220614
+    id: W3CWD-webgpu-20220628
     docid:
-    - id: W3C CRD-webrtc-stats-20220614
+    - id: W3C WD-webgpu-20220628
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20220614
+      content: W3C WD-webgpu-20220628
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwebrtc-stats
+    id: W3Cgpuweb
     docid:
-    - id: W3C webrtc-stats
+    - id: W3C gpuweb
       type: W3C
       primary: true
     formattedref:
-      content: W3C webrtc-stats
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webrtc-stats-20220629
-fetched: '2022-06-29'
+  number: WD-webgpu-20220630
+fetched: '2022-06-30'
 doctype: recommendation
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: GPU for the Web Working Group

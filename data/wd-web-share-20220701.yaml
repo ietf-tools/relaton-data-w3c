@@ -1,25 +1,25 @@
 ---
-id: W3CWD-miniapp-manifest-20220517
+id: W3CWD-web-share-20220701
 title:
-- content: MiniApp Manifest
+- content: Web Share API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-miniapp-manifest-20220517/
+- content: https://www.w3.org/TR/2022/WD-web-share-20220701/
   type: src
 type: standard
 docid:
-- id: W3C WD-miniapp-manifest-20220517
+- id: W3C WD-web-share-20220701
   type: W3C
   primary: true
-docnumber: WD-miniapp-manifest-20220517
+docnumber: WD-web-share-20220701
 date:
 - type: published
-  value: '2022-05-17'
+  value: '2022-07-01'
 contributor:
 - person:
     name:
       completename:
-        content: Martin Alvarez-Espinar
+        content: Eric Willigers
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Yongjing ZHANG
+        content: Marcos Caceres
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-17'
+- person:
+    name:
+      completename:
+        content: Matt Giuca
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-07-01'
 language:
 - en
 script:
@@ -47,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-miniapp-manifest-20220428
+    id: W3CWD-web-share-20220608
     docid:
-    - id: W3C WD-miniapp-manifest-20220428
+    - id: W3C WD-web-share-20220608
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-manifest-20220428
+      content: W3C WD-web-share-20220608
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cminiapp-manifest
+    id: W3Cweb-share
     docid:
-    - id: W3C miniapp-manifest
+    - id: W3C web-share
       type: W3C
       primary: true
     formattedref:
-      content: W3C miniapp-manifest
+      content: W3C web-share
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-miniapp-manifest-20220517
-fetched: '2022-06-30'
+  number: WD-web-share-20220701
+fetched: '2022-07-01'
 doctype: recommendation
 editorialgroup:
-- name: MiniApps Working Group
+- name: Web Applications Working Group

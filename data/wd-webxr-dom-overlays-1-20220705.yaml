@@ -1,42 +1,32 @@
 ---
-id: W3CWD-WGSL-20220629
+id: W3CWD-webxr-dom-overlays-1-20220705
 title:
-- content: WebGPU Shading Language
+- content: WebXR DOM Overlays Module
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220629/
+- content: https://www.w3.org/TR/2022/WD-webxr-dom-overlays-1-20220705/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220629
+- id: W3C WD-webxr-dom-overlays-1-20220705
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220629
+docnumber: WD-webxr-dom-overlays-1-20220705
 date:
 - type: published
-  value: '2022-06-29'
+  value: '2022-07-05'
 contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Klaus Weidner
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Myles Maxfield
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-06-29'
+revdate: '2022-07-05'
 language:
 - en
 script:
@@ -47,23 +37,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220628
+    id: W3CWD-webxr-dom-overlays-1-20210831
     docid:
-    - id: W3C WD-WGSL-20220628
+    - id: W3C WD-webxr-dom-overlays-1-20210831
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220628
+      content: W3C WD-webxr-dom-overlays-1-20210831
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwgsl
+    id: W3Cdom-overlays
     docid:
-    - id: W3C wgsl
+    - id: W3C dom-overlays
       type: W3C
       primary: true
     formattedref:
-      content: W3C wgsl
+      content: W3C dom-overlays
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +62,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220629
-fetched: '2022-07-04'
+  number: WD-webxr-dom-overlays-1-20220705
+fetched: '2022-07-05'
 doctype: recommendation
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Immersive Web Working Group

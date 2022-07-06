@@ -1,25 +1,25 @@
 ---
-id: W3CWD-pointerevents3-20220629
+id: W3CWD-intersection-observer-20220706
 title:
-- content: Pointer Events
+- content: Intersection Observer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-pointerevents3-20220629/
+- content: https://www.w3.org/TR/2022/WD-intersection-observer-20220706/
   type: src
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20220629
+- id: W3C WD-intersection-observer-20220706
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20220629
+docnumber: WD-intersection-observer-20220706
 date:
 - type: published
-  value: '2022-06-29'
+  value: '2022-07-06'
 contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Emilio Cobos Álvarez
         language:
         - en
         script:
@@ -29,14 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Stefan Zager
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-29'
+revdate: '2022-07-06'
 language:
 - en
 script:
@@ -47,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20220625
+    id: W3CWD-intersection-observer-20220615
     docid:
-    - id: W3C WD-pointerevents3-20220625
+    - id: W3C WD-intersection-observer-20220615
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20220625
+      content: W3C WD-intersection-observer-20220615
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpointerevents
+    id: W3CIntersectionObserver
     docid:
-    - id: W3C pointerevents
+    - id: W3C IntersectionObserver
       type: W3C
       primary: true
     formattedref:
-      content: W3C pointerevents
+      content: W3C IntersectionObserver
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20220629
-fetched: '2022-07-05'
+  number: WD-intersection-observer-20220706
+fetched: '2022-07-06'
 doctype: recommendation
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Web Applications Working Group

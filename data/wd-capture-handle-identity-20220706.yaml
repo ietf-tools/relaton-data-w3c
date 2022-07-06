@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webrtc-encoded-transform-20220519
+id: W3CWD-capture-handle-identity-20220706
 title:
-- content: WebRTC Encoded Transform
+- content: Capture Handle - Bootstrapping Collaboration when Screensharing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220519/
+- content: https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/
   type: src
 type: standard
 docid:
-- id: W3C WD-webrtc-encoded-transform-20220519
+- id: W3C WD-capture-handle-identity-20220706
   type: W3C
   primary: true
-docnumber: WD-webrtc-encoded-transform-20220519
+docnumber: WD-capture-handle-identity-20220706
 date:
 - type: published
-  value: '2022-05-19'
+  value: '2022-07-06'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Elad Alon
         language:
         - en
         script:
@@ -29,24 +29,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: youenn fablet
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-05-19'
+revdate: '2022-07-06'
 language:
 - en
 script:
@@ -57,23 +47,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-encoded-transform-20220130
+    id: W3CWD-capture-handle-identity-20220519
     docid:
-    - id: W3C WD-webrtc-encoded-transform-20220130
+    - id: W3C WD-capture-handle-identity-20220519
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-encoded-transform-20220130
+      content: W3C WD-capture-handle-identity-20220519
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwebrtc-encoded-transform
+    id: W3Cmediacapture-handle/identity
     docid:
-    - id: W3C webrtc-encoded-transform
+    - id: W3C mediacapture-handle/identity
       type: W3C
       primary: true
     formattedref:
-      content: W3C webrtc-encoded-transform
+      content: W3C mediacapture-handle/identity
       format: text/plain
   description:
     content: Editor's draft
@@ -82,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-encoded-transform-20220519
-fetched: '2022-07-05'
+  number: WD-capture-handle-identity-20220706
+fetched: '2022-07-06'
 doctype: recommendation
 editorialgroup:
 - name: Web Real-Time Communications Working Group

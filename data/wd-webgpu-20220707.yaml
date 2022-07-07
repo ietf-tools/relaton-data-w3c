@@ -1,25 +1,25 @@
 ---
-id: W3CWD-pointerlock-2-20211117
+id: W3CWD-webgpu-20220707
 title:
-- content: Pointer Lock 2.0
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/WD-pointerlock-2-20211117/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220707/
   type: src
 type: standard
 docid:
-- id: W3C WD-pointerlock-2-20211117
+- id: W3C WD-webgpu-20220707
   type: W3C
   primary: true
-docnumber: WD-pointerlock-2-20211117
+docnumber: WD-webgpu-20220707
 date:
 - type: published
-  value: '2021-11-17'
+  value: '2022-07-07'
 contributor:
 - person:
     name:
       completename:
-        content: Mustaq Ahmed
+        content: Brandon Jones
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Dzmitry Malyshau
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2021-11-17'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-07-07'
 language:
 - en
 script:
@@ -47,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerlock-2-20190828
+    id: W3CWD-webgpu-20220706
     docid:
-    - id: W3C WD-pointerlock-2-20190828
+    - id: W3C WD-webgpu-20220706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerlock-2-20190828
+      content: W3C WD-webgpu-20220706
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cpointerlock
+    id: W3Cgpuweb
     docid:
-    - id: W3C pointerlock
+    - id: W3C gpuweb
       type: W3C
       primary: true
     formattedref:
-      content: W3C pointerlock
+      content: W3C gpuweb
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerlock-2-20211117
-fetched: '2022-07-06'
+  number: WD-webgpu-20220707
+fetched: '2022-07-07'
 doctype: recommendation
 editorialgroup:
-- name: Web Applications Working Group
+- name: GPU for the Web Working Group

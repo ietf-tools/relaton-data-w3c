@@ -1,25 +1,25 @@
 ---
-id: W3CWD-IndexedDB-3-20220629
+id: W3CWD-web-share-20220707
 title:
-- content: Indexed Database API 3.0
+- content: Web Share API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-IndexedDB-3-20220629/
+- content: https://www.w3.org/TR/2022/WD-web-share-20220707/
   type: src
 type: standard
 docid:
-- id: W3C WD-IndexedDB-3-20220629
+- id: W3C WD-web-share-20220707
   type: W3C
   primary: true
-docnumber: WD-IndexedDB-3-20220629
+docnumber: WD-web-share-20220707
 date:
 - type: published
-  value: '2022-06-29'
+  value: '2022-07-07'
 contributor:
 - person:
     name:
       completename:
-        content: Ali Alabbas
+        content: Eric Willigers
         language:
         - en
         script:
@@ -29,14 +29,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Marcos Caceres
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-06-29'
+- person:
+    name:
+      completename:
+        content: Matt Giuca
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-07-07'
 language:
 - en
 script:
@@ -47,23 +57,23 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-IndexedDB-3-20220608
+    id: W3CWD-web-share-20220701
     docid:
-    - id: W3C WD-IndexedDB-3-20220608
+    - id: W3C WD-web-share-20220701
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20220608
+      content: W3C WD-web-share-20220701
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3CIndexedDB
+    id: W3Cweb-share
     docid:
-    - id: W3C IndexedDB
+    - id: W3C web-share
       type: W3C
       primary: true
     formattedref:
-      content: W3C IndexedDB
+      content: W3C web-share
       format: text/plain
   description:
     content: Editor's draft
@@ -72,8 +82,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IndexedDB-3-20220629
-fetched: '2022-07-06'
+  number: WD-web-share-20220707
+fetched: '2022-07-07'
 doctype: recommendation
 editorialgroup:
 - name: Web Applications Working Group

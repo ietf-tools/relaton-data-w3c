@@ -1,17 +1,17 @@
 ---
-id: W3Cservice-workers-1
+id: W3Cservice-workers
 title:
-- content: Service Workers 1
+- content: Service Workers
   format: text/plain
 link:
-- content: https://www.w3.org/TR/service-workers-1/
+- content: https://www.w3.org/TR/service-workers/
   type: src
 type: standard
 docid:
-- id: W3C service-workers-1
+- id: W3C service-workers
   type: W3C
   primary: true
-docnumber: service-workers-1
+docnumber: service-workers
 language:
 - en
 script:
@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCR-service-workers-1-20191119
+    id: W3CCRD-service-workers-20220712
     docid:
-    - id: W3C CR-service-workers-1-20191119
+    - id: W3C CRD-service-workers-20220712
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-service-workers-1-20191119
+      content: W3C CRD-service-workers-20220712
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
-  number: service-workers-1
-fetched: '2022-07-11'
+  number: service-workers
+fetched: '2022-07-12'
 doctype: recommendation

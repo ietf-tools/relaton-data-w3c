@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-alreq-gap-20211125
+    id: W3CDNOTE-alreq-gap-20220713
     docid:
-    - id: W3C DNOTE-alreq-gap-20211125
+    - id: W3C DNOTE-alreq-gap-20220713
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-alreq-gap-20211125
+      content: W3C DNOTE-alreq-gap-20220713
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: alreq-gap
-fetched: '2022-07-12'
+fetched: '2022-07-13'
 doctype: recommendation

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-miniapp-lifecycle-20220528
+id: W3CCRD-epub-33-20220719
 title:
-- content: MiniApp Lifecycle
+- content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220528/
+- content: https://www.w3.org/TR/2022/CRD-epub-33-20220719/
   type: src
 type: standard
 docid:
-- id: W3C WD-miniapp-lifecycle-20220528
+- id: W3C CRD-epub-33-20220719
   type: W3C
   primary: true
-docnumber: WD-miniapp-lifecycle-20220528
+docnumber: CRD-epub-33-20220719
 date:
 - type: published
-  value: '2022-05-28'
+  value: '2022-07-19'
 contributor:
 - person:
     name:
       completename:
-        content: Haoyang Xu
+        content: Dave Cramer
         language:
         - en
         script:
@@ -29,51 +29,61 @@ contributor:
 - person:
     name:
       completename:
-        content: Qing An
+        content: Ivan Herman
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-05-28'
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-07-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-miniapp-lifecycle-20220527
+    id: W3CCRD-epub-33-20220715
     docid:
-    - id: W3C WD-miniapp-lifecycle-20220527
+    - id: W3C CRD-epub-33-20220715
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-lifecycle-20220527
+      content: W3C CRD-epub-33-20220715
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cminiapp-lifecycle
+    id: W3Cepub-specs/epub33
     docid:
-    - id: W3C miniapp-lifecycle
+    - id: W3C epub-specs/epub33
       type: W3C
       primary: true
     formattedref:
-      content: W3C miniapp-lifecycle
+      content: W3C epub-specs/epub33
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-miniapp-lifecycle-20220528
-fetched: '2022-07-18'
+  number: CRD-epub-33-20220719
+fetched: '2022-07-19'
 doctype: recommendation
 editorialgroup:
-- name: MiniApps Working Group
+- name: EPUB 3 Working Group

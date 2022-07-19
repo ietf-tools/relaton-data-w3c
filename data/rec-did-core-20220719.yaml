@@ -1,20 +1,20 @@
 ---
-id: W3CPR-did-core-20210803
+id: W3CREC-did-core-20220719
 title:
 - content: Decentralized Identifiers (DIDs) v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/PR-did-core-20210803/
+- content: https://www.w3.org/TR/2022/REC-did-core-20220719/
   type: src
 type: standard
 docid:
-- id: W3C PR-did-core-20210803
+- id: W3C REC-did-core-20220719
   type: W3C
   primary: true
-docnumber: PR-did-core-20210803
+docnumber: REC-did-core-20220719
 date:
 - type: published
-  value: '2021-08-03'
+  value: '2022-07-19'
 contributor:
 - person:
     name:
@@ -56,25 +56,38 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2021-08-03'
+revdate: '2022-07-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-did-core-20210730
+    id: W3CPR-did-core-20210803
     docid:
-    - id: W3C CRD-did-core-20210730
+    - id: W3C PR-did-core-20210803
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-did-core-20210730
+      content: W3C PR-did-core-20210803
       format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3Cdid-core/errata
+    docid:
+    - id: W3C did-core/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C did-core/errata
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
 - type: hasDraft
   bibitem:
     id: W3Cdid-core
@@ -90,10 +103,10 @@ relation:
     format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-did-core-20210803
-fetched: '2022-07-18'
+  number: REC-did-core-20220719
+fetched: '2022-07-19'
 doctype: recommendation
 editorialgroup:
 - name: Decentralized Identifier Working Group

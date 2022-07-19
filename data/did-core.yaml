@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CPR-did-core-20210803
+    id: W3CREC-did-core-20220719
     docid:
-    - id: W3C PR-did-core-20210803
+    - id: W3C REC-did-core-20220719
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-did-core-20210803
+      content: W3C REC-did-core-20220719
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: did-core
-fetched: '2022-07-18'
+fetched: '2022-07-19'
 doctype: recommendation

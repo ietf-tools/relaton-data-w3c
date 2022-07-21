@@ -1,20 +1,20 @@
 ---
-id: W3CWD-WGSL-20220719
+id: W3CWD-WGSL-20220721
 title:
 - content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220719/
+- content: https://www.w3.org/TR/2022/WD-WGSL-20220721/
   type: src
 type: standard
 docid:
-- id: W3C WD-WGSL-20220719
+- id: W3C WD-WGSL-20220721
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220719
+docnumber: WD-WGSL-20220721
 date:
 - type: published
-  value: '2022-07-19'
+  value: '2022-07-21'
 contributor:
 - person:
     name:
@@ -36,7 +36,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-07-19'
+revdate: '2022-07-21'
 language:
 - en
 script:
@@ -47,13 +47,13 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220718
+    id: W3CWD-WGSL-20220719
     docid:
-    - id: W3C WD-WGSL-20220718
+    - id: W3C WD-WGSL-20220719
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220718
+      content: W3C WD-WGSL-20220719
       format: text/plain
 - type: hasDraft
   bibitem:
@@ -72,8 +72,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220719
-fetched: '2022-07-20'
+  number: WD-WGSL-20220721
+fetched: '2022-07-21'
 doctype: recommendation
 editorialgroup:
 - name: GPU for the Web Working Group

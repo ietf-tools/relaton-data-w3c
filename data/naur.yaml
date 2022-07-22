@@ -19,18 +19,18 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-naur-20220513
+    id: W3CDNOTE-naur-20220722
     docid:
-    - id: W3C DNOTE-naur-20220513
+    - id: W3C DNOTE-naur-20220722
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-naur-20220513
+      content: W3C DNOTE-naur-20220722
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: naur
-fetched: '2022-07-21'
+fetched: '2022-07-22'
 doctype: recommendation

@@ -1,20 +1,20 @@
 ---
-id: W3CWD-device-memory-1-20180925
+id: W3CWD-device-memory-1-20220722
 title:
 - content: Device Memory
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2018/WD-device-memory-1-20180925/
+- content: https://www.w3.org/TR/2022/WD-device-memory-1-20220722/
   type: src
 type: standard
 docid:
-- id: W3C WD-device-memory-1-20180925
+- id: W3C WD-device-memory-1-20220722
   type: W3C
   primary: true
-docnumber: WD-device-memory-1-20180925
+docnumber: WD-device-memory-1-20220722
 date:
 - type: published
-  value: '2018-09-25'
+  value: '2022-07-22'
 contributor:
 - person:
     name:
@@ -26,7 +26,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2018-09-25'
+revdate: '2022-07-22'
 language:
 - en
 script:
@@ -35,6 +35,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-device-memory-1-20180925
+    docid:
+    - id: W3C WD-device-memory-1-20180925
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-device-memory-1-20180925
+      format: text/plain
 - type: hasDraft
   bibitem:
     id: W3Cdevice-memory
@@ -52,8 +62,8 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-memory-1-20180925
-fetched: '2022-07-22'
+  number: WD-device-memory-1-20220722
+fetched: '2022-07-23'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

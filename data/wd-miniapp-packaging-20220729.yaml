@@ -1,0 +1,109 @@
+---
+id: W3CWD-miniapp-packaging-20220729
+title:
+- content: MiniApp Packaging
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-miniapp-packaging-20220729/
+  type: src
+type: standard
+docid:
+- id: W3C WD-miniapp-packaging-20220729
+  type: W3C
+  primary: true
+docnumber: WD-miniapp-packaging-20220729
+date:
+- type: published
+  value: '2022-07-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dan Zhou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Alvarez-Espinar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Qing An
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tengyuan Zhang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Yongjing ZHANG
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-07-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-miniapp-packaging-20220712
+    docid:
+    - id: W3C WD-miniapp-packaging-20220712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-packaging-20220712
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cminiapp-packaging
+    docid:
+    - id: W3C miniapp-packaging
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C miniapp-packaging
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-miniapp-packaging-20220729
+fetched: '2022-07-29'
+doctype: recommendation
+editorialgroup:
+- name: MiniApps Working Group

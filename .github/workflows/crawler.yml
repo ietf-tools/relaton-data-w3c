@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Checkout archive
+        uses: actions/checkout@v2
+        with:
+          repository: relaton/w3c-tr-archive
+          path: w3c-tr-archive
       - name: Use Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -20,14 +25,20 @@ jobs:
       - name: Install gem
         run: |
           gem install relaton-cli
-      - name: Fetch documents
+      - name: Remove old files
         run: |
           rm -rf data
-          relaton fetch-data w3c-rdf
+          rm index-w3c.*
+      - name: Fetch w3c-tr-archive documents
+        run: relaton fetch-data w3c-tr-archive
+      - name: Fetch w3c-rdf documents
+        run: relaton fetch-data w3c-rdf
+      - name: Zip index
+        run: zip index-w3c.zip index-w3c.yaml
       - name: Push data
         run: |
           echo `date` > flag.txt
           git config user.name ietf-bib-bot
           git config user.email gh-bib-bot@llc.ietf.org
-          git add data flag.txt
+          git add data flag.txt index-w3c.yaml index-w3c.zip
           git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)

@@ -28,7 +28,7 @@ jobs:
       - name: Remove old files
         run: |
           rm -rf data
-          rm index-w3c.*
+          rm -f index-w3c.*
       - name: Fetch w3c-tr-archive documents
         run: relaton fetch-data w3c-tr-archive
       - name: Fetch w3c-rdf documents

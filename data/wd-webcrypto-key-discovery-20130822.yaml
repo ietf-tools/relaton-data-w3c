@@ -1,0 +1,69 @@
+---
+id: W3CWD-webcrypto-key-discovery-20130822
+title:
+- content: WebCrypto Key Discovery
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-webcrypto-key-discovery-20130822/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webcrypto-key-discovery-20130822
+  type: W3C
+  primary: true
+docnumber: WD-webcrypto-key-discovery-20130822
+date:
+- type: published
+  value: '2013-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-08-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webcrypto-key-discovery-20130108
+    docid:
+    - id: W3C WD-webcrypto-key-discovery-20130108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webcrypto-key-discovery-20130108
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webcrypto-key-discovery-20130822
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Cryptography Working Group

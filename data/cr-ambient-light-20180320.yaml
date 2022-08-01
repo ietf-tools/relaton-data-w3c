@@ -1,0 +1,69 @@
+---
+id: W3CCR-ambient-light-20180320
+title:
+- content: Ambient Light Sensor
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-ambient-light-20180320/
+  type: src
+type: standard
+docid:
+- id: W3C CR-ambient-light-20180320
+  type: W3C
+  primary: true
+docnumber: CR-ambient-light-20180320
+date:
+- type: published
+  value: '2018-03-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-03-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ambient-light-20171018
+    docid:
+    - id: W3C WD-ambient-light-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ambient-light-20171018
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cambient-light
+    docid:
+    - id: W3C ambient-light
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ambient-light
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ambient-light-20180320
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

@@ -1,0 +1,66 @@
+---
+id: W3CPR-vocab-data-cube-20131217
+title:
+- content: The RDF Data Cube Vocabulary
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-vocab-data-cube-20131217/
+  type: src
+type: standard
+docid:
+- id: W3C PR-vocab-data-cube-20131217
+  type: W3C
+  primary: true
+docnumber: PR-vocab-data-cube-20131217
+date:
+- type: published
+  value: '2013-12-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dave Reynolds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Cyganiak
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-12-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-vocab-data-cube-20130625
+    docid:
+    - id: W3C CR-vocab-data-cube-20130625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-vocab-data-cube-20130625
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-vocab-data-cube-20131217
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Government Linked Data Working Group

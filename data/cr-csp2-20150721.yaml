@@ -1,0 +1,89 @@
+---
+id: W3CCR-CSP2-20150721
+title:
+- content: Content Security Policy Level 2
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/CR-CSP2-20150721/
+  type: src
+type: standard
+docid:
+- id: W3C CR-CSP2-20150721
+  type: W3C
+  primary: true
+docnumber: CR-CSP2-20150721
+date:
+- type: published
+  value: '2015-07-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Barth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Daniel Veditz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-07-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-CSP2-20150219
+    docid:
+    - id: W3C CR-CSP2-20150219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-CSP2-20150219
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3CCSP2
+    docid:
+    - id: W3C CSP2
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CSP2
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-CSP2-20150721
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

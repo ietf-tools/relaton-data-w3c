@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-xquery-requirements-20070323
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-requirements-20050603
+    docid:
+    - id: W3C WD-xquery-requirements-20050603
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-requirements-20050603
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-requirements-20031112
+    docid:
+    - id: W3C WD-xquery-requirements-20031112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-requirements-20031112
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xquery-requirements
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,36 @@
+---
+id: W3CNOTE-webbroker
+title:
+- content: 'WebBroker: Distributed Object Communication on the Web'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/1998/NOTE-webbroker
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-webbroker
+  type: W3C
+  primary: true
+docnumber: NOTE-webbroker
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-webbroker-19980511
+    docid:
+    - id: W3C NOTE-webbroker-19980511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-webbroker-19980511
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-webbroker
+fetched: '2022-08-01'
+doctype: recommendation

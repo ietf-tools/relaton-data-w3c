@@ -37,10 +37,30 @@ relation:
     formattedref:
       content: W3C SPSD-DOM-Level-2-HTML-20201103
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-DOM-Level-2-HTML-20030107
+    docid:
+    - id: W3C REC-DOM-Level-2-HTML-20030107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-DOM-Level-2-HTML-20030107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-DOM-Level-2-HTML-20021108
+    docid:
+    - id: W3C PR-DOM-Level-2-HTML-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-DOM-Level-2-HTML-20021108
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: DOM-Level-2-HTML
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

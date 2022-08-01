@@ -1,0 +1,76 @@
+---
+id: W3CDNOTE-alreq-gap-20211125
+title:
+- content: Arabic and Persian Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/DNOTE-alreq-gap-20211125/
+  type: src
+type: standard
+docid:
+- id: W3C DNOTE-alreq-gap-20211125
+  type: W3C
+  primary: true
+docnumber: DNOTE-alreq-gap-20211125
+date:
+- type: published
+  value: '2021-11-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shervin Afshar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-11-25'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-alreq-gap-20210521
+    docid:
+    - id: W3C WD-alreq-gap-20210521
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-alreq-gap-20210521
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cgap-analysis
+    docid:
+    - id: W3C gap-analysis
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gap-analysis
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-alreq-gap-20211125
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

@@ -1,0 +1,66 @@
+---
+id: W3CCR-turtle-20130219
+title:
+- content: Turtle
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-turtle-20130219/
+  type: src
+type: standard
+docid:
+- id: W3C CR-turtle-20130219
+  type: W3C
+  primary: true
+docnumber: CR-turtle-20130219
+date:
+- type: published
+  value: '2013-02-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eric Prud'hommeaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gavin Carothers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-02-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-turtle-20120710
+    docid:
+    - id: W3C WD-turtle-20120710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-turtle-20120710
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-turtle-20130219
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Working Group

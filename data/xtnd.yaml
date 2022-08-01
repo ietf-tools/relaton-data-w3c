@@ -1,0 +1,36 @@
+---
+id: W3Cxtnd
+title:
+- content: XTND - XML Transition Network Definition
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xtnd
+  type: src
+type: standard
+docid:
+- id: W3C xtnd
+  type: W3C
+  primary: true
+docnumber: xtnd
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xtnd-20001121
+    docid:
+    - id: W3C NOTE-xtnd-20001121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xtnd-20001121
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xtnd
+fetched: '2022-08-01'
+doctype: recommendation

@@ -1,0 +1,109 @@
+---
+id: W3CWD-payment-method-basic-card-20200213
+title:
+- content: 'Payment Method: Basic Card'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-payment-method-basic-card-20200213/
+  type: src
+type: standard
+docid:
+- id: W3C WD-payment-method-basic-card-20200213
+  type: W3C
+  primary: true
+docnumber: WD-payment-method-basic-card-20200213
+date:
+- type: published
+  value: '2020-02-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Bateman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Domenic Denicola
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roy McElmurry
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zach Koch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-02-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-payment-method-basic-card-20200212
+    docid:
+    - id: W3C WD-payment-method-basic-card-20200212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-method-basic-card-20200212
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpayment-method-basic-card
+    docid:
+    - id: W3C payment-method-basic-card
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C payment-method-basic-card
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-payment-method-basic-card-20200213
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Payments Working Group

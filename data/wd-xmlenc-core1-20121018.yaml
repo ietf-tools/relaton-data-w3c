@@ -1,0 +1,86 @@
+---
+id: W3CWD-xmlenc-core1-20121018
+title:
+- content: XML Encryption Syntax and Processing Version 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/WD-xmlenc-core1-20121018/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xmlenc-core1-20121018
+  type: W3C
+  primary: true
+docnumber: WD-xmlenc-core1-20121018
+date:
+- type: published
+  value: '2012-10-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Donald Eastlake
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joseph Reagle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Thomas Roessler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-10-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xmlenc-core1-20120313
+    docid:
+    - id: W3C CR-xmlenc-core1-20120313
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmlenc-core1-20120313
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xmlenc-core1-20121018
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

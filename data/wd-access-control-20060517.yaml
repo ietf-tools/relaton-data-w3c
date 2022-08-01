@@ -1,0 +1,77 @@
+---
+id: W3CWD-access-control-20060517
+title:
+- content: Authorizing Read Access to XML Content Using the <?access-control?> Processing
+    Instruction 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/WD-access-control-20060517/
+  type: src
+type: standard
+docid:
+- id: W3C WD-access-control-20060517
+  type: W3C
+  primary: true
+docnumber: WD-access-control-20060517
+date:
+- type: published
+  value: '2006-05-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brad Porter
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matt Oshry
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: RJ Auburn
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-05-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-access-control-20050613
+    docid:
+    - id: W3C NOTE-access-control-20050613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-access-control-20050613
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-access-control-20060517
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Formats Working Group

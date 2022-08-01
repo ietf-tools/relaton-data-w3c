@@ -1,0 +1,69 @@
+---
+id: W3CCR-webvtt1-20180510
+title:
+- content: 'WebVTT: The Web Video Text Tracks Format'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-webvtt1-20180510/
+  type: src
+type: standard
+docid:
+- id: W3C CR-webvtt1-20180510
+  type: W3C
+  primary: true
+docnumber: CR-webvtt1-20180510
+date:
+- type: published
+  value: '2018-05-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Silvia Pfeiffer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-05-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webvtt1-20170808
+    docid:
+    - id: W3C WD-webvtt1-20170808
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webvtt1-20170808
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebvtt
+    docid:
+    - id: W3C webvtt
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webvtt
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-webvtt1-20180510
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Timed Text Working Group

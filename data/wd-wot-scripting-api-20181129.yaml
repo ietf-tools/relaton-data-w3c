@@ -1,0 +1,99 @@
+---
+id: W3CWD-wot-scripting-api-20181129
+title:
+- content: Web of Things (WoT) Scripting API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-wot-scripting-api-20181129/
+  type: src
+type: standard
+docid:
+- id: W3C WD-wot-scripting-api-20181129
+  type: W3C
+  primary: true
+docnumber: WD-wot-scripting-api-20181129
+date:
+- type: published
+  value: '2018-11-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Peintner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Johannes Hund
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kazuaki Nimura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zoltan Kis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-11-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wot-scripting-api-20180405
+    docid:
+    - id: W3C WD-wot-scripting-api-20180405
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-scripting-api-20180405
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwot-scripting-api
+    docid:
+    - id: W3C wot-scripting-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-scripting-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wot-scripting-api-20181129
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web of Things Working Group

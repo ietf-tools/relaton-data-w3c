@@ -1,0 +1,59 @@
+---
+id: W3CWD-csp-pinning-20150226
+title:
+- content: Content Security Policy Pinning
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-csp-pinning-20150226/
+  type: src
+type: standard
+docid:
+- id: W3C WD-csp-pinning-20150226
+  type: W3C
+  primary: true
+docnumber: WD-csp-pinning-20150226
+date:
+- type: published
+  value: '2015-02-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-02-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Ccsp-pinning
+    docid:
+    - id: W3C csp-pinning
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C csp-pinning
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-csp-pinning-20150226
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

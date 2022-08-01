@@ -1,0 +1,36 @@
+---
+id: W3Crdf-pics
+title:
+- content: PICS Rating Vocabularies in XML/RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/rdf-pics
+  type: src
+type: standard
+docid:
+- id: W3C rdf-pics
+  type: W3C
+  primary: true
+docnumber: rdf-pics
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-rdf-pics-20000327
+    docid:
+    - id: W3C NOTE-rdf-pics-20000327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rdf-pics-20000327
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: rdf-pics
+fetched: '2022-08-01'
+doctype: recommendation

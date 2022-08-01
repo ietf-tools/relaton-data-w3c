@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xmldsig-core1-explain-20130411
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xmldsig-core1-explain-20121018
+    docid:
+    - id: W3C NOTE-xmldsig-core1-explain-20121018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xmldsig-core1-explain-20121018
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xmldsig-core1-explain
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

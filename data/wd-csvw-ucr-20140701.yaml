@@ -1,0 +1,89 @@
+---
+id: W3CWD-csvw-ucr-20140701
+title:
+- content: 'CSV on the Web: Use Cases and Requirements'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-csvw-ucr-20140701/
+  type: src
+type: standard
+docid:
+- id: W3C WD-csvw-ucr-20140701
+  type: W3C
+  primary: true
+docnumber: WD-csvw-ucr-20140701
+date:
+- type: published
+  value: '2014-07-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Davide Ceolin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eric Stephan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeremy Tandy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-07-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-csvw-ucr-20140327
+    docid:
+    - id: W3C WD-csvw-ucr-20140327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-csvw-ucr-20140327
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cuse-cases-and-requirements
+    docid:
+    - id: W3C use-cases-and-requirements
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C use-cases-and-requirements
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-csvw-ucr-20140701
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: CSV on the Web Working Group

@@ -1,0 +1,66 @@
+---
+id: W3CCR-xmlsec-generic-hybrid-20110303
+title:
+- content: XML Security Generic Hybrid Ciphers
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/CR-xmlsec-generic-hybrid-20110303/
+  type: src
+type: standard
+docid:
+- id: W3C CR-xmlsec-generic-hybrid-20110303
+  type: W3C
+  primary: true
+docnumber: CR-xmlsec-generic-hybrid-20110303
+date:
+- type: published
+  value: '2011-03-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Magnus Nyström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-03-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmlsec-generic-hybrid-20100513
+    docid:
+    - id: W3C WD-xmlsec-generic-hybrid-20100513
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-generic-hybrid-20100513
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xmlsec-generic-hybrid-20110303
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

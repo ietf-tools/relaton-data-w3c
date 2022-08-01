@@ -1,0 +1,76 @@
+---
+id: W3CWD-xproc-20071129
+title:
+- content: 'XProc: An XML Pipeline Language'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/WD-xproc-20071129/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xproc-20071129
+  type: W3C
+  primary: true
+docnumber: WD-xproc-20071129
+date:
+- type: published
+  value: '2007-11-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Milowski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Henry S. Thompson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-11-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xproc-20070920
+    docid:
+    - id: W3C WD-xproc-20070920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xproc-20070920
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xproc-20071129
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Processing Model Working Group

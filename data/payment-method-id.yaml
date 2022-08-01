@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C PR-payment-method-id-20210930
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-payment-method-id-20190905
+    docid:
+    - id: W3C CR-payment-method-id-20190905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-method-id-20190905
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-payment-method-id-20170914
+    docid:
+    - id: W3C CR-payment-method-id-20170914
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-method-id-20170914
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-method-id-20161207
+    docid:
+    - id: W3C WD-payment-method-id-20161207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-method-id-20161207
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: payment-method-id
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

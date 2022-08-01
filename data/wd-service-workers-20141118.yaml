@@ -1,0 +1,79 @@
+---
+id: W3CWD-service-workers-20141118
+title:
+- content: Service Workers
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-service-workers-20141118/
+  type: src
+type: standard
+docid:
+- id: W3C WD-service-workers-20141118
+  type: W3C
+  primary: true
+docnumber: WD-service-workers-20141118
+date:
+- type: published
+  value: '2014-11-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Russell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jungkee Song
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-11-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-service-workers-20140508
+    docid:
+    - id: W3C WD-service-workers-20140508
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-service-workers-20140508
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cservice_worker
+    docid:
+    - id: W3C service_worker
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C service_worker
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-service-workers-20141118
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

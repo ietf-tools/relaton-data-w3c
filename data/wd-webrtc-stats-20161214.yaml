@@ -1,0 +1,79 @@
+---
+id: W3CWD-webrtc-stats-20161214
+title:
+- content: Identifiers for WebRTC's Statistics API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-webrtc-stats-20161214/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webrtc-stats-20161214
+  type: W3C
+  primary: true
+docnumber: WD-webrtc-stats-20161214
+date:
+- type: published
+  value: '2016-12-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Harald Alvestrand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Varun Singh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webrtc-stats-20160921
+    docid:
+    - id: W3C WD-webrtc-stats-20160921
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-stats-20160921
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebrtc-stats
+    docid:
+    - id: W3C webrtc-stats
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webrtc-stats
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webrtc-stats-20161214
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Real-Time Communications Working Group

@@ -1,0 +1,77 @@
+---
+id: W3CWD-wsdl20-extensions-20040803
+title:
+- content: 'Web Services Description Language (WSDL) Version 2.0 Part 2: Predefined
+    Extensions'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2004/WD-wsdl20-extensions-20040803
+  type: src
+type: standard
+docid:
+- id: W3C WD-wsdl20-extensions-20040803
+  type: W3C
+  primary: true
+docnumber: WD-wsdl20-extensions-20040803
+date:
+- type: published
+  value: '2004-08-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Amy Lewis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeffrey Schlimmer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Gudgin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2004-08-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wsdl20-patterns-20040326
+    docid:
+    - id: W3C WD-wsdl20-patterns-20040326
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsdl20-patterns-20040326
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wsdl20-extensions-20040803
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Description Working Group

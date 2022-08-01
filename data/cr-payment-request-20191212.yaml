@@ -1,0 +1,119 @@
+---
+id: W3CCR-payment-request-20191212
+title:
+- content: Payment Request API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/CR-payment-request-20191212/
+  type: src
+type: standard
+docid:
+- id: W3C CR-payment-request-20191212
+  type: W3C
+  primary: true
+docnumber: CR-payment-request-20191212
+date:
+- type: published
+  value: '2019-12-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Domenic Denicola
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roy McElmurry
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zach Koch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-payment-request-20190416
+    docid:
+    - id: W3C CR-payment-request-20190416
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20190416
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpayment-request
+    docid:
+    - id: W3C payment-request
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C payment-request
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-payment-request-20191212
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Payments Working Group

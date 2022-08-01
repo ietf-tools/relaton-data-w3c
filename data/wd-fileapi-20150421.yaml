@@ -1,0 +1,79 @@
+---
+id: W3CWD-FileAPI-20150421
+title:
+- content: File API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-FileAPI-20150421/
+  type: src
+type: standard
+docid:
+- id: W3C WD-FileAPI-20150421
+  type: W3C
+  primary: true
+docnumber: WD-FileAPI-20150421
+date:
+- type: published
+  value: '2015-04-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arun Ranganathan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonas Sicking
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-04-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-FileAPI-20130912
+    docid:
+    - id: W3C WD-FileAPI-20130912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-FileAPI-20130912
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3CFileAPI
+    docid:
+    - id: W3C FileAPI
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C FileAPI
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-FileAPI-20150421
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

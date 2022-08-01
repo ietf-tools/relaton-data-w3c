@@ -1,0 +1,66 @@
+---
+id: W3CWD-orientation-event-20111201
+title:
+- content: DeviceOrientation Event Specification
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-orientation-event-20111201/
+  type: src
+type: standard
+docid:
+- id: W3C WD-orientation-event-20111201
+  type: W3C
+  primary: true
+docnumber: WD-orientation-event-20111201
+date:
+- type: published
+  value: '2011-12-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrei Popescu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Stephen Block
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-orientation-event-20110628
+    docid:
+    - id: W3C WD-orientation-event-20110628
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-orientation-event-20110628
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-orientation-event-20111201
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Geolocation Working Group

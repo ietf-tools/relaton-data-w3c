@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-vocab-dqv-20161215
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vocab-dqv-20151217
+    docid:
+    - id: W3C WD-vocab-dqv-20151217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-dqv-20151217
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: vocab-dqv
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

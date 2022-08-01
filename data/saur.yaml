@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-saur-20220705
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-saur-20220413
+    docid:
+    - id: W3C DNOTE-saur-20220413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-saur-20220413
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-saur-20210928
+    docid:
+    - id: W3C WD-saur-20210928
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-saur-20210928
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: saur
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

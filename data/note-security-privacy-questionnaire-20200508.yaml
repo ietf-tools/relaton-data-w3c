@@ -1,0 +1,76 @@
+---
+id: W3CNOTE-security-privacy-questionnaire-20200508
+title:
+- content: 'Self-Review Questionnaire: Security and Privacy'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/NOTE-security-privacy-questionnaire-20200508/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-security-privacy-questionnaire-20200508
+  type: W3C
+  primary: true
+docnumber: NOTE-security-privacy-questionnaire-20200508
+date:
+- type: published
+  value: '2020-05-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Snyder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Theresa O'Connor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-05-08'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-security-privacy-questionnaire-20190910
+    docid:
+    - id: W3C NOTE-security-privacy-questionnaire-20190910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-security-privacy-questionnaire-20190910
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Csecurity-questionnaire
+    docid:
+    - id: W3C security-questionnaire
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C security-questionnaire
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-security-privacy-questionnaire-20200508
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group

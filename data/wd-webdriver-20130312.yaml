@@ -1,0 +1,66 @@
+---
+id: W3CWD-webdriver-20130312
+title:
+- content: WebDriver
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-webdriver-20130312/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webdriver-20130312
+  type: W3C
+  primary: true
+docnumber: WD-webdriver-20130312
+date:
+- type: published
+  value: '2013-03-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Burns
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Stewart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-03-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webdriver-20130117
+    docid:
+    - id: W3C WD-webdriver-20130117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20130117
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webdriver-20130312
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Browser Testing and Tools Working Group

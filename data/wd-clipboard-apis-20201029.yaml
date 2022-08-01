@@ -1,0 +1,79 @@
+---
+id: W3CWD-clipboard-apis-20201029
+title:
+- content: Clipboard API and events
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-clipboard-apis-20201029/
+  type: src
+type: standard
+docid:
+- id: W3C WD-clipboard-apis-20201029
+  type: W3C
+  primary: true
+docnumber: WD-clipboard-apis-20201029
+date:
+- type: published
+  value: '2020-10-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gary Kacmarcik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Grisha Lyukshin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-10-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-clipboard-apis-20200818
+    docid:
+    - id: W3C WD-clipboard-apis-20200818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clipboard-apis-20200818
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cclipboard-apis
+    docid:
+    - id: W3C clipboard-apis
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C clipboard-apis
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-clipboard-apis-20201029
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

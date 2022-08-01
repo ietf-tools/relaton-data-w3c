@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-DOM-Level-3-Val-20040127
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-DOM-Level-3-Val-20030730
+    docid:
+    - id: W3C CR-DOM-Level-3-Val-20030730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-DOM-Level-3-Val-20030730
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Level-3-Val-20021008
+    docid:
+    - id: W3C WD-DOM-Level-3-Val-20021008
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Level-3-Val-20021008
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: DOM-Level-3-Val
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

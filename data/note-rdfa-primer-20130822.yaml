@@ -1,0 +1,83 @@
+---
+id: W3CNOTE-rdfa-primer-20130822
+title:
+- content: RDFa 1.1 Primer - Second Edition
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/NOTE-rdfa-primer-20130822/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-rdfa-primer-20130822
+  type: W3C
+  primary: true
+docnumber: NOTE-rdfa-primer-20130822
+date:
+- type: published
+  value: '2013-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ben Adida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ivan Herman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Birbeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-08-22'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-rdfa-primer-20120607
+    docid:
+    - id: W3C NOTE-rdfa-primer-20120607
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rdfa-primer-20120607
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-rdfa-primer-20130822
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: RDFa Working Group

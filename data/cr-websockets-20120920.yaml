@@ -1,0 +1,56 @@
+---
+id: W3CCR-websockets-20120920
+title:
+- content: The WebSocket API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2012/CR-websockets-20120920/
+  type: src
+type: standard
+docid:
+- id: W3C CR-websockets-20120920
+  type: W3C
+  primary: true
+docnumber: CR-websockets-20120920
+date:
+- type: published
+  value: '2012-09-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-09-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-websockets-20120809
+    docid:
+    - id: W3C WD-websockets-20120809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-websockets-20120809
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-websockets-20120920
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

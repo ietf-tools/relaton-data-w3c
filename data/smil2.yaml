@@ -37,10 +37,30 @@ relation:
     formattedref:
       content: W3C REC-SMIL2-20050107
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-SMIL2-20050927
+    docid:
+    - id: W3C PR-SMIL2-20050927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SMIL2-20050927
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-SMIL2-20041105
+    docid:
+    - id: W3C PER-SMIL2-20041105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-SMIL2-20041105
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: SMIL2
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

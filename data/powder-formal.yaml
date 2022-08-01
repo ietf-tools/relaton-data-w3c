@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-powder-formal-20090901
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-powder-formal-20081114
+    docid:
+    - id: W3C WD-powder-formal-20081114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-powder-formal-20081114
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: powder-formal
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,66 @@
+---
+id: W3CPR-selectors-api-20121213
+title:
+- content: Selectors API Level 1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/PR-selectors-api-20121213/
+  type: src
+type: standard
+docid:
+- id: W3C PR-selectors-api-20121213
+  type: W3C
+  primary: true
+docnumber: PR-selectors-api-20121213
+date:
+- type: published
+  value: '2012-12-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anne van Kesteren
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lachlan Hunt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-selectors-api-20120628
+    docid:
+    - id: W3C WD-selectors-api-20120628
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selectors-api-20120628
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-selectors-api-20121213
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C WD-ltli-20201007
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ltli-20150423
+    docid:
+    - id: W3C WD-ltli-20150423
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ltli-20150423
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ltli-20060612
+    docid:
+    - id: W3C WD-ltli-20060612
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ltli-20060612
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ltli
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,66 @@
+---
+id: W3CNOTE-manifest-app-info-20200804
+title:
+- content: Web App Manifest - Application Information
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/NOTE-manifest-app-info-20200804/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-manifest-app-info-20200804
+  type: W3C
+  primary: true
+docnumber: NOTE-manifest-app-info-20200804
+date:
+- type: published
+  value: '2020-08-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Gustafson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-08-04'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-manifest-app-info-20200730
+    docid:
+    - id: W3C NOTE-manifest-app-info-20200730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-manifest-app-info-20200730
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmanifest-app-info
+    docid:
+    - id: W3C manifest-app-info
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C manifest-app-info
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-manifest-app-info-20200804
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Web Applications Working Group

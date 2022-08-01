@@ -1,0 +1,89 @@
+---
+id: W3CWD-web-share-20220530
+title:
+- content: Web Share API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-web-share-20220530/
+  type: src
+type: standard
+docid:
+- id: W3C WD-web-share-20220530
+  type: W3C
+  primary: true
+docnumber: WD-web-share-20220530
+date:
+- type: published
+  value: '2022-05-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eric Willigers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matt Giuca
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-web-share-20220527
+    docid:
+    - id: W3C WD-web-share-20220527
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-share-20220527
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-share
+    docid:
+    - id: W3C web-share
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-share
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-web-share-20220530
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

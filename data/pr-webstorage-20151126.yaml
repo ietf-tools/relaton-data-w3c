@@ -1,0 +1,79 @@
+---
+id: W3CPR-webstorage-20151126
+title:
+- content: Web Storage (Second Edition)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/PR-webstorage-20151126/
+  type: src
+type: standard
+docid:
+- id: W3C PR-webstorage-20151126
+  type: W3C
+  primary: true
+docnumber: PR-webstorage-20151126
+date:
+- type: published
+  value: '2015-11-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-11-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-webstorage-20150609
+    docid:
+    - id: W3C CR-webstorage-20150609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webstorage-20150609
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: W3CREC-webstorage-20130730
+    docid:
+    - id: W3C REC-webstorage-20130730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-webstorage-20130730
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebstorage
+    docid:
+    - id: W3C webstorage
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webstorage
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-webstorage-20151126
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

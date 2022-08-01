@@ -1,0 +1,76 @@
+---
+id: W3CWD-r2rml-20110920
+title:
+- content: 'R2RML: RDB to RDF Mapping Language'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-r2rml-20110920/
+  type: src
+type: standard
+docid:
+- id: W3C WD-r2rml-20110920
+  type: W3C
+  primary: true
+docnumber: WD-r2rml-20110920
+date:
+- type: published
+  value: '2011-09-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Cyganiak
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Seema Sundara
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Souripriya Das
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-09-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-r2rml-20110324
+    docid:
+    - id: W3C WD-r2rml-20110324
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-r2rml-20110324
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-r2rml-20110920
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDB2RDF Working Group

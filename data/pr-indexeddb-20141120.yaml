@@ -1,0 +1,119 @@
+---
+id: W3CPR-IndexedDB-20141120
+title:
+- content: Indexed Database API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/PR-IndexedDB-20141120/
+  type: src
+type: standard
+docid:
+- id: W3C PR-IndexedDB-20141120
+  type: W3C
+  primary: true
+docnumber: PR-IndexedDB-20141120
+date:
+- type: published
+  value: '2014-11-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrei Popescu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eliot Graff
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeremy Orlow
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonas Sicking
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joshua Bell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nikunj Mehta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-11-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-IndexedDB-20130704
+    docid:
+    - id: W3C CR-IndexedDB-20130704
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-IndexedDB-20130704
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/default
+    docid:
+    - id: W3C raw-file/default
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/default
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-IndexedDB-20141120
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

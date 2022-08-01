@@ -1,0 +1,66 @@
+---
+id: W3CCR-curie-20090116
+title:
+- content: CURIE Syntax 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2009/CR-curie-20090116
+  type: src
+type: standard
+docid:
+- id: W3C CR-curie-20090116
+  type: W3C
+  primary: true
+docnumber: CR-curie-20090116
+date:
+- type: published
+  value: '2009-01-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Birbeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane McCarron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2009-01-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-curie-20080506
+    docid:
+    - id: W3C WD-curie-20080506
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-curie-20080506
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-curie-20090116
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XHTML2 Working Group

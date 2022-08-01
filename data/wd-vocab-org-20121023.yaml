@@ -1,0 +1,56 @@
+---
+id: W3CWD-vocab-org-20121023
+title:
+- content: An organization ontology
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/WD-vocab-org-20121023/
+  type: src
+type: standard
+docid:
+- id: W3C WD-vocab-org-20121023
+  type: W3C
+  primary: true
+docnumber: WD-vocab-org-20121023
+date:
+- type: published
+  value: '2012-10-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dave Reynolds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-10-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-vocab-org-20120405
+    docid:
+    - id: W3C WD-vocab-org-20120405
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-org-20120405
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vocab-org-20121023
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Government Linked Data Working Group

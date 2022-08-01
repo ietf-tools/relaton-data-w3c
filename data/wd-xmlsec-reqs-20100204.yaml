@@ -1,0 +1,66 @@
+---
+id: W3CWD-xmlsec-reqs-20100204
+title:
+- content: XML Security 1.1 Requirements and Design Considerations
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2010/WD-xmlsec-reqs-20100204/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xmlsec-reqs-20100204
+  type: W3C
+  primary: true
+docnumber: WD-xmlsec-reqs-20100204
+date:
+- type: published
+  value: '2010-02-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Thomas Roessler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-02-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmlsec-reqs-20090226
+    docid:
+    - id: W3C WD-xmlsec-reqs-20090226
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-reqs-20090226
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xmlsec-reqs-20100204
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

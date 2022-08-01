@@ -1,0 +1,79 @@
+---
+id: W3CWD-css-display-3-20151015
+title:
+- content: CSS Display Module Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-css-display-3-20151015/
+  type: src
+type: standard
+docid:
+- id: W3C WD-css-display-3-20151015
+  type: W3C
+  primary: true
+docnumber: WD-css-display-3-20151015
+date:
+- type: published
+  value: '2015-10-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-10-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-display-3-20150721
+    docid:
+    - id: W3C WD-css-display-3-20150721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-display-3-20150721
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-display
+    docid:
+    - id: W3C css-display
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-display
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-display-3-20151015
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

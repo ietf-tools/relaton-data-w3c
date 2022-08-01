@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-pointerlock-20161027
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-pointerlock-20131217
+    docid:
+    - id: W3C CR-pointerlock-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-pointerlock-20131217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pointerlock-20120529
+    docid:
+    - id: W3C WD-pointerlock-20120529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pointerlock-20120529
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: pointerlock
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

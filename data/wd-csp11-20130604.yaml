@@ -1,0 +1,76 @@
+---
+id: W3CWD-CSP11-20130604
+title:
+- content: Content Security Policy 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-CSP11-20130604/
+  type: src
+type: standard
+docid:
+- id: W3C WD-CSP11-20130604
+  type: W3C
+  primary: true
+docnumber: WD-CSP11-20130604
+date:
+- type: published
+  value: '2013-06-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Barth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Daniel Veditz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-06-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-CSP11-20121213
+    docid:
+    - id: W3C WD-CSP11-20121213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP11-20121213
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-CSP11-20130604
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

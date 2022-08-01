@@ -1,0 +1,69 @@
+---
+id: W3CWD-webvtt1-20170808
+title:
+- content: 'WebVTT: The Web Video Text Tracks Format'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-webvtt1-20170808/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webvtt1-20170808
+  type: W3C
+  primary: true
+docnumber: WD-webvtt1-20170808
+date:
+- type: published
+  value: '2017-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Simon Pieters
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-08-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webvtt1-20170713
+    docid:
+    - id: W3C WD-webvtt1-20170713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webvtt1-20170713
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebvtt
+    docid:
+    - id: W3C webvtt
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webvtt
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webvtt1-20170808
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Timed Text Working Group

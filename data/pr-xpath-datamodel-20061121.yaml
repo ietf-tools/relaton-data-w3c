@@ -1,0 +1,96 @@
+---
+id: W3CPR-xpath-datamodel-20061121
+title:
+- content: XQuery 1.0 and XPath 2.0 Data Model (XDM)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/PR-xpath-datamodel-20061121/
+  type: src
+type: standard
+docid:
+- id: W3C PR-xpath-datamodel-20061121
+  type: W3C
+  primary: true
+docnumber: PR-xpath-datamodel-20061121
+date:
+- type: published
+  value: '2006-11-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ashok Malhotra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marton Nagy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mary Fernández
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-11-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xpath-datamodel-20060711
+    docid:
+    - id: W3C CR-xpath-datamodel-20060711
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xpath-datamodel-20060711
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-xpath-datamodel-20061121
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Query Working Group

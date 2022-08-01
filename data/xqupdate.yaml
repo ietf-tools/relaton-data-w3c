@@ -1,0 +1,36 @@
+---
+id: W3Cxqupdate
+title:
+- content: XQuery Update Facility
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xqupdate/
+  type: src
+type: standard
+docid:
+- id: W3C xqupdate
+  type: W3C
+  primary: true
+docnumber: xqupdate
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xqupdate-20060711
+    docid:
+    - id: W3C WD-xqupdate-20060711
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xqupdate-20060711
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xqupdate
+fetched: '2022-08-01'
+doctype: recommendation

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xml-c14n2-testcases-20130618
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xml-c14n2-testcases-20120105
+    docid:
+    - id: W3C WD-xml-c14n2-testcases-20120105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-c14n2-testcases-20120105
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xml-c14n2-testcases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,99 @@
+---
+id: W3CCR-2dcontext-20140821
+title:
+- content: HTML Canvas 2D Context
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-2dcontext-20140821/
+  type: src
+type: standard
+docid:
+- id: W3C CR-2dcontext-20140821
+  type: W3C
+  primary: true
+docnumber: CR-2dcontext-20140821
+date:
+- type: published
+  value: '2014-08-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jay Munro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rik Cabanier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tom Wiltzius
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-08-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-2dcontext-20140520
+    docid:
+    - id: W3C WD-2dcontext-20140520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-2dcontext-20140520
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Chtml5_canvas_CR
+    docid:
+    - id: W3C html5_canvas_CR
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html5_canvas_CR
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-2dcontext-20140821
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

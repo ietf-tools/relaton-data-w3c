@@ -1,0 +1,89 @@
+---
+id: W3CWD-vehicle-information-api-20170621
+title:
+- content: Vehicle Information API Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-vehicle-information-api-20170621/
+  type: src
+type: standard
+docid:
+- id: W3C WD-vehicle-information-api-20170621
+  type: W3C
+  primary: true
+docnumber: WD-vehicle-information-api-20170621
+date:
+- type: published
+  value: '2017-06-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike Aro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Powell Kinney
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shinjiro Urata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-06-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-vehicle-information-api-20170605
+    docid:
+    - id: W3C WD-vehicle-information-api-20170605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vehicle-information-api-20170605
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cvehicle_information_api_specification.html
+    docid:
+    - id: W3C vehicle_information_api_specification.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vehicle_information_api_specification.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vehicle-information-api-20170621
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Automotive Working Group

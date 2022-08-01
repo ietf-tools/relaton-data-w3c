@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-dd-landscape-20071031
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dd-landscape-20060210
+    docid:
+    - id: W3C WD-dd-landscape-20060210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dd-landscape-20060210
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: dd-landscape
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

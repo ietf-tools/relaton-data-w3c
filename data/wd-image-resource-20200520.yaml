@@ -1,0 +1,89 @@
+---
+id: W3CWD-image-resource-20200520
+title:
+- content: Image Resource
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-image-resource-20200520/
+  type: src
+type: standard
+docid:
+- id: W3C WD-image-resource-20200520
+  type: W3C
+  primary: true
+docnumber: WD-image-resource-20200520
+date:
+- type: published
+  value: '2020-05-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Gustafson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rayan Kanso
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-05-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-image-resource-20200511
+    docid:
+    - id: W3C WD-image-resource-20200511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-resource-20200511
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cimage-resource
+    docid:
+    - id: W3C image-resource
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C image-resource
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-image-resource-20200520
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -1,0 +1,76 @@
+---
+id: W3CWD-xqupdate-20060711
+title:
+- content: XQuery Update Facility
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/WD-xqupdate-20060711/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xqupdate-20060711
+  type: W3C
+  primary: true
+docnumber: WD-xqupdate-20060711
+date:
+- type: published
+  value: '2006-07-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniela Florescu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Don Chamberlin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Robie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-07-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xqupdate-20060508
+    docid:
+    - id: W3C WD-xqupdate-20060508
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xqupdate-20060508
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xqupdate-20060711
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Query Working Group

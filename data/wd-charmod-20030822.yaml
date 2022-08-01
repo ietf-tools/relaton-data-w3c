@@ -1,0 +1,96 @@
+---
+id: W3CWD-charmod-20030822
+title:
+- content: Character Model for the World Wide Web 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/WD-charmod-20030822/
+  type: src
+type: standard
+docid:
+- id: W3C WD-charmod-20030822
+  type: W3C
+  primary: true
+docnumber: WD-charmod-20030822
+date:
+- type: published
+  value: '2003-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: François Yergeau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin J. Dürst
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Misha Wolf
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tex Texin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-08-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-charmod-20020430
+    docid:
+    - id: W3C WD-charmod-20020430
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-charmod-20020430
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-charmod-20030822
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

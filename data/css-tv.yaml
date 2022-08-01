@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-css-tv-20141014
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-tv-20030514
+    docid:
+    - id: W3C CR-css-tv-20030514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-tv-20030514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-tv-20020807
+    docid:
+    - id: W3C CR-css-tv-20020807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-tv-20020807
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-tv
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

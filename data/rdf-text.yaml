@@ -1,0 +1,36 @@
+---
+id: W3Crdf-text
+title:
+- content: 'rdf:text: A Datatype for Internationalized Text'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/rdf-text/
+  type: src
+type: standard
+docid:
+- id: W3C rdf-text
+  type: W3C
+  primary: true
+docnumber: rdf-text
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-text-20081202
+    docid:
+    - id: W3C WD-rdf-text-20081202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-text-20081202
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: rdf-text
+fetched: '2022-08-01'
+doctype: recommendation

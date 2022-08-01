@@ -27,10 +27,50 @@ relation:
     formattedref:
       content: W3C NOTE-css-mobile-20141014
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-mobile-20081210
+    docid:
+    - id: W3C CR-css-mobile-20081210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-mobile-20081210
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-mobile-20071019
+    docid:
+    - id: W3C WD-css-mobile-20071019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-mobile-20071019
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-mobile-20061208
+    docid:
+    - id: W3C WD-css-mobile-20061208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-mobile-20061208
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-mobile-20020725
+    docid:
+    - id: W3C CR-css-mobile-20020725
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-mobile-20020725
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-mobile
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

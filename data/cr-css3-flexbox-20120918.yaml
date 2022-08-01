@@ -1,0 +1,76 @@
+---
+id: W3CCR-css3-flexbox-20120918
+title:
+- content: CSS Flexible Box Layout Module
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-css3-flexbox-20120918/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css3-flexbox-20120918
+  type: W3C
+  primary: true
+docnumber: CR-css3-flexbox-20120918
+date:
+- type: published
+  value: '2012-09-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Mogilevsky
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-09-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css3-flexbox-20120612
+    docid:
+    - id: W3C WD-css3-flexbox-20120612
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-flexbox-20120612
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css3-flexbox-20120918
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

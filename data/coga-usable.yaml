@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-coga-usable-20210429
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-coga-usable-20201211
+    docid:
+    - id: W3C WD-coga-usable-20201211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-coga-usable-20201211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-coga-usable-20190716
+    docid:
+    - id: W3C WD-coga-usable-20190716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-coga-usable-20190716
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-coga-usable-20181211
+    docid:
+    - id: W3C WD-coga-usable-20181211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-coga-usable-20181211
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: coga-usable
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

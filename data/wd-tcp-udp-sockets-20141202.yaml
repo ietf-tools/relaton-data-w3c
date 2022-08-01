@@ -1,0 +1,69 @@
+---
+id: W3CWD-tcp-udp-sockets-20141202
+title:
+- content: TCP and UDP Socket API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-tcp-udp-sockets-20141202/
+  type: src
+type: standard
+docid:
+- id: W3C WD-tcp-udp-sockets-20141202
+  type: W3C
+  primary: true
+docnumber: WD-tcp-udp-sockets-20141202
+date:
+- type: published
+  value: '2014-12-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Claes Nilsson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-raw-sockets-20130514
+    docid:
+    - id: W3C WD-raw-sockets-20130514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-raw-sockets-20130514
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ctcp-udp-sockets
+    docid:
+    - id: W3C tcp-udp-sockets
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C tcp-udp-sockets
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-tcp-udp-sockets-20141202
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: System Applications Working Group

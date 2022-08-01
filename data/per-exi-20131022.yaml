@@ -1,0 +1,86 @@
+---
+id: W3CPER-exi-20131022
+title:
+- content: Efficient XML Interchange (EXI) Format 1.0 (Second Edition)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PER-exi-20131022/
+  type: src
+type: standard
+docid:
+- id: W3C PER-exi-20131022
+  type: W3C
+  primary: true
+docnumber: PER-exi-20131022
+date:
+- type: published
+  value: '2013-10-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Peintner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Schneider
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rumen Kyusakov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Takuki Kamiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-exi-20110310
+    docid:
+    - id: W3C REC-exi-20110310
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-exi-20110310
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-exi-20131022
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Efficient Extensible Interchange Working Group

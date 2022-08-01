@@ -1,0 +1,69 @@
+---
+id: W3CWD-fetch-metadata-20191125
+title:
+- content: Fetch Metadata Request Headers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/WD-fetch-metadata-20191125/
+  type: src
+type: standard
+docid:
+- id: W3C WD-fetch-metadata-20191125
+  type: W3C
+  primary: true
+docnumber: WD-fetch-metadata-20191125
+date:
+- type: published
+  value: '2019-11-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-11-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-fetch-metadata-20190627
+    docid:
+    - id: W3C WD-fetch-metadata-20190627
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-fetch-metadata-20190627
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebappsec-fetch-metadata
+    docid:
+    - id: W3C webappsec-fetch-metadata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-fetch-metadata
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-fetch-metadata-20191125
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

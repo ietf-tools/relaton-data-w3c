@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-swbp-specified-values-20050517
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-swbp-specified-values-20040803
+    docid:
+    - id: W3C WD-swbp-specified-values-20040803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-swbp-specified-values-20040803
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: swbp-specified-values
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

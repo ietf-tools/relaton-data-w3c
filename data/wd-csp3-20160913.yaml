@@ -1,0 +1,58 @@
+---
+id: W3CWD-CSP3-20160913
+title:
+- content: Content Security Policy Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-CSP3-20160913/
+  type: src
+type: standard
+docid:
+- id: W3C WD-CSP3-20160913
+  type: W3C
+  primary: true
+docnumber: WD-CSP3-20160913
+date:
+- type: published
+  value: '2016-09-13'
+revdate: '2016-09-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-CSP3-20160901
+    docid:
+    - id: W3C WD-CSP3-20160901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP3-20160901
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebappsec-csp
+    docid:
+    - id: W3C webappsec-csp
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-csp
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-CSP3-20160913
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

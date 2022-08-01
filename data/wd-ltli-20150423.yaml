@@ -1,0 +1,79 @@
+---
+id: W3CWD-ltli-20150423
+title:
+- content: Language Tags and Locale Identifiers for the World Wide Web
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-ltli-20150423/
+  type: src
+type: standard
+docid:
+- id: W3C WD-ltli-20150423
+  type: W3C
+  primary: true
+docnumber: WD-ltli-20150423
+date:
+- type: published
+  value: '2015-04-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Felix Sasaki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-04-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ltli-20060612
+    docid:
+    - id: W3C WD-ltli-20060612
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ltli-20060612
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cltli
+    docid:
+    - id: W3C ltli
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ltli
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-ltli-20150423
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

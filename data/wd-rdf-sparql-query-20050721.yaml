@@ -1,0 +1,66 @@
+---
+id: W3CWD-rdf-sparql-query-20050721
+title:
+- content: SPARQL Query Language for RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2005/WD-rdf-sparql-query-20050721/
+  type: src
+type: standard
+docid:
+- id: W3C WD-rdf-sparql-query-20050721
+  type: W3C
+  primary: true
+docnumber: WD-rdf-sparql-query-20050721
+date:
+- type: published
+  value: '2005-07-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andy Seaborne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eric Prud'hommeaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-07-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf-sparql-query-20050419
+    docid:
+    - id: W3C WD-rdf-sparql-query-20050419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-sparql-query-20050419
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdf-sparql-query-20050721
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SPARQL Working Group

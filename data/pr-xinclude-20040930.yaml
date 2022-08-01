@@ -1,0 +1,66 @@
+---
+id: W3CPR-xinclude-20040930
+title:
+- content: XML Inclusions (XInclude) Version 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2004/PR-xinclude-20040930/
+  type: src
+type: standard
+docid:
+- id: W3C PR-xinclude-20040930
+  type: W3C
+  primary: true
+docnumber: PR-xinclude-20040930
+date:
+- type: published
+  value: '2004-09-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Orchard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2004-09-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xinclude-20040413
+    docid:
+    - id: W3C CR-xinclude-20040413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xinclude-20040413
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-xinclude-20040930
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

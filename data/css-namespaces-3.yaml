@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-css-namespaces-3-20140320
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-css3-namespace-20110929
+    docid:
+    - id: W3C REC-css3-namespace-20110929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-css3-namespace-20110929
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-namespaces-3
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,46 @@
+---
+id: W3CCSP
+title:
+- content: Content Security Policy 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/CSP/
+  type: src
+type: standard
+docid:
+- id: W3C CSP
+  type: W3C
+  primary: true
+docnumber: CSP
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CCR-CSP-20121115
+    docid:
+    - id: W3C CR-CSP-20121115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-CSP-20121115
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSP-20111129
+    docid:
+    - id: W3C WD-CSP-20111129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP-20111129
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: CSP
+fetched: '2022-08-01'
+doctype: recommendation

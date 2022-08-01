@@ -1,0 +1,86 @@
+---
+id: W3CCR-sparql11-protocol-20121108
+title:
+- content: SPARQL 1.1 Protocol
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-sparql11-protocol-20121108/
+  type: src
+type: standard
+docid:
+- id: W3C CR-sparql11-protocol-20121108
+  type: W3C
+  primary: true
+docnumber: CR-sparql11-protocol-20121108
+date:
+- type: published
+  value: '2012-11-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elias Torres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gregory Todd Williams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kendall Grant Clark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lee Feigenbaum
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-11-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-sparql11-protocol-20120105
+    docid:
+    - id: W3C WD-sparql11-protocol-20120105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql11-protocol-20120105
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-sparql11-protocol-20121108
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SPARQL Working Group

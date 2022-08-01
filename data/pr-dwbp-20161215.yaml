@@ -1,0 +1,89 @@
+---
+id: W3CPR-dwbp-20161215
+title:
+- content: Data on the Web Best Practices
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/PR-dwbp-20161215/
+  type: src
+type: standard
+docid:
+- id: W3C PR-dwbp-20161215
+  type: W3C
+  primary: true
+docnumber: PR-dwbp-20161215
+date:
+- type: published
+  value: '2016-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernadette Farias Loscio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Caroline Burle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Newton Calegari
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-dwbp-20160830
+    docid:
+    - id: W3C CR-dwbp-20160830
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-dwbp-20160830
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cbp.html
+    docid:
+    - id: W3C bp.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C bp.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-dwbp-20161215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Data on the Web Best Practices Working Group

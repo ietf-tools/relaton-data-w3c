@@ -1,0 +1,89 @@
+---
+id: W3CPR-html-media-capture-20171128
+title:
+- content: HTML Media Capture
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/PR-html-media-capture-20171128/
+  type: src
+type: standard
+docid:
+- id: W3C PR-html-media-capture-20171128
+  type: W3C
+  primary: true
+docnumber: PR-html-media-capture-20171128
+date:
+- type: published
+  value: '2017-11-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dominique Hazaël-Massieux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilkka Oksanen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-11-28'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-html-media-capture-20170831
+    docid:
+    - id: W3C CR-html-media-capture-20170831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-html-media-capture-20170831
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Chtml-media-capture
+    docid:
+    - id: W3C html-media-capture
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-media-capture
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-html-media-capture-20171128
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

@@ -1,0 +1,66 @@
+---
+id: W3CCR-ccxml-20100401
+title:
+- content: 'Voice Browser Call Control: CCXML Version 1.0'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2010/CR-ccxml-20100401/
+  type: src
+type: standard
+docid:
+- id: W3C CR-ccxml-20100401
+  type: W3C
+  primary: true
+docnumber: CR-ccxml-20100401
+date:
+- type: published
+  value: '2010-04-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Scott
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paolo Baggia
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-04-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ccxml-20070119
+    docid:
+    - id: W3C WD-ccxml-20070119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ccxml-20070119
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ccxml-20100401
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Voice Browser Working Group

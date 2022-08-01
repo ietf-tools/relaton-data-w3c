@@ -1,0 +1,66 @@
+---
+id: W3CWD-discovery-api-20121004
+title:
+- content: Network Service Discovery
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/WD-discovery-api-20121004/
+  type: src
+type: standard
+docid:
+- id: W3C WD-discovery-api-20121004
+  type: W3C
+  primary: true
+docnumber: WD-discovery-api-20121004
+date:
+- type: published
+  value: '2012-10-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Clarke Stevens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rich Tibbett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-10-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-discovery-api-20120807
+    docid:
+    - id: W3C WD-discovery-api-20120807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-discovery-api-20120807
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-discovery-api-20121004
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

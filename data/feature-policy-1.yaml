@@ -1,0 +1,36 @@
+---
+id: W3Cfeature-policy-1
+title:
+- content: Feature Policy
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/feature-policy-1/
+  type: src
+type: standard
+docid:
+- id: W3C feature-policy-1
+  type: W3C
+  primary: true
+docnumber: feature-policy-1
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-feature-policy-1-20190416
+    docid:
+    - id: W3C WD-feature-policy-1-20190416
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-feature-policy-1-20190416
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: feature-policy-1
+fetched: '2022-08-01'
+doctype: recommendation

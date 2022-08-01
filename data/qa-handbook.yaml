@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-qa-handbook-20050906
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-qa-handbook-20041122
+    docid:
+    - id: W3C NOTE-qa-handbook-20041122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-qa-handbook-20041122
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: qa-handbook
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

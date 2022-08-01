@@ -1,0 +1,36 @@
+---
+id: W3Cruby-implementation
+title:
+- content: Implementing the Ruby Module
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/ruby-implementation/
+  type: src
+type: standard
+docid:
+- id: W3C ruby-implementation
+  type: W3C
+  primary: true
+docnumber: ruby-implementation
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-ruby-implementation-20010531
+    docid:
+    - id: W3C NOTE-ruby-implementation-20010531
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-ruby-implementation-20010531
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: ruby-implementation
+fetched: '2022-08-01'
+doctype: recommendation

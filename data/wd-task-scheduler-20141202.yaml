@@ -1,0 +1,69 @@
+---
+id: W3CWD-task-scheduler-20141202
+title:
+- content: Task Scheduler API Specification
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-task-scheduler-20141202/
+  type: src
+type: standard
+docid:
+- id: W3C WD-task-scheduler-20141202
+  type: W3C
+  primary: true
+docnumber: WD-task-scheduler-20141202
+date:
+- type: published
+  value: '2014-12-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mahesh Kulkarni
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-web-alarms-20130205
+    docid:
+    - id: W3C WD-web-alarms-20130205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-alarms-20130205
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-alarms
+    docid:
+    - id: W3C web-alarms
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-alarms
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-task-scheduler-20141202
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: System Applications Working Group

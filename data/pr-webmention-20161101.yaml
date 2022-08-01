@@ -1,0 +1,69 @@
+---
+id: W3CPR-webmention-20161101
+title:
+- content: Webmention
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/PR-webmention-20161101/
+  type: src
+type: standard
+docid:
+- id: W3C PR-webmention-20161101
+  type: W3C
+  primary: true
+docnumber: PR-webmention-20161101
+date:
+- type: published
+  value: '2016-11-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Parecki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-11-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-webmention-20160524
+    docid:
+    - id: W3C CR-webmention-20160524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webmention-20160524
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cdraft
+    docid:
+    - id: W3C draft
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C draft
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-webmention-20161101
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Social Web Working Group

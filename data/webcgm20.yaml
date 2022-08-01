@@ -37,10 +37,20 @@ relation:
     formattedref:
       content: W3C SPSD-webcgm20-20191205
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-webcgm20-20061017
+    docid:
+    - id: W3C PR-webcgm20-20061017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-webcgm20-20061017
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webcgm20
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

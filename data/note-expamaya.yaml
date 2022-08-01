@@ -1,0 +1,36 @@
+---
+id: W3CNOTE-expamaya
+title:
+- content: 'Amaya Testbed Environments: the Java and ILU versions of Amaya'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/NOTE-expamaya
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-expamaya
+  type: W3C
+  primary: true
+docnumber: NOTE-expamaya
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-expamaya-971028
+    docid:
+    - id: W3C NOTE-expamaya-971028
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-expamaya-971028
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-expamaya
+fetched: '2022-08-01'
+doctype: recommendation

@@ -1,0 +1,69 @@
+---
+id: W3CWD-mst-content-hint-20201202
+title:
+- content: MediaStreamTrack Content Hints
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-mst-content-hint-20201202/
+  type: src
+type: standard
+docid:
+- id: W3C WD-mst-content-hint-20201202
+  type: W3C
+  primary: true
+docnumber: WD-mst-content-hint-20201202
+date:
+- type: published
+  value: '2020-12-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Harald Alvestrand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-12-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mst-content-hint-20201130
+    docid:
+    - id: W3C WD-mst-content-hint-20201130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mst-content-hint-20201130
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmst-content-hint
+    docid:
+    - id: W3C mst-content-hint
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mst-content-hint
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mst-content-hint-20201202
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Real-Time Communications Working Group

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-SVGTiny12-20081222
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-SVGTiny12-20081117
+    docid:
+    - id: W3C PR-SVGTiny12-20081117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SVGTiny12-20081117
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: SVGTiny12
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

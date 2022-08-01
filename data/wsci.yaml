@@ -1,0 +1,36 @@
+---
+id: W3Cwsci
+title:
+- content: Web Service Choreography Interface (WSCI) 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/wsci
+  type: src
+type: standard
+docid:
+- id: W3C wsci
+  type: W3C
+  primary: true
+docnumber: wsci
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-wsci-20020808
+    docid:
+    - id: W3C NOTE-wsci-20020808
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-wsci-20020808
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: wsci
+fetched: '2022-08-01'
+doctype: recommendation

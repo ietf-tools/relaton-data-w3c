@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-tabular-metadata-20151217
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-tabular-metadata-20140710
+    docid:
+    - id: W3C WD-tabular-metadata-20140710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tabular-metadata-20140710
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: tabular-metadata
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

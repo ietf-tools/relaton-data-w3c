@@ -1,0 +1,79 @@
+---
+id: W3CCR-activitystreams-core-20161215
+title:
+- content: Activity Streams 2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/CR-activitystreams-core-20161215/
+  type: src
+type: standard
+docid:
+- id: W3C CR-activitystreams-core-20161215
+  type: W3C
+  primary: true
+docnumber: CR-activitystreams-core-20161215
+date:
+- type: published
+  value: '2016-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Evan Prodromou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: James Snell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-activitystreams-core-20160906
+    docid:
+    - id: W3C CR-activitystreams-core-20160906
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-activitystreams-core-20160906
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccore
+    docid:
+    - id: W3C core
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C core
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-activitystreams-core-20161215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Social Web Working Group

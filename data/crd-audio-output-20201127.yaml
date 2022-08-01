@@ -1,0 +1,79 @@
+---
+id: W3CCRD-audio-output-20201127
+title:
+- content: Audio Output Devices API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/CRD-audio-output-20201127/
+  type: src
+type: standard
+docid:
+- id: W3C CRD-audio-output-20201127
+  type: W3C
+  primary: true
+docnumber: CRD-audio-output-20201127
+date:
+- type: published
+  value: '2020-11-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Guido Urdaneta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Justin Uberti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-11-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-audio-output-20171003
+    docid:
+    - id: W3C CR-audio-output-20171003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-audio-output-20171003
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmediacapture-output
+    docid:
+    - id: W3C mediacapture-output
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediacapture-output
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-audio-output-20201127
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Real-Time Communications Working Group

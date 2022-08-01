@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xaur-20210825
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xaur-20200916
+    docid:
+    - id: W3C WD-xaur-20200916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xaur-20200916
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xaur
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

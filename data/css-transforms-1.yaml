@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C CR-css-transforms-1-20190214
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-transforms-1-20181130
+    docid:
+    - id: W3C WD-css-transforms-1-20181130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-transforms-1-20181130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-transforms-1-20171130
+    docid:
+    - id: W3C WD-css-transforms-1-20171130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-transforms-1-20171130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-transforms-1-20131126
+    docid:
+    - id: W3C WD-css-transforms-1-20131126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-transforms-1-20131126
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-transforms-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

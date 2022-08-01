@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xquery-sx-10-requirements-20170620
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-sx-10-requirements-20070323
+    docid:
+    - id: W3C WD-xquery-sx-10-requirements-20070323
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-sx-10-requirements-20070323
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xquery-sx-10-requirements
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

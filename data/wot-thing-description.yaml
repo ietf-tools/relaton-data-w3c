@@ -1,0 +1,56 @@
+---
+id: W3Cwot-thing-description
+title:
+- content: Web of Things (WoT) Thing Description
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/wot-thing-description/
+  type: src
+type: standard
+docid:
+- id: W3C wot-thing-description
+  type: W3C
+  primary: true
+docnumber: wot-thing-description
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CCR-wot-thing-description-20191106
+    docid:
+    - id: W3C CR-wot-thing-description-20191106
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wot-thing-description-20191106
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-thing-description-20181021
+    docid:
+    - id: W3C WD-wot-thing-description-20181021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description-20181021
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-thing-description-20170914
+    docid:
+    - id: W3C WD-wot-thing-description-20170914
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description-20170914
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: wot-thing-description
+fetched: '2022-08-01'
+doctype: recommendation

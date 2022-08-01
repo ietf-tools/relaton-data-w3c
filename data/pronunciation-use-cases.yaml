@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-pronunciation-use-cases-20200317
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pronunciation-use-cases-20190905
+    docid:
+    - id: W3C WD-pronunciation-use-cases-20190905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pronunciation-use-cases-20190905
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: pronunciation-use-cases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

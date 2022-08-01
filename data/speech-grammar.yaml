@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-speech-grammar-20040316
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-speech-grammar-20020626
+    docid:
+    - id: W3C CR-speech-grammar-20020626
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-speech-grammar-20020626
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: speech-grammar
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

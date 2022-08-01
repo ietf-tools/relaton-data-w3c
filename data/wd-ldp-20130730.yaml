@@ -1,0 +1,76 @@
+---
+id: W3CWD-ldp-20130730
+title:
+- content: Linked Data Platform 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-ldp-20130730/
+  type: src
+type: standard
+docid:
+- id: W3C WD-ldp-20130730
+  type: W3C
+  primary: true
+docnumber: WD-ldp-20130730
+date:
+- type: published
+  value: '2013-07-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ashok Malhotra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Arwe
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steve Speicher
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-07-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ldp-20130307
+    docid:
+    - id: W3C WD-ldp-20130307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ldp-20130307
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-ldp-20130730
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Linked Data Platform Working Group

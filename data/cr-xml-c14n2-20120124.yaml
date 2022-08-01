@@ -1,0 +1,86 @@
+---
+id: W3CCR-xml-c14n2-20120124
+title:
+- content: Canonical XML Version 2.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-xml-c14n2-20120124/
+  type: src
+type: standard
+docid:
+- id: W3C CR-xml-c14n2-20120124
+  type: W3C
+  primary: true
+docnumber: CR-xml-c14n2-20120124
+date:
+- type: published
+  value: '2012-01-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Glenn Marcy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Boyer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Pratik Datta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-01-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xml-c14n2-20110421
+    docid:
+    - id: W3C WD-xml-c14n2-20110421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-c14n2-20110421
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xml-c14n2-20120124
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

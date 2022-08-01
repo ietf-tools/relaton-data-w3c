@@ -1,0 +1,70 @@
+---
+id: W3CWD-screen-capture-20150210
+title:
+- content: Screen Capture
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-screen-capture-20150210/
+  type: src
+type: standard
+docid:
+- id: W3C WD-screen-capture-20150210
+  type: W3C
+  primary: true
+docnumber: WD-screen-capture-20150210
+date:
+- type: published
+  value: '2015-02-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Keith Griffin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-02-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cmediacapture-screen-share
+    docid:
+    - id: W3C mediacapture-screen-share
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediacapture-screen-share
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-screen-capture-20150210
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group
+- name: Web Real-Time Communications Working Group

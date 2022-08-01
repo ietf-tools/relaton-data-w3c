@@ -1,0 +1,46 @@
+---
+id: W3Cweb-animations
+title:
+- content: Web Animations 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/web-animations/
+  type: src
+type: standard
+docid:
+- id: W3C web-animations
+  type: W3C
+  primary: true
+docnumber: web-animations
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-animations-20140605
+    docid:
+    - id: W3C WD-web-animations-20140605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20140605
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-animations-20130625
+    docid:
+    - id: W3C WD-web-animations-20130625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20130625
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: web-animations
+fetched: '2022-08-01'
+doctype: recommendation

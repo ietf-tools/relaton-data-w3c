@@ -1,0 +1,56 @@
+---
+id: W3CWD-workers-20110901
+title:
+- content: Web Workers
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-workers-20110901/
+  type: src
+type: standard
+docid:
+- id: W3C WD-workers-20110901
+  type: W3C
+  primary: true
+docnumber: WD-workers-20110901
+date:
+- type: published
+  value: '2011-09-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-09-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-workers-20110310
+    docid:
+    - id: W3C WD-workers-20110310
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-workers-20110310
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-workers-20110901
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

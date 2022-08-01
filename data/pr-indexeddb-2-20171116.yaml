@@ -1,0 +1,79 @@
+---
+id: W3CPR-IndexedDB-2-20171116
+title:
+- content: Indexed Database API 2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/PR-IndexedDB-2-20171116/
+  type: src
+type: standard
+docid:
+- id: W3C PR-IndexedDB-2-20171116
+  type: W3C
+  primary: true
+docnumber: PR-IndexedDB-2-20171116
+date:
+- type: published
+  value: '2017-11-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ali Alabbas
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joshua Bell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-11-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-IndexedDB-2-20170810
+    docid:
+    - id: W3C CR-IndexedDB-2-20170810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-IndexedDB-2-20170810
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3CIndexedDB
+    docid:
+    - id: W3C IndexedDB
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C IndexedDB
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-IndexedDB-2-20171116
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

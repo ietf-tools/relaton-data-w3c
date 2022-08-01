@@ -1,0 +1,36 @@
+---
+id: W3Cweb-alarms
+title:
+- content: Web Alarms API Specification
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/web-alarms/
+  type: src
+type: standard
+docid:
+- id: W3C web-alarms
+  type: W3C
+  primary: true
+docnumber: web-alarms
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-alarms-20130205
+    docid:
+    - id: W3C WD-web-alarms-20130205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-alarms-20130205
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: web-alarms
+fetched: '2022-08-01'
+doctype: recommendation

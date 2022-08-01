@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-mathml-core-20220504
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mathml-core-20210816
+    docid:
+    - id: W3C WD-mathml-core-20210816
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mathml-core-20210816
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: mathml-core
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

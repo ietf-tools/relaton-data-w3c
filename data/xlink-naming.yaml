@@ -1,0 +1,36 @@
+---
+id: W3Cxlink-naming
+title:
+- content: XLink Markup Name Control
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xlink-naming/
+  type: src
+type: standard
+docid:
+- id: W3C xlink-naming
+  type: W3C
+  primary: true
+docnumber: xlink-naming
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xlink-naming-20001220
+    docid:
+    - id: W3C NOTE-xlink-naming-20001220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xlink-naming-20001220
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xlink-naming
+fetched: '2022-08-01'
+doctype: recommendation

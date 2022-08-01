@@ -1,0 +1,89 @@
+---
+id: W3CWD-service-workers-20150625
+title:
+- content: Service Workers
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-service-workers-20150625/
+  type: src
+type: standard
+docid:
+- id: W3C WD-service-workers-20150625
+  type: W3C
+  primary: true
+docnumber: WD-service-workers-20150625
+date:
+- type: published
+  value: '2015-06-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Russell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jake Archibald
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jungkee Song
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-06-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-service-workers-20150205
+    docid:
+    - id: W3C WD-service-workers-20150205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-service-workers-20150205
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cservice_worker
+    docid:
+    - id: W3C service_worker
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C service_worker
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-service-workers-20150625
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

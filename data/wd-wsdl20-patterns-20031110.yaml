@@ -1,0 +1,76 @@
+---
+id: W3CWD-wsdl20-patterns-20031110
+title:
+- content: 'Web Services Description Language (WSDL) Version 2.0 Part 2: Message Patterns'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/WD-wsdl20-patterns-20031110
+  type: src
+type: standard
+docid:
+- id: W3C WD-wsdl20-patterns-20031110
+  type: W3C
+  primary: true
+docnumber: WD-wsdl20-patterns-20031110
+date:
+- type: published
+  value: '2003-11-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Amy Lewis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeffrey Schlimmer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Gudgin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-11-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wsdl12-patterns-20030611
+    docid:
+    - id: W3C WD-wsdl12-patterns-20030611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsdl12-patterns-20030611
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wsdl20-patterns-20031110
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Description Working Group

@@ -1,0 +1,36 @@
+---
+id: W3Cvocab-odrl
+title:
+- content: ODRL Vocabulary & Expression
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/vocab-odrl/
+  type: src
+type: standard
+docid:
+- id: W3C vocab-odrl
+  type: W3C
+  primary: true
+docnumber: vocab-odrl
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vocab-odrl-20160721
+    docid:
+    - id: W3C WD-vocab-odrl-20160721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-odrl-20160721
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: vocab-odrl
+fetched: '2022-08-01'
+doctype: recommendation

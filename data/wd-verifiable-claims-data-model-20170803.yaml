@@ -1,0 +1,89 @@
+---
+id: W3CWD-verifiable-claims-data-model-20170803
+title:
+- content: Verifiable Claims Data Model and Representations
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-verifiable-claims-data-model-20170803/
+  type: src
+type: standard
+docid:
+- id: W3C WD-verifiable-claims-data-model-20170803
+  type: W3C
+  primary: true
+docnumber: WD-verifiable-claims-data-model-20170803
+date:
+- type: published
+  value: '2017-08-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Burnett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-08-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cvc-data-model
+    docid:
+    - id: W3C vc-data-model
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vc-data-model
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-verifiable-claims-data-model-20170803
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Verifiable Credentials Working Group

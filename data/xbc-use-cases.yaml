@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xbc-use-cases-20050331
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xbc-use-cases-20041109
+    docid:
+    - id: W3C WD-xbc-use-cases-20041109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xbc-use-cases-20041109
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xbc-use-cases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

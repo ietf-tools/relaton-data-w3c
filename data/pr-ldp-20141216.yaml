@@ -1,0 +1,89 @@
+---
+id: W3CPR-ldp-20141216
+title:
+- content: Linked Data Platform 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/PR-ldp-20141216/
+  type: src
+type: standard
+docid:
+- id: W3C PR-ldp-20141216
+  type: W3C
+  primary: true
+docnumber: PR-ldp-20141216
+date:
+- type: published
+  value: '2014-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ashok Malhotra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Arwe
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steve Speicher
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ldp-20140916
+    docid:
+    - id: W3C WD-ldp-20140916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ldp-20140916
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cldp.html
+    docid:
+    - id: W3C ldp.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ldp.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-ldp-20141216
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Linked Data Platform Working Group

@@ -19,18 +19,38 @@ script:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCRD-epub-33-20220725
+    id: W3CCRD-epub-33-20220729
     docid:
-    - id: W3C CRD-epub-33-20220725
+    - id: W3C CRD-epub-33-20220729
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20220725
+      content: W3C CRD-epub-33-20220729
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-epub-33-20220527
+    docid:
+    - id: W3C CRD-epub-33-20220527
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-epub-33-20220527
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-epub-33-20211218
+    docid:
+    - id: W3C WD-epub-33-20211218
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-epub-33-20211218
       format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: epub-33
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -37,10 +37,30 @@ relation:
     formattedref:
       content: W3C REC-rdf-schema-20140225
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-schema-20031010
+    docid:
+    - id: W3C WD-rdf-schema-20031010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-schema-20031010
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-schema-20021112
+    docid:
+    - id: W3C WD-rdf-schema-20021112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-schema-20021112
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: rdf-schema
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

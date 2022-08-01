@@ -1,0 +1,76 @@
+---
+id: W3CPER-xmlbase-20080320
+title:
+- content: XML Base (Second Edition)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2008/PER-xmlbase-20080320/
+  type: src
+type: standard
+docid:
+- id: W3C PER-xmlbase-20080320
+  type: W3C
+  primary: true
+docnumber: PER-xmlbase-20080320
+date:
+- type: published
+  value: '2008-03-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Tobin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-03-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPER-xmlbase-20061220
+    docid:
+    - id: W3C PER-xmlbase-20061220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xmlbase-20061220
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: W3CREC-xmlbase-20010627
+    docid:
+    - id: W3C REC-xmlbase-20010627
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xmlbase-20010627
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-xmlbase-20080320
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

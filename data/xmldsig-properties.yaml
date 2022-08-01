@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C REC-xmldsig-properties-20130411
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xmldsig-properties-20110303
+    docid:
+    - id: W3C CR-xmldsig-properties-20110303
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmldsig-properties-20110303
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmldsig-properties-20100204
+    docid:
+    - id: W3C WD-xmldsig-properties-20100204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-properties-20100204
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmldsig-properties-20090430
+    docid:
+    - id: W3C WD-xmldsig-properties-20090430
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-properties-20090430
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xmldsig-properties
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

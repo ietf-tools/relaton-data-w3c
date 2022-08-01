@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-dial-primer-20100629
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dial-primer-20071101
+    docid:
+    - id: W3C WD-dial-primer-20071101
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dial-primer-20071101
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dial-primer-20061010
+    docid:
+    - id: W3C WD-dial-primer-20061010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dial-primer-20061010
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: dial-primer
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

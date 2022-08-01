@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-mobileOK-20090825
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mobileOK-20081117
+    docid:
+    - id: W3C WD-mobileOK-20081117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mobileOK-20081117
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mobileOK-20070504
+    docid:
+    - id: W3C WD-mobileOK-20070504
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mobileOK-20070504
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mobileOK-20060712
+    docid:
+    - id: W3C WD-mobileOK-20060712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mobileOK-20060712
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: mobileOK
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

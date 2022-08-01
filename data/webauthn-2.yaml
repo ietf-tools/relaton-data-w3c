@@ -28,10 +28,30 @@ relation:
     formattedref:
       content: W3C REC-webauthn-2-20210408
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-webauthn-2-20201222
+    docid:
+    - id: W3C CR-webauthn-2-20201222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webauthn-2-20201222
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webauthn-2-20191126
+    docid:
+    - id: W3C WD-webauthn-2-20191126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webauthn-2-20191126
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webauthn-2
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

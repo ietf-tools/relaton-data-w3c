@@ -1,0 +1,36 @@
+---
+id: W3Cxmlquery-req
+title:
+- content: XML Query Requirements
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xmlquery-req
+  type: src
+type: standard
+docid:
+- id: W3C xmlquery-req
+  type: W3C
+  primary: true
+docnumber: xmlquery-req
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlquery-req-20010215
+    docid:
+    - id: W3C WD-xmlquery-req-20010215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlquery-req-20010215
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xmlquery-req
+fetched: '2022-08-01'
+doctype: recommendation

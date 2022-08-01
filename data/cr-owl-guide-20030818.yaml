@@ -1,0 +1,76 @@
+---
+id: W3CCR-owl-guide-20030818
+title:
+- content: OWL Web Ontology Language Guide
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/CR-owl-guide-20030818/
+  type: src
+type: standard
+docid:
+- id: W3C CR-owl-guide-20030818
+  type: W3C
+  primary: true
+docnumber: CR-owl-guide-20030818
+date:
+- type: published
+  value: '2003-08-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Welty
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Deborah L. McGuinness
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael K. Smith
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-08-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-owl-guide-20030331
+    docid:
+    - id: W3C WD-owl-guide-20030331
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-owl-guide-20030331
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-owl-guide-20030818
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web-Ontology Working Group

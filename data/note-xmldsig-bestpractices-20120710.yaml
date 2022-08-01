@@ -1,0 +1,63 @@
+---
+id: W3CNOTE-xmldsig-bestpractices-20120710
+title:
+- content: XML Signature Best Practices
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/NOTE-xmldsig-bestpractices-20120710/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-xmldsig-bestpractices-20120710
+  type: W3C
+  primary: true
+docnumber: NOTE-xmldsig-bestpractices-20120710
+date:
+- type: published
+  value: '2012-07-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Pratik Datta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-07-10'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmldsig-bestpractices-20110809
+    docid:
+    - id: W3C WD-xmldsig-bestpractices-20110809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-bestpractices-20110809
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-xmldsig-bestpractices-20120710
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: XML Security Working Group

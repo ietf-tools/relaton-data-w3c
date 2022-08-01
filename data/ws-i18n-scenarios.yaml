@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-ws-i18n-scenarios-20040730
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ws-i18n-scenarios-20030516
+    docid:
+    - id: W3C WD-ws-i18n-scenarios-20030516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-i18n-scenarios-20030516
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ws-i18n-scenarios
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

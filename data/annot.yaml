@@ -1,0 +1,36 @@
+---
+id: W3Cannot
+title:
+- content: Annotation of Web Content for Transcoding
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/annot
+  type: src
+type: standard
+docid:
+- id: W3C annot
+  type: W3C
+  primary: true
+docnumber: annot
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-annot-19990710
+    docid:
+    - id: W3C NOTE-annot-19990710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-annot-19990710
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: annot
+fetched: '2022-08-01'
+doctype: recommendation

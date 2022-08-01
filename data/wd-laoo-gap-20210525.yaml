@@ -1,0 +1,69 @@
+---
+id: W3CWD-laoo-gap-20210525
+title:
+- content: Lao Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-laoo-gap-20210525/
+  type: src
+type: standard
+docid:
+- id: W3C WD-laoo-gap-20210525
+  type: W3C
+  primary: true
+docnumber: WD-laoo-gap-20210525
+date:
+- type: published
+  value: '2021-05-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-05-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-laoo-gap-20210127
+    docid:
+    - id: W3C WD-laoo-gap-20210127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-laoo-gap-20210127
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Claoo-gap
+    docid:
+    - id: W3C laoo-gap
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C laoo-gap
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-laoo-gap-20210525
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

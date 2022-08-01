@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-geofencing-20170530
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-geofencing-20150604
+    docid:
+    - id: W3C WD-geofencing-20150604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geofencing-20150604
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: geofencing
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,76 @@
+---
+id: W3CNOTE-dcat-ucr-20171212
+title:
+- content: Dataset Exchange Use Cases and Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/NOTE-dcat-ucr-20171212/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-dcat-ucr-20171212
+  type: W3C
+  primary: true
+docnumber: NOTE-dcat-ucr-20171212
+date:
+- type: published
+  value: '2017-12-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ixchel Faniel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jaroslav Pullmann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rob Atkinson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-12-12'
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cucr
+    docid:
+    - id: W3C ucr
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ucr
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-dcat-ucr-20171212
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Dataset Exchange Working Group

@@ -1,0 +1,46 @@
+---
+id: W3Ccssom
+title:
+- content: CSS Object Model (CSSOM)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/cssom/
+  type: src
+type: standard
+docid:
+- id: W3C cssom
+  type: W3C
+  primary: true
+docnumber: cssom
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cssom-20131205
+    docid:
+    - id: W3C WD-cssom-20131205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cssom-20131205
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cssom-20110712
+    docid:
+    - id: W3C WD-cssom-20110712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cssom-20110712
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: cssom
+fetched: '2022-08-01'
+doctype: recommendation

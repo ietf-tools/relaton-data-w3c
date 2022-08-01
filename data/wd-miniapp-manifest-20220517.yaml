@@ -1,0 +1,79 @@
+---
+id: W3CWD-miniapp-manifest-20220517
+title:
+- content: MiniApp Manifest
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-miniapp-manifest-20220517/
+  type: src
+type: standard
+docid:
+- id: W3C WD-miniapp-manifest-20220517
+  type: W3C
+  primary: true
+docnumber: WD-miniapp-manifest-20220517
+date:
+- type: published
+  value: '2022-05-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Alvarez-Espinar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Yongjing ZHANG
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-05-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-miniapp-manifest-20220428
+    docid:
+    - id: W3C WD-miniapp-manifest-20220428
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-manifest-20220428
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cminiapp-manifest
+    docid:
+    - id: W3C miniapp-manifest
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C miniapp-manifest
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-miniapp-manifest-20220517
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: MiniApps Working Group

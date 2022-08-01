@@ -1,0 +1,76 @@
+---
+id: W3CCR-resource-timing-20120522
+title:
+- content: Resource Timing
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-resource-timing-20120522/
+  type: src
+type: standard
+docid:
+- id: W3C CR-resource-timing-20120522
+  type: W3C
+  primary: true
+docnumber: CR-resource-timing-20120522
+date:
+- type: published
+  value: '2012-05-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anderson Quach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-05-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-resource-timing-20110811
+    docid:
+    - id: W3C WD-resource-timing-20110811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-20110811
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-resource-timing-20120522
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

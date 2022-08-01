@@ -1,0 +1,66 @@
+---
+id: W3CDNOTE-nkoo-gap-20220128
+title:
+- content: N’Ko Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220128/
+  type: src
+type: standard
+docid:
+- id: W3C DNOTE-nkoo-gap-20220128
+  type: W3C
+  primary: true
+docnumber: DNOTE-nkoo-gap-20220128
+date:
+- type: published
+  value: '2022-01-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-01-28'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-nkoo-gap-20220119
+    docid:
+    - id: W3C DNOTE-nkoo-gap-20220119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-nkoo-gap-20220119
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cnkoo-gap
+    docid:
+    - id: W3C nkoo-gap
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C nkoo-gap
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-nkoo-gap-20220128
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

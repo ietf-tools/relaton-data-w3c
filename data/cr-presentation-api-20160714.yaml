@@ -1,0 +1,79 @@
+---
+id: W3CCR-presentation-api-20160714
+title:
+- content: Presentation API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/CR-presentation-api-20160714/
+  type: src
+type: standard
+docid:
+- id: W3C CR-presentation-api-20160714
+  type: W3C
+  primary: true
+docnumber: CR-presentation-api-20160714
+date:
+- type: published
+  value: '2016-07-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dominik Röttsches
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Foltz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-07-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-presentation-api-20160510
+    docid:
+    - id: W3C WD-presentation-api-20160510
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-presentation-api-20160510
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpresentation-api
+    docid:
+    - id: W3C presentation-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C presentation-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-presentation-api-20160714
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Second Screen Working Group

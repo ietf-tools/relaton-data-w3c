@@ -1,0 +1,66 @@
+---
+id: W3CCR-speech-synthesis11-20081107
+title:
+- content: Speech Synthesis Markup Language (SSML) Version 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2008/CR-speech-synthesis11-20081107/
+  type: src
+type: standard
+docid:
+- id: W3C CR-speech-synthesis11-20081107
+  type: W3C
+  primary: true
+docnumber: CR-speech-synthesis11-20081107
+date:
+- type: published
+  value: '2008-11-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel C. Burnett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhi Wei Shuang (双志伟)
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-11-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-speech-synthesis11-20080620
+    docid:
+    - id: W3C WD-speech-synthesis11-20080620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-speech-synthesis11-20080620
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-speech-synthesis11-20081107
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Voice Browser Working Group

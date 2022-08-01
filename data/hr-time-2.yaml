@@ -27,10 +27,60 @@ relation:
     formattedref:
       content: W3C REC-hr-time-2-20191121
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-hr-time-2-20180301
+    docid:
+    - id: W3C CR-hr-time-2-20180301
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-hr-time-2-20180301
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-hr-time-2-20170803
+    docid:
+    - id: W3C CR-hr-time-2-20170803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-hr-time-2-20170803
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-hr-time-2-20161101
+    docid:
+    - id: W3C CR-hr-time-2-20161101
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-hr-time-2-20161101
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-hr-time-2-20151116
+    docid:
+    - id: W3C WD-hr-time-2-20151116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-hr-time-2-20151116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-hr-time-2-20131203
+    docid:
+    - id: W3C WD-hr-time-2-20131203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-hr-time-2-20131203
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: hr-time-2
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,36 @@
+---
+id: W3Cjsgf
+title:
+- content: JSpeech Grammar Format
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/jsgf/
+  type: src
+type: standard
+docid:
+- id: W3C jsgf
+  type: W3C
+  primary: true
+docnumber: jsgf
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-jsgf-20000605
+    docid:
+    - id: W3C NOTE-jsgf-20000605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-jsgf-20000605
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: jsgf
+fetched: '2022-08-01'
+doctype: recommendation

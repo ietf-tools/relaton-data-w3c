@@ -1,0 +1,57 @@
+---
+id: W3CPR-cors-20131205
+title:
+- content: Cross-Origin Resource Sharing
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-cors-20131205/
+  type: src
+type: standard
+docid:
+- id: W3C PR-cors-20131205
+  type: W3C
+  primary: true
+docnumber: PR-cors-20131205
+date:
+- type: published
+  value: '2013-12-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anne van Kesteren
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-12-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-cors-20130129
+    docid:
+    - id: W3C CR-cors-20130129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-cors-20130129
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-cors-20131205
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group
+- name: Web Application Security Working Group

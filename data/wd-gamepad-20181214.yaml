@@ -1,0 +1,89 @@
+---
+id: W3CWD-gamepad-20181214
+title:
+- content: Gamepad
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-gamepad-20181214/
+  type: src
+type: standard
+docid:
+- id: W3C WD-gamepad-20181214
+  type: W3C
+  primary: true
+docnumber: WD-gamepad-20181214
+date:
+- type: published
+  value: '2018-12-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brandon Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Scott Graham
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Theodore Mielczarek
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-12-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-gamepad-20181213
+    docid:
+    - id: W3C WD-gamepad-20181213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-gamepad-20181213
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cgamepad
+    docid:
+    - id: W3C gamepad
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gamepad
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-gamepad-20181214
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-swbp-vocab-pub-20080828
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-swbp-vocab-pub-20060314
+    docid:
+    - id: W3C WD-swbp-vocab-pub-20060314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-swbp-vocab-pub-20060314
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: swbp-vocab-pub
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,63 @@
+---
+id: W3CNOTE-unicode-xml-20070516
+title:
+- content: Unicode in XML and other Markup Languages
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/NOTE-unicode-xml-20070516/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-unicode-xml-20070516
+  type: W3C
+  primary: true
+docnumber: NOTE-unicode-xml-20070516
+date:
+- type: published
+  value: '2007-05-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Asmus Freytag
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Dürst
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-05-16'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-unicode-xml-20030613
+    docid:
+    - id: W3C NOTE-unicode-xml-20030613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20030613
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-unicode-xml-20070516
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

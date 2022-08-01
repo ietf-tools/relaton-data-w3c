@@ -1,0 +1,56 @@
+---
+id: W3CWD-webarch-20031209
+title:
+- content: Architecture of the World Wide Web, First Edition
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/WD-webarch-20031209/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webarch-20031209
+  type: W3C
+  primary: true
+docnumber: WD-webarch-20031209
+date:
+- type: published
+  value: '2003-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-12-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webarch-20031001
+    docid:
+    - id: W3C WD-webarch-20031001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webarch-20031001
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webarch-20031209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Technical Architecture Group

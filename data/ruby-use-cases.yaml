@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-ruby-use-cases-20131008
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ruby-use-cases-20120710
+    docid:
+    - id: W3C WD-ruby-use-cases-20120710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ruby-use-cases-20120710
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ruby-use-cases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

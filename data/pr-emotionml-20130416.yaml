@@ -1,0 +1,66 @@
+---
+id: W3CPR-emotionml-20130416
+title:
+- content: Emotion Markup Language (EmotionML) 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-emotionml-20130416/
+  type: src
+type: standard
+docid:
+- id: W3C PR-emotionml-20130416
+  type: W3C
+  primary: true
+docnumber: PR-emotionml-20130416
+date:
+- type: published
+  value: '2013-04-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Felix Burkhardt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marc Schröder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-04-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-emotionml-20120510
+    docid:
+    - id: W3C CR-emotionml-20120510
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-emotionml-20120510
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-emotionml-20130416
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Multimodal Interaction Working Group

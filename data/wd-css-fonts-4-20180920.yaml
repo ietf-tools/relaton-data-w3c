@@ -1,0 +1,89 @@
+---
+id: W3CWD-css-fonts-4-20180920
+title:
+- content: CSS Fonts Module Level 4
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-css-fonts-4-20180920/
+  type: src
+type: standard
+docid:
+- id: W3C WD-css-fonts-4-20180920
+  type: W3C
+  primary: true
+docnumber: WD-css-fonts-4-20180920
+date:
+- type: published
+  value: '2018-09-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Lilley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Daggett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Myles Maxfield
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-09-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-fonts-4-20180410
+    docid:
+    - id: W3C WD-css-fonts-4-20180410
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-fonts-4-20180410
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-fonts-4
+    docid:
+    - id: W3C css-fonts-4
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-fonts-4
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-fonts-4-20180920
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

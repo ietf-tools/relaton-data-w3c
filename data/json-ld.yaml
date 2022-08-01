@@ -37,10 +37,20 @@ relation:
     formattedref:
       content: W3C SPSD-json-ld-20201103
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-json-ld-20131105
+    docid:
+    - id: W3C PR-json-ld-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-json-ld-20131105
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: json-ld
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

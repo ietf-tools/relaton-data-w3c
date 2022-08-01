@@ -1,0 +1,79 @@
+---
+id: W3CCR-mediaqueries-4-20200721
+title:
+- content: Media Queries Level 4
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/CR-mediaqueries-4-20200721/
+  type: src
+type: standard
+docid:
+- id: W3C CR-mediaqueries-4-20200721
+  type: W3C
+  primary: true
+docnumber: CR-mediaqueries-4-20200721
+date:
+- type: published
+  value: '2020-07-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Florian Rivoal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-07-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-mediaqueries-4-20170905
+    docid:
+    - id: W3C CR-mediaqueries-4-20170905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-mediaqueries-4-20170905
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmediaqueries-4
+    docid:
+    - id: W3C mediaqueries-4
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediaqueries-4
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-mediaqueries-4-20200721
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

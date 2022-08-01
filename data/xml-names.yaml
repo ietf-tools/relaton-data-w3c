@@ -37,10 +37,20 @@ relation:
     formattedref:
       content: W3C REC-xml-names-20091208
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-xml-names-20090806
+    docid:
+    - id: W3C PER-xml-names-20090806
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xml-names-20090806
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xml-names
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

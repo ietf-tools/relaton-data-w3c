@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C REC-xforms-20091020
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xforms11-20071129
+    docid:
+    - id: W3C CR-xforms11-20071129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xforms11-20071129
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xforms11-20061103
+    docid:
+    - id: W3C WD-xforms11-20061103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xforms11-20061103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xforms11-20041115
+    docid:
+    - id: W3C WD-xforms11-20041115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xforms11-20041115
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xforms11
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

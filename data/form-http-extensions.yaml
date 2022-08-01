@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-form-http-extensions-20150929
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-form-http-extensions-20140529
+    docid:
+    - id: W3C WD-form-http-extensions-20140529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-form-http-extensions-20140529
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: form-http-extensions
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-animation-timing-20150922
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-animation-timing-20131031
+    docid:
+    - id: W3C CR-animation-timing-20131031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-animation-timing-20131031
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-animation-timing-20120221
+    docid:
+    - id: W3C WD-animation-timing-20120221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-animation-timing-20120221
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-animation-timing-20110602
+    docid:
+    - id: W3C WD-animation-timing-20110602
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-animation-timing-20110602
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: animation-timing
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,66 @@
+---
+id: W3CPER-rif-fld-20121211
+title:
+- content: RIF Framework for Logic Dialects
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/PER-rif-fld-20121211/
+  type: src
+type: standard
+docid:
+- id: W3C PER-rif-fld-20121211
+  type: W3C
+  primary: true
+docnumber: PER-rif-fld-20121211
+date:
+- type: published
+  value: '2012-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Harold Boley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Kifer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-rif-fld-20100622
+    docid:
+    - id: W3C REC-rif-fld-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rif-fld-20100622
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-rif-fld-20121211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RIF Working Group

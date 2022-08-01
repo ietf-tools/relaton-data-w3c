@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-elreq-20200526
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-elreq-20161115
+    docid:
+    - id: W3C WD-elreq-20161115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-elreq-20161115
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: elreq
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

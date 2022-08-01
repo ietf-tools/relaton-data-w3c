@@ -1,0 +1,69 @@
+---
+id: W3CWD-tabular-metadata-20140710
+title:
+- content: Metadata Vocabulary for Tabular Data
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-tabular-metadata-20140710/
+  type: src
+type: standard
+docid:
+- id: W3C WD-tabular-metadata-20140710
+  type: W3C
+  primary: true
+docnumber: WD-tabular-metadata-20140710
+date:
+- type: published
+  value: '2014-07-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeni Tennison
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rufus Pollock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-07-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cmetadata
+    docid:
+    - id: W3C metadata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C metadata
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-tabular-metadata-20140710
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: CSV on the Web Working Group

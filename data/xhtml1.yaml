@@ -47,10 +47,20 @@ relation:
     formattedref:
       content: W3C SPSD-xhtml1-20180327
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml1-20011004
+    docid:
+    - id: W3C WD-xhtml1-20011004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml1-20011004
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xhtml1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

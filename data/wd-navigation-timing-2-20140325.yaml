@@ -1,0 +1,89 @@
+---
+id: W3CWD-navigation-timing-2-20140325
+title:
+- content: Navigation Timing 2
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-navigation-timing-2-20140325/
+  type: src
+type: standard
+docid:
+- id: W3C WD-navigation-timing-2-20140325
+  type: W3C
+  primary: true
+docnumber: WD-navigation-timing-2-20140325
+date:
+- type: published
+  value: '2014-03-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arvind Jain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tobin Titus
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-03-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-navigation-timing-2-20130131
+    docid:
+    - id: W3C WD-navigation-timing-2-20130131
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-navigation-timing-2-20130131
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-navigation-timing-2-20140325
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

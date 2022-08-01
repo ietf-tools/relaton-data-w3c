@@ -1,0 +1,79 @@
+---
+id: W3CWD-shacl-ucr-20160122
+title:
+- content: SHACL Use Cases and Requirements
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/WD-shacl-ucr-20160122/
+  type: src
+type: standard
+docid:
+- id: W3C WD-shacl-ucr-20160122
+  type: W3C
+  primary: true
+docnumber: WD-shacl-ucr-20160122
+date:
+- type: published
+  value: '2016-01-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Karen Coyle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Steyskal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-01-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-shacl-ucr-20150930
+    docid:
+    - id: W3C WD-shacl-ucr-20150930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shacl-ucr-20150930
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cdata-shapes-ucr
+    docid:
+    - id: W3C data-shapes-ucr
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C data-shapes-ucr
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-shacl-ucr-20160122
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Data Shapes Working Group

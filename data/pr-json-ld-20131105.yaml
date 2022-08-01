@@ -1,0 +1,76 @@
+---
+id: W3CPR-json-ld-20131105
+title:
+- content: JSON-LD 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-json-ld-20131105/
+  type: src
+type: standard
+docid:
+- id: W3C PR-json-ld-20131105
+  type: W3C
+  primary: true
+docnumber: PR-json-ld-20131105
+date:
+- type: published
+  value: '2013-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Markus Lanthaler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-11-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-json-ld-20130910
+    docid:
+    - id: W3C CR-json-ld-20130910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-json-ld-20130910
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-json-ld-20131105
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Working Group

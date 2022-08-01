@@ -1,0 +1,56 @@
+---
+id: W3CPER-xhtml-rdfa-20141216
+title:
+- content: XHTML+RDFa 1.1 - Third Edition
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/PER-xhtml-rdfa-20141216/
+  type: src
+type: standard
+docid:
+- id: W3C PER-xhtml-rdfa-20141216
+  type: W3C
+  primary: true
+docnumber: PER-xhtml-rdfa-20141216
+date:
+- type: published
+  value: '2014-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Shane McCarron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-xhtml-rdfa-20130822
+    docid:
+    - id: W3C REC-xhtml-rdfa-20130822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-rdfa-20130822
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-xhtml-rdfa-20141216
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDFa Working Group

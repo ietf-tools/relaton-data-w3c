@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-telephony-20150602
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-telephony-20130620
+    docid:
+    - id: W3C WD-telephony-20130620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-telephony-20130620
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: telephony
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

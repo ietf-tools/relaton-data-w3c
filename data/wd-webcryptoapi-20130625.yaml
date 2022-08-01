@@ -1,0 +1,66 @@
+---
+id: W3CWD-WebCryptoAPI-20130625
+title:
+- content: Web Cryptography API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/
+  type: src
+type: standard
+docid:
+- id: W3C WD-WebCryptoAPI-20130625
+  type: W3C
+  primary: true
+docnumber: WD-WebCryptoAPI-20130625
+date:
+- type: published
+  value: '2013-06-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Dahl
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ryan Sleevi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-06-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-WebCryptoAPI-20130108
+    docid:
+    - id: W3C WD-WebCryptoAPI-20130108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WebCryptoAPI-20130108
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-WebCryptoAPI-20130625
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Cryptography Working Group

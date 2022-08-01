@@ -27,10 +27,50 @@ relation:
     formattedref:
       content: W3C NOTE-xpath-full-text-10-use-cases-20110125
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-10-use-cases-20100128
+    docid:
+    - id: W3C WD-xpath-full-text-10-use-cases-20100128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-10-use-cases-20100128
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-10-use-cases-20090709
+    docid:
+    - id: W3C WD-xpath-full-text-10-use-cases-20090709
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-10-use-cases-20090709
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-10-use-cases-20080516
+    docid:
+    - id: W3C WD-xpath-full-text-10-use-cases-20080516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-10-use-cases-20080516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-10-use-cases-20070518
+    docid:
+    - id: W3C WD-xpath-full-text-10-use-cases-20070518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-10-use-cases-20070518
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xpath-full-text-10-use-cases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

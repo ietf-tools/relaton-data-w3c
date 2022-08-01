@@ -1,0 +1,69 @@
+---
+id: W3CWD-shadow-dom-20170905
+title:
+- content: Shadow DOM
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-shadow-dom-20170905/
+  type: src
+type: standard
+docid:
+- id: W3C WD-shadow-dom-20170905
+  type: W3C
+  primary: true
+docnumber: WD-shadow-dom-20170905
+date:
+- type: published
+  value: '2017-09-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hayato Ito
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-09-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-shadow-dom-20170213
+    docid:
+    - id: W3C WD-shadow-dom-20170213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shadow-dom-20170213
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cshadow
+    docid:
+    - id: W3C shadow
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C shadow
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-shadow-dom-20170905
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

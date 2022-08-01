@@ -1,0 +1,89 @@
+---
+id: W3CCR-css3-values-20130730
+title:
+- content: CSS Values and Units Module Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-css3-values-20130730/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css3-values-20130730
+  type: W3C
+  primary: true
+docnumber: CR-css3-values-20130730
+date:
+- type: published
+  value: '2013-07-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Håkon Wium Lie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-07-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css3-values-20130404
+    docid:
+    - id: W3C CR-css3-values-20130404
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-values-20130404
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss3-values
+    docid:
+    - id: W3C css3-values
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css3-values
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css3-values-20130730
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

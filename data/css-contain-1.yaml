@@ -37,10 +37,30 @@ relation:
     formattedref:
       content: W3C REC-css-contain-1-20201222
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-contain-1-20181108
+    docid:
+    - id: W3C CR-css-contain-1-20181108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-contain-1-20181108
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-contain-1-20170808
+    docid:
+    - id: W3C CR-css-contain-1-20170808
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-contain-1-20170808
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-contain-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

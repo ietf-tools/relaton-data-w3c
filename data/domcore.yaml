@@ -1,0 +1,36 @@
+---
+id: W3Cdomcore
+title:
+- content: Web DOM Core
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/domcore/
+  type: src
+type: standard
+docid:
+- id: W3C domcore
+  type: W3C
+  primary: true
+docnumber: domcore
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-domcore-20101007
+    docid:
+    - id: W3C WD-domcore-20101007
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-domcore-20101007
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: domcore
+fetched: '2022-08-01'
+doctype: recommendation

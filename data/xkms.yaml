@@ -1,0 +1,36 @@
+---
+id: W3Cxkms
+title:
+- content: XML Key Management Specification (XKMS)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xkms/
+  type: src
+type: standard
+docid:
+- id: W3C xkms
+  type: W3C
+  primary: true
+docnumber: xkms
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xkms-20010330
+    docid:
+    - id: W3C NOTE-xkms-20010330
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xkms-20010330
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xkms
+fetched: '2022-08-01'
+doctype: recommendation

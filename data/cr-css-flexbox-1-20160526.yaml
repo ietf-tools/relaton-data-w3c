@@ -1,0 +1,89 @@
+---
+id: W3CCR-css-flexbox-1-20160526
+title:
+- content: CSS Flexible Box Layout Module Level 1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/CR-css-flexbox-1-20160526/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-flexbox-1-20160526
+  type: W3C
+  primary: true
+docnumber: CR-css-flexbox-1-20160526
+date:
+- type: published
+  value: '2016-05-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rossen Atanassov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-05-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css-flexbox-1-20160301
+    docid:
+    - id: W3C CR-css-flexbox-1-20160301
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-flexbox-1-20160301
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-flexbox
+    docid:
+    - id: W3C css-flexbox
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-flexbox
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-flexbox-1-20160526
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

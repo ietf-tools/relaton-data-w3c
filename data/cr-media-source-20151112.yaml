@@ -1,0 +1,109 @@
+---
+id: W3CCR-media-source-20151112
+title:
+- content: Media Source Extensions
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/CR-media-source-20151112/
+  type: src
+type: standard
+docid:
+- id: W3C CR-media-source-20151112
+  type: W3C
+  primary: true
+docnumber: CR-media-source-20151112
+date:
+- type: published
+  value: '2015-11-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Colwell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Adrian Bateman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jerry Smith
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matthew Wolenetz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-11-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-media-source-20150331
+    docid:
+    - id: W3C CR-media-source-20150331
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-media-source-20150331
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmedia-source
+    docid:
+    - id: W3C media-source
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C media-source
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-media-source-20151112
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

@@ -1,0 +1,89 @@
+---
+id: W3CCR-css-backgrounds-3-20171017
+title:
+- content: CSS Backgrounds and Borders Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/CR-css-backgrounds-3-20171017/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-backgrounds-3-20171017
+  type: W3C
+  primary: true
+docnumber: CR-css-backgrounds-3-20171017
+date:
+- type: published
+  value: '2017-10-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bert Bos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Brad Kemper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-10-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css3-background-20140909
+    docid:
+    - id: W3C CR-css3-background-20140909
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-background-20140909
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-backgrounds
+    docid:
+    - id: W3C css-backgrounds
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-backgrounds
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-backgrounds-3-20171017
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

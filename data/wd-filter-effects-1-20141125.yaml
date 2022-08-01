@@ -1,0 +1,90 @@
+---
+id: W3CWD-filter-effects-1-20141125
+title:
+- content: Filter Effects Module Level 1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-filter-effects-1-20141125/
+  type: src
+type: standard
+docid:
+- id: W3C WD-filter-effects-1-20141125
+  type: W3C
+  primary: true
+docnumber: WD-filter-effects-1-20141125
+date:
+- type: published
+  value: '2014-11-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dean Jackson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dirk Schulze
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Erik Dahlström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-11-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-filter-effects-1-20131126
+    docid:
+    - id: W3C WD-filter-effects-1-20131126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-filter-effects-1-20131126
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cfilter-effects
+    docid:
+    - id: W3C filter-effects
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C filter-effects
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-filter-effects-1-20141125
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SVG Working Group
+- name: Cascading Style Sheets Working Group

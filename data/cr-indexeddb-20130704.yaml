@@ -1,0 +1,106 @@
+---
+id: W3CCR-IndexedDB-20130704
+title:
+- content: Indexed Database API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-IndexedDB-20130704/
+  type: src
+type: standard
+docid:
+- id: W3C CR-IndexedDB-20130704
+  type: W3C
+  primary: true
+docnumber: CR-IndexedDB-20130704
+date:
+- type: published
+  value: '2013-07-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andrei Popescu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eliot Graff
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeremy Orlow
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonas Sicking
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joshua Bell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nikunj Mehta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-07-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-IndexedDB-20130516
+    docid:
+    - id: W3C WD-IndexedDB-20130516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-IndexedDB-20130516
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-IndexedDB-20130704
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

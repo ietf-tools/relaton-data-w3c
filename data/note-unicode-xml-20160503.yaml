@@ -1,0 +1,66 @@
+---
+id: W3CNOTE-unicode-xml-20160503
+title:
+- content: Unicode in XML and other Markup Languages
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/NOTE-unicode-xml-20160503/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-unicode-xml-20160503
+  type: W3C
+  primary: true
+docnumber: NOTE-unicode-xml-20160503
+date:
+- type: published
+  value: '2016-05-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Dürst
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-05-03'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-unicode-xml-20130124
+    docid:
+    - id: W3C NOTE-unicode-xml-20130124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20130124
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cunicode-xml
+    docid:
+    - id: W3C unicode-xml
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C unicode-xml
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-unicode-xml-20160503
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

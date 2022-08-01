@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-vocab-org-20140116
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-vocab-org-20131217
+    docid:
+    - id: W3C PR-vocab-org-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vocab-org-20131217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vocab-org-20121023
+    docid:
+    - id: W3C WD-vocab-org-20121023
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-org-20121023
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: vocab-org
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

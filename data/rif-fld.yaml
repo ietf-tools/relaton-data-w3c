@@ -37,10 +37,40 @@ relation:
     formattedref:
       content: W3C REC-rif-fld-20130205
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-rif-fld-20121211
+    docid:
+    - id: W3C PER-rif-fld-20121211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-rif-fld-20121211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-rif-fld-20091001
+    docid:
+    - id: W3C CR-rif-fld-20091001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-rif-fld-20091001
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rif-fld-20080730
+    docid:
+    - id: W3C WD-rif-fld-20080730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-fld-20080730
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: rif-fld
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

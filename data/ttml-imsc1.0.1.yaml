@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-ttml-imsc1.0.1-20180424
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ttml-imsc1.0.1-20170713
+    docid:
+    - id: W3C CR-ttml-imsc1.0.1-20170713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttml-imsc1.0.1-20170713
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ttml-imsc1.0.1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

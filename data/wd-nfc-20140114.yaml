@@ -1,0 +1,79 @@
+---
+id: W3CWD-nfc-20140114
+title:
+- content: Web NFC API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-nfc-20140114/
+  type: src
+type: standard
+docid:
+- id: W3C WD-nfc-20140114
+  type: W3C
+  primary: true
+docnumber: WD-nfc-20140114
+date:
+- type: published
+  value: '2014-01-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Don Coleman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Luc Yriarte
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Samuel Ortiz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-01-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cnfc
+    docid:
+    - id: W3C nfc
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C nfc
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-nfc-20140114
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Near Field Communications Working Group

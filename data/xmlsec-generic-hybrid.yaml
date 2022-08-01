@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-xmlsec-generic-hybrid-20130411
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xmlsec-generic-hybrid-20110303
+    docid:
+    - id: W3C CR-xmlsec-generic-hybrid-20110303
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmlsec-generic-hybrid-20110303
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlsec-generic-hybrid-20100513
+    docid:
+    - id: W3C WD-xmlsec-generic-hybrid-20100513
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-generic-hybrid-20100513
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlsec-generic-hybrid-20090730
+    docid:
+    - id: W3C WD-xmlsec-generic-hybrid-20090730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-generic-hybrid-20090730
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xmlsec-generic-hybrid
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

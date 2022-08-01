@@ -1,0 +1,66 @@
+---
+id: W3CCR-ws-addr-soap-20050817
+title:
+- content: Web Services Addressing 1.0 - SOAP Binding
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2005/CR-ws-addr-soap-20050817
+  type: src
+type: standard
+docid:
+- id: W3C CR-ws-addr-soap-20050817
+  type: W3C
+  primary: true
+docnumber: CR-ws-addr-soap-20050817
+date:
+- type: published
+  value: '2005-08-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marc Hadley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Gudgin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-08-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ws-addr-soap-20050331
+    docid:
+    - id: W3C WD-ws-addr-soap-20050331
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-addr-soap-20050331
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ws-addr-soap-20050817
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Addressing Working Group

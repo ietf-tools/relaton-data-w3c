@@ -1,0 +1,36 @@
+---
+id: W3Cxfa-template
+title:
+- content: XFA-Template
+  format: text/plain
+link:
+- content: http://www.w3.org/1999/05/XFA/xfa-template
+  type: src
+type: standard
+docid:
+- id: W3C xfa-template
+  type: W3C
+  primary: true
+docnumber: xfa-template
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3Cxfa-template-19990614
+    docid:
+    - id: W3C xfa-template-19990614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xfa-template-19990614
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xfa-template
+fetched: '2022-08-01'
+doctype: recommendation

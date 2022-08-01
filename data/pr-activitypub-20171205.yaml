@@ -1,0 +1,79 @@
+---
+id: W3CPR-activitypub-20171205
+title:
+- content: ActivityPub
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/PR-activitypub-20171205/
+  type: src
+type: standard
+docid:
+- id: W3C PR-activitypub-20171205
+  type: W3C
+  primary: true
+docnumber: PR-activitypub-20171205
+date:
+- type: published
+  value: '2017-12-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Christopher Webber
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jessica Tallon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-12-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-activitypub-20171102
+    docid:
+    - id: W3C CR-activitypub-20171102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-activitypub-20171102
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cactivitypub
+    docid:
+    - id: W3C activitypub
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C activitypub
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-activitypub-20171205
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Social Web Working Group

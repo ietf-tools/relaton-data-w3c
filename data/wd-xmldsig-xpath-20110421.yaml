@@ -1,0 +1,76 @@
+---
+id: W3CWD-xmldsig-xpath-20110421
+title:
+- content: XML Signature Streaming Profile of XPath 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-xmldsig-xpath-20110421/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xmldsig-xpath-20110421
+  type: W3C
+  primary: true
+docnumber: WD-xmldsig-xpath-20110421
+date:
+- type: published
+  value: '2011-04-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Meiko Jensen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Pratik Datta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-04-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmldsig-xpath-20100831
+    docid:
+    - id: W3C WD-xmldsig-xpath-20100831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-xpath-20100831
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xmldsig-xpath-20110421
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

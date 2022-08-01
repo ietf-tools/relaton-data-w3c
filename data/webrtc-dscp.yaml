@@ -1,0 +1,36 @@
+---
+id: W3Cwebrtc-dscp
+title:
+- content: WebRTC DSCP Control API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/webrtc-dscp/
+  type: src
+type: standard
+docid:
+- id: W3C webrtc-dscp
+  type: W3C
+  primary: true
+docnumber: webrtc-dscp
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-dscp-20180703
+    docid:
+    - id: W3C WD-webrtc-dscp-20180703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-dscp-20180703
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: webrtc-dscp
+fetched: '2022-08-01'
+doctype: recommendation

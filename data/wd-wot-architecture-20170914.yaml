@@ -1,0 +1,79 @@
+---
+id: W3CWD-wot-architecture-20170914
+title:
+- content: Web of Things (WoT) Architecture
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-wot-architecture-20170914/
+  type: src
+type: standard
+docid:
+- id: W3C WD-wot-architecture-20170914
+  type: W3C
+  primary: true
+docnumber: WD-wot-architecture-20170914
+date:
+- type: published
+  value: '2017-09-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Kazuo Kajimoto
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matthias Kovatsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Uday Davuluru
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-09-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cwot-architecture
+    docid:
+    - id: W3C wot-architecture
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-architecture
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wot-architecture-20170914
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web of Things Working Group

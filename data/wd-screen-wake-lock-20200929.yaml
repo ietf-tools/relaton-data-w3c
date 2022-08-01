@@ -1,0 +1,89 @@
+---
+id: W3CWD-screen-wake-lock-20200929
+title:
+- content: Screen Wake Lock API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-screen-wake-lock-20200929/
+  type: src
+type: standard
+docid:
+- id: W3C WD-screen-wake-lock-20200929
+  type: W3C
+  primary: true
+docnumber: WD-screen-wake-lock-20200929
+date:
+- type: published
+  value: '2020-09-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Kenneth Christiansen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Raphael Kubo da Costa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-09-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-wake-lock-20171214
+    docid:
+    - id: W3C CR-wake-lock-20171214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wake-lock-20171214
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cscreen-wake-lock
+    docid:
+    - id: W3C screen-wake-lock
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C screen-wake-lock
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-screen-wake-lock-20200929
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

@@ -1,0 +1,89 @@
+---
+id: W3CCR-json-ld11-api-20191212
+title:
+- content: JSON-LD 1.1 Processing Algorithms and API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/CR-json-ld11-api-20191212/
+  type: src
+type: standard
+docid:
+- id: W3C CR-json-ld11-api-20191212
+  type: W3C
+  primary: true
+docnumber: CR-json-ld11-api-20191212
+date:
+- type: published
+  value: '2019-12-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Pierre-Antoine Champin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-json-ld11-api-20191112
+    docid:
+    - id: W3C WD-json-ld11-api-20191112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-json-ld11-api-20191112
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cjson-ld-api
+    docid:
+    - id: W3C json-ld-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C json-ld-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-json-ld11-api-20191212
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: JSON-LD Working Group

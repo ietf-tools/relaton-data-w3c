@@ -1,0 +1,69 @@
+---
+id: W3CCR-css-counter-styles-3-20150611
+title:
+- content: CSS Counter Styles Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/CR-css-counter-styles-3-20150611/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-counter-styles-3-20150611
+  type: W3C
+  primary: true
+docnumber: CR-css-counter-styles-3-20150611
+date:
+- type: published
+  value: '2015-06-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-06-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css-counter-styles-3-20150203
+    docid:
+    - id: W3C CR-css-counter-styles-3-20150203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-counter-styles-3-20150203
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-counter-styles
+    docid:
+    - id: W3C css-counter-styles
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-counter-styles
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-counter-styles-3-20150611
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

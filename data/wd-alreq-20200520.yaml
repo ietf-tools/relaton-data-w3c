@@ -1,0 +1,69 @@
+---
+id: W3CWD-alreq-20200520
+title:
+- content: Text Layout Requirements for the Arabic Script
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-alreq-20200520/
+  type: src
+type: standard
+docid:
+- id: W3C WD-alreq-20200520
+  type: W3C
+  primary: true
+docnumber: WD-alreq-20200520
+date:
+- type: published
+  value: '2020-05-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-05-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-alreq-20180222
+    docid:
+    - id: W3C WD-alreq-20180222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-alreq-20180222
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Calreq
+    docid:
+    - id: W3C alreq
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C alreq
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-alreq-20200520
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

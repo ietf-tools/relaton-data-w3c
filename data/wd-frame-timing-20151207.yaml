@@ -1,0 +1,79 @@
+---
+id: W3CWD-frame-timing-20151207
+title:
+- content: Frame Timing
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-frame-timing-20151207/
+  type: src
+type: standard
+docid:
+- id: W3C WD-frame-timing-20151207
+  type: W3C
+  primary: true
+docnumber: WD-frame-timing-20151207
+date:
+- type: published
+  value: '2015-12-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Blain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-12-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-frame-timing-20151124
+    docid:
+    - id: W3C WD-frame-timing-20151124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-frame-timing-20151124
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cframe-timing
+    docid:
+    - id: W3C frame-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C frame-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-frame-timing-20151207
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

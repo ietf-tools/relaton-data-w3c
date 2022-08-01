@@ -1,0 +1,58 @@
+---
+id: W3CWD-international-specs-20161007
+title:
+- content: Internationalization Best Practices for Spec Developers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-international-specs-20161007/
+  type: src
+type: standard
+docid:
+- id: W3C WD-international-specs-20161007
+  type: W3C
+  primary: true
+docnumber: WD-international-specs-20161007
+date:
+- type: published
+  value: '2016-10-07'
+revdate: '2016-10-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-international-specs-20160810
+    docid:
+    - id: W3C WD-international-specs-20160810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-international-specs-20160810
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cbp-i18n-specdev
+    docid:
+    - id: W3C bp-i18n-specdev
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C bp-i18n-specdev
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-international-specs-20161007
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

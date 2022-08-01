@@ -1,0 +1,76 @@
+---
+id: W3CCR-prov-constraints-20121211
+title:
+- content: Constraints of the PROV Data Model
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-prov-constraints-20121211/
+  type: src
+type: standard
+docid:
+- id: W3C CR-prov-constraints-20121211
+  type: W3C
+  primary: true
+docnumber: CR-prov-constraints-20121211
+date:
+- type: published
+  value: '2012-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: James Cheney
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Luc Moreau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paolo Missier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-prov-constraints-20120911
+    docid:
+    - id: W3C WD-prov-constraints-20120911
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-prov-constraints-20120911
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-prov-constraints-20121211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Provenance Working Group

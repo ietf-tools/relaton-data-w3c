@@ -1,0 +1,99 @@
+---
+id: W3CWD-beacon-20151209
+title:
+- content: Beacon
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-beacon-20151209/
+  type: src
+type: standard
+docid:
+- id: W3C WD-beacon-20151209
+  type: W3C
+  primary: true
+docnumber: WD-beacon-20151209
+date:
+- type: published
+  value: '2015-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alois Reitbauer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Arvind Jain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-12-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-beacon-20151130
+    docid:
+    - id: W3C WD-beacon-20151130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-beacon-20151130
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cbeacon
+    docid:
+    - id: W3C beacon
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C beacon
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-beacon-20151209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

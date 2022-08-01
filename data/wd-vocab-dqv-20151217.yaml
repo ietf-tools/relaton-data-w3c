@@ -1,0 +1,89 @@
+---
+id: W3CWD-vocab-dqv-20151217
+title:
+- content: 'Data on the Web Best Practices: Data Quality Vocabulary'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-vocab-dqv-20151217/
+  type: src
+type: standard
+docid:
+- id: W3C WD-vocab-dqv-20151217
+  type: W3C
+  primary: true
+docnumber: WD-vocab-dqv-20151217
+date:
+- type: published
+  value: '2015-12-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Antoine Isaac
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Christophe Gueret
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Riccardo Albertoni
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-12-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-vocab-dqv-20150625
+    docid:
+    - id: W3C WD-vocab-dqv-20150625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-dqv-20150625
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cvocab-dqg.html
+    docid:
+    - id: W3C vocab-dqg.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vocab-dqg.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vocab-dqv-20151217
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Data on the Web Best Practices Working Group

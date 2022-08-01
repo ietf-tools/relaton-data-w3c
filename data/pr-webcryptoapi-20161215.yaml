@@ -1,0 +1,69 @@
+---
+id: W3CPR-WebCryptoAPI-20161215
+title:
+- content: Web Cryptography API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/PR-WebCryptoAPI-20161215/
+  type: src
+type: standard
+docid:
+- id: W3C PR-WebCryptoAPI-20161215
+  type: W3C
+  primary: true
+docnumber: PR-WebCryptoAPI-20161215
+date:
+- type: published
+  value: '2016-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-WebCryptoAPI-20141211
+    docid:
+    - id: W3C CR-WebCryptoAPI-20141211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-WebCryptoAPI-20141211
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3COverview.html
+    docid:
+    - id: W3C Overview.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C Overview.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-WebCryptoAPI-20161215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Cryptography Working Group

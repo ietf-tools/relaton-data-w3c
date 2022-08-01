@@ -1,0 +1,100 @@
+---
+id: W3CWD-coga-usable-20201211
+title:
+- content: Making content usable for people with cognitive and learning disabilities
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-coga-usable-20201211/
+  type: src
+type: standard
+docid:
+- id: W3C WD-coga-usable-20201211
+  type: W3C
+  primary: true
+docnumber: WD-coga-usable-20201211
+date:
+- type: published
+  value: '2020-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lisa Seeman-Kestenbaum
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rachael Montgomery
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ruoxi Ran
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Steve Lee
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-coga-usable-20200717
+    docid:
+    - id: W3C WD-coga-usable-20200717
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-coga-usable-20200717
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccontent-usable
+    docid:
+    - id: W3C content-usable
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C content-usable
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-coga-usable-20201211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Accessible Platform Architectures
+- name: Accessibility Guidelines Working Group

@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C DNOTE-mini-app-white-paper-20220701
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-mini-app-white-paper-20220528
+    docid:
+    - id: W3C DNOTE-mini-app-white-paper-20220528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-mini-app-white-paper-20220528
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mini-app-white-paper-20190912
+    docid:
+    - id: W3C WD-mini-app-white-paper-20190912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mini-app-white-paper-20190912
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: mini-app-white-paper
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

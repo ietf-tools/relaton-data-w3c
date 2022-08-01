@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C DNOTE-i18n-glossary-20220211
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-i18n-glossary-20210730
+    docid:
+    - id: W3C WD-i18n-glossary-20210730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-i18n-glossary-20210730
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: i18n-glossary
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,99 @@
+---
+id: W3CWD-xaur-20200916
+title:
+- content: XR Accessibility User Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-xaur-20200916/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xaur-20200916
+  type: W3C
+  primary: true
+docnumber: WD-xaur-20200916
+date:
+- type: published
+  value: '2020-09-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Janina Sajka
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jason White
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joshue O Connor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-09-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xaur-20200213
+    docid:
+    - id: W3C WD-xaur-20200213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xaur-20200213
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cxaur
+    docid:
+    - id: W3C xaur
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C xaur
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xaur-20200916
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Accessible Platform Architectures

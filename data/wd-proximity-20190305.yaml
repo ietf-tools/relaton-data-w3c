@@ -1,0 +1,79 @@
+---
+id: W3CWD-proximity-20190305
+title:
+- content: Proximity Sensor
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/WD-proximity-20190305/
+  type: src
+type: standard
+docid:
+- id: W3C WD-proximity-20190305
+  type: W3C
+  primary: true
+docnumber: WD-proximity-20190305
+date:
+- type: published
+  value: '2019-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rijubrata Bhaumik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-03-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-proximity-20160719
+    docid:
+    - id: W3C WD-proximity-20160719
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-proximity-20160719
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cproximity
+    docid:
+    - id: W3C proximity
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C proximity
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-proximity-20190305
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

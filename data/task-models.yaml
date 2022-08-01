@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-task-models-20140408
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-task-models-20131107
+    docid:
+    - id: W3C WD-task-models-20131107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-models-20131107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-task-models-20120802
+    docid:
+    - id: W3C WD-task-models-20120802
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-models-20120802
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: task-models
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,36 @@
+---
+id: W3Cwbxml
+title:
+- content: WAP Binary XML Content Format
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/wbxml
+  type: src
+type: standard
+docid:
+- id: W3C wbxml
+  type: W3C
+  primary: true
+docnumber: wbxml
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-wbxml-19990624
+    docid:
+    - id: W3C NOTE-wbxml-19990624
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-wbxml-19990624
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: wbxml
+fetched: '2022-08-01'
+doctype: recommendation

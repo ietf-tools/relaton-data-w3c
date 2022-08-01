@@ -1,0 +1,58 @@
+---
+id: W3CWD-payment-method-id-20161207
+title:
+- content: Payment Method Identifiers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-payment-method-id-20161207/
+  type: src
+type: standard
+docid:
+- id: W3C WD-payment-method-id-20161207
+  type: W3C
+  primary: true
+docnumber: WD-payment-method-id-20161207
+date:
+- type: published
+  value: '2016-12-07'
+revdate: '2016-12-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-payment-method-id-20160705
+    docid:
+    - id: W3C WD-payment-method-id-20160705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-method-id-20160705
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebpayments-method-identifiers
+    docid:
+    - id: W3C webpayments-method-identifiers
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webpayments-method-identifiers
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-payment-method-id-20161207
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Payments Working Group

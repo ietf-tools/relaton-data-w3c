@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-SVGFilterReqs12-20190328
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-SVGFilterReqs12-20070501
+    docid:
+    - id: W3C WD-SVGFilterReqs12-20070501
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVGFilterReqs12-20070501
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: SVGFilterReqs12
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

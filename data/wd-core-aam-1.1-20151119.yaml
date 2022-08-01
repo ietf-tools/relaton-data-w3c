@@ -1,0 +1,99 @@
+---
+id: W3CWD-core-aam-1.1-20151119
+title:
+- content: Core Accessibility API Mappings 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-core-aam-1.1-20151119/
+  type: src
+type: standard
+docid:
+- id: W3C WD-core-aam-1.1-20151119
+  type: W3C
+  primary: true
+docnumber: WD-core-aam-1.1-20151119
+date:
+- type: published
+  value: '2015-11-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Leventhal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Andi Snow-Weaver
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joseph Scheuhammer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-11-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-core-aam-1.1-20150714
+    docid:
+    - id: W3C WD-core-aam-1.1-20150714
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-core-aam-1.1-20150714
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccore-aam.html
+    docid:
+    - id: W3C core-aam.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C core-aam.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-core-aam-1.1-20151119
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group

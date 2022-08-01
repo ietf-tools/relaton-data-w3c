@@ -28,10 +28,20 @@ relation:
     formattedref:
       content: W3C NOTE-i18n-html-tech-char-20150127
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-i18n-html-tech-char-20040509
+    docid:
+    - id: W3C WD-i18n-html-tech-char-20040509
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-i18n-html-tech-char-20040509
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: i18n-html-tech-char
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

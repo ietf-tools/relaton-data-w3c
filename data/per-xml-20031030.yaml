@@ -1,0 +1,96 @@
+---
+id: W3CPER-xml-20031030
+title:
+- content: Extensible Markup Language (XML) 1.0 (Third Edition)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/PER-xml-20031030
+  type: src
+type: standard
+docid:
+- id: W3C PER-xml-20031030
+  type: W3C
+  primary: true
+docnumber: PER-xml-20031030
+date:
+- type: published
+  value: '2003-10-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: C. M. Sperberg-McQueen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eve Maler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: François Yergeau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jean Paoli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tim Bray
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-10-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-xml-19980210
+    docid:
+    - id: W3C REC-xml-19980210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xml-19980210
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-xml-20031030
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

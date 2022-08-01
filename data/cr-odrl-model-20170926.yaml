@@ -1,0 +1,79 @@
+---
+id: W3CCR-odrl-model-20170926
+title:
+- content: ODRL Information Model
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/CR-odrl-model-20170926/
+  type: src
+type: standard
+docid:
+- id: W3C CR-odrl-model-20170926
+  type: W3C
+  primary: true
+docnumber: CR-odrl-model-20170926
+date:
+- type: published
+  value: '2017-09-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Renato Iannella
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Serena Villata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-09-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-odrl-model-20170223
+    docid:
+    - id: W3C WD-odrl-model-20170223
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-odrl-model-20170223
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmodel
+    docid:
+    - id: W3C model
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C model
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-odrl-model-20170926
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Permissions and Obligations Expression Working Group

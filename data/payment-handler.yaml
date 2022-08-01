@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C WD-payment-handler-20211004
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-handler-20191021
+    docid:
+    - id: W3C WD-payment-handler-20191021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20191021
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-handler-20180108
+    docid:
+    - id: W3C WD-payment-handler-20180108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20180108
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-handler-20171203
+    docid:
+    - id: W3C WD-payment-handler-20171203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20171203
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: payment-handler
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

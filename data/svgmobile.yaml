@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-SVGMobile-20030114
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-SVGMobile-20021115
+    docid:
+    - id: W3C PR-SVGMobile-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-SVGMobile-20021115
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: SVGMobile
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

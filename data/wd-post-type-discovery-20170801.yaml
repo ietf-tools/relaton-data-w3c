@@ -1,0 +1,69 @@
+---
+id: W3CWD-post-type-discovery-20170801
+title:
+- content: Post Type Discovery
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-post-type-discovery-20170801/
+  type: src
+type: standard
+docid:
+- id: W3C WD-post-type-discovery-20170801
+  type: W3C
+  primary: true
+docnumber: WD-post-type-discovery-20170801
+date:
+- type: published
+  value: '2017-08-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Tantek Çelik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-08-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-post-type-discovery-20170614
+    docid:
+    - id: W3C WD-post-type-discovery-20170614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-post-type-discovery-20170614
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpost-type-discovery
+    docid:
+    - id: W3C post-type-discovery
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C post-type-discovery
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-post-type-discovery-20170801
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Social Web Working Group

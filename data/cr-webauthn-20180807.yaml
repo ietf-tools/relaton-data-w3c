@@ -1,0 +1,170 @@
+---
+id: W3CCR-webauthn-20180807
+title:
+- content: 'Web Authentication: An API for accessing Public Key Credentials Level
+    1'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-webauthn-20180807/
+  type: src
+type: standard
+docid:
+- id: W3C CR-webauthn-20180807
+  type: W3C
+  primary: true
+docnumber: CR-webauthn-20180807
+date:
+- type: published
+  value: '2018-08-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Akshay Kumar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Alexei Czeskis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Arnar Birgisson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dirk Balfanz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Huakai Liao
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Hubert Le Van Gong
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: J.C. Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeff Hodges
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rolf Lindemann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Vijay Bharadwaj
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-08-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-webauthn-20180320
+    docid:
+    - id: W3C CR-webauthn-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webauthn-20180320
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebauthn
+    docid:
+    - id: W3C webauthn
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webauthn
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-webauthn-20180807
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Authentication Working Group

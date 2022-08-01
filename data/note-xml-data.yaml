@@ -1,0 +1,36 @@
+---
+id: W3CNOTE-XML-data
+title:
+- content: XML Data
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/1998/NOTE-XML-data
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-XML-data
+  type: W3C
+  primary: true
+docnumber: NOTE-XML-data
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-XML-data-0105
+    docid:
+    - id: W3C NOTE-XML-data-0105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-XML-data-0105
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-XML-data
+fetched: '2022-08-01'
+doctype: recommendation

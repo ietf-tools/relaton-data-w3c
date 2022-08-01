@@ -1,0 +1,66 @@
+---
+id: W3CNOTE-web-packaging-20180130
+title:
+- content: Packaging on the Web
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/NOTE-web-packaging-20180130/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-web-packaging-20180130
+  type: W3C
+  primary: true
+docnumber: NOTE-web-packaging-20180130
+date:
+- type: published
+  value: '2018-01-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jeni Tennison
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-01-30'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-web-packaging-20150115
+    docid:
+    - id: W3C WD-web-packaging-20150115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-packaging-20150115
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpackaging-on-the-web
+    docid:
+    - id: W3C packaging-on-the-web
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C packaging-on-the-web
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-web-packaging-20180130
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group

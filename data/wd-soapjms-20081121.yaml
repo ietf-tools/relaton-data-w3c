@@ -1,0 +1,76 @@
+---
+id: W3CWD-soapjms-20081121
+title:
+- content: SOAP over Java Message Service 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2008/WD-soapjms-20081121
+  type: src
+type: standard
+docid:
+- id: W3C WD-soapjms-20081121
+  type: W3C
+  primary: true
+docnumber: WD-soapjms-20081121
+date:
+- type: published
+  value: '2008-11-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bhakti Mehta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Peter Easton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roland Merrick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2008-11-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-soapjms-20080723
+    docid:
+    - id: W3C WD-soapjms-20080723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-soapjms-20080723
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-soapjms-20081121
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SOAP-JMS Binding Working Group

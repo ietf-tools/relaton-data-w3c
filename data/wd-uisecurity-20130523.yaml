@@ -1,0 +1,86 @@
+---
+id: W3CWD-UISecurity-20130523
+title:
+- content: User Interface Security Directives for Content Security Policy
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-UISecurity-20130523/
+  type: src
+type: standard
+docid:
+- id: W3C WD-UISecurity-20130523
+  type: W3C
+  primary: true
+docnumber: WD-UISecurity-20130523
+date:
+- type: published
+  value: '2013-05-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brad Hill
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Huang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Giorgio Maone
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tobias Gondrom
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-05-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-UISafety-20121120
+    docid:
+    - id: W3C WD-UISafety-20121120
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UISafety-20121120
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-UISecurity-20130523
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-vocab-ssn-ext-20200116
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vocab-ssn-ext-20181122
+    docid:
+    - id: W3C WD-vocab-ssn-ext-20181122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-ssn-ext-20181122
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: vocab-ssn-ext
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

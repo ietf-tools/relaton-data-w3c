@@ -1,0 +1,66 @@
+---
+id: W3CWD-contacts-api-20120712
+title:
+- content: Pick Contacts Intent
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/WD-contacts-api-20120712/
+  type: src
+type: standard
+docid:
+- id: W3C WD-contacts-api-20120712
+  type: W3C
+  primary: true
+docnumber: WD-contacts-api-20120712
+date:
+- type: published
+  value: '2012-07-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Tibbett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Robin Berjon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-07-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-contacts-api-20110616
+    docid:
+    - id: W3C WD-contacts-api-20110616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-contacts-api-20110616
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-contacts-api-20120712
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

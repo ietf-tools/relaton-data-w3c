@@ -1,0 +1,56 @@
+---
+id: W3CPER-xslt20-20090421
+title:
+- content: XSL Transformations (XSLT) Version 2.0 (Second Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2009/PER-xslt20-20090421/
+  type: src
+type: standard
+docid:
+- id: W3C PER-xslt20-20090421
+  type: W3C
+  primary: true
+docnumber: PER-xslt20-20090421
+date:
+- type: published
+  value: '2009-04-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Michael Kay
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2009-04-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-xslt20-20070123
+    docid:
+    - id: W3C REC-xslt20-20070123
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xslt20-20070123
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-xslt20-20090421
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-di-gloss-20050118
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-di-gloss-20030825
+    docid:
+    - id: W3C WD-di-gloss-20030825
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-di-gloss-20030825
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: di-gloss
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

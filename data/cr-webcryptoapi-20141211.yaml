@@ -1,0 +1,79 @@
+---
+id: W3CCR-WebCryptoAPI-20141211
+title:
+- content: Web Cryptography API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-WebCryptoAPI-20141211/
+  type: src
+type: standard
+docid:
+- id: W3C CR-WebCryptoAPI-20141211
+  type: W3C
+  primary: true
+docnumber: CR-WebCryptoAPI-20141211
+date:
+- type: published
+  value: '2014-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ryan Sleevi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-WebCryptoAPI-20140325
+    docid:
+    - id: W3C WD-WebCryptoAPI-20140325
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WebCryptoAPI-20140325
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-WebCryptoAPI-20141211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Cryptography Working Group

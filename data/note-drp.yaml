@@ -1,0 +1,36 @@
+---
+id: W3CNOTE-drp
+title:
+- content: The HTTP Distribution and Replication Protocol
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/NOTE-drp
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-drp
+  type: W3C
+  primary: true
+docnumber: NOTE-drp
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-drp-19970825
+    docid:
+    - id: W3C NOTE-drp-19970825
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-drp-19970825
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-drp
+fetched: '2022-08-01'
+doctype: recommendation

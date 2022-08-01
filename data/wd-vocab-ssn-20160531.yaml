@@ -1,0 +1,89 @@
+---
+id: W3CWD-vocab-ssn-20160531
+title:
+- content: Semantic Sensor Network Ontology
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/WD-vocab-ssn-20160531/
+  type: src
+type: standard
+docid:
+- id: W3C WD-vocab-ssn-20160531
+  type: W3C
+  primary: true
+docnumber: WD-vocab-ssn-20160531
+date:
+- type: published
+  value: '2016-05-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Armin Haller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Danh Le Phuoc
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kerry Taylor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Krzysztof Janowicz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-05-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cssn
+    docid:
+    - id: W3C ssn
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ssn
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vocab-ssn-20160531
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Spatial Data on the Web Working Group

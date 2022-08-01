@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-custom-elements-20180503
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-custom-elements-20161013
+    docid:
+    - id: W3C WD-custom-elements-20161013
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-custom-elements-20161013
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-custom-elements-20141216
+    docid:
+    - id: W3C WD-custom-elements-20141216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-custom-elements-20141216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-custom-elements-20131024
+    docid:
+    - id: W3C WD-custom-elements-20131024
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-custom-elements-20131024
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: custom-elements
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

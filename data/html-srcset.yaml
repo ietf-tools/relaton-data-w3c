@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-html-srcset-20140819
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-srcset-20130228
+    docid:
+    - id: W3C WD-html-srcset-20130228
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-srcset-20130228
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: html-srcset
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

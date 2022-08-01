@@ -27,10 +27,50 @@ relation:
     formattedref:
       content: W3C WD-magnetometer-20211207
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-magnetometer-20190307
+    docid:
+    - id: W3C WD-magnetometer-20190307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-magnetometer-20190307
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-magnetometer-20180320
+    docid:
+    - id: W3C CR-magnetometer-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-magnetometer-20180320
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-magnetometer-20171018
+    docid:
+    - id: W3C WD-magnetometer-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-magnetometer-20171018
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-magnetometer-20160913
+    docid:
+    - id: W3C WD-magnetometer-20160913
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-magnetometer-20160913
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: magnetometer
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

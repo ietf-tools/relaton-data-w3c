@@ -1,0 +1,79 @@
+---
+id: W3CCR-animation-timing-20131031
+title:
+- content: Timing control for script-based animations
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-animation-timing-20131031/
+  type: src
+type: standard
+docid:
+- id: W3C CR-animation-timing-20131031
+  type: W3C
+  primary: true
+docnumber: CR-animation-timing-20131031
+date:
+- type: published
+  value: '2013-10-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Cameron McCormack
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: James Robinson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-animation-timing-20120221
+    docid:
+    - id: W3C WD-animation-timing-20120221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-animation-timing-20120221
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-animation-timing-20131031
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

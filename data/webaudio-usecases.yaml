@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-webaudio-usecases-20130129
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webaudio-usecases-20121004
+    docid:
+    - id: W3C WD-webaudio-usecases-20121004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webaudio-usecases-20121004
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webaudio-usecases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

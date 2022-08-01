@@ -1,0 +1,100 @@
+---
+id: W3CWD-web-animations-1-20150707
+title:
+- content: Web Animations
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-web-animations-1-20150707/
+  type: src
+type: standard
+docid:
+- id: W3C WD-web-animations-1-20150707
+  type: W3C
+  primary: true
+docnumber: WD-web-animations-1-20150707
+date:
+- type: published
+  value: '2015-07-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Danilo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Brian Birtles
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane Stephens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-07-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-web-animations-20140605
+    docid:
+    - id: W3C WD-web-animations-20140605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20140605
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-animations
+    docid:
+    - id: W3C web-animations
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-animations
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-web-animations-1-20150707
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SVG Working Group
+- name: Cascading Style Sheets Working Group

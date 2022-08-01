@@ -28,10 +28,20 @@ relation:
     formattedref:
       content: W3C NOTE-UAAG20-Reference-20151215
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-Reference-20140925
+    docid:
+    - id: W3C WD-UAAG20-Reference-20140925
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-Reference-20140925
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: UAAG20-Reference
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

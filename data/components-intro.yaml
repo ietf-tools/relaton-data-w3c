@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-components-intro-20140724
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-components-intro-20130606
+    docid:
+    - id: W3C WD-components-intro-20130606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-components-intro-20130606
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-components-intro-20120522
+    docid:
+    - id: W3C WD-components-intro-20120522
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-components-intro-20120522
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: components-intro
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

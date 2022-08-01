@@ -1,0 +1,79 @@
+---
+id: W3CWD-tracking-dnt-20140424
+title:
+- content: Tracking Preference Expression (DNT)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-tracking-dnt-20140424/
+  type: src
+type: standard
+docid:
+- id: W3C WD-tracking-dnt-20140424
+  type: W3C
+  primary: true
+docnumber: WD-tracking-dnt-20140424
+date:
+- type: published
+  value: '2014-04-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Singer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roy Fielding
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-04-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-tracking-dnt-20140128
+    docid:
+    - id: W3C WD-tracking-dnt-20140128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-dnt-20140128
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ctracking-dnt.html
+    docid:
+    - id: W3C tracking-dnt.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C tracking-dnt.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-tracking-dnt-20140424
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Tracking Protection Working Group

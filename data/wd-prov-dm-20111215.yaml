@@ -1,0 +1,66 @@
+---
+id: W3CWD-prov-dm-20111215
+title:
+- content: The PROV Data Model and Abstract Syntax Notation
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-prov-dm-20111215/
+  type: src
+type: standard
+docid:
+- id: W3C WD-prov-dm-20111215
+  type: W3C
+  primary: true
+docnumber: WD-prov-dm-20111215
+date:
+- type: published
+  value: '2011-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Luc Moreau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paolo Missier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-prov-dm-20111018
+    docid:
+    - id: W3C WD-prov-dm-20111018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-prov-dm-20111018
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-prov-dm-20111215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Provenance Working Group

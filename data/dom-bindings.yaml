@@ -1,0 +1,36 @@
+---
+id: W3CDOM-Bindings
+title:
+- content: Language Bindings for DOM Specifications
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/DOM-Bindings/
+  type: src
+type: standard
+docid:
+- id: W3C DOM-Bindings
+  type: W3C
+  primary: true
+docnumber: DOM-Bindings
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Bindings-20071017
+    docid:
+    - id: W3C WD-DOM-Bindings-20071017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Bindings-20071017
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: DOM-Bindings
+fetched: '2022-08-01'
+doctype: recommendation

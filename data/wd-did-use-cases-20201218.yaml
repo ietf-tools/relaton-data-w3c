@@ -1,0 +1,109 @@
+---
+id: W3CWD-did-use-cases-20201218
+title:
+- content: Use Cases and Requirements for Decentralized Identifiers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-did-use-cases-20201218/
+  type: src
+type: standard
+docid:
+- id: W3C WD-did-use-cases-20201218
+  type: W3C
+  primary: true
+docnumber: WD-did-use-cases-20201218
+date:
+- type: published
+  value: '2020-12-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Gropper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joe Andrieu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kim Duffy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Phil Archer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ryan Grant
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-12-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-did-use-cases-20201214
+    docid:
+    - id: W3C WD-did-use-cases-20201214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-did-use-cases-20201214
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cdid-use-cases
+    docid:
+    - id: W3C did-use-cases
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C did-use-cases
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-did-use-cases-20201218
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Decentralized Identifier Working Group

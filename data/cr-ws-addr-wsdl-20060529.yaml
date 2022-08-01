@@ -1,0 +1,86 @@
+---
+id: W3CCR-ws-addr-wsdl-20060529
+title:
+- content: Web Services Addressing 1.0 - WSDL Binding
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/CR-ws-addr-wsdl-20060529
+  type: src
+type: standard
+docid:
+- id: W3C CR-ws-addr-wsdl-20060529
+  type: W3C
+  primary: true
+docnumber: CR-ws-addr-wsdl-20060529
+date:
+- type: published
+  value: '2006-05-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marc Hadley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Gudgin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tony Rogers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ümit Yalçinalp
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-05-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ws-addr-wsdl-20060216
+    docid:
+    - id: W3C WD-ws-addr-wsdl-20060216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-addr-wsdl-20060216
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ws-addr-wsdl-20060529
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Addressing Working Group

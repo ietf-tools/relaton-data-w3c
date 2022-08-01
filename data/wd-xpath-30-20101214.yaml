@@ -1,0 +1,87 @@
+---
+id: W3CWD-xpath-30-20101214
+title:
+- content: XML Path Language (XPath) 3.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2010/WD-xpath-30-20101214/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xpath-30-20101214
+  type: W3C
+  primary: true
+docnumber: WD-xpath-30-20101214
+date:
+- type: published
+  value: '2010-12-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Don Chamberlin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Snelson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Robie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Dyck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-12-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xpath-21-20091215
+    docid:
+    - id: W3C WD-xpath-21-20091215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-21-20091215
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xpath-30-20101214
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family
+- name: XML Query Working Group

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-app-privacy-bp-20120703
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-app-privacy-bp-20110804
+    docid:
+    - id: W3C WD-app-privacy-bp-20110804
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-app-privacy-bp-20110804
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: app-privacy-bp
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

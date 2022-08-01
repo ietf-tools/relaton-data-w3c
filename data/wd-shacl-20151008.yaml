@@ -1,0 +1,69 @@
+---
+id: W3CWD-shacl-20151008
+title:
+- content: Shapes Constraint Language (SHACL)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-shacl-20151008/
+  type: src
+type: standard
+docid:
+- id: W3C WD-shacl-20151008
+  type: W3C
+  primary: true
+docnumber: WD-shacl-20151008
+date:
+- type: published
+  value: '2015-10-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arthur Ryman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Holger Knublauch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-10-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cdata-shapes/shacl
+    docid:
+    - id: W3C data-shapes/shacl
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C data-shapes/shacl
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-shacl-20151008
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Data Shapes Working Group

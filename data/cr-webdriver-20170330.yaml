@@ -1,0 +1,79 @@
+---
+id: W3CCR-webdriver-20170330
+title:
+- content: WebDriver
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/CR-webdriver-20170330/
+  type: src
+type: standard
+docid:
+- id: W3C CR-webdriver-20170330
+  type: W3C
+  primary: true
+docnumber: CR-webdriver-20170330
+date:
+- type: published
+  value: '2017-03-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Burns
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Stewart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-03-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webdriver-20170329
+    docid:
+    - id: W3C WD-webdriver-20170329
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20170329
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebdriver-spec.html
+    docid:
+    - id: W3C webdriver-spec.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webdriver-spec.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-webdriver-20170330
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Browser Testing and Tools Working Group

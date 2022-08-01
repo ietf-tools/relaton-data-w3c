@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C CR-geometry-1-20181204
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-geometry-1-20141125
+    docid:
+    - id: W3C CR-geometry-1-20141125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-geometry-1-20141125
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: geometry-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

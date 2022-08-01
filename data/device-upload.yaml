@@ -1,0 +1,36 @@
+---
+id: W3Cdevice-upload
+title:
+- content: Form-based Device Input and Upload in HTML
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/device-upload
+  type: src
+type: standard
+docid:
+- id: W3C device-upload
+  type: W3C
+  primary: true
+docnumber: device-upload
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-device-upload-19990706
+    docid:
+    - id: W3C NOTE-device-upload-19990706
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-device-upload-19990706
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: device-upload
+fetched: '2022-08-01'
+doctype: recommendation

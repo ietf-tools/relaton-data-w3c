@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C REC-rdf-sparql-protocol-20080115
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-rdf-sparql-protocol-20071112
+    docid:
+    - id: W3C PR-rdf-sparql-protocol-20071112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdf-sparql-protocol-20071112
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-rdf-sparql-protocol-20060406
+    docid:
+    - id: W3C CR-rdf-sparql-protocol-20060406
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-rdf-sparql-protocol-20060406
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-sparql-protocol-20050914
+    docid:
+    - id: W3C WD-rdf-sparql-protocol-20050914
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-sparql-protocol-20050914
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: rdf-sparql-protocol
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

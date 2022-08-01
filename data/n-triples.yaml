@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-n-triples-20140225
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-n-triples-20131105
+    docid:
+    - id: W3C CR-n-triples-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-n-triples-20131105
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: n-triples
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

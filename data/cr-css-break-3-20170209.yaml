@@ -1,0 +1,79 @@
+---
+id: W3CCR-css-break-3-20170209
+title:
+- content: CSS Fragmentation Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/CR-css-break-3-20170209/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-break-3-20170209
+  type: W3C
+  primary: true
+docnumber: CR-css-break-3-20170209
+date:
+- type: published
+  value: '2017-02-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rossen Atanassov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-02-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css-break-3-20160114
+    docid:
+    - id: W3C CR-css-break-3-20160114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-break-3-20160114
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-break
+    docid:
+    - id: W3C css-break
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-break
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-break-3-20170209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

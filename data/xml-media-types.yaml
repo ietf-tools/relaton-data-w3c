@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xml-media-types-20050504
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xml-media-types-20041102
+    docid:
+    - id: W3C WD-xml-media-types-20041102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-media-types-20041102
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xml-media-types
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

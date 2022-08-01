@@ -1,0 +1,76 @@
+---
+id: W3CWD-rdfa-primer-20111208
+title:
+- content: RDFa 1.1 Primer
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-rdfa-primer-20111208/
+  type: src
+type: standard
+docid:
+- id: W3C WD-rdfa-primer-20111208
+  type: W3C
+  primary: true
+docnumber: WD-rdfa-primer-20111208
+date:
+- type: published
+  value: '2011-12-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ben Adida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ivan Herman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdfa-primer-20110419
+    docid:
+    - id: W3C WD-rdfa-primer-20110419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-primer-20110419
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdfa-primer-20111208
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDFa Working Group

@@ -1,0 +1,109 @@
+---
+id: W3CWD-push-api-20181026
+title:
+- content: Push API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-push-api-20181026/
+  type: src
+type: standard
+docid:
+- id: W3C WD-push-api-20181026
+  type: W3C
+  primary: true
+docnumber: WD-push-api-20181026
+date:
+- type: published
+  value: '2018-10-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bryan Sullivan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eduardo Fullea
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael van Ouwerkerk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Peter Beverloo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-10-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-push-api-20171215
+    docid:
+    - id: W3C WD-push-api-20171215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-push-api-20171215
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpush-api
+    docid:
+    - id: W3C push-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C push-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-push-api-20181026
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

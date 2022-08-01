@@ -1,0 +1,91 @@
+---
+id: W3CREC-DOM-Level-2-HTML-20030107
+title:
+- content: |-
+    Document Object Model (DOM) Level 2 HTML
+    Specification
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030107
+  type: src
+type: standard
+docid:
+- id: W3C REC-DOM-Level-2-HTML-20030107
+  type: W3C
+  primary: true
+docnumber: REC-DOM-Level-2-HTML-20030107
+date:
+- type: published
+  value: '2003-01-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arnaud Le Hors
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Johnny Stenback
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Philippe Le Hégaret
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-01-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPR-DOM-Level-2-HTML-20021108
+    docid:
+    - id: W3C PR-DOM-Level-2-HTML-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-DOM-Level-2-HTML-20021108
+      format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3CDOM-Level-2-errata
+    docid:
+    - id: W3C DOM-Level-2-errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DOM-Level-2-errata
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-DOM-Level-2-HTML-20030107
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Hypertext Application Technology Working Group

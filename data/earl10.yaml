@@ -1,0 +1,36 @@
+---
+id: W3CEARL10
+title:
+- content: Evaluation and Report Language (EARL) 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/EARL10/
+  type: src
+type: standard
+docid:
+- id: W3C EARL10
+  type: W3C
+  primary: true
+docnumber: EARL10
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-EARL10-20021206
+    docid:
+    - id: W3C WD-EARL10-20021206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-EARL10-20021206
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: EARL10
+fetched: '2022-08-01'
+doctype: recommendation

@@ -1,0 +1,76 @@
+---
+id: W3CNOTE-security-privacy-questionnaire-20190910
+title:
+- content: 'Self-Review Questionnaire: Security and Privacy'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/NOTE-security-privacy-questionnaire-20190910/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-security-privacy-questionnaire-20190910
+  type: W3C
+  primary: true
+docnumber: NOTE-security-privacy-questionnaire-20190910
+date:
+- type: published
+  value: '2019-09-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jason Novak
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lukasz Olejnik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-09-10'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-security-privacy-questionnaire-20190523
+    docid:
+    - id: W3C NOTE-security-privacy-questionnaire-20190523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-security-privacy-questionnaire-20190523
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Csecurity-questionnaire
+    docid:
+    - id: W3C security-questionnaire
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C security-questionnaire
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-security-privacy-questionnaire-20190910
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group

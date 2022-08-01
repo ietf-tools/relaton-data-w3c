@@ -1,0 +1,86 @@
+---
+id: W3CCR-xinclude-11-20150630
+title:
+- content: XML Inclusions (XInclude) Version 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/CR-xinclude-11-20150630/
+  type: src
+type: standard
+docid:
+- id: W3C CR-xinclude-11-20150630
+  type: W3C
+  primary: true
+docnumber: CR-xinclude-11-20150630
+date:
+- type: published
+  value: '2015-06-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Veillard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Orchard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-06-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xinclude-11-20141216
+    docid:
+    - id: W3C WD-xinclude-11-20141216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xinclude-11-20141216
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xinclude-11-20150630
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

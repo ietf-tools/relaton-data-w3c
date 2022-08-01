@@ -1,0 +1,69 @@
+---
+id: W3CCR-gyroscope-20191212
+title:
+- content: Gyroscope
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/CR-gyroscope-20191212/
+  type: src
+type: standard
+docid:
+- id: W3C CR-gyroscope-20191212
+  type: W3C
+  primary: true
+docnumber: CR-gyroscope-20191212
+date:
+- type: published
+  value: '2019-12-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-gyroscope-20190307
+    docid:
+    - id: W3C WD-gyroscope-20190307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-gyroscope-20190307
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cgyroscope
+    docid:
+    - id: W3C gyroscope
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gyroscope
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-gyroscope-20191212
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

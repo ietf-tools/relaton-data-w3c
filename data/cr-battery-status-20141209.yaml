@@ -1,0 +1,79 @@
+---
+id: W3CCR-battery-status-20141209
+title:
+- content: Battery Status API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-battery-status-20141209/
+  type: src
+type: standard
+docid:
+- id: W3C CR-battery-status-20141209
+  type: W3C
+  primary: true
+docnumber: CR-battery-status-20141209
+date:
+- type: published
+  value: '2014-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mounir Lamouri
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-battery-status-20140828
+    docid:
+    - id: W3C WD-battery-status-20140828
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-battery-status-20140828
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/default
+    docid:
+    - id: W3C raw-file/default
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/default
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-battery-status-20141209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

@@ -1,0 +1,66 @@
+---
+id: W3CWD-rdf-primer-20031010
+title:
+- content: RDF Primer
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/WD-rdf-primer-20031010/
+  type: src
+type: standard
+docid:
+- id: W3C WD-rdf-primer-20031010
+  type: W3C
+  primary: true
+docnumber: WD-rdf-primer-20031010
+date:
+- type: published
+  value: '2003-10-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eric Miller
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Frank Manola
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-10-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf-primer-20030905
+    docid:
+    - id: W3C WD-rdf-primer-20030905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-primer-20030905
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdf-primer-20031010
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDFCore Working Group

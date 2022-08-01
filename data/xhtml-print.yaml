@@ -47,10 +47,30 @@ relation:
     formattedref:
       content: W3C SPSD-xhtml-print-20180327
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xhtml-print-20040120
+    docid:
+    - id: W3C CR-xhtml-print-20040120
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xhtml-print-20040120
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml-print-20030729
+    docid:
+    - id: W3C WD-xhtml-print-20030729
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-print-20030729
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-print
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

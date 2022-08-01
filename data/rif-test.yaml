@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-rif-test-20130205
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-rif-test-20121211
+    docid:
+    - id: W3C NOTE-rif-test-20121211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rif-test-20121211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rif-test-20100622
+    docid:
+    - id: W3C WD-rif-test-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-test-20100622
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rif-test-20091001
+    docid:
+    - id: W3C WD-rif-test-20091001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-test-20091001
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: rif-test
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

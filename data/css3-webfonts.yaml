@@ -1,0 +1,46 @@
+---
+id: W3Ccss3-webfonts
+title:
+- content: 'CSS3 module: Web Fonts'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/css3-webfonts
+  type: src
+type: standard
+docid:
+- id: W3C css3-webfonts
+  type: W3C
+  primary: true
+docnumber: css3-webfonts
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CREC-CSS2-19980512/fonts
+    docid:
+    - id: W3C REC-CSS2-19980512/fonts
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-19980512/fonts
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-webfonts-20020802
+    docid:
+    - id: W3C WD-css3-webfonts-20020802
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-webfonts-20020802
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: css3-webfonts
+fetched: '2022-08-01'
+doctype: recommendation

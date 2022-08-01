@@ -1,0 +1,89 @@
+---
+id: W3CCR-css-cascade-3-20131003
+title:
+- content: CSS Cascading and Inheritance Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-css-cascade-3-20131003/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-cascade-3-20131003
+  type: W3C
+  primary: true
+docnumber: CR-css-cascade-3-20131003
+date:
+- type: published
+  value: '2013-10-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Håkon Wium Lie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-cascade-3-20130730
+    docid:
+    - id: W3C WD-css-cascade-3-20130730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-cascade-3-20130730
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-cascade
+    docid:
+    - id: W3C css-cascade
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-cascade
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-cascade-3-20131003
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

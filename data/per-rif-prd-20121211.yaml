@@ -1,0 +1,76 @@
+---
+id: W3CPER-rif-prd-20121211
+title:
+- content: RIF Production Rule Dialect
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/PER-rif-prd-20121211/
+  type: src
+type: standard
+docid:
+- id: W3C PER-rif-prd-20121211
+  type: W3C
+  primary: true
+docnumber: PER-rif-prd-20121211
+date:
+- type: published
+  value: '2012-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Paschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Christian de Sainte Marie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gary Hallmark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-rif-prd-20100622
+    docid:
+    - id: W3C REC-rif-prd-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-rif-prd-20100622
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-rif-prd-20121211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RIF Working Group

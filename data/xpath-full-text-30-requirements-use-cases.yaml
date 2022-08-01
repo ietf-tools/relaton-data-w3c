@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-xpath-full-text-30-requirements-use-cases-20151210
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-30-requirements-use-cases-20120327
+    docid:
+    - id: W3C WD-xpath-full-text-30-requirements-use-cases-20120327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-30-requirements-use-cases-20120327
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xpath-full-text-30-requirements-use-cases
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

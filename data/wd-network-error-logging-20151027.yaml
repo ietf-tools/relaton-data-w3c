@@ -1,0 +1,99 @@
+---
+id: W3CWD-network-error-logging-20151027
+title:
+- content: Network Error Logging
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-network-error-logging-20151027/
+  type: src
+type: standard
+docid:
+- id: W3C WD-network-error-logging-20151027
+  type: W3C
+  primary: true
+docnumber: WD-network-error-logging-20151027
+date:
+- type: published
+  value: '2015-10-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alois Reitbauer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Arvind Jain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-10-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-network-error-logging-20150929
+    docid:
+    - id: W3C WD-network-error-logging-20150929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-network-error-logging-20150929
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cnetwork-error-logging
+    docid:
+    - id: W3C network-error-logging
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C network-error-logging
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-network-error-logging-20151027
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

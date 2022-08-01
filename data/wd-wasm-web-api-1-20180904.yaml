@@ -1,0 +1,69 @@
+---
+id: W3CWD-wasm-web-api-1-20180904
+title:
+- content: WebAssembly Web API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-wasm-web-api-1-20180904/
+  type: src
+type: standard
+docid:
+- id: W3C WD-wasm-web-api-1-20180904
+  type: W3C
+  primary: true
+docnumber: WD-wasm-web-api-1-20180904
+date:
+- type: published
+  value: '2018-09-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Ehrenberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-09-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wasm-web-api-1-20180215
+    docid:
+    - id: W3C WD-wasm-web-api-1-20180215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wasm-web-api-1-20180215
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-api
+    docid:
+    - id: W3C web-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wasm-web-api-1-20180904
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: WebAssembly Working Group

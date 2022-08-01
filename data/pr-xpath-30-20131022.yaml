@@ -1,0 +1,87 @@
+---
+id: W3CPR-xpath-30-20131022
+title:
+- content: XML Path Language (XPath) 3.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-xpath-30-20131022/
+  type: src
+type: standard
+docid:
+- id: W3C PR-xpath-30-20131022
+  type: W3C
+  primary: true
+docnumber: PR-xpath-30-20131022
+date:
+- type: published
+  value: '2013-10-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Don Chamberlin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Snelson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Robie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Dyck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xpath-30-20130108
+    docid:
+    - id: W3C CR-xpath-30-20130108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xpath-30-20130108
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-xpath-30-20131022
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family
+- name: XML Query Working Group

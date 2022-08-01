@@ -1,0 +1,66 @@
+---
+id: W3CNOTE-charmod-norm-20190204
+title:
+- content: 'Character Model for the World Wide Web: String Matching'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/NOTE-charmod-norm-20190204/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-charmod-norm-20190204
+  type: W3C
+  primary: true
+docnumber: NOTE-charmod-norm-20190204
+date:
+- type: published
+  value: '2019-02-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-02-04'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-charmod-norm-20180420
+    docid:
+    - id: W3C WD-charmod-norm-20180420
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-charmod-norm-20180420
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccharmod-norm
+    docid:
+    - id: W3C charmod-norm
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C charmod-norm
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-charmod-norm-20190204
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

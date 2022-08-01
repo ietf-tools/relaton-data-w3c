@@ -1,0 +1,79 @@
+---
+id: W3CCR-audiobooks-20191205
+title:
+- content: Audiobooks
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/CR-audiobooks-20191205/
+  type: src
+type: standard
+docid:
+- id: W3C CR-audiobooks-20191205
+  type: W3C
+  primary: true
+docnumber: CR-audiobooks-20191205
+date:
+- type: published
+  value: '2019-12-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Wendy Reid
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-audiobooks-20191118
+    docid:
+    - id: W3C WD-audiobooks-20191118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-audiobooks-20191118
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Caudiobooks
+    docid:
+    - id: W3C audiobooks
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C audiobooks
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-audiobooks-20191205
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Audiobooks Working Group

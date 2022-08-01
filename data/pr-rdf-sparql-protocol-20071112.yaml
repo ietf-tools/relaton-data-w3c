@@ -1,0 +1,76 @@
+---
+id: W3CPR-rdf-sparql-protocol-20071112
+title:
+- content: SPARQL Protocol for RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/PR-rdf-sparql-protocol-20071112/
+  type: src
+type: standard
+docid:
+- id: W3C PR-rdf-sparql-protocol-20071112
+  type: W3C
+  primary: true
+docnumber: PR-rdf-sparql-protocol-20071112
+date:
+- type: published
+  value: '2007-11-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elias Torres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kendall Grant Clark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Lee Feigenbaum
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-11-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-rdf-sparql-protocol-20060406
+    docid:
+    - id: W3C CR-rdf-sparql-protocol-20060406
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-rdf-sparql-protocol-20060406
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-rdf-sparql-protocol-20071112
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SPARQL Working Group

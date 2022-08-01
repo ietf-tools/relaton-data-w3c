@@ -1,0 +1,56 @@
+---
+id: W3CCR-xslt20-20051103
+title:
+- content: XSL Transformations (XSLT) Version 2.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2005/CR-xslt20-20051103/
+  type: src
+type: standard
+docid:
+- id: W3C CR-xslt20-20051103
+  type: W3C
+  primary: true
+docnumber: CR-xslt20-20051103
+date:
+- type: published
+  value: '2005-11-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Michael Kay
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-11-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xslt20-20050915
+    docid:
+    - id: W3C WD-xslt20-20050915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xslt20-20050915
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xslt20-20051103
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family

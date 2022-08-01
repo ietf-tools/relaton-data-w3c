@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C DNOTE-mong-gap-20220125
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mong-gap-20211117
+    docid:
+    - id: W3C WD-mong-gap-20211117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mong-gap-20211117
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mong-gap-20200616
+    docid:
+    - id: W3C WD-mong-gap-20200616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mong-gap-20200616
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: mong-gap
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

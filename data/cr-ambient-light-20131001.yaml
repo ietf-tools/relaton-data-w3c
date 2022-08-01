@@ -1,0 +1,66 @@
+---
+id: W3CCR-ambient-light-20131001
+title:
+- content: Ambient Light Events
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-ambient-light-20131001/
+  type: src
+type: standard
+docid:
+- id: W3C CR-ambient-light-20131001
+  type: W3C
+  primary: true
+docnumber: CR-ambient-light-20131001
+date:
+- type: published
+  value: '2013-10-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Doug Turner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ambient-light-20121213
+    docid:
+    - id: W3C WD-ambient-light-20121213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ambient-light-20121213
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ambient-light-20131001
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

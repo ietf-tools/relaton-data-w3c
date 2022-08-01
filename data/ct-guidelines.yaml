@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-ct-guidelines-20101026
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ct-guidelines-20091006
+    docid:
+    - id: W3C WD-ct-guidelines-20091006
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ct-guidelines-20091006
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ct-guidelines-20080801
+    docid:
+    - id: W3C WD-ct-guidelines-20080801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ct-guidelines-20080801
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ct-guidelines
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

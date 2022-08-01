@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C WD-exi-primer-20140424
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-exi-primer-20091208
+    docid:
+    - id: W3C WD-exi-primer-20091208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-exi-primer-20091208
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-exi-primer-20071219
+    docid:
+    - id: W3C WD-exi-primer-20071219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-exi-primer-20071219
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: exi-primer
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,36 @@
+---
+id: W3Ccharcol
+title:
+- content: A Notation for Character Collections for the WWW
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/charcol
+  type: src
+type: standard
+docid:
+- id: W3C charcol
+  type: W3C
+  primary: true
+docnumber: charcol
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-charcol-20000114
+    docid:
+    - id: W3C NOTE-charcol-20000114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-charcol-20000114
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: charcol
+fetched: '2022-08-01'
+doctype: recommendation

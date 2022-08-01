@@ -1,0 +1,79 @@
+---
+id: W3CCR-css-text-decor-3-20190813
+title:
+- content: CSS Text Decoration Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/CR-css-text-decor-3-20190813/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-text-decor-3-20190813
+  type: W3C
+  primary: true
+docnumber: CR-css-text-decor-3-20190813
+date:
+- type: published
+  value: '2019-08-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Koji Ishii
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-08-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css-text-decor-3-20180703
+    docid:
+    - id: W3C CR-css-text-decor-3-20180703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-text-decor-3-20180703
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-text-decor-3
+    docid:
+    - id: W3C css-text-decor-3
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-text-decor-3
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-text-decor-3-20190813
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

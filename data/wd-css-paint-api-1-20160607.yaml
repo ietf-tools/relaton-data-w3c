@@ -1,0 +1,80 @@
+---
+id: W3CWD-css-paint-api-1-20160607
+title:
+- content: CSS Painting API Level 1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/WD-css-paint-api-1-20160607/
+  type: src
+type: standard
+docid:
+- id: W3C WD-css-paint-api-1-20160607
+  type: W3C
+  primary: true
+docnumber: WD-css-paint-api-1-20160607
+date:
+- type: published
+  value: '2016-06-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dean Jackson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Kilpatrick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane Stephens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-06-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-paint-api-1
+    docid:
+    - id: W3C css-paint-api-1
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-paint-api-1
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-paint-api-1-20160607
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Technical Architecture Group
+- name: Cascading Style Sheets Working Group

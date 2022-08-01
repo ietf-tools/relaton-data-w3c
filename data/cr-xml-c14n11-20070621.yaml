@@ -1,0 +1,66 @@
+---
+id: W3CCR-xml-c14n11-20070621
+title:
+- content: Canonical XML 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/CR-xml-c14n11-20070621
+  type: src
+type: standard
+docid:
+- id: W3C CR-xml-c14n11-20070621
+  type: W3C
+  primary: true
+docnumber: CR-xml-c14n11-20070621
+date:
+- type: published
+  value: '2007-06-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Glenn Marcy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Boyer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-06-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xml-c14n11-20061220
+    docid:
+    - id: W3C WD-xml-c14n11-20061220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-c14n11-20061220
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xml-c14n11-20070621
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

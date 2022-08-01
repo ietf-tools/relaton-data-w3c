@@ -1,0 +1,69 @@
+---
+id: W3CWD-webpayments-http-api-20160915
+title:
+- content: Web Payments HTTP API 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-webpayments-http-api-20160915/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webpayments-http-api-20160915
+  type: W3C
+  primary: true
+docnumber: WD-webpayments-http-api-20160915
+date:
+- type: published
+  value: '2016-09-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-09-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cwebpayments-http-api
+    docid:
+    - id: W3C webpayments-http-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webpayments-http-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webpayments-http-api-20160915
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Payments Working Group

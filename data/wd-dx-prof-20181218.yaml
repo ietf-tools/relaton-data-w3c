@@ -1,0 +1,69 @@
+---
+id: W3CWD-dx-prof-20181218
+title:
+- content: The Profiles Ontology
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-dx-prof-20181218/
+  type: src
+type: standard
+docid:
+- id: W3C WD-dx-prof-20181218
+  type: W3C
+  primary: true
+docnumber: WD-dx-prof-20181218
+date:
+- type: published
+  value: '2018-12-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nicholas Car
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rob Atkinson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-12-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cprofilesont
+    docid:
+    - id: W3C profilesont
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C profilesont
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-dx-prof-20181218
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Dataset Exchange Working Group

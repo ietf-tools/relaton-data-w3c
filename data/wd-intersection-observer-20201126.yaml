@@ -1,0 +1,89 @@
+---
+id: W3CWD-intersection-observer-20201126
+title:
+- content: Intersection Observer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-intersection-observer-20201126/
+  type: src
+type: standard
+docid:
+- id: W3C WD-intersection-observer-20201126
+  type: W3C
+  primary: true
+docnumber: WD-intersection-observer-20201126
+date:
+- type: published
+  value: '2020-11-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Emilio Cobos Álvarez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Blain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Stefan Zager
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-11-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-intersection-observer-20201102
+    docid:
+    - id: W3C WD-intersection-observer-20201102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-intersection-observer-20201102
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3CIntersectionObserver
+    docid:
+    - id: W3C IntersectionObserver
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C IntersectionObserver
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-intersection-observer-20201126
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-websub-20180123
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-websub-20171003
+    docid:
+    - id: W3C PR-websub-20171003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-websub-20171003
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-websub-20161124
+    docid:
+    - id: W3C WD-websub-20161124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-websub-20161124
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: websub
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

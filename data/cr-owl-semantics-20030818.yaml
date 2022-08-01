@@ -1,0 +1,76 @@
+---
+id: W3CCR-owl-semantics-20030818
+title:
+- content: OWL Web Ontology Language Semantics and Abstract Syntax
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/CR-owl-semantics-20030818/
+  type: src
+type: standard
+docid:
+- id: W3C CR-owl-semantics-20030818
+  type: W3C
+  primary: true
+docnumber: CR-owl-semantics-20030818
+date:
+- type: published
+  value: '2003-08-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Horrocks
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Patrick Hayes
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Peter F. Patel-Schneider
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-08-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-owl-semantics-20030331
+    docid:
+    - id: W3C WD-owl-semantics-20030331
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-owl-semantics-20030331
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-owl-semantics-20030818
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web-Ontology Working Group

@@ -1,0 +1,106 @@
+---
+id: W3CCR-rif-core-20091001
+title:
+- content: RIF Core Dialect
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2009/CR-rif-core-20091001/
+  type: src
+type: standard
+docid:
+- id: W3C CR-rif-core-20091001
+  type: W3C
+  primary: true
+docnumber: CR-rif-core-20091001
+date:
+- type: published
+  value: '2009-10-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Paschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Axel Polleres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dave Reynolds
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Gary Hallmark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Harold Boley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Kifer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2009-10-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rif-core-20090703
+    docid:
+    - id: W3C WD-rif-core-20090703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-core-20090703
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-rif-core-20091001
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RIF Working Group

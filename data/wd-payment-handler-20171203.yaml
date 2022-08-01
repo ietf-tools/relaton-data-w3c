@@ -1,0 +1,129 @@
+---
+id: W3CWD-payment-handler-20171203
+title:
+- content: Payment Handler API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-payment-handler-20171203/
+  type: src
+type: standard
+docid:
+- id: W3C WD-payment-handler-20171203
+  type: W3C
+  primary: true
+docnumber: WD-payment-handler-20171203
+date:
+- type: published
+  value: '2017-12-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Roach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Adrian Hope-Bailie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jason Normore
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jinho Bang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tommy Thorsen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-12-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-payment-handler-20171129
+    docid:
+    - id: W3C WD-payment-handler-20171129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20171129
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cpayment-handler
+    docid:
+    - id: W3C payment-handler
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C payment-handler
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-payment-handler-20171203
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Payments Working Group

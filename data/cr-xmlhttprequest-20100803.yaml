@@ -1,0 +1,56 @@
+---
+id: W3CCR-XMLHttpRequest-20100803
+title:
+- content: XMLHttpRequest
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2010/CR-XMLHttpRequest-20100803/
+  type: src
+type: standard
+docid:
+- id: W3C CR-XMLHttpRequest-20100803
+  type: W3C
+  primary: true
+docnumber: CR-XMLHttpRequest-20100803
+date:
+- type: published
+  value: '2010-08-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anne van Kesteren
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-08-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-XMLHttpRequest-20091119
+    docid:
+    - id: W3C WD-XMLHttpRequest-20091119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-XMLHttpRequest-20091119
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-XMLHttpRequest-20100803
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

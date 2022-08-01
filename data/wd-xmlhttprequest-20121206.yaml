@@ -1,0 +1,76 @@
+---
+id: W3CWD-XMLHttpRequest-20121206
+title:
+- content: XMLHttpRequest
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/WD-XMLHttpRequest-20121206/
+  type: src
+type: standard
+docid:
+- id: W3C WD-XMLHttpRequest-20121206
+  type: W3C
+  primary: true
+docnumber: WD-XMLHttpRequest-20121206
+date:
+- type: published
+  value: '2012-12-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hallvord Steen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Julian Aubourg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jungkee Song
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-XMLHttpRequest-20120117
+    docid:
+    - id: W3C WD-XMLHttpRequest-20120117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-XMLHttpRequest-20120117
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-XMLHttpRequest-20121206
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -1,0 +1,36 @@
+---
+id: W3CNOTE-PIDL
+title:
+- content: Personalized Information Description Language (PIDL)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/NOTE-PIDL
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-PIDL
+  type: W3C
+  primary: true
+docnumber: NOTE-PIDL
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-PIDL-19990209
+    docid:
+    - id: W3C NOTE-PIDL-19990209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-PIDL-19990209
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-PIDL
+fetched: '2022-08-01'
+doctype: recommendation

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-css3-marquee-20141014
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-marquee-20081205
+    docid:
+    - id: W3C CR-css3-marquee-20081205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-marquee-20081205
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css3-marquee
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

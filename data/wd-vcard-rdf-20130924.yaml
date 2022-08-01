@@ -1,0 +1,66 @@
+---
+id: W3CWD-vcard-rdf-20130924
+title:
+- content: vCard Ontology
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/WD-vcard-rdf-20130924/
+  type: src
+type: standard
+docid:
+- id: W3C WD-vcard-rdf-20130924
+  type: W3C
+  primary: true
+docnumber: WD-vcard-rdf-20130924
+date:
+- type: published
+  value: '2013-09-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: James McKinney
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Renato Iannella
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-09-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-vcard-rdf-20130502
+    docid:
+    - id: W3C WD-vcard-rdf-20130502
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vcard-rdf-20130502
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vcard-rdf-20130924
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Semantic Web Interest Group

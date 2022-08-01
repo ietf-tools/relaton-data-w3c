@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-file-writer-api-20140424
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-writer-api-20120417
+    docid:
+    - id: W3C WD-file-writer-api-20120417
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-writer-api-20120417
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-writer-api-20110419
+    docid:
+    - id: W3C WD-file-writer-api-20110419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-writer-api-20110419
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-writer-api-20101026
+    docid:
+    - id: W3C WD-file-writer-api-20101026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-writer-api-20101026
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: file-writer-api
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

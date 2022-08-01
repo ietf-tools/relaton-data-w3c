@@ -1,0 +1,86 @@
+---
+id: W3CPER-xforms-20051006
+title:
+- content: XForms 1.0 (Second Edition)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2005/PER-xforms-20051006/
+  type: src
+type: standard
+docid:
+- id: W3C PER-xforms-20051006
+  type: W3C
+  primary: true
+docnumber: PER-xforms-20051006
+date:
+- type: published
+  value: '2005-10-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Landwehr
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John M. Boyer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roland Merrick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: T. V. Raman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2005-10-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedEditedRecommendation
+relation:
+- type: editionOf
+  bibitem:
+    id: W3CREC-xforms-20031014
+    docid:
+    - id: W3C REC-xforms-20031014
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xforms-20031014
+      format: text/plain
+series:
+- title:
+    content: W3C PER
+    format: text/plain
+  number: PER-xforms-20051006
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Forms Working Group

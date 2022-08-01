@@ -1,0 +1,79 @@
+---
+id: W3CCR-html-polyglot-20140717
+title:
+- content: 'Polyglot Markup: A robust profile of the HTML5 vocabulary'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-html-polyglot-20140717/
+  type: src
+type: standard
+docid:
+- id: W3C CR-html-polyglot-20140717
+  type: W3C
+  primary: true
+docnumber: CR-html-polyglot-20140717
+date:
+- type: published
+  value: '2014-07-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eliot Graff
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Leif Halvard Silli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-07-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-html-polyglot-20140204
+    docid:
+    - id: W3C WD-html-polyglot-20140204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-polyglot-20140204
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Chtml-polyglot.html
+    docid:
+    - id: W3C html-polyglot.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C html-polyglot.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-html-polyglot-20140717
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

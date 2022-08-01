@@ -1,0 +1,36 @@
+---
+id: W3Cowl2-test
+title:
+- content: OWL 2 Web Ontology Language:Conformance and Test Cases
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/owl2-test/
+  type: src
+type: standard
+docid:
+- id: W3C owl2-test
+  type: W3C
+  primary: true
+docnumber: owl2-test
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-owl2-test-20081202
+    docid:
+    - id: W3C WD-owl2-test-20081202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-owl2-test-20081202
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: owl2-test
+fetched: '2022-08-01'
+doctype: recommendation

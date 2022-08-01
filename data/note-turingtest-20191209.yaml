@@ -1,0 +1,106 @@
+---
+id: W3CNOTE-turingtest-20191209
+title:
+- content: Inaccessibility of CAPTCHA
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/NOTE-turingtest-20191209/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-turingtest-20191209
+  type: W3C
+  primary: true
+docnumber: NOTE-turingtest-20191209
+date:
+- type: published
+  value: '2019-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Janina Sajka
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jason White
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matthew May
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Scott Hollier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-12-09'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-turingtest-20190823
+    docid:
+    - id: W3C NOTE-turingtest-20190823
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-turingtest-20190823
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccaptcha
+    docid:
+    - id: W3C captcha
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C captcha
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-turingtest-20191209
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Accessible Platform Architectures

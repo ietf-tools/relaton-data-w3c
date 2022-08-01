@@ -1,0 +1,56 @@
+---
+id: W3Cwake-lock
+title:
+- content: Wake Lock API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/wake-lock/
+  type: src
+type: standard
+docid:
+- id: W3C wake-lock
+  type: W3C
+  primary: true
+docnumber: wake-lock
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CCR-wake-lock-20171214
+    docid:
+    - id: W3C CR-wake-lock-20171214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wake-lock-20171214
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wake-lock-20161220
+    docid:
+    - id: W3C WD-wake-lock-20161220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wake-lock-20161220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wake-lock-20150904
+    docid:
+    - id: W3C WD-wake-lock-20150904
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wake-lock-20150904
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: wake-lock
+fetched: '2022-08-01'
+doctype: recommendation

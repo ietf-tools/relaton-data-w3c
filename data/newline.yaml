@@ -1,0 +1,36 @@
+---
+id: W3Cnewline
+title:
+- content: The [NEL] Newline Character
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/newline
+  type: src
+type: standard
+docid:
+- id: W3C newline
+  type: W3C
+  primary: true
+docnumber: newline
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-newline-20010314
+    docid:
+    - id: W3C NOTE-newline-20010314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-newline-20010314
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: newline
+fetched: '2022-08-01'
+doctype: recommendation

@@ -1,0 +1,116 @@
+---
+id: W3CCR-xhtml-basic-20070713
+title:
+- content: XHTML™ Basic 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/CR-xhtml-basic-20070713
+  type: src
+type: standard
+docid:
+- id: W3C CR-xhtml-basic-20070713
+  type: W3C
+  primary: true
+docnumber: CR-xhtml-basic-20070713
+date:
+- type: published
+  value: '2007-07-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Baker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Masayasu Ishikawa
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Peter Stark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shin'ichi Matsui
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ted Wugofski
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Toshihiko Yamakami
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-07-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xhtml-basic-20060705
+    docid:
+    - id: W3C WD-xhtml-basic-20060705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-basic-20060705
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: W3CREC-xhtml-basic-20001219
+    docid:
+    - id: W3C REC-xhtml-basic-20001219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xhtml-basic-20001219
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xhtml-basic-20070713
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XHTML2 Working Group

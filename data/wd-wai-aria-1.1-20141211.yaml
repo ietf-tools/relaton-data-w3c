@@ -1,0 +1,89 @@
+---
+id: W3CWD-wai-aria-1.1-20141211
+title:
+- content: Accessible Rich Internet Applications (WAI-ARIA) 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-wai-aria-1.1-20141211/
+  type: src
+type: standard
+docid:
+- id: W3C WD-wai-aria-1.1-20141211
+  type: W3C
+  primary: true
+docnumber: WD-wai-aria-1.1-20141211
+date:
+- type: published
+  value: '2014-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: James Craig
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane McCarron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wai-aria-1.1-20140612
+    docid:
+    - id: W3C WD-wai-aria-1.1-20140612
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-1.1-20140612
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Caria.html
+    docid:
+    - id: W3C aria.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C aria.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wai-aria-1.1-20141211
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Protocols and Formats Working Group

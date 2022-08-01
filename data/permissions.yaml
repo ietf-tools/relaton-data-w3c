@@ -19,6 +19,16 @@ script:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-permissions-20220730
+    docid:
+    - id: W3C WD-permissions-20220730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20220730
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-permissions-20220527
     docid:
     - id: W3C WD-permissions-20220527
@@ -27,10 +37,50 @@ relation:
     formattedref:
       content: W3C WD-permissions-20220527
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20211207
+    docid:
+    - id: W3C WD-permissions-20211207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20211207
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20200720
+    docid:
+    - id: W3C WD-permissions-20200720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20200720
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20170925
+    docid:
+    - id: W3C WD-permissions-20170925
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20170925
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20150407
+    docid:
+    - id: W3C WD-permissions-20150407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20150407
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: permissions
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

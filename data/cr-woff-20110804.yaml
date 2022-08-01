@@ -1,0 +1,76 @@
+---
+id: W3CCR-WOFF-20110804
+title:
+- content: WOFF File Format 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/CR-WOFF-20110804
+  type: src
+type: standard
+docid:
+- id: W3C CR-WOFF-20110804
+  type: W3C
+  primary: true
+docnumber: CR-WOFF-20110804
+date:
+- type: published
+  value: '2011-08-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Erik van Blokland
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Kew
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tal Leming
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-08-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-WOFF-20101116
+    docid:
+    - id: W3C WD-WOFF-20101116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WOFF-20101116
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-WOFF-20110804
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Fonts Working Group

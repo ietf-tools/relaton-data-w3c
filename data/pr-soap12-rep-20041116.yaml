@@ -1,0 +1,76 @@
+---
+id: W3CPR-soap12-rep-20041116
+title:
+- content: Resource Representation SOAP Header Block
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2004/PR-soap12-rep-20041116/
+  type: src
+type: standard
+docid:
+- id: W3C PR-soap12-rep-20041116
+  type: W3C
+  primary: true
+docnumber: PR-soap12-rep-20041116
+date:
+- type: published
+  value: '2004-11-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anish Karmarkar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Martin Gudgin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Yves Lafon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2004-11-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-soap12-rep-20040826
+    docid:
+    - id: W3C CR-soap12-rep-20040826
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-soap12-rep-20040826
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-soap12-rep-20041116
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Protocol Working Group

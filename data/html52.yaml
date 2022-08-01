@@ -37,10 +37,20 @@ relation:
     formattedref:
       content: W3C SPSD-html52-20210128
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html52-20161206
+    docid:
+    - id: W3C WD-html52-20161206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html52-20161206
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: html52
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

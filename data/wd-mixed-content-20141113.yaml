@@ -1,0 +1,69 @@
+---
+id: W3CWD-mixed-content-20141113
+title:
+- content: Mixed Content
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-mixed-content-20141113/
+  type: src
+type: standard
+docid:
+- id: W3C WD-mixed-content-20141113
+  type: W3C
+  primary: true
+docnumber: WD-mixed-content-20141113
+date:
+- type: published
+  value: '2014-11-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-11-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mixed-content-20140916
+    docid:
+    - id: W3C WD-mixed-content-20140916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mixed-content-20140916
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmixedcontent
+    docid:
+    - id: W3C mixedcontent
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mixedcontent
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mixed-content-20141113
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

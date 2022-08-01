@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-webxr-dom-overlays-1-20220705
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webxr-dom-overlays-1-20210831
+    docid:
+    - id: W3C WD-webxr-dom-overlays-1-20210831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-dom-overlays-1-20210831
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webxr-dom-overlays-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

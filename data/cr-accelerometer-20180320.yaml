@@ -1,0 +1,79 @@
+---
+id: W3CCR-accelerometer-20180320
+title:
+- content: Accelerometer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-accelerometer-20180320/
+  type: src
+type: standard
+docid:
+- id: W3C CR-accelerometer-20180320
+  type: W3C
+  primary: true
+docnumber: CR-accelerometer-20180320
+date:
+- type: published
+  value: '2018-03-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexander Shalamov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-03-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-accelerometer-20171018
+    docid:
+    - id: W3C WD-accelerometer-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-accelerometer-20171018
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Caccelerometer
+    docid:
+    - id: W3C accelerometer
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C accelerometer
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-accelerometer-20180320
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

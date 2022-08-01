@@ -1,0 +1,99 @@
+---
+id: W3CWD-css-position-3-20200519
+title:
+- content: CSS Positioned Layout Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-css-position-3-20200519/
+  type: src
+type: standard
+docid:
+- id: W3C WD-css-position-3-20200519
+  type: W3C
+  primary: true
+docnumber: WD-css-position-3-20200519
+date:
+- type: published
+  value: '2020-05-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arron Eicholz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rossen Atanassov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-05-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-position-3-20160517
+    docid:
+    - id: W3C WD-css-position-3-20160517
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-position-3-20160517
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-position
+    docid:
+    - id: W3C css-position
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-position
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-position-3-20200519
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

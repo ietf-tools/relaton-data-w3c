@@ -1,0 +1,109 @@
+---
+id: W3CWD-user-timing-3-20190927
+title:
+- content: User Timing Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/WD-user-timing-3-20190927/
+  type: src
+type: standard
+docid:
+- id: W3C WD-user-timing-3-20190927
+  type: W3C
+  primary: true
+docnumber: WD-user-timing-3-20190927
+date:
+- type: published
+  value: '2019-09-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anderson Quach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nicolas Pena Moreno
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-09-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-user-timing-3-20190809
+    docid:
+    - id: W3C WD-user-timing-3-20190809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-user-timing-3-20190809
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cuser-timing
+    docid:
+    - id: W3C user-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C user-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-user-timing-3-20190927
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

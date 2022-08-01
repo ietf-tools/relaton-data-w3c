@@ -1,0 +1,36 @@
+---
+id: W3Cxhtml+voice
+title:
+- content: XHTML+Voice Profile 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xhtml+voice/
+  type: src
+type: standard
+docid:
+- id: W3C xhtml+voice
+  type: W3C
+  primary: true
+docnumber: xhtml+voice
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xhtml+voice-20011221
+    docid:
+    - id: W3C NOTE-xhtml+voice-20011221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xhtml+voice-20011221
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xhtml+voice
+fetched: '2022-08-01'
+doctype: recommendation

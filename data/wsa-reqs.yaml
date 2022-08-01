@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-wsa-reqs-20040211
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wsa-reqs-20021114
+    docid:
+    - id: W3C WD-wsa-reqs-20021114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsa-reqs-20021114
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: wsa-reqs
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

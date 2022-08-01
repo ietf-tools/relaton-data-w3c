@@ -1,0 +1,46 @@
+---
+id: W3Caria-roadmap
+title:
+- content: Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/aria-roadmap/
+  type: src
+type: standard
+docid:
+- id: W3C aria-roadmap
+  type: W3C
+  primary: true
+docnumber: aria-roadmap
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-aria-roadmap-20071019
+    docid:
+    - id: W3C WD-aria-roadmap-20071019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-aria-roadmap-20071019
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-aria-roadmap-20060926
+    docid:
+    - id: W3C WD-aria-roadmap-20060926
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-aria-roadmap-20060926
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: aria-roadmap
+fetched: '2022-08-01'
+doctype: recommendation

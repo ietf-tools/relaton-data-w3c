@@ -1,0 +1,76 @@
+---
+id: W3CCR-touch-events-20111215
+title:
+- content: Touch Events version 1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/CR-touch-events-20111215/
+  type: src
+type: standard
+docid:
+- id: W3C CR-touch-events-20111215
+  type: W3C
+  primary: true
+docnumber: CR-touch-events-20111215
+date:
+- type: published
+  value: '2011-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Doug Schepers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Matt Brubeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Sangwhan Moon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-touch-events-20111027
+    docid:
+    - id: W3C WD-touch-events-20111027
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-touch-events-20111027
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-touch-events-20111215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Events Working Group

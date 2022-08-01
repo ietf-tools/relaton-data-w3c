@@ -1,0 +1,36 @@
+---
+id: W3Ctrace-context
+title:
+- content: Trace Context
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/trace-context/
+  type: src
+type: standard
+docid:
+- id: W3C trace-context
+  type: W3C
+  primary: true
+docnumber: trace-context
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-trace-context-20181122
+    docid:
+    - id: W3C WD-trace-context-20181122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trace-context-20181122
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: trace-context
+fetched: '2022-08-01'
+doctype: recommendation

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-swbp-classes-as-values-20050405
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-swbp-classes-as-values-20040721
+    docid:
+    - id: W3C WD-swbp-classes-as-values-20040721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-swbp-classes-as-values-20040721
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: swbp-classes-as-values
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

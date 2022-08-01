@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C REC-pronunciation-lexicon-20081014
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-pronunciation-lexicon-20071212
+    docid:
+    - id: W3C CR-pronunciation-lexicon-20071212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-pronunciation-lexicon-20071212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pronunciation-lexicon-20061026
+    docid:
+    - id: W3C WD-pronunciation-lexicon-20061026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pronunciation-lexicon-20061026
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pronunciation-lexicon-20050214
+    docid:
+    - id: W3C WD-pronunciation-lexicon-20050214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pronunciation-lexicon-20050214
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: pronunciation-lexicon
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

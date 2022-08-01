@@ -1,0 +1,69 @@
+---
+id: W3CCRD-css-variables-1-20211111
+title:
+- content: CSS Custom Properties for Cascading Variables Module Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/CRD-css-variables-1-20211111/
+  type: src
+type: standard
+docid:
+- id: W3C CRD-css-variables-1-20211111
+  type: W3C
+  primary: true
+docnumber: CRD-css-variables-1-20211111
+date:
+- type: published
+  value: '2021-11-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-11-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css-variables-1-20151203
+    docid:
+    - id: W3C CR-css-variables-1-20151203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-variables-1-20151203
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-variables
+    docid:
+    - id: W3C css-variables
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-variables
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-css-variables-1-20211111
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

@@ -1,0 +1,79 @@
+---
+id: W3CPR-html-longdesc-20141204
+title:
+- content: HTML5 Image Description Extension (longdesc)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/PR-html-longdesc-20141204/
+  type: src
+type: standard
+docid:
+- id: W3C PR-html-longdesc-20141204
+  type: W3C
+  primary: true
+docnumber: PR-html-longdesc-20141204
+date:
+- type: published
+  value: '2014-12-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles McCathieNevile
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Sadecki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-html-longdesc-20140812
+    docid:
+    - id: W3C CR-html-longdesc-20140812
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-html-longdesc-20140812
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/default
+    docid:
+    - id: W3C raw-file/default
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/default
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-html-longdesc-20141204
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

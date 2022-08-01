@@ -27,10 +27,50 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-practices-20160714
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-practices-20130307
+    docid:
+    - id: W3C WD-wai-aria-practices-20130307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-practices-20130307
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-practices-20100916
+    docid:
+    - id: W3C WD-wai-aria-practices-20100916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-practices-20100916
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-practices-20090224
+    docid:
+    - id: W3C WD-wai-aria-practices-20090224
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-practices-20090224
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-practices-20080204
+    docid:
+    - id: W3C WD-wai-aria-practices-20080204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-practices-20080204
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: wai-aria-practices
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

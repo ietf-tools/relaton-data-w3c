@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-di-atdi-20040218
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-di-atdi-20031106
+    docid:
+    - id: W3C WD-di-atdi-20031106
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-di-atdi-20031106
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: di-atdi
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

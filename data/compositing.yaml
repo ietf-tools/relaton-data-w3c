@@ -1,0 +1,36 @@
+---
+id: W3Ccompositing
+title:
+- content: Compositing and Blending 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/compositing/
+  type: src
+type: standard
+docid:
+- id: W3C compositing
+  type: W3C
+  primary: true
+docnumber: compositing
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-compositing-20120816
+    docid:
+    - id: W3C WD-compositing-20120816
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-compositing-20120816
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: compositing
+fetched: '2022-08-01'
+doctype: recommendation

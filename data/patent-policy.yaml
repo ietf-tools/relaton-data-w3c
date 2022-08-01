@@ -1,0 +1,38 @@
+---
+id: W3Cpatent-policy
+title:
+- content: |-
+    Patent Policy Working Group Royalty-Free Patent
+    Policy
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/patent-policy/
+  type: src
+type: standard
+docid:
+- id: W3C patent-policy
+  type: W3C
+  primary: true
+docnumber: patent-policy
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-patent-policy-20021114
+    docid:
+    - id: W3C WD-patent-policy-20021114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-patent-policy-20021114
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: patent-policy
+fetched: '2022-08-01'
+doctype: recommendation

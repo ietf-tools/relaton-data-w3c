@@ -1,0 +1,66 @@
+---
+id: W3CWD-xmlsec-rngschema-20100831
+title:
+- content: XML Security RELAX NG Schemas
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2010/WD-xmlsec-rngschema-20100831/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xmlsec-rngschema-20100831
+  type: W3C
+  primary: true
+docnumber: WD-xmlsec-rngschema-20100831
+date:
+- type: published
+  value: '2010-08-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Makoto Murata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2010-08-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmlsec-rngschema-20100316
+    docid:
+    - id: W3C WD-xmlsec-rngschema-20100316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-rngschema-20100316
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xmlsec-rngschema-20100831
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

@@ -28,10 +28,30 @@ relation:
     formattedref:
       content: W3C REC-CCPP-struct-vocab-20040115
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-CCPP-struct-vocab-20031015
+    docid:
+    - id: W3C PR-CCPP-struct-vocab-20031015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-CCPP-struct-vocab-20031015
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CCPP-struct-vocab-20021108
+    docid:
+    - id: W3C WD-CCPP-struct-vocab-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CCPP-struct-vocab-20021108
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: CCPP-struct-vocab
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

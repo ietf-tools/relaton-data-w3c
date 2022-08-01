@@ -1,0 +1,89 @@
+---
+id: W3CWD-webcodecs-20211216
+title:
+- content: WebCodecs
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-webcodecs-20211216/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webcodecs-20211216
+  type: W3C
+  primary: true
+docnumber: WD-webcodecs-20211216
+date:
+- type: published
+  value: '2021-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Chris Cunningham
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paul Adenot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-12-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webcodecs-20211129
+    docid:
+    - id: W3C WD-webcodecs-20211129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webcodecs-20211129
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebcodecs
+    docid:
+    - id: W3C webcodecs
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webcodecs
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webcodecs-20211216
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Media Working Group

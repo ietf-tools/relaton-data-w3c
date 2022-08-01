@@ -1,0 +1,106 @@
+---
+id: W3CCR-CSS2-20090423
+title:
+- content: Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2009/CR-CSS2-20090423
+  type: src
+type: standard
+docid:
+- id: W3C CR-CSS2-20090423
+  type: W3C
+  primary: true
+docnumber: CR-CSS2-20090423
+date:
+- type: published
+  value: '2009-04-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bert Bos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Håkon Wium Lie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tantek Çelik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2009-04-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-CSS21-20070719
+    docid:
+    - id: W3C CR-CSS21-20070719
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-CSS21-20070719
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3CREC-CSS2-20080411
+    docid:
+    - id: W3C REC-CSS2-20080411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-20080411
+      format: text/plain
+- type: editionOf
+  bibitem:
+    id: W3CREC-CSS2-20080411
+    docid:
+    - id: W3C REC-CSS2-20080411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-20080411
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-CSS2-20090423
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

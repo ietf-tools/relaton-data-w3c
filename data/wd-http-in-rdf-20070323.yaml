@@ -1,0 +1,76 @@
+---
+id: W3CWD-HTTP-in-RDF-20070323
+title:
+- content: HTTP Vocabulary in RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2007/WD-HTTP-in-RDF-20070323/
+  type: src
+type: standard
+docid:
+- id: W3C WD-HTTP-in-RDF-20070323
+  type: W3C
+  primary: true
+docnumber: WD-HTTP-in-RDF-20070323
+date:
+- type: published
+  value: '2007-03-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Carlos A Velasco
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Johannes Koch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shadi Abou-Zahra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2007-03-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-HTTP-in-RDF-20061220
+    docid:
+    - id: W3C WD-HTTP-in-RDF-20061220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-HTTP-in-RDF-20061220
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-HTTP-in-RDF-20070323
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Evaluation and Repair Tools Working Group

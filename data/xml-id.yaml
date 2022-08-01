@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-xml-id-20050909
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xml-id-20041109
+    docid:
+    - id: W3C WD-xml-id-20041109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-id-20041109
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xml-id
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

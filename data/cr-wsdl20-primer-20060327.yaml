@@ -1,0 +1,66 @@
+---
+id: W3CCR-wsdl20-primer-20060327
+title:
+- content: 'Web Services Description Language (WSDL) Version 2.0 Part 0: Primer'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/CR-wsdl20-primer-20060327
+  type: src
+type: standard
+docid:
+- id: W3C CR-wsdl20-primer-20060327
+  type: W3C
+  primary: true
+docnumber: CR-wsdl20-primer-20060327
+date:
+- type: published
+  value: '2006-03-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Canyang Kevin Liu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Booth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-03-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-wsdl20-primer-20060106
+    docid:
+    - id: W3C CR-wsdl20-primer-20060106
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wsdl20-primer-20060106
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-wsdl20-primer-20060327
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Services Description Working Group

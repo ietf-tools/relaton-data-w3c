@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-rdfa-api-20120705
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdfa-api-20110419
+    docid:
+    - id: W3C WD-rdfa-api-20110419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-api-20110419
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdfa-api-20100923
+    docid:
+    - id: W3C WD-rdfa-api-20100923
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-api-20100923
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: rdfa-api
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

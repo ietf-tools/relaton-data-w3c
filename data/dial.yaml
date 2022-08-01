@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-dial-20100629
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dial-20070727
+    docid:
+    - id: W3C WD-dial-20070727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dial-20070727
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dial-20060516
+    docid:
+    - id: W3C WD-dial-20060516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dial-20060516
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: dial
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

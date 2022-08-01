@@ -1,0 +1,69 @@
+---
+id: W3CWD-shacl-abstract-syntax-20160825
+title:
+- content: SHACL Core Abstract Syntax and Semantics
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-shacl-abstract-syntax-20160825/
+  type: src
+type: standard
+docid:
+- id: W3C WD-shacl-abstract-syntax-20160825
+  type: W3C
+  primary: true
+docnumber: WD-shacl-abstract-syntax-20160825
+date:
+- type: published
+  value: '2016-08-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eric Prud'hommeaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Karen Coyle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-08-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cshacl-abstract-syntax
+    docid:
+    - id: W3C shacl-abstract-syntax
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C shacl-abstract-syntax
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-shacl-abstract-syntax-20160825
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Data Shapes Working Group

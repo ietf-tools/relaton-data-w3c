@@ -1,0 +1,46 @@
+---
+id: W3CWCAG20-SCRIPT-TECHS
+title:
+- content: Client-side Scripting Techniques for WCAG 2.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/WCAG20-SCRIPT-TECHS/
+  type: src
+type: standard
+docid:
+- id: W3C WCAG20-SCRIPT-TECHS
+  type: W3C
+  primary: true
+docnumber: WCAG20-SCRIPT-TECHS
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WCAG20-SCRIPT-TECHS-20050630
+    docid:
+    - id: W3C WD-WCAG20-SCRIPT-TECHS-20050630
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG20-SCRIPT-TECHS-20050630
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WCAG20-SCRIPT-TECHS-20041119
+    docid:
+    - id: W3C WD-WCAG20-SCRIPT-TECHS-20041119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG20-SCRIPT-TECHS-20041119
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: WCAG20-SCRIPT-TECHS
+fetched: '2022-08-01'
+doctype: recommendation

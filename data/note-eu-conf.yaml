@@ -1,0 +1,37 @@
+---
+id: W3CNOTE-eu-conf
+title:
+- content: W3C Activities Related to the "Global Information Networks" Ministerial
+    Conference Meeting in Bonn, Germany
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/NOTE-eu-conf
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-eu-conf
+  type: W3C
+  primary: true
+docnumber: NOTE-eu-conf
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-eu-conf-970711
+    docid:
+    - id: W3C NOTE-eu-conf-970711
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-eu-conf-970711
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: NOTE-eu-conf
+fetched: '2022-08-01'
+doctype: recommendation

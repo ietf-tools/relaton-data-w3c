@@ -1,0 +1,89 @@
+---
+id: W3CWD-mediaqueries-5-20200731
+title:
+- content: Media Queries Level 5
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2020/WD-mediaqueries-5-20200731/
+  type: src
+type: standard
+docid:
+- id: W3C WD-mediaqueries-5-20200731
+  type: W3C
+  primary: true
+docnumber: WD-mediaqueries-5-20200731
+date:
+- type: published
+  value: '2020-07-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dean Jackson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Florian Rivoal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2020-07-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mediaqueries-5-20200715
+    docid:
+    - id: W3C WD-mediaqueries-5-20200715
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediaqueries-5-20200715
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmediaqueries-5
+    docid:
+    - id: W3C mediaqueries-5
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediaqueries-5
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mediaqueries-5-20200731
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

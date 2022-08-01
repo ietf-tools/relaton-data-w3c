@@ -1,0 +1,86 @@
+---
+id: W3CWD-rdb-direct-mapping-20110920
+title:
+- content: A Direct Mapping of Relational Data to RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-rdb-direct-mapping-20110920/
+  type: src
+type: standard
+docid:
+- id: W3C WD-rdb-direct-mapping-20110920
+  type: W3C
+  primary: true
+docnumber: WD-rdb-direct-mapping-20110920
+date:
+- type: published
+  value: '2011-09-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexandre Bertails
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eric Prud'hommeaux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Juan Sequeda
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Marcelo Arenas
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-09-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdb-direct-mapping-20110324
+    docid:
+    - id: W3C WD-rdb-direct-mapping-20110324
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdb-direct-mapping-20110324
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdb-direct-mapping-20110920
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDB2RDF Working Group

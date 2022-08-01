@@ -1,0 +1,56 @@
+---
+id: W3CCR-webstorage-20111208
+title:
+- content: Web Storage
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/CR-webstorage-20111208/
+  type: src
+type: standard
+docid:
+- id: W3C CR-webstorage-20111208
+  type: W3C
+  primary: true
+docnumber: CR-webstorage-20111208
+date:
+- type: published
+  value: '2011-12-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webstorage-20111025
+    docid:
+    - id: W3C WD-webstorage-20111025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webstorage-20111025
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-webstorage-20111208
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

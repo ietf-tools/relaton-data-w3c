@@ -1,0 +1,66 @@
+---
+id: W3CCR-performance-timeline-20120726
+title:
+- content: Performance Timeline
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-performance-timeline-20120726/
+  type: src
+type: standard
+docid:
+- id: W3C CR-performance-timeline-20120726
+  type: W3C
+  primary: true
+docnumber: CR-performance-timeline-20120726
+date:
+- type: published
+  value: '2012-07-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-07-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-performance-timeline-20120508
+    docid:
+    - id: W3C WD-performance-timeline-20120508
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-20120508
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-performance-timeline-20120726
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-cssom-1-20210826
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cssom-1-20160317
+    docid:
+    - id: W3C WD-cssom-1-20160317
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cssom-1-20160317
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: cssom-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

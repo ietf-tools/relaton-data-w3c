@@ -1,0 +1,66 @@
+---
+id: W3CCR-CSP-20121115
+title:
+- content: Content Security Policy 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-CSP-20121115/
+  type: src
+type: standard
+docid:
+- id: W3C CR-CSP-20121115
+  type: W3C
+  primary: true
+docnumber: CR-CSP-20121115
+date:
+- type: published
+  value: '2012-11-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Barth
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Brandon Sterne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-11-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-CSP-20120710
+    docid:
+    - id: W3C WD-CSP-20120710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP-20120710
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-CSP-20121115
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

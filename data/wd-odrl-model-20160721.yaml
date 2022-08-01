@@ -1,0 +1,69 @@
+---
+id: W3CWD-odrl-model-20160721
+title:
+- content: ODRL Information Model
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/WD-odrl-model-20160721/
+  type: src
+type: standard
+docid:
+- id: W3C WD-odrl-model-20160721
+  type: W3C
+  primary: true
+docnumber: WD-odrl-model-20160721
+date:
+- type: published
+  value: '2016-07-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Renato Iannella
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Serena Villata
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-07-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cmodel
+    docid:
+    - id: W3C model
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C model
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-odrl-model-20160721
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Permissions and Obligations Expression Working Group

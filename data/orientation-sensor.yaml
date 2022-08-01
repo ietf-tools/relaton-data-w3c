@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C WD-orientation-sensor-20210902
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-orientation-sensor-20191212
+    docid:
+    - id: W3C CR-orientation-sensor-20191212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-orientation-sensor-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-orientation-sensor-20180320
+    docid:
+    - id: W3C CR-orientation-sensor-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-orientation-sensor-20180320
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-orientation-sensor-20171018
+    docid:
+    - id: W3C WD-orientation-sensor-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-orientation-sensor-20171018
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: orientation-sensor
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

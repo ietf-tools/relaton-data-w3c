@@ -1,0 +1,69 @@
+---
+id: W3CWD-gyroscope-20160913
+title:
+- content: Gyroscope Sensor
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/WD-gyroscope-20160913/
+  type: src
+type: standard
+docid:
+- id: W3C WD-gyroscope-20160913
+  type: W3C
+  primary: true
+docnumber: WD-gyroscope-20160913
+date:
+- type: published
+  value: '2016-09-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mikhail Pozdnyakov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-09-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: hasDraft
+  bibitem:
+    id: W3Cgyroscope
+    docid:
+    - id: W3C gyroscope
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C gyroscope
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-gyroscope-20160913
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

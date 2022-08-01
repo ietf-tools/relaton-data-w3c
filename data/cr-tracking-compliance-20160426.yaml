@@ -1,0 +1,109 @@
+---
+id: W3CCR-tracking-compliance-20160426
+title:
+- content: Tracking Compliance and Scope
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/CR-tracking-compliance-20160426/
+  type: src
+type: standard
+docid:
+- id: W3C CR-tracking-compliance-20160426
+  type: W3C
+  primary: true
+docnumber: CR-tracking-compliance-20160426
+date:
+- type: published
+  value: '2016-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Erica Newland
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Heather West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Justin Brookman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nick Doty
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Sean Harvey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-04-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-tracking-compliance-20150714
+    docid:
+    - id: W3C WD-tracking-compliance-20150714
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-compliance-20150714
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ctracking-compliance.html
+    docid:
+    - id: W3C tracking-compliance.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C tracking-compliance.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-tracking-compliance-20160426
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Tracking Protection Working Group

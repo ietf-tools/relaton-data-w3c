@@ -1,0 +1,58 @@
+---
+id: W3CWD-clear-site-data-20160720
+title:
+- content: Clear Site Data
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/WD-clear-site-data-20160720/
+  type: src
+type: standard
+docid:
+- id: W3C WD-clear-site-data-20160720
+  type: W3C
+  primary: true
+docnumber: WD-clear-site-data-20160720
+date:
+- type: published
+  value: '2016-07-20'
+revdate: '2016-07-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-clear-site-data-20150804
+    docid:
+    - id: W3C WD-clear-site-data-20150804
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clear-site-data-20150804
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebappsec-clear-site-data
+    docid:
+    - id: W3C webappsec-clear-site-data
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webappsec-clear-site-data
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-clear-site-data-20160720
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Application Security Working Group

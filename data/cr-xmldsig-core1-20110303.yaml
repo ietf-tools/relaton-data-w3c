@@ -1,0 +1,116 @@
+---
+id: W3CCR-xmldsig-core1-20110303
+title:
+- content: XML Signature Syntax and Processing Version 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/CR-xmldsig-core1-20110303/
+  type: src
+type: standard
+docid:
+- id: W3C CR-xmldsig-core1-20110303
+  type: W3C
+  primary: true
+docnumber: CR-xmldsig-core1-20110303
+date:
+- type: published
+  value: '2011-03-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Solo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Donald Eastlake
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Frederick Hirsch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Joseph Reagle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kelvin Yiu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Magnus Nyström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Thomas Roessler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-03-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xmldsig-core1-20101130
+    docid:
+    - id: W3C WD-xmldsig-core1-20101130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-core1-20101130
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-xmldsig-core1-20110303
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Security Working Group

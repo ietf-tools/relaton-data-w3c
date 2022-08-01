@@ -1,0 +1,99 @@
+---
+id: W3CCR-encrypted-media-20160705
+title:
+- content: Encrypted Media Extensions
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/CR-encrypted-media-20160705/
+  type: src
+type: standard
+docid:
+- id: W3C CR-encrypted-media-20160705
+  type: W3C
+  primary: true
+docnumber: CR-encrypted-media-20160705
+date:
+- type: published
+  value: '2016-07-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Bateman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: David Dorwin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jerry Smith
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-07-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-encrypted-media-20160610
+    docid:
+    - id: W3C WD-encrypted-media-20160610
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-encrypted-media-20160610
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cencrypted-media
+    docid:
+    - id: W3C encrypted-media
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C encrypted-media
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-encrypted-media-20160705
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

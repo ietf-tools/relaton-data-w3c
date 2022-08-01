@@ -1,0 +1,99 @@
+---
+id: W3CWD-ime-api-20151215
+title:
+- content: Input Method Editor API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-ime-api-20151215/
+  type: src
+type: standard
+docid:
+- id: W3C WD-ime-api-20151215
+  type: W3C
+  primary: true
+docnumber: WD-ime-api-20151215
+date:
+- type: published
+  value: '2015-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Hironori Bono
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Kenji Baheux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Takayoshi Kochi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Travis Leithead
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-12-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ime-api-20150526
+    docid:
+    - id: W3C WD-ime-api-20150526
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ime-api-20150526
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cime-api
+    docid:
+    - id: W3C ime-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ime-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-ime-api-20151215
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

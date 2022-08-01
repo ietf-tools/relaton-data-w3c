@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-hr-time-20121217
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CSPSD-hr-time-1-20191121
+    docid:
+    - id: W3C SPSD-hr-time-1-20191121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C SPSD-hr-time-1-20191121
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: hr-time
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

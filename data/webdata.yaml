@@ -1,0 +1,36 @@
+---
+id: W3CWebData
+title:
+- content: 'Web Architecture: Describing and Exchanging Data'
+  format: text/plain
+link:
+- content: http://www.w3.org/1999/04/WebData
+  type: src
+type: standard
+docid:
+- id: W3C WebData
+  type: W3C
+  primary: true
+docnumber: WebData
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3C07-WebData
+    docid:
+    - id: W3C 07-WebData
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C 07-WebData
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: WebData
+fetched: '2022-08-01'
+doctype: recommendation

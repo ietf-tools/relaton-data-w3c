@@ -27,10 +27,80 @@ relation:
     formattedref:
       content: W3C REC-xmlschema11-2-20120405
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xmlschema11-2-20110721
+    docid:
+    - id: W3C CR-xmlschema11-2-20110721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmlschema11-2-20110721
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema11-2-20091203
+    docid:
+    - id: W3C WD-xmlschema11-2-20091203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema11-2-20091203
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xmlschema11-2-20090430
+    docid:
+    - id: W3C CR-xmlschema11-2-20090430
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xmlschema11-2-20090430
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema11-2-20080620
+    docid:
+    - id: W3C WD-xmlschema11-2-20080620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema11-2-20080620
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema11-2-20060217
+    docid:
+    - id: W3C WD-xmlschema11-2-20060217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema11-2-20060217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema11-2-20050224
+    docid:
+    - id: W3C WD-xmlschema11-2-20050224
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema11-2-20050224
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema11-2-20040716
+    docid:
+    - id: W3C WD-xmlschema11-2-20040716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema11-2-20040716
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xmlschema11-2
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

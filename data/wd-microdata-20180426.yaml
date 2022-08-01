@@ -1,0 +1,89 @@
+---
+id: W3CWD-microdata-20180426
+title:
+- content: HTML Microdata
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-microdata-20180426/
+  type: src
+type: standard
+docid:
+- id: W3C WD-microdata-20180426
+  type: W3C
+  primary: true
+docnumber: WD-microdata-20180426
+date:
+- type: published
+  value: '2018-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles 'chaals' (McCathie) Nevile
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dan Brickley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ian Hickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-04-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-microdata-20171010
+    docid:
+    - id: W3C WD-microdata-20171010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-microdata-20171010
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmicrodata
+    docid:
+    - id: W3C microdata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C microdata
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-microdata-20180426
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

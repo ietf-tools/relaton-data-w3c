@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C WD-media-capabilities-20220420
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-capabilities-20210604
+    docid:
+    - id: W3C WD-media-capabilities-20210604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-capabilities-20210604
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-capabilities-20200130
+    docid:
+    - id: W3C WD-media-capabilities-20200130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-capabilities-20200130
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: media-capabilities
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

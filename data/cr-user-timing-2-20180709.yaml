@@ -1,0 +1,99 @@
+---
+id: W3CCR-user-timing-2-20180709
+title:
+- content: User Timing Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-user-timing-2-20180709/
+  type: src
+type: standard
+docid:
+- id: W3C CR-user-timing-2-20180709
+  type: W3C
+  primary: true
+docnumber: CR-user-timing-2-20180709
+date:
+- type: published
+  value: '2018-07-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anderson Quach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-07-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-user-timing-2-20180706
+    docid:
+    - id: W3C WD-user-timing-2-20180706
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-user-timing-2-20180706
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cuser-timing
+    docid:
+    - id: W3C user-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C user-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-user-timing-2-20180709
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

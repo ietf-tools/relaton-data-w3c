@@ -37,10 +37,50 @@ relation:
     formattedref:
       content: W3C SPSD-cors-20200602
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-cors-20131205
+    docid:
+    - id: W3C PR-cors-20131205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-cors-20131205
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cors-20120403
+    docid:
+    - id: W3C WD-cors-20120403
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cors-20120403
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cors-20100727
+    docid:
+    - id: W3C WD-cors-20100727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cors-20100727
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-cors-20090317
+    docid:
+    - id: W3C WD-cors-20090317
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cors-20090317
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: cors
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

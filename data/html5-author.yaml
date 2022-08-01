@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-html5-author-20130528
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html5-author-20121025
+    docid:
+    - id: W3C WD-html5-author-20121025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html5-author-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html5-author-20110809
+    docid:
+    - id: W3C WD-html5-author-20110809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html5-author-20110809
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: html5-author
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,77 @@
+---
+id: W3CPR-xpath-datamodel-30-20131022
+title:
+- content: XQuery and XPath Data Model 3.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-xpath-datamodel-30-20131022/
+  type: src
+type: standard
+docid:
+- id: W3C PR-xpath-datamodel-30-20131022
+  type: W3C
+  primary: true
+docnumber: PR-xpath-datamodel-30-20131022
+date:
+- type: published
+  value: '2013-10-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anders Berglund
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Snelson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Norman Walsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-10-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xpath-datamodel-30-20130108
+    docid:
+    - id: W3C CR-xpath-datamodel-30-20130108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xpath-datamodel-30-20130108
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-xpath-datamodel-30-20131022
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Extensible Stylesheet Language Family
+- name: XML Query Working Group

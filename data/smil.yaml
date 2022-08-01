@@ -1,0 +1,36 @@
+---
+id: W3CSMIL
+title:
+- content: Synchronized Multimedia Integration Language (SMIL 2.0) - [Second Edition]
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/SMIL/
+  type: src
+type: standard
+docid:
+- id: W3C SMIL
+  type: W3C
+  primary: true
+docnumber: SMIL
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CREC-SMIL2-20050107
+    docid:
+    - id: W3C REC-SMIL2-20050107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-SMIL2-20050107
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: SMIL
+fetched: '2022-08-01'
+doctype: recommendation

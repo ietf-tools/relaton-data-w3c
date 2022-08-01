@@ -1,0 +1,56 @@
+---
+id: W3CCR-n-triples-20131105
+title:
+- content: RDF 1.1 N-Triples
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/CR-n-triples-20131105/
+  type: src
+type: standard
+docid:
+- id: W3C CR-n-triples-20131105
+  type: W3C
+  primary: true
+docnumber: CR-n-triples-20131105
+date:
+- type: published
+  value: '2013-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gavin Carothers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-11-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-n-triples-20130905
+    docid:
+    - id: W3C WD-n-triples-20130905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-n-triples-20130905
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-n-triples-20131105
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: RDF Working Group

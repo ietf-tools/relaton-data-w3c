@@ -47,10 +47,20 @@ relation:
     formattedref:
       content: W3C REC-css-color-3-20220118
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-color-3-20171205
+    docid:
+    - id: W3C CR-css-color-3-20171205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-color-3-20171205
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-color-3
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

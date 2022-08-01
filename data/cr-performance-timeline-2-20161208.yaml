@@ -1,0 +1,89 @@
+---
+id: W3CCR-performance-timeline-2-20161208
+title:
+- content: Performance Timeline Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/CR-performance-timeline-2-20161208/
+  type: src
+type: standard
+docid:
+- id: W3C CR-performance-timeline-2-20161208
+  type: W3C
+  primary: true
+docnumber: CR-performance-timeline-2-20161208
+date:
+- type: published
+  value: '2016-12-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-12-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-performance-timeline-2-20161114
+    docid:
+    - id: W3C WD-performance-timeline-2-20161114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-2-20161114
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cperformance-timeline
+    docid:
+    - id: W3C performance-timeline
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C performance-timeline
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-performance-timeline-2-20161208
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

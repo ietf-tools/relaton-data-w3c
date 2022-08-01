@@ -1,0 +1,66 @@
+---
+id: W3CWD-xinclude-20031110
+title:
+- content: XML Inclusions (XInclude) Version 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/WD-xinclude-20031110
+  type: src
+type: standard
+docid:
+- id: W3C WD-xinclude-20031110
+  type: W3C
+  primary: true
+docnumber: WD-xinclude-20031110
+date:
+- type: published
+  value: '2003-11-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Orchard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jonathan Marsh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-11-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xinclude-20020917
+    docid:
+    - id: W3C CR-xinclude-20020917
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xinclude-20020917
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xinclude-20031110
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

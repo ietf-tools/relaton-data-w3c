@@ -1,0 +1,100 @@
+---
+id: W3CWD-mediacapture-streams-20150414
+title:
+- content: Media Capture and Streams
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-mediacapture-streams-20150414/
+  type: src
+type: standard
+docid:
+- id: W3C WD-mediacapture-streams-20150414
+  type: W3C
+  primary: true
+docnumber: WD-mediacapture-streams-20150414
+date:
+- type: published
+  value: '2015-04-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adam Bergkvist
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Anant Narayanan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Cullen Jennings
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Daniel Burnett
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-04-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mediacapture-streams-20150212
+    docid:
+    - id: W3C WD-mediacapture-streams-20150212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediacapture-streams-20150212
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmediacapture-main
+    docid:
+    - id: W3C mediacapture-main
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediacapture-main
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mediacapture-streams-20150414
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group
+- name: Web Real-Time Communications Working Group

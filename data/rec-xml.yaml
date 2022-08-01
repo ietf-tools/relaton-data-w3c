@@ -47,10 +47,20 @@ relation:
     formattedref:
       content: W3C REC-xml-20040204
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-xml-20031030
+    docid:
+    - id: W3C PER-xml-20031030
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xml-20031030
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: REC-xml
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

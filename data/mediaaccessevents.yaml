@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-MediaAccessEvents-20190328
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-MediaAccessEvents-20061013
+    docid:
+    - id: W3C WD-MediaAccessEvents-20061013
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-MediaAccessEvents-20061013
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: MediaAccessEvents
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

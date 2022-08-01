@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-poe-ucr-20170223
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-poe-ucr-20160721
+    docid:
+    - id: W3C NOTE-poe-ucr-20160721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-poe-ucr-20160721
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: poe-ucr
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

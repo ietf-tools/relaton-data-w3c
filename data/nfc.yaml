@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-nfc-20150616
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-nfc-20140114
+    docid:
+    - id: W3C WD-nfc-20140114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-nfc-20140114
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: nfc
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

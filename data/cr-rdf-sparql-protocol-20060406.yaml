@@ -1,0 +1,56 @@
+---
+id: W3CCR-rdf-sparql-protocol-20060406
+title:
+- content: SPARQL Protocol for RDF
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/CR-rdf-sparql-protocol-20060406/
+  type: src
+type: standard
+docid:
+- id: W3C CR-rdf-sparql-protocol-20060406
+  type: W3C
+  primary: true
+docnumber: CR-rdf-sparql-protocol-20060406
+date:
+- type: published
+  value: '2006-04-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Kendall Grant Clark
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-04-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf-sparql-protocol-20060125
+    docid:
+    - id: W3C WD-rdf-sparql-protocol-20060125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-sparql-protocol-20060125
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-rdf-sparql-protocol-20060406
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SPARQL Working Group

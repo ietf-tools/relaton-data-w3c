@@ -1,0 +1,66 @@
+---
+id: W3CCR-exi-c14n-20161103
+title:
+- content: Canonical EXI
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/CR-exi-c14n-20161103/
+  type: src
+type: standard
+docid:
+- id: W3C CR-exi-c14n-20161103
+  type: W3C
+  primary: true
+docnumber: CR-exi-c14n-20161103
+date:
+- type: published
+  value: '2016-11-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Peintner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Sebastian Käbisch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-11-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-exi-c14n-20150521
+    docid:
+    - id: W3C WD-exi-c14n-20150521
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-exi-c14n-20150521
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-exi-c14n-20161103
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Efficient Extensible Interchange Working Group

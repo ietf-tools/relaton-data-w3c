@@ -1,0 +1,106 @@
+---
+id: W3CPR-xml11-20031105
+title:
+- content: Extensible Markup Language (XML) 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2003/PR-xml11-20031105/
+  type: src
+type: standard
+docid:
+- id: W3C PR-xml11-20031105
+  type: W3C
+  primary: true
+docnumber: PR-xml11-20031105
+date:
+- type: published
+  value: '2003-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: C. M. Sperberg-McQueen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Eve Maler
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: François Yergeau
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jean Paoli
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Cowan
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tim Bray
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2003-11-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-xml11-20021015
+    docid:
+    - id: W3C CR-xml11-20021015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xml11-20021015
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-xml11-20031105
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: XML Core Working Group

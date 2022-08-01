@@ -1,0 +1,89 @@
+---
+id: W3CCR-annotation-vocab-20161122
+title:
+- content: Web Annotation Vocabulary
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2016/CR-annotation-vocab-20161122/
+  type: src
+type: standard
+docid:
+- id: W3C CR-annotation-vocab-20161122
+  type: W3C
+  primary: true
+docnumber: CR-annotation-vocab-20161122
+date:
+- type: published
+  value: '2016-11-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Benjamin Young
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paolo Ciccarese
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Robert Sanderson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-11-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-annotation-vocab-20160906
+    docid:
+    - id: W3C CR-annotation-vocab-20160906
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-annotation-vocab-20160906
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-annotation
+    docid:
+    - id: W3C web-annotation
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-annotation
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-annotation-vocab-20161122
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Annotation Working Group

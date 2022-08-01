@@ -1,0 +1,46 @@
+---
+id: W3Cws-addr-wsdl
+title:
+- content: Web Services Addressing 1.0 - WSDL Binding
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/ws-addr-wsdl
+  type: src
+type: standard
+docid:
+- id: W3C ws-addr-wsdl
+  type: W3C
+  primary: true
+docnumber: ws-addr-wsdl
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ws-addr-wsdl-20060529
+    docid:
+    - id: W3C CR-ws-addr-wsdl-20060529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ws-addr-wsdl-20060529
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ws-addr-wsdl-20050413
+    docid:
+    - id: W3C WD-ws-addr-wsdl-20050413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-addr-wsdl-20050413
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: ws-addr-wsdl
+fetched: '2022-08-01'
+doctype: recommendation

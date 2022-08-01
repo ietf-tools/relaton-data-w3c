@@ -27,10 +27,50 @@ relation:
     formattedref:
       content: W3C NOTE-html-aapi-20150929
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aapi-20131001
+    docid:
+    - id: W3C WD-html-aapi-20131001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aapi-20131001
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aapi-20130910
+    docid:
+    - id: W3C WD-html-aapi-20130910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aapi-20130910
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aapi-20121025
+    docid:
+    - id: W3C WD-html-aapi-20121025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aapi-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aapi-20110525
+    docid:
+    - id: W3C WD-html-aapi-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aapi-20110525
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: html-aapi
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

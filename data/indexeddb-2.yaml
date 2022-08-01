@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-IndexedDB-2-20180130
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-IndexedDB-2-20171116
+    docid:
+    - id: W3C PR-IndexedDB-2-20171116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-IndexedDB-2-20171116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-IndexedDB-2-20161101
+    docid:
+    - id: W3C WD-IndexedDB-2-20161101
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-IndexedDB-2-20161101
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: IndexedDB-2
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,66 @@
+---
+id: W3CPR-vocab-dcat-20131217
+title:
+- content: Data Catalog Vocabulary (DCAT)
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2013/PR-vocab-dcat-20131217/
+  type: src
+type: standard
+docid:
+- id: W3C PR-vocab-dcat-20131217
+  type: W3C
+  primary: true
+docnumber: PR-vocab-dcat-20131217
+date:
+- type: published
+  value: '2013-12-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Fadi Maali
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: John Erickson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2013-12-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-vocab-dcat-20131105
+    docid:
+    - id: W3C CR-vocab-dcat-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-vocab-dcat-20131105
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-vocab-dcat-20131217
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Government Linked Data Working Group

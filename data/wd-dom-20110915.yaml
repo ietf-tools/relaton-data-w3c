@@ -1,0 +1,76 @@
+---
+id: W3CWD-dom-20110915
+title:
+- content: DOM4
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/WD-dom-20110915/
+  type: src
+type: standard
+docid:
+- id: W3C WD-dom-20110915
+  type: W3C
+  primary: true
+docnumber: WD-dom-20110915
+date:
+- type: published
+  value: '2011-09-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anne van Kesteren
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Aryeh Gregor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ms2ger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-09-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-domcore-20110531
+    docid:
+    - id: W3C WD-domcore-20110531
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-domcore-20110531
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-dom-20110915
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

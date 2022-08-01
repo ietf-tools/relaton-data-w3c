@@ -1,0 +1,69 @@
+---
+id: W3CWD-i18n-glossary-20210730
+title:
+- content: Internationalization Glossary
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-i18n-glossary-20210730/
+  type: src
+type: standard
+docid:
+- id: W3C WD-i18n-glossary-20210730
+  type: W3C
+  primary: true
+docnumber: WD-i18n-glossary-20210730
+date:
+- type: published
+  value: '2021-07-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-07-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-i18n-glossary-20210708
+    docid:
+    - id: W3C WD-i18n-glossary-20210708
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-i18n-glossary-20210708
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ci18n-glossary
+    docid:
+    - id: W3C i18n-glossary
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C i18n-glossary
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-i18n-glossary-20210730
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Internationalization Working Group

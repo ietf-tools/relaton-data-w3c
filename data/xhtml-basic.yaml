@@ -57,10 +57,30 @@ relation:
     formattedref:
       content: W3C SPSD-xhtml-basic-20180327
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xhtml-basic-20070713
+    docid:
+    - id: W3C CR-xhtml-basic-20070713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xhtml-basic-20070713
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml-basic-20060705
+    docid:
+    - id: W3C WD-xhtml-basic-20060705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-basic-20060705
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xhtml-basic
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

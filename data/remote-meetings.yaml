@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-remote-meetings-20220722
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-remote-meetings-20220517
+    docid:
+    - id: W3C DNOTE-remote-meetings-20220517
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-remote-meetings-20220517
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-remote-meetings-20211014
+    docid:
+    - id: W3C WD-remote-meetings-20211014
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-remote-meetings-20211014
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: remote-meetings
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

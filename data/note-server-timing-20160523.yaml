@@ -1,0 +1,66 @@
+---
+id: W3CNOTE-server-timing-20160523
+title:
+- content: Server Timing
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2016/NOTE-server-timing-20160523/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-server-timing-20160523
+  type: W3C
+  primary: true
+docnumber: NOTE-server-timing-20160523
+date:
+- type: published
+  value: '2016-05-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2016-05-23'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-server-timing-20150717
+    docid:
+    - id: W3C WD-server-timing-20150717
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20150717
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cserver-timing
+    docid:
+    - id: W3C server-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C server-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-server-timing-20160523
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: Web Performance Working Group

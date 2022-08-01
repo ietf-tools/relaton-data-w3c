@@ -1,0 +1,79 @@
+---
+id: W3CWD-webdriver-20151109
+title:
+- content: WebDriver
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-webdriver-20151109/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webdriver-20151109
+  type: W3C
+  primary: true
+docnumber: WD-webdriver-20151109
+date:
+- type: published
+  value: '2015-11-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Burns
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Simon Stewart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-11-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webdriver-20151029
+    docid:
+    - id: W3C WD-webdriver-20151029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20151029
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cwebdriver-spec.html
+    docid:
+    - id: W3C webdriver-spec.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C webdriver-spec.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webdriver-20151109
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Browser Testing and Tools Working Group

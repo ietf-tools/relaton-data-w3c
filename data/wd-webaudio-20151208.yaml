@@ -1,0 +1,89 @@
+---
+id: W3CWD-webaudio-20151208
+title:
+- content: Web Audio API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/WD-webaudio-20151208/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webaudio-20151208
+  type: W3C
+  primary: true
+docnumber: WD-webaudio-20151208
+date:
+- type: published
+  value: '2015-12-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Rogers
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Chris Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Paul Adenot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-12-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webaudio-20131010
+    docid:
+    - id: W3C WD-webaudio-20131010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webaudio-20131010
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-audio-api
+    docid:
+    - id: W3C web-audio-api
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-audio-api
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webaudio-20151208
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Audio Working Group

@@ -1,0 +1,73 @@
+---
+id: W3CNOTE-rif-test-20121211
+title:
+- content: RIF Test Cases
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/NOTE-rif-test-20121211/
+  type: src
+type: standard
+docid:
+- id: W3C NOTE-rif-test-20121211
+  type: W3C
+  primary: true
+docnumber: NOTE-rif-test-20121211
+date:
+- type: published
+  value: '2012-12-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Paschke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Leora Morgenstern
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Stella Mitchell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-12-11'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rif-test-20100622
+    docid:
+    - id: W3C WD-rif-test-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-test-20100622
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-rif-test-20121211
+fetched: '2022-08-01'
+doctype: groupNote
+editorialgroup:
+- name: RIF Working Group

@@ -1,0 +1,36 @@
+---
+id: W3Cxexpr
+title:
+- content: XEXPR - A Scripting Language for XML
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xexpr
+  type: src
+type: standard
+docid:
+- id: W3C xexpr
+  type: W3C
+  primary: true
+docnumber: xexpr
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xexpr-20001121
+    docid:
+    - id: W3C NOTE-xexpr-20001121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xexpr-20001121
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xexpr
+fetched: '2022-08-01'
+doctype: recommendation

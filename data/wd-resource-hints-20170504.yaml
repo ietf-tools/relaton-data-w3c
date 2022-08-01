@@ -1,0 +1,69 @@
+---
+id: W3CWD-resource-hints-20170504
+title:
+- content: Resource Hints
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-resource-hints-20170504/
+  type: src
+type: standard
+docid:
+- id: W3C WD-resource-hints-20170504
+  type: W3C
+  primary: true
+docnumber: WD-resource-hints-20170504
+date:
+- type: published
+  value: '2017-05-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-05-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-resource-hints-20170322
+    docid:
+    - id: W3C WD-resource-hints-20170322
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20170322
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cresource-hints
+    docid:
+    - id: W3C resource-hints
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C resource-hints
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-resource-hints-20170504
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

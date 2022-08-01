@@ -1,0 +1,119 @@
+---
+id: W3CWD-resource-timing-2-20181105
+title:
+- content: Resource Timing Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/WD-resource-timing-2-20181105/
+  type: src
+type: standard
+docid:
+- id: W3C WD-resource-timing-2-20181105
+  type: W3C
+  primary: true
+docnumber: WD-resource-timing-2-20181105
+date:
+- type: published
+  value: '2018-11-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anderson Quach
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Arvind Jain
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ilya Grigorik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jatinder Mann
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Todd Reifsteck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Zhiheng Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-11-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-resource-timing-2-20181017
+    docid:
+    - id: W3C WD-resource-timing-2-20181017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20181017
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cresource-timing
+    docid:
+    - id: W3C resource-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C resource-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-resource-timing-2-20181105
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Performance Working Group

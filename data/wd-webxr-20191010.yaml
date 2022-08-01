@@ -1,0 +1,79 @@
+---
+id: W3CWD-webxr-20191010
+title:
+- content: WebXR Device API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2019/WD-webxr-20191010/
+  type: src
+type: standard
+docid:
+- id: W3C WD-webxr-20191010
+  type: W3C
+  primary: true
+docnumber: WD-webxr-20191010
+date:
+- type: published
+  value: '2019-10-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brandon Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Nell Waliczek
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2019-10-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webxr-20190521
+    docid:
+    - id: W3C WD-webxr-20190521
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-20190521
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cimmersive-web.github.io/webxr
+    docid:
+    - id: W3C immersive-web.github.io/webxr
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C immersive-web.github.io/webxr
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webxr-20191010
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Immersive Web Working Group

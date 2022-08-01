@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-task-scheduler-20150723
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-task-scheduler-20141202
+    docid:
+    - id: W3C WD-task-scheduler-20141202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-scheduler-20141202
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: task-scheduler
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

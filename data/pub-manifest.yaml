@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C REC-pub-manifest-20201110
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-pub-manifest-20191205
+    docid:
+    - id: W3C CR-pub-manifest-20191205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-pub-manifest-20191205
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: pub-manifest
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

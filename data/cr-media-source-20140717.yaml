@@ -1,0 +1,89 @@
+---
+id: W3CCR-media-source-20140717
+title:
+- content: Media Source Extensions
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-media-source-20140717/
+  type: src
+type: standard
+docid:
+- id: W3C CR-media-source-20140717
+  type: W3C
+  primary: true
+docnumber: CR-media-source-20140717
+date:
+- type: published
+  value: '2014-07-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Colwell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Adrian Bateman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-07-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-media-source-20140109
+    docid:
+    - id: W3C CR-media-source-20140109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-media-source-20140109
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmedia-source.html
+    docid:
+    - id: W3C media-source.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C media-source.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-media-source-20140717
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: HTML Working Group

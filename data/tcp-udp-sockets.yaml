@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-tcp-udp-sockets-20150723
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-tcp-udp-sockets-20141202
+    docid:
+    - id: W3C WD-tcp-udp-sockets-20141202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tcp-udp-sockets-20141202
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: tcp-udp-sockets
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

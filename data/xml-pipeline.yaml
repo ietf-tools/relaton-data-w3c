@@ -1,0 +1,36 @@
+---
+id: W3Cxml-pipeline
+title:
+- content: XML Pipeline Definition Language Version 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xml-pipeline/
+  type: src
+type: standard
+docid:
+- id: W3C xml-pipeline
+  type: W3C
+  primary: true
+docnumber: xml-pipeline
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xml-pipeline-20020228
+    docid:
+    - id: W3C NOTE-xml-pipeline-20020228
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xml-pipeline-20020228
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xml-pipeline
+fetched: '2022-08-01'
+doctype: recommendation

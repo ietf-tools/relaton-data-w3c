@@ -1,0 +1,36 @@
+---
+id: W3CSAC
+title:
+- content: 'SAC: Simple API for CSS'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/SAC/
+  type: src
+type: standard
+docid:
+- id: W3C SAC
+  type: W3C
+  primary: true
+docnumber: SAC
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-SAC-20000728
+    docid:
+    - id: W3C NOTE-SAC-20000728
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-SAC-20000728
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: SAC
+fetched: '2022-08-01'
+doctype: recommendation

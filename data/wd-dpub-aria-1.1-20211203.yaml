@@ -1,0 +1,79 @@
+---
+id: W3CWD-dpub-aria-1.1-20211203
+title:
+- content: Digital Publishing WAI-ARIA Module 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211203/
+  type: src
+type: standard
+docid:
+- id: W3C WD-dpub-aria-1.1-20211203
+  type: W3C
+  primary: true
+docnumber: WD-dpub-aria-1.1-20211203
+date:
+- type: published
+  value: '2021-12-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tzviya Siegman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-12-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-dpub-aria-1.1-20211119
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20211119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20211119
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cdpub-aria
+    docid:
+    - id: W3C dpub-aria
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C dpub-aria
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-dpub-aria-1.1-20211203
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group

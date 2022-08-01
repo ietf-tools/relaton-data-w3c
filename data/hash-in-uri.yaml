@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-hash-in-uri-20120209
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-hash-in-uri-20090415
+    docid:
+    - id: W3C WD-hash-in-uri-20090415
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-hash-in-uri-20090415
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: hash-in-uri
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

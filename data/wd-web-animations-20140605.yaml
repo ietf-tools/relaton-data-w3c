@@ -1,0 +1,110 @@
+---
+id: W3CWD-web-animations-20140605
+title:
+- content: Web Animations 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-web-animations-20140605/
+  type: src
+type: standard
+docid:
+- id: W3C WD-web-animations-20140605
+  type: W3C
+  primary: true
+docnumber: WD-web-animations-20140605
+date:
+- type: published
+  value: '2014-06-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alex Danilo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Brian Birtles
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dmitry Baranovskiy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shane Stephens
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-06-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-web-animations-20130625
+    docid:
+    - id: W3C WD-web-animations-20130625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20130625
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cweb-animations
+    docid:
+    - id: W3C web-animations
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C web-animations
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-web-animations-20140605
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SVG Working Group
+- name: Cascading Style Sheets Working Group

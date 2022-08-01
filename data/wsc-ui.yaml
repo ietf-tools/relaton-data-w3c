@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C REC-wsc-ui-20100812
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wsc-ui-20090226
+    docid:
+    - id: W3C WD-wsc-ui-20090226
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsc-ui-20090226
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wsc-ui-20080724
+    docid:
+    - id: W3C WD-wsc-ui-20080724
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsc-ui-20080724
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: wsc-ui
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

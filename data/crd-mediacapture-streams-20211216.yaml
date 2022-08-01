@@ -1,0 +1,109 @@
+---
+id: W3CCRD-mediacapture-streams-20211216
+title:
+- content: Media Capture and Streams
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/CRD-mediacapture-streams-20211216/
+  type: src
+type: standard
+docid:
+- id: W3C CRD-mediacapture-streams-20211216
+  type: W3C
+  primary: true
+docnumber: CRD-mediacapture-streams-20211216
+date:
+- type: published
+  value: '2021-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Cullen Jennings
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Henrik Boström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jan-Ivar Bruaroey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-12-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-mediacapture-streams-20211215
+    docid:
+    - id: W3C CRD-mediacapture-streams-20211215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mediacapture-streams-20211215
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmediacapture-main
+    docid:
+    - id: W3C mediacapture-main
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mediacapture-main
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-mediacapture-streams-20211216
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Real-Time Communications Working Group

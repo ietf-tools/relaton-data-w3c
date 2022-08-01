@@ -1,0 +1,69 @@
+---
+id: W3CCR-DOM-Parsing-20140617
+title:
+- content: DOM Parsing and Serialization
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-DOM-Parsing-20140617/
+  type: src
+type: standard
+docid:
+- id: W3C CR-DOM-Parsing-20140617
+  type: W3C
+  primary: true
+docnumber: CR-DOM-Parsing-20140617
+date:
+- type: published
+  value: '2014-06-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Travis Leithead
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-06-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-DOM-Parsing-20140501
+    docid:
+    - id: W3C WD-DOM-Parsing-20140501
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Parsing-20140501
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Craw-file/tip
+    docid:
+    - id: W3C raw-file/tip
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C raw-file/tip
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-DOM-Parsing-20140617
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -1,0 +1,79 @@
+---
+id: W3CWD-mathml-core-20210816
+title:
+- content: MathML Core
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2021/WD-mathml-core-20210816/
+  type: src
+type: standard
+docid:
+- id: W3C WD-mathml-core-20210816
+  type: W3C
+  primary: true
+docnumber: WD-mathml-core-20210816
+date:
+- type: published
+  value: '2021-08-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Carlisle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Frédéric Wang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2021-08-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mathml-core-20210810
+    docid:
+    - id: W3C WD-mathml-core-20210810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mathml-core-20210810
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmathml-core
+    docid:
+    - id: W3C mathml-core
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C mathml-core
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mathml-core-20210816
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Math Working Group

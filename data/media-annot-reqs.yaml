@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C WD-media-annot-reqs-20100121
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-annot-reqs-20090604
+    docid:
+    - id: W3C WD-media-annot-reqs-20090604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-annot-reqs-20090604
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: media-annot-reqs
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

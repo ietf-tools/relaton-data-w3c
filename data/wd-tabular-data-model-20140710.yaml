@@ -1,0 +1,79 @@
+---
+id: W3CWD-tabular-data-model-20140710
+title:
+- content: Model for Tabular Data and Metadata on the Web
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-tabular-data-model-20140710/
+  type: src
+type: standard
+docid:
+- id: W3C WD-tabular-data-model-20140710
+  type: W3C
+  primary: true
+docnumber: WD-tabular-data-model-20140710
+date:
+- type: published
+  value: '2014-07-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Jeni Tennison
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-07-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-tabular-data-model-20140327
+    docid:
+    - id: W3C WD-tabular-data-model-20140327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tabular-data-model-20140327
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Csyntax
+    docid:
+    - id: W3C syntax
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C syntax
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-tabular-data-model-20140710
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: CSV on the Web Working Group

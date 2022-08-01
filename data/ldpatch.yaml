@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-ldpatch-20150728
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ldpatch-20140918
+    docid:
+    - id: W3C WD-ldpatch-20140918
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ldpatch-20140918
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: ldpatch
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

@@ -1,0 +1,46 @@
+---
+id: W3Cqaframe-ops
+title:
+- content: 'QA Framework: Operational Guidelines'
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/qaframe-ops/
+  type: src
+type: standard
+docid:
+- id: W3C qaframe-ops
+  type: W3C
+  primary: true
+docnumber: qaframe-ops
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CCR-qaframe-ops-20030922
+    docid:
+    - id: W3C CR-qaframe-ops-20030922
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-qaframe-ops-20030922
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-qaframe-ops-20021108
+    docid:
+    - id: W3C WD-qaframe-ops-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-qaframe-ops-20021108
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: qaframe-ops
+fetched: '2022-08-01'
+doctype: recommendation

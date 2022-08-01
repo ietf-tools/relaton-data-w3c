@@ -1,0 +1,89 @@
+---
+id: W3CCR-generic-sensor-20180320
+title:
+- content: Generic Sensor API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2018/CR-generic-sensor-20180320/
+  type: src
+type: standard
+docid:
+- id: W3C CR-generic-sensor-20180320
+  type: W3C
+  primary: true
+docnumber: CR-generic-sensor-20180320
+date:
+- type: published
+  value: '2018-03-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alexander Shalamov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mikhail Pozdnyakov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Rick Waldron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2018-03-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-generic-sensor-20171018
+    docid:
+    - id: W3C WD-generic-sensor-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-generic-sensor-20171018
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Csensors
+    docid:
+    - id: W3C sensors
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C sensors
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-generic-sensor-20180320
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

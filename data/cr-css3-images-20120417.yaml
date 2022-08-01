@@ -1,0 +1,79 @@
+---
+id: W3CCR-css3-images-20120417
+title:
+- content: CSS Image Values and Replaced Content Module Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-css3-images-20120417/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css3-images-20120417
+  type: W3C
+  primary: true
+docnumber: CR-css3-images-20120417
+date:
+- type: published
+  value: '2012-04-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-04-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css3-images-20120112
+    docid:
+    - id: W3C WD-css3-images-20120112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-images-20120112
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-images-3
+    docid:
+    - id: W3C css-images-3
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-images-3
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css3-images-20120417
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

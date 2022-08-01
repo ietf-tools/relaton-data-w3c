@@ -1,0 +1,69 @@
+---
+id: W3CPR-vibration-20141209
+title:
+- content: Vibration API
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/PR-vibration-20141209/
+  type: src
+type: standard
+docid:
+- id: W3C PR-vibration-20141209
+  type: W3C
+  primary: true
+docnumber: PR-vibration-20141209
+date:
+- type: published
+  value: '2014-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-vibration-20140909
+    docid:
+    - id: W3C CR-vibration-20140909
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-vibration-20140909
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cvibration
+    docid:
+    - id: W3C vibration
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C vibration
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-vibration-20141209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Devices and Sensors Working Group

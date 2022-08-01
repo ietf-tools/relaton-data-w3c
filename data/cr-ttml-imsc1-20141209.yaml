@@ -1,0 +1,70 @@
+---
+id: W3CCR-ttml-imsc1-20141209
+title:
+- content: TTML Text and Image Profiles for Internet Media Subtitles and Captions
+    1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/CR-ttml-imsc1-20141209/
+  type: src
+type: standard
+docid:
+- id: W3C CR-ttml-imsc1-20141209
+  type: W3C
+  primary: true
+docnumber: CR-ttml-imsc1-20141209
+date:
+- type: published
+  value: '2014-12-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Pierre-Anthony Lemieux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ttml-imsc1-20140930
+    docid:
+    - id: W3C WD-ttml-imsc1-20140930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ttml-imsc1-20140930
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cttml-ww-profiles.html
+    docid:
+    - id: W3C ttml-ww-profiles.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C ttml-ww-profiles.html
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-ttml-imsc1-20141209
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Timed Text Working Group

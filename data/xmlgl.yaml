@@ -1,0 +1,36 @@
+---
+id: W3Cxmlgl
+title:
+- content: XML Accessibility Guidelines
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/xmlgl
+  type: src
+type: standard
+docid:
+- id: W3C xmlgl
+  type: W3C
+  primary: true
+docnumber: xmlgl
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlgl-20010829
+    docid:
+    - id: W3C WD-xmlgl-20010829
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlgl-20010829
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: xmlgl
+fetched: '2022-08-01'
+doctype: recommendation

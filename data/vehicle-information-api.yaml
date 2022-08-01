@@ -27,10 +27,40 @@ relation:
     formattedref:
       content: W3C NOTE-vehicle-information-api-20180626
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vehicle-information-api-20170621
+    docid:
+    - id: W3C WD-vehicle-information-api-20170621
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vehicle-information-api-20170621
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vehicle-information-api-20160119
+    docid:
+    - id: W3C WD-vehicle-information-api-20160119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vehicle-information-api-20160119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vehicle-information-api-20150616
+    docid:
+    - id: W3C WD-vehicle-information-api-20150616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vehicle-information-api-20150616
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: vehicle-information-api
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

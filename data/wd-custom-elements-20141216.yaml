@@ -1,0 +1,69 @@
+---
+id: W3CWD-custom-elements-20141216
+title:
+- content: Custom Elements
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2014/WD-custom-elements-20141216/
+  type: src
+type: standard
+docid:
+- id: W3C WD-custom-elements-20141216
+  type: W3C
+  primary: true
+docnumber: WD-custom-elements-20141216
+date:
+- type: published
+  value: '2014-12-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dimitri Glazkov
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2014-12-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-custom-elements-20131024
+    docid:
+    - id: W3C WD-custom-elements-20131024
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-custom-elements-20131024
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccustom
+    docid:
+    - id: W3C custom
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C custom
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-custom-elements-20141216
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

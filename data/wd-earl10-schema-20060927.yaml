@@ -1,0 +1,67 @@
+---
+id: W3CWD-EARL10-Schema-20060927
+title:
+- content: Evaluation and Report Language (EARL) 1.0 Schema
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/WD-EARL10-Schema-20060927
+  type: src
+type: standard
+docid:
+- id: W3C WD-EARL10-Schema-20060927
+  type: W3C
+  primary: true
+docnumber: WD-EARL10-Schema-20060927
+date:
+- type: published
+  value: '2006-09-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles McCathieNevile
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Shadi Abou-Zahra
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-09-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-EARL10-Schema-20050909
+    docid:
+    - id: W3C WD-EARL10-Schema-20050909
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-EARL10-Schema-20050909
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-EARL10-Schema-20060927
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Content Label Incubator Group
+- name: Evaluation and Repair Tools Working Group

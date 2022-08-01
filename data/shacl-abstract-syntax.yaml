@@ -27,10 +27,20 @@ relation:
     formattedref:
       content: W3C NOTE-shacl-abstract-syntax-20170720
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-shacl-abstract-syntax-20160825
+    docid:
+    - id: W3C WD-shacl-abstract-syntax-20160825
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shacl-abstract-syntax-20160825
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: shacl-abstract-syntax
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

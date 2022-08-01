@@ -1,0 +1,79 @@
+---
+id: W3CWD-microdata-20171010
+title:
+- content: HTML Microdata
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2017/WD-microdata-20171010/
+  type: src
+type: standard
+docid:
+- id: W3C WD-microdata-20171010
+  type: W3C
+  primary: true
+docnumber: WD-microdata-20171010
+date:
+- type: published
+  value: '2017-10-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles McCathie Nevile
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Dan Brickley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2017-10-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-microdata-20171009
+    docid:
+    - id: W3C WD-microdata-20171009
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-microdata-20171009
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cmicrodata
+    docid:
+    - id: W3C microdata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C microdata
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-microdata-20171010
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

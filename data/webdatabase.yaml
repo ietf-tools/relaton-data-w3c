@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C NOTE-webdatabase-20101118
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webdatabase-20090910
+    docid:
+    - id: W3C WD-webdatabase-20090910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdatabase-20090910
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webdatabase-20091029
+    docid:
+    - id: W3C WD-webdatabase-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdatabase-20091029
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: webdatabase
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

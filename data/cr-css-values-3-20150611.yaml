@@ -1,0 +1,79 @@
+---
+id: W3CCR-css-values-3-20150611
+title:
+- content: CSS Values and Units Module Level 3
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2015/CR-css-values-3-20150611/
+  type: src
+type: standard
+docid:
+- id: W3C CR-css-values-3-20150611
+  type: W3C
+  primary: true
+docnumber: CR-css-values-3-20150611
+date:
+- type: published
+  value: '2015-06-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2015-06-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-css3-values-20130730
+    docid:
+    - id: W3C CR-css3-values-20130730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-values-20130730
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Ccss-values
+    docid:
+    - id: W3C css-values
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C css-values
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-css-values-3-20150611
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Cascading Style Sheets Working Group

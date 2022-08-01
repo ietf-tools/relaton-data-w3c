@@ -1,0 +1,96 @@
+---
+id: W3CPR-soapjms-20111208
+title:
+- content: SOAP over Java Message Service 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2011/PR-soapjms-20111208/
+  type: src
+type: standard
+docid:
+- id: W3C PR-soapjms-20111208
+  type: W3C
+  primary: true
+docnumber: PR-soapjms-20111208
+date:
+- type: published
+  value: '2011-12-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Eric Johnson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Peter Easton
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Phil Adams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Roland Merrick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2011-12-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposedRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-soapjms-20101026
+    docid:
+    - id: W3C WD-soapjms-20101026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-soapjms-20101026
+      format: text/plain
+series:
+- title:
+    content: W3C PR
+    format: text/plain
+  number: PR-soapjms-20111208
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: SOAP-JMS Binding Working Group

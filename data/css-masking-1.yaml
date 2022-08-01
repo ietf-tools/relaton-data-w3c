@@ -27,10 +27,30 @@ relation:
     formattedref:
       content: W3C CRD-css-masking-1-20210805
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-masking-1-20140826
+    docid:
+    - id: W3C CR-css-masking-1-20140826
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-masking-1-20140826
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-masking-1-20131029
+    docid:
+    - id: W3C WD-css-masking-1-20131029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-masking-1-20131029
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: css-masking-1
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

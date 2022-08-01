@@ -47,10 +47,30 @@ relation:
     formattedref:
       content: W3C REC-xforms-20071029
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-xforms-20051006
+    docid:
+    - id: W3C PER-xforms-20051006
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xforms-20051006
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xforms-20021112
+    docid:
+    - id: W3C CR-xforms-20021112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xforms-20021112
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: xforms
-fetched: '2022-07-29'
+fetched: '2022-08-01'
 doctype: recommendation

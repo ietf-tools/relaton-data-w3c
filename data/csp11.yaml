@@ -1,0 +1,46 @@
+---
+id: W3CCSP11
+title:
+- content: Content Security Policy 1.1
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/CSP11/
+  type: src
+type: standard
+docid:
+- id: W3C CSP11
+  type: W3C
+  primary: true
+docnumber: CSP11
+language:
+- en
+script:
+- Latn
+relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSP11-20130604
+    docid:
+    - id: W3C WD-CSP11-20130604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP11-20130604
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSP11-20121213
+    docid:
+    - id: W3C WD-CSP11-20121213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP11-20121213
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: CSP11
+fetched: '2022-08-01'
+doctype: recommendation

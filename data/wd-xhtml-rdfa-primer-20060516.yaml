@@ -1,0 +1,67 @@
+---
+id: W3CWD-xhtml-rdfa-primer-20060516
+title:
+- content: RDFa Primer 1.0
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2006/WD-xhtml-rdfa-primer-20060516/
+  type: src
+type: standard
+docid:
+- id: W3C WD-xhtml-rdfa-primer-20060516
+  type: W3C
+  primary: true
+docnumber: WD-xhtml-rdfa-primer-20060516
+date:
+- type: published
+  value: '2006-05-16'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ben Adida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Mark Birbeck
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2006-05-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-xhtml-rdfa-primer-20060310
+    docid:
+    - id: W3C WD-xhtml-rdfa-primer-20060310
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-rdfa-primer-20060310
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-xhtml-rdfa-primer-20060516
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Semantic Web Best Practices and Deployment Working Group
+- name: XHTML2 Working Group

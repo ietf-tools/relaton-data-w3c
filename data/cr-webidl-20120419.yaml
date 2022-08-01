@@ -1,0 +1,69 @@
+---
+id: W3CCR-WebIDL-20120419
+title:
+- content: Web IDL
+  format: text/plain
+link:
+- content: http://www.w3.org/TR/2012/CR-WebIDL-20120419/
+  type: src
+type: standard
+docid:
+- id: W3C CR-WebIDL-20120419
+  type: W3C
+  primary: true
+docnumber: CR-WebIDL-20120419
+date:
+- type: published
+  value: '2012-04-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Cameron McCormack
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2012-04-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-WebIDL-20120207
+    docid:
+    - id: W3C WD-WebIDL-20120207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WebIDL-20120207
+      format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3CWebIDL
+    docid:
+    - id: W3C WebIDL
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WebIDL
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-WebIDL-20120419
+fetched: '2022-08-01'
+doctype: recommendation
+editorialgroup:
+- name: Web Applications Working Group

@@ -1,20 +1,20 @@
 ---
-id: W3CDNOTE-webcodecs-alaw-codec-registration-20220728
+id: W3CDNOTE-webcodecs-pcm-codec-registration-20220801
 title:
-- content: A-law PCM WebCodecs Registration
+- content: Linear PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-alaw-codec-registration-20220728/
+- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-pcm-codec-registration-20220801/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-alaw-codec-registration-20220728
+- id: W3C DNOTE-webcodecs-pcm-codec-registration-20220801
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-alaw-codec-registration-20220728
+docnumber: DNOTE-webcodecs-pcm-codec-registration-20220801
 date:
 - type: published
-  value: '2022-07-28'
+  value: '2022-08-01'
 contributor:
 - person:
     name:
@@ -46,7 +46,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-07-28'
+revdate: '2022-08-01'
 language:
 - en
 script:
@@ -54,23 +54,23 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-alaw-codec-registration-20220524
+    id: W3CDNOTE-webcodecs-pcm-codec-registration-20220728
     docid:
-    - id: W3C DNOTE-webcodecs-alaw-codec-registration-20220524
+    - id: W3C DNOTE-webcodecs-pcm-codec-registration-20220728
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-alaw-codec-registration-20220524
+      content: W3C DNOTE-webcodecs-pcm-codec-registration-20220728
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Calaw_codec_registration.html
+    id: W3Cpcm_codec_registration.html
     docid:
-    - id: W3C alaw_codec_registration.html
+    - id: W3C pcm_codec_registration.html
       type: W3C
       primary: true
     formattedref:
-      content: W3C alaw_codec_registration.html
+      content: W3C pcm_codec_registration.html
       format: text/plain
   description:
     content: Editor's draft
@@ -79,8 +79,8 @@ series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-alaw-codec-registration-20220728
-fetched: '2022-08-01'
+  number: DNOTE-webcodecs-pcm-codec-registration-20220801
+fetched: '2022-08-02'
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

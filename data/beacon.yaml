@@ -19,6 +19,16 @@ script:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CCRD-beacon-20220803
+    docid:
+    - id: W3C CRD-beacon-20220803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-beacon-20220803
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-beacon-20170413
     docid:
     - id: W3C CR-beacon-20170413
@@ -72,5 +82,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: beacon
-fetched: '2022-08-02'
+fetched: '2022-08-03'
 doctype: recommendation

@@ -1,25 +1,25 @@
 ---
-id: W3CWD-webcodecs-20220801
+id: W3CCRD-beacon-20220803
 title:
-- content: WebCodecs
+- content: Beacon
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webcodecs-20220801/
+- content: https://www.w3.org/TR/2022/CRD-beacon-20220803/
   type: src
 type: standard
 docid:
-- id: W3C WD-webcodecs-20220801
+- id: W3C CRD-beacon-20220803
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20220801
+docnumber: CRD-beacon-20220803
 date:
 - type: published
-  value: '2022-08-01'
+  value: '2022-08-03'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Alois Reitbauer
         language:
         - en
         script:
@@ -29,61 +29,51 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Cunningham
+        content: Ilya Grigorik
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Paul Adenot
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-08-01'
+revdate: '2022-08-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20220728
+    id: W3CCR-beacon-20170413
     docid:
-    - id: W3C WD-webcodecs-20220728
+    - id: W3C CR-beacon-20170413
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20220728
+      content: W3C CR-beacon-20170413
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cwebcodecs
+    id: W3Cbeacon
     docid:
-    - id: W3C webcodecs
+    - id: W3C beacon
       type: W3C
       primary: true
     formattedref:
-      content: W3C webcodecs
+      content: W3C beacon
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webcodecs-20220801
-fetched: '2022-08-02'
+  number: CRD-beacon-20220803
+fetched: '2022-08-03'
 doctype: recommendation
 editorialgroup:
-- name: Media Working Group
+- name: Web Performance Working Group

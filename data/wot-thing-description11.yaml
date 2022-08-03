@@ -19,6 +19,16 @@ script:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-wot-thing-description11-20220803
+    docid:
+    - id: W3C WD-wot-thing-description11-20220803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description11-20220803
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-wot-thing-description11-20220311
     docid:
     - id: W3C WD-wot-thing-description11-20220311
@@ -52,5 +62,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: wot-thing-description11
-fetched: '2022-08-02'
+fetched: '2022-08-03'
 doctype: recommendation

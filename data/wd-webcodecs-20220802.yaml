@@ -1,20 +1,20 @@
 ---
-id: W3CDNOTE-webcodecs-avc-codec-registration-20220801
+id: W3CWD-webcodecs-20220802
 title:
-- content: AVC (H.264) WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220801/
+- content: https://www.w3.org/TR/2022/WD-webcodecs-20220802/
   type: src
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-avc-codec-registration-20220801
+- id: W3C WD-webcodecs-20220802
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-avc-codec-registration-20220801
+docnumber: WD-webcodecs-20220802
 date:
 - type: published
-  value: '2022-08-01'
+  value: '2022-08-02'
 contributor:
 - person:
     name:
@@ -46,41 +46,44 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-08-01'
+revdate: '2022-08-02'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-avc-codec-registration-20220728
+    id: W3CWD-webcodecs-20220801
     docid:
-    - id: W3C DNOTE-webcodecs-avc-codec-registration-20220728
+    - id: W3C WD-webcodecs-20220801
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-avc-codec-registration-20220728
+      content: W3C WD-webcodecs-20220801
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cavc_codec_registration.html
+    id: W3Cwebcodecs
     docid:
-    - id: W3C avc_codec_registration.html
+    - id: W3C webcodecs
       type: W3C
       primary: true
     formattedref:
-      content: W3C avc_codec_registration.html
+      content: W3C webcodecs
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-avc-codec-registration-20220801
-fetched: '2022-08-02'
-doctype: groupNote
+  number: WD-webcodecs-20220802
+fetched: '2022-08-03'
+doctype: recommendation
 editorialgroup:
 - name: Media Working Group

@@ -5136,8 +5136,8 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: CRD
-  :date: '20220729'
-  :file: data/crd-epub-33-20220729.yaml
+  :date: '20220804'
+  :file: data/crd-epub-33-20220804.yaml
 - :code: epub-33
   :stage: CRD
   :date: '20220527'
@@ -5178,8 +5178,8 @@
   :file: data/epub-a11y-tech-11.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
-  :date: '20220724'
-  :file: data/note-epub-a11y-tech-11-20220724.yaml
+  :date: '20220804'
+  :file: data/note-epub-a11y-tech-11-20220804.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
   :date: '20220520'
@@ -7878,6 +7878,10 @@
   :file: data/wd-media-annot-reqs-20090604.yaml
 - :code: media-capabilities
   :file: data/media-capabilities.yaml
+- :code: media-capabilities
+  :stage: WD
+  :date: '20220803'
+  :file: data/wd-media-capabilities-20220803.yaml
 - :code: media-capabilities
   :stage: WD
   :date: '20220420'
@@ -14036,6 +14040,10 @@
   :date: '20120726'
   :file: data/cr-user-timing-20120726.yaml
 - :code: user-timing
+  :stage: CRD
+  :date: '20220803'
+  :file: data/crd-user-timing-20220803.yaml
+- :code: user-timing
   :stage: WD
   :date: '20110901'
   :file: data/wd-user-timing-20110901.yaml
@@ -15621,8 +15629,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20220728'
-  :file: data/wd-webgpu-20220728.yaml
+  :date: '20220803'
+  :file: data/wd-webgpu-20220803.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220629'

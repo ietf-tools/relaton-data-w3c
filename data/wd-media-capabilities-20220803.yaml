@@ -1,25 +1,25 @@
 ---
-id: W3CCRD-epub-33-20220729
+id: W3CWD-media-capabilities-20220803
 title:
-- content: EPUB 3.3
+- content: Media Capabilities
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-33-20220729/
+- content: https://www.w3.org/TR/2022/WD-media-capabilities-20220803/
   type: src
 type: standard
 docid:
-- id: W3C CRD-epub-33-20220729
+- id: W3C WD-media-capabilities-20220803
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20220729
+docnumber: WD-media-capabilities-20220803
 date:
 - type: published
-  value: '2022-07-29'
+  value: '2022-08-03'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Chris Cunningham
         language:
         - en
         script:
@@ -29,7 +29,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Mounir Lamouri
         language:
         - en
         script:
@@ -39,51 +39,51 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Vi Nguyen
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-07-29'
+revdate: '2022-08-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20220725
+    id: W3CWD-media-capabilities-20220420
     docid:
-    - id: W3C CRD-epub-33-20220725
+    - id: W3C WD-media-capabilities-20220420
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20220725
+      content: W3C WD-media-capabilities-20220420
       format: text/plain
 - type: hasDraft
   bibitem:
-    id: W3Cepub-specs/epub33
+    id: W3Cmedia-capabilities
     docid:
-    - id: W3C epub-specs/epub33
+    - id: W3C media-capabilities
       type: W3C
       primary: true
     formattedref:
-      content: W3C epub-specs/epub33
+      content: W3C media-capabilities
       format: text/plain
   description:
     content: Editor's draft
     format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-33-20220729
-fetched: '2022-08-03'
+  number: WD-media-capabilities-20220803
+fetched: '2022-08-04'
 doctype: recommendation
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Media Working Group

@@ -65,12 +65,25 @@ relation:
     formattedref:
       content: W3C PR-user-timing-20131031
       format: text/plain
+- type: hasDraft
+  bibitem:
+    id: W3Cuser-timing
+    docid:
+    - id: W3C user-timing
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C user-timing
+      format: text/plain
+  description:
+    content: Editor's draft
+    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-user-timing-20131212
-fetched: '2022-08-03'
+fetched: '2022-08-04'
 doctype: recommendation
 editorialgroup:
 - name: Web Performance Working Group

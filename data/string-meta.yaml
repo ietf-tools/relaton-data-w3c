@@ -19,6 +19,16 @@ script:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CDNOTE-string-meta-20220804
+    docid:
+    - id: W3C DNOTE-string-meta-20220804
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-string-meta-20220804
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-string-meta-20220307
     docid:
     - id: W3C DNOTE-string-meta-20220307
@@ -42,5 +52,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: string-meta
-fetched: '2022-08-04'
+fetched: '2022-08-05'
 doctype: recommendation

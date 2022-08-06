@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-tvcontrol-api-20170518/
   type: src
+- content: https://w3c.github.io/tvcontrol-api/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-tvcontrol-api-20170518
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C WD-tvcontrol-api-20170316
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctvcontrol-api
-    docid:
-    - id: W3C tvcontrol-api
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C tvcontrol-api
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-tvcontrol-api-20170518
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: TV Control Working Group

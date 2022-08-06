@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-input-events-1-20181109/
   type: src
+- content: https://cdn.staticaly.com/gh/w3c/input-events/v1/index.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-input-events-1-20181109
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-input-events-1-20170905
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cinput-events/v1
-    docid:
-    - id: W3C input-events/v1
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C input-events/v1
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-input-events-1-20181109
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

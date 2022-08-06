@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: hasEdition
   bibitem:
@@ -27,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-smil20-20010807
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CREC-SMIL2-20050107
     docid:
@@ -39,8 +42,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: smil20
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

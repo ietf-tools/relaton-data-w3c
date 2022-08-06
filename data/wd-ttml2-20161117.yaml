@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-ttml2-20161117/
   type: src
+- content: https://w3c.github.io/ttml2/spec/ttml2.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-ttml2-20161117
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-ttml2-20160524
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cttml2.html
-    docid:
-    - id: W3C ttml2.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ttml2.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-ttml2-20161117
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

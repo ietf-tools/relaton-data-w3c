@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-mini-app-white-paper-20190912/
   type: src
+- content: https://w3c.github.io/mini-app-white-paper/
+  type: current
 type: standard
 docid:
 - id: W3C WD-mini-app-white-paper-20190912
@@ -144,26 +146,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmini-app-white-paper
-    docid:
-    - id: W3C mini-app-white-paper
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C mini-app-white-paper
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-mini-app-white-paper-20190912
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Chinese Web Interest Group

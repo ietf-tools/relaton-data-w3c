@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/NOTE-fingerprinting-guidance-20190328/
   type: src
+- content: https://w3c.github.io/fingerprinting-guidance/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-fingerprinting-guidance-20190328
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C NOTE-fingerprinting-guidance-20151124
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cfingerprinting-guidance
-    docid:
-    - id: W3C fingerprinting-guidance
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C fingerprinting-guidance
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-fingerprinting-guidance-20190328
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Privacy Interest Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/DNOTE-beng-gap-20211215/
   type: src
+- content: https://w3c.github.io/iip/gap-analysis/beng-gap
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-beng-gap-20211215
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-beng-gap-20210525
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cbeng-gap
-    docid:
-    - id: W3C beng-gap
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C beng-gap
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-beng-gap-20211215
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

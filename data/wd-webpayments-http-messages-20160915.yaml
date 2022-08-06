@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-webpayments-http-messages-20160915/
   type: src
+- content: https://w3c.github.io/webpayments-http-messages/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webpayments-http-messages-20160915
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebpayments-http-messages
-    docid:
-    - id: W3C webpayments-http-messages
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webpayments-http-messages
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webpayments-http-messages-20160915
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

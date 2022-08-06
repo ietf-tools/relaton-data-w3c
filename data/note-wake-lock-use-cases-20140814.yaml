@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-wake-lock-use-cases-20140814/
   type: src
+- content: https://w3c-webmob.github.io/wake-lock-use-cases/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-wake-lock-use-cases-20140814
@@ -51,26 +53,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwake-lock-use-cases
-    docid:
-    - id: W3C wake-lock-use-cases
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C wake-lock-use-cases
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wake-lock-use-cases-20140814
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web and Mobile Interest Group

@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: hasEdition
   bibitem:
@@ -27,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-xquery-20070123
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CREC-xquery-20101214
     docid:
@@ -99,8 +102,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: xquery
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

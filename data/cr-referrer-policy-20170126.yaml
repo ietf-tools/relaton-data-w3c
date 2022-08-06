@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/CR-referrer-policy-20170126/
   type: src
+- content: https://w3c.github.io/webappsec-referrer-policy/
+  type: current
 type: standard
 docid:
 - id: W3C CR-referrer-policy-20170126
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-referrer-policy-20161222
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebappsec-referrer-policy
-    docid:
-    - id: W3C webappsec-referrer-policy
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webappsec-referrer-policy
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-referrer-policy-20170126
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

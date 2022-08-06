@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/CR-page-visibility-2-20161122/
   type: src
+- content: https://w3c.github.io/page-visibility/
+  type: current
 type: standard
 docid:
 - id: W3C CR-page-visibility-2-20161122
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-page-visibility-2-20161026
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpage-visibility
-    docid:
-    - id: W3C page-visibility
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C page-visibility
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-page-visibility-2-20161122
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

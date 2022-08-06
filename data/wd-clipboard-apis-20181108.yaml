@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-clipboard-apis-20181108/
   type: src
+- content: https://w3c.github.io/clipboard-apis/
+  type: current
 type: standard
 docid:
 - id: W3C WD-clipboard-apis-20181108
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-clipboard-apis-20170929
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cclipboard-apis
-    docid:
-    - id: W3C clipboard-apis
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C clipboard-apis
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-clipboard-apis-20181108
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

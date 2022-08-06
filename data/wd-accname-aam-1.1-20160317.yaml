@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-accname-aam-1.1-20160317/
   type: src
+- content: http://w3c.github.io/aria/accname-aam/accname-aam.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-accname-aam-1.1-20160317
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-accname-aam-1.1-20151119
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Caccname-aam.html
-    docid:
-    - id: W3C accname-aam.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C accname-aam.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-accname-aam-1.1-20160317
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

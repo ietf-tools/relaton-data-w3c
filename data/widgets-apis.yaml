@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: hasEdition
   bibitem:
@@ -27,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-widgets-apis-20131031
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3COBSL-widgets-apis-20181011
     docid:
@@ -79,8 +82,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: widgets-apis
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

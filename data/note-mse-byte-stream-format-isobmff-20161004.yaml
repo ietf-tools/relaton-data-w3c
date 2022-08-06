@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-mse-byte-stream-format-isobmff-20161004/
   type: src
+- content: https://w3c.github.io/media-source/isobmff-byte-stream-format.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-mse-byte-stream-format-isobmff-20161004
@@ -71,26 +73,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cisobmff-byte-stream-format.html
-    docid:
-    - id: W3C isobmff-byte-stream-format.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C isobmff-byte-stream-format.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mse-byte-stream-format-isobmff-20161004
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: hasEdition
   bibitem:
@@ -27,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-dom-20151119
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CSPSD-dom-20201103
     docid:
@@ -39,8 +42,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: dom40
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

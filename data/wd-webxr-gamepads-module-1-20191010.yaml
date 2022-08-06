@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-webxr-gamepads-module-1-20191010/
   type: src
+- content: https://immersive-web.github.io/webxr-gamepads-module/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webxr-gamepads-module-1-20191010
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebxr-gamepads-module
-    docid:
-    - id: W3C webxr-gamepads-module
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webxr-gamepads-module
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webxr-gamepads-module-1-20191010
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Immersive Web Working Group

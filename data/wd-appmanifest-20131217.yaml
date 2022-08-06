@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-appmanifest-20131217/
   type: src
+- content: http://w3c.github.io/manifest/
+  type: current
 type: standard
 docid:
 - id: W3C WD-appmanifest-20131217
@@ -54,26 +56,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmanifest
-    docid:
-    - id: W3C manifest
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C manifest
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-appmanifest-20131217
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

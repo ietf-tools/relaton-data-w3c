@@ -7,6 +7,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-UAAG20-Reference-20140925/
   type: src
+- content: http://www.w3.org/WAI/UA/UAAG20-Reference/
+  type: current
 type: standard
 docid:
 - id: W3C WD-UAAG20-Reference-20140925
@@ -76,25 +78,12 @@ relation:
     formattedref:
       content: W3C WD-IMPLEMENTING-UAAG20-20131107
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CUAAG20-Reference
-    docid:
-    - id: W3C UAAG20-Reference
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C UAAG20-Reference
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-UAAG20-Reference-20140925
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: User Agent Accessibility Guidelines Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/REC-vc-data-model-20191119/
   type: src
+- content: https://w3c.github.io/vc-data-model/
+  type: current
 type: standard
 docid:
 - id: W3C REC-vc-data-model-20191119
@@ -85,25 +87,12 @@ relation:
     formattedref:
       content: W3C PR-vc-data-model-20190905
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvc-data-model
-    docid:
-    - id: W3C vc-data-model
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vc-data-model
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-vc-data-model-20191119
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

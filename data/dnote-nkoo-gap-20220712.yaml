@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220712/
   type: src
+- content: https://w3c.github.io/afrlreq/gap-analysis/nkoo-gap
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-nkoo-gap-20220712
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C DNOTE-nkoo-gap-20220128
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cnkoo-gap
-    docid:
-    - id: W3C nkoo-gap
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C nkoo-gap
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-nkoo-gap-20220712
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

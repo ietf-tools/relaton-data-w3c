@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: hasEdition
   bibitem:
@@ -27,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-xml-stylesheet-19990629
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CREC-xml-stylesheet-20101028
     docid:
@@ -49,8 +52,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: xml-stylesheet
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-UISecurity-20140318/
   type: src
+- content: http://dvcs.w3.org/hg/user-interface-safety/raw-file/tip/user-interface-safety.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-UISecurity-20140318
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-UISecurity-20130523
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cuser-interface-safety.html
-    docid:
-    - id: W3C user-interface-safety.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C user-interface-safety.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-UISecurity-20140318
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

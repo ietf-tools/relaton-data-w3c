@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-image-capture-20130709/
   type: src
+- content: https://dvcs.w3.org/hg/dap/raw-file/default/media-stream-capture/ImageCapture.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-image-capture-20130709
@@ -34,27 +36,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmedia-stream-capture/ImageCapture
-    docid:
-    - id: W3C media-stream-capture/ImageCapture
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C media-stream-capture/ImageCapture
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-image-capture-20130709
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
 - name: Web Real-Time Communications Working Group

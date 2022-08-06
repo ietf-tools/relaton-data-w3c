@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-coga-gap-analysis-20171207/
   type: src
+- content: https://w3c.github.io/coga/gap-analysis/
+  type: current
 type: standard
 docid:
 - id: W3C WD-coga-gap-analysis-20171207
@@ -44,27 +46,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cgap-analysis
-    docid:
-    - id: W3C gap-analysis
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C gap-analysis
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-coga-gap-analysis-20171207
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Platform Architectures
 - name: Accessibility Guidelines Working Group

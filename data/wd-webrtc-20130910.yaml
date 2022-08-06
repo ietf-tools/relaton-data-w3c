@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-webrtc-20130910/
   type: src
+- content: http://dev.w3.org/2011/webrtc/editor/webrtc.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-webrtc-20130910
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-webrtc-20120821
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebrtc.html
-    docid:
-    - id: W3C webrtc.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webrtc.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webrtc-20130910
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

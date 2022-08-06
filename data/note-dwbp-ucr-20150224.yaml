@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/NOTE-dwbp-ucr-20150224/
   type: src
+- content: https://w3c.github.io/dwbp/usecasesv1.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-dwbp-ucr-20150224
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C WD-dwbp-ucr-20141014
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cusecasesv1.html
-    docid:
-    - id: W3C usecasesv1.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C usecasesv1.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dwbp-ucr-20150224
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Data on the Web Best Practices Working Group

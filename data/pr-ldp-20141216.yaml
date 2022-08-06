@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/PR-ldp-20141216/
   type: src
+- content: http://www.w3.org/2012/ldp/hg/ldp.html
+  type: current
 type: standard
 docid:
 - id: W3C PR-ldp-20141216
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-ldp-20140916
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cldp.html
-    docid:
-    - id: W3C ldp.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ldp.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-ldp-20141216
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Linked Data Platform Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-css-grid-1-20150917/
   type: src
+- content: http://dev.w3.org/csswg/css-grid/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-grid-1-20150917
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-css-grid-1-20150806
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-grid
-    docid:
-    - id: W3C css-grid
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-grid
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-grid-1-20150917
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

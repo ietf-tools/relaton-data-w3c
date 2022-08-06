@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/PR-WebCryptoAPI-20161215/
   type: src
+- content: http://w3c.github.io/webcrypto/Overview.html
+  type: current
 type: standard
 docid:
 - id: W3C PR-WebCryptoAPI-20161215
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-WebCryptoAPI-20141211
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3COverview.html
-    docid:
-    - id: W3C Overview.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C Overview.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-WebCryptoAPI-20161215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Cryptography Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/NOTE-jf2-20180110/
   type: src
+- content: https://jf2.spec.indieweb.org/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-jf2-20180110
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-jf2-20171026
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cjf2.spec.indieweb.org
-    docid:
-    - id: W3C jf2.spec.indieweb.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C jf2.spec.indieweb.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-jf2-20180110
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Social Web Working Group

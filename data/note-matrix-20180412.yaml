@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/NOTE-matrix-20180412/
   type: src
+- content: https://drafts.fxtf.org/matrix/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-matrix-20180412
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C WD-matrix-20130919
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmatrix
-    docid:
-    - id: W3C matrix
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C matrix
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-matrix-20180412
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Cascading Style Sheets Working Group

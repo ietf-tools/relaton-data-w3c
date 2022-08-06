@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-payment-method-basic-card-20210827/
   type: src
+- content: https://w3c.github.io/payment-method-basic-card/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-payment-method-basic-card-20210827
@@ -92,25 +94,12 @@ relation:
     formattedref:
       content: W3C WD-payment-method-basic-card-20200213
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpayment-method-basic-card
-    docid:
-    - id: W3C payment-method-basic-card
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C payment-method-basic-card
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-payment-method-basic-card-20210827
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group

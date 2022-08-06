@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/NOTE-html-polyglot-20150929/
   type: src
+- content: https://dev.w3.org/html5/html-polyglot/html-polyglot.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-html-polyglot-20150929
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C CR-html-polyglot-20140717
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml-polyglot.html
-    docid:
-    - id: W3C html-polyglot.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html-polyglot.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-polyglot-20150929
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

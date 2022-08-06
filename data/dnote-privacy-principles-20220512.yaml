@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-privacy-principles-20220512/
   type: src
+- content: https://w3ctag.github.io/privacy-principles/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-privacy-principles-20220512
@@ -41,26 +43,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cprivacy-principles
-    docid:
-    - id: W3C privacy-principles
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C privacy-principles
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-privacy-principles-20220512
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

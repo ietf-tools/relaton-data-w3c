@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-vocab-owl-time-agg-20200707/
   type: src
+- content: https://w3c.github.io/sdw/time-aggregates/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-vocab-owl-time-agg-20200707
@@ -51,26 +53,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Ctime-aggregates
-    docid:
-    - id: W3C time-aggregates
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C time-aggregates
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vocab-owl-time-agg-20200707
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Interest Group

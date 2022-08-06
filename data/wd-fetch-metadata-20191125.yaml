@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-fetch-metadata-20191125/
   type: src
+- content: https://github.com/w3c/webappsec-fetch-metadata/
+  type: current
 type: standard
 docid:
 - id: W3C WD-fetch-metadata-20191125
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-fetch-metadata-20190627
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebappsec-fetch-metadata
-    docid:
-    - id: W3C webappsec-fetch-metadata
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webappsec-fetch-metadata
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-fetch-metadata-20191125
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

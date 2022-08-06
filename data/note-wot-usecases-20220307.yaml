@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/NOTE-wot-usecases-20220307/
   type: src
+- content: https://w3c.github.io/wot-usecases/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-wot-usecases-20220307
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C NOTE-wot-usecases-20210518
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwot-usecases
-    docid:
-    - id: W3C wot-usecases
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C wot-usecases
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wot-usecases-20220307
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: WoT Interest Group

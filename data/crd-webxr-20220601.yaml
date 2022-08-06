@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-webxr-20220601/
   type: src
+- content: https://immersive-web.github.io/webxr/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-webxr-20220601
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CRD-webxr-20220526
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cimmersive-web.github.io/webxr
-    docid:
-    - id: W3C immersive-web.github.io/webxr
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C immersive-web.github.io/webxr
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-webxr-20220601
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Immersive Web Working Group

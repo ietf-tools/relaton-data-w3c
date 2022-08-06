@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-web-packaging-20150115/
   type: src
+- content: http://w3ctag.github.io/packaging-on-the-web/
+  type: current
 type: standard
 docid:
 - id: W3C WD-web-packaging-20150115
@@ -34,27 +36,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cpackaging-on-the-web
-    docid:
-    - id: W3C packaging-on-the-web
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C packaging-on-the-web
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-web-packaging-20150115
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Technical Architecture Group
 - name: Web Applications Working Group

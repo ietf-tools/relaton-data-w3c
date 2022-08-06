@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-netinfo-api-20140410/
   type: src
+- content: https://dvcs.w3.org/hg/dap/raw-file/tip/network-api/Overview.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-netinfo-api-20140410
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-netinfo-api-20121129
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cnetwork-api/Overview
-    docid:
-    - id: W3C network-api/Overview
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C network-api/Overview
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-netinfo-api-20140410
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Devices and Sensors Working Group

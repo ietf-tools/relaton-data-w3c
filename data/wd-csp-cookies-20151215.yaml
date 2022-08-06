@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-csp-cookies-20151215/
   type: src
+- content: https://w3c.github.io/webappsec-csp/cookies/
+  type: current
 type: standard
 docid:
 - id: W3C WD-csp-cookies-20151215
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebappsec-csp/cookies
-    docid:
-    - id: W3C webappsec-csp/cookies
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webappsec-csp/cookies
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-csp-cookies-20151215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

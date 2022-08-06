@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-pwpub-20180104/
   type: src
+- content: https://w3c.github.io/pwpub/
+  type: current
 type: standard
 docid:
 - id: W3C WD-pwpub-20180104
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cpwpub
-    docid:
-    - id: W3C pwpub
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C pwpub
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-pwpub-20180104
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Audiobooks Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/WD-media-source-2-20210930/
   type: src
+- content: https://w3c.github.io/media-source/
+  type: current
 type: standard
 docid:
 - id: W3C WD-media-source-2-20210930
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmedia-source
-    docid:
-    - id: W3C media-source
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C media-source
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-media-source-2-20210930
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

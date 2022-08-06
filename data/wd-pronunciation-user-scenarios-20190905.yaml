@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-pronunciation-user-scenarios-20190905/
   type: src
+- content: https://w3c.github.io/pronunciation/user-scenarios
+  type: current
 type: standard
 docid:
 - id: W3C WD-pronunciation-user-scenarios-20190905
@@ -74,26 +76,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cuser-scenarios
-    docid:
-    - id: W3C user-scenarios
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C user-scenarios
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-pronunciation-user-scenarios-20190905
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Platform Architectures

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-custom-elements-20141216/
   type: src
+- content: http://w3c.github.io/webcomponents/spec/custom/
+  type: current
 type: standard
 docid:
 - id: W3C WD-custom-elements-20141216
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-custom-elements-20131024
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccustom
-    docid:
-    - id: W3C custom
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C custom
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-custom-elements-20141216
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

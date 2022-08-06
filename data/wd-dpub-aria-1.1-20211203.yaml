@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211203/
   type: src
+- content: https://w3c.github.io/dpub-aria/
+  type: current
 type: standard
 docid:
 - id: W3C WD-dpub-aria-1.1-20211203
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-dpub-aria-1.1-20211119
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdpub-aria
-    docid:
-    - id: W3C dpub-aria
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C dpub-aria
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-dpub-aria-1.1-20211203
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-wai-aria-1.1-20141211/
   type: src
+- content: http://w3c.github.io/aria/aria/aria.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-wai-aria-1.1-20141211
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-1.1-20140612
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Caria.html
-    docid:
-    - id: W3C aria.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C aria.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wai-aria-1.1-20141211
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Protocols and Formats Working Group

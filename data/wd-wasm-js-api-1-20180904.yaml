@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-wasm-js-api-1-20180904/
   type: src
+- content: https://webassembly.github.io/spec/js-api/
+  type: current
 type: standard
 docid:
 - id: W3C WD-wasm-js-api-1-20180904
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-wasm-js-api-1-20180215
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cjs-api
-    docid:
-    - id: W3C js-api
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C js-api
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wasm-js-api-1-20180904
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

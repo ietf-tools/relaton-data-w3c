@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/REC-ttml-imsc1.1-20181108/
   type: src
+- content: https://w3c.github.io/imsc/imsc1/spec/ttml-ww-profiles.html
+  type: current
 type: standard
 docid:
 - id: W3C REC-ttml-imsc1.1-20181108
@@ -58,25 +60,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cttml-ww-profiles.html
-    docid:
-    - id: W3C ttml-ww-profiles.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ttml-ww-profiles.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-ttml-imsc1.1-20181108
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

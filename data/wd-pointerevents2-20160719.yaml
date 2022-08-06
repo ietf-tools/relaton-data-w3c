@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-pointerevents2-20160719/
   type: src
+- content: https://w3c.github.io/pointerevents/
+  type: current
 type: standard
 docid:
 - id: W3C WD-pointerevents2-20160719
@@ -64,26 +66,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cpointerevents
-    docid:
-    - id: W3C pointerevents
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C pointerevents
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-pointerevents2-20160719
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Pointer Events Working Group

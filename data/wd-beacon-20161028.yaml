@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-beacon-20161028/
   type: src
+- content: https://w3c.github.io/beacon/
+  type: current
 type: standard
 docid:
 - id: W3C WD-beacon-20161028
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-beacon-20161025
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cbeacon
-    docid:
-    - id: W3C beacon
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C beacon
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-beacon-20161028
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/
   type: src
+- content: https://w3c.github.io/network-error-logging/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-network-error-logging-20160720
@@ -31,25 +33,12 @@ relation:
     formattedref:
       content: W3C NOTE-network-error-logging-20160524
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cnetwork-error-logging
-    docid:
-    - id: W3C network-error-logging
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C network-error-logging
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-network-error-logging-20160720
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Performance Working Group

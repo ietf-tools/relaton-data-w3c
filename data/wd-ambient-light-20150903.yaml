@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-ambient-light-20150903/
   type: src
+- content: https://w3c.github.io/ambient-light/
+  type: current
 type: standard
 docid:
 - id: W3C WD-ambient-light-20150903
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-ambient-light-20140619
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cambient-light
-    docid:
-    - id: W3C ambient-light
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ambient-light
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-ambient-light-20150903
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

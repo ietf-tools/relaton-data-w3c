@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-geofencing-20170530/
   type: src
+- content: https://w3c.github.io/geofencing-api/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-geofencing-20170530
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-geofencing-20150604
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgeofencing-api
-    docid:
-    - id: W3C geofencing-api
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C geofencing-api
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-geofencing-20170530
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Geolocation Working Group

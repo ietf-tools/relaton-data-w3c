@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/NOTE-turingtest-20191209/
   type: src
+- content: https://w3c.github.io/apa/captcha/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-turingtest-20191209
@@ -82,25 +84,12 @@ relation:
     formattedref:
       content: W3C NOTE-turingtest-20190823
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccaptcha
-    docid:
-    - id: W3C captcha
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C captcha
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-turingtest-20191209
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

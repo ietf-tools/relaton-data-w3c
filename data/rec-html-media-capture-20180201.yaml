@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/REC-html-media-capture-20180201/
   type: src
+- content: https://w3c.github.io/html-media-capture/
+  type: current
 type: standard
 docid:
 - id: W3C REC-html-media-capture-20180201
@@ -78,25 +80,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml-media-capture
-    docid:
-    - id: W3C html-media-capture
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html-media-capture
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-html-media-capture-20180201
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

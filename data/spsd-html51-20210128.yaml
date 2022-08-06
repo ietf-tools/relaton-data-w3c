@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/SPSD-html51-20210128/
   type: src
+- content: https://rawgit.com/w3c/html/html5.1-2/single-page.html
+  type: current
 type: standard
 docid:
 - id: W3C SPSD-html51-20210128
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C REC-html51-20171003
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Csingle-page.html
-    docid:
-    - id: W3C single-page.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C single-page.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-html51-20210128
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

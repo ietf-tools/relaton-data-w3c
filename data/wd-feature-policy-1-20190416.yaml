@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/
   type: src
+- content: https://w3c.github.io/webappsec-feature-policy/
+  type: current
 type: standard
 docid:
 - id: W3C WD-feature-policy-1-20190416
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebappsec-feature-policy
-    docid:
-    - id: W3C webappsec-feature-policy
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webappsec-feature-policy
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-feature-policy-1-20190416
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

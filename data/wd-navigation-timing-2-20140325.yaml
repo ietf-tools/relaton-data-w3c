@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-navigation-timing-2-20140325/
   type: src
+- content: http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/NavigationTiming2/Overview.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-navigation-timing-2-20140325
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-navigation-timing-2-20130131
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Craw-file/tip
-    docid:
-    - id: W3C raw-file/tip
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C raw-file/tip
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-navigation-timing-2-20140325
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

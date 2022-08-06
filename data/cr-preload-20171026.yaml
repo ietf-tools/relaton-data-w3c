@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/CR-preload-20171026/
   type: src
+- content: https://w3c.github.io/preload/
+  type: current
 type: standard
 docid:
 - id: W3C CR-preload-20171026
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-preload-20170830
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpreload
-    docid:
-    - id: W3C preload
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C preload
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-preload-20171026
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

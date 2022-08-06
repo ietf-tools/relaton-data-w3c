@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-file-system-api-20140424/
   type: src
+- content: https://dev.w3.org/2009/dap/file-system/file-dir-sys.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-file-system-api-20140424
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-file-system-api-20120417
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cfile-dir-sys.html
-    docid:
-    - id: W3C file-dir-sys.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C file-dir-sys.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-file-system-api-20140424
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

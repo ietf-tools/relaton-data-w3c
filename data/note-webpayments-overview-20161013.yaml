@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-webpayments-overview-20161013/
   type: src
+- content: https://w3c.github.io/webpayments-overview/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-webpayments-overview-20161013
@@ -71,26 +73,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebpayments-overview
-    docid:
-    - id: W3C webpayments-overview
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webpayments-overview
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-webpayments-overview-20161013
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group

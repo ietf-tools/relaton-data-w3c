@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-cloud-browser-arch-20170608/
   type: src
+- content: https://w3c.github.io/Web-and-TV-IG/cloud-browser-tf/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-cloud-browser-arch-20170608
@@ -41,26 +43,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Ccloud-browser-tf
-    docid:
-    - id: W3C cloud-browser-tf
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C cloud-browser-tf
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-cloud-browser-arch-20170608
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Media and Entertainment Interest Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/PR-requestidlecallback-20171010/
   type: src
+- content: https://w3c.github.io/requestidlecallback/
+  type: current
 type: standard
 docid:
 - id: W3C PR-requestidlecallback-20171010
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-requestidlecallback-20170131
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Crequestidlecallback
-    docid:
-    - id: W3C requestidlecallback
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C requestidlecallback
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-requestidlecallback-20171010
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

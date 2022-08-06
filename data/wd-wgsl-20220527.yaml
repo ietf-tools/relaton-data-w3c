@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-WGSL-20220527/
   type: src
+- content: https://gpuweb.github.io/gpuweb/wgsl/
+  type: current
 type: standard
 docid:
 - id: W3C WD-WGSL-20220527
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-WGSL-20220526
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwgsl
-    docid:
-    - id: W3C wgsl
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C wgsl
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-WGSL-20220527
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: GPU for the Web Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-responsible-use-spatial-20210527/
   type: src
+- content: https://w3c.github.io/sdw/responsible-use/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-responsible-use-spatial-20210527
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C NOTE-responsible-use-spatial-20210119
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cresponsible-use
-    docid:
-    - id: W3C responsible-use
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C responsible-use
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-responsible-use-spatial-20210527
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Interest Group

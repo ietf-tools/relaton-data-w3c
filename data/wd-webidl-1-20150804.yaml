@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-WebIDL-1-20150804/
   type: src
+- content: https://heycam.github.io/webidl/
+  type: current
 type: standard
 docid:
 - id: W3C WD-WebIDL-1-20150804
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-WebIDL-20120419
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebidl
-    docid:
-    - id: W3C webidl
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webidl
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-WebIDL-1-20150804
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

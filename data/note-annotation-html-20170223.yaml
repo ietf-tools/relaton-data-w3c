@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-annotation-html-20170223/
   type: src
+- content: https://w3c.github.io/web-annotation/serialization-html-note/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-annotation-html-20170223
@@ -61,26 +63,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cserialization-html-note
-    docid:
-    - id: W3C serialization-html-note
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C serialization-html-note
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-annotation-html-20170223
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Annotation Working Group

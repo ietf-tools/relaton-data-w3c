@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/DNOTE-clreq-20211126/
   type: src
+- content: https://w3c.github.io/clreq/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-clreq-20211126
@@ -92,25 +94,12 @@ relation:
     formattedref:
       content: W3C WD-clreq-20201101
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cclreq
-    docid:
-    - id: W3C clreq
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C clreq
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-clreq-20211126
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

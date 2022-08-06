@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-app-uri-20140529/
   type: src
+- content: http://app-uri.sysapps.org/
+  type: current
 type: standard
 docid:
 - id: W3C WD-app-uri-20140529
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-app-uri-20130516
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Capp-uri.sysapps.org
-    docid:
-    - id: W3C app-uri.sysapps.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C app-uri.sysapps.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-app-uri-20140529
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: System Applications Working Group

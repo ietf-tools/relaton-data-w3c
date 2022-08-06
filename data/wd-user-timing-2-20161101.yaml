@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-user-timing-2-20161101/
   type: src
+- content: https://w3c.github.io/user-timing/
+  type: current
 type: standard
 docid:
 - id: W3C WD-user-timing-2-20161101
@@ -64,26 +66,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cuser-timing
-    docid:
-    - id: W3C user-timing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C user-timing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-user-timing-2-20161101
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

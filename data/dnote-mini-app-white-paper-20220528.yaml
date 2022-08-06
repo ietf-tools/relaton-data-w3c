@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-mini-app-white-paper-20220528/
   type: src
+- content: https://w3c.github.io/miniapp/white-paper/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-mini-app-white-paper-20220528
@@ -132,25 +134,12 @@ relation:
     formattedref:
       content: W3C DNOTE-mini-app-white-paper-20220519
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwhite-paper
-    docid:
-    - id: W3C white-paper
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C white-paper
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-mini-app-white-paper-20220528
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group

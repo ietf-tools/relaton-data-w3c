@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/NOTE-sdw-ucr-20151217/
   type: src
+- content: http://w3c.github.io/sdw/UseCases/SDWUseCasesAndRequirements.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-sdw-ucr-20151217
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C NOTE-sdw-ucr-20150723
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CSDWUseCasesAndRequirements.html
-    docid:
-    - id: W3C SDWUseCasesAndRequirements.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C SDWUseCasesAndRequirements.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-sdw-ucr-20151217
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-unicode-xml-20170713/
   type: src
+- content: https://w3c.github.io/unicode-xml/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-unicode-xml-20170713
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C NOTE-unicode-xml-20160503
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cunicode-xml
-    docid:
-    - id: W3C unicode-xml
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C unicode-xml
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-unicode-xml-20170713
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/CR-css3-values-20130730/
   type: src
+- content: http://dev.w3.org/csswg/css3-values/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css3-values-20130730
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CR-css3-values-20130404
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss3-values
-    docid:
-    - id: W3C css3-values
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css3-values
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css3-values-20130730
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

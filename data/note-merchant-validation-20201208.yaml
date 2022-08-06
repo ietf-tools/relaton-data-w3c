@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-merchant-validation-20201208/
   type: src
+- content: https://w3c.github.io/merchant-validation/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-merchant-validation-20201208
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmerchant-validation
-    docid:
-    - id: W3C merchant-validation
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C merchant-validation
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-merchant-validation-20201208
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-dom41-20200317/
   type: src
+- content: https://w3c.github.io/dom/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-dom41-20200317
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-dom41-20180201
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdom
-    docid:
-    - id: W3C dom
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C dom
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dom41-20200317
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/REC-touch-events-20131010/
   type: src
+- content: https://w3c.github.io/touch-events/
+  type: current
 type: standard
 docid:
 - id: W3C REC-touch-events-20131010
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C PR-touch-events-20130509
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctouch-events
-    docid:
-    - id: W3C touch-events
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C touch-events
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-touch-events-20131010
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Events Working Group

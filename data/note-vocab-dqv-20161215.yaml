@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-vocab-dqv-20161215/
   type: src
+- content: https://w3c.github.io/dwbp/vocab-dqg.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-vocab-dqv-20161215
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C NOTE-vocab-dqv-20160830
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvocab-dqg.html
-    docid:
-    - id: W3C vocab-dqg.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vocab-dqg.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-vocab-dqv-20161215
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Data on the Web Best Practices Working Group

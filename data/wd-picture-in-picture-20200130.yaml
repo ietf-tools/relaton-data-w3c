@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-picture-in-picture-20200130/
   type: src
+- content: https://w3c.github.io/picture-in-picture/
+  type: current
 type: standard
 docid:
 - id: W3C WD-picture-in-picture-20200130
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cpicture-in-picture
-    docid:
-    - id: W3C picture-in-picture
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C picture-in-picture
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-picture-in-picture-20200130
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

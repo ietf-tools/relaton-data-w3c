@@ -16,8 +16,11 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CWD-resource-timing-2-20220719
     docid:
@@ -99,8 +102,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C WD
     format: text/plain
   number: resource-timing-2
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

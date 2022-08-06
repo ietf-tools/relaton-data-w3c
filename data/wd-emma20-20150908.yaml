@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-emma20-20150908/
   type: src
+- content: http://w3c.github.io/emma/emma2_0/emma_2_0_editor_draft.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-emma20-20150908
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cemma_2_0_editor_draft.html
-    docid:
-    - id: W3C emma_2_0_editor_draft.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C emma_2_0_editor_draft.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-emma20-20150908
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Multimodal Interaction Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/REC-dpub-aam-1.0-20171214/
   type: src
+- content: https://w3c.github.io/dpub-aam/
+  type: current
 type: standard
 docid:
 - id: W3C REC-dpub-aam-1.0-20171214
@@ -68,25 +70,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdpub-aam
-    docid:
-    - id: W3C dpub-aam
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C dpub-aam
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-dpub-aam-1.0-20171214
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

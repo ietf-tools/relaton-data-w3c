@@ -16,16 +16,19 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CCRD-epub-33-20220804
+    id: W3CCRD-epub-33-20220806
     docid:
-    - id: W3C CRD-epub-33-20220804
+    - id: W3C CRD-epub-33-20220806
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20220804
+      content: W3C CRD-epub-33-20220806
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -49,8 +52,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C CR
     format: text/plain
   number: epub-33
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

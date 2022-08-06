@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-its2req-20170302/
   type: src
+- content: https://w3c.github.io/its2req/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-its2req-20170302
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C WD-its2req-20120524
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cits2req
-    docid:
-    - id: W3C its2req
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C its2req
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-its2req-20170302
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

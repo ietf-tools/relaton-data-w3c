@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-wai-aria-practices-1.1-20151119/
   type: src
+- content: http://w3c.github.io/aria/practices/aria-practices.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-wai-aria-practices-1.1-20151119
@@ -95,25 +97,12 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-practices-1.1-20150514
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Caria-practices.html
-    docid:
-    - id: W3C aria-practices.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C aria-practices.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wai-aria-practices-1.1-20151119
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

@@ -16,8 +16,11 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CREC-rdf11-mt-20140225
     docid:
@@ -49,8 +52,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: rdf11-mt
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

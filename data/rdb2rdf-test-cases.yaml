@@ -17,7 +17,7 @@ language:
 script:
 - Latn
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CNOTE-rdb2rdf-test-cases-20120814
     docid:
@@ -29,8 +29,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C NOTE
     format: text/plain
   number: rdb2rdf-test-cases
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: groupNote

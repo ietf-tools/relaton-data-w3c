@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-server-timing-20181019/
   type: src
+- content: https://w3c.github.io/server-timing/
+  type: current
 type: standard
 docid:
 - id: W3C WD-server-timing-20181019
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-server-timing-20181017
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cserver-timing
-    docid:
-    - id: W3C server-timing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C server-timing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-server-timing-20181019
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-service-workers-20220712/
   type: src
+- content: https://w3c.github.io/ServiceWorker/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-service-workers-20220712
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-service-workers-1-20191119
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CServiceWorker
-    docid:
-    - id: W3C ServiceWorker
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ServiceWorker
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-service-workers-20220712
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Service Workers Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-jlreq-20200811/
   type: src
+- content: https://w3c.github.io/jlreq/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-jlreq-20200811
@@ -142,25 +144,12 @@ relation:
     formattedref:
       content: W3C NOTE-jlreq-20120403
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cjlreq
-    docid:
-    - id: W3C jlreq
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C jlreq
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-jlreq-20200811
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

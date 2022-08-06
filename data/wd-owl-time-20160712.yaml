@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-owl-time-20160712/
   type: src
+- content: http://w3c.github.io/sdw/time/
+  type: current
 type: standard
 docid:
 - id: W3C WD-owl-time-20160712
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-owl-time-20060927
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctime
-    docid:
-    - id: W3C time
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C time
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-owl-time-20160712
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Spatial Data on the Web Working Group

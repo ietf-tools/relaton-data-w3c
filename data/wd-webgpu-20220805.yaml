@@ -1,20 +1,22 @@
 ---
-id: W3CWD-webgpu-20220803
+id: W3CWD-webgpu-20220805
 title:
 - content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220803/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20220805/
   type: src
+- content: https://gpuweb.github.io/gpuweb/
+  type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20220803
+- id: W3C WD-webgpu-20220805
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220803
+docnumber: WD-webgpu-20220805
 date:
 - type: published
-  value: '2022-08-03'
+  value: '2022-08-05'
 contributor:
 - person:
     name:
@@ -46,7 +48,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-08-03'
+revdate: '2022-08-05'
 language:
 - en
 script:
@@ -57,33 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220728
+    id: W3CWD-webgpu-20220803
     docid:
-    - id: W3C WD-webgpu-20220728
+    - id: W3C WD-webgpu-20220803
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220728
+      content: W3C WD-webgpu-20220803
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgpuweb
-    docid:
-    - id: W3C gpuweb
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C gpuweb
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220803
-fetched: '2022-08-05'
-doctype: recommendation
+  number: WD-webgpu-20220805
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: GPU for the Web Working Group

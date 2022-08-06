@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/NOTE-miniapp-widget-req-20220424/
   type: src
+- content: https://w3c.github.io/miniapp-widget/req/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-miniapp-widget-req-20220424
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C NOTE-miniapp-widget-req-20220418
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cminiapp-widget/req
-    docid:
-    - id: W3C miniapp-widget/req
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C miniapp-widget/req
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-miniapp-widget-req-20220424
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group

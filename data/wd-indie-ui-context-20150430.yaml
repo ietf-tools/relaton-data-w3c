@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/WD-indie-ui-context-20150430/
   type: src
+- content: https://w3c.github.io/indie-ui/indie-ui-context.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-indie-ui-context-20150430
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-indie-ui-context-20140626
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cindie-ui-context.html
-    docid:
-    - id: W3C indie-ui-context.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C indie-ui-context.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-indie-ui-context-20150430
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Independent User Interface Working Group

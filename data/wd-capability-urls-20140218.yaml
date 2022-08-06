@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/WD-capability-urls-20140218/
   type: src
+- content: https://w3ctag.github.io/capability-urls/
+  type: current
 type: standard
 docid:
 - id: W3C WD-capability-urls-20140218
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Ccapability-urls
-    docid:
-    - id: W3C capability-urls
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C capability-urls
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-capability-urls-20140218
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Technical Architecture Group

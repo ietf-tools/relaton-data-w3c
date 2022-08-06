@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-filter-effects-1-20141125/
   type: src
+- content: https://drafts.fxtf.org/filter-effects/
+  type: current
 type: standard
 docid:
 - id: W3C WD-filter-effects-1-20141125
@@ -65,26 +67,13 @@ relation:
     formattedref:
       content: W3C WD-filter-effects-1-20131126
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cfilter-effects
-    docid:
-    - id: W3C filter-effects
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C filter-effects
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-filter-effects-1-20141125
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: SVG Working Group
 - name: Cascading Style Sheets Working Group

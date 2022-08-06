@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/CR-css-ui-3-20150707/
   type: src
+- content: http://dev.w3.org/csswg/css-ui/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css-ui-3-20150707
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-css3-ui-20150519
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-ui
-    docid:
-    - id: W3C css-ui
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-ui
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css-ui-3-20150707
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

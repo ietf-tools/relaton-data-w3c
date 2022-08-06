@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/NOTE-indieauth-20180123/
   type: src
+- content: https://indieauth.spec.indieweb.org/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-indieauth-20180123
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cindieauth.spec.indieweb.org
-    docid:
-    - id: W3C indieauth.spec.indieweb.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C indieauth.spec.indieweb.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-indieauth-20180123
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Social Web Working Group

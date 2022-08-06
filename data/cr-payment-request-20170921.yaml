@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/CR-payment-request-20170921/
   type: src
+- content: https://w3c.github.io/payment-request/
+  type: current
 type: standard
 docid:
 - id: W3C CR-payment-request-20170921
@@ -85,25 +87,12 @@ relation:
     formattedref:
       content: W3C CR-payment-request-20170914
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpayment-request
-    docid:
-    - id: W3C payment-request
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C payment-request
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-payment-request-20170921
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

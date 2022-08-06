@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/REC-dwbp-20170131/
   type: src
+- content: https://w3c.github.io/dwbp/bp.html
+  type: current
 type: standard
 docid:
 - id: W3C REC-dwbp-20170131
@@ -78,25 +80,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cbp.html
-    docid:
-    - id: W3C bp.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C bp.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-dwbp-20170131
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Data on the Web Best Practices Working Group

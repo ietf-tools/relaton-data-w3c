@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-deva-gap-20220119/
   type: src
+- content: https://w3c.github.io/iip/gap-analysis/deva-gap
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-deva-gap-20220119
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C WD-deva-gap-20210525
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdeva-gap
-    docid:
-    - id: W3C deva-gap
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C deva-gap
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-deva-gap-20220119
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

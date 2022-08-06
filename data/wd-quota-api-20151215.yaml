@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-quota-api-20151215/
   type: src
+- content: http://w3c.github.io/quota-api/
+  type: current
 type: standard
 docid:
 - id: W3C WD-quota-api-20151215
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-quota-api-20150409
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cquota-api
-    docid:
-    - id: W3C quota-api
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C quota-api
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-quota-api-20151215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

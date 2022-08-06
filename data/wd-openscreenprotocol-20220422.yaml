@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/
   type: src
+- content: https://w3c.github.io/openscreenprotocol/
+  type: current
 type: standard
 docid:
 - id: W3C WD-openscreenprotocol-20220422
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-openscreenprotocol-20210318
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Copenscreenprotocol
-    docid:
-    - id: W3C openscreenprotocol
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C openscreenprotocol
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-openscreenprotocol-20220422
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

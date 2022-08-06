@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/NOTE-security-privacy-questionnaire-20151210/
   type: src
+- content: https://w3ctag.github.io/security-questionnaire/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-security-privacy-questionnaire-20151210
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Csecurity-questionnaire
-    docid:
-    - id: W3C security-questionnaire
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C security-questionnaire
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-security-privacy-questionnaire-20151210
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

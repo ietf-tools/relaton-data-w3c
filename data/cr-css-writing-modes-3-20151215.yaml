@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/
   type: src
+- content: http://dev.w3.org/csswg/css-writing-modes-3/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css-writing-modes-3-20151215
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-css-writing-modes-3-20140320
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-writing-modes-3
-    docid:
-    - id: W3C css-writing-modes-3
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-writing-modes-3
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css-writing-modes-3-20151215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

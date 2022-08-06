@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/CR-2dcontext-20140821/
   type: src
+- content: http://www.w3.org/html/wg/drafts/2dcontext/html5_canvas_CR/
+  type: current
 type: standard
 docid:
 - id: W3C CR-2dcontext-20140821
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-2dcontext-20140520
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml5_canvas_CR
-    docid:
-    - id: W3C html5_canvas_CR
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html5_canvas_CR
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-2dcontext-20140821
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

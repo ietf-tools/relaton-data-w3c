@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-DOM-Level-3-Events-key-20140612/
   type: src
+- content: https://dvcs.w3.org/hg/dom3events/raw-file/tip/html/DOM3Events-key.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-DOM-Level-3-Events-key-20140612
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3CDOM3Events-key.html
-    docid:
-    - id: W3C DOM3Events-key.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DOM3Events-key.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-DOM-Level-3-Events-key-20140612
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

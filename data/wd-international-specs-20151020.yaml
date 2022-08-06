@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-international-specs-20151020/
   type: src
+- content: http://w3c.github.io/bp-i18n-specdev/
+  type: current
 type: standard
 docid:
 - id: W3C WD-international-specs-20151020
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cbp-i18n-specdev
-    docid:
-    - id: W3C bp-i18n-specdev
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C bp-i18n-specdev
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-international-specs-20151020
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

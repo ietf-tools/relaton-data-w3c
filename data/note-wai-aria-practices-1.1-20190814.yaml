@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/NOTE-wai-aria-practices-1.1-20190814/
   type: src
+- content: https://w3c.github.io/aria-practices/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-wai-aria-practices-1.1-20190814
@@ -112,25 +114,12 @@ relation:
     formattedref:
       content: W3C NOTE-wai-aria-practices-1.1-20190207
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Caria-practices
-    docid:
-    - id: W3C aria-practices
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C aria-practices
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wai-aria-practices-1.1-20190814
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-audio-output-20220210/
   type: src
+- content: https://w3c.github.io/mediacapture-output/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-audio-output-20220210
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CRD-audio-output-20211115
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmediacapture-output
-    docid:
-    - id: W3C mediacapture-output
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C mediacapture-output
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-audio-output-20220210
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

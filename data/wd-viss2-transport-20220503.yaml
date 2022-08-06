@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-viss2-transport-20220503/
   type: src
+- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Transport.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-viss2-transport-20220503
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-viss2-transport-20220405
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgh-pages/spec
-    docid:
-    - id: W3C gh-pages/spec
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C gh-pages/spec
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-viss2-transport-20220503
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Automotive Working Group

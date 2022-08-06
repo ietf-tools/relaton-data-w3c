@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-manifest-app-info-20200804/
   type: src
+- content: https://w3c.github.io/manifest-app-info/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-manifest-app-info-20200804
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C NOTE-manifest-app-info-20200730
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmanifest-app-info
-    docid:
-    - id: W3C manifest-app-info
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C manifest-app-info
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-manifest-app-info-20200804
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

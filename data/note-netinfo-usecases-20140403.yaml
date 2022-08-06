@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-netinfo-usecases-20140403/
   type: src
+- content: https://w3c-webmob.github.io/netinfo-usecases/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-netinfo-usecases-20140403
@@ -51,26 +53,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cnetinfo-usecases
-    docid:
-    - id: W3C netinfo-usecases
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C netinfo-usecases
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-netinfo-usecases-20140403
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web and Mobile Interest Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-web-share-20201019/
   type: src
+- content: https://w3c.github.io/web-share/
+  type: current
 type: standard
 docid:
 - id: W3C WD-web-share-20201019
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-web-share-20200924
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cweb-share
-    docid:
-    - id: W3C web-share
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C web-share
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-web-share-20201019
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

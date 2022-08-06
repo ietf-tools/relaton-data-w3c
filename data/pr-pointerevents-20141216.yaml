@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/PR-pointerevents-20141216/
   type: src
+- content: https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html
+  type: current
 type: standard
 docid:
 - id: W3C PR-pointerevents-20141216
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-pointerevents-20141113
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Craw-file/tip
-    docid:
-    - id: W3C raw-file/tip
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C raw-file/tip
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-pointerevents-20141216
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Pointer Events Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-webrtc-stats-20150206/
   type: src
+- content: http://w3c.github.io/webrtc-stats/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webrtc-stats-20150206
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-webrtc-stats-20141021
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebrtc-stats
-    docid:
-    - id: W3C webrtc-stats
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webrtc-stats
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webrtc-stats-20150206
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-raur-20210525/
   type: src
+- content: https://w3c.github.io/apa/raur/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-raur-20210525
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C WD-raur-20201207
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Craur
-    docid:
-    - id: W3C raur
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C raur
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-raur-20210525
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

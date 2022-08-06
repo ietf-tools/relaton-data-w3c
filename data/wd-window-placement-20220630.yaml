@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-window-placement-20220630/
   type: src
+- content: https://w3c.github.io/window-placement/
+  type: current
 type: standard
 docid:
 - id: W3C WD-window-placement-20220630
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwindow-placement
-    docid:
-    - id: W3C window-placement
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C window-placement
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-window-placement-20220630
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

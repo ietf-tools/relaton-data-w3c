@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-frame-timing-20151207/
   type: src
+- content: https://w3c.github.io/frame-timing/
+  type: current
 type: standard
 docid:
 - id: W3C WD-frame-timing-20151207
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-frame-timing-20151124
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cframe-timing
-    docid:
-    - id: W3C frame-timing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C frame-timing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-frame-timing-20151207
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

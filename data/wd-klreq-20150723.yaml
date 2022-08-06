@@ -7,6 +7,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-klreq-20150723/
   type: src
+- content: http://w3c.github.io/klreq/
+  type: current
 type: standard
 docid:
 - id: W3C WD-klreq-20150723
@@ -46,25 +48,12 @@ relation:
     formattedref:
       content: W3C WD-klreq-20150630
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cklreq
-    docid:
-    - id: W3C klreq
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C klreq
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-klreq-20150723
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

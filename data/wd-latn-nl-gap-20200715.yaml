@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-latn-nl-gap-20200715/
   type: src
+- content: https://w3c.github.io/eurlreq/gap-analysis/latn-nl-gap
+  type: current
 type: standard
 docid:
 - id: W3C WD-latn-nl-gap-20200715
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-latn-nl-gap-20200623
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Clatn-nl-gap
-    docid:
-    - id: W3C latn-nl-gap
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C latn-nl-gap
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-latn-nl-gap-20200715
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

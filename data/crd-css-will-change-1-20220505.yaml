@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-css-will-change-1-20220505/
   type: src
+- content: https://drafts.csswg.org/css-will-change/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-css-will-change-1-20220505
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-css-will-change-1-20151203
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-will-change
-    docid:
-    - id: W3C css-will-change
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-will-change
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-css-will-change-1-20220505
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

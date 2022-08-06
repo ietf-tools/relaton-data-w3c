@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-tcp-udp-sockets-20141202/
   type: src
+- content: http://www.w3.org/2012/sysapps/tcp-udp-sockets/
+  type: current
 type: standard
 docid:
 - id: W3C WD-tcp-udp-sockets-20141202
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-raw-sockets-20130514
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctcp-udp-sockets
-    docid:
-    - id: W3C tcp-udp-sockets
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C tcp-udp-sockets
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-tcp-udp-sockets-20141202
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: System Applications Working Group

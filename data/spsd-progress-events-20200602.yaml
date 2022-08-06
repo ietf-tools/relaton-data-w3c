@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/SPSD-progress-events-20200602/
   type: src
+- content: https://xhr.spec.whatwg.org/
+  type: current
 type: standard
 docid:
 - id: W3C SPSD-progress-events-20200602
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C REC-html32-19970114
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cxhr.spec.whatwg.org
-    docid:
-    - id: W3C xhr.spec.whatwg.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C xhr.spec.whatwg.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-progress-events-20200602
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

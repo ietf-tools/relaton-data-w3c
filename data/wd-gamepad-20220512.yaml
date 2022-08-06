@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-gamepad-20220512/
   type: src
+- content: https://w3c.github.io/gamepad/
+  type: current
 type: standard
 docid:
 - id: W3C WD-gamepad-20220512
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-gamepad-20220211
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgamepad
-    docid:
-    - id: W3C gamepad
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C gamepad
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-gamepad-20220512
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

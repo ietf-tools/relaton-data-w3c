@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-vocab-odrl-20160721/
   type: src
+- content: https://w3c.github.io/poe/vocab/
+  type: current
 type: standard
 docid:
 - id: W3C WD-vocab-odrl-20160721
@@ -84,26 +86,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cvocab
-    docid:
-    - id: W3C vocab
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vocab
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-vocab-odrl-20160721
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Permissions and Obligations Expression Working Group

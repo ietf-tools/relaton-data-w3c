@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/NOTE-wpub-20190813/
   type: src
+- content: https://w3c.github.io/wpub/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-wpub-20190813
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C WD-wpub-20190614
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwpub
-    docid:
-    - id: W3C wpub
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C wpub
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-wpub-20190813
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Audiobooks Working Group

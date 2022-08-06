@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-jf2-20171026/
   type: src
+- content: https://dissolve.github.io/jf2/
+  type: current
 type: standard
 docid:
 - id: W3C WD-jf2-20171026
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-jf2-20170719
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cjf2
-    docid:
-    - id: W3C jf2
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C jf2
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-jf2-20171026
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

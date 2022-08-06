@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-screen-orientation-20171105/
   type: src
+- content: https://w3c.github.io/screen-orientation/
+  type: current
 type: standard
 docid:
 - id: W3C WD-screen-orientation-20171105
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-screen-orientation-20171104
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cscreen-orientation
-    docid:
-    - id: W3C screen-orientation
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C screen-orientation
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-screen-orientation-20171105
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

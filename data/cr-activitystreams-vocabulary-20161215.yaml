@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/CR-activitystreams-vocabulary-20161215/
   type: src
+- content: http://w3c.github.io/activitystreams/vocabulary/
+  type: current
 type: standard
 docid:
 - id: W3C CR-activitystreams-vocabulary-20161215
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-activitystreams-vocabulary-20160906
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvocabulary
-    docid:
-    - id: W3C vocabulary
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vocabulary
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-activitystreams-vocabulary-20161215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

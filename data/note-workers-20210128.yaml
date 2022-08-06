@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-workers-20210128/
   type: src
+- content: https://html.spec.whatwg.org/multipage/workers.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-workers-20210128
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-workers-20150924
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cworkers.html
-    docid:
-    - id: W3C workers.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C workers.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-workers-20210128
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

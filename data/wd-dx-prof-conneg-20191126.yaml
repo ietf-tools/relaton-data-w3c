@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-dx-prof-conneg-20191126/
   type: src
+- content: https://w3c.github.io/dxwg/connegp/
+  type: current
 type: standard
 docid:
 - id: W3C WD-dx-prof-conneg-20191126
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-dx-prof-conneg-20190430
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cconnegp
-    docid:
-    - id: W3C connegp
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C connegp
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-dx-prof-conneg-20191126
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Dataset Exchange Working Group

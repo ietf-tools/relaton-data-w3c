@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-image-resource-20200520/
   type: src
+- content: https://w3c.github.io/image-resource/
+  type: current
 type: standard
 docid:
 - id: W3C WD-image-resource-20200520
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-image-resource-20200511
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cimage-resource
-    docid:
-    - id: W3C image-resource
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C image-resource
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-image-resource-20200520
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

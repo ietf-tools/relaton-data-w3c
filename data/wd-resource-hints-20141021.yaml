@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-resource-hints-20141021/
   type: src
+- content: http://w3c.github.io/resource-hints/
+  type: current
 type: standard
 docid:
 - id: W3C WD-resource-hints-20141021
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cresource-hints
-    docid:
-    - id: W3C resource-hints
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C resource-hints
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-resource-hints-20141021
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

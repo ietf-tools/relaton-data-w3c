@@ -17,7 +17,7 @@ language:
 script:
 - Latn
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CDISC-preload-20220331
     docid:
@@ -72,5 +72,5 @@ series:
     content: W3C technicalReport
     format: text/plain
   number: preload
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

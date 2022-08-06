@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-vehicle-information-api-20170621/
   type: src
+- content: https://w3c.github.io/automotive/vehicle_information_api/vehicle_information_api_specification.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-vehicle-information-api-20170621
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-vehicle-information-api-20170605
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvehicle_information_api_specification.html
-    docid:
-    - id: W3C vehicle_information_api_specification.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vehicle_information_api_specification.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-vehicle-information-api-20170621
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Automotive Working Group

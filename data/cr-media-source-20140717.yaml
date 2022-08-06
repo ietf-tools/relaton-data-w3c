@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/CR-media-source-20140717/
   type: src
+- content: http://dvcs.w3.org/hg/html-media/raw-file/default/media-source/media-source.html
+  type: current
 type: standard
 docid:
 - id: W3C CR-media-source-20140717
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CR-media-source-20140109
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmedia-source.html
-    docid:
-    - id: W3C media-source.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C media-source.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-media-source-20140717
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-did-imp-guide-20211012/
   type: src
+- content: https://w3c.github.io/did-imp-guide/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-did-imp-guide-20211012
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C NOTE-did-imp-guide-20210921
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdid-imp-guide
-    docid:
-    - id: W3C did-imp-guide
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C did-imp-guide
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-did-imp-guide-20211012
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Decentralized Identifier Working Group

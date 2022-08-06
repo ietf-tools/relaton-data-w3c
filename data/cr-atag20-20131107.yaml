@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/CR-ATAG20-20131107/
   type: src
+- content: http://www.w3.org/WAI/AU/ATAG20/
+  type: current
 type: standard
 docid:
 - id: W3C CR-ATAG20-20131107
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-ATAG20-20130910
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CATAG20
-    docid:
-    - id: W3C ATAG20
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ATAG20
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-ATAG20-20131107
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Authoring Tool Accessibility Guidelines Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-css-tables-3-20161025/
   type: src
+- content: https://drafts.csswg.org/css-tables-3/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-tables-3-20161025
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-tables-3
-    docid:
-    - id: W3C css-tables-3
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-tables-3
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-tables-3-20161025
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

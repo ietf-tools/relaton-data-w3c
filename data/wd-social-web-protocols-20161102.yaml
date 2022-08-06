@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-social-web-protocols-20161102/
   type: src
+- content: https://w3c-social.github.io/social-web-protocols
+  type: current
 type: standard
 docid:
 - id: W3C WD-social-web-protocols-20161102
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-social-web-protocols-20161101
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Csocial-web-protocols
-    docid:
-    - id: W3C social-web-protocols
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C social-web-protocols
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-social-web-protocols-20161102
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

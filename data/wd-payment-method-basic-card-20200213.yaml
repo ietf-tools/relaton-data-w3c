@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-payment-method-basic-card-20200213/
   type: src
+- content: https://w3c.github.io/payment-method-basic-card/
+  type: current
 type: standard
 docid:
 - id: W3C WD-payment-method-basic-card-20200213
@@ -85,25 +87,12 @@ relation:
     formattedref:
       content: W3C WD-payment-method-basic-card-20200212
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpayment-method-basic-card
-    docid:
-    - id: W3C payment-method-basic-card
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C payment-method-basic-card
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-payment-method-basic-card-20200213
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

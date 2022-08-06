@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/WD-miniapp-packaging-20211130/
   type: src
+- content: https://w3c.github.io/miniapp-packaging/
+  type: current
 type: standard
 docid:
 - id: W3C WD-miniapp-packaging-20211130
@@ -74,26 +76,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cminiapp-packaging
-    docid:
-    - id: W3C miniapp-packaging
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C miniapp-packaging
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-miniapp-packaging-20211130
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: MiniApps Working Group

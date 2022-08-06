@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220520/
   type: src
+- content: https://w3c.github.io/epub-specs/epub33/a11y-tech/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-epub-a11y-tech-11-20220520
@@ -82,25 +84,12 @@ relation:
     formattedref:
       content: W3C NOTE-epub-a11y-tech-11-20220519
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ca11y-tech
-    docid:
-    - id: W3C a11y-tech
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C a11y-tech
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-epub-a11y-tech-11-20220520
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

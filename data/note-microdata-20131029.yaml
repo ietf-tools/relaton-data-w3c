@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/NOTE-microdata-20131029/
   type: src
+- content: http://www.w3.org/html/wg/drafts/microdata/master/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-microdata-20131029
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-microdata-20121025
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmaster
-    docid:
-    - id: W3C master
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C master
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-microdata-20131029
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

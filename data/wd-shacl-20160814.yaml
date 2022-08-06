@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-shacl-20160814/
   type: src
+- content: http://w3c.github.io/data-shapes/shacl/
+  type: current
 type: standard
 docid:
 - id: W3C WD-shacl-20160814
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-shacl-20160530
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdata-shapes/shacl
-    docid:
-    - id: W3C data-shapes/shacl
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C data-shapes/shacl
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-shacl-20160814
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: RDF Data Shapes Working Group

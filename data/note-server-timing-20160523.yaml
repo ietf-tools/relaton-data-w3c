@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/NOTE-server-timing-20160523/
   type: src
+- content: https://w3c.github.io/server-timing/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-server-timing-20160523
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-server-timing-20150717
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cserver-timing
-    docid:
-    - id: W3C server-timing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C server-timing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-server-timing-20160523
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Performance Working Group

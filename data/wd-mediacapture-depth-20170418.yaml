@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-mediacapture-depth-20170418/
   type: src
+- content: https://w3c.github.io/mediacapture-depth/
+  type: current
 type: standard
 docid:
 - id: W3C WD-mediacapture-depth-20170418
@@ -75,26 +77,13 @@ relation:
     formattedref:
       content: W3C WD-mediacapture-depth-20170328
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmediacapture-depth
-    docid:
-    - id: W3C mediacapture-depth
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C mediacapture-depth
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-mediacapture-depth-20170418
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
 - name: Web Real-Time Communications Working Group

@@ -16,8 +16,11 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CCR-upgrade-insecure-requests-20151008
     docid:
@@ -29,8 +32,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C CR
     format: text/plain
   number: upgrade-insecure-requests
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/REC-SRI-20160623/
   type: src
+- content: https://w3c.github.io/webappsec-subresource-integrity/
+  type: current
 type: standard
 docid:
 - id: W3C REC-SRI-20160623
@@ -88,25 +90,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebappsec-subresource-integrity
-    docid:
-    - id: W3C webappsec-subresource-integrity
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webappsec-subresource-integrity
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-SRI-20160623
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-html-templates-20140318/
   type: src
+- content: https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/templates/index.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-html-templates-20140318
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C WD-html-templates-20130214
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Craw-file/tip
-    docid:
-    - id: W3C raw-file/tip
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C raw-file/tip
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-templates-20140318
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

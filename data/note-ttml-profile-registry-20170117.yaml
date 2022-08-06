@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-ttml-profile-registry-20170117/
   type: src
+- content: https://w3c.github.io/tt-profile-registry/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-ttml-profile-registry-20170117
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C NOTE-ttml-profile-registry-20161009
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctt-profile-registry
-    docid:
-    - id: W3C tt-profile-registry
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C tt-profile-registry
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ttml-profile-registry-20170117
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Timed Text Working Group

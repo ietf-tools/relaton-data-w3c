@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/CR-geometry-1-20141125/
   type: src
+- content: https://drafts.fxtf.org/geometry/
+  type: current
 type: standard
 docid:
 - id: W3C CR-geometry-1-20141125
@@ -65,26 +67,13 @@ relation:
     formattedref:
       content: W3C WD-geometry-1-20140918
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgeometry
-    docid:
-    - id: W3C geometry
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C geometry
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-geometry-1-20141125
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: SVG Working Group
 - name: Cascading Style Sheets Working Group

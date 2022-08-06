@@ -7,6 +7,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/WD-mobile-accessibility-mapping-20150226/
   type: src
+- content: https://w3c.github.io/Mobile-A11y-TF-Note/
+  type: current
 type: standard
 docid:
 - id: W3C WD-mobile-accessibility-mapping-20150226
@@ -55,27 +57,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3CMobile-A11y-TF-Note
-    docid:
-    - id: W3C Mobile-A11y-TF-Note
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C Mobile-A11y-TF-Note
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-mobile-accessibility-mapping-20150226
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group
 - name: User Agent Accessibility Guidelines Working Group

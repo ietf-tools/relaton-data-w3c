@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-accname-1.2-20190711/
   type: src
+- content: https://w3c.github.io/accname/
+  type: current
 type: standard
 docid:
 - id: W3C WD-accname-1.2-20190711
@@ -54,26 +56,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Caccname
-    docid:
-    - id: W3C accname
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C accname
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-accname-1.2-20190711
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

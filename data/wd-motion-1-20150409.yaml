@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-motion-1-20150409/
   type: src
+- content: http://dev.w3.org/fxtf/motion-1/
+  type: current
 type: standard
 docid:
 - id: W3C WD-motion-1-20150409
@@ -44,27 +46,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmotion-1
-    docid:
-    - id: W3C motion-1
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C motion-1
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-motion-1-20150409
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: SVG Working Group
 - name: Cascading Style Sheets Working Group

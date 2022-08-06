@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/REC-WebCryptoAPI-20170126/
   type: src
+- content: https://w3c.github.io/webcrypto/
+  type: current
 type: standard
 docid:
 - id: W3C REC-WebCryptoAPI-20170126
@@ -58,25 +60,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebcrypto
-    docid:
-    - id: W3C webcrypto
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webcrypto
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-WebCryptoAPI-20170126
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Cryptography Working Group

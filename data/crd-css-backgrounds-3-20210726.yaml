@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/CRD-css-backgrounds-3-20210726/
   type: src
+- content: https://drafts.csswg.org/css-backgrounds/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-css-backgrounds-3-20210726
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CR-css-backgrounds-3-20201222
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-backgrounds
-    docid:
-    - id: W3C css-backgrounds
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-backgrounds
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-css-backgrounds-3-20210726
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

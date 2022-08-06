@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220419/
   type: src
+- content: https://immersive-web.github.io/depth-sensing/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webxr-depth-sensing-1-20220419
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-webxr-depth-sensing-1-20220223
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdepth-sensing
-    docid:
-    - id: W3C depth-sensing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C depth-sensing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webxr-depth-sensing-1-20220419
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Immersive Web Working Group

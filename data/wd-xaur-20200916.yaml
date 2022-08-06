@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-xaur-20200916/
   type: src
+- content: https://w3c.github.io/apa/xaur/
+  type: current
 type: standard
 docid:
 - id: W3C WD-xaur-20200916
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-xaur-20200213
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cxaur
-    docid:
-    - id: W3C xaur
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C xaur
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-xaur-20200916
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Platform Architectures

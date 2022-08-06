@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/PR-trace-context-1-20191121/
   type: src
+- content: https://w3c.github.io/trace-context/
+  type: current
 type: standard
 docid:
 - id: W3C PR-trace-context-1-20191121
@@ -95,25 +97,12 @@ relation:
     formattedref:
       content: W3C CR-trace-context-20190813
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctrace-context
-    docid:
-    - id: W3C trace-context
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C trace-context
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-trace-context-1-20191121
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group

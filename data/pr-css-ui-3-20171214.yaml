@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/PR-css-ui-3-20171214/
   type: src
+- content: https://drafts.csswg.org/css-ui/
+  type: current
 type: standard
 docid:
 - id: W3C PR-css-ui-3-20171214
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-css-ui-3-20170302
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-ui
-    docid:
-    - id: W3C css-ui
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-ui
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C PR
     format: text/plain
   number: PR-css-ui-3-20171214
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

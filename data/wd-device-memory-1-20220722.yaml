@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-device-memory-1-20220722/
   type: src
+- content: https://www.w3.org/TR/device-memory/
+  type: current
 type: standard
 docid:
 - id: W3C WD-device-memory-1-20220722
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-device-memory-1-20180925
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdevice-memory
-    docid:
-    - id: W3C device-memory
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C device-memory
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-device-memory-1-20220722
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

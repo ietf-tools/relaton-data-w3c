@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/
   type: src
+- content: https://w3c.github.io/csvw/primer/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-tabular-data-primer-20160225
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cprimer
-    docid:
-    - id: W3C primer
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C primer
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-tabular-data-primer-20160225
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: CSV on the Web Working Group

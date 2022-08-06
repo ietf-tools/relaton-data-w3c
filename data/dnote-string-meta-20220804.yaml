@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-string-meta-20220804/
   type: src
+- content: https://w3c.github.io/string-meta/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-string-meta-20220804
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C DNOTE-string-meta-20220307
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cstring-meta
-    docid:
-    - id: W3C string-meta
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C string-meta
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-string-meta-20220804
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -7,6 +7,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-accessibility-conformance-challenges-20200619/
   type: src
+- content: https://w3c.github.io/wcag/conformance-challenges/
+  type: current
 type: standard
 docid:
 - id: W3C WD-accessibility-conformance-challenges-20200619
@@ -66,25 +68,12 @@ relation:
     formattedref:
       content: W3C WD-accessibility-conformance-challenges-20200604
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cconformance-challenges
-    docid:
-    - id: W3C conformance-challenges
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C conformance-challenges
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-accessibility-conformance-challenges-20200619
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group

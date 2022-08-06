@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-ldp-bp-20140828/
   type: src
+- content: https://dvcs.w3.org/hg/ldpwg/raw-file/default/ldp-bp/ldp-bp.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-ldp-bp-20140828
@@ -51,26 +53,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cldp-bp.html
-    docid:
-    - id: W3C ldp-bp.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ldp-bp.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-ldp-bp-20140828
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Linked Data Platform Working Group

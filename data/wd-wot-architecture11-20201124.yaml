@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-wot-architecture11-20201124/
   type: src
+- content: https://w3c.github.io/wot-architecture/
+  type: current
 type: standard
 docid:
 - id: W3C WD-wot-architecture11-20201124
@@ -74,26 +76,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwot-architecture
-    docid:
-    - id: W3C wot-architecture
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C wot-architecture
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wot-architecture11-20201124
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web of Things Working Group

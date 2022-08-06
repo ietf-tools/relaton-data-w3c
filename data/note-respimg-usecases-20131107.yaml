@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/NOTE-respimg-usecases-20131107/
   type: src
+- content: https://usecases.responsiveimages.org
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-respimg-usecases-20131107
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C WD-respimg-usecases-20130226
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cusecases.responsiveimages.org
-    docid:
-    - id: W3C usecases.responsiveimages.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C usecases.responsiveimages.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-respimg-usecases-20131107
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

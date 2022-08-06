@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/REC-WCAG21-20180605/
   type: src
+- content: https://w3c.github.io/wcag/21/guidelines/
+  type: current
 type: standard
 docid:
 - id: W3C REC-WCAG21-20180605
@@ -88,25 +90,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cguidelines
-    docid:
-    - id: W3C guidelines
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C guidelines
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-WCAG21-20180605
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group

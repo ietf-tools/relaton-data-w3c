@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-SVG2-20150915/
   type: src
+- content: https://svgwg.org/svg2-draft/
+  type: current
 type: standard
 docid:
 - id: W3C WD-SVG2-20150915
@@ -185,25 +187,12 @@ relation:
     formattedref:
       content: W3C WD-SVG2-20150709
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Csvg2-draft
-    docid:
-    - id: W3C svg2-draft
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C svg2-draft
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-SVG2-20150915
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: SVG Working Group

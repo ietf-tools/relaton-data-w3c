@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-activitystreams-core-20151215/
   type: src
+- content: http://jasnell.github.io/w3c-socialwg-activitystreams/activitystreams-core/
+  type: current
 type: standard
 docid:
 - id: W3C WD-activitystreams-core-20151215
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-activitystreams-core-20151006
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cactivitystreams-core
-    docid:
-    - id: W3C activitystreams-core
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C activitystreams-core
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-activitystreams-core-20151215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

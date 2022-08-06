@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-clreq-20190528/
   type: src
+- content: https://w3c.github.io/clreq/
+  type: current
 type: standard
 docid:
 - id: W3C WD-clreq-20190528
@@ -135,25 +137,12 @@ relation:
     formattedref:
       content: W3C WD-clreq-20181220
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cclreq
-    docid:
-    - id: W3C clreq
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C clreq
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-clreq-20190528
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

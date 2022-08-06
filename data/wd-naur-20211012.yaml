@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/WD-naur-20211012/
   type: src
+- content: https://w3c.github.io/apa/naur/
+  type: current
 type: standard
 docid:
 - id: W3C WD-naur-20211012
@@ -64,26 +66,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cnaur
-    docid:
-    - id: W3C naur
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C naur
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-naur-20211012
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Platform Architectures

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220311/
   type: src
+- content: https://w3c.github.io/miniapp-addressing/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-miniapp-addressing-20220311
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C DNOTE-miniapp-addressing-20220310
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cminiapp-addressing
-    docid:
-    - id: W3C miniapp-addressing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C miniapp-addressing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-miniapp-addressing-20220311
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group

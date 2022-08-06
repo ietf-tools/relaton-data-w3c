@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/CR-animation-timing-20131031/
   type: src
+- content: http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/RequestAnimationFrame/Overview.html
+  type: current
 type: standard
 docid:
 - id: W3C CR-animation-timing-20131031
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-animation-timing-20120221
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Craw-file/tip
-    docid:
-    - id: W3C raw-file/tip
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C raw-file/tip
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-animation-timing-20131031
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

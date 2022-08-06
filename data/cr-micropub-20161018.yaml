@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/CR-micropub-20161018/
   type: src
+- content: https://micropub.net/draft/
+  type: current
 type: standard
 docid:
 - id: W3C CR-micropub-20161018
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-micropub-20160816
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdraft
-    docid:
-    - id: W3C draft
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C draft
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-micropub-20161018
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

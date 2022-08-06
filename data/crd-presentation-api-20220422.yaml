@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-presentation-api-20220422/
   type: src
+- content: https://w3c.github.io/presentation-api/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-presentation-api-20220422
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CRD-presentation-api-20201105
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpresentation-api
-    docid:
-    - id: W3C presentation-api
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C presentation-api
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-presentation-api-20220422
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

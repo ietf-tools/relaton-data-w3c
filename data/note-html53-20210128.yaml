@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/NOTE-html53-20210128/
   type: src
+- content: https://w3c.github.io/html/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-html53-20210128
@@ -102,25 +104,12 @@ relation:
     formattedref:
       content: W3C WD-html53-20181018
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml
-    docid:
-    - id: W3C html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html53-20210128
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group

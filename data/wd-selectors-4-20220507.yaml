@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-selectors-4-20220507/
   type: src
+- content: https://drafts.csswg.org/selectors/
+  type: current
 type: standard
 docid:
 - id: W3C WD-selectors-4-20220507
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-selectors-4-20181121
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cselectors
-    docid:
-    - id: W3C selectors
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C selectors
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-selectors-4-20220507
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

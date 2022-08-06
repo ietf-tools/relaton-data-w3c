@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-epr-20150609/
   type: src
+- content: https://w3c.github.io/webappsec/specs/epr/
+  type: current
 type: standard
 docid:
 - id: W3C WD-epr-20150609
@@ -44,26 +46,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cepr
-    docid:
-    - id: W3C epr
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C epr
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-epr-20150609
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

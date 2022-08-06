@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/CRD-generic-sensor-20211215/
   type: src
+- content: https://w3c.github.io/sensors/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-generic-sensor-20211215
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CRD-generic-sensor-20211214
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Csensors
-    docid:
-    - id: W3C sensors
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C sensors
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-generic-sensor-20211215
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/
   type: src
+- content: https://www.w3.org/2008/xmlsec/Drafts/c14n-20/test-cases/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-xml-c14n2-testcases-20130618
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C NOTE-xml-c14n2-testcases-20130411
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ctest-cases
-    docid:
-    - id: W3C test-cases
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C test-cases
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xml-c14n2-testcases-20130618
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: XML Security Working Group

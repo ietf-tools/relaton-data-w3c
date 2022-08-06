@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/CR-css-cascade-3-20180828/
   type: src
+- content: https://drafts.csswg.org/css-cascade-3/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css-cascade-3-20180828
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C CR-css-cascade-3-20160519
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-cascade-3
-    docid:
-    - id: W3C css-cascade-3
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-cascade-3
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css-cascade-3-20180828
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

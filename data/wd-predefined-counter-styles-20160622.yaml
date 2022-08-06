@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-predefined-counter-styles-20160622/
   type: src
+- content: https://w3c.github.io/predefined-counter-styles/
+  type: current
 type: standard
 docid:
 - id: W3C WD-predefined-counter-styles-20160622
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-predefined-counter-styles-20150203
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpredefined-counter-styles
-    docid:
-    - id: W3C predefined-counter-styles
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C predefined-counter-styles
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-predefined-counter-styles-20160622
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

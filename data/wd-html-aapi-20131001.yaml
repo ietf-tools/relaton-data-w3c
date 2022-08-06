@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-html-aapi-20131001/
   type: src
+- content: http://rawgithub.com/w3c/html-api-map/master/index.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-html-aapi-20131001
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-html-aapi-20130910
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml-api-map/master
-    docid:
-    - id: W3C html-api-map/master
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html-api-map/master
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-html-aapi-20131001
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

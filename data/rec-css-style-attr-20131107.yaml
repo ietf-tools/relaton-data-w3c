@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/REC-css-style-attr-20131107/
   type: src
+- content: https://drafts.csswg.org/css-style-attr/
+  type: current
 type: standard
 docid:
 - id: W3C REC-css-style-attr-20131107
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C PR-css-style-attr-20131003
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-style-attr
-    docid:
-    - id: W3C css-style-attr
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-style-attr
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-css-style-attr-20131107
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

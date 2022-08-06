@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/WD-orientation-sensor-20171018/
   type: src
+- content: https://w3c.github.io/orientation-sensor/
+  type: current
 type: standard
 docid:
 - id: W3C WD-orientation-sensor-20171018
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-orientation-sensor-20170814
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Corientation-sensor
-    docid:
-    - id: W3C orientation-sensor
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C orientation-sensor
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-orientation-sensor-20171018
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

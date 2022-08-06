@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/CRD-css-color-adjust-1-20220614/
   type: src
+- content: https://drafts.csswg.org/css-color-adjust-1/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-css-color-adjust-1-20220614
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C CR-css-color-adjust-1-20220210
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-color-adjust-1
-    docid:
-    - id: W3C css-color-adjust-1
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-color-adjust-1
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-css-color-adjust-1-20220614
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-payment-method-id-20161207/
   type: src
+- content: http://w3c.github.io/webpayments-method-identifiers/
+  type: current
 type: standard
 docid:
 - id: W3C WD-payment-method-id-20161207
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-payment-method-id-20160705
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebpayments-method-identifiers
-    docid:
-    - id: W3C webpayments-method-identifiers
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webpayments-method-identifiers
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-payment-method-id-20161207
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

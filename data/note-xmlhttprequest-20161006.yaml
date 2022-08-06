@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-XMLHttpRequest-20161006/
   type: src
+- content: https://xhr.spec.whatwg.org/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-XMLHttpRequest-20161006
@@ -72,25 +74,12 @@ relation:
     formattedref:
       content: W3C WD-XMLHttpRequest-20140130
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cxhr.spec.whatwg.org
-    docid:
-    - id: W3C xhr.spec.whatwg.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C xhr.spec.whatwg.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-XMLHttpRequest-20161006
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

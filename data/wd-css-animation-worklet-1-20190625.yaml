@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/WD-css-animation-worklet-1-20190625/
   type: src
+- content: https://drafts.css-houdini.org/css-animationworklet-1/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-animation-worklet-1-20190625
@@ -54,26 +56,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-animationworklet-1
-    docid:
-    - id: W3C css-animationworklet-1
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-animationworklet-1
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-animation-worklet-1-20190625
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

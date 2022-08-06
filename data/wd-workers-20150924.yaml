@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/WD-workers-20150924/
   type: src
+- content: https://html.spec.whatwg.org/multipage/workers.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-workers-20150924
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-workers-20120501
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cworkers.html
-    docid:
-    - id: W3C workers.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C workers.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-workers-20150924
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

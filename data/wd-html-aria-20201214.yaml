@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-html-aria-20201214/
   type: src
+- content: https://w3c.github.io/html-aria/
+  type: current
 type: standard
 docid:
 - id: W3C WD-html-aria-20201214
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-html-aria-20201125
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chtml-aria
-    docid:
-    - id: W3C html-aria
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C html-aria
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-html-aria-20201214
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

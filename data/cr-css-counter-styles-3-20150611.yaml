@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/CR-css-counter-styles-3-20150611/
   type: src
+- content: http://dev.w3.org/csswg/css-counter-styles/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css-counter-styles-3-20150611
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-css-counter-styles-3-20150203
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-counter-styles
-    docid:
-    - id: W3C css-counter-styles
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-counter-styles
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css-counter-styles-3-20150611
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

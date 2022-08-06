@@ -1,20 +1,22 @@
 ---
-id: W3CCRD-epub-33-20220804
+id: W3CCRD-epub-33-20220806
 title:
 - content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-33-20220804/
+- content: https://www.w3.org/TR/2022/CRD-epub-33-20220806/
   type: src
+- content: https://w3c.github.io/epub-specs/epub33/core/
+  type: current
 type: standard
 docid:
-- id: W3C CRD-epub-33-20220804
+- id: W3C CRD-epub-33-20220806
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20220804
+docnumber: CRD-epub-33-20220806
 date:
 - type: published
-  value: '2022-08-04'
+  value: '2022-08-06'
 contributor:
 - person:
     name:
@@ -46,7 +48,7 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-08-04'
+revdate: '2022-08-06'
 language:
 - en
 script:
@@ -57,33 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20220729
+    id: W3CCRD-epub-33-20220804
     docid:
-    - id: W3C CRD-epub-33-20220729
+    - id: W3C CRD-epub-33-20220804
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20220729
+      content: W3C CRD-epub-33-20220804
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cepub-specs/epub33
-    docid:
-    - id: W3C epub-specs/epub33
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C epub-specs/epub33
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-epub-33-20220804
-fetched: '2022-08-05'
-doctype: recommendation
+  number: CRD-epub-33-20220806
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: EPUB 3 Working Group

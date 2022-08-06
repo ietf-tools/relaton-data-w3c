@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-alreq-20200520/
   type: src
+- content: https://w3c.github.io/alreq/
+  type: current
 type: standard
 docid:
 - id: W3C WD-alreq-20200520
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-alreq-20180222
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Calreq
-    docid:
-    - id: W3C alreq
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C alreq
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-alreq-20200520
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

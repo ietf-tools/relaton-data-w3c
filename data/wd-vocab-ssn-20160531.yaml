@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2016/WD-vocab-ssn-20160531/
   type: src
+- content: http://w3c.github.io/sdw/ssn/
+  type: current
 type: standard
 docid:
 - id: W3C WD-vocab-ssn-20160531
@@ -64,26 +66,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cssn
-    docid:
-    - id: W3C ssn
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ssn
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-vocab-ssn-20160531
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Spatial Data on the Web Working Group

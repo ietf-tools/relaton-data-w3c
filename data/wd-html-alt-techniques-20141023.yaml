@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-html-alt-techniques-20141023/
   type: src
+- content: http://w3c.github.io/alt-techniques/
+  type: current
 type: standard
 docid:
 - id: W3C WD-html-alt-techniques-20141023
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-html-alt-techniques-20121025
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Calt-techniques
-    docid:
-    - id: W3C alt-techniques
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C alt-techniques
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-html-alt-techniques-20141023
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

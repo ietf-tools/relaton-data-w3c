@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/WD-svg-markers-20150409/
   type: src
+- content: https://svgwg.org/specs/markers/
+  type: current
 type: standard
 docid:
 - id: W3C WD-svg-markers-20150409
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cmarkers
-    docid:
-    - id: W3C markers
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C markers
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-svg-markers-20150409
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: SVG Working Group

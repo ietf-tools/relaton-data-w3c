@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-webauthn-20161207/
   type: src
+- content: https://w3c.github.io/webauthn/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webauthn-20161207
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-webauthn-20160928
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cwebauthn
-    docid:
-    - id: W3C webauthn
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webauthn
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webauthn-20161207
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Authentication Working Group

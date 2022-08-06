@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/NOTE-selectors-api2-20131017/
   type: src
+- content: https://dev.w3.org/2006/webapi/selectors-api2/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-selectors-api2-20131017
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-selectors-api2-20120628
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cselectors-api2
-    docid:
-    - id: W3C selectors-api2
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C selectors-api2
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-selectors-api2-20131017
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

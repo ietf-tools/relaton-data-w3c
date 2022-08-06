@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/CR-ttml-imsc1.0.1-20170713/
   type: src
+- content: https://w3c.github.io/imsc/imsc1/spec/ttml-ww-profiles.html
+  type: current
 type: standard
 docid:
 - id: W3C CR-ttml-imsc1.0.1-20170713
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-ttml-imsc1.0.1-20170322
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cttml-ww-profiles.html
-    docid:
-    - id: W3C ttml-ww-profiles.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ttml-ww-profiles.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-ttml-imsc1.0.1-20170713
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

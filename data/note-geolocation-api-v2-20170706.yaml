@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-geolocation-API-v2-20170706/
   type: src
+- content: https://dev.w3.org/geo/api/spec-source-v2.html
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-geolocation-API-v2-20170706
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C WD-geolocation-API-v2-20111201
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cspec-source-v2.html
-    docid:
-    - id: W3C spec-source-v2.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C spec-source-v2.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-geolocation-API-v2-20170706
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Geolocation Working Group

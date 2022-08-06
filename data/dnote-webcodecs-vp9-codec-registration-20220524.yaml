@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-webcodecs-vp9-codec-registration-20220524/
   type: src
+- content: https://w3c.github.io/webcodecs/vp9_codec_registration.html
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-webcodecs-vp9-codec-registration-20220524
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C DNOTE-webcodecs-vp9-codec-registration-20220504
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvp9_codec_registration.html
-    docid:
-    - id: W3C vp9_codec_registration.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vp9_codec_registration.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-webcodecs-vp9-codec-registration-20220524
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

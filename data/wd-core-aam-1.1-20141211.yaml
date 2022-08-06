@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-core-aam-1.1-20141211/
   type: src
+- content: http://w3c.github.io/aria/core-aam/core-aam.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-core-aam-1.1-20141211
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-core-aam-1.1-20140612
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccore-aam.html
-    docid:
-    - id: W3C core-aam.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C core-aam.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-core-aam-1.1-20141211
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Protocols and Formats Working Group

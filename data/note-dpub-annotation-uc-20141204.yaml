@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/NOTE-dpub-annotation-uc-20141204/
   type: src
+- content: https://w3c.github.io/dpub-annotation/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-dpub-annotation-uc-20141204
@@ -42,25 +44,12 @@ relation:
     formattedref:
       content: W3C WD-dpub-annotation-uc-20140313
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cdpub-annotation
-    docid:
-    - id: W3C dpub-annotation
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C dpub-annotation
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-dpub-annotation-uc-20141204
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Digital Publishing Interest Group

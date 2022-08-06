@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/NOTE-media-timed-events-20190516/
   type: src
+- content: https://w3c.github.io/me-media-timed-events/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-media-timed-events-20190516
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cme-media-timed-events
-    docid:
-    - id: W3C me-media-timed-events
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C me-media-timed-events
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-media-timed-events-20190516
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Media and Entertainment Interest Group

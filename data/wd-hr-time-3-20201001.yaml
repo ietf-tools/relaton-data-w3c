@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-hr-time-3-20201001/
   type: src
+- content: https://w3c.github.io/hr-time/
+  type: current
 type: standard
 docid:
 - id: W3C WD-hr-time-3-20201001
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C NOTE-hr-time-3-20170803
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Chr-time
-    docid:
-    - id: W3C hr-time
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C hr-time
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-hr-time-3-20201001
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

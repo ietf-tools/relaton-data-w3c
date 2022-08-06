@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-css-scroll-anchoring-1-20201111/
   type: src
+- content: https://drafts.csswg.org/css-scroll-anchoring/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-scroll-anchoring-1-20201111
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-css-scroll-anchoring-1-20200211
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-scroll-anchoring
-    docid:
-    - id: W3C css-scroll-anchoring
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-scroll-anchoring
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-scroll-anchoring-1-20201111
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

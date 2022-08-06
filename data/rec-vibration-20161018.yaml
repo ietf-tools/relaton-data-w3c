@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/REC-vibration-20161018/
   type: src
+- content: https://w3c.github.io/vibration/
+  type: current
 type: standard
 docid:
 - id: W3C REC-vibration-20161018
@@ -58,25 +60,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cvibration
-    docid:
-    - id: W3C vibration
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vibration
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-vibration-20161018
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

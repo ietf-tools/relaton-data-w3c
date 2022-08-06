@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/DNOTE-dapt-reqs-20220510/
   type: src
+- content: https://w3c.github.io/dapt-reqs/
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-dapt-reqs-20220510
@@ -41,26 +43,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cdapt-reqs
-    docid:
-    - id: W3C dapt-reqs
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C dapt-reqs
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-dapt-reqs-20220510
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Timed Text Working Group

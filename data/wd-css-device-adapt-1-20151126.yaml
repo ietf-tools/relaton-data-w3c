@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-css-device-adapt-1-20151126/
   type: src
+- content: https://drafts.csswg.org/css-device-adapt/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-device-adapt-1-20151126
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-css-device-adapt-20110915
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-device-adapt
-    docid:
-    - id: W3C css-device-adapt
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-device-adapt
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-device-adapt-1-20151126
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

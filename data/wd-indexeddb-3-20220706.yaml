@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/WD-IndexedDB-3-20220706/
   type: src
+- content: https://w3c.github.io/IndexedDB/
+  type: current
 type: standard
 docid:
 - id: W3C WD-IndexedDB-3-20220706
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-IndexedDB-3-20220629
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CIndexedDB
-    docid:
-    - id: W3C IndexedDB
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C IndexedDB
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-IndexedDB-3-20220706
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

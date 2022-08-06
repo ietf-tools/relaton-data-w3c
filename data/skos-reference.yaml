@@ -16,8 +16,11 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CREC-skos-reference-20090818
     docid:
@@ -39,8 +42,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C REC
     format: text/plain
   number: skos-reference
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

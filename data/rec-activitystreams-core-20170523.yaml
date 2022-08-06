@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/
   type: src
+- content: https://w3c.github.io/activitystreams/core/
+  type: current
 type: standard
 docid:
 - id: W3C REC-activitystreams-core-20170523
@@ -68,25 +70,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccore
-    docid:
-    - id: W3C core
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C core
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-activitystreams-core-20170523
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-webrtc-nv-use-cases-20181211/
   type: src
+- content: https://w3c.github.io/webrtc-nv-use-cases/
+  type: current
 type: standard
 docid:
 - id: W3C WD-webrtc-nv-use-cases-20181211
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cwebrtc-nv-use-cases
-    docid:
-    - id: W3C webrtc-nv-use-cases
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webrtc-nv-use-cases
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-webrtc-nv-use-cases-20181211
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

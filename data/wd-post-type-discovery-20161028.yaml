@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-post-type-discovery-20161028/
   type: src
+- content: https://tantek.github.io/post-type-discovery/
+  type: current
 type: standard
 docid:
 - id: W3C WD-post-type-discovery-20161028
@@ -34,25 +36,12 @@ relation:
     formattedref:
       content: W3C WD-post-type-discovery-20160728
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpost-type-discovery
-    docid:
-    - id: W3C post-type-discovery
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C post-type-discovery
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-post-type-discovery-20161028
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

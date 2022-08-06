@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2018/WD-css-logical-1-20180827/
   type: src
+- content: https://drafts.csswg.org/css-logical-1/
+  type: current
 type: standard
 docid:
 - id: W3C WD-css-logical-1-20180827
@@ -55,25 +57,12 @@ relation:
     formattedref:
       content: W3C WD-css-logical-1-20170518
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-logical-1
-    docid:
-    - id: W3C css-logical-1
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-logical-1
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-css-logical-1-20180827
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

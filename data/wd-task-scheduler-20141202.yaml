@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2014/WD-task-scheduler-20141202/
   type: src
+- content: http://www.w3.org/2012/sysapps/web-alarms/
+  type: current
 type: standard
 docid:
 - id: W3C WD-task-scheduler-20141202
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-web-alarms-20130205
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cweb-alarms
-    docid:
-    - id: W3C web-alarms
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C web-alarms
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-task-scheduler-20141202
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: System Applications Working Group

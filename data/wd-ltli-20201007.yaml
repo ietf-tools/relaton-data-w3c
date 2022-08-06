@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-ltli-20201007/
   type: src
+- content: https://w3c.github.io/ltli/
+  type: current
 type: standard
 docid:
 - id: W3C WD-ltli-20201007
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C WD-ltli-20150423
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cltli
-    docid:
-    - id: W3C ltli
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ltli
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-ltli-20201007
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

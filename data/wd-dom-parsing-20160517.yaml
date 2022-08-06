@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-DOM-Parsing-20160517/
   type: src
+- content: https://w3c.github.io/DOM-Parsing/
+  type: current
 type: standard
 docid:
 - id: W3C WD-DOM-Parsing-20160517
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C CR-DOM-Parsing-20140617
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3CDOM-Parsing
-    docid:
-    - id: W3C DOM-Parsing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DOM-Parsing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-DOM-Parsing-20160517
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

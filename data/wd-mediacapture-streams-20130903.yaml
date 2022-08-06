@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-mediacapture-streams-20130903/
   type: src
+- content: http://dev.w3.org/2011/webrtc/editor/getusermedia.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-mediacapture-streams-20130903
@@ -75,26 +77,13 @@ relation:
     formattedref:
       content: W3C WD-mediacapture-streams-20130516
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cgetusermedia.html
-    docid:
-    - id: W3C getusermedia.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C getusermedia.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-mediacapture-streams-20130903
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
 - name: Web Real-Time Communications Working Group

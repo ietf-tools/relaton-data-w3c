@@ -6,6 +6,8 @@ title:
 link:
 - content: http://www.w3.org/TR/2015/WD-vocab-duv-20150625/
   type: src
+- content: http://w3c.github.io/dwbp/vocab-du.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-vocab-duv-20150625
@@ -54,26 +56,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cvocab-du.html
-    docid:
-    - id: W3C vocab-du.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C vocab-du.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-vocab-duv-20150625
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Data on the Web Best Practices Working Group

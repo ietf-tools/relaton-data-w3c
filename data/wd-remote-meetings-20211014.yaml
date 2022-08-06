@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/WD-remote-meetings-20211014/
   type: src
+- content: https://w3c.github.io/apa/remote-meetings
+  type: current
 type: standard
 docid:
 - id: W3C WD-remote-meetings-20211014
@@ -84,26 +86,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cremote-meetings
-    docid:
-    - id: W3C remote-meetings
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C remote-meetings
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-remote-meetings-20211014
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Platform Architectures

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/WD-wcag2-ext-req-20160105/
   type: src
+- content: https://w3c.github.io/wcag/wcag20/extensions/requirements.html
+  type: current
 type: standard
 docid:
 - id: W3C WD-wcag2-ext-req-20160105
@@ -54,26 +56,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Crequirements.html
-    docid:
-    - id: W3C requirements.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C requirements.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-wcag2-ext-req-20160105
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group

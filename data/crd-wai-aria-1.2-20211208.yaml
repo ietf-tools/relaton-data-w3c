@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/CRD-wai-aria-1.2-20211208/
   type: src
+- content: https://w3c.github.io/aria/
+  type: current
 type: standard
 docid:
 - id: W3C CRD-wai-aria-1.2-20211208
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C CR-wai-aria-1.2-20210302
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Caria
-    docid:
-    - id: W3C aria
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C aria
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CRD-wai-aria-1.2-20211208
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

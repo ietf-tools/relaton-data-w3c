@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/SPSD-webmessaging-20210128/
   type: src
+- content: https://html.spec.whatwg.org/multipage/web-messaging.html
+  type: current
 type: standard
 docid:
 - id: W3C SPSD-webmessaging-20210128
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C REC-webmessaging-20150519
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cweb-messaging.html
-    docid:
-    - id: W3C web-messaging.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C web-messaging.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: SPSD-webmessaging-20210128
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: HTML Working Group

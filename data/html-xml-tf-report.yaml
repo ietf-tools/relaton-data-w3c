@@ -17,7 +17,7 @@ language:
 script:
 - Latn
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CNOTE-html-xml-tf-report-20120209
     docid:
@@ -29,8 +29,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C NOTE
     format: text/plain
   number: html-xml-tf-report
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: groupNote

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2019/CR-css-easing-1-20190430/
   type: src
+- content: https://drafts.csswg.org/css-easing/
+  type: current
 type: standard
 docid:
 - id: W3C CR-css-easing-1-20190430
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C WD-css-easing-1-20181009
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccss-easing
-    docid:
-    - id: W3C css-easing
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C css-easing
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-css-easing-1-20190430
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

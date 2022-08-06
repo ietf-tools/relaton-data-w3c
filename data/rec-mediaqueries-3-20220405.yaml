@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/
   type: src
+- content: https://drafts.csswg.org/mediaqueries-3/
+  type: current
 type: standard
 docid:
 - id: W3C REC-mediaqueries-3-20220405
@@ -58,25 +60,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmediaqueries-3
-    docid:
-    - id: W3C mediaqueries-3
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C mediaqueries-3
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-mediaqueries-3-20220405
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

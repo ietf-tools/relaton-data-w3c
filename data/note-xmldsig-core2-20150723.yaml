@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/NOTE-xmldsig-core2-20150723/
   type: src
+- content: https://www.w3.org/2008/xmlsec/Drafts/xmldsig-core-20/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-xmldsig-core2-20150723
@@ -112,25 +114,12 @@ relation:
     formattedref:
       content: W3C NOTE-xmldsig-core2-20130411
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cxmldsig-core-20
-    docid:
-    - id: W3C xmldsig-core-20
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C xmldsig-core-20
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-xmldsig-core2-20150723
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: XML Security Working Group

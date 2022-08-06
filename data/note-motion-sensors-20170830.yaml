@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/NOTE-motion-sensors-20170830/
   type: src
+- content: https://w3c.github.io/motion-sensors/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-motion-sensors-20170830
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C NOTE-motion-sensors-20170825
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cmotion-sensors
-    docid:
-    - id: W3C motion-sensors
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C motion-sensors
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-motion-sensors-20170830
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Devices and Sensors Working Group

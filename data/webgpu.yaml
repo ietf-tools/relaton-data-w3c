@@ -16,6 +16,9 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: hasEdition
   bibitem:
@@ -27,15 +30,15 @@ relation:
     formattedref:
       content: W3C WD-webgpu-20220629
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-webgpu-20220803
+    id: W3CWD-webgpu-20220805
     docid:
-    - id: W3C WD-webgpu-20220803
+    - id: W3C WD-webgpu-20220805
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220803
+      content: W3C WD-webgpu-20220805
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -59,8 +62,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C WD
     format: text/plain
   number: webgpu
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport

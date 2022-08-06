@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2021/DNOTE-webcodecs-codec-registry-20211216/
   type: src
+- content: https://w3c.github.io/webcodecs/codec_registry.html
+  type: current
 type: standard
 docid:
 - id: W3C DNOTE-webcodecs-codec-registry-20211216
@@ -62,25 +64,12 @@ relation:
     formattedref:
       content: W3C WD-webcodecs-codec-registry-20211020
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccodec_registry.html
-    docid:
-    - id: W3C codec_registry.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C codec_registry.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: DNOTE-webcodecs-codec-registry-20211216
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

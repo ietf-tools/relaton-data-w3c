@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-design-principles-20201110/
   type: src
+- content: https://w3ctag.github.io/design-principles/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-design-principles-20201110
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cdesign-principles
-    docid:
-    - id: W3C design-principles
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C design-principles
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-design-principles-20201110
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

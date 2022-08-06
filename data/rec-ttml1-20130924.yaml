@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/REC-ttml1-20130924/
   type: src
+- content: https://w3c.github.io/ttml1/index.html
+  type: current
 type: standard
 docid:
 - id: W3C REC-ttml1-20130924
@@ -45,25 +47,12 @@ relation:
     formattedref:
       content: W3C PER-ttaf1-dfxp-20130709
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cindex.html
-    docid:
-    - id: W3C index.html
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C index.html
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-ttml1-20130924
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

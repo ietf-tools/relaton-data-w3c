@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/WD-laoo-gap-20200616/
   type: src
+- content: https://w3c.github.io/sealreq/gap-analysis/laoo-gap
+  type: current
 type: standard
 docid:
 - id: W3C WD-laoo-gap-20200616
@@ -34,26 +36,12 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Claoo-gap
-    docid:
-    - id: W3C laoo-gap
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C laoo-gap
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-laoo-gap-20200616
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

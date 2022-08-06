@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2015/REC-csv2rdf-20151217/
   type: src
+- content: https://w3c.github.io/csvw/csv2rdf/
+  type: current
 type: standard
 docid:
 - id: W3C REC-csv2rdf-20151217
@@ -65,25 +67,12 @@ relation:
     formattedref:
       content: W3C PR-csv2rdf-20151117
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Ccsv2rdf
-    docid:
-    - id: W3C csv2rdf
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C csv2rdf
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-csv2rdf-20151217
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: CSV on the Web Working Group

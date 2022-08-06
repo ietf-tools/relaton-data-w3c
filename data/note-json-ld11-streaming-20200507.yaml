@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2020/NOTE-json-ld11-streaming-20200507/
   type: src
+- content: https://w3c.github.io/json-ld-streaming/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-json-ld11-streaming-20200507
@@ -31,26 +33,12 @@ language:
 - en
 script:
 - Latn
-relation:
-- type: hasDraft
-  bibitem:
-    id: W3Cjson-ld-streaming
-    docid:
-    - id: W3C json-ld-streaming
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C json-ld-streaming
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-json-ld11-streaming-20200507
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: JSON-LD Working Group

@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/CR-payment-method-id-20170914/
   type: src
+- content: https://w3c.github.io/payment-method-id/
+  type: current
 type: standard
 docid:
 - id: W3C CR-payment-method-id-20170914
@@ -75,25 +77,12 @@ relation:
     formattedref:
       content: W3C WD-payment-method-id-20170907
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cpayment-method-id
-    docid:
-    - id: W3C payment-method-id
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C payment-method-id
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: CR-payment-method-id-20170914
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

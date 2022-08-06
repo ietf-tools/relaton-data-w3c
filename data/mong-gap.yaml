@@ -17,7 +17,7 @@ language:
 script:
 - Latn
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CDNOTE-mong-gap-20220125
     docid:
@@ -49,8 +49,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C technicalReport
+    content: W3C NOTE
     format: text/plain
   number: mong-gap
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: groupNote

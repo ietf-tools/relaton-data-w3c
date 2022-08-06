@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2016/NOTE-streams-api-20161129/
   type: src
+- content: https://streams.spec.whatwg.org/
+  type: current
 type: standard
 docid:
 - id: W3C NOTE-streams-api-20161129
@@ -52,25 +54,12 @@ relation:
     formattedref:
       content: W3C WD-streams-api-20141023
       format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cstreams.spec.whatwg.org
-    docid:
-    - id: W3C streams.spec.whatwg.org
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C streams.spec.whatwg.org
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: NOTE-streams-api-20161129
-fetched: '2022-08-05'
+fetched: '2022-08-06'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

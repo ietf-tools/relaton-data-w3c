@@ -6,6 +6,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2017/REC-ldn-20170502/
   type: src
+- content: https://linkedresearch.org/ldn/
+  type: current
 type: standard
 docid:
 - id: W3C REC-ldn-20170502
@@ -68,25 +70,12 @@ relation:
   description:
     content: errata
     format: text/plain
-- type: hasDraft
-  bibitem:
-    id: W3Cldn
-    docid:
-    - id: W3C ldn
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C ldn
-      format: text/plain
-  description:
-    content: Editor's draft
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: REC-ldn-20170502
-fetched: '2022-08-05'
-doctype: recommendation
+fetched: '2022-08-06'
+doctype: technicalReport
 editorialgroup:
 - name: Social Web Working Group

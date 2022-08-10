@@ -17,15 +17,25 @@ language:
 script:
 - Latn
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CDNOTE-webcodecs-avc-codec-registration-20220808
+    id: W3CDNOTE-webcodecs-avc-codec-registration-20220809
     docid:
-    - id: W3C DNOTE-webcodecs-avc-codec-registration-20220808
+    - id: W3C DNOTE-webcodecs-avc-codec-registration-20220809
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-avc-codec-registration-20220808
+      content: W3C DNOTE-webcodecs-avc-codec-registration-20220809
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CDNOTE-webcodecs-avc-codec-registration-20220810
+    docid:
+    - id: W3C DNOTE-webcodecs-avc-codec-registration-20220810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-webcodecs-avc-codec-registration-20220810
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,5 +62,5 @@ series:
     content: W3C NOTE
     format: text/plain
   number: webcodecs-avc-codec-registration
-fetched: '2022-08-09'
+fetched: '2022-08-10'
 doctype: groupNote

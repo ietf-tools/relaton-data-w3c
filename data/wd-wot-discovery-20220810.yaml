@@ -1,27 +1,27 @@
 ---
-id: W3CCRD-epub-a11y-11-20220724
+id: W3CWD-wot-discovery-20220810
 title:
-- content: EPUB Accessibility 1.1
+- content: Web of Things (WoT) Discovery
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-a11y-11-20220724/
+- content: https://www.w3.org/TR/2022/WD-wot-discovery-20220810/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/a11y/
+- content: https://w3c.github.io/wot-discovery/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-a11y-11-20220724
+- id: W3C WD-wot-discovery-20220810
   type: W3C
   primary: true
-docnumber: CRD-epub-a11y-11-20220724
+docnumber: WD-wot-discovery-20220810
 date:
 - type: published
-  value: '2022-07-24'
+  value: '2022-08-10'
 contributor:
 - person:
     name:
       completename:
-        content: Avneesh Singh
+        content: Andrea Cimmino
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
+        content: Farshid Tavakolizadeh
         language:
         - en
         script:
@@ -41,7 +41,7 @@ contributor:
 - person:
     name:
       completename:
-        content: George Kerscher
+        content: Kunihiko Toumura
         language:
         - en
         script:
@@ -51,48 +51,38 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Michael McCool
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Matt Garrish
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-07-24'
+revdate: '2022-08-10'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-a11y-11-20220607
+    id: W3CWD-wot-discovery-20210602
     docid:
-    - id: W3C CRD-epub-a11y-11-20220607
+    - id: W3C WD-wot-discovery-20210602
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-a11y-11-20220607
+      content: W3C WD-wot-discovery-20210602
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-a11y-11-20220724
-fetched: '2022-08-09'
+  number: WD-wot-discovery-20220810
+fetched: '2022-08-10'
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web of Things Working Group

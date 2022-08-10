@@ -22,6 +22,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-wot-discovery-20220810
+    docid:
+    - id: W3C WD-wot-discovery-20220810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-discovery-20220810
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-wot-discovery-20210602
     docid:
     - id: W3C WD-wot-discovery-20210602
@@ -45,5 +55,5 @@ series:
     content: W3C WD
     format: text/plain
   number: wot-discovery
-fetched: '2022-08-09'
+fetched: '2022-08-10'
 doctype: technicalReport

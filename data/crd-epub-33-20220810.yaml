@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webcodecs-20220808
+id: W3CCRD-epub-33-20220810
 title:
-- content: WebCodecs
+- content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webcodecs-20220808/
+- content: https://www.w3.org/TR/2022/CRD-epub-33-20220810/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/epub-specs/epub33/core/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20220808
+- id: W3C CRD-epub-33-20220810
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20220808
+docnumber: CRD-epub-33-20220810
 date:
 - type: published
-  value: '2022-08-08'
+  value: '2022-08-10'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Dave Cramer
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Cunningham
+        content: Ivan Herman
         language:
         - en
         script:
@@ -41,38 +41,38 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-08-08'
+revdate: '2022-08-10'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20220802
+    id: W3CCRD-epub-33-20220807
     docid:
-    - id: W3C WD-webcodecs-20220802
+    - id: W3C CRD-epub-33-20220807
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20220802
+      content: W3C CRD-epub-33-20220807
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webcodecs-20220808
-fetched: '2022-08-09'
+  number: CRD-epub-33-20220810
+fetched: '2022-08-10'
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: EPUB 3 Working Group

@@ -1,0 +1,39 @@
+---
+id: W3Cvc-data-model-2.0
+title:
+- content: Verifiable Credentials Data Model v2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-data-model-2.0/
+  type: src
+type: standard
+docid:
+- id: W3C vc-data-model-2.0
+  type: W3C
+  primary: true
+docnumber: vc-data-model-2.0
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-data-model-2.0-20220811
+    docid:
+    - id: W3C WD-vc-data-model-2.0-20220811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-data-model-2.0-20220811
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-data-model-2.0
+fetched: '2022-08-11'
+doctype: technicalReport

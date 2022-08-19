@@ -1,27 +1,27 @@
 ---
-id: W3CWD-WGSL-20220817
+id: W3CWD-css-contain-3-20220818
 title:
-- content: WebGPU Shading Language
+- content: CSS Containment Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220817/
+- content: https://www.w3.org/TR/2022/WD-css-contain-3-20220818/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://drafts.csswg.org/css-contain-3/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20220817
+- id: W3C WD-css-contain-3-20220818
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220817
+docnumber: WD-css-contain-3-20220818
 date:
 - type: published
-  value: '2022-08-17'
+  value: '2022-08-18'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Florian Rivoal
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Miriam Suzanne
         language:
         - en
         script:
@@ -41,14 +41,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-08-17'
+revdate: '2022-08-18'
 language:
 - en
 script:
@@ -59,20 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220816
+    id: W3CWD-css-contain-3-20211221
     docid:
-    - id: W3C WD-WGSL-20220816
+    - id: W3C WD-css-contain-3-20211221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220816
+      content: W3C WD-css-contain-3-20211221
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220817
-fetched: '2022-08-18'
+  number: WD-css-contain-3-20220818
+fetched: '2022-08-19'
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Cascading Style Sheets Working Group

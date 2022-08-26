@@ -1,19 +1,19 @@
 ---
-id: W3CWD-webgpu-20220825
+id: W3CWD-webnn-20220825
 title:
-- content: WebGPU
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220825/
+- content: https://www.w3.org/TR/2022/WD-webnn-20220825/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20220825
+- id: W3C WD-webnn-20220825
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220825
+docnumber: WD-webnn-20220825
 date:
 - type: published
   value: '2022-08-25'
@@ -21,7 +21,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Chai Chaoweeraprasit
         language:
         - en
         script:
@@ -31,17 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-- person:
-    name:
-      completename:
-        content: Myles Maxfield
+        content: Ningxin Hu
         language:
         - en
         script:
@@ -59,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220824
+    id: W3CWD-webnn-20220630
     docid:
-    - id: W3C WD-webgpu-20220824
+    - id: W3C WD-webnn-20220630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220824
+      content: W3C WD-webnn-20220630
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220825
-fetched: '2022-08-25'
+  number: WD-webnn-20220825
+fetched: '2022-08-26'
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Machine Learning Working Group

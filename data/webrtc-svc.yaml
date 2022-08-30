@@ -22,6 +22,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-webrtc-svc-20220829
+    docid:
+    - id: W3C WD-webrtc-svc-20220829
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-svc-20220829
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-webrtc-svc-20220303
     docid:
     - id: W3C WD-webrtc-svc-20220303
@@ -65,5 +75,5 @@ series:
     content: W3C WD
     format: text/plain
   number: webrtc-svc
-fetched: '2022-08-29'
+fetched: '2022-08-30'
 doctype: technicalReport

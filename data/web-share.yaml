@@ -18,17 +18,27 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-web-share-20220712
+    id: W3CCR-web-share-20220830
     docid:
-    - id: W3C WD-web-share-20220712
+    - id: W3C CR-web-share-20220830
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-web-share-20220712
+      content: W3C CR-web-share-20220830
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-web-share-20220830
+    docid:
+    - id: W3C CRD-web-share-20220830
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-web-share-20220830
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -72,8 +82,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: web-share
-fetched: '2022-08-29'
+fetched: '2022-08-30'
 doctype: technicalReport

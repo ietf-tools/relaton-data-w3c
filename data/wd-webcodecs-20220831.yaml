@@ -1,27 +1,27 @@
 ---
-id: W3CWD-ambient-light-20220822
+id: W3CWD-webcodecs-20220831
 title:
-- content: Ambient Light Sensor
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-ambient-light-20220822/
+- content: https://www.w3.org/TR/2022/WD-webcodecs-20220831/
   type: src
-- content: https://w3c.github.io/ambient-light/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-ambient-light-20220822
+- id: W3C WD-webcodecs-20220831
   type: W3C
   primary: true
-docnumber: WD-ambient-light-20220822
+docnumber: WD-webcodecs-20220831
 date:
 - type: published
-  value: '2022-08-22'
+  value: '2022-08-31'
 contributor:
 - person:
     name:
       completename:
-        content: Anssi Kostiainen
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -31,14 +31,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Rijubrata Bhaumik
+        content: Chris Cunningham
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-08-22'
+- person:
+    name:
+      completename:
+        content: Paul Adenot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-08-31'
 language:
 - en
 script:
@@ -49,20 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-ambient-light-20220808
+    id: W3CWD-webcodecs-20220829
     docid:
-    - id: W3C WD-ambient-light-20220808
+    - id: W3C WD-webcodecs-20220829
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ambient-light-20220808
+      content: W3C WD-webcodecs-20220829
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-ambient-light-20220822
-fetched: '2022-08-30'
+  number: WD-webcodecs-20220831
+fetched: '2022-08-31'
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Media Working Group

@@ -1,19 +1,19 @@
 ---
-id: W3CWD-WGSL-20220830
+id: W3CWD-core-aam-1.2-20220830
 title:
-- content: WebGPU Shading Language
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20220830/
+- content: https://www.w3.org/TR/2022/WD-core-aam-1.2-20220830/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20220830
+- id: W3C WD-core-aam-1.2-20220830
   type: W3C
   primary: true
-docnumber: WD-WGSL-20220830
+docnumber: WD-core-aam-1.2-20220830
 date:
 - type: published
   value: '2022-08-30'
@@ -21,7 +21,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Joanmarie Diggs
         language:
         - en
         script:
@@ -41,7 +41,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Michael Cooper
         language:
         - en
         script:
@@ -59,20 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20220829
+    id: W3CWD-core-aam-1.2-20220526
     docid:
-    - id: W3C WD-WGSL-20220829
+    - id: W3C WD-core-aam-1.2-20220526
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20220829
+      content: W3C WD-core-aam-1.2-20220526
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20220830
-fetched: '2022-08-30'
+  number: WD-core-aam-1.2-20220830
+fetched: '2022-08-31'
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Accessible Rich Internet Applications Working Group

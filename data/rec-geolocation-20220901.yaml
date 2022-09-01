@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webnn-20220831
+id: W3CREC-geolocation-20220901
 title:
-- content: Web Neural Network API
+- content: Geolocation API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webnn-20220831/
+- content: https://www.w3.org/TR/2022/REC-geolocation-20220901/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://w3c.github.io/geolocation-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-webnn-20220831
+- id: W3C REC-geolocation-20220901
   type: W3C
   primary: true
-docnumber: WD-webnn-20220831
+docnumber: REC-geolocation-20220901
 date:
 - type: published
-  value: '2022-08-31'
+  value: '2022-09-01'
 contributor:
 - person:
     name:
       completename:
-        content: Chai Chaoweeraprasit
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -31,38 +31,38 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Reilly Grant
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-08-31'
+revdate: '2022-09-01'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webnn-20220825
+    id: W3CPR-geolocation-20220407
     docid:
-    - id: W3C WD-webnn-20220825
+    - id: W3C PR-geolocation-20220407
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20220825
+      content: W3C PR-geolocation-20220407
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-webnn-20220831
-fetched: '2022-08-31'
+  number: REC-geolocation-20220901
+fetched: '2022-09-01'
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Devices and Sensors Working Group

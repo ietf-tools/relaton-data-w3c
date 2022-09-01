@@ -20,25 +20,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webgpu-20220629
-    docid:
-    - id: W3C WD-webgpu-20220629
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webgpu-20220629
-      format: text/plain
 - type: instance
   bibitem:
-    id: W3CWD-webgpu-20220830
+    id: W3CWD-webgpu-20220831
     docid:
-    - id: W3C WD-webgpu-20220830
+    - id: W3C WD-webgpu-20220831
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220830
+      content: W3C WD-webgpu-20220831
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -65,5 +55,5 @@ series:
     content: W3C WD
     format: text/plain
   number: webgpu
-fetched: '2022-08-31'
+fetched: '2022-09-01'
 doctype: technicalReport

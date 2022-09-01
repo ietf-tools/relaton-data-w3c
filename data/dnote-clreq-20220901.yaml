@@ -1,22 +1,22 @@
 ---
-id: W3CDNOTE-clreq-20220801
+id: W3CDNOTE-clreq-20220901
 title:
 - content: Requirements for Chinese Text Layout - 中文排版需求
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-clreq-20220801/
+- content: https://www.w3.org/TR/2022/DNOTE-clreq-20220901/
   type: src
 - content: https://w3c.github.io/clreq/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-clreq-20220801
+- id: W3C DNOTE-clreq-20220901
   type: W3C
   primary: true
-docnumber: DNOTE-clreq-20220801
+docnumber: DNOTE-clreq-20220901
 date:
 - type: published
-  value: '2022-08-01'
+  value: '2022-09-01'
 contributor:
 - person:
     name:
@@ -78,7 +78,17 @@ contributor:
         - Latn
   role:
   - editor
-revdate: '2022-08-01'
+- person:
+    name:
+      completename:
+        content: Zhengyu Qian
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-09-01'
 language:
 - en
 script:
@@ -86,20 +96,20 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-clreq-20220701
+    id: W3CDNOTE-clreq-20220801
     docid:
-    - id: W3C DNOTE-clreq-20220701
+    - id: W3C DNOTE-clreq-20220801
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-clreq-20220701
+      content: W3C DNOTE-clreq-20220801
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-clreq-20220801
-fetched: '2022-08-31'
+  number: DNOTE-clreq-20220901
+fetched: '2022-09-01'
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

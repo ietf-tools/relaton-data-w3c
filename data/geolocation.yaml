@@ -18,9 +18,19 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
+  bibitem:
+    id: W3CREC-geolocation-20220901
+    docid:
+    - id: W3C REC-geolocation-20220901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-geolocation-20220901
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CPR-geolocation-20220407
     docid:
@@ -52,8 +62,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: geolocation
-fetched: '2022-08-31'
+fetched: '2022-09-01'
 doctype: technicalReport

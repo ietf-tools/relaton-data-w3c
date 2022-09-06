@@ -19,6 +19,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDNOTE-webrtc-nv-use-cases-20220905
+    docid:
+    - id: W3C DNOTE-webrtc-nv-use-cases-20220905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-webrtc-nv-use-cases-20220905
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-webrtc-nv-use-cases-20211123
     docid:
     - id: W3C DNOTE-webrtc-nv-use-cases-20211123
@@ -52,5 +62,5 @@ series:
     content: W3C NOTE
     format: text/plain
   number: webrtc-nv-use-cases
-fetched: '2022-09-05'
+fetched: '2022-09-06'
 doctype: groupNote

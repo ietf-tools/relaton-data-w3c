@@ -18,9 +18,19 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
+  bibitem:
+    id: W3CCR-WCAG22-20220906
+    docid:
+    - id: W3C CR-WCAG22-20220906
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-WCAG22-20220906
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-WCAG22-20210521
     docid:
@@ -42,8 +52,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: WCAG22
-fetched: '2022-09-05'
+fetched: '2022-09-06'
 doctype: technicalReport

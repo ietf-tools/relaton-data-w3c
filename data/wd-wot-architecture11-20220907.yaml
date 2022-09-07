@@ -1,0 +1,78 @@
+---
+id: W3CWD-wot-architecture11-20220907
+title:
+- content: Web of Things (WoT) Architecture 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-wot-architecture11-20220907/
+  type: src
+- content: https://w3c.github.io/wot-architecture/
+  type: current
+type: standard
+docid:
+- id: W3C WD-wot-architecture11-20220907
+  type: W3C
+  primary: true
+docnumber: WD-wot-architecture11-20220907
+date:
+- type: published
+  value: '2022-09-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Kunihiko Toumura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Michael Lagally
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Ryuichi Matsukura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-09-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wot-architecture11-20201124
+    docid:
+    - id: W3C WD-wot-architecture11-20201124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-architecture11-20201124
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wot-architecture11-20220907
+fetched: '2022-09-07'
+doctype: technicalReport
+editorialgroup:
+- name: Web of Things Working Group

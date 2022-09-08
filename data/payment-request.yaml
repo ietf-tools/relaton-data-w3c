@@ -18,9 +18,19 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
+  bibitem:
+    id: W3CREC-payment-request-20220908
+    docid:
+    - id: W3C REC-payment-request-20220908
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-payment-request-20220908
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CPR-payment-request-20210930
     docid:
@@ -82,8 +92,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: payment-request
-fetched: '2022-09-07'
+fetched: '2022-09-08'
 doctype: technicalReport

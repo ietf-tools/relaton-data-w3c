@@ -1,0 +1,71 @@
+---
+id: W3CREC-payment-method-id-20220908
+title:
+- content: Payment Method Identifiers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/REC-payment-method-id-20220908/
+  type: src
+- content: https://w3c.github.io/payment-method-id/
+  type: current
+type: standard
+docid:
+- id: W3C REC-payment-method-id-20220908
+  type: W3C
+  primary: true
+docnumber: REC-payment-method-id-20220908
+date:
+- type: published
+  value: '2022-09-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-09-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPR-payment-method-id-20210930
+    docid:
+    - id: W3C PR-payment-method-id-20210930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-payment-method-id-20210930
+      format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3Cerrata.html
+    docid:
+    - id: W3C errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C errata.html
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-payment-method-id-20220908
+fetched: '2022-09-08'
+doctype: technicalReport
+editorialgroup:
+- name: Web Payments Working Group

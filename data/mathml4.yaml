@@ -1,0 +1,39 @@
+---
+id: W3Cmathml4
+title:
+- content: Mathematical Markup Language (MathML) Version 4.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/mathml4/
+  type: src
+type: standard
+docid:
+- id: W3C mathml4
+  type: W3C
+  primary: true
+docnumber: mathml4
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-mathml4-20220908
+    docid:
+    - id: W3C WD-mathml4-20220908
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mathml4-20220908
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: mathml4
+fetched: '2022-09-08'
+doctype: technicalReport

@@ -1,0 +1,68 @@
+---
+id: W3CWD-mediasession-20220912
+title:
+- content: Media Session Standard
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-mediasession-20220912/
+  type: src
+- content: https://w3c.github.io/mediasession/
+  type: current
+type: standard
+docid:
+- id: W3C WD-mediasession-20220912
+  type: W3C
+  primary: true
+docnumber: WD-mediasession-20220912
+date:
+- type: published
+  value: '2022-09-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Thomas Steimel
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-09-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mediasession-20210604
+    docid:
+    - id: W3C WD-mediasession-20210604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediasession-20210604
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mediasession-20220912
+fetched: '2022-09-13'
+doctype: technicalReport
+editorialgroup:
+- name: Media Working Group

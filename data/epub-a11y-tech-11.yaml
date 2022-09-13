@@ -19,13 +19,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CNOTE-epub-a11y-tech-11-20220827
+    id: W3CNOTE-epub-a11y-tech-11-20220913
     docid:
-    - id: W3C NOTE-epub-a11y-tech-11-20220827
+    - id: W3C NOTE-epub-a11y-tech-11-20220913
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-tech-11-20220827
+      content: W3C NOTE-epub-a11y-tech-11-20220913
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,5 +52,5 @@ series:
     content: W3C NOTE
     format: text/plain
   number: epub-a11y-tech-11
-fetched: '2022-09-12'
+fetched: '2022-09-13'
 doctype: groupNote

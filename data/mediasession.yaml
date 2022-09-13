@@ -22,6 +22,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-mediasession-20220912
+    docid:
+    - id: W3C WD-mediasession-20220912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediasession-20220912
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-mediasession-20210604
     docid:
     - id: W3C WD-mediasession-20210604
@@ -45,5 +55,5 @@ series:
     content: W3C WD
     format: text/plain
   number: mediasession
-fetched: '2022-09-12'
+fetched: '2022-09-13'
 doctype: technicalReport

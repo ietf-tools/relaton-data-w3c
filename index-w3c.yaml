@@ -735,6 +735,10 @@
   :file: data/autoplay-detection.yaml
 - :code: autoplay-detection
   :stage: WD
+  :date: '20220915'
+  :file: data/wd-autoplay-detection-20220915.yaml
+- :code: autoplay-detection
+  :stage: WD
   :date: '20220407'
   :file: data/wd-autoplay-detection-20220407.yaml
 - :code: backplane
@@ -1402,8 +1406,8 @@
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
   :stage: WD
-  :date: '20220830'
-  :file: data/wd-core-aam-1.2-20220830.yaml
+  :date: '20220915'
+  :file: data/wd-core-aam-1.2-20220915.yaml
 - :code: core-aam-1.2
   :stage: WD
   :date: '20220526'
@@ -1600,6 +1604,10 @@
   :file: data/wd-csp2-20140703.yaml
 - :code: CSP3
   :file: data/csp3.yaml
+- :code: CSP3
+  :stage: WD
+  :date: '20220916'
+  :file: data/wd-csp3-20220916.yaml
 - :code: CSP3
   :stage: WD
   :date: '20210629'
@@ -5156,8 +5164,8 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: CRD
-  :date: '20220914'
-  :file: data/crd-epub-33-20220914.yaml
+  :date: '20220916'
+  :file: data/crd-epub-33-20220916.yaml
 - :code: epub-33
   :stage: CRD
   :date: '20220527'
@@ -5240,8 +5248,8 @@
   :file: data/epub-rs-33.yaml
 - :code: epub-rs-33
   :stage: CRD
-  :date: '20220906'
-  :file: data/crd-epub-rs-33-20220906.yaml
+  :date: '20220916'
+  :file: data/crd-epub-rs-33-20220916.yaml
 - :code: epub-rs-33
   :stage: CRD
   :date: '20220527'
@@ -7064,8 +7072,8 @@
   :file: data/indexeddb-3.yaml
 - :code: IndexedDB-3
   :stage: WD
-  :date: '20220706'
-  :file: data/wd-indexeddb-3-20220706.yaml
+  :date: '20220915'
+  :file: data/wd-indexeddb-3-20220915.yaml
 - :code: IndexedDB-3
   :stage: WD
   :date: '20211006'
@@ -11226,6 +11234,10 @@
   :file: data/note-reporting-1-20160607.yaml
 - :code: reporting-1
   :stage: WD
+  :date: '20220916'
+  :file: data/wd-reporting-1-20220916.yaml
+- :code: reporting-1
+  :stage: WD
   :date: '20220405'
   :file: data/wd-reporting-1-20220405.yaml
 - :code: reporting-1
@@ -11810,6 +11822,10 @@
   :file: data/wd-screen-orientation-20121206.yaml
 - :code: screen-wake-lock
   :file: data/screen-wake-lock.yaml
+- :code: screen-wake-lock
+  :stage: WD
+  :date: '20220916'
+  :file: data/wd-screen-wake-lock-20220916.yaml
 - :code: screen-wake-lock
   :stage: WD
   :date: '20211207'
@@ -16284,8 +16300,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20220913'
-  :file: data/wd-wgsl-20220913.yaml
+  :date: '20220915'
+  :file: data/wd-wgsl-20220915.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

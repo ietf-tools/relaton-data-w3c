@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webcodecs-20220907
+id: W3CWD-mediasession-20220920
 title:
-- content: WebCodecs
+- content: Media Session Standard
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webcodecs-20220907/
+- content: https://www.w3.org/TR/2022/WD-mediasession-20220920/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/mediasession/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20220907
+- id: W3C WD-mediasession-20220920
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20220907
+docnumber: WD-mediasession-20220920
 date:
 - type: published
-  value: '2022-09-07'
+  value: '2022-09-20'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Thomas Steimel
         language:
         - en
         script:
@@ -31,24 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Cunningham
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Paul Adenot
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-09-07'
+revdate: '2022-09-20'
 language:
 - en
 script:
@@ -59,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20220906
+    id: W3CWD-mediasession-20220919
     docid:
-    - id: W3C WD-webcodecs-20220906
+    - id: W3C WD-mediasession-20220919
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20220906
+      content: W3C WD-mediasession-20220919
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20220907
-fetched: '2022-09-19'
+  number: WD-mediasession-20220920
+fetched: '2022-09-20'
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

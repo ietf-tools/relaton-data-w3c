@@ -1,27 +1,27 @@
 ---
-id: W3CCRD-webrtc-stats-20220726
+id: W3CCRD-epub-rs-33-20220920
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: EPUB Reading Systems 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-webrtc-stats-20220726/
+- content: https://www.w3.org/TR/2022/CRD-epub-rs-33-20220920/
   type: src
-- content: https://w3c.github.io/webrtc-stats/
+- content: https://w3c.github.io/epub-specs/epub33/rs/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20220726
+- id: W3C CRD-epub-rs-33-20220920
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20220726
+docnumber: CRD-epub-rs-33-20220920
 date:
 - type: published
-  value: '2022-07-26'
+  value: '2022-09-20'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Dave Cramer
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Ivan Herman
         language:
         - en
         script:
@@ -41,14 +41,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-07-26'
+revdate: '2022-09-20'
 language:
 - en
 script:
@@ -59,20 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20220725
+    id: W3CCRD-epub-rs-33-20220916
     docid:
-    - id: W3C CRD-webrtc-stats-20220725
+    - id: W3C CRD-epub-rs-33-20220916
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20220725
+      content: W3C CRD-epub-rs-33-20220916
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-webrtc-stats-20220726
-fetched: '2022-09-19'
+  number: CRD-epub-rs-33-20220920
+fetched: '2022-09-20'
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: EPUB 3 Working Group

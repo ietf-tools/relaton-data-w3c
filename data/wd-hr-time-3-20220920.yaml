@@ -1,34 +1,34 @@
 ---
-id: W3CWD-webxrlayers-1-20220826
+id: W3CWD-hr-time-3-20220920
 title:
-- content: WebXR Layers API Level 1
+- content: High Resolution Time
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webxrlayers-1-20220826/
+- content: https://www.w3.org/TR/2022/WD-hr-time-3-20220920/
   type: src
-- content: https://immersive-web.github.io/layers/
+- content: https://w3c.github.io/hr-time/
   type: current
 type: standard
 docid:
-- id: W3C WD-webxrlayers-1-20220826
+- id: W3C WD-hr-time-3-20220920
   type: W3C
   primary: true
-docnumber: WD-webxrlayers-1-20220826
+docnumber: WD-hr-time-3-20220920
 date:
 - type: published
-  value: '2022-08-26'
+  value: '2022-09-20'
 contributor:
 - person:
     name:
       completename:
-        content: Rik Cabanier
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-08-26'
+revdate: '2022-09-20'
 language:
 - en
 script:
@@ -39,20 +39,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webxrlayers-1-20220719
+    id: W3CWD-hr-time-3-20220128
     docid:
-    - id: W3C WD-webxrlayers-1-20220719
+    - id: W3C WD-hr-time-3-20220128
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webxrlayers-1-20220719
+      content: W3C WD-hr-time-3-20220128
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxrlayers-1-20220826
-fetched: '2022-09-19'
+  number: WD-hr-time-3-20220920
+fetched: '2022-09-20'
 doctype: technicalReport
 editorialgroup:
-- name: Immersive Web Working Group
+- name: Web Performance Working Group

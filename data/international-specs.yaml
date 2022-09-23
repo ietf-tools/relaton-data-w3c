@@ -19,13 +19,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-international-specs-20220617
+    id: W3CDNOTE-international-specs-20220923
     docid:
-    - id: W3C DNOTE-international-specs-20220617
+    - id: W3C DNOTE-international-specs-20220923
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-international-specs-20220617
+      content: W3C DNOTE-international-specs-20220923
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -82,5 +82,5 @@ series:
     content: W3C NOTE
     format: text/plain
   number: international-specs
-fetched: '2022-09-22'
+fetched: '2022-09-23'
 doctype: groupNote

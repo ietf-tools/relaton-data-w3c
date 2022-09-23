@@ -16,11 +16,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-clreq-gap-20220923
+    docid:
+    - id: W3C DNOTE-clreq-gap-20220923
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-clreq-gap-20220923
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-clreq-gap-20211119
     docid:
@@ -42,8 +49,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: clreq-gap
-fetched: '2022-09-22'
-doctype: technicalReport
+fetched: '2022-09-23'
+doctype: groupNote

@@ -1,0 +1,65 @@
+---
+id: W3CDNOTE-clreq-gap-20220923
+title:
+- content: Chinese Layout Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/
+  type: src
+- content: https://w3c.github.io/clreq/gap-analysis/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-clreq-gap-20220923
+  type: W3C
+  primary: true
+docnumber: DNOTE-clreq-gap-20220923
+date:
+- type: published
+  value: '2022-09-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Fuqiao Xue
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - editor
+revdate: '2022-09-23'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-clreq-gap-20211119
+    docid:
+    - id: W3C WD-clreq-gap-20211119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clreq-gap-20211119
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-clreq-gap-20220923
+fetched: '2022-09-23'
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

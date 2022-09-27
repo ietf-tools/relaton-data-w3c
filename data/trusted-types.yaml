@@ -1,0 +1,39 @@
+---
+id: W3Ctrusted-types
+title:
+- content: Trusted Types
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/trusted-types/
+  type: src
+type: standard
+docid:
+- id: W3C trusted-types
+  type: W3C
+  primary: true
+docnumber: trusted-types
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-trusted-types-20220927
+    docid:
+    - id: W3C WD-trusted-types-20220927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trusted-types-20220927
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: trusted-types
+fetched: '2022-09-27'
+doctype: technicalReport

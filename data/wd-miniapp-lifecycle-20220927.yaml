@@ -1,27 +1,27 @@
 ---
-id: W3CWD-resource-timing-2-20220926
+id: W3CWD-miniapp-lifecycle-20220927
 title:
-- content: Resource Timing Level 2
+- content: MiniApp Lifecycle
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-resource-timing-2-20220926/
+- content: https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20220927/
   type: src
-- content: https://w3c.github.io/resource-timing/
+- content: https://w3c.github.io/miniapp-lifecycle/
   type: current
 type: standard
 docid:
-- id: W3C WD-resource-timing-2-20220926
+- id: W3C WD-miniapp-lifecycle-20220927
   type: W3C
   primary: true
-docnumber: WD-resource-timing-2-20220926
+docnumber: WD-miniapp-lifecycle-20220927
 date:
 - type: published
-  value: '2022-09-26'
+  value: '2022-09-27'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Haoyang Xu
         language:
         - en
         script:
@@ -31,14 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Qing An
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-09-26'
+revdate: '2022-09-27'
 language:
 - en
 script:
@@ -49,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-resource-timing-2-20220908
+    id: W3CWD-miniapp-lifecycle-20220818
     docid:
-    - id: W3C WD-resource-timing-2-20220908
+    - id: W3C WD-miniapp-lifecycle-20220818
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-resource-timing-2-20220908
+      content: W3C WD-miniapp-lifecycle-20220818
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-resource-timing-2-20220926
-fetched: '2022-09-26'
+  number: WD-miniapp-lifecycle-20220927
+fetched: '2022-09-27'
 doctype: technicalReport
 editorialgroup:
-- name: Web Performance Working Group
+- name: MiniApps Working Group

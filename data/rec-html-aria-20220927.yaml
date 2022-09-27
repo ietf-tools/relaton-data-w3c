@@ -1,27 +1,27 @@
 ---
-id: W3CCRD-epub-rs-33-20220921
+id: W3CREC-html-aria-20220927
 title:
-- content: EPUB Reading Systems 3.3
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-rs-33-20220921/
+- content: https://www.w3.org/TR/2022/REC-html-aria-20220927/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/rs/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-rs-33-20220921
+- id: W3C REC-html-aria-20220927
   type: W3C
   primary: true
-docnumber: CRD-epub-rs-33-20220921
+docnumber: REC-html-aria-20220927
 date:
 - type: published
-  value: '2022-09-21'
+  value: '2022-09-27'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -41,38 +41,38 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-09-21'
+revdate: '2022-09-27'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-rs-33-20220920
+    id: W3CREC-html-aria-20211209
     docid:
-    - id: W3C CRD-epub-rs-33-20220920
+    - id: W3C REC-html-aria-20211209
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-rs-33-20220920
+      content: W3C REC-html-aria-20211209
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C REC
     format: text/plain
-  number: CRD-epub-rs-33-20220921
-fetched: '2022-09-26'
+  number: REC-html-aria-20220927
+fetched: '2022-09-27'
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Applications Working Group

@@ -20,7 +20,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-html-aria-20211209
     docid:
@@ -29,6 +29,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-html-aria-20211209
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-html-aria-20220927
+    docid:
+    - id: W3C REC-html-aria-20220927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html-aria-20220927
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -95,5 +105,5 @@ series:
     content: W3C REC
     format: text/plain
   number: html-aria
-fetched: '2022-09-26'
+fetched: '2022-09-27'
 doctype: technicalReport

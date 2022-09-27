@@ -1039,6 +1039,12 @@
   :type: NOTE
   :date: '970618'
   :file: data/note-cgm-970618.yaml
+- :code: change-password-url
+  :file: data/change-password-url.yaml
+- :code: change-password-url
+  :stage: WD
+  :date: '20220927'
+  :file: data/wd-change-password-url-20220927.yaml
 - :code: charcol
   :file: data/charcol.yaml
 - :code: charcol
@@ -5256,8 +5262,8 @@
   :file: data/epub-rs-33.yaml
 - :code: epub-rs-33
   :stage: CRD
-  :date: '20220921'
-  :file: data/crd-epub-rs-33-20220921.yaml
+  :date: '20220927'
+  :file: data/crd-epub-rs-33-20220927.yaml
 - :code: epub-rs-33
   :stage: CRD
   :date: '20220527'
@@ -6277,6 +6283,10 @@
   :file: data/wd-html-alt-techniques-20101019.yaml
 - :code: html-aria
   :file: data/html-aria.yaml
+- :code: html-aria
+  :stage: REC
+  :date: '20220927'
+  :file: data/rec-html-aria-20220927.yaml
 - :code: html-aria
   :stage: REC
   :date: '20211209'
@@ -8394,8 +8404,8 @@
   :file: data/miniapp-lifecycle.yaml
 - :code: miniapp-lifecycle
   :stage: WD
-  :date: '20220818'
-  :file: data/wd-miniapp-lifecycle-20220818.yaml
+  :date: '20220927'
+  :file: data/wd-miniapp-lifecycle-20220927.yaml
 - :code: miniapp-lifecycle
   :stage: WD
   :date: '20220528'
@@ -11356,8 +11366,8 @@
   :file: data/resource-timing-2.yaml
 - :code: resource-timing-2
   :stage: WD
-  :date: '20220926'
-  :file: data/wd-resource-timing-2-20220926.yaml
+  :date: '20220927'
+  :file: data/wd-resource-timing-2-20220927.yaml
 - :code: resource-timing-2
   :stage: WD
   :date: '20220413'
@@ -13628,6 +13638,12 @@
   :stage: CR
   :date: '20131105'
   :file: data/cr-trig-20131105.yaml
+- :code: trusted-types
+  :file: data/trusted-types.yaml
+- :code: trusted-types
+  :stage: WD
+  :date: '20220927'
+  :file: data/wd-trusted-types-20220927.yaml
 - :code: tt-af-1-0-req
   :file: data/tt-af-1-0-req.yaml
 - :code: tt-af-1-0-req
@@ -15545,6 +15561,12 @@
   :type: DNOTE
   :date: '20211216'
   :file: data/dnote-webcodecs-flac-codec-registration-20211216.yaml
+- :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
+- :code: webcodecs-hevc-codec-registration
+  :type: DNOTE
+  :date: '20220927'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20220927.yaml
 - :code: webcodecs-mp3-codec-registration
   :file: data/webcodecs-mp3-codec-registration.yaml
 - :code: webcodecs-mp3-codec-registration
@@ -16023,8 +16045,8 @@
   :file: data/cr-webrtc-stats-20180703.yaml
 - :code: webrtc-stats
   :stage: CRD
-  :date: '20220926'
-  :file: data/crd-webrtc-stats-20220926.yaml
+  :date: '20220927'
+  :file: data/crd-webrtc-stats-20220927.yaml
 - :code: webrtc-stats
   :stage: CRD
   :date: '20220517'

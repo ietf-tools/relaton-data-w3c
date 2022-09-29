@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webnn-20220901
+id: W3CWD-resource-timing-2-20220929
 title:
-- content: Web Neural Network API
+- content: Resource Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webnn-20220901/
+- content: https://www.w3.org/TR/2022/WD-resource-timing-2-20220929/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://w3c.github.io/resource-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-webnn-20220901
+- id: W3C WD-resource-timing-2-20220929
   type: W3C
   primary: true
-docnumber: WD-webnn-20220901
+docnumber: WD-resource-timing-2-20220929
 date:
 - type: published
-  value: '2022-09-01'
+  value: '2022-09-29'
 contributor:
 - person:
     name:
       completename:
-        content: Chai Chaoweeraprasit
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -31,14 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-09-01'
+revdate: '2022-09-29'
 language:
 - en
 script:
@@ -49,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webnn-20220831
+    id: W3CWD-resource-timing-2-20220927
     docid:
-    - id: W3C WD-webnn-20220831
+    - id: W3C WD-resource-timing-2-20220927
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20220831
+      content: W3C WD-resource-timing-2-20220927
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webnn-20220901
-fetched: '2022-09-28'
+  number: WD-resource-timing-2-20220929
+fetched: '2022-09-29'
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Web Performance Working Group

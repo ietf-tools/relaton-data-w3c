@@ -751,8 +751,8 @@
   :file: data/baggage.yaml
 - :code: baggage
   :stage: WD
-  :date: '20220927'
-  :file: data/wd-baggage-20220927.yaml
+  :date: '20220928'
+  :file: data/wd-baggage-20220928.yaml
 - :code: baggage
   :stage: WD
   :date: '20220524'
@@ -11366,8 +11366,8 @@
   :file: data/resource-timing-2.yaml
 - :code: resource-timing-2
   :stage: WD
-  :date: '20220927'
-  :file: data/wd-resource-timing-2-20220927.yaml
+  :date: '20220929'
+  :file: data/wd-resource-timing-2-20220929.yaml
 - :code: resource-timing-2
   :stage: WD
   :date: '20220413'
@@ -13562,6 +13562,12 @@
   :stage: PR
   :date: '20191121'
   :file: data/pr-trace-context-1-20191121.yaml
+- :code: trace-context-2
+  :file: data/trace-context-2.yaml
+- :code: trace-context-2
+  :stage: WD
+  :date: '20220929'
+  :file: data/wd-trace-context-2-20220929.yaml
 - :code: trace-context-protocols-registry
   :file: data/trace-context-protocols-registry.yaml
 - :code: trace-context-protocols-registry
@@ -15891,8 +15897,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: WD
-  :date: '20220901'
-  :file: data/wd-webnn-20220901.yaml
+  :date: '20220929'
+  :file: data/wd-webnn-20220929.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -15993,8 +15999,8 @@
   :file: data/webrtc-encoded-transform.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
-  :date: '20220706'
-  :file: data/wd-webrtc-encoded-transform-20220706.yaml
+  :date: '20220929'
+  :file: data/wd-webrtc-encoded-transform-20220929.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
   :date: '20220519'

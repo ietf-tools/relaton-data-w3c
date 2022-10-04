@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webgpu-20220930
+id: W3CWD-CSP3-20221004
 title:
-- content: WebGPU
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20220930/
+- content: https://www.w3.org/TR/2022/WD-CSP3-20221004/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20220930
+- id: W3C WD-CSP3-20221004
   type: W3C
   primary: true
-docnumber: WD-webgpu-20220930
+docnumber: WD-CSP3-20221004
 date:
 - type: published
-  value: '2022-09-30'
+  value: '2022-10-04'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -31,24 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - editor
-- person:
-    name:
-      completename:
-        content: Myles Maxfield
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - editor
-revdate: '2022-09-30'
+revdate: '2022-10-04'
 language:
 - en
 script:
@@ -59,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20220917
+    id: W3CWD-CSP3-20220916
     docid:
-    - id: W3C WD-webgpu-20220917
+    - id: W3C WD-CSP3-20220916
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20220917
+      content: W3C WD-CSP3-20220916
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20220930
-fetched: '2022-10-03'
+  number: WD-CSP3-20221004
+fetched: '2022-10-04'
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Application Security Working Group

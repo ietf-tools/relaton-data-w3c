@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webgpu-20221007
+id: W3CCRD-webrtc-stats-20221011
 title:
-- content: WebGPU
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20221007/
+- content: https://www.w3.org/TR/2022/CRD-webrtc-stats-20221011/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20221007
+- id: W3C CRD-webrtc-stats-20221011
   type: W3C
   primary: true
-docnumber: WD-webgpu-20221007
+docnumber: CRD-webrtc-stats-20221011
 date:
 - type: published
-  value: '2022-10-07'
+  value: '2022-10-11'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Henrik Boström
         language:
         - en
         script:
@@ -41,38 +41,38 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-10-07'
+revdate: '2022-10-11'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20221006
+    id: W3CCRD-webrtc-stats-20220928
     docid:
-    - id: W3C WD-webgpu-20221006
+    - id: W3C CRD-webrtc-stats-20220928
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20221006
+      content: W3C CRD-webrtc-stats-20220928
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20221007
-fetched: '2022-10-10'
+  number: CRD-webrtc-stats-20221011
+fetched: '2022-10-11'
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Real-Time Communications Working Group

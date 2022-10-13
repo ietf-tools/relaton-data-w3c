@@ -1,27 +1,27 @@
 ---
-id: W3CWD-CSP3-20221005
+id: W3CWD-webdriver2-20221013
 title:
-- content: Content Security Policy Level 3
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-CSP3-20221005/
+- content: https://www.w3.org/TR/2022/WD-webdriver2-20221013/
   type: src
-- content: https://w3c.github.io/webappsec-csp/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20221005
+- id: W3C WD-webdriver2-20221013
   type: W3C
   primary: true
-docnumber: WD-CSP3-20221005
+docnumber: WD-webdriver2-20221013
 date:
 - type: published
-  value: '2022-10-05'
+  value: '2022-10-13'
 contributor:
 - person:
     name:
       completename:
-        content: Antonio Sartori
+        content: David Burns
         language:
         - en
         script:
@@ -31,14 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike West
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-10-05'
+revdate: '2022-10-13'
 language:
 - en
 script:
@@ -49,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-CSP3-20221004
+    id: W3CWD-webdriver2-20220921
     docid:
-    - id: W3C WD-CSP3-20221004
+    - id: W3C WD-webdriver2-20220921
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20221004
+      content: W3C WD-webdriver2-20220921
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-CSP3-20221005
-fetched: '2022-10-12'
+  number: WD-webdriver2-20221013
+fetched: '2022-10-13'
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Browser Testing and Tools Working Group

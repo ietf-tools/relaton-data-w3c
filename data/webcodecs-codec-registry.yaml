@@ -19,6 +19,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDRY-webcodecs-codec-registry-20221013
+    docid:
+    - id: W3C DRY-webcodecs-codec-registry-20221013
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DRY-webcodecs-codec-registry-20221013
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-webcodecs-codec-registry-20220524
     docid:
     - id: W3C DNOTE-webcodecs-codec-registry-20220524
@@ -39,8 +49,8 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C technicalReport
     format: text/plain
   number: webcodecs-codec-registry
-fetched: '2022-10-13'
-doctype: groupNote
+fetched: '2022-10-14'
+doctype: technicalReport

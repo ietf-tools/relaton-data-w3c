@@ -22,6 +22,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CCRD-mediacapture-streams-20221013
+    docid:
+    - id: W3C CRD-mediacapture-streams-20221013
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mediacapture-streams-20221013
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-mediacapture-streams-20220505
     docid:
     - id: W3C CRD-mediacapture-streams-20220505
@@ -115,5 +125,5 @@ series:
     content: W3C CR
     format: text/plain
   number: mediacapture-streams
-fetched: '2022-10-13'
+fetched: '2022-10-14'
 doctype: technicalReport

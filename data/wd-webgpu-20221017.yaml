@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webcodecs-20221014
+id: W3CWD-webgpu-20221017
 title:
-- content: WebCodecs
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webcodecs-20221014/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20221017/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20221014
+- id: W3C WD-webgpu-20221017
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20221014
+docnumber: WD-webgpu-20221017
 date:
 - type: published
-  value: '2022-10-14'
+  value: '2022-10-17'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Brandon Jones
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Cunningham
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -41,14 +41,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - editor
-revdate: '2022-10-14'
+revdate: '2022-10-17'
 language:
 - en
 script:
@@ -59,20 +59,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20221010
+    id: W3CWD-webgpu-20221011
     docid:
-    - id: W3C WD-webcodecs-20221010
+    - id: W3C WD-webgpu-20221011
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20221010
+      content: W3C WD-webgpu-20221011
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20221014
-fetched: '2022-10-17'
+  number: WD-webgpu-20221017
+fetched: '2022-10-18'
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: GPU for the Web Working Group

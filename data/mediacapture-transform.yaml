@@ -22,6 +22,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-mediacapture-transform-20221020
+    docid:
+    - id: W3C WD-mediacapture-transform-20221020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediacapture-transform-20221020
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-mediacapture-transform-20220210
     docid:
     - id: W3C WD-mediacapture-transform-20220210
@@ -35,5 +45,5 @@ series:
     content: W3C WD
     format: text/plain
   number: mediacapture-transform
-fetched: '2022-10-19'
+fetched: '2022-10-20'
 doctype: technicalReport

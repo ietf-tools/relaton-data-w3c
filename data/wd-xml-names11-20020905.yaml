@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g601540
-    docid:
-    - id: W3C _:g601540
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g601540
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g601560
     docid:
     - id: W3C _:g601560
@@ -97,13 +87,13 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g601620
+    id: W3C_-g601600
     docid:
-    - id: W3C _:g601620
+    - id: W3C _:g601600
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g601620
+      content: W3C _:g601600
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -117,43 +107,53 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g601680
+    id: W3C_-g601660
     docid:
-    - id: W3C _:g601680
+    - id: W3C _:g601660
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g601680
+      content: W3C _:g601660
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g601720
+    id: W3C_-g601700
     docid:
-    - id: W3C _:g601720
+    - id: W3C _:g601700
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g601720
+      content: W3C _:g601700
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g601760
+    id: W3C_-g601740
     docid:
-    - id: W3C _:g601760
+    - id: W3C _:g601740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g601760
+      content: W3C _:g601740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g601800
+    id: W3C_-g601780
     docid:
-    - id: W3C _:g601800
+    - id: W3C _:g601780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g601800
+      content: W3C _:g601780
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g601820
+    docid:
+    - id: W3C _:g601820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g601820
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -170,5 +170,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-xml-names11-20020905
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

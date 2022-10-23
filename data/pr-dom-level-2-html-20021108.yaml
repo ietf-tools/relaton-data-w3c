@@ -59,16 +59,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g575560
-    docid:
-    - id: W3C _:g575560
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g575560
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g575580
     docid:
     - id: W3C _:g575580
@@ -89,23 +79,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g575640
+    id: W3C_-g575620
     docid:
-    - id: W3C _:g575640
+    - id: W3C _:g575620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g575640
+      content: W3C _:g575620
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g575680
+    id: W3C_-g575660
     docid:
-    - id: W3C _:g575680
+    - id: W3C _:g575660
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g575680
+      content: W3C _:g575660
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -129,33 +119,43 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g575760
+    id: W3C_-g575740
     docid:
-    - id: W3C _:g575760
+    - id: W3C _:g575740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g575760
+      content: W3C _:g575740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g575800
+    id: W3C_-g575780
     docid:
-    - id: W3C _:g575800
+    - id: W3C _:g575780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g575800
+      content: W3C _:g575780
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g575840
+    id: W3C_-g575820
     docid:
-    - id: W3C _:g575840
+    - id: W3C _:g575820
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g575840
+      content: W3C _:g575820
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g575860
+    docid:
+    - id: W3C _:g575860
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g575860
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -172,5 +172,5 @@ series:
     content: W3C PR
     format: text/plain
   number: PR-DOM-Level-2-HTML-20021108
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

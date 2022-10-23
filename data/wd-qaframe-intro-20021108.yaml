@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g590680
-    docid:
-    - id: W3C _:g590680
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590680
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g590700
     docid:
     - id: W3C _:g590700
@@ -97,13 +87,13 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590760
+    id: W3C_-g590740
     docid:
-    - id: W3C _:g590760
+    - id: W3C _:g590740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590760
+      content: W3C _:g590740
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -117,43 +107,53 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590820
+    id: W3C_-g590800
     docid:
-    - id: W3C _:g590820
+    - id: W3C _:g590800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590820
+      content: W3C _:g590800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590860
+    id: W3C_-g590840
     docid:
-    - id: W3C _:g590860
+    - id: W3C _:g590840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590860
+      content: W3C _:g590840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590900
+    id: W3C_-g590880
     docid:
-    - id: W3C _:g590900
+    - id: W3C _:g590880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590900
+      content: W3C _:g590880
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590940
+    id: W3C_-g590920
     docid:
-    - id: W3C _:g590940
+    - id: W3C _:g590920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590940
+      content: W3C _:g590920
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590960
+    docid:
+    - id: W3C _:g590960
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590960
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -170,5 +170,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-qaframe-intro-20021108
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

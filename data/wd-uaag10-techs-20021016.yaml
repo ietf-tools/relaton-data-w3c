@@ -59,16 +59,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g584280
-    docid:
-    - id: W3C _:g584280
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g584280
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g584300
     docid:
     - id: W3C _:g584300
@@ -89,53 +79,63 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g584360
+    id: W3C_-g584340
     docid:
-    - id: W3C _:g584360
+    - id: W3C _:g584340
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g584360
+      content: W3C _:g584340
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g584400
+    id: W3C_-g584380
     docid:
-    - id: W3C _:g584400
+    - id: W3C _:g584380
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g584400
+      content: W3C _:g584380
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g584440
+    id: W3C_-g584420
     docid:
-    - id: W3C _:g584440
+    - id: W3C _:g584420
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g584440
+      content: W3C _:g584420
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g584480
+    id: W3C_-g584460
     docid:
-    - id: W3C _:g584480
+    - id: W3C _:g584460
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g584480
+      content: W3C _:g584460
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g584520
+    id: W3C_-g584500
     docid:
-    - id: W3C _:g584520
+    - id: W3C _:g584500
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g584520
+      content: W3C _:g584500
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g584540
+    docid:
+    - id: W3C _:g584540
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g584540
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -152,5 +152,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-UAAG10-TECHS-20021016
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

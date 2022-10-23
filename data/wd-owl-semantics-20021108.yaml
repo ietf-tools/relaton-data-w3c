@@ -69,16 +69,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g589920
-    docid:
-    - id: W3C _:g589920
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g589920
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g589940
     docid:
     - id: W3C _:g589940
@@ -149,6 +139,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g590080
+    docid:
+    - id: W3C _:g590080
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590080
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-owl-absyn-20020729
     docid:
     - id: W3C WD-owl-absyn-20020729
@@ -162,5 +162,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-owl-semantics-20021108
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

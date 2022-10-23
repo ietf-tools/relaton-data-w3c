@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g605700
-    docid:
-    - id: W3C _:g605700
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g605700
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g605720
     docid:
     - id: W3C _:g605720
@@ -97,63 +87,73 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605780
+    id: W3C_-g605760
     docid:
-    - id: W3C _:g605780
+    - id: W3C _:g605760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605780
+      content: W3C _:g605760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605820
+    id: W3C_-g605800
     docid:
-    - id: W3C _:g605820
+    - id: W3C _:g605800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605820
+      content: W3C _:g605800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605860
+    id: W3C_-g605840
     docid:
-    - id: W3C _:g605860
+    - id: W3C _:g605840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605860
+      content: W3C _:g605840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605900
+    id: W3C_-g605880
     docid:
-    - id: W3C _:g605900
+    - id: W3C _:g605880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605900
+      content: W3C _:g605880
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605940
+    id: W3C_-g605920
     docid:
-    - id: W3C _:g605940
+    - id: W3C _:g605920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605940
+      content: W3C _:g605920
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g605980
+    id: W3C_-g605960
     docid:
-    - id: W3C _:g605980
+    - id: W3C _:g605960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g605980
+      content: W3C _:g605960
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g606000
+    docid:
+    - id: W3C _:g606000
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g606000
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -170,5 +170,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-xquery-operators-20021115
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

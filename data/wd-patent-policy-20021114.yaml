@@ -39,16 +39,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g590460
-    docid:
-    - id: W3C _:g590460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590460
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g590480
     docid:
     - id: W3C _:g590480
@@ -69,23 +59,33 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590540
+    id: W3C_-g590520
     docid:
-    - id: W3C _:g590540
+    - id: W3C _:g590520
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590540
+      content: W3C _:g590520
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590580
+    id: W3C_-g590560
     docid:
-    - id: W3C _:g590580
+    - id: W3C _:g590560
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590580
+      content: W3C _:g590560
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590600
+    docid:
+    - id: W3C _:g590600
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590600
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -102,5 +102,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-patent-policy-20021114
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

@@ -79,16 +79,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g581180
-    docid:
-    - id: W3C _:g581180
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g581180
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g581200
     docid:
     - id: W3C _:g581200
@@ -109,13 +99,13 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g581260
+    id: W3C_-g581240
     docid:
-    - id: W3C _:g581260
+    - id: W3C _:g581240
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g581260
+      content: W3C _:g581240
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -129,43 +119,43 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g581320
+    id: W3C_-g581300
     docid:
-    - id: W3C _:g581320
+    - id: W3C _:g581300
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g581320
+      content: W3C _:g581300
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g581360
+    id: W3C_-g581340
     docid:
-    - id: W3C _:g581360
+    - id: W3C _:g581340
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g581360
+      content: W3C _:g581340
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g581400
+    id: W3C_-g581380
     docid:
-    - id: W3C _:g581400
+    - id: W3C _:g581380
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g581400
+      content: W3C _:g581380
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g581440
+    id: W3C_-g581420
     docid:
-    - id: W3C _:g581440
+    - id: W3C _:g581420
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g581440
+      content: W3C _:g581420
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -176,6 +166,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g581460
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g581480
+    docid:
+    - id: W3C _:g581480
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g581480
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -192,5 +192,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-CCPP-struct-vocab-20021108
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

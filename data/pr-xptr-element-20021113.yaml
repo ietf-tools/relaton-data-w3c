@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g577220
-    docid:
-    - id: W3C _:g577220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577220
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g577240
     docid:
     - id: W3C _:g577240
@@ -97,13 +87,13 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577300
+    id: W3C_-g577280
     docid:
-    - id: W3C _:g577300
+    - id: W3C _:g577280
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577300
+      content: W3C _:g577280
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -117,43 +107,43 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577360
+    id: W3C_-g577340
     docid:
-    - id: W3C _:g577360
+    - id: W3C _:g577340
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577360
+      content: W3C _:g577340
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577400
+    id: W3C_-g577380
     docid:
-    - id: W3C _:g577400
+    - id: W3C _:g577380
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577400
+      content: W3C _:g577380
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577440
+    id: W3C_-g577420
     docid:
-    - id: W3C _:g577440
+    - id: W3C _:g577420
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577440
+      content: W3C _:g577420
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577480
+    id: W3C_-g577460
     docid:
-    - id: W3C _:g577480
+    - id: W3C _:g577460
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577480
+      content: W3C _:g577460
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -164,6 +154,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g577500
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g577520
+    docid:
+    - id: W3C _:g577520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577520
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -180,5 +180,5 @@ series:
     content: W3C PR
     format: text/plain
   number: PR-xptr-element-20021113
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

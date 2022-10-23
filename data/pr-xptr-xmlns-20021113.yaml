@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g578320
-    docid:
-    - id: W3C _:g578320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g578320
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g578340
     docid:
     - id: W3C _:g578340
@@ -97,13 +87,13 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578400
+    id: W3C_-g578380
     docid:
-    - id: W3C _:g578400
+    - id: W3C _:g578380
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578400
+      content: W3C _:g578380
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -117,33 +107,33 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578460
+    id: W3C_-g578440
     docid:
-    - id: W3C _:g578460
+    - id: W3C _:g578440
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578460
+      content: W3C _:g578440
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578500
+    id: W3C_-g578480
     docid:
-    - id: W3C _:g578500
+    - id: W3C _:g578480
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578500
+      content: W3C _:g578480
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578540
+    id: W3C_-g578520
     docid:
-    - id: W3C _:g578540
+    - id: W3C _:g578520
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578540
+      content: W3C _:g578520
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -154,6 +144,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g578560
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g578580
+    docid:
+    - id: W3C _:g578580
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g578580
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -170,5 +170,5 @@ series:
     content: W3C PR
     format: text/plain
   number: PR-xptr-xmlns-20021113
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

@@ -37,16 +37,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g597880
-    docid:
-    - id: W3C _:g597880
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g597880
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g597900
     docid:
     - id: W3C _:g597900
@@ -67,23 +57,33 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g597960
+    id: W3C_-g597940
     docid:
-    - id: W3C _:g597960
+    - id: W3C _:g597940
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g597960
+      content: W3C _:g597940
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g598000
+    id: W3C_-g597980
     docid:
-    - id: W3C _:g598000
+    - id: W3C _:g597980
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g598000
+      content: W3C _:g597980
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g598020
+    docid:
+    - id: W3C _:g598020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g598020
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -100,5 +100,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-webarch-20021115
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

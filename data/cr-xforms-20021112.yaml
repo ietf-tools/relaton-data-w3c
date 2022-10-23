@@ -67,16 +67,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g569620
-    docid:
-    - id: W3C _:g569620
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g569620
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g569640
     docid:
     - id: W3C _:g569640
@@ -97,63 +87,73 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569700
+    id: W3C_-g569680
     docid:
-    - id: W3C _:g569700
+    - id: W3C _:g569680
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569700
+      content: W3C _:g569680
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569740
+    id: W3C_-g569720
     docid:
-    - id: W3C _:g569740
+    - id: W3C _:g569720
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569740
+      content: W3C _:g569720
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569780
+    id: W3C_-g569760
     docid:
-    - id: W3C _:g569780
+    - id: W3C _:g569760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569780
+      content: W3C _:g569760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569820
+    id: W3C_-g569800
     docid:
-    - id: W3C _:g569820
+    - id: W3C _:g569800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569820
+      content: W3C _:g569800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569860
+    id: W3C_-g569840
     docid:
-    - id: W3C _:g569860
+    - id: W3C _:g569840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569860
+      content: W3C _:g569840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g569900
+    id: W3C_-g569880
     docid:
-    - id: W3C _:g569900
+    - id: W3C _:g569880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g569900
+      content: W3C _:g569880
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g569920
+    docid:
+    - id: W3C _:g569920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g569920
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -170,5 +170,5 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-xforms-20021112
-fetched: '2022-10-22'
+fetched: '2022-10-23'
 doctype: technicalReport

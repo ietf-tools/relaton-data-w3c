@@ -20,15 +20,25 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-screen-orientation-20221021
+    id: W3CWD-screen-orientation-20221023
     docid:
-    - id: W3C WD-screen-orientation-20221021
+    - id: W3C WD-screen-orientation-20221023
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-orientation-20221021
+      content: W3C WD-screen-orientation-20221023
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-screen-orientation-20221024
+    docid:
+    - id: W3C WD-screen-orientation-20221024
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-orientation-20221024
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -125,5 +135,5 @@ series:
     content: W3C WD
     format: text/plain
   number: screen-orientation
-fetched: '2022-10-23'
+fetched: '2022-10-24'
 doctype: technicalReport

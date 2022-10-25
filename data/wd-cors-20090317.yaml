@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2009-03-17'
 language:
 - en
@@ -50,7 +50,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-cors-20090317
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

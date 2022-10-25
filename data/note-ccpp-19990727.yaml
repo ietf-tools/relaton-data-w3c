@@ -26,7 +26,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -36,7 +36,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -46,7 +46,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -56,7 +56,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '1999-07-27'
 language:
 - en
@@ -67,5 +67,5 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-CCPP-19990727
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote

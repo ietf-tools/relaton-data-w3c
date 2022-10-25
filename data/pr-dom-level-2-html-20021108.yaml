@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -47,7 +47,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2002-11-08'
 language:
 - en
@@ -172,5 +172,5 @@ series:
     content: W3C PR
     format: text/plain
   number: PR-DOM-Level-2-HTML-20021108
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport

@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2021-12-07'
 language:
 - en
@@ -62,7 +62,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-magnetometer-20211207
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

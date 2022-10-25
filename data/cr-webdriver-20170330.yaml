@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2017-03-30'
 language:
 - en
@@ -62,7 +62,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-webdriver-20170330
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Browser Testing and Tools Working Group

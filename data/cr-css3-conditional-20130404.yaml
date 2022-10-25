@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2013-04-04'
 language:
 - en
@@ -52,7 +52,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-css3-conditional-20130404
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

@@ -1,0 +1,39 @@
+---
+id: W3Cpng-3
+title:
+- content: Portable Network Graphics (PNG) Specification (Third Edition)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/png-3/
+  type: src
+type: standard
+docid:
+- id: W3C png-3
+  type: W3C
+  primary: true
+docnumber: png-3
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-png-3-20221025
+    docid:
+    - id: W3C WD-png-3-20221025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-png-3-20221025
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: png-3
+fetched: '2022-10-25'
+doctype: technicalReport

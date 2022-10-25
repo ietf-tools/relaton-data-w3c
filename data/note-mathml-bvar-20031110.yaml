@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -35,7 +35,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2003-11-10'
 language:
 - en
@@ -46,7 +46,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-mathml-bvar-20031110
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: Math Working Group

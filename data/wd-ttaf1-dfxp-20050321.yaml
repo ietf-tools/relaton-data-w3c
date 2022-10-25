@@ -26,7 +26,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2005-03-21'
 language:
 - en
@@ -51,7 +51,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-ttaf1-dfxp-20050321
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

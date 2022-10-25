@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2016-03-29'
 language:
 - en
@@ -49,7 +49,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-webcrypto-key-discovery-20160329
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: Web Cryptography Working Group

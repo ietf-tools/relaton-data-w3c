@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2020-08-04'
 language:
 - en
@@ -65,7 +65,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-ttml-imsc1.2-20200804
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

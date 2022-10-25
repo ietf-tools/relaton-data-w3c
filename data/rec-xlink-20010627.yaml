@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -35,7 +35,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -45,7 +45,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2001-06-27'
 language:
 - en
@@ -83,7 +83,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-xlink-20010627
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: XML Linking Working Group

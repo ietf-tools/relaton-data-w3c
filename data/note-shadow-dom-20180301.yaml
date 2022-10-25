@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2018-03-01'
 language:
 - en
@@ -49,7 +49,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-shadow-dom-20180301
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2016-11-08'
 language:
 - en
@@ -65,7 +65,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-geolocation-API-20161108
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Geolocation Working Group

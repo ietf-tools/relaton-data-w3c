@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2021-03-16'
 language:
 - en
@@ -41,7 +41,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-post-spectre-webdev-20210316
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

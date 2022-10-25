@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2004-04-05'
 language:
 - en
@@ -50,7 +50,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-xkms2-bindings-20040405
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: XML Key Management Working Group

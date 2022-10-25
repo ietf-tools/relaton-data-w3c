@@ -26,7 +26,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -36,7 +36,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2001-12-20'
 language:
 - en
@@ -47,7 +47,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-CCPP-COORDINATION-20011220
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: Composite Capability/Preference Profiles Working Group

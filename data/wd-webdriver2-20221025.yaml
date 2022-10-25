@@ -1,44 +1,44 @@
 ---
-id: W3CWD-webnn-20220929
+id: W3CWD-webdriver2-20221025
 title:
-- content: Web Neural Network API
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webnn-20220929/
+- content: https://www.w3.org/TR/2022/WD-webdriver2-20221025/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-webnn-20220929
+- id: W3C WD-webdriver2-20221025
   type: W3C
   primary: true
-docnumber: WD-webnn-20220929
+docnumber: WD-webdriver2-20221025
 date:
 - type: published
-  value: '2022-09-29'
+  value: '2022-10-25'
 contributor:
 - person:
     name:
       completename:
-        content: Chai Chaoweeraprasit
+        content: David Burns
         language:
         - en
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
-  - editor
-revdate: '2022-09-29'
+  - type: editor
+revdate: '2022-10-25'
 language:
 - en
 script:
@@ -49,20 +49,20 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webnn-20220901
+    id: W3CWD-webdriver2-20221019
     docid:
-    - id: W3C WD-webnn-20220901
+    - id: W3C WD-webdriver2-20221019
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20220901
+      content: W3C WD-webdriver2-20221019
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webnn-20220929
-fetched: '2022-10-24'
+  number: WD-webdriver2-20221025
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Browser Testing and Tools Working Group

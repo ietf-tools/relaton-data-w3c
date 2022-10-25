@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2018-08-28'
 language:
 - en
@@ -52,7 +52,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-typography-20180828
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Internationalization Working Group

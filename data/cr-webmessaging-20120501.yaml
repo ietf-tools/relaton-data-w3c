@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2012-05-01'
 language:
 - en
@@ -50,7 +50,7 @@ series:
     content: W3C CR
     format: text/plain
   number: CR-webmessaging-20120501
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

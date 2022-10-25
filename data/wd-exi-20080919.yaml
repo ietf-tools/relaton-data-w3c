@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -35,7 +35,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2008-09-19'
 language:
 - en
@@ -60,7 +60,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-exi-20080919
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Efficient Extensible Interchange Working Group

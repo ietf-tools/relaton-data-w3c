@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '1997-01-14'
 language:
 - en
@@ -50,7 +50,7 @@ series:
     content: W3C REC
     format: text/plain
   number: REC-html32-19970114
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: XHTML2 Working Group

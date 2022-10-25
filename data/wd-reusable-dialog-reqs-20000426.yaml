@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2000-04-26'
 language:
 - en
@@ -39,7 +39,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-reusable-dialog-reqs-20000426
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Voice Browser Working Group

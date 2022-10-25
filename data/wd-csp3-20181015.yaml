@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2018-10-15'
 language:
 - en
@@ -52,7 +52,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-CSP3-20181015
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

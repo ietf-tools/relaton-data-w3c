@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2015-06-11'
 language:
 - en
@@ -39,7 +39,7 @@ series:
     content: W3C WD
     format: text/plain
   number: WD-mmi-mc-discovery-20150611
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: technicalReport
 editorialgroup:
 - name: Multimodal Interaction Working Group

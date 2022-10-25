@@ -25,7 +25,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2012-02-09'
 language:
 - en
@@ -36,7 +36,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-html-xml-tf-report-20120209
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

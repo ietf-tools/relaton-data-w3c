@@ -27,7 +27,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 - person:
     name:
       completename:
@@ -37,7 +37,7 @@ contributor:
         script:
         - Latn
   role:
-  - editor
+  - type: editor
 revdate: '2021-12-08'
 language:
 - en
@@ -59,7 +59,7 @@ series:
     content: W3C NOTE
     format: text/plain
   number: NOTE-epub-overview-33-20211208
-fetched: '2022-10-24'
+fetched: '2022-10-25'
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

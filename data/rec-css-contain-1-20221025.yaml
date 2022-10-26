@@ -1,27 +1,27 @@
 ---
-id: W3CWD-html-aam-1.0-20221004
+id: W3CREC-css-contain-1-20221025
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: CSS Containment Module Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20221004/
+- content: https://www.w3.org/TR/2022/REC-css-contain-1-20221025/
   type: src
-- content: https://w3c.github.io/html-aam/
+- content: https://drafts.csswg.org/css-contain-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20221004
+- id: W3C REC-css-contain-1-20221025
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20221004
+docnumber: REC-css-contain-1-20221025
 date:
 - type: published
-  value: '2022-10-04'
+  value: '2022-10-25'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Florian Rivoal
         language:
         - en
         script:
@@ -31,38 +31,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-10-04'
+revdate: '2022-10-25'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aam-1.0-20220829
+    id: W3CREC-css-contain-1-20201222
     docid:
-    - id: W3C WD-html-aam-1.0-20220829
+    - id: W3C REC-css-contain-1-20201222
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20220829
+      content: W3C REC-css-contain-1-20201222
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-html-aam-1.0-20221004
-fetched: '2022-10-25'
+  number: REC-css-contain-1-20221025
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Cascading Style Sheets Working Group

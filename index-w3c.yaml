@@ -1897,9 +1897,9 @@
 - :code: css-color-4
   :file: data/css-color-4.yaml
 - :code: css-color-4
-  :stage: CR
-  :date: '20220705'
-  :file: data/cr-css-color-4-20220705.yaml
+  :stage: CRD
+  :date: '20221101'
+  :file: data/crd-css-color-4-20221101.yaml
 - :code: css-color-4
   :stage: WD
   :date: '20220428'
@@ -5204,8 +5204,8 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: CRD
-  :date: '20221019'
-  :file: data/crd-epub-33-20221019.yaml
+  :date: '20221101'
+  :file: data/crd-epub-33-20221101.yaml
 - :code: epub-33
   :stage: CRD
   :date: '20220527'
@@ -5288,8 +5288,8 @@
   :file: data/epub-rs-33.yaml
 - :code: epub-rs-33
   :stage: CRD
-  :date: '20221017'
-  :file: data/crd-epub-rs-33-20221017.yaml
+  :date: '20221101'
+  :file: data/crd-epub-rs-33-20221101.yaml
 - :code: epub-rs-33
   :stage: CRD
   :date: '20220527'
@@ -13913,6 +13913,10 @@
 - :code: typography
   :file: data/typography.yaml
 - :code: typography
+  :type: DNOTE
+  :date: '20221101'
+  :file: data/dnote-typography-20221101.yaml
+- :code: typography
   :stage: WD
   :date: '20200520'
   :file: data/wd-typography-20200520.yaml
@@ -16297,6 +16301,10 @@
 - :code: webxr-ar-module-1
   :file: data/webxr-ar-module-1.yaml
 - :code: webxr-ar-module-1
+  :stage: CR
+  :date: '20221101'
+  :file: data/cr-webxr-ar-module-1-20221101.yaml
+- :code: webxr-ar-module-1
   :stage: WD
   :date: '20220426'
   :file: data/wd-webxr-ar-module-1-20220426.yaml
@@ -16398,8 +16406,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20221027'
-  :file: data/wd-wgsl-20221027.yaml
+  :date: '20221101'
+  :file: data/wd-wgsl-20221101.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'
@@ -16645,8 +16653,8 @@
   :file: data/window-placement.yaml
 - :code: window-placement
   :stage: WD
-  :date: '20220922'
-  :file: data/wd-window-placement-20220922.yaml
+  :date: '20221101'
+  :file: data/wd-window-placement-20221101.yaml
 - :code: WOFF
   :file: data/woff.yaml
 - :code: WOFF

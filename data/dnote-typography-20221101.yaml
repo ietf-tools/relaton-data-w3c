@@ -1,0 +1,54 @@
+---
+id: W3CDNOTE-typography-20221101
+title:
+- content: Language enablement index
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/DNOTE-typography-20221101/
+  type: src
+- content: https://w3c.github.io/typography/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-typography-20221101
+  type: W3C
+  primary: true
+docnumber: DNOTE-typography-20221101
+date:
+- type: published
+  value: '2022-11-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-11-01'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-typography-20200520
+    docid:
+    - id: W3C WD-typography-20200520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-typography-20200520
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-typography-20221101
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group

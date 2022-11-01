@@ -1,27 +1,27 @@
 ---
-id: W3CCRD-epub-33-20221019
+id: W3CCR-webxr-ar-module-1-20221101
 title:
-- content: EPUB 3.3
+- content: WebXR Augmented Reality Module - Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-33-20221019/
+- content: https://www.w3.org/TR/2022/CR-webxr-ar-module-1-20221101/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/core/
+- content: https://immersive-web.github.io/webxr-ar-module/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-33-20221019
+- id: W3C CR-webxr-ar-module-1-20221101
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20221019
+docnumber: CR-webxr-ar-module-1-20221101
 date:
 - type: published
-  value: '2022-10-19'
+  value: '2022-11-01'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Brandon Jones
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Manish Goregaokar
         language:
         - en
         script:
@@ -41,14 +41,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Rik Cabanier
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-10-19'
+revdate: '2022-11-01'
 language:
 - en
 script:
@@ -59,19 +59,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20221017
+    id: W3CWD-webxr-ar-module-1-20220426
     docid:
-    - id: W3C CRD-epub-33-20221017
+    - id: W3C WD-webxr-ar-module-1-20220426
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20221017
+      content: W3C WD-webxr-ar-module-1-20220426
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-epub-33-20221019
+  number: CR-webxr-ar-module-1-20221101
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Immersive Web Working Group

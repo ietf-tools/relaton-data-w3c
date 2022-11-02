@@ -1,19 +1,19 @@
 ---
-id: W3CCRD-epub-33-20221101
+id: W3CWD-core-aam-1.2-20221101
 title:
-- content: EPUB 3.3
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-epub-33-20221101/
+- content: https://www.w3.org/TR/2022/WD-core-aam-1.2-20221101/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/core/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-33-20221101
+- id: W3C WD-core-aam-1.2-20221101
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20221101
+docnumber: WD-core-aam-1.2-20221101
 date:
 - type: published
   value: '2022-11-01'
@@ -21,7 +21,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Joanmarie Diggs
         language:
         - en
         script:
@@ -41,7 +41,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Michael Cooper
         language:
         - en
         script:
@@ -55,23 +55,23 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20221019
+    id: W3CWD-core-aam-1.2-20221013
     docid:
-    - id: W3C CRD-epub-33-20221019
+    - id: W3C WD-core-aam-1.2-20221013
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20221019
+      content: W3C WD-core-aam-1.2-20221013
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-33-20221101
+  number: WD-core-aam-1.2-20221101
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Accessible Rich Internet Applications Working Group

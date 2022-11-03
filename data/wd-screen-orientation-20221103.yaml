@@ -1,0 +1,57 @@
+---
+id: W3CWD-screen-orientation-20221103
+title:
+- content: The Screen Orientation API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-screen-orientation-20221103/
+  type: src
+- content: https://w3c.github.io/screen-orientation/
+  type: current
+type: standard
+docid:
+- id: W3C WD-screen-orientation-20221103
+  type: W3C
+  primary: true
+docnumber: WD-screen-orientation-20221103
+date:
+- type: published
+  value: '2022-11-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-11-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-screen-orientation-20221031
+    docid:
+    - id: W3C WD-screen-orientation-20221031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-orientation-20221031
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-screen-orientation-20221103
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group

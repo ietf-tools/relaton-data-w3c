@@ -1,0 +1,38 @@
+---
+id: W3Cvc-data-integrity
+title:
+- content: Verifiable Credential Data Integrity 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-data-integrity/
+  type: src
+type: standard
+docid:
+- id: W3C vc-data-integrity
+  type: W3C
+  primary: true
+docnumber: vc-data-integrity
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-data-integrity-20221110
+    docid:
+    - id: W3C WD-vc-data-integrity-20221110
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-data-integrity-20221110
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-data-integrity
+doctype: technicalReport

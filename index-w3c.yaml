@@ -9730,6 +9730,10 @@
   :date: '20120726'
   :file: data/cr-performance-timeline-20120726.yaml
 - :code: performance-timeline
+  :stage: CRD
+  :date: '20221110'
+  :file: data/crd-performance-timeline-20221110.yaml
+- :code: performance-timeline
   :stage: WD
   :date: '20110901'
   :file: data/wd-performance-timeline-20110901.yaml
@@ -11400,12 +11404,12 @@
   :file: data/resource-timing.yaml
 - :code: resource-timing
   :stage: CR
-  :date: '20221004'
-  :file: data/cr-resource-timing-20221004.yaml
-- :code: resource-timing
-  :stage: CR
   :date: '20120522'
   :file: data/cr-resource-timing-20120522.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20221110'
+  :file: data/crd-resource-timing-20221110.yaml
 - :code: resource-timing
   :stage: WD
   :date: '20151125'
@@ -12105,6 +12109,10 @@
   :file: data/rec-selectors-3-20181106.yaml
 - :code: selectors-4
   :file: data/selectors-4.yaml
+- :code: selectors-4
+  :stage: WD
+  :date: '20221111'
+  :file: data/wd-selectors-4-20221111.yaml
 - :code: selectors-4
   :stage: WD
   :date: '20220507'

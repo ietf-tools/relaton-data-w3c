@@ -1,27 +1,27 @@
 ---
-id: W3CCR-resource-timing-20221004
+id: W3CWD-selectors-4-20221111
 title:
-- content: Resource Timing
+- content: Selectors Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CR-resource-timing-20221004/
+- content: https://www.w3.org/TR/2022/WD-selectors-4-20221111/
   type: src
-- content: https://w3c.github.io/resource-timing/
+- content: https://drafts.csswg.org/selectors/
   type: current
 type: standard
 docid:
-- id: W3C CR-resource-timing-20221004
+- id: W3C WD-selectors-4-20221111
   type: W3C
   primary: true
-docnumber: CR-resource-timing-20221004
+docnumber: WD-selectors-4-20221111
 date:
 - type: published
-  value: '2022-10-04'
+  value: '2022-11-11'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Elika Etemad
         language:
         - en
         script:
@@ -31,37 +31,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-10-04'
+revdate: '2022-11-11'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-resource-timing-2-20220929
+    id: W3CWD-selectors-4-20220507
     docid:
-    - id: W3C WD-resource-timing-2-20220929
+    - id: W3C WD-selectors-4-20220507
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-resource-timing-2-20220929
+      content: W3C WD-selectors-4-20220507
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-resource-timing-20221004
+  number: WD-selectors-4-20221111
 doctype: technicalReport
 editorialgroup:
-- name: Web Performance Working Group
+- name: Cascading Style Sheets Working Group

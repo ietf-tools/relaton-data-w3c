@@ -1,0 +1,67 @@
+---
+id: W3CCRD-owl-time-20221115
+title:
+- content: Time Ontology in OWL
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/CRD-owl-time-20221115/
+  type: src
+- content: https://w3c.github.io/sdw/time/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-owl-time-20221115
+  type: W3C
+  primary: true
+docnumber: CRD-owl-time-20221115
+date:
+- type: published
+  value: '2022-11-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Little
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Simon Cox
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-11-15'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-owl-time-20200326
+    docid:
+    - id: W3C CR-owl-time-20200326
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-owl-time-20200326
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-owl-time-20221115
+doctype: technicalReport
+editorialgroup:
+- name: Spatial Data on the Web Working Group

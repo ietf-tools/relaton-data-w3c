@@ -2650,6 +2650,10 @@
   :date: '20140320'
   :file: data/cr-css-shapes-1-20140320.yaml
 - :code: css-shapes-1
+  :stage: CRD
+  :date: '20221115'
+  :file: data/crd-css-shapes-1-20221115.yaml
+- :code: css-shapes-1
   :stage: WD
   :date: '20131203'
   :file: data/wd-css-shapes-1-20131203.yaml
@@ -5600,8 +5604,8 @@
   :file: data/fileapi.yaml
 - :code: FileAPI
   :stage: WD
-  :date: '20221020'
-  :file: data/wd-fileapi-20221020.yaml
+  :date: '20221114'
+  :file: data/wd-fileapi-20221114.yaml
 - :code: FileAPI
   :stage: WD
   :date: '20210604'
@@ -9262,6 +9266,10 @@
   :stage: CR
   :date: '20200326'
   :file: data/cr-owl-time-20200326.yaml
+- :code: owl-time
+  :stage: CRD
+  :date: '20221115'
+  :file: data/crd-owl-time-20221115.yaml
 - :code: owl-time
   :stage: WD
   :date: '20160712'
@@ -14337,8 +14345,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20221105'
-  :file: data/wd-vc-data-model-2.0-20221105.yaml
+  :date: '20221115'
+  :file: data/wd-vc-data-model-2.0-20221115.yaml
 - :code: vc-imp-guide
   :file: data/vc-imp-guide.yaml
 - :code: vc-imp-guide
@@ -15567,8 +15575,8 @@
   :file: data/webcodecs.yaml
 - :code: webcodecs
   :stage: WD
-  :date: '20221101'
-  :file: data/wd-webcodecs-20221101.yaml
+  :date: '20221115'
+  :file: data/wd-webcodecs-20221115.yaml
 - :code: webcodecs
   :stage: WD
   :date: '20220524'
@@ -15585,8 +15593,8 @@
   :file: data/webcodecs-aac-codec-registration.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
-  :date: '20221101'
-  :file: data/dnote-webcodecs-aac-codec-registration-20221101.yaml
+  :date: '20221115'
+  :file: data/dnote-webcodecs-aac-codec-registration-20221115.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15627,8 +15635,8 @@
   :file: data/webcodecs-avc-codec-registration.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
-  :date: '20221101'
-  :file: data/dnote-webcodecs-avc-codec-registration-20221101.yaml
+  :date: '20221115'
+  :file: data/dnote-webcodecs-avc-codec-registration-20221115.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15671,8 +15679,8 @@
   :file: data/webcodecs-mp3-codec-registration.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
-  :date: '20221101'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20221101.yaml
+  :date: '20221115'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20221115.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15727,8 +15735,8 @@
   :file: data/webcodecs-vorbis-codec-registration.yaml
 - :code: webcodecs-vorbis-codec-registration
   :type: DNOTE
-  :date: '20221101'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20221101.yaml
+  :date: '20221115'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20221115.yaml
 - :code: webcodecs-vorbis-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16442,8 +16450,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20221113'
-  :file: data/wd-wgsl-20221113.yaml
+  :date: '20221114'
+  :file: data/wd-wgsl-20221114.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

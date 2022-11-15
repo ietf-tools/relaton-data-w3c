@@ -1,22 +1,22 @@
 ---
-id: W3CWD-vc-data-model-2.0-20221105
+id: W3CWD-vc-data-model-2.0-20221115
 title:
 - content: Verifiable Credentials Data Model v2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20221105/
+- content: https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20221115/
   type: src
 - content: https://w3c.github.io/vc-data-model/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-model-2.0-20221105
+- id: W3C WD-vc-data-model-2.0-20221115
   type: W3C
   primary: true
-docnumber: WD-vc-data-model-2.0-20221105
+docnumber: WD-vc-data-model-2.0-20221115
 date:
 - type: published
-  value: '2022-11-05'
+  value: '2022-11-15'
 contributor:
 - person:
     name:
@@ -68,7 +68,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-11-05'
+revdate: '2022-11-15'
 language:
 - en
 script:
@@ -79,19 +79,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20221028
+    id: W3CWD-vc-data-model-2.0-20221105
     docid:
-    - id: W3C WD-vc-data-model-2.0-20221028
+    - id: W3C WD-vc-data-model-2.0-20221105
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20221028
+      content: W3C WD-vc-data-model-2.0-20221105
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-model-2.0-20221105
+  number: WD-vc-data-model-2.0-20221115
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -30,7 +30,7 @@ relation:
     formattedref:
       content: W3C REC-performance-timeline-20131212
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CCRD-performance-timeline-20221110
     docid:
@@ -39,6 +39,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-performance-timeline-20221110
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-performance-timeline-20221115
+    docid:
+    - id: W3C CRD-performance-timeline-20221115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-performance-timeline-20221115
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -1423,9 +1423,9 @@
 - :code: core-aam-1.2
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
-  :stage: WD
-  :date: '20221101'
-  :file: data/wd-core-aam-1.2-20221101.yaml
+  :stage: CR
+  :date: '20221122'
+  :file: data/cr-core-aam-1.2-20221122.yaml
 - :code: core-aam-1.2
   :stage: WD
   :date: '20220526'
@@ -1639,6 +1639,9 @@
   :date: '20160913'
   :file: data/wd-csp3-20160913.yaml
 - :code: css
+  :date: '2022'
+  :file: data/css-2022.yaml
+- :code: css
   :date: '2021'
   :file: data/css-2021.yaml
 - :code: css
@@ -1692,6 +1695,10 @@
   :type: NOTE
   :date: '20211230'
   :file: data/note-css-2021-20211230.yaml
+- :code: css-2022
+  :type: DNOTE
+  :date: '20221122'
+  :file: data/dnote-css-2022-20221122.yaml
 - :code: CSS-access
   :file: data/css-access.yaml
 - :code: CSS-access
@@ -5230,8 +5237,8 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: CRD
-  :date: '20221118'
-  :file: data/crd-epub-33-20221118.yaml
+  :date: '20221122'
+  :file: data/crd-epub-33-20221122.yaml
 - :code: epub-33
   :stage: CRD
   :date: '20220527'
@@ -11944,8 +11951,8 @@
   :file: data/screen-wake-lock.yaml
 - :code: screen-wake-lock
   :stage: WD
-  :date: '20220928'
-  :file: data/wd-screen-wake-lock-20220928.yaml
+  :date: '20221122'
+  :file: data/wd-screen-wake-lock-20221122.yaml
 - :code: screen-wake-lock
   :stage: WD
   :date: '20211207'
@@ -16458,8 +16465,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20221118'
-  :file: data/wd-wgsl-20221118.yaml
+  :date: '20221121'
+  :file: data/wd-wgsl-20221121.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

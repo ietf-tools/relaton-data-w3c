@@ -1,0 +1,67 @@
+---
+id: W3CWD-miniapp-lifecycle-20221124
+title:
+- content: MiniApp Lifecycle
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-miniapp-lifecycle-20221124/
+  type: src
+- content: https://w3c.github.io/miniapp-lifecycle/
+  type: current
+type: standard
+docid:
+- id: W3C WD-miniapp-lifecycle-20221124
+  type: W3C
+  primary: true
+docnumber: WD-miniapp-lifecycle-20221124
+date:
+- type: published
+  value: '2022-11-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Haoyang Xu
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Qing An
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-11-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-miniapp-lifecycle-20221108
+    docid:
+    - id: W3C WD-miniapp-lifecycle-20221108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-lifecycle-20221108
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-miniapp-lifecycle-20221124
+doctype: technicalReport
+editorialgroup:
+- name: MiniApps Working Group

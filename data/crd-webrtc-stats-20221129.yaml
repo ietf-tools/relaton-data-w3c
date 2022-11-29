@@ -1,27 +1,27 @@
 ---
-id: W3CWD-webgpu-20221117
+id: W3CCRD-webrtc-stats-20221129
 title:
-- content: WebGPU
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webgpu-20221117/
+- content: https://www.w3.org/TR/2022/CRD-webrtc-stats-20221129/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20221117
+- id: W3C CRD-webrtc-stats-20221129
   type: W3C
   primary: true
-docnumber: WD-webgpu-20221117
+docnumber: CRD-webrtc-stats-20221129
 date:
 - type: published
-  value: '2022-11-17'
+  value: '2022-11-29'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -31,7 +31,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Henrik Boström
         language:
         - en
         script:
@@ -41,37 +41,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-11-17'
+revdate: '2022-11-29'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20221116
+    id: W3CCRD-webrtc-stats-20221011
     docid:
-    - id: W3C WD-webgpu-20221116
+    - id: W3C CRD-webrtc-stats-20221011
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20221116
+      content: W3C CRD-webrtc-stats-20221011
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20221117
+  number: CRD-webrtc-stats-20221129
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Real-Time Communications Working Group

@@ -1,27 +1,27 @@
 ---
-id: W3CWD-WGSL-20221125
+id: W3CWD-html-aam-1.0-20221128
 title:
-- content: WebGPU Shading Language
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-WGSL-20221125/
+- content: https://www.w3.org/TR/2022/WD-html-aam-1.0-20221128/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/html-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20221125
+- id: W3C WD-html-aam-1.0-20221128
   type: W3C
   primary: true
-docnumber: WD-WGSL-20221125
+docnumber: WD-html-aam-1.0-20221128
 date:
 - type: published
-  value: '2022-11-25'
+  value: '2022-11-28'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -31,24 +31,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2022-11-25'
+revdate: '2022-11-28'
 language:
 - en
 script:
@@ -59,19 +49,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20221124
+    id: W3CWD-html-aam-1.0-20221104
     docid:
-    - id: W3C WD-WGSL-20221124
+    - id: W3C WD-html-aam-1.0-20221104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20221124
+      content: W3C WD-html-aam-1.0-20221104
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20221125
+  number: WD-html-aam-1.0-20221128
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Accessible Rich Internet Applications Working Group

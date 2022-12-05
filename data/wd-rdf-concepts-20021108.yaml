@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-concepts-20021108
 title:
 - content: |-
@@ -49,36 +50,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g594420
-    docid:
-    - id: W3C _:g594420
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594420
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g594440
-    docid:
-    - id: W3C _:g594440
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594440
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g594460
-    docid:
-    - id: W3C _:g594460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594460
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g594500
     docid:
     - id: W3C _:g594500
@@ -86,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g594500
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594520
+    docid:
+    - id: W3C _:g594520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594520
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -109,6 +90,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g594620
+    docid:
+    - id: W3C _:g594620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594620
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594660
+    docid:
+    - id: W3C _:g594660
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594660
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-rdf-concepts-20020829
     docid:
     - id: W3C WD-rdf-concepts-20020829
@@ -123,3 +124,5 @@ series:
     format: text/plain
   number: WD-rdf-concepts-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

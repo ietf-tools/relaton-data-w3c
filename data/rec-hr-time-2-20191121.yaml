@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-hr-time-2-20191121
 title:
 - content: High Resolution Time Level 2
@@ -49,7 +50,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Chr-time/errata
+    id: W3Chr-time-errata
     docid:
     - id: W3C hr-time/errata
       type: W3C
@@ -68,3 +69,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group
+ext:
+  schema-version: v1.0.0

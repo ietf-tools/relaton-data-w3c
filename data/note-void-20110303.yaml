@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-void-20110303
 title:
 - content: Describing Linked Datasets with the VoID Vocabulary
@@ -69,3 +70,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Interest Group
+ext:
+  schema-version: v1.0.0

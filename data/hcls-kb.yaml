@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chcls-kb
 title:
 - content: A Prototype Knowledge Base for the Life Sciences
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: hcls-kb
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

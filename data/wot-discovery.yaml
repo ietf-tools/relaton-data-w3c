@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwot-discovery
 title:
 - content: Web of Things (WoT) Discovery
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: wot-discovery
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

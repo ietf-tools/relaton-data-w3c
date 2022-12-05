@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmsg
 title:
 - content: XMSG - XML Messaging Specification
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xmsg
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

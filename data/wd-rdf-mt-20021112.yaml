@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-mt-20021112
 title:
 - content: RDF Semantics
@@ -37,36 +38,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g594740
-    docid:
-    - id: W3C _:g594740
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594740
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g594760
-    docid:
-    - id: W3C _:g594760
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594760
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g594780
-    docid:
-    - id: W3C _:g594780
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g594780
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g594820
     docid:
     - id: W3C _:g594820
@@ -87,13 +58,43 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g594880
+    id: W3C_-g594860
     docid:
-    - id: W3C _:g594880
+    - id: W3C _:g594860
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g594880
+      content: W3C _:g594860
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594900
+    docid:
+    - id: W3C _:g594900
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594900
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594920
+    docid:
+    - id: W3C _:g594920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594920
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594960
+    docid:
+    - id: W3C _:g594960
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594960
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -111,3 +112,5 @@ series:
     format: text/plain
   number: WD-rdf-mt-20021112
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

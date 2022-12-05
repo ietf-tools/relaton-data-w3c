@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-ambient-light-20131001
 title:
 - content: Ambient Light Events
@@ -63,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

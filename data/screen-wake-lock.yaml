@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cscreen-wake-lock
 title:
 - content: Screen Wake Lock API
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: screen-wake-lock
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

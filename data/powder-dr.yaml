@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpowder-dr
 title:
 - content: 'Protocol for Web Description Resources (POWDER): Description Resources'
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: powder-dr
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

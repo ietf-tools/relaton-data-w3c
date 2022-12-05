@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-webcrypto-key-discovery-20130822
 title:
 - content: WebCrypto Key Discovery
@@ -55,3 +56,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Cryptography Working Group
+ext:
+  schema-version: v1.0.0

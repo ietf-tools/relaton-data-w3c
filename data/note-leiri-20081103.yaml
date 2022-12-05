@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-leiri-20081103
 title:
 - content: Legacy extended IRIs for XML resource identification
@@ -59,3 +60,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Core Working Group
+ext:
+  schema-version: v1.0.0

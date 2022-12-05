@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Creferrer-policy
 title:
 - content: Referrer Policy
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: referrer-policy
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

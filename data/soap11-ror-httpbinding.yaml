@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap11-ror-httpbinding
 title:
 - content: SOAP 1.1 Request Optional Response HTTP Binding
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: soap11-ror-httpbinding
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

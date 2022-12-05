@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-vc-data-integrity-20221110
 title:
 - content: Verifiable Credential Data Integrity 1.0
@@ -64,3 +65,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

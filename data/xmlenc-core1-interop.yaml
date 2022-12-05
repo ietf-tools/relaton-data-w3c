@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmlenc-core1-interop
 title:
 - content: XML Encryption 1.1 Interop Test Report
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xmlenc-core1-interop
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

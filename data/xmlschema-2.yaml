@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmlschema-2
 title:
 - content: 'XML Schema Part 2: Datatypes Second Edition'
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: xmlschema-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

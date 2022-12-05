@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cactivitystreams-vocabulary
 title:
 - content: Activity Vocabulary
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: activitystreams-vocabulary
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCCPP-struct-vocab
 title:
 - content: 'Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies
@@ -57,3 +58,5 @@ series:
     format: text/plain
   number: CCPP-struct-vocab
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

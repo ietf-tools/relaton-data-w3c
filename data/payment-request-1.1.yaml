@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpayment-request-1.1
 title:
 - content: Payment Request API 1.1
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: payment-request-1.1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

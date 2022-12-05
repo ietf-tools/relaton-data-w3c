@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cimsc-hrm
 title:
 - content: IMSC Hypothetical Render Model
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: imsc-hrm
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

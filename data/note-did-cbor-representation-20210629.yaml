@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-did-cbor-representation-20210629
 title:
 - content: The Plain CBOR Representation v1.0
@@ -51,3 +52,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Decentralized Identifier Working Group
+ext:
+  schema-version: v1.0.0

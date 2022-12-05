@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-css3-text-20021024
 title:
 - content: 'CSS3 module: text'
@@ -35,36 +36,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: obsoletes
-  bibitem:
-    id: W3C_-g588400
-    docid:
-    - id: W3C _:g588400
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g588400
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g588420
-    docid:
-    - id: W3C _:g588420
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g588420
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g588440
-    docid:
-    - id: W3C _:g588440
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g588440
-      format: text/plain
 - type: obsoletes
   bibitem:
     id: W3C_-g588480
@@ -107,6 +78,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g588580
+    docid:
+    - id: W3C _:g588580
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g588580
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g588600
     docid:
     - id: W3C _:g588600
@@ -114,6 +95,26 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g588600
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g588640
+    docid:
+    - id: W3C _:g588640
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g588640
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g588680
+    docid:
+    - id: W3C _:g588680
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g588680
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: WD-css3-text-20021024
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

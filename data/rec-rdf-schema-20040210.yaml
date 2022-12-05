@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-rdf-schema-20040210
 title:
 - content: 'RDF Vocabulary Description Language 1.0: RDF Schema'
@@ -76,3 +77,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: RDFCore Working Group
+ext:
+  schema-version: v1.0.0

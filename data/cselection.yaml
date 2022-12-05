@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccselection
 title:
 - content: Content Selection for Device Independence (DISelect) 1.0
@@ -73,3 +74,5 @@ series:
     format: text/plain
   number: cselection
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

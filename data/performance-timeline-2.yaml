@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cperformance-timeline-2
 title:
 - content: Performance Timeline Level 2
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: performance-timeline-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

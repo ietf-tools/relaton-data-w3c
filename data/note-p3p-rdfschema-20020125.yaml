@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-p3p-rdfschema-20020125
 title:
 - content: An RDF Schema for P3P
@@ -57,3 +58,5 @@ series:
     format: text/plain
   number: NOTE-p3p-rdfschema-20020125
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

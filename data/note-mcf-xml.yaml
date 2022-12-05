@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-MCF-XML
 title:
 - content: Meta Content Framework using XML
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-MCF-XML
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

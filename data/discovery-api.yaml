@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdiscovery-api
 title:
 - content: Network Service Discovery
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: discovery-api
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

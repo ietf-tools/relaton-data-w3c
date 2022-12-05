@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cperformance
 title:
 - content: Jigsaw performance evaluation
@@ -37,3 +38,5 @@ series:
     format: text/plain
   number: performance
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

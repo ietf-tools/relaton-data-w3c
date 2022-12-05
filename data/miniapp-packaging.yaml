@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cminiapp-packaging
 title:
 - content: MiniApp Packaging
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: miniapp-packaging
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

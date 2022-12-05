@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccovjson-overview
 title:
 - content: Overview of the CoverageJSON format
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: covjson-overview
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

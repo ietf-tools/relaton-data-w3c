@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-owl-ref-20021112
 title:
 - content: Web Ontology Language (OWL) Reference Version 1.0
@@ -107,36 +108,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g589840
-    docid:
-    - id: W3C _:g589840
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g589840
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g589860
-    docid:
-    - id: W3C _:g589860
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g589860
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g589880
-    docid:
-    - id: W3C _:g589880
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g589880
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g589920
     docid:
     - id: W3C _:g589920
@@ -157,13 +128,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g589980
+    id: W3C_-g589960
     docid:
-    - id: W3C _:g589980
+    - id: W3C _:g589960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g589980
+      content: W3C _:g589960
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590000
+    docid:
+    - id: W3C _:g590000
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590000
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -237,6 +218,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g590300
+    docid:
+    - id: W3C _:g590300
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590300
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590340
+    docid:
+    - id: W3C _:g590340
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590340
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-owl-ref-20020729
     docid:
     - id: W3C WD-owl-ref-20020729
@@ -251,3 +252,5 @@ series:
     format: text/plain
   number: WD-owl-ref-20021112
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

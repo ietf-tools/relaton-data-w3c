@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cactivitystreams-core
 title:
 - content: Activity Streams 2.0
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: activitystreams-core
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

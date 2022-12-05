@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpayment-method-manifest
 title:
 - content: Payment Method Manifest
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: payment-method-manifest
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

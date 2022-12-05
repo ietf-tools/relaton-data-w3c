@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-rdf-sparql-XMLres-20080115
 title:
 - content: SPARQL Query Results XML Format
@@ -76,3 +77,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: SPARQL Working Group
+ext:
+  schema-version: v1.0.0

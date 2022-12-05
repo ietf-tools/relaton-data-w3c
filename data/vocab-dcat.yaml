@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvocab-dcat
 title:
 - content: Data Catalog Vocabulary (DCAT)
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: vocab-dcat
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

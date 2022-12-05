@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cjf2
 title:
 - content: JF2 Post Serialization Format
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: jf2
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

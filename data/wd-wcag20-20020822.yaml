@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-WCAG20-20020822
 title:
 - content: Web Content Accessibility Guidelines 2.0
@@ -67,36 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g585460
-    docid:
-    - id: W3C _:g585460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g585460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g585480
-    docid:
-    - id: W3C _:g585480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g585480
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g585500
-    docid:
-    - id: W3C _:g585500
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g585500
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g585540
     docid:
     - id: W3C _:g585540
@@ -104,6 +75,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g585540
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g585560
+    docid:
+    - id: W3C _:g585560
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g585560
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -137,6 +118,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g585700
+    docid:
+    - id: W3C _:g585700
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g585700
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g585740
+    docid:
+    - id: W3C _:g585740
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g585740
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-WCAG20-20010824
     docid:
     - id: W3C WD-WCAG20-20010824
@@ -151,3 +152,5 @@ series:
     format: text/plain
   number: WD-WCAG20-20020822
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

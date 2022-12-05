@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-OPS-FrameWork
 title:
 - content: Proposal for an Open Profiling Standard
@@ -77,3 +78,5 @@ series:
     format: text/plain
   number: NOTE-OPS-FrameWork
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

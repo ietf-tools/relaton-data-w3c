@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xptr-infoset-liaison
 title:
 - content: XPointer-Information Set Liaison Statement Version 1.0
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-xptr-infoset-liaison
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

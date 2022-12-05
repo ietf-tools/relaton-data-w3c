@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-css-tv-20020807
 title:
 - content: CSS TV Profile 1.0
@@ -67,36 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g569460
-    docid:
-    - id: W3C _:g569460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g569460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g569480
-    docid:
-    - id: W3C _:g569480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g569480
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g569500
-    docid:
-    - id: W3C _:g569500
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g569500
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g569540
     docid:
     - id: W3C _:g569540
@@ -104,6 +75,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g569540
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g569560
+    docid:
+    - id: W3C _:g569560
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g569560
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -177,6 +158,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g569860
+    docid:
+    - id: W3C _:g569860
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g569860
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g569900
+    docid:
+    - id: W3C _:g569900
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g569900
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-css-tv-20020515
     docid:
     - id: W3C WD-css-tv-20020515
@@ -191,3 +192,5 @@ series:
     format: text/plain
   number: CR-css-tv-20020807
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

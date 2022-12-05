@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Capi-perms
 title:
 - content: Permissions for Device API Access
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: api-perms
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

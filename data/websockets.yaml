@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebsockets
 title:
 - content: The WebSocket API
@@ -73,3 +74,5 @@ series:
     format: text/plain
   number: websockets
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

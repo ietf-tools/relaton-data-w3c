@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwsdl20
 title:
 - content: 'Web Services Description Language (WSDL) Version 2.0 Part 1: Core Language'
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: wsdl20
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

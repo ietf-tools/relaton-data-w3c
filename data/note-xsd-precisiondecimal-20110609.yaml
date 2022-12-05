@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xsd-precisionDecimal-20110609
 title:
 - content: An XSD datatype for IEEE floating-point decimal
@@ -49,3 +50,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Schema Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cepub-33
 title:
 - content: EPUB 3.3
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: epub-33
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

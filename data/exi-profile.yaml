@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cexi-profile
 title:
 - content: Efficient XML Interchange (EXI) Profile for limiting usage of dynamic memory
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: exi-profile
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

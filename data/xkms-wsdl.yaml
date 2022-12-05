@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxkms-wsdl
 title:
 - content: A WSDL 1.1 description for XKMS
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xkms-wsdl
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

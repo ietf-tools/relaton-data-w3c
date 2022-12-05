@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-json
 title:
 - content: RDF 1.1 JSON Alternate Serialization (RDF/JSON)
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: rdf-json
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxquery-full-text
 title:
 - content: XQuery 1.0 and XPath 2.0 Full-Text
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: xquery-full-text
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

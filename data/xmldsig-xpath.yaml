@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmldsig-xpath
 title:
 - content: XML Signature Streaming Profile of XPath 1.0
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: xmldsig-xpath
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

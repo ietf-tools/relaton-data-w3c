@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCRD-webrtc-stats-20221129
 title:
 - content: Identifiers for WebRTC's Statistics API
@@ -75,3 +76,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

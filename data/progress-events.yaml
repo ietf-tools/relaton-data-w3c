@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cprogress-events
 title:
 - content: Progress Events
@@ -96,3 +97,5 @@ series:
     format: text/plain
   number: progress-events
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

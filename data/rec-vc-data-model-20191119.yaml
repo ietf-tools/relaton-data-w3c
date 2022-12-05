@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-vc-data-model-20191119
 title:
 - content: Verifiable Credentials Data Model 1.0
@@ -95,3 +96,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

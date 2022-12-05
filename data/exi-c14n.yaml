@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cexi-c14n
 title:
 - content: Canonical EXI
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: exi-c14n
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

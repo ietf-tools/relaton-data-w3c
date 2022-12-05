@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cservice-workers
 title:
 - content: Service Workers
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: service-workers
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

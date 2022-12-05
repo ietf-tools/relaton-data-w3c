@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-vocab-dcat-2-20200204
 title:
 - content: Data Catalog Vocabulary (DCAT) - Version 2
@@ -118,3 +119,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Dataset Exchange Working Group
+ext:
+  schema-version: v1.0.0

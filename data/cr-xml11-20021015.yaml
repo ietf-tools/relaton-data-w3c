@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-xml11-20021015
 title:
 - content: Extensible Markup Language (XML) 1.1
@@ -35,36 +36,6 @@ docstatus:
   stage:
     value: candidateRecommendation
 relation:
-- type: obsoletes
-  bibitem:
-    id: W3C_-g571260
-    docid:
-    - id: W3C _:g571260
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g571260
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g571280
-    docid:
-    - id: W3C _:g571280
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g571280
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g571300
-    docid:
-    - id: W3C _:g571300
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g571300
-      format: text/plain
 - type: obsoletes
   bibitem:
     id: W3C_-g571340
@@ -117,6 +88,36 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g571460
+    docid:
+    - id: W3C _:g571460
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g571460
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g571500
+    docid:
+    - id: W3C _:g571500
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g571500
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g571520
+    docid:
+    - id: W3C _:g571520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g571520
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-xml11-20020425
     docid:
     - id: W3C WD-xml11-20020425
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: CR-xml11-20021015
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

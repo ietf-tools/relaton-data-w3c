@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvc-data-integrity
 title:
 - content: Verifiable Credential Data Integrity 1.0
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: vc-data-integrity
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

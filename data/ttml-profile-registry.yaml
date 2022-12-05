@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cttml-profile-registry
 title:
 - content: TTML Media Type Definition and Profile Registry
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: ttml-profile-registry
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cowl2-syntax
 title:
 - content: OWL 2 Web Ontology Language Structural Specification and Functional-Style
@@ -57,3 +58,5 @@ series:
     format: text/plain
   number: owl2-syntax
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

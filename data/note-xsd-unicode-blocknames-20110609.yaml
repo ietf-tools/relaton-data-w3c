@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xsd-unicode-blocknames-20110609
 title:
 - content: Unicode block names for use in XSD regular expressions
@@ -39,3 +40,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Schema Working Group
+ext:
+  schema-version: v1.0.0

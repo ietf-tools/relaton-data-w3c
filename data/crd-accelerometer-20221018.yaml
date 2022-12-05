@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCRD-accelerometer-20221018
 title:
 - content: Accelerometer
@@ -55,3 +56,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

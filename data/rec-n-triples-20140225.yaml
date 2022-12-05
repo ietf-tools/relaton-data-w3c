@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-n-triples-20140225
 title:
 - content: RDF 1.1 N-Triples
@@ -63,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: RDF Working Group
+ext:
+  schema-version: v1.0.0

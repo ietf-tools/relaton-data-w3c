@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-syntax-grammar
 title:
 - content: RDF 1.1 XML Syntax
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: rdf-syntax-grammar
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

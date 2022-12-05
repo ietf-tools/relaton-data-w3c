@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwot-thing-description
 title:
 - content: Web of Things (WoT) Thing Description
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: wot-thing-description
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

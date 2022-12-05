@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-DOM-Level-2-HTML-20021108
 title:
 - content: |-
@@ -59,36 +60,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g576300
-    docid:
-    - id: W3C _:g576300
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576300
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g576320
-    docid:
-    - id: W3C _:g576320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576320
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g576340
-    docid:
-    - id: W3C _:g576340
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576340
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g576380
     docid:
     - id: W3C _:g576380
@@ -99,6 +70,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g576400
+    docid:
+    - id: W3C _:g576400
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g576400
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g576420
     docid:
     - id: W3C _:g576420
@@ -106,16 +87,6 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g576420
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g576440
-    docid:
-    - id: W3C _:g576440
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576440
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -139,6 +110,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g576520
+    docid:
+    - id: W3C _:g576520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g576520
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g576540
     docid:
     - id: W3C _:g576540
@@ -159,6 +140,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g576620
+    docid:
+    - id: W3C _:g576620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g576620
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g576660
+    docid:
+    - id: W3C _:g576660
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g576660
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CCR-DOM-Level-2-HTML-20021007
     docid:
     - id: W3C CR-DOM-Level-2-HTML-20021007
@@ -173,3 +174,5 @@ series:
     format: text/plain
   number: PR-DOM-Level-2-HTML-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

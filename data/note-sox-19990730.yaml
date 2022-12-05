@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-SOX-19990730
 title:
 - content: Schema for Object-oriented XML 2.0
@@ -107,3 +108,5 @@ series:
     format: text/plain
   number: NOTE-SOX-19990730
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

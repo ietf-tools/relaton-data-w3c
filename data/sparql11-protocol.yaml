@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csparql11-protocol
 title:
 - content: SPARQL 1.1 Protocol
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: sparql11-protocol
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

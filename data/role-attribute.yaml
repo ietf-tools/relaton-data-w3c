@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crole-attribute
 title:
 - content: Role Attribute 1.0
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: role-attribute
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

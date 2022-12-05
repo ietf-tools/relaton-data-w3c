@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-logfile
 title:
 - content: Extended Log File Format
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: WD-logfile
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

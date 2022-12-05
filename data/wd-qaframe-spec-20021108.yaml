@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-qaframe-spec-20021108
 title:
 - content: 'QA Framework: Specification Guidelines'
@@ -77,36 +78,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g592460
-    docid:
-    - id: W3C _:g592460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g592460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g592480
-    docid:
-    - id: W3C _:g592480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g592480
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g592500
-    docid:
-    - id: W3C _:g592500
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g592500
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g592540
     docid:
     - id: W3C _:g592540
@@ -114,6 +85,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g592540
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g592560
+    docid:
+    - id: W3C _:g592560
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592560
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -167,6 +148,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g592780
+    docid:
+    - id: W3C _:g592780
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592780
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g592820
+    docid:
+    - id: W3C _:g592820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592820
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-qaframe-spec-20020826
     docid:
     - id: W3C WD-qaframe-spec-20020826
@@ -181,3 +182,5 @@ series:
     format: text/plain
   number: WD-qaframe-spec-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

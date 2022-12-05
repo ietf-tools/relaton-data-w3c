@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxpath-datamodel
 title:
 - content: XQuery 1.0 and XPath 2.0 Data Model (XDM) (Second Edition)
@@ -96,3 +97,5 @@ series:
     format: text/plain
   number: xpath-datamodel
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

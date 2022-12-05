@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebcrypto-key-discovery
 title:
 - content: WebCrypto Key Discovery
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: webcrypto-key-discovery
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

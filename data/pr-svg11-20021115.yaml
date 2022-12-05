@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-SVG11-20021115
 title:
 - content: Scalable Vector Graphics (SVG) 1.1 Specification
@@ -57,36 +58,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g576800
-    docid:
-    - id: W3C _:g576800
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576800
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g576820
-    docid:
-    - id: W3C _:g576820
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576820
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g576840
-    docid:
-    - id: W3C _:g576840
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g576840
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g576880
     docid:
     - id: W3C _:g576880
@@ -107,13 +78,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576940
+    id: W3C_-g576920
     docid:
-    - id: W3C _:g576940
+    - id: W3C _:g576920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576940
+      content: W3C _:g576920
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g576960
+    docid:
+    - id: W3C _:g576960
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g576960
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -137,6 +118,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g577060
+    docid:
+    - id: W3C _:g577060
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577060
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g577100
+    docid:
+    - id: W3C _:g577100
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577100
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CCR-SVG11-20020430
     docid:
     - id: W3C CR-SVG11-20020430
@@ -151,3 +152,5 @@ series:
     format: text/plain
   number: PR-SVG11-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

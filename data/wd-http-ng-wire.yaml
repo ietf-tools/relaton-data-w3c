@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-HTTP-NG-wire
 title:
 - content: HTTP-ng Binary Wire Protocol
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: WD-HTTP-NG-wire
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

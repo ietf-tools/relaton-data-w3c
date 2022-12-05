@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-gdiff-19970901
 title:
 - content: Generic Diff Format Specification
@@ -47,3 +48,5 @@ series:
     format: text/plain
   number: NOTE-gdiff-19970901
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

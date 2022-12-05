@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cjson-ld
 title:
 - content: JSON-LD 1.0
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: json-ld
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

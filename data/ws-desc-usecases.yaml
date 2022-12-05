@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cws-desc-usecases
 title:
 - content: Web Service Description Usage Scenarios
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: ws-desc-usecases
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

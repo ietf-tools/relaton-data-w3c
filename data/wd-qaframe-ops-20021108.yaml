@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-qaframe-ops-20021108
 title:
 - content: 'QA Framework: Operational Guidelines'
@@ -77,36 +78,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g591920
-    docid:
-    - id: W3C _:g591920
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591920
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591940
-    docid:
-    - id: W3C _:g591940
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591940
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591960
-    docid:
-    - id: W3C _:g591960
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591960
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g592000
     docid:
     - id: W3C _:g592000
@@ -127,13 +98,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g592060
+    id: W3C_-g592040
     docid:
-    - id: W3C _:g592060
+    - id: W3C _:g592040
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g592060
+      content: W3C _:g592040
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g592080
+    docid:
+    - id: W3C _:g592080
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592080
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -167,6 +148,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g592220
+    docid:
+    - id: W3C _:g592220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592220
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g592260
+    docid:
+    - id: W3C _:g592260
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g592260
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-qaframe-ops-20020515
     docid:
     - id: W3C WD-qaframe-ops-20020515
@@ -181,3 +182,5 @@ series:
     format: text/plain
   number: WD-qaframe-ops-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

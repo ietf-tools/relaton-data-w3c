@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Corientation-event
 title:
 - content: DeviceOrientation Event Specification
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: orientation-event
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

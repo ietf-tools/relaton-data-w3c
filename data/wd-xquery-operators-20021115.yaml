@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-xquery-operators-20021115
 title:
 - content: XQuery 1.0 and XPath 2.0 Functions and Operators
@@ -67,36 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g606440
-    docid:
-    - id: W3C _:g606440
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g606440
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g606460
-    docid:
-    - id: W3C _:g606460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g606460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g606480
-    docid:
-    - id: W3C _:g606480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g606480
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g606520
     docid:
     - id: W3C _:g606520
@@ -104,6 +75,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g606520
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g606540
+    docid:
+    - id: W3C _:g606540
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g606540
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -157,6 +138,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g606760
+    docid:
+    - id: W3C _:g606760
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g606760
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g606800
+    docid:
+    - id: W3C _:g606800
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g606800
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-xquery-operators-20020816
     docid:
     - id: W3C WD-xquery-operators-20020816
@@ -171,3 +172,5 @@ series:
     format: text/plain
   number: WD-xquery-operators-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

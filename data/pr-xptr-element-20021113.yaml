@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-xptr-element-20021113
 title:
 - content: XPointer element() Scheme
@@ -67,36 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g577960
-    docid:
-    - id: W3C _:g577960
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577960
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g577980
-    docid:
-    - id: W3C _:g577980
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577980
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g578000
-    docid:
-    - id: W3C _:g578000
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g578000
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g578040
     docid:
     - id: W3C _:g578040
@@ -117,13 +88,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578100
+    id: W3C_-g578080
     docid:
-    - id: W3C _:g578100
+    - id: W3C _:g578080
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578100
+      content: W3C _:g578080
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g578120
+    docid:
+    - id: W3C _:g578120
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g578120
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -157,13 +138,33 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g578240
+    id: W3C_-g578260
     docid:
-    - id: W3C _:g578240
+    - id: W3C _:g578260
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g578240
+      content: W3C _:g578260
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g578300
+    docid:
+    - id: W3C _:g578300
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g578300
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g578320
+    docid:
+    - id: W3C _:g578320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g578320
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -181,3 +182,5 @@ series:
     format: text/plain
   number: PR-xptr-element-20021113
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

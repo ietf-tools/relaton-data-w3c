@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvoid
 title:
 - content: Describing Linked Datasets with the VoID Vocabulary
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: void
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

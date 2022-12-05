@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-http-edit-dist-scenarios
 title:
 - content: HTTP-based Distributed Content Editing Scenarios
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-http-edit-dist-scenarios
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

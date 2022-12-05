@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cproximity
 title:
 - content: Proximity Sensor
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: proximity
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

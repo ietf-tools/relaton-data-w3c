@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cshacl
 title:
 - content: Shapes Constraint Language (SHACL)
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: shacl
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

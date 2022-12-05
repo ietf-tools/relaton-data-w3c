@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cddr-core-vocabulary
 title:
 - content: Device Description Repository Core Vocabulary
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: ddr-core-vocabulary
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

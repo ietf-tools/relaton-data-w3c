@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-patent-policy-20021114
 title:
 - content: |-
@@ -39,36 +40,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g591200
-    docid:
-    - id: W3C _:g591200
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591200
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591220
-    docid:
-    - id: W3C _:g591220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591220
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591240
-    docid:
-    - id: W3C _:g591240
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591240
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g591280
     docid:
     - id: W3C _:g591280
@@ -79,6 +50,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g591300
+    docid:
+    - id: W3C _:g591300
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591300
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g591320
     docid:
     - id: W3C _:g591320
@@ -86,6 +67,26 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g591320
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g591360
+    docid:
+    - id: W3C _:g591360
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591360
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g591400
+    docid:
+    - id: W3C _:g591400
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591400
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -103,3 +104,5 @@ series:
     format: text/plain
   number: WD-patent-policy-20021114
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

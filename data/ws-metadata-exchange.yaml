@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cws-metadata-exchange
 title:
 - content: Web Services Metadata Exchange (WS-MetadataExchange)
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: ws-metadata-exchange
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

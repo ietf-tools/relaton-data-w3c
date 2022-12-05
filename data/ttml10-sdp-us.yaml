@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cttml10-sdp-us
 title:
 - content: TTML Simple Delivery Profile for Closed Captions (US)
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: ttml10-sdp-us
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

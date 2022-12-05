@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-concepts
 title:
 - content: 'Resource Description Framework (RDF): Concepts and Abstract Syntax'
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: rdf-concepts
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

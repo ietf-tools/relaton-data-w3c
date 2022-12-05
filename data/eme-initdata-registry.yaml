@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ceme-initdata-registry
 title:
 - content: Encrypted Media Extensions Initialization Data Format Registry
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: eme-initdata-registry
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

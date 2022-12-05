@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csml
 title:
 - content: Service Modeling Language, Version 1.1
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: sml
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

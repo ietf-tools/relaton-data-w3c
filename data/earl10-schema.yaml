@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CEARL10-Schema
 title:
 - content: Evaluation and Report Language (EARL) 1.0 Schema
@@ -83,3 +84,5 @@ series:
     format: text/plain
   number: EARL10-Schema
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

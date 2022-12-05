@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-act-rules-format-1.0-20170912
 title:
 - content: Accessibility Conformance Testing (ACT) Rules Format 1.0
@@ -65,3 +66,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group
+ext:
+  schema-version: v1.0.0

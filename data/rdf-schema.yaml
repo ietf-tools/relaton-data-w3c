@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-schema
 title:
 - content: RDF Schema 1.1
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: rdf-schema
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

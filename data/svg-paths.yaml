@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csvg-paths
 title:
 - content: SVG Paths
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: svg-paths
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

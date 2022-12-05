@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-did-core-20220719
 title:
 - content: Decentralized Identifiers (DIDs) v1.0
@@ -79,7 +80,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Cdid-core/errata
+    id: W3Cdid-core-errata
     docid:
     - id: W3C did-core/errata
       type: W3C
@@ -98,3 +99,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Decentralized Identifier Working Group
+ext:
+  schema-version: v1.0.0

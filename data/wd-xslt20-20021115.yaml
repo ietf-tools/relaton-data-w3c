@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-xslt20-20021115
 title:
 - content: XSL Transformations (XSLT) Version 2.0
@@ -37,36 +38,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g607140
-    docid:
-    - id: W3C _:g607140
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g607140
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g607160
-    docid:
-    - id: W3C _:g607160
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g607160
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g607180
-    docid:
-    - id: W3C _:g607180
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g607180
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g607220
     docid:
     - id: W3C _:g607220
@@ -74,6 +45,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g607220
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g607240
+    docid:
+    - id: W3C _:g607240
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g607240
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -87,23 +68,43 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g607280
+    id: W3C_-g607300
     docid:
-    - id: W3C _:g607280
+    - id: W3C _:g607300
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g607280
+      content: W3C _:g607300
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g607320
+    id: W3C_-g607340
     docid:
-    - id: W3C _:g607320
+    - id: W3C _:g607340
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g607320
+      content: W3C _:g607340
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g607360
+    docid:
+    - id: W3C _:g607360
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g607360
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g607400
+    docid:
+    - id: W3C _:g607400
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g607400
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -121,3 +122,5 @@ series:
     format: text/plain
   number: WD-xslt20-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

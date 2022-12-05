@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-sgml-lex
 title:
 - content: A Lexical Analyzer for HTML and Basic SGML
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: WD-sgml-lex
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

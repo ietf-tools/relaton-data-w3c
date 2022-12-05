@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-vcard-rdf-20140522
 title:
 - content: vCard Ontology - for describing People and Organizations
@@ -60,3 +61,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Semantic Web Interest Group
+ext:
+  schema-version: v1.0.0

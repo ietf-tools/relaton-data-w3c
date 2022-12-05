@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdial-primer
 title:
 - content: 'DIAL Part 0: Primer'
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: dial-primer
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

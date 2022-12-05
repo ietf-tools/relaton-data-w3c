@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-qaframe-intro-20021108
 title:
 - content: 'QA Framework: Introduction'
@@ -67,36 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g591420
-    docid:
-    - id: W3C _:g591420
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591420
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591440
-    docid:
-    - id: W3C _:g591440
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591440
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g591460
-    docid:
-    - id: W3C _:g591460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g591460
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g591500
     docid:
     - id: W3C _:g591500
@@ -117,13 +88,23 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g591560
+    id: W3C_-g591540
     docid:
-    - id: W3C _:g591560
+    - id: W3C _:g591540
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g591560
+      content: W3C _:g591540
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g591580
+    docid:
+    - id: W3C _:g591580
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591580
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -157,6 +138,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g591720
+    docid:
+    - id: W3C _:g591720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591720
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g591760
+    docid:
+    - id: W3C _:g591760
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g591760
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-qaframe-intro-20020515
     docid:
     - id: W3C WD-qaframe-intro-20020515
@@ -171,3 +172,5 @@ series:
     format: text/plain
   number: WD-qaframe-intro-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

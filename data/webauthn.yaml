@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebauthn
 title:
 - content: 'Web Authentication: An API for accessing Public Key Credentials Level
@@ -57,3 +58,5 @@ series:
     format: text/plain
   number: webauthn
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,22 +1,23 @@
 ---
-id: W3CWD-webnn-20221104
+schema-version: v1.2.1
+id: W3CWD-webnn-20221205
 title:
 - content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webnn-20221104/
+- content: https://www.w3.org/TR/2022/WD-webnn-20221205/
   type: src
 - content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-webnn-20221104
+- id: W3C WD-webnn-20221205
   type: W3C
   primary: true
-docnumber: WD-webnn-20221104
+docnumber: WD-webnn-20221205
 date:
 - type: published
-  value: '2022-11-04'
+  value: '2022-12-05'
 contributor:
 - person:
     name:
@@ -38,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-11-04'
+revdate: '2022-12-05'
 language:
 - en
 script:
@@ -49,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webnn-20221024
+    id: W3CWD-webnn-20221104
     docid:
-    - id: W3C WD-webnn-20221024
+    - id: W3C WD-webnn-20221104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20221024
+      content: W3C WD-webnn-20221104
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webnn-20221104
+  number: WD-webnn-20221205
 doctype: technicalReport
 editorialgroup:
 - name: Web Machine Learning Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-mt
 title:
 - content: RDF Semantics
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: rdf-mt
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

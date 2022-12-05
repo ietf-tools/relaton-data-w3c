@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csvg-strokes
 title:
 - content: SVG Strokes
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: svg-strokes
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

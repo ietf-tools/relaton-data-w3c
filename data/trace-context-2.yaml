@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctrace-context-2
 title:
 - content: Trace Context Level 2
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: trace-context-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

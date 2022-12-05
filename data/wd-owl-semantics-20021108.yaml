@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-owl-semantics-20021108
 title:
 - content: |-
@@ -69,46 +70,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g590660
-    docid:
-    - id: W3C _:g590660
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590660
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g590680
-    docid:
-    - id: W3C _:g590680
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590680
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g590700
-    docid:
-    - id: W3C _:g590700
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590700
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g590720
-    docid:
-    - id: W3C _:g590720
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g590720
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g590740
     docid:
     - id: W3C _:g590740
@@ -149,6 +110,46 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g590820
+    docid:
+    - id: W3C _:g590820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590820
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590840
+    docid:
+    - id: W3C _:g590840
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590840
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590860
+    docid:
+    - id: W3C _:g590860
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590860
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g590880
+    docid:
+    - id: W3C _:g590880
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g590880
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-owl-absyn-20020729
     docid:
     - id: W3C WD-owl-absyn-20020729
@@ -163,3 +164,5 @@ series:
     format: text/plain
   number: WD-owl-semantics-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

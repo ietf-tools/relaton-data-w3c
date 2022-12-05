@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf11-concepts
 title:
 - content: RDF 1.1 Concepts and Abstract Syntax
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: rdf11-concepts
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

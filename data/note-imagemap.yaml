@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-imagemap
 title:
 - content: Imagemapped Images and Image-Incapable User Agents
@@ -26,3 +27,5 @@ series:
     format: text/plain
   number: NOTE-imagemap
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

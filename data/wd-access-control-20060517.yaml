@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-access-control-20060517
 title:
 - content: Authorizing Read Access to XML Content Using the <?access-control?> Processing
@@ -74,3 +75,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Formats Working Group
+ext:
+  schema-version: v1.0.0

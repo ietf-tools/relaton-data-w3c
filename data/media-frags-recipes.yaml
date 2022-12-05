@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmedia-frags-recipes
 title:
 - content: Protocol for Media Fragments 1.0 Resolution in HTTP
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: media-frags-recipes
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

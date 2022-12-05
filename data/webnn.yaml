@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebnn
 title:
 - content: Web Neural Network API
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webnn-20221104
+    id: W3CWD-webnn-20221205
     docid:
-    - id: W3C WD-webnn-20221104
+    - id: W3C WD-webnn-20221205
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20221104
+      content: W3C WD-webnn-20221205
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: webnn
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cbaggage
 title:
 - content: 'Propagation format for distributed context: Baggage'
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: baggage
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

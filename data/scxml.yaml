@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cscxml
 title:
 - content: 'State Chart XML (SCXML): State Machine Notation for Control Abstraction'
@@ -136,3 +137,5 @@ series:
     format: text/plain
   number: scxml
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

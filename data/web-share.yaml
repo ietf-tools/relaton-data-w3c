@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cweb-share
 title:
 - content: Web Share API
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: web-share
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

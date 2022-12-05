@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cclear-site-data
 title:
 - content: Clear Site Data
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: clear-site-data
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

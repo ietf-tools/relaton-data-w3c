@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-json-ld11-api-20200716
 title:
 - content: JSON-LD 1.1 Processing Algorithms and API
@@ -69,7 +70,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Cjson-ld-api/errata
+    id: W3Cjson-ld-api-errata
     docid:
     - id: W3C json-ld-api/errata
       type: W3C
@@ -88,3 +89,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: JSON-LD Working Group
+ext:
+  schema-version: v1.0.0

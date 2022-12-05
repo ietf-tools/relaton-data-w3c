@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-html-media-capture-20180201
 title:
 - content: HTML Media Capture
@@ -69,7 +70,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Chtml-media-capture/labels
+    id: W3Chtml-media-capture-labels
     docid:
     - id: W3C html-media-capture/labels
       type: W3C
@@ -88,3 +89,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

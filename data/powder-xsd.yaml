@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpowder-xsd
 title:
 - content: 'Protocol for Web Description Resources (POWDER): Web Description Resources
@@ -37,3 +38,5 @@ series:
     format: text/plain
   number: powder-xsd
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

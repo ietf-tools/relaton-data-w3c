@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmmi-interop
 title:
 - content: MMI interoperability test report
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: mmi-interop
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

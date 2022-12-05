@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-PICS-Cookie-extension
 title:
 - content: PICS Extension for HTTP Cookies
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-PICS-Cookie-extension
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

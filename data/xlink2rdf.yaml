@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxlink2rdf
 title:
 - content: Harvesting RDF Statements from XLinks
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xlink2rdf
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

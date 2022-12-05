@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWOFF
 title:
 - content: WOFF File Format 1.0
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: WOFF
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

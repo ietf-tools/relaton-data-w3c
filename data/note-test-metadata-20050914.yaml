@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-test-metadata-20050914
 title:
 - content: Test Metadata
@@ -49,3 +50,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Quality Assurance Working Group
+ext:
+  schema-version: v1.0.0

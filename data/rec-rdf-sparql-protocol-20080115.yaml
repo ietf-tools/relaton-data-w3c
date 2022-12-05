@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-rdf-sparql-protocol-20080115
 title:
 - content: SPARQL Protocol for RDF
@@ -86,3 +87,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: SPARQL Working Group
+ext:
+  schema-version: v1.0.0

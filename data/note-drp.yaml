@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-drp
 title:
 - content: The HTTP Distribution and Replication Protocol
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-drp
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

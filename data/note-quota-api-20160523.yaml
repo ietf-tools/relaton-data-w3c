@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-quota-api-20160523
 title:
 - content: Quota Management API
@@ -52,3 +53,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

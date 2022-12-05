@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpost-type-discovery
 title:
 - content: Post Type Discovery
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: post-type-discovery
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

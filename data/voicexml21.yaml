@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvoicexml21
 title:
 - content: Voice Extensible Markup Language (VoiceXML) 2.1
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: voicexml21
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

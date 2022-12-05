@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebrtc-stats
 title:
 - content: Identifiers for WebRTC's Statistics API
@@ -106,3 +107,5 @@ series:
     format: text/plain
   number: webrtc-stats
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

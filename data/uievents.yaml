@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cuievents
 title:
 - content: UI Events
@@ -106,3 +107,5 @@ series:
     format: text/plain
   number: uievents
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

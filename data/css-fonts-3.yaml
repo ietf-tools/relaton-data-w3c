@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-fonts-3
 title:
 - content: CSS Fonts Module Level 3
@@ -42,7 +43,7 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CREC-CSS2-19980512/fonts
+    id: W3CREC-CSS2-19980512-fonts
     docid:
     - id: W3C REC-CSS2-19980512/fonts
       type: W3C
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: css-fonts-3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-xpath20-20021115
 title:
 - content: XML Path Language (XPath) 2.0
@@ -97,36 +98,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g604320
-    docid:
-    - id: W3C _:g604320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g604320
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g604340
-    docid:
-    - id: W3C _:g604340
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g604340
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g604360
-    docid:
-    - id: W3C _:g604360
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g604360
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g604400
     docid:
     - id: W3C _:g604400
@@ -134,6 +105,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g604400
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g604420
+    docid:
+    - id: W3C _:g604420
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g604420
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -217,6 +198,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g604760
+    docid:
+    - id: W3C _:g604760
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g604760
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g604800
+    docid:
+    - id: W3C _:g604800
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g604800
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-xpath20-20020816
     docid:
     - id: W3C WD-xpath20-20020816
@@ -231,3 +232,5 @@ series:
     format: text/plain
   number: WD-xpath20-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebpayments-http-messages
 title:
 - content: Web Payments HTTP Messages 1.0
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: webpayments-http-messages
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-tabular-data-model-20151217
 title:
 - content: Model for Tabular Data and Metadata on the Web
@@ -65,3 +66,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: CSV on the Web Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-UAAG10-20021016
 title:
 - content: User Agent Accessibility Guidelines 1.0
@@ -57,36 +58,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g577480
-    docid:
-    - id: W3C _:g577480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577480
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g577500
-    docid:
-    - id: W3C _:g577500
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577500
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g577520
-    docid:
-    - id: W3C _:g577520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g577520
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g577560
     docid:
     - id: W3C _:g577560
@@ -94,6 +65,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g577560
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g577580
+    docid:
+    - id: W3C _:g577580
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577580
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -137,13 +118,33 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577740
+    id: W3C_-g577760
     docid:
-    - id: W3C _:g577740
+    - id: W3C _:g577760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577740
+      content: W3C _:g577760
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g577800
+    docid:
+    - id: W3C _:g577800
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577800
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g577820
+    docid:
+    - id: W3C _:g577820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g577820
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -161,3 +162,5 @@ series:
     format: text/plain
   number: PR-UAAG10-20021016
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

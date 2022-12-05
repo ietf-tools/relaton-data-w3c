@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-csvw-html-20160225
 title:
 - content: Embedding Tabular Metadata in HTML
@@ -41,3 +42,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: CSV on the Web Working Group
+ext:
+  schema-version: v1.0.0

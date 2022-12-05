@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-webarch-20021115
 title:
 - content: Architecture of the World Wide Web
@@ -37,36 +38,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g598620
-    docid:
-    - id: W3C _:g598620
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g598620
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g598640
-    docid:
-    - id: W3C _:g598640
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g598640
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g598660
-    docid:
-    - id: W3C _:g598660
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g598660
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g598700
     docid:
     - id: W3C _:g598700
@@ -77,6 +48,16 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g598720
+    docid:
+    - id: W3C _:g598720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g598720
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g598740
     docid:
     - id: W3C _:g598740
@@ -84,6 +65,26 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g598740
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g598780
+    docid:
+    - id: W3C _:g598780
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g598780
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g598820
+    docid:
+    - id: W3C _:g598820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g598820
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -101,3 +102,5 @@ series:
     format: text/plain
   number: WD-webarch-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

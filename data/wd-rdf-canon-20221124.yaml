@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-canon-20221124
 title:
 - content: RDF Dataset Canonicalization
@@ -62,3 +63,5 @@ series:
     format: text/plain
   number: WD-rdf-canon-20221124
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

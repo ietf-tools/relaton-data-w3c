@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebarch
 title:
 - content: Architecture of the World Wide Web, Volume One
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: webarch
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

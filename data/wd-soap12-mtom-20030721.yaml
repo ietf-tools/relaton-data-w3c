@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-soap12-mtom-20030721
 title:
 - content: SOAP Message Transmission Optimization Mechanism
@@ -62,3 +63,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: XML Protocol Working Group
+ext:
+  schema-version: v1.0.0

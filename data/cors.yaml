@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccors
 title:
 - content: Cross-Origin Resource Sharing
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: cors
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

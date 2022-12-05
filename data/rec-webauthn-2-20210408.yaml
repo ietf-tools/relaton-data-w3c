@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-webauthn-2-20210408
 title:
 - content: 'Web Authentication: An API for accessing Public Key Credentials - Level
@@ -109,3 +110,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Authentication Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpatent-policy
 title:
 - content: |-
@@ -38,3 +39,5 @@ series:
     format: text/plain
   number: patent-policy
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

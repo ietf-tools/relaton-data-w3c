@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xml11schema10-20050511
 title:
 - content: Processing XML 1.1 documents with XML Schema 1.0 processors
@@ -39,3 +40,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Schema Working Group
+ext:
+  schema-version: v1.0.0

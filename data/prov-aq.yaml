@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cprov-aq
 title:
 - content: 'PROV-AQ: Provenance Access and Query'
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: prov-aq
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

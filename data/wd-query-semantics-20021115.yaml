@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-query-semantics-20021115
 title:
 - content: XQuery 1.0 and XPath 2.0 Formal Semantics
@@ -107,36 +108,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g593540
-    docid:
-    - id: W3C _:g593540
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g593540
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g593560
-    docid:
-    - id: W3C _:g593560
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g593560
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g593580
-    docid:
-    - id: W3C _:g593580
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g593580
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g593620
     docid:
     - id: W3C _:g593620
@@ -144,6 +115,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g593620
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g593640
+    docid:
+    - id: W3C _:g593640
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g593640
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -237,6 +218,26 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
+    id: W3C_-g594020
+    docid:
+    - id: W3C _:g594020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594020
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g594060
+    docid:
+    - id: W3C _:g594060
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g594060
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-query-semantics-20020816
     docid:
     - id: W3C WD-query-semantics-20020816
@@ -251,3 +252,5 @@ series:
     format: text/plain
   number: WD-query-semantics-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

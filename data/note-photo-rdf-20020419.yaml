@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-photo-rdf-20020419
 title:
 - content: Describing and retrieving photos using RDF and HTTP
@@ -47,3 +48,5 @@ series:
     format: text/plain
   number: NOTE-photo-rdf-20020419
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

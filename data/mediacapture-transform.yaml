@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmediacapture-transform
 title:
 - content: MediaStreamTrack Insertable Media Processing using Streams
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: mediacapture-transform
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

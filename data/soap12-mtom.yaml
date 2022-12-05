@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap12-mtom
 title:
 - content: SOAP Message Transmission Optimization Mechanism
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: soap12-mtom
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

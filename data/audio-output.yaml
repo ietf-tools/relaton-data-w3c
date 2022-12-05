@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Caudio-output
 title:
 - content: Audio Output Devices API
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: audio-output
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cverifiable-claims-data-model
 title:
 - content: Verifiable Claims Data Model and Representations
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: verifiable-claims-data-model
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

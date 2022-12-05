@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmlenc-core1
 title:
 - content: XML Encryption Syntax and Processing Version 1.1
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: xmlenc-core1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

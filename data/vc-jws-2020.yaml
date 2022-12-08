@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.1
-id: W3Cscroll-animations-1
+id: W3Cvc-jws-2020
 title:
-- content: Scroll-linked Animations
+- content: JSON Web Signature 2020
   format: text/plain
 link:
-- content: https://www.w3.org/TR/scroll-animations-1/
+- content: https://www.w3.org/TR/vc-jws-2020/
   type: src
 type: standard
 docid:
-- id: W3C scroll-animations-1
+- id: W3C vc-jws-2020
   type: W3C
   primary: true
-docnumber: scroll-animations-1
+docnumber: vc-jws-2020
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-scroll-animations-1-20221208
+    id: W3CWD-vc-jws-2020-20221208
     docid:
-    - id: W3C WD-scroll-animations-1-20221208
+    - id: W3C WD-vc-jws-2020-20221208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-scroll-animations-1-20221208
+      content: W3C WD-vc-jws-2020-20221208
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: scroll-animations-1
+  number: vc-jws-2020
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

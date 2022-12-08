@@ -5379,6 +5379,10 @@
   :file: data/ethical-web-principles.yaml
 - :code: ethical-web-principles
   :type: DNOTE
+  :date: '20221207'
+  :file: data/dnote-ethical-web-principles-20221207.yaml
+- :code: ethical-web-principles
+  :type: DNOTE
   :date: '20220512'
   :file: data/dnote-ethical-web-principles-20220512.yaml
 - :code: eu-conf
@@ -5845,8 +5849,8 @@
   :file: data/cr-generic-sensor-20180320.yaml
 - :code: generic-sensor
   :stage: CRD
-  :date: '20221123'
-  :file: data/crd-generic-sensor-20221123.yaml
+  :date: '20221208'
+  :file: data/crd-generic-sensor-20221208.yaml
 - :code: generic-sensor
   :stage: CRD
   :date: '20220502'
@@ -6266,8 +6270,8 @@
   :file: data/html-aam-1.0.yaml
 - :code: html-aam-1.0
   :stage: WD
-  :date: '20221128'
-  :file: data/wd-html-aam-1.0-20221128.yaml
+  :date: '20221208'
+  :file: data/wd-html-aam-1.0-20221208.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20220526'
@@ -7006,6 +7010,10 @@
   :file: data/wd-ilu-requestor-960307.yaml
 - :code: image-capture
   :file: data/image-capture.yaml
+- :code: image-capture
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-image-capture-20221208.yaml
 - :code: image-capture
   :stage: WD
   :date: '20210406'
@@ -11979,8 +11987,8 @@
   :file: data/scroll-animations-1.yaml
 - :code: scroll-animations-1
   :stage: WD
-  :date: '20221025'
-  :file: data/wd-scroll-animations-1-20221025.yaml
+  :date: '20221208'
+  :file: data/wd-scroll-animations-1-20221208.yaml
 - :code: scxml
   :file: data/scxml.yaml
 - :code: scxml
@@ -14382,6 +14390,13 @@
   :type: NOTE
   :date: '20190924'
   :file: data/note-vc-imp-guide-20190924.yaml
+- :code: vc-jws
+  :date: '2020'
+  :file: data/vc-jws-2020.yaml
+- :code: vc-jws-2020
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-vc-jws-2020-20221208.yaml
 - :code: vc-use-cases
   :file: data/vc-use-cases.yaml
 - :code: vc-use-cases
@@ -16028,8 +16043,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: WD
-  :date: '20221207'
-  :file: data/wd-webnn-20221207.yaml
+  :date: '20221208'
+  :file: data/wd-webnn-20221208.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -16130,8 +16145,8 @@
   :file: data/webrtc-encoded-transform.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
-  :date: '20221020'
-  :file: data/wd-webrtc-encoded-transform-20221020.yaml
+  :date: '20221208'
+  :file: data/wd-webrtc-encoded-transform-20221208.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
   :date: '20220519'
@@ -16479,8 +16494,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20221207'
-  :file: data/wd-wgsl-20221207.yaml
+  :date: '20221208'
+  :file: data/wd-wgsl-20221208.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

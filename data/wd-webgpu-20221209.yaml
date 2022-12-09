@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-gamepad-20221003
+id: W3CWD-webgpu-20221209
 title:
-- content: Gamepad
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-gamepad-20221003/
+- content: https://www.w3.org/TR/2022/WD-webgpu-20221209/
   type: src
-- content: https://w3c.github.io/gamepad/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-gamepad-20221003
+- id: W3C WD-webgpu-20221209
   type: W3C
   primary: true
-docnumber: WD-gamepad-20221003
+docnumber: WD-webgpu-20221209
 date:
 - type: published
-  value: '2022-10-03'
+  value: '2022-12-09'
 contributor:
 - person:
     name:
       completename:
-        content: James Hollyer
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Matthew Reynolds
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Agoston
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-10-03'
+revdate: '2022-12-09'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-gamepad-20220630
+    id: W3CWD-webgpu-20221208
     docid:
-    - id: W3C WD-gamepad-20220630
+    - id: W3C WD-webgpu-20221208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20220630
+      content: W3C WD-webgpu-20221208
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-gamepad-20221003
+  number: WD-webgpu-20221209
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

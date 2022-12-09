@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-secure-payment-confirmation-20221123
+id: W3CWD-permissions-20221209
 title:
-- content: Secure Payment Confirmation
+- content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20221123/
+- content: https://www.w3.org/TR/2022/WD-permissions-20221209/
   type: src
-- content: https://w3c.github.io/secure-payment-confirmation/
+- content: https://w3c.github.io/permissions/
   type: current
 type: standard
 docid:
-- id: W3C WD-secure-payment-confirmation-20221123
+- id: W3C WD-permissions-20221209
   type: W3C
   primary: true
-docnumber: WD-secure-payment-confirmation-20221123
+docnumber: WD-permissions-20221209
 date:
 - type: published
-  value: '2022-11-23'
+  value: '2022-12-09'
 contributor:
 - person:
     name:
       completename:
-        content: Rouslan Solomakhin
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Stephen McGruer
+        content: Mike Taylor
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-11-23'
+revdate: '2022-12-09'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-secure-payment-confirmation-20220927
+    id: W3CWD-permissions-20221019
     docid:
-    - id: W3C WD-secure-payment-confirmation-20220927
+    - id: W3C WD-permissions-20221019
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-secure-payment-confirmation-20220927
+      content: W3C WD-permissions-20221019
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-secure-payment-confirmation-20221123
+  number: WD-permissions-20221209
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

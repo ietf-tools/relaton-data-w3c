@@ -1,41 +1,38 @@
 ---
 schema-version: v1.2.1
-id: W3Crdf-canon
+id: W3Caac-registry
 title:
-- content: RDF Dataset Canonicalization
+- content: W3C Alternative and Augmented Communication (AAC) Symbol Registry
   format: text/plain
 link:
-- content: https://www.w3.org/TR/rdf-canon/
+- content: https://www.w3.org/TR/aac-registry/
   type: src
 type: standard
 docid:
-- id: W3C rdf-canon
+- id: W3C aac-registry
   type: W3C
   primary: true
-docnumber: rdf-canon
+docnumber: aac-registry
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-rdf-canon-20221212
+    id: W3CDRY-aac-registry-20221213
     docid:
-    - id: W3C WD-rdf-canon-20221212
+    - id: W3C DRY-aac-registry-20221213
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20221212
+      content: W3C DRY-aac-registry-20221213
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
-  number: rdf-canon
+  number: aac-registry
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

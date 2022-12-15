@@ -9646,8 +9646,8 @@
   :file: data/payment-handler.yaml
 - :code: payment-handler
   :stage: WD
-  :date: '20220912'
-  :file: data/wd-payment-handler-20220912.yaml
+  :date: '20221214'
+  :file: data/wd-payment-handler-20221214.yaml
 - :code: payment-handler
   :stage: WD
   :date: '20211004'
@@ -10352,6 +10352,10 @@
   :file: data/wd-print-19990902.yaml
 - :code: privacy-principles
   :file: data/privacy-principles.yaml
+- :code: privacy-principles
+  :type: DNOTE
+  :date: '20221214'
+  :file: data/dnote-privacy-principles-20221214.yaml
 - :code: privacy-principles
   :type: DNOTE
   :date: '20220512'
@@ -15443,13 +15447,13 @@
 - :code: web-share
   :file: data/web-share.yaml
 - :code: web-share
+  :stage: PR
+  :date: '20221215'
+  :file: data/pr-web-share-20221215.yaml
+- :code: web-share
   :stage: CR
   :date: '20220830'
   :file: data/cr-web-share-20220830.yaml
-- :code: web-share
-  :stage: CRD
-  :date: '20221212'
-  :file: data/crd-web-share-20221212.yaml
 - :code: web-share
   :stage: WD
   :date: '20220530'

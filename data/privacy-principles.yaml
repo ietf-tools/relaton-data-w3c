@@ -20,6 +20,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDNOTE-privacy-principles-20221214
+    docid:
+    - id: W3C DNOTE-privacy-principles-20221214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-privacy-principles-20221214
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-privacy-principles-20220512
     docid:
     - id: W3C DNOTE-privacy-principles-20220512

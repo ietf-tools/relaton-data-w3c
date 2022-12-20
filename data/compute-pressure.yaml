@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Ccompute-pressure
+title:
+- content: Compute Pressure Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/compute-pressure/
+  type: src
+type: standard
+docid:
+- id: W3C compute-pressure
+  type: W3C
+  primary: true
+docnumber: compute-pressure
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-compute-pressure-20221220
+    docid:
+    - id: W3C WD-compute-pressure-20221220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-compute-pressure-20221220
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: compute-pressure
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

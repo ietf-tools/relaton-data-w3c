@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Ccontact-picker-1
+title:
+- content: Contact Picker API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/contact-picker-1/
+  type: src
+type: standard
+docid:
+- id: W3C contact-picker-1
+  type: W3C
+  primary: true
+docnumber: contact-picker-1
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-contact-picker-1-20221220
+    docid:
+    - id: W3C WD-contact-picker-1-20221220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-contact-picker-1-20221220
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: contact-picker-1
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

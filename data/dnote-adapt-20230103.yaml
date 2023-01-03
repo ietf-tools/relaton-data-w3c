@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-adapt-20220609
+id: W3CDNOTE-adapt-20230103
 title:
 - content: WAI-Adapt Explainer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-adapt-20220609/
+- content: https://www.w3.org/TR/2023/DNOTE-adapt-20230103/
   type: src
-- content: https://w3c.github.io/personalization-semantics/
+- content: https://w3c.github.io/adapt/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-adapt-20220609
+- id: W3C DNOTE-adapt-20230103
   type: W3C
   primary: true
-docnumber: DNOTE-adapt-20220609
+docnumber: DNOTE-adapt-20230103
 date:
 - type: published
-  value: '2022-06-09'
+  value: '2023-01-03'
 contributor:
 - person:
     name:
@@ -79,7 +79,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-06-09'
+revdate: '2023-01-03'
 language:
 - en
 script:
@@ -87,19 +87,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-personalization-semantics-1.0-20210812
+    id: W3CDNOTE-adapt-20220609
     docid:
-    - id: W3C WD-personalization-semantics-1.0-20210812
+    - id: W3C DNOTE-adapt-20220609
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-personalization-semantics-1.0-20210812
+      content: W3C DNOTE-adapt-20220609
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-adapt-20220609
+  number: DNOTE-adapt-20230103
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

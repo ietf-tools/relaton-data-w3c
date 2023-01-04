@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CWD-WGSL-20230103
+title:
+- content: WebGPU Shading Language
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230103/
+  type: src
+- content: https://gpuweb.github.io/gpuweb/wgsl/
+  type: current
+type: standard
+docid:
+- id: W3C WD-WGSL-20230103
+  type: W3C
+  primary: true
+docnumber: WD-WGSL-20230103
+date:
+- type: published
+  value: '2023-01-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alan Baker
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: David Neto
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-WGSL-20221223
+    docid:
+    - id: W3C WD-WGSL-20221223
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WGSL-20221223
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-WGSL-20230103
+doctype: technicalReport
+editorialgroup:
+- name: GPU for the Web Working Group
+ext:
+  schema-version: v1.0.0

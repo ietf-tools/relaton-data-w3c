@@ -245,12 +245,6 @@
   :type: DNOTE
   :date: '20230103'
   :file: data/dnote-adapt-20230103.yaml
-- :code: adapt-content
-  :file: data/adapt-content.yaml
-- :code: adapt-content
-  :stage: WD
-  :date: '20220609'
-  :file: data/wd-adapt-content-20220609.yaml
 - :code: adapt-help
   :file: data/adapt-help.yaml
 - :code: adapt-help
@@ -263,6 +257,12 @@
   :type: DNOTE
   :date: '20220609'
   :file: data/dnote-adapt-requirements-20220609.yaml
+- :code: adapt-symbols
+  :file: data/adapt-symbols.yaml
+- :code: adapt-symbols
+  :stage: CR
+  :date: '20230105'
+  :file: data/cr-adapt-symbols-20230105.yaml
 - :code: adapt-tools
   :file: data/adapt-tools.yaml
 - :code: adapt-tools
@@ -15453,6 +15453,12 @@
   :stage: WD
   :date: '20120626'
   :file: data/wd-web-intents-20120626.yaml
+- :code: web-locks
+  :file: data/web-locks.yaml
+- :code: web-locks
+  :stage: WD
+  :date: '20230105'
+  :file: data/wd-web-locks-20230105.yaml
 - :code: web-packaging
   :file: data/web-packaging.yaml
 - :code: web-packaging
@@ -15949,8 +15955,8 @@
   :file: data/webdriver2.yaml
 - :code: webdriver2
   :stage: WD
-  :date: '20221216'
-  :file: data/wd-webdriver2-20221216.yaml
+  :date: '20230105'
+  :file: data/wd-webdriver2-20230105.yaml
 - :code: webdriver2
   :stage: WD
   :date: '20220525'
@@ -16540,8 +16546,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230103'
-  :file: data/wd-wgsl-20230103.yaml
+  :date: '20230104'
+  :file: data/wd-wgsl-20230104.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

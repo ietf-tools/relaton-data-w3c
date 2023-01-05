@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.1
+id: W3CWD-web-locks-20230105
+title:
+- content: Web Locks API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-web-locks-20230105/
+  type: src
+- content: https://w3c.github.io/web-locks/
+  type: current
+type: standard
+docid:
+- id: W3C WD-web-locks-20230105
+  type: W3C
+  primary: true
+docnumber: WD-web-locks-20230105
+date:
+- type: published
+  value: '2023-01-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joshua Bell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Kagami Rosylight
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-web-locks-20230105
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

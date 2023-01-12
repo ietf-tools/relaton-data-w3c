@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-epub-rs-33-20230111
+id: W3CWD-payment-handler-20230111
 title:
-- content: EPUB Reading Systems 3.3
+- content: Payment Handler API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-epub-rs-33-20230111/
+- content: https://www.w3.org/TR/2023/WD-payment-handler-20230111/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/rs/
+- content: https://w3c.github.io/payment-handler/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-rs-33-20230111
+- id: W3C WD-payment-handler-20230111
   type: W3C
   primary: true
-docnumber: CRD-epub-rs-33-20230111
+docnumber: WD-payment-handler-20230111
 date:
 - type: published
   value: '2023-01-11'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Adrian Hope-Bailie
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Ian Jacobs
         language:
         - en
         script:
@@ -42,7 +42,17 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Jinho Bang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
         language:
         - en
         script:
@@ -56,25 +66,25 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-rs-33-20230109
+    id: W3CWD-payment-handler-20221214
     docid:
-    - id: W3C CRD-epub-rs-33-20230109
+    - id: W3C WD-payment-handler-20221214
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-rs-33-20230109
+      content: W3C WD-payment-handler-20221214
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-rs-33-20230111
+  number: WD-payment-handler-20230111
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Payments Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webdriver2-20230106
+id: W3CWD-CSP3-20230113
 title:
-- content: WebDriver
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webdriver2-20230106/
+- content: https://www.w3.org/TR/2023/WD-CSP3-20230113/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20230106
+- id: W3C WD-CSP3-20230113
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20230106
+docnumber: WD-CSP3-20230113
 date:
 - type: published
-  value: '2023-01-06'
+  value: '2023-01-13'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-06'
+revdate: '2023-01-13'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20230105
+    id: W3CWD-CSP3-20230110
     docid:
-    - id: W3C WD-webdriver2-20230105
+    - id: W3C WD-CSP3-20230110
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20230105
+      content: W3C WD-CSP3-20230110
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver2-20230106
+  number: WD-CSP3-20230113
 doctype: technicalReport
 editorialgroup:
-- name: Browser Testing and Tools Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

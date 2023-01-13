@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230111
+id: W3CWD-webdriver2-20230113
 title:
-- content: WebGPU Shading Language
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230111/
+- content: https://www.w3.org/TR/2023/WD-webdriver2-20230113/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230111
+- id: W3C WD-webdriver2-20230113
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230111
+docnumber: WD-webdriver2-20230113
 date:
 - type: published
-  value: '2023-01-11'
+  value: '2023-01-13'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: David Burns
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-01-11'
+revdate: '2023-01-13'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230106
+    id: W3CWD-webdriver2-20230106
     docid:
-    - id: W3C WD-WGSL-20230106
+    - id: W3C WD-webdriver2-20230106
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230106
+      content: W3C WD-webdriver2-20230106
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20230111
+  number: WD-webdriver2-20230113
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

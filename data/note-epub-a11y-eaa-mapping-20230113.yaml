@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-epub-33-20230112
+id: W3CNOTE-epub-a11y-eaa-mapping-20230113
 title:
-- content: EPUB 3.3
+- content: EPUB Accessibility - EU Accessibility Act Mapping
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-epub-33-20230112/
+- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230113/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/core/
+- content: https://w3c.github.io/epub-specs/epub33/epub-a11y-eaa-mapping/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-33-20230112
+- id: W3C NOTE-epub-a11y-eaa-mapping-20230113
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20230112
+docnumber: NOTE-epub-a11y-eaa-mapping-20230113
 date:
 - type: published
-  value: '2023-01-12'
+  value: '2023-01-13'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Cristina Mussinelli
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Gregorio Pellegrino
         language:
         - en
         script:
@@ -42,38 +42,35 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Luc Audrain
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-12'
+revdate: '2023-01-13'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20230109
+    id: W3CNOTE-epub-a11y-eaa-mapping-20220810
     docid:
-    - id: W3C CRD-epub-33-20230109
+    - id: W3C NOTE-epub-a11y-eaa-mapping-20220810
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20230109
+      content: W3C NOTE-epub-a11y-eaa-mapping-20220810
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-epub-33-20230112
-doctype: technicalReport
+  number: NOTE-epub-a11y-eaa-mapping-20230113
+doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group
 ext:

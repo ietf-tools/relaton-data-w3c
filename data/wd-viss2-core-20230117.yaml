@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-epub-rs-33-20230113
+id: W3CWD-viss2-core-20230117
 title:
-- content: EPUB Reading Systems 3.3
+- content: VISS version 2 - Core
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-epub-rs-33-20230113/
+- content: https://www.w3.org/TR/2023/WD-viss2-core-20230117/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/rs/
+- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Core.html
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-rs-33-20230113
+- id: W3C WD-viss2-core-20230117
   type: W3C
   primary: true
-docnumber: CRD-epub-rs-33-20230113
+docnumber: WD-viss2-core-20230117
 date:
 - type: published
-  value: '2023-01-13'
+  value: '2023-01-17'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Isaac Agudo
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Ulf Bjorkengren
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Wonsuk Lee
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-13'
+revdate: '2023-01-17'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-rs-33-20230112
+    id: W3CWD-viss2-core-20221129
     docid:
-    - id: W3C CRD-epub-rs-33-20230112
+    - id: W3C WD-viss2-core-20221129
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-rs-33-20230112
+      content: W3C WD-viss2-core-20221129
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-rs-33-20230113
+  number: WD-viss2-core-20230117
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Automotive Working Group
 ext:
   schema-version: v1.0.0

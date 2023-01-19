@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webdriver2-20230113
+id: W3CCRD-epub-33-20230119
 title:
-- content: WebDriver
+- content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webdriver2-20230113/
+- content: https://www.w3.org/TR/2023/CRD-epub-33-20230119/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://w3c.github.io/epub-specs/epub33/core/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20230113
+- id: W3C CRD-epub-33-20230119
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20230113
+docnumber: CRD-epub-33-20230119
 date:
 - type: published
-  value: '2023-01-13'
+  value: '2023-01-19'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Dave Cramer
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Ivan Herman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-13'
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20230106
+    id: W3CCRD-epub-33-20230117
     docid:
-    - id: W3C WD-webdriver2-20230106
+    - id: W3C CRD-epub-33-20230117
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20230106
+      content: W3C CRD-epub-33-20230117
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webdriver2-20230113
+  number: CRD-epub-33-20230119
 doctype: technicalReport
 editorialgroup:
-- name: Browser Testing and Tools Working Group
+- name: EPUB 3 Working Group
 ext:
   schema-version: v1.0.0

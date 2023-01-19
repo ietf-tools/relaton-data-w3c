@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-wot-discovery-20220810
+    id: W3CCR-wot-discovery-20230119
     docid:
-    - id: W3C WD-wot-discovery-20220810
+    - id: W3C CR-wot-discovery-20230119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wot-discovery-20220810
+      content: W3C CR-wot-discovery-20230119
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +53,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: wot-discovery
 doctype: technicalReport

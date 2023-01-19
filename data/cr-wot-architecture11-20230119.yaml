@@ -1,48 +1,38 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-wot-discovery-20220810
+id: W3CCR-wot-architecture11-20230119
 title:
-- content: Web of Things (WoT) Discovery
+- content: Web of Things (WoT) Architecture 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-wot-discovery-20220810/
+- content: https://www.w3.org/TR/2023/CR-wot-architecture11-20230119/
   type: src
-- content: https://w3c.github.io/wot-discovery/
+- content: https://w3c.github.io/wot-architecture/
   type: current
 type: standard
 docid:
-- id: W3C WD-wot-discovery-20220810
+- id: W3C CR-wot-architecture11-20230119
   type: W3C
   primary: true
-docnumber: WD-wot-discovery-20220810
+docnumber: CR-wot-architecture11-20230119
 date:
 - type: published
-  value: '2022-08-10'
+  value: '2023-01-19'
 contributor:
 - person:
     name:
       completename:
-        content: Andrea Cimmino
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Farshid Tavakolizadeh
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
         content: Kunihiko Toumura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Lagally
         language:
         - en
         script:
@@ -59,30 +49,40 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-08-10'
+- person:
+    name:
+      completename:
+        content: Ryuichi Matsukura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wot-discovery-20210602
+    id: W3CWD-wot-architecture11-20220907
     docid:
-    - id: W3C WD-wot-discovery-20210602
+    - id: W3C WD-wot-architecture11-20220907
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wot-discovery-20210602
+      content: W3C WD-wot-architecture11-20220907
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-wot-discovery-20220810
+  number: CR-wot-architecture11-20230119
 doctype: technicalReport
 editorialgroup:
 - name: Web of Things Working Group

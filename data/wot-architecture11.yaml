@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-wot-architecture11-20220907
+    id: W3CCR-wot-architecture11-20230119
     docid:
-    - id: W3C WD-wot-architecture11-20220907
+    - id: W3C CR-wot-architecture11-20230119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wot-architecture11-20220907
+      content: W3C CR-wot-architecture11-20230119
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -43,7 +43,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: wot-architecture11
 doctype: technicalReport

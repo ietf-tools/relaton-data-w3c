@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-presentation-api-20220602
+id: W3CWD-contact-picker-1-20230120
 title:
-- content: Presentation API
+- content: Contact Picker API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CRD-presentation-api-20220602/
+- content: https://www.w3.org/TR/2023/WD-contact-picker-1-20230120/
   type: src
-- content: https://w3c.github.io/presentation-api/
+- content: https://w3c.github.io/contact-picker/
   type: current
 type: standard
 docid:
-- id: W3C CRD-presentation-api-20220602
+- id: W3C WD-contact-picker-1-20230120
   type: W3C
   primary: true
-docnumber: CRD-presentation-api-20220602
+docnumber: WD-contact-picker-1-20230120
 date:
 - type: published
-  value: '2022-06-02'
+  value: '2023-01-20'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Röttsches
+        content: Peter Beverloo
         language:
         - en
         script:
@@ -32,39 +32,40 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Rayan Kanso
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-06-02'
+revdate: '2023-01-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-presentation-api-20220422
+    id: W3CWD-contact-picker-1-20221220
     docid:
-    - id: W3C CRD-presentation-api-20220422
+    - id: W3C WD-contact-picker-1-20221220
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20220422
+      content: W3C WD-contact-picker-1-20221220
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-presentation-api-20220602
+  number: WD-contact-picker-1-20230120
 doctype: technicalReport
 editorialgroup:
-- name: Second Screen Working Group
+- name: Devices and Sensors Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-payment-handler-20230111
+id: W3CCRD-webrtc-stats-20230125
 title:
-- content: Payment Handler API
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-payment-handler-20230111/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230125/
   type: src
-- content: https://w3c.github.io/payment-handler/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-payment-handler-20230111
+- id: W3C CRD-webrtc-stats-20230125
   type: W3C
   primary: true
-docnumber: WD-payment-handler-20230111
+docnumber: CRD-webrtc-stats-20230125
 date:
 - type: published
-  value: '2023-01-11'
+  value: '2023-01-25'
 contributor:
 - person:
     name:
       completename:
-        content: Adrian Hope-Bailie
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Jacobs
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,49 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Jinho Bang
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Rouslan Solomakhin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-01-11'
+revdate: '2023-01-25'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-payment-handler-20221214
+    id: W3CCRD-webrtc-stats-20230110
     docid:
-    - id: W3C WD-payment-handler-20221214
+    - id: W3C CRD-webrtc-stats-20230110
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-payment-handler-20221214
+      content: W3C CRD-webrtc-stats-20230110
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-payment-handler-20230111
+  number: CRD-webrtc-stats-20230125
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

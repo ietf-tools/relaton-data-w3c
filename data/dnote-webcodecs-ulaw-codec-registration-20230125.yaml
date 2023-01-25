@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webcodecs-20230104
+id: W3CDNOTE-webcodecs-ulaw-codec-registration-20230125
 title:
-- content: WebCodecs
+- content: u-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20230104/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-ulaw-codec-registration-20230125/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/webcodecs/ulaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20230104
+- id: W3C DNOTE-webcodecs-ulaw-codec-registration-20230125
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20230104
+docnumber: DNOTE-webcodecs-ulaw-codec-registration-20230125
 date:
 - type: published
-  value: '2023-01-04'
+  value: '2023-01-25'
 contributor:
 - person:
     name:
@@ -39,31 +39,28 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-04'
+revdate: '2023-01-25'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20221212
+    id: W3CDNOTE-webcodecs-ulaw-codec-registration-20230124
     docid:
-    - id: W3C WD-webcodecs-20221212
+    - id: W3C DNOTE-webcodecs-ulaw-codec-registration-20230124
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20221212
+      content: W3C DNOTE-webcodecs-ulaw-codec-registration-20230124
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webcodecs-20230104
-doctype: technicalReport
+  number: DNOTE-webcodecs-ulaw-codec-registration-20230125
+doctype: groupNote
 editorialgroup:
 - name: Media Working Group
 ext:

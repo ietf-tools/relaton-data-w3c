@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webxrlayers-1-20220922
+id: W3CWD-webrtc-svc-20230126
 title:
-- content: WebXR Layers API Level 1
+- content: Scalable Video Coding (SVC) Extension for WebRTC
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-webxrlayers-1-20220922/
+- content: https://www.w3.org/TR/2023/WD-webrtc-svc-20230126/
   type: src
-- content: https://immersive-web.github.io/layers/
+- content: https://w3c.github.io/webrtc-svc/
   type: current
 type: standard
 docid:
-- id: W3C WD-webxrlayers-1-20220922
+- id: W3C WD-webrtc-svc-20230126
   type: W3C
   primary: true
-docnumber: WD-webxrlayers-1-20220922
+docnumber: WD-webrtc-svc-20230126
 date:
 - type: published
-  value: '2022-09-22'
+  value: '2023-01-26'
 contributor:
 - person:
     name:
       completename:
-        content: Rik Cabanier
+        content: Bernard Aboba
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-22'
+revdate: '2023-01-26'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webxrlayers-1-20220921
+    id: W3CWD-webrtc-svc-20230125
     docid:
-    - id: W3C WD-webxrlayers-1-20220921
+    - id: W3C WD-webrtc-svc-20230125
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webxrlayers-1-20220921
+      content: W3C WD-webrtc-svc-20230125
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxrlayers-1-20220922
+  number: WD-webrtc-svc-20230126
 doctype: technicalReport
 editorialgroup:
-- name: Immersive Web Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-contact-picker-1-20230120
+id: W3CWD-contact-picker-20230126
 title:
 - content: Contact Picker API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-contact-picker-1-20230120/
+- content: https://www.w3.org/TR/2023/WD-contact-picker-20230126/
   type: src
 - content: https://w3c.github.io/contact-picker/
   type: current
 type: standard
 docid:
-- id: W3C WD-contact-picker-1-20230120
+- id: W3C WD-contact-picker-20230126
   type: W3C
   primary: true
-docnumber: WD-contact-picker-1-20230120
+docnumber: WD-contact-picker-20230126
 date:
 - type: published
-  value: '2023-01-20'
+  value: '2023-01-26'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-20'
+revdate: '2023-01-26'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-contact-picker-1-20221220
+    id: W3CWD-contact-picker-1-20230120
     docid:
-    - id: W3C WD-contact-picker-1-20221220
+    - id: W3C WD-contact-picker-1-20230120
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-contact-picker-1-20221220
+      content: W3C WD-contact-picker-1-20230120
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-contact-picker-1-20230120
+  number: WD-contact-picker-20230126
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

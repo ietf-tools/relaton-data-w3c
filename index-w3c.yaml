@@ -1352,12 +1352,12 @@
   :stage: WD
   :date: '20230124'
   :file: data/wd-compute-pressure-20230124.yaml
-- :code: contact-picker-1
-  :file: data/contact-picker-1.yaml
-- :code: contact-picker-1
+- :code: contact-picker
+  :file: data/contact-picker.yaml
+- :code: contact-picker
   :stage: WD
-  :date: '20230120'
-  :file: data/wd-contact-picker-1-20230120.yaml
+  :date: '20230126'
+  :file: data/wd-contact-picker-20230126.yaml
 - :code: contacts-api
   :file: data/contacts-api.yaml
 - :code: contacts-api
@@ -9686,8 +9686,8 @@
   :file: data/payment-handler.yaml
 - :code: payment-handler
   :stage: WD
-  :date: '20230124'
-  :file: data/wd-payment-handler-20230124.yaml
+  :date: '20230125'
+  :file: data/wd-payment-handler-20230125.yaml
 - :code: payment-handler
   :stage: WD
   :date: '20211004'
@@ -10931,8 +10931,8 @@
   :file: data/rdf-canon.yaml
 - :code: rdf-canon
   :stage: WD
-  :date: '20230123'
-  :file: data/wd-rdf-canon-20230123.yaml
+  :date: '20230125'
+  :file: data/wd-rdf-canon-20230125.yaml
 - :code: rdf-concepts
   :file: data/rdf-concepts.yaml
 - :code: rdf-concepts
@@ -15378,9 +15378,9 @@
 - :code: WCAG22
   :file: data/wcag22.yaml
 - :code: WCAG22
-  :stage: CR
-  :date: '20220906'
-  :file: data/cr-wcag22-20220906.yaml
+  :stage: CRD
+  :date: '20230125'
+  :file: data/crd-wcag22-20230125.yaml
 - :code: WCAG22
   :stage: WD
   :date: '20210521'
@@ -16283,8 +16283,8 @@
   :file: data/webrtc-svc.yaml
 - :code: webrtc-svc
   :stage: WD
-  :date: '20230125'
-  :file: data/wd-webrtc-svc-20230125.yaml
+  :date: '20230126'
+  :file: data/wd-webrtc-svc-20230126.yaml
 - :code: webrtc-svc
   :stage: WD
   :date: '20220303'
@@ -16532,8 +16532,8 @@
   :file: data/webxrlayers-1.yaml
 - :code: webxrlayers-1
   :stage: WD
-  :date: '20220922'
-  :file: data/wd-webxrlayers-1-20220922.yaml
+  :date: '20230125'
+  :file: data/wd-webxrlayers-1-20230125.yaml
 - :code: webxrlayers-1
   :stage: WD
   :date: '20220426'

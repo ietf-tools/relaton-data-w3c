@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CCR-WCAG22-20220906
+id: W3CCRD-WCAG22-20230125
 title:
 - content: Web Content Accessibility Guidelines (WCAG) 2.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CR-WCAG22-20220906/
+- content: https://www.w3.org/TR/2023/CRD-WCAG22-20230125/
   type: src
 - content: https://w3c.github.io/wcag/guidelines/22/
   type: current
 type: standard
 docid:
-- id: W3C CR-WCAG22-20220906
+- id: W3C CRD-WCAG22-20230125
   type: W3C
   primary: true
-docnumber: CR-WCAG22-20220906
+docnumber: CRD-WCAG22-20230125
 date:
 - type: published
-  value: '2022-09-06'
+  value: '2023-01-25'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-06'
+revdate: '2023-01-25'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WCAG22-20210521
+    id: W3CCR-WCAG22-20220906
     docid:
-    - id: W3C WD-WCAG22-20210521
+    - id: W3C CR-WCAG22-20220906
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WCAG22-20210521
+      content: W3C CR-WCAG22-20220906
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-WCAG22-20220906
+  number: CRD-WCAG22-20230125
 doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group

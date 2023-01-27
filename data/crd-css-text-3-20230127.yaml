@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230125
+id: W3CCRD-css-text-3-20230127
 title:
-- content: WebGPU Shading Language
+- content: CSS Text Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230125/
+- content: https://www.w3.org/TR/2023/CRD-css-text-3-20230127/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://drafts.csswg.org/css-text-3/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230125
+- id: W3C CRD-css-text-3-20230127
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230125
+docnumber: CRD-css-text-3-20230127
 date:
 - type: published
-  value: '2023-01-25'
+  value: '2023-01-27'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Florian Rivoal
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Koji Ishii
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-25'
+revdate: '2023-01-27'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230123
+    id: W3CCRD-css-text-3-20220505
     docid:
-    - id: W3C WD-WGSL-20230123
+    - id: W3C CRD-css-text-3-20220505
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230123
+      content: W3C CRD-css-text-3-20220505
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20230125
+  number: CRD-css-text-3-20230127
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

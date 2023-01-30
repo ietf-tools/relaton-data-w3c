@@ -78,8 +78,8 @@
   :file: data/cr-accelerometer-20180320.yaml
 - :code: accelerometer
   :stage: CRD
-  :date: '20221018'
-  :file: data/crd-accelerometer-20221018.yaml
+  :date: '20230130'
+  :file: data/crd-accelerometer-20230130.yaml
 - :code: accelerometer
   :stage: CRD
   :date: '20211208'
@@ -343,8 +343,8 @@
   :file: data/cr-ambient-light-20131001.yaml
 - :code: ambient-light
   :stage: WD
-  :date: '20221018'
-  :file: data/wd-ambient-light-20221018.yaml
+  :date: '20230130'
+  :file: data/wd-ambient-light-20230130.yaml
 - :code: ambient-light
   :stage: WD
   :date: '20220527'
@@ -6135,6 +6135,10 @@
   :file: data/cr-gyroscope-20180320.yaml
 - :code: gyroscope
   :stage: CRD
+  :date: '20230130'
+  :file: data/crd-gyroscope-20230130.yaml
+- :code: gyroscope
+  :stage: CRD
   :date: '20211207'
   :file: data/crd-gyroscope-20211207.yaml
 - :code: gyroscope
@@ -7885,6 +7889,10 @@
   :file: data/cr-magnetometer-20180320.yaml
 - :code: magnetometer
   :stage: WD
+  :date: '20230130'
+  :file: data/wd-magnetometer-20230130.yaml
+- :code: magnetometer
+  :stage: WD
   :date: '20211207'
   :file: data/wd-magnetometer-20211207.yaml
 - :code: magnetometer
@@ -9210,8 +9218,8 @@
   :file: data/cr-orientation-event-20160818.yaml
 - :code: orientation-event
   :stage: WD
-  :date: '20230109'
-  :file: data/wd-orientation-event-20230109.yaml
+  :date: '20230130'
+  :file: data/wd-orientation-event-20230130.yaml
 - :code: orientation-event
   :stage: WD
   :date: '20190416'
@@ -10630,6 +10638,10 @@
   :stage: CR
   :date: '20131001'
   :file: data/cr-proximity-20131001.yaml
+- :code: proximity
+  :stage: WD
+  :date: '20230130'
+  :file: data/wd-proximity-20230130.yaml
 - :code: proximity
   :stage: WD
   :date: '20210903'

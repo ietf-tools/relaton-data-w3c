@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-webcodecs-hevc-codec-registration-20230125
+id: W3CWD-webcodecs-20230130
 title:
-- content: HEVC (H.265) WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230125/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230130/
   type: src
-- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-hevc-codec-registration-20230125
+- id: W3C WD-webcodecs-20230130
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-hevc-codec-registration-20230125
+docnumber: WD-webcodecs-20230130
 date:
 - type: published
-  value: '2023-01-25'
+  value: '2023-01-30'
 contributor:
 - person:
     name:
@@ -39,28 +39,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-25'
+revdate: '2023-01-30'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-hevc-codec-registration-20230124
+    id: W3CWD-webcodecs-20230125
     docid:
-    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20230124
+    - id: W3C WD-webcodecs-20230125
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-hevc-codec-registration-20230124
+      content: W3C WD-webcodecs-20230125
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-hevc-codec-registration-20230125
-doctype: groupNote
+  number: WD-webcodecs-20230130
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group
 ext:

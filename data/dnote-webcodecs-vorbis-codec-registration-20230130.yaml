@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-webcodecs-opus-codec-registration-20230125
+id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230130
 title:
-- content: Opus WebCodecs Registration
+- content: Vorbis WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-opus-codec-registration-20230125/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vorbis-codec-registration-20230130/
   type: src
-- content: https://w3c.github.io/webcodecs/opus_codec_registration.html
+- content: https://w3c.github.io/webcodecs/vorbis_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-opus-codec-registration-20230125
+- id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230130
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-opus-codec-registration-20230125
+docnumber: DNOTE-webcodecs-vorbis-codec-registration-20230130
 date:
 - type: published
-  value: '2023-01-25'
+  value: '2023-01-30'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-25'
+revdate: '2023-01-30'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-opus-codec-registration-20230124
+    id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230125
     docid:
-    - id: W3C DNOTE-webcodecs-opus-codec-registration-20230124
+    - id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230125
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-opus-codec-registration-20230124
+      content: W3C DNOTE-webcodecs-vorbis-codec-registration-20230125
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-opus-codec-registration-20230125
+  number: DNOTE-webcodecs-vorbis-codec-registration-20230130
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-webcodecs-flac-codec-registration-20230130
+id: W3CDNOTE-webcodecs-alaw-codec-registration-20230201
 title:
-- content: FLAC WebCodecs Registration
+- content: A-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-flac-codec-registration-20230130/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-alaw-codec-registration-20230201/
   type: src
-- content: https://w3c.github.io/webcodecs/flac_codec_registration.html
+- content: https://w3c.github.io/webcodecs/alaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-flac-codec-registration-20230130
+- id: W3C DNOTE-webcodecs-alaw-codec-registration-20230201
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-flac-codec-registration-20230130
+docnumber: DNOTE-webcodecs-alaw-codec-registration-20230201
 date:
 - type: published
-  value: '2023-01-30'
+  value: '2023-02-01'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-30'
+revdate: '2023-02-01'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-flac-codec-registration-20230125
+    id: W3CDNOTE-webcodecs-alaw-codec-registration-20230130
     docid:
-    - id: W3C DNOTE-webcodecs-flac-codec-registration-20230125
+    - id: W3C DNOTE-webcodecs-alaw-codec-registration-20230130
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-flac-codec-registration-20230125
+      content: W3C DNOTE-webcodecs-alaw-codec-registration-20230130
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-flac-codec-registration-20230130
+  number: DNOTE-webcodecs-alaw-codec-registration-20230201
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

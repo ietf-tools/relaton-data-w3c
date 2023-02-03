@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-epub-33-20230119
+id: W3CWD-webgpu-20230202
 title:
-- content: EPUB 3.3
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-epub-33-20230119/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230202/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/core/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-33-20230119
+- id: W3C WD-webgpu-20230202
   type: W3C
   primary: true
-docnumber: CRD-epub-33-20230119
+docnumber: WD-webgpu-20230202
 date:
 - type: published
-  value: '2023-01-19'
+  value: '2023-02-02'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Cramer
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-19'
+revdate: '2023-02-02'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-33-20230117
+    id: W3CWD-webgpu-20230118
     docid:
-    - id: W3C CRD-epub-33-20230117
+    - id: W3C WD-webgpu-20230118
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-33-20230117
+      content: W3C WD-webgpu-20230118
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-epub-33-20230119
+  number: WD-webgpu-20230202
 doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

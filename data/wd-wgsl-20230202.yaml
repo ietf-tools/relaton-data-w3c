@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-rdf-canon-20230125
+id: W3CWD-WGSL-20230202
 title:
-- content: RDF Dataset Canonicalization
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230125/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230202/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230125
+- id: W3C WD-WGSL-20230202
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230125
+docnumber: WD-WGSL-20230202
 date:
 - type: published
-  value: '2023-01-25'
+  value: '2023-02-02'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-25'
+revdate: '2023-02-02'
 language:
 - en
 script:
@@ -60,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230123
+    id: W3CWD-WGSL-20230201
     docid:
-    - id: W3C WD-rdf-canon-20230123
+    - id: W3C WD-WGSL-20230201
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230123
+      content: W3C WD-WGSL-20230201
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf-canon-20230125
+  number: WD-WGSL-20230202
 doctype: technicalReport
+editorialgroup:
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webgpu-20230118
+id: W3CWD-rdf-canon-20230202
 title:
-- content: WebGPU
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230118/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230202/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230118
+- id: W3C WD-rdf-canon-20230202
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230118
+docnumber: WD-rdf-canon-20230202
 date:
 - type: published
-  value: '2023-01-18'
+  value: '2023-02-02'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Dave Longley
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-18'
+revdate: '2023-02-02'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230105
+    id: W3CWD-rdf-canon-20230125
     docid:
-    - id: W3C WD-webgpu-20230105
+    - id: W3C WD-rdf-canon-20230125
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230105
+      content: W3C WD-rdf-canon-20230125
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20230118
+  number: WD-rdf-canon-20230202
 doctype: technicalReport
-editorialgroup:
-- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

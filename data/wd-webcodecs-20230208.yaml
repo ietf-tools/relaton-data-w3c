@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-webcodecs-av1-codec-registration-20230202
+id: W3CWD-webcodecs-20230208
 title:
-- content: AV1 WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-av1-codec-registration-20230202/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230208/
   type: src
-- content: https://w3c.github.io/webcodecs/av1_codec_registration.html
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-av1-codec-registration-20230202
+- id: W3C WD-webcodecs-20230208
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-av1-codec-registration-20230202
+docnumber: WD-webcodecs-20230208
 date:
 - type: published
-  value: '2023-02-02'
+  value: '2023-02-08'
 contributor:
 - person:
     name:
@@ -39,28 +39,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-02'
+revdate: '2023-02-08'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-av1-codec-registration-20230201
+    id: W3CWD-webcodecs-20230202
     docid:
-    - id: W3C DNOTE-webcodecs-av1-codec-registration-20230201
+    - id: W3C WD-webcodecs-20230202
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-av1-codec-registration-20230201
+      content: W3C WD-webcodecs-20230202
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-av1-codec-registration-20230202
-doctype: groupNote
+  number: WD-webcodecs-20230208
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group
 ext:

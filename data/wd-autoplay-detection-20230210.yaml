@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webrtc-svc-20230209
+id: W3CWD-autoplay-detection-20230210
 title:
-- content: Scalable Video Coding (SVC) Extension for WebRTC
+- content: Autoplay Policy Detection
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-svc-20230209/
+- content: https://www.w3.org/TR/2023/WD-autoplay-detection-20230210/
   type: src
-- content: https://w3c.github.io/webrtc-svc/
+- content: https://w3c.github.io/autoplay/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-svc-20230209
+- id: W3C WD-autoplay-detection-20230210
   type: W3C
   primary: true
-docnumber: WD-webrtc-svc-20230209
+docnumber: WD-autoplay-detection-20230210
 date:
 - type: published
-  value: '2023-02-09'
+  value: '2023-02-10'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Alastor Wu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-09'
+revdate: '2023-02-10'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-svc-20230126
+    id: W3CWD-autoplay-detection-20230127
     docid:
-    - id: W3C WD-webrtc-svc-20230126
+    - id: W3C WD-autoplay-detection-20230127
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-svc-20230126
+      content: W3C WD-autoplay-detection-20230127
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-svc-20230209
+  number: WD-autoplay-detection-20230210
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

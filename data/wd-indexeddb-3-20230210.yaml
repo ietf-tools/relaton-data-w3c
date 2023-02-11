@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-gamepad-20221209
+id: W3CWD-IndexedDB-3-20230210
 title:
-- content: Gamepad
+- content: Indexed Database API 3.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-gamepad-20221209/
+- content: https://www.w3.org/TR/2023/WD-IndexedDB-3-20230210/
   type: src
-- content: https://w3c.github.io/gamepad/
+- content: https://w3c.github.io/IndexedDB/
   type: current
 type: standard
 docid:
-- id: W3C WD-gamepad-20221209
+- id: W3C WD-IndexedDB-3-20230210
   type: W3C
   primary: true
-docnumber: WD-gamepad-20221209
+docnumber: WD-IndexedDB-3-20230210
 date:
 - type: published
-  value: '2022-12-09'
+  value: '2023-02-10'
 contributor:
 - person:
     name:
       completename:
-        content: James Hollyer
+        content: Ali Alabbas
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Matthew Reynolds
+        content: Joshua Bell
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Steve Agoston
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2022-12-09'
+revdate: '2023-02-10'
 language:
 - en
 script:
@@ -60,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-gamepad-20221003
+    id: W3CWD-IndexedDB-3-20220915
     docid:
-    - id: W3C WD-gamepad-20221003
+    - id: W3C WD-IndexedDB-3-20220915
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20221003
+      content: W3C WD-IndexedDB-3-20220915
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-gamepad-20221209
+  number: WD-IndexedDB-3-20230210
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

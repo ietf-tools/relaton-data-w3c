@@ -1657,6 +1657,9 @@
   :date: '20160913'
   :file: data/wd-csp3-20160913.yaml
 - :code: css
+  :date: '2023'
+  :file: data/css-2023.yaml
+- :code: css
   :date: '2022'
   :file: data/css-2022.yaml
 - :code: css
@@ -1717,6 +1720,10 @@
   :type: DNOTE
   :date: '20221122'
   :file: data/dnote-css-2022-20221122.yaml
+- :code: css-2023
+  :type: DNOTE
+  :date: '20230214'
+  :file: data/dnote-css-2023-20230214.yaml
 - :code: CSS-access
   :file: data/css-access.yaml
 - :code: CSS-access
@@ -1775,6 +1782,10 @@
   :stage: CR
   :date: '20171017'
   :file: data/cr-css-backgrounds-3-20171017.yaml
+- :code: css-backgrounds-3
+  :stage: CRD
+  :date: '20230214'
+  :file: data/crd-css-backgrounds-3-20230214.yaml
 - :code: css-backgrounds-3
   :stage: CRD
   :date: '20210726'
@@ -2167,6 +2178,10 @@
   :file: data/cr-css-easing-1-20190430.yaml
 - :code: css-easing-1
   :stage: CRD
+  :date: '20230213'
+  :file: data/crd-css-easing-1-20230213.yaml
+- :code: css-easing-1
+  :stage: CRD
   :date: '20210401'
   :file: data/crd-css-easing-1-20210401.yaml
 - :code: css-easing-1
@@ -2443,6 +2458,10 @@
   :file: data/wd-css-nav-1-20191126.yaml
 - :code: css-nesting-1
   :file: data/css-nesting-1.yaml
+- :code: css-nesting-1
+  :stage: WD
+  :date: '20230214'
+  :file: data/wd-css-nesting-1-20230214.yaml
 - :code: css-nesting-1
   :stage: WD
   :date: '20210831'
@@ -2757,6 +2776,10 @@
   :stage: CR
   :date: '20200310'
   :file: data/cr-css-speech-1-20200310.yaml
+- :code: css-speech-1
+  :stage: CRD
+  :date: '20230214'
+  :file: data/crd-css-speech-1-20230214.yaml
 - :code: css-style-attr
   :file: data/css-style-attr.yaml
 - :code: css-style-attr
@@ -2817,8 +2840,8 @@
   :file: data/cr-css-text-3-20201222.yaml
 - :code: css-text-3
   :stage: CRD
-  :date: '20230127'
-  :file: data/crd-css-text-3-20230127.yaml
+  :date: '20230213'
+  :file: data/crd-css-text-3-20230213.yaml
 - :code: css-text-3
   :stage: CRD
   :date: '20220505'
@@ -6127,6 +6150,12 @@
   :stage: WD
   :date: '20200616'
   :file: data/wd-guru-gap-20200616.yaml
+- :code: guru-lreq
+  :file: data/guru-lreq.yaml
+- :code: guru-lreq
+  :type: DNOTE
+  :date: '20230214'
+  :file: data/dnote-guru-lreq-20230214.yaml
 - :code: gyroscope
   :file: data/gyroscope.yaml
 - :code: gyroscope
@@ -12202,8 +12231,8 @@
   :file: data/selection-api.yaml
 - :code: selection-api
   :stage: WD
-  :date: '20230209'
-  :file: data/wd-selection-api-20230209.yaml
+  :date: '20230213'
+  :file: data/wd-selection-api-20230213.yaml
 - :code: selection-api
   :stage: WD
   :date: '20210724'
@@ -16017,8 +16046,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230202'
-  :file: data/wd-webgpu-20230202.yaml
+  :date: '20230214'
+  :file: data/wd-webgpu-20230214.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16586,8 +16615,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230209'
-  :file: data/wd-wgsl-20230209.yaml
+  :date: '20230213'
+  :file: data/wd-wgsl-20230213.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

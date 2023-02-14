@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Ccss-speech-1
 title:
-- content: CSS Speech Module
+- content: CSS Speech Module Level 1
   format: text/plain
 link:
 - content: https://www.w3.org/TR/css-speech-1/
@@ -22,6 +22,16 @@ docstatus:
     value: candidateRecommendation
 relation:
 - type: instance
+  bibitem:
+    id: W3CCRD-css-speech-1-20230214
+    docid:
+    - id: W3C CRD-css-speech-1-20230214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-speech-1-20230214
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CCR-css-speech-1-20200310
     docid:

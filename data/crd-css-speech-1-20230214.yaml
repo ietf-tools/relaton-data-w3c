@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webgpu-20230202
+id: W3CCRD-css-speech-1-20230214
 title:
-- content: WebGPU
+- content: CSS Speech Module Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230202/
+- content: https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://drafts.csswg.org/css-speech-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230202
+- id: W3C CRD-css-speech-1-20230214
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230202
+docnumber: CRD-css-speech-1-20230214
 date:
 - type: published
-  value: '2023-02-02'
+  value: '2023-02-14'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Léonie Watson
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Myles Maxfield
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-02-02'
+revdate: '2023-02-14'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230118
+    id: W3CCR-css-speech-1-20200310
     docid:
-    - id: W3C WD-webgpu-20230118
+    - id: W3C CR-css-speech-1-20200310
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230118
+      content: W3C CR-css-speech-1-20200310
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20230202
+  number: CRD-css-speech-1-20230214
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

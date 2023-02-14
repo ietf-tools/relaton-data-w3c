@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-css-easing-1-20230213
+title:
+- content: CSS Easing Functions Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-css-easing-1-20230213/
+  type: src
+- content: https://drafts.csswg.org/css-easing/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-css-easing-1-20230213
+  type: W3C
+  primary: true
+docnumber: CRD-css-easing-1-20230213
+date:
+- type: published
+  value: '2023-02-13'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brian Birtles
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Dean Jackson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Matt Rakow
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-02-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-css-easing-1-20210401
+    docid:
+    - id: W3C CRD-css-easing-1-20210401
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-easing-1-20210401
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-css-easing-1-20230213
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

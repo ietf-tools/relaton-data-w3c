@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-css-backgrounds-3-20230214
+title:
+- content: CSS Backgrounds and Borders Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-css-backgrounds-3-20230214/
+  type: src
+- content: https://drafts.csswg.org/css-backgrounds/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-css-backgrounds-3-20230214
+  type: W3C
+  primary: true
+docnumber: CRD-css-backgrounds-3-20230214
+date:
+- type: published
+  value: '2023-02-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bert Bos
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Brad Kemper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-02-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-css-backgrounds-3-20210726
+    docid:
+    - id: W3C CRD-css-backgrounds-3-20210726
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-backgrounds-3-20210726
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-css-backgrounds-3-20230214
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

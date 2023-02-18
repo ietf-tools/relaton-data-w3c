@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CWD-css-images-4-20230217
+title:
+- content: CSS Images Module Level 4
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-css-images-4-20230217/
+  type: src
+- content: https://drafts.csswg.org/css-images-4/
+  type: current
+type: standard
+docid:
+- id: W3C WD-css-images-4-20230217
+  type: W3C
+  primary: true
+docnumber: WD-css-images-4-20230217
+date:
+- type: published
+  value: '2023-02-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Lea Verou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-02-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-images-4-20170413
+    docid:
+    - id: W3C WD-css-images-4-20170413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-images-4-20170413
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-images-4-20230217
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

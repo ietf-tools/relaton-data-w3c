@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230213
+id: W3CWD-css-align-3-20230217
 title:
-- content: WebGPU Shading Language
+- content: CSS Box Alignment Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230213/
+- content: https://www.w3.org/TR/2023/WD-css-align-3-20230217/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://drafts.csswg.org/css-align/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230213
+- id: W3C WD-css-align-3-20230217
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230213
+docnumber: WD-css-align-3-20230217
 date:
 - type: published
-  value: '2023-02-13'
+  value: '2023-02-17'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-02-13'
+revdate: '2023-02-17'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230209
+    id: W3CWD-css-align-3-20211224
     docid:
-    - id: W3C WD-WGSL-20230209
+    - id: W3C WD-css-align-3-20211224
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230209
+      content: W3C WD-css-align-3-20211224
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20230213
+  number: WD-css-align-3-20230217
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

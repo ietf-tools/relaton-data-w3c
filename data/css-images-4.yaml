@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Ccss-images-4
 title:
-- content: CSS Image Values and Replaced Content Module Level 4
+- content: CSS Images Module Level 4
   format: text/plain
 link:
 - content: https://www.w3.org/TR/css-images-4/
@@ -22,6 +22,16 @@ docstatus:
     value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-css-images-4-20230217
+    docid:
+    - id: W3C WD-css-images-4-20230217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-images-4-20230217
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-css-images-4-20170413
     docid:

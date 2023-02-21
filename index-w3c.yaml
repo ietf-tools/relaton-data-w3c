@@ -5317,9 +5317,9 @@
 - :code: epub-33
   :file: data/epub-33.yaml
 - :code: epub-33
-  :stage: CRD
-  :date: '20230209'
-  :file: data/crd-epub-33-20230209.yaml
+  :stage: CR
+  :date: '20230221'
+  :file: data/cr-epub-33-20230221.yaml
 - :code: epub-33
   :stage: CRD
   :date: '20220527'
@@ -5331,9 +5331,9 @@
 - :code: epub-a11y-11
   :file: data/epub-a11y-11.yaml
 - :code: epub-a11y-11
-  :stage: CRD
-  :date: '20230209'
-  :file: data/crd-epub-a11y-11-20230209.yaml
+  :stage: CR
+  :date: '20230221'
+  :file: data/cr-epub-a11y-11-20230221.yaml
 - :code: epub-a11y-11
   :stage: CRD
   :date: '20220522'
@@ -5401,9 +5401,9 @@
 - :code: epub-rs-33
   :file: data/epub-rs-33.yaml
 - :code: epub-rs-33
-  :stage: CRD
-  :date: '20230209'
-  :file: data/crd-epub-rs-33-20230209.yaml
+  :stage: CR
+  :date: '20230221'
+  :file: data/cr-epub-rs-33-20230221.yaml
 - :code: epub-rs-33
   :stage: CRD
   :date: '20220527'
@@ -15514,6 +15514,12 @@
   :stage: WD
   :date: '20150707'
   :file: data/wd-web-animations-1-20150707.yaml
+- :code: web-animations-2
+  :file: data/web-animations-2.yaml
+- :code: web-animations-2
+  :stage: WD
+  :date: '20230221'
+  :file: data/wd-web-animations-2-20230221.yaml
 - :code: web-forms-2
   :file: data/web-forms-2.yaml
 - :code: web-forms-2
@@ -16627,8 +16633,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230218'
-  :file: data/wd-wgsl-20230218.yaml
+  :date: '20230221'
+  :file: data/wd-wgsl-20230221.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

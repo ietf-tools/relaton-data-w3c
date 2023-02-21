@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-epub-a11y-11-20230209
+id: W3CCR-epub-a11y-11-20230221
 title:
 - content: EPUB Accessibility 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-epub-a11y-11-20230209/
+- content: https://www.w3.org/TR/2023/CR-epub-a11y-11-20230221/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/a11y/
   type: current
 type: standard
 docid:
-- id: W3C CRD-epub-a11y-11-20230209
+- id: W3C CR-epub-a11y-11-20230221
   type: W3C
   primary: true
-docnumber: CRD-epub-a11y-11-20230209
+docnumber: CR-epub-a11y-11-20230221
 date:
 - type: published
-  value: '2023-02-09'
+  value: '2023-02-21'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-09'
+revdate: '2023-02-21'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-a11y-11-20230204
+    id: W3CCRD-epub-a11y-11-20230209
     docid:
-    - id: W3C CRD-epub-a11y-11-20230204
+    - id: W3C CRD-epub-a11y-11-20230209
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-a11y-11-20230204
+      content: W3C CRD-epub-a11y-11-20230209
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-epub-a11y-11-20230209
+  number: CR-epub-a11y-11-20230221
 doctype: technicalReport
 editorialgroup:
 - name: EPUB 3 Working Group

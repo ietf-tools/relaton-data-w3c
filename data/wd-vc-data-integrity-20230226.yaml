@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webgpu-20230224
+id: W3CWD-vc-data-integrity-20230226
 title:
-- content: WebGPU
+- content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230224/
+- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230226/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230224
+- id: W3C WD-vc-data-integrity-20230226
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230224
+docnumber: WD-vc-data-integrity-20230226
 date:
 - type: published
-  value: '2023-02-24'
+  value: '2023-02-26'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Dave Longley
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Manu Sporny
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-24'
+revdate: '2023-02-26'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230222
+    id: W3CWD-vc-data-integrity-20230225
     docid:
-    - id: W3C WD-webgpu-20230222
+    - id: W3C WD-vc-data-integrity-20230225
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230222
+      content: W3C WD-vc-data-integrity-20230225
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20230224
+  number: WD-vc-data-integrity-20230226
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

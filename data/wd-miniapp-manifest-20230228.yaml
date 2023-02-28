@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230224
+id: W3CWD-miniapp-manifest-20230228
 title:
-- content: WebGPU Shading Language
+- content: MiniApp Manifest
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230224/
+- content: https://www.w3.org/TR/2023/WD-miniapp-manifest-20230228/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/miniapp-manifest/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230224
+- id: W3C WD-miniapp-manifest-20230228
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230224
+docnumber: WD-miniapp-manifest-20230228
 date:
 - type: published
-  value: '2023-02-24'
+  value: '2023-02-28'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Martin Alvarez-Espinar
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Yongjing ZHANG
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-02-24'
+revdate: '2023-02-28'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230223
+    id: W3CWD-miniapp-manifest-20230220
     docid:
-    - id: W3C WD-WGSL-20230223
+    - id: W3C WD-miniapp-manifest-20230220
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230223
+      content: W3C WD-miniapp-manifest-20230220
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20230224
+  number: WD-miniapp-manifest-20230228
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: MiniApps Working Group
 ext:
   schema-version: v1.0.0

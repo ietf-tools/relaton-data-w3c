@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-pointerevents3-20221223
+id: W3CWD-pointerevents3-20230302
 title:
 - content: Pointer Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-pointerevents3-20221223/
+- content: https://www.w3.org/TR/2023/WD-pointerevents3-20230302/
   type: src
 - content: https://w3c.github.io/pointerevents/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20221223
+- id: W3C WD-pointerevents3-20230302
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20221223
+docnumber: WD-pointerevents3-20230302
 date:
 - type: published
-  value: '2022-12-23'
+  value: '2023-03-02'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-12-23'
+revdate: '2023-03-02'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20221027
+    id: W3CWD-pointerevents3-20230301
     docid:
-    - id: W3C WD-pointerevents3-20221027
+    - id: W3C WD-pointerevents3-20230301
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20221027
+      content: W3C WD-pointerevents3-20230301
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20221223
+  number: WD-pointerevents3-20230302
 doctype: technicalReport
 editorialgroup:
 - name: Pointer Events Working Group

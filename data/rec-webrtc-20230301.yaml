@@ -1,28 +1,38 @@
 ---
 schema-version: v1.2.1
-id: W3CREC-webrtc-20210126
+id: W3CREC-webrtc-20230301
 title:
-- content: 'WebRTC 1.0: Real-Time Communication Between Browsers'
+- content: 'WebRTC: Real-Time Communication in Browsers'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2021/REC-webrtc-20210126/
+- content: https://www.w3.org/TR/2023/REC-webrtc-20230301/
   type: src
 - content: https://w3c.github.io/webrtc-pc/archives/20171002/webrtc.html
   type: current
 type: standard
 docid:
-- id: W3C REC-webrtc-20210126
+- id: W3C REC-webrtc-20230301
   type: W3C
   primary: true
-docnumber: REC-webrtc-20210126
+docnumber: REC-webrtc-20230301
 date:
 - type: published
-  value: '2021-01-26'
+  value: '2023-03-01'
 contributor:
 - person:
     name:
       completename:
         content: Cullen Jennings
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Florent Castelli
         language:
         - en
         script:
@@ -49,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2021-01-26'
+revdate: '2023-03-01'
 language:
 - en
 script:
@@ -60,32 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CPR-webrtc-20201215
+    id: W3CREC-webrtc-20210126
     docid:
-    - id: W3C PR-webrtc-20201215
+    - id: W3C REC-webrtc-20210126
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-webrtc-20201215
+      content: W3C REC-webrtc-20210126
       format: text/plain
-- type: updatedBy
-  bibitem:
-    id: W3Cwebrtc-pc-errata
-    docid:
-    - id: W3C webrtc-pc/errata
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C webrtc-pc/errata
-      format: text/plain
-  description:
-    content: errata
-    format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
-  number: REC-webrtc-20210126
+  number: REC-webrtc-20230301
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

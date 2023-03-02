@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.1
+id: W3CWD-css-animations-1-20230302
+title:
+- content: CSS Animations Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-css-animations-1-20230302/
+  type: src
+- content: https://drafts.csswg.org/css-animations/
+  type: current
+type: standard
+docid:
+- id: W3C WD-css-animations-1-20230302
+  type: W3C
+  primary: true
+docnumber: WD-css-animations-1-20230302
+date:
+- type: published
+  value: '2023-03-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brian Birtles
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: David Baron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Dean Jackson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-animations-1-20181011
+    docid:
+    - id: W3C WD-css-animations-1-20181011
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-animations-1-20181011
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-animations-1-20230302
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

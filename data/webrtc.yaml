@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Cwebrtc
 title:
-- content: 'WebRTC 1.0: Real-Time Communication Between Browsers'
+- content: 'WebRTC: Real-Time Communication in Browsers'
   format: text/plain
 link:
 - content: https://www.w3.org/TR/webrtc/
@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-webrtc-20210126
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-webrtc-20210126
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-webrtc-20230301
+    docid:
+    - id: W3C REC-webrtc-20230301
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-webrtc-20230301
       format: text/plain
 - type: hasEdition
   bibitem:

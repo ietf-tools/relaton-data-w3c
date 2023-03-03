@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webdriver2-20230222
+id: W3CCRD-webxr-20230303
 title:
-- content: WebDriver
+- content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webdriver2-20230222/
+- content: https://www.w3.org/TR/2023/CRD-webxr-20230303/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://immersive-web.github.io/webxr/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20230222
+- id: W3C CRD-webxr-20230303
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20230222
+docnumber: CRD-webxr-20230303
 date:
 - type: published
-  value: '2023-02-22'
+  value: '2023-03-03'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Manish Goregaokar
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-22'
+- person:
+    name:
+      completename:
+        content: Rik Cabanier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20230119
+    id: W3CCRD-webxr-20220824
     docid:
-    - id: W3C WD-webdriver2-20230119
+    - id: W3C CRD-webxr-20220824
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20230119
+      content: W3C CRD-webxr-20220824
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webdriver2-20230222
+  number: CRD-webxr-20230303
 doctype: technicalReport
 editorialgroup:
-- name: Browser Testing and Tools Working Group
+- name: Immersive Web Working Group
 ext:
   schema-version: v1.0.0

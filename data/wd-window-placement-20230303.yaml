@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-window-placement-20230206
+id: W3CWD-window-placement-20230303
 title:
 - content: Multi-Screen Window Placement
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-window-placement-20230206/
+- content: https://www.w3.org/TR/2023/WD-window-placement-20230303/
   type: src
 - content: https://w3c.github.io/window-placement/
   type: current
 type: standard
 docid:
-- id: W3C WD-window-placement-20230206
+- id: W3C WD-window-placement-20230303
   type: W3C
   primary: true
-docnumber: WD-window-placement-20230206
+docnumber: WD-window-placement-20230303
 date:
 - type: published
-  value: '2023-02-06'
+  value: '2023-03-03'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-06'
+revdate: '2023-03-03'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-window-placement-20221216
+    id: W3CWD-window-placement-20230206
     docid:
-    - id: W3C WD-window-placement-20221216
+    - id: W3C WD-window-placement-20230206
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-window-placement-20221216
+      content: W3C WD-window-placement-20230206
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-window-placement-20230206
+  number: WD-window-placement-20230303
 doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

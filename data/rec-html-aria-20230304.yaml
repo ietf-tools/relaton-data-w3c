@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CREC-html-aria-20230304
+title:
+- content: ARIA in HTML
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230304/
+  type: src
+- content: https://w3c.github.io/html-aria/
+  type: current
+type: standard
+docid:
+- id: W3C REC-html-aria-20230304
+  type: W3C
+  primary: true
+docnumber: REC-html-aria-20230304
+date:
+- type: published
+  value: '2023-03-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Patrick Lauke
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Scott O'Hara
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Steve Faulkner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CREC-html-aria-20230215
+    docid:
+    - id: W3C REC-html-aria-20230215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html-aria-20230215
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-html-aria-20230304
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Cxml-entity-names
 title:
-- content: XML Entity Definitions for Characters (2nd Edition)
+- content: XML Entity Definitions for Characters (3rd Edition)
   format: text/plain
 link:
 - content: https://www.w3.org/TR/xml-entity-names/
@@ -31,7 +31,7 @@ relation:
     formattedref:
       content: W3C REC-xml-entity-names-20100401
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-xml-entity-names-20140410
     docid:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-xml-entity-names-20140410
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-xml-entity-names-20230307
+    docid:
+    - id: W3C REC-xml-entity-names-20230307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-xml-entity-names-20230307
       format: text/plain
 - type: hasEdition
   bibitem:

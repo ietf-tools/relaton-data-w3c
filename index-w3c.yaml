@@ -6453,6 +6453,10 @@
   :file: data/html-aria.yaml
 - :code: html-aria
   :stage: REC
+  :date: '20230306'
+  :file: data/rec-html-aria-20230306.yaml
+- :code: html-aria
+  :stage: REC
   :date: '20230304'
   :file: data/rec-html-aria-20230304.yaml
 - :code: html-aria
@@ -8007,6 +8011,10 @@
   :stage: REC
   :date: '19980407'
   :file: data/rec-mathml-19980407.yaml
+- :code: MathML
+  :stage: SPSD
+  :date: '20230307'
+  :file: data/spsd-mathml-20230307.yaml
 - :code: mathml-bvar
   :file: data/mathml-bvar.yaml
 - :code: mathml-bvar
@@ -8069,6 +8077,10 @@
   :stage: REC
   :date: '20010221'
   :file: data/rec-mathml2-20010221.yaml
+- :code: MathML2
+  :stage: SPSD
+  :date: '20230307'
+  :file: data/spsd-mathml2-20230307.yaml
 - :code: MathML3
   :file: data/mathml3.yaml
 - :code: MathML3
@@ -14535,8 +14547,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20230304'
-  :file: data/wd-vc-data-model-2.0-20230304.yaml
+  :date: '20230306'
+  :file: data/wd-vc-data-model-2.0-20230306.yaml
 - :code: vc-imp-guide
   :file: data/vc-imp-guide.yaml
 - :code: vc-imp-guide
@@ -14781,6 +14793,10 @@
   :file: data/wd-vocab-dcat-2-20181016.yaml
 - :code: vocab-dcat-3
   :file: data/vocab-dcat-3.yaml
+- :code: vocab-dcat-3
+  :stage: WD
+  :date: '20230307'
+  :file: data/wd-vocab-dcat-3-20230307.yaml
 - :code: vocab-dcat-3
   :stage: WD
   :date: '20220510'
@@ -16090,8 +16106,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230303'
-  :file: data/wd-webgpu-20230303.yaml
+  :date: '20230307'
+  :file: data/wd-webgpu-20230307.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16262,6 +16278,10 @@
   :file: data/webrtc.yaml
 - :code: webrtc
   :stage: REC
+  :date: '20230306'
+  :file: data/rec-webrtc-20230306.yaml
+- :code: webrtc
+  :stage: REC
   :date: '20230301'
   :file: data/rec-webrtc-20230301.yaml
 - :code: webrtc
@@ -16366,8 +16386,8 @@
   :file: data/cr-webrtc-stats-20180703.yaml
 - :code: webrtc-stats
   :stage: CRD
-  :date: '20230303'
-  :file: data/crd-webrtc-stats-20230303.yaml
+  :date: '20230307'
+  :file: data/crd-webrtc-stats-20230307.yaml
 - :code: webrtc-stats
   :stage: CRD
   :date: '20220517'
@@ -16663,8 +16683,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230303'
-  :file: data/wd-wgsl-20230303.yaml
+  :date: '20230306'
+  :file: data/wd-wgsl-20230306.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'
@@ -18440,6 +18460,10 @@
   :file: data/note-xml-encryption-req-20020304.yaml
 - :code: xml-entity-names
   :file: data/xml-entity-names.yaml
+- :code: xml-entity-names
+  :stage: REC
+  :date: '20230307'
+  :file: data/rec-xml-entity-names-20230307.yaml
 - :code: xml-entity-names
   :stage: REC
   :date: '20140410'

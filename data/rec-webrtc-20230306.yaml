@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webgpu-20230303
+id: W3CREC-webrtc-20230306
 title:
-- content: WebGPU
+- content: 'WebRTC: Real-Time Communication in Browsers'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230303/
+- content: https://www.w3.org/TR/2023/REC-webrtc-20230306/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webrtc-pc/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230303
+- id: W3C REC-webrtc-20230306
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230303
+docnumber: REC-webrtc-20230306
 date:
 - type: published
-  value: '2023-03-03'
+  value: '2023-03-06'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Cullen Jennings
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Florent Castelli
         language:
         - en
         script:
@@ -42,39 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Henrik Boström
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-03'
+- person:
+    name:
+      completename:
+        content: Jan-Ivar Bruaroey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230302
+    id: W3CREC-webrtc-20230301
     docid:
-    - id: W3C WD-webgpu-20230302
+    - id: W3C REC-webrtc-20230301
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230302
+      content: W3C REC-webrtc-20230301
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-webgpu-20230303
+  number: REC-webrtc-20230306
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

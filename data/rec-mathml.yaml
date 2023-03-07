@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3CREC-MathML
 title:
-- content: Mathematical Markup Language (MathML) 1.01 Specification
+- content: Mathematical Markup Language (MathML™) 1.01 Specification
   format: text/plain
 link:
 - content: https://www.w3.org/TR/REC-MathML/
@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-MathML-19990707
     docid:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-MathML-19980407
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CSPSD-MathML-20230307
+    docid:
+    - id: W3C SPSD-MathML-20230307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C SPSD-MathML-20230307
       format: text/plain
 series:
 - title:

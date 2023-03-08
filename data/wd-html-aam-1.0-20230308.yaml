@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-window-placement-20230303
+id: W3CWD-html-aam-1.0-20230308
 title:
-- content: Multi-Screen Window Placement
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-window-placement-20230303/
+- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/
   type: src
-- content: https://w3c.github.io/window-placement/
+- content: https://w3c.github.io/html-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-window-placement-20230303
+- id: W3C WD-html-aam-1.0-20230308
   type: W3C
   primary: true
-docnumber: WD-window-placement-20230303
+docnumber: WD-html-aam-1.0-20230308
 date:
 - type: published
-  value: '2023-03-03'
+  value: '2023-03-08'
 contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike Wasserman
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-03'
+revdate: '2023-03-08'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-window-placement-20230206
+    id: W3CWD-html-aam-1.0-20230202
     docid:
-    - id: W3C WD-window-placement-20230206
+    - id: W3C WD-html-aam-1.0-20230202
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-window-placement-20230206
+      content: W3C WD-html-aam-1.0-20230202
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-window-placement-20230303
+  number: WD-html-aam-1.0-20230308
 doctype: technicalReport
 editorialgroup:
-- name: Second Screen Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

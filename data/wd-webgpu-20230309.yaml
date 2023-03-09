@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webgpu-20230308
+id: W3CWD-webgpu-20230309
 title:
 - content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230308/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230309/
   type: src
 - content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230308
+- id: W3C WD-webgpu-20230309
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230308
+docnumber: WD-webgpu-20230309
 date:
 - type: published
-  value: '2023-03-08'
+  value: '2023-03-09'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-08'
+revdate: '2023-03-09'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230307
+    id: W3CWD-webgpu-20230308
     docid:
-    - id: W3C WD-webgpu-20230307
+    - id: W3C WD-webgpu-20230308
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230307
+      content: W3C WD-webgpu-20230308
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20230308
+  number: WD-webgpu-20230309
 doctype: technicalReport
 editorialgroup:
 - name: GPU for the Web Working Group

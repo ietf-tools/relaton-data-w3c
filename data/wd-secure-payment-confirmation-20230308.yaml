@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: W3CWD-secure-payment-confirmation-20230308
+title:
+- content: Secure Payment Confirmation
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230308/
+  type: src
+- content: https://w3c.github.io/secure-payment-confirmation/
+  type: current
+type: standard
+docid:
+- id: W3C WD-secure-payment-confirmation-20230308
+  type: W3C
+  primary: true
+docnumber: WD-secure-payment-confirmation-20230308
+date:
+- type: published
+  value: '2023-03-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Stephen McGruer
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-secure-payment-confirmation-20230130
+    docid:
+    - id: W3C WD-secure-payment-confirmation-20230130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-secure-payment-confirmation-20230130
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-secure-payment-confirmation-20230308
+doctype: technicalReport
+editorialgroup:
+- name: Web Payments Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-gamepad-20230210
+id: W3CWD-gamepad-20230310
 title:
 - content: Gamepad
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-gamepad-20230210/
+- content: https://www.w3.org/TR/2023/WD-gamepad-20230310/
   type: src
 - content: https://w3c.github.io/gamepad/
   type: current
 type: standard
 docid:
-- id: W3C WD-gamepad-20230210
+- id: W3C WD-gamepad-20230310
   type: W3C
   primary: true
-docnumber: WD-gamepad-20230210
+docnumber: WD-gamepad-20230310
 date:
 - type: published
-  value: '2023-02-10'
+  value: '2023-03-10'
 contributor:
-- person:
-    name:
-      completename:
-        content: James Hollyer
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -49,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-10'
+revdate: '2023-03-10'
 language:
 - en
 script:
@@ -60,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-gamepad-20221209
+    id: W3CWD-gamepad-20230210
     docid:
-    - id: W3C WD-gamepad-20221209
+    - id: W3C WD-gamepad-20230210
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20221209
+      content: W3C WD-gamepad-20230210
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-gamepad-20230210
+  number: WD-gamepad-20230310
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

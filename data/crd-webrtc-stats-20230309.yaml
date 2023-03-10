@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230308
+id: W3CCRD-webrtc-stats-20230309
 title:
-- content: WebGPU Shading Language
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230308/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230309/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230308
+- id: W3C CRD-webrtc-stats-20230309
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230308
+docnumber: CRD-webrtc-stats-20230309
 date:
 - type: published
-  value: '2023-03-08'
+  value: '2023-03-09'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-08'
+revdate: '2023-03-09'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230307
+    id: W3CCRD-webrtc-stats-20230307
     docid:
-    - id: W3C WD-WGSL-20230307
+    - id: W3C CRD-webrtc-stats-20230307
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230307
+      content: W3C CRD-webrtc-stats-20230307
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20230308
+  number: CRD-webrtc-stats-20230309
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

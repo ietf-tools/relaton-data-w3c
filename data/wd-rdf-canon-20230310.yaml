@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-webrtc-stats-20230307
+id: W3CWD-rdf-canon-20230310
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230307/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230310/
   type: src
-- content: https://w3c.github.io/webrtc-stats/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20230307
+- id: W3C WD-rdf-canon-20230310
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20230307
+docnumber: WD-rdf-canon-20230310
 date:
 - type: published
-  value: '2023-03-07'
+  value: '2023-03-10'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Dave Longley
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-07'
+revdate: '2023-03-10'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20230303
+    id: W3CWD-rdf-canon-20230205
     docid:
-    - id: W3C CRD-webrtc-stats-20230303
+    - id: W3C WD-rdf-canon-20230205
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20230303
+      content: W3C WD-rdf-canon-20230205
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webrtc-stats-20230307
+  number: WD-rdf-canon-20230310
 doctype: technicalReport
-editorialgroup:
-- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

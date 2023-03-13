@@ -1354,8 +1354,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20230203'
-  :file: data/wd-compute-pressure-20230203.yaml
+  :date: '20230313'
+  :file: data/wd-compute-pressure-20230313.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -11616,6 +11616,10 @@
   :stage: CR
   :date: '20120522'
   :file: data/cr-resource-timing-20120522.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20230313'
+  :file: data/crd-resource-timing-20230313.yaml
 - :code: resource-timing
   :stage: CRD
   :date: '20230303'

@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDISC-resource-hints-20230314
+    docid:
+    - id: W3C DISC-resource-hints-20230314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DISC-resource-hints-20230314
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-resource-hints-20201005
     docid:
@@ -93,7 +100,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: resource-hints
 doctype: technicalReport

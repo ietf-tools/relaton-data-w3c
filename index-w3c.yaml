@@ -1354,8 +1354,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20230313'
-  :file: data/wd-compute-pressure-20230313.yaml
+  :date: '20230314'
+  :file: data/wd-compute-pressure-20230314.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -5384,6 +5384,12 @@
   :type: NOTE
   :date: '20211208'
   :file: data/note-epub-a11y-tech-11-20211208.yaml
+- :code: epub-aria-authoring-11
+  :file: data/epub-aria-authoring-11.yaml
+- :code: epub-aria-authoring-11
+  :type: NOTE
+  :date: '20230314'
+  :file: data/note-epub-aria-authoring-11-20230314.yaml
 - :code: epub-multi-rend-11
   :file: data/epub-multi-rend-11.yaml
 - :code: epub-multi-rend-11
@@ -15808,8 +15814,8 @@
   :file: data/webcodecs.yaml
 - :code: webcodecs
   :stage: WD
-  :date: '20230310'
-  :file: data/wd-webcodecs-20230310.yaml
+  :date: '20230313'
+  :file: data/wd-webcodecs-20230313.yaml
 - :code: webcodecs
   :stage: WD
   :date: '20220524'
@@ -15826,8 +15832,8 @@
   :file: data/webcodecs-aac-codec-registration.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-aac-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-aac-codec-registration-20230313.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15840,8 +15846,8 @@
   :file: data/webcodecs-alaw-codec-registration.yaml
 - :code: webcodecs-alaw-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20230313.yaml
 - :code: webcodecs-alaw-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15854,8 +15860,8 @@
   :file: data/webcodecs-av1-codec-registration.yaml
 - :code: webcodecs-av1-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-av1-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-av1-codec-registration-20230313.yaml
 - :code: webcodecs-av1-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15868,8 +15874,8 @@
   :file: data/webcodecs-avc-codec-registration.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-avc-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-avc-codec-registration-20230313.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15892,8 +15898,8 @@
   :file: data/webcodecs-flac-codec-registration.yaml
 - :code: webcodecs-flac-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-flac-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-flac-codec-registration-20230313.yaml
 - :code: webcodecs-flac-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15906,14 +15912,14 @@
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :code: webcodecs-hevc-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20230313.yaml
 - :code: webcodecs-mp3-codec-registration
   :file: data/webcodecs-mp3-codec-registration.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20230313.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15926,8 +15932,8 @@
   :file: data/webcodecs-opus-codec-registration.yaml
 - :code: webcodecs-opus-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-opus-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-opus-codec-registration-20230313.yaml
 - :code: webcodecs-opus-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15940,8 +15946,8 @@
   :file: data/webcodecs-pcm-codec-registration.yaml
 - :code: webcodecs-pcm-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20230313.yaml
 - :code: webcodecs-pcm-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15954,8 +15960,8 @@
   :file: data/webcodecs-ulaw-codec-registration.yaml
 - :code: webcodecs-ulaw-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20230313.yaml
 - :code: webcodecs-ulaw-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15968,8 +15974,8 @@
   :file: data/webcodecs-vorbis-codec-registration.yaml
 - :code: webcodecs-vorbis-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20230313.yaml
 - :code: webcodecs-vorbis-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15982,8 +15988,8 @@
   :file: data/webcodecs-vp8-codec-registration.yaml
 - :code: webcodecs-vp8-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20230313.yaml
 - :code: webcodecs-vp8-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -15996,8 +16002,8 @@
   :file: data/webcodecs-vp9-codec-registration.yaml
 - :code: webcodecs-vp9-codec-registration
   :type: DNOTE
-  :date: '20230310'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20230310.yaml
+  :date: '20230313'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20230313.yaml
 - :code: webcodecs-vp9-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16691,8 +16697,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230310'
-  :file: data/wd-wgsl-20230310.yaml
+  :date: '20230314'
+  :file: data/wd-wgsl-20230314.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

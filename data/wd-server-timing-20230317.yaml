@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-WGSL-20230314
+id: W3CWD-server-timing-20230317
 title:
-- content: WebGPU Shading Language
+- content: Server Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230314/
+- content: https://www.w3.org/TR/2023/WD-server-timing-20230317/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/server-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230314
+- id: W3C WD-server-timing-20230317
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230314
+docnumber: WD-server-timing-20230317
 date:
 - type: published
-  value: '2023-03-14'
+  value: '2023-03-17'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Charles Vazac
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Ilya Grigorik
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-03-14'
+revdate: '2023-03-17'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230310
+    id: W3CWD-server-timing-20230303
     docid:
-    - id: W3C WD-WGSL-20230310
+    - id: W3C WD-server-timing-20230303
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230310
+      content: W3C WD-server-timing-20230303
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20230314
+  number: WD-server-timing-20230317
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Performance Working Group
 ext:
   schema-version: v1.0.0

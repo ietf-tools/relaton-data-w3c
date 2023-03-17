@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-server-timing-20230303
+id: W3CCRD-css-display-3-20230316
 title:
-- content: Server Timing
+- content: CSS Display Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-server-timing-20230303/
+- content: https://www.w3.org/TR/2023/CRD-css-display-3-20230316/
   type: src
-- content: https://w3c.github.io/server-timing/
+- content: https://drafts.csswg.org/css-display/
   type: current
 type: standard
 docid:
-- id: W3C WD-server-timing-20230303
+- id: W3C CRD-css-display-3-20230316
   type: W3C
   primary: true
-docnumber: WD-server-timing-20230303
+docnumber: CRD-css-display-3-20230316
 date:
 - type: published
-  value: '2023-03-03'
+  value: '2023-03-16'
 contributor:
 - person:
     name:
       completename:
-        content: Charles Vazac
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ilya Grigorik
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-03'
+revdate: '2023-03-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-server-timing-20220421
+    id: W3CCRD-css-display-3-20221118
     docid:
-    - id: W3C WD-server-timing-20220421
+    - id: W3C CRD-css-display-3-20221118
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-server-timing-20220421
+      content: W3C CRD-css-display-3-20221118
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-server-timing-20230303
+  number: CRD-css-display-3-20230316
 doctype: technicalReport
 editorialgroup:
-- name: Web Performance Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

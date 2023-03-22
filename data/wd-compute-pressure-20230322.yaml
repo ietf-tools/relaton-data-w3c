@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-viss2-transport-20230117
+id: W3CWD-compute-pressure-20230322
 title:
-- content: VISS version 2-Transport
+- content: Compute Pressure Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-viss2-transport-20230117/
+- content: https://www.w3.org/TR/2023/WD-compute-pressure-20230322/
   type: src
-- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Transport.html
+- content: https://w3c.github.io/compute-pressure/
   type: current
 type: standard
 docid:
-- id: W3C WD-viss2-transport-20230117
+- id: W3C WD-compute-pressure-20230322
   type: W3C
   primary: true
-docnumber: WD-viss2-transport-20230117
+docnumber: WD-compute-pressure-20230322
 date:
 - type: published
-  value: '2023-01-17'
+  value: '2023-03-22'
 contributor:
 - person:
     name:
       completename:
-        content: Ulf Bjorkengren
+        content: Arnaud Mandy
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Wonsuk Lee
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-17'
+revdate: '2023-03-22'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-viss2-transport-20221129
+    id: W3CWD-compute-pressure-20230314
     docid:
-    - id: W3C WD-viss2-transport-20221129
+    - id: W3C WD-compute-pressure-20230314
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-transport-20221129
+      content: W3C WD-compute-pressure-20230314
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-viss2-transport-20230117
+  number: WD-compute-pressure-20230322
 doctype: technicalReport
 editorialgroup:
-- name: Automotive Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

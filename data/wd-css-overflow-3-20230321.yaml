@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-html-aam-1.0-20230308
+id: W3CWD-css-overflow-3-20230321
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: CSS Overflow Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/
+- content: https://www.w3.org/TR/2023/WD-css-overflow-3-20230321/
   type: src
-- content: https://w3c.github.io/html-aam/
+- content: https://drafts.csswg.org/css-overflow-3/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20230308
+- id: W3C WD-css-overflow-3-20230321
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20230308
+docnumber: WD-css-overflow-3-20230321
 date:
 - type: published
-  value: '2023-03-08'
+  value: '2023-03-21'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Florian Rivoal
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-08'
+revdate: '2023-03-21'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aam-1.0-20230202
+    id: W3CWD-css-overflow-3-20221231
     docid:
-    - id: W3C WD-html-aam-1.0-20230202
+    - id: W3C WD-css-overflow-3-20221231
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20230202
+      content: W3C WD-css-overflow-3-20221231
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20230308
+  number: WD-css-overflow-3-20230321
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

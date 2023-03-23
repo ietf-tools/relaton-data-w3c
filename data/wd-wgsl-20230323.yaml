@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-secure-payment-confirmation-20230308
+id: W3CWD-WGSL-20230323
 title:
-- content: Secure Payment Confirmation
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230308/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230323/
   type: src
-- content: https://w3c.github.io/secure-payment-confirmation/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-secure-payment-confirmation-20230308
+- id: W3C WD-WGSL-20230323
   type: W3C
   primary: true
-docnumber: WD-secure-payment-confirmation-20230308
+docnumber: WD-WGSL-20230323
 date:
 - type: published
-  value: '2023-03-08'
+  value: '2023-03-23'
 contributor:
 - person:
     name:
       completename:
-        content: Rouslan Solomakhin
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Stephen McGruer
+        content: David Neto
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-08'
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-23'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-secure-payment-confirmation-20230130
+    id: W3CWD-WGSL-20230320
     docid:
-    - id: W3C WD-secure-payment-confirmation-20230130
+    - id: W3C WD-WGSL-20230320
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-secure-payment-confirmation-20230130
+      content: W3C WD-WGSL-20230320
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-secure-payment-confirmation-20230308
+  number: WD-WGSL-20230323
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

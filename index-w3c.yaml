@@ -1354,8 +1354,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20230322'
-  :file: data/wd-compute-pressure-20230322.yaml
+  :date: '20230328'
+  :file: data/wd-compute-pressure-20230328.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -15093,6 +15093,10 @@
 - :code: wai-aria-1.2
   :file: data/wai-aria-1.2.yaml
 - :code: wai-aria-1.2
+  :stage: PR
+  :date: '20230328'
+  :file: data/pr-wai-aria-1.2-20230328.yaml
+- :code: wai-aria-1.2
   :stage: CRD
   :date: '20211208'
   :file: data/crd-wai-aria-1.2-20211208.yaml
@@ -16128,8 +16132,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230324'
-  :file: data/wd-webgpu-20230324.yaml
+  :date: '20230328'
+  :file: data/wd-webgpu-20230328.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: W3CWD-compute-pressure-20230329
+title:
+- content: Compute Pressure Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-compute-pressure-20230329/
+  type: src
+- content: https://w3c.github.io/compute-pressure/
+  type: current
+type: standard
+docid:
+- id: W3C WD-compute-pressure-20230329
+  type: W3C
+  primary: true
+docnumber: WD-compute-pressure-20230329
+date:
+- type: published
+  value: '2023-03-29'
+contributor:
+- person:
+    name:
+      completename:
+        content: Arnaud Mandy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Kenneth Christiansen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-compute-pressure-20230328
+    docid:
+    - id: W3C WD-compute-pressure-20230328
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-compute-pressure-20230328
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-compute-pressure-20230329
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

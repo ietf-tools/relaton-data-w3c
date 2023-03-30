@@ -1,28 +1,28 @@
 ---
-schema-version: v1.2.1
-id: W3CNOTE-epub-a11y-tech-11-20230222
+schema-version: v1.2.3
+id: W3CWD-appmanifest-20230329
 title:
-- content: EPUB Accessibility Techniques 1.1
+- content: Web Application Manifest
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230222/
+- content: https://www.w3.org/TR/2023/WD-appmanifest-20230329/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/a11y-tech/
+- content: https://w3c.github.io/manifest/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-tech-11-20230222
+- id: W3C WD-appmanifest-20230329
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-tech-11-20230222
+docnumber: WD-appmanifest-20230329
 date:
 - type: published
-  value: '2023-02-22'
+  value: '2023-03-29'
 contributor:
 - person:
     name:
       completename:
-        content: Avneesh Singh
+        content: Aaron Gustafson
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
+        content: Anssi Kostiainen
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: George Kerscher
+        content: Daniel Murphy
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Kenneth Christiansen
         language:
         - en
         script:
@@ -62,36 +62,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Marcos Caceres
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-22'
+- person:
+    name:
+      completename:
+        content: Matt Giuca
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-29'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-a11y-tech-11-20230201
+    id: W3CWD-appmanifest-20230125
     docid:
-    - id: W3C NOTE-epub-a11y-tech-11-20230201
+    - id: W3C WD-appmanifest-20230125
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-tech-11-20230201
+      content: W3C WD-appmanifest-20230125
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-epub-a11y-tech-11-20230222
-doctype: groupNote
+  number: WD-appmanifest-20230329
+doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

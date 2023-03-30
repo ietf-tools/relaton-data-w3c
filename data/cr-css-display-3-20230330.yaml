@@ -1,28 +1,28 @@
 ---
-schema-version: v1.2.1
-id: W3CWD-webnn-20230309
+schema-version: v1.2.3
+id: W3CCR-css-display-3-20230330
 title:
-- content: Web Neural Network API
+- content: CSS Display Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webnn-20230309/
+- content: https://www.w3.org/TR/2023/CR-css-display-3-20230330/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://drafts.csswg.org/css-display/
   type: current
 type: standard
 docid:
-- id: W3C WD-webnn-20230309
+- id: W3C CR-css-display-3-20230330
   type: W3C
   primary: true
-docnumber: WD-webnn-20230309
+docnumber: CR-css-display-3-20230330
 date:
 - type: published
-  value: '2023-03-09'
+  value: '2023-03-30'
 contributor:
 - person:
     name:
       completename:
-        content: Chai Chaoweeraprasit
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-09'
+revdate: '2023-03-30'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webnn-20230308
+    id: W3CCRD-css-display-3-20230316
     docid:
-    - id: W3C WD-webnn-20230308
+    - id: W3C CRD-css-display-3-20230316
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webnn-20230308
+      content: W3C CRD-css-display-3-20230316
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webnn-20230309
+  number: CR-css-display-3-20230330
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

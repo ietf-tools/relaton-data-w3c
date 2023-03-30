@@ -493,8 +493,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20230125'
-  :file: data/wd-appmanifest-20230125.yaml
+  :date: '20230329'
+  :file: data/wd-appmanifest-20230329.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -1354,8 +1354,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20230329'
-  :file: data/wd-compute-pressure-20230329.yaml
+  :date: '20230330'
+  :file: data/wd-compute-pressure-20230330.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -2158,16 +2158,16 @@
   :file: data/css-display-3.yaml
 - :code: css-display-3
   :stage: CR
+  :date: '20230330'
+  :file: data/cr-css-display-3-20230330.yaml
+- :code: css-display-3
+  :stage: CR
   :date: '20190711'
   :file: data/cr-css-display-3-20190711.yaml
 - :code: css-display-3
   :stage: CR
   :date: '20180828'
   :file: data/cr-css-display-3-20180828.yaml
-- :code: css-display-3
-  :stage: CRD
-  :date: '20230316'
-  :file: data/crd-css-display-3-20230316.yaml
 - :code: css-display-3
   :stage: CRD
   :date: '20210903'
@@ -2492,8 +2492,8 @@
   :file: data/css-overflow-3.yaml
 - :code: css-overflow-3
   :stage: WD
-  :date: '20230321'
-  :file: data/wd-css-overflow-3-20230321.yaml
+  :date: '20230329'
+  :file: data/wd-css-overflow-3-20230329.yaml
 - :code: css-overflow-3
   :stage: WD
   :date: '20211223'
@@ -2892,8 +2892,8 @@
   :file: data/css-text-4.yaml
 - :code: css-text-4
   :stage: WD
-  :date: '20230301'
-  :file: data/wd-css-text-4-20230301.yaml
+  :date: '20230329'
+  :file: data/wd-css-text-4-20230329.yaml
 - :code: css-text-4
   :stage: WD
   :date: '20220505'
@@ -5364,8 +5364,8 @@
   :file: data/epub-a11y-eaa-mapping.yaml
 - :code: epub-a11y-eaa-mapping
   :type: NOTE
-  :date: '20230329'
-  :file: data/note-epub-a11y-eaa-mapping-20230329.yaml
+  :date: '20230330'
+  :file: data/note-epub-a11y-eaa-mapping-20230330.yaml
 - :code: epub-a11y-eaa-mapping
   :type: NOTE
   :date: '20220519'
@@ -5378,8 +5378,8 @@
   :file: data/epub-a11y-tech-11.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
-  :date: '20230222'
-  :file: data/note-epub-a11y-tech-11-20230222.yaml
+  :date: '20230330'
+  :file: data/note-epub-a11y-tech-11-20230330.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
   :date: '20220520'
@@ -5398,8 +5398,8 @@
   :file: data/epub-multi-rend-11.yaml
 - :code: epub-multi-rend-11
   :type: NOTE
-  :date: '20230113'
-  :file: data/note-epub-multi-rend-11-20230113.yaml
+  :date: '20230330'
+  :file: data/note-epub-multi-rend-11-20230330.yaml
 - :code: epub-multi-rend-11
   :type: NOTE
   :date: '20220519'
@@ -5412,8 +5412,8 @@
   :file: data/epub-overview-33.yaml
 - :code: epub-overview-33
   :type: NOTE
-  :date: '20230113'
-  :file: data/note-epub-overview-33-20230113.yaml
+  :date: '20230330'
+  :file: data/note-epub-overview-33-20230330.yaml
 - :code: epub-overview-33
   :type: NOTE
   :date: '20220519'
@@ -5440,8 +5440,8 @@
   :file: data/epub-ssv-11.yaml
 - :code: epub-ssv-11
   :type: NOTE
-  :date: '20230113'
-  :file: data/note-epub-ssv-11-20230113.yaml
+  :date: '20230330'
+  :file: data/note-epub-ssv-11-20230330.yaml
 - :code: epub-ssv-11
   :type: NOTE
   :date: '20220519'
@@ -5454,8 +5454,8 @@
   :file: data/epub-tts-10.yaml
 - :code: epub-tts-10
   :type: NOTE
-  :date: '20230113'
-  :file: data/note-epub-tts-10-20230113.yaml
+  :date: '20230330'
+  :file: data/note-epub-tts-10-20230330.yaml
 - :code: epub-tts-10
   :type: NOTE
   :date: '20220519'
@@ -16249,9 +16249,9 @@
 - :code: webnn
   :file: data/webnn.yaml
 - :code: webnn
-  :stage: WD
-  :date: '20230309'
-  :file: data/wd-webnn-20230309.yaml
+  :stage: CR
+  :date: '20230330'
+  :file: data/cr-webnn-20230330.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -16412,8 +16412,8 @@
   :file: data/cr-webrtc-stats-20180703.yaml
 - :code: webrtc-stats
   :stage: CRD
-  :date: '20230321'
-  :file: data/crd-webrtc-stats-20230321.yaml
+  :date: '20230330'
+  :file: data/crd-webrtc-stats-20230330.yaml
 - :code: webrtc-stats
   :stage: CRD
   :date: '20220517'
@@ -16442,8 +16442,8 @@
   :file: data/webrtc-svc.yaml
 - :code: webrtc-svc
   :stage: WD
-  :date: '20230221'
-  :file: data/wd-webrtc-svc-20230221.yaml
+  :date: '20230329'
+  :file: data/wd-webrtc-svc-20230329.yaml
 - :code: webrtc-svc
   :stage: WD
   :date: '20220303'
@@ -16952,12 +16952,12 @@
   :stage: WD
   :date: '20060407'
   :file: data/wd-window-20060407.yaml
-- :code: window-placement
-  :file: data/window-placement.yaml
-- :code: window-placement
+- :code: window-management
+  :file: data/window-management.yaml
+- :code: window-management
   :stage: WD
-  :date: '20230307'
-  :file: data/wd-window-placement-20230307.yaml
+  :date: '20230330'
+  :file: data/wd-window-management-20230330.yaml
 - :code: WOFF
   :file: data/woff.yaml
 - :code: WOFF

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: W3Cepub-a11y-eaa-mapping
 title:
 - content: EPUB Accessibility - EU Accessibility Act Mapping
@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CNOTE-epub-a11y-eaa-mapping-20230329
+    id: W3CNOTE-epub-a11y-eaa-mapping-20230330
     docid:
-    - id: W3C NOTE-epub-a11y-eaa-mapping-20230329
+    - id: W3C NOTE-epub-a11y-eaa-mapping-20230330
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-eaa-mapping-20230329
+      content: W3C NOTE-epub-a11y-eaa-mapping-20230330
       format: text/plain
 - type: hasEdition
   bibitem:

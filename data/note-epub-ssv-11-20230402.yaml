@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-tts-10-20230330
+id: W3CNOTE-epub-ssv-11-20230402
 title:
-- content: EPUB 3 Text-to-Speech Enhancements 1.0
+- content: EPUB 3 Structural Semantics Vocabulary 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230330/
+- content: https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230402/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/tts/
+- content: https://w3c.github.io/epub-specs/epub33/ssv/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-tts-10-20230330
+- id: W3C NOTE-epub-ssv-11-20230402
   type: W3C
   primary: true
-docnumber: NOTE-epub-tts-10-20230330
+docnumber: NOTE-epub-ssv-11-20230402
 date:
 - type: published
-  value: '2023-03-30'
+  value: '2023-04-02'
 contributor:
+- person:
+    name:
+      completename:
+        content: Ivan Herman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-30'
+revdate: '2023-04-02'
 language:
 - en
 script:
@@ -37,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-tts-10-20230113
+    id: W3CNOTE-epub-ssv-11-20230330
     docid:
-    - id: W3C NOTE-epub-tts-10-20230113
+    - id: W3C NOTE-epub-ssv-11-20230330
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-tts-10-20230113
+      content: W3C NOTE-epub-ssv-11-20230330
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-tts-10-20230330
+  number: NOTE-epub-ssv-11-20230402
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

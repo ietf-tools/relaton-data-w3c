@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-position-3-20230217
+id: W3CWD-webcodecs-20230403
 title:
-- content: CSS Positioned Layout Module Level 3
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-css-position-3-20230217/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230403/
   type: src
-- content: https://drafts.csswg.org/css-position-3/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-position-3-20230217
+- id: W3C WD-webcodecs-20230403
   type: W3C
   primary: true
-docnumber: WD-css-position-3-20230217
+docnumber: WD-webcodecs-20230403
 date:
 - type: published
-  value: '2023-02-17'
+  value: '2023-04-03'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tab Atkins Jr.
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-17'
+revdate: '2023-04-03'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-position-3-20220901
+    id: W3CWD-webcodecs-20230317
     docid:
-    - id: W3C WD-css-position-3-20220901
+    - id: W3C WD-webcodecs-20230317
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-position-3-20220901
+      content: W3C WD-webcodecs-20230317
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-position-3-20230217
+  number: WD-webcodecs-20230403
 doctype: technicalReport
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-a11y-tech-11-20230402
+id: W3CWD-vc-data-model-2.0-20230403
 title:
-- content: EPUB Accessibility Techniques 1.1
+- content: Verifiable Credentials Data Model v2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230402/
+- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230403/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/a11y-tech/
+- content: https://w3c.github.io/vc-data-model/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-tech-11-20230402
+- id: W3C WD-vc-data-model-2.0-20230403
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-tech-11-20230402
+docnumber: WD-vc-data-model-2.0-20230403
 date:
 - type: published
-  value: '2023-04-02'
+  value: '2023-04-03'
 contributor:
 - person:
     name:
       completename:
-        content: Avneesh Singh
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
+        content: Manu Sporny
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: George Kerscher
+        content: Michael Jones
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Oliver Terbu
         language:
         - en
         script:
@@ -62,36 +62,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-02'
+revdate: '2023-04-03'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-a11y-tech-11-20230330
+    id: W3CWD-vc-data-model-2.0-20230323
     docid:
-    - id: W3C NOTE-epub-a11y-tech-11-20230330
+    - id: W3C WD-vc-data-model-2.0-20230323
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-tech-11-20230330
+      content: W3C WD-vc-data-model-2.0-20230323
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-epub-a11y-tech-11-20230402
-doctype: groupNote
+  number: WD-vc-data-model-2.0-20230403
+doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

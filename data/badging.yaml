@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Crdf-canon
+id: W3Cbadging
 title:
-- content: RDF Dataset Canonicalization
+- content: Badging API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/rdf-canon/
+- content: https://www.w3.org/TR/badging/
   type: src
 type: standard
 docid:
-- id: W3C rdf-canon
+- id: W3C badging
   type: W3C
   primary: true
-docnumber: rdf-canon
+docnumber: badging
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-rdf-canon-20230405
+    id: W3CWD-badging-20230406
     docid:
-    - id: W3C WD-rdf-canon-20230405
+    - id: W3C WD-badging-20230406
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230405
+      content: W3C WD-badging-20230406
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: rdf-canon
+  number: badging
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

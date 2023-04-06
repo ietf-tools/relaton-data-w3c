@@ -761,6 +761,12 @@
   :type: NOTE
   :date: '20061116'
   :file: data/note-backplane-20061116.yaml
+- :code: badging
+  :file: data/badging.yaml
+- :code: badging
+  :stage: WD
+  :date: '20230406'
+  :file: data/wd-badging-20230406.yaml
 - :code: baggage
   :file: data/baggage.yaml
 - :code: baggage
@@ -1642,8 +1648,8 @@
   :file: data/csp3.yaml
 - :code: CSP3
   :stage: WD
-  :date: '20230220'
-  :file: data/wd-csp3-20230220.yaml
+  :date: '20230406'
+  :file: data/wd-csp3-20230406.yaml
 - :code: CSP3
   :stage: WD
   :date: '20210629'
@@ -1825,9 +1831,9 @@
 - :code: css-box-3
   :file: data/css-box-3.yaml
 - :code: css-box-3
-  :stage: PR
-  :date: '20230216'
-  :file: data/pr-css-box-3-20230216.yaml
+  :stage: REC
+  :date: '20230406'
+  :file: data/rec-css-box-3-20230406.yaml
 - :code: css-box-3
   :stage: CR
   :date: '20201222'
@@ -2230,6 +2236,10 @@
   :file: data/wd-css-flexbox-1-20140925.yaml
 - :code: css-font-loading-3
   :file: data/css-font-loading-3.yaml
+- :code: css-font-loading-3
+  :stage: WD
+  :date: '20230406'
+  :file: data/wd-css-font-loading-3-20230406.yaml
 - :code: css-font-loading-3
   :stage: WD
   :date: '20140522'
@@ -8372,8 +8382,8 @@
   :file: data/cr-mediacapture-streams-20160519.yaml
 - :code: mediacapture-streams
   :stage: CRD
-  :date: '20230323'
-  :file: data/crd-mediacapture-streams-20230323.yaml
+  :date: '20230406'
+  :file: data/crd-mediacapture-streams-20230406.yaml
 - :code: mediacapture-streams
   :stage: CRD
   :date: '20220505'
@@ -11060,8 +11070,8 @@
   :file: data/rdf-canon.yaml
 - :code: rdf-canon
   :stage: WD
-  :date: '20230315'
-  :file: data/wd-rdf-canon-20230315.yaml
+  :date: '20230405'
+  :file: data/wd-rdf-canon-20230405.yaml
 - :code: rdf-concepts
   :file: data/rdf-concepts.yaml
 - :code: rdf-concepts
@@ -16551,8 +16561,8 @@
   :file: data/webtransport.yaml
 - :code: webtransport
   :stage: WD
-  :date: '20230118'
-  :file: data/wd-webtransport-20230118.yaml
+  :date: '20230405'
+  :file: data/wd-webtransport-20230405.yaml
 - :code: webtransport
   :stage: WD
   :date: '20220311'
@@ -16713,8 +16723,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230404'
-  :file: data/wd-wgsl-20230404.yaml
+  :date: '20230406'
+  :file: data/wd-wgsl-20230406.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

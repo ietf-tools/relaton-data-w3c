@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-css-box-3-20230216
+    id: W3CREC-css-box-3-20230406
     docid:
-    - id: W3C PR-css-box-3-20230216
+    - id: W3C REC-css-box-3-20230406
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-css-box-3-20230216
+      content: W3C REC-css-box-3-20230406
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +53,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: css-box-3
 doctype: technicalReport

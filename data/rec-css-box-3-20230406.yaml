@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CREC-css-box-3-20230406
+title:
+- content: CSS Box Model Module Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/REC-css-box-3-20230406/
+  type: src
+- content: https://drafts.csswg.org/css-box-3/
+  type: current
+type: standard
+docid:
+- id: W3C REC-css-box-3-20230406
+  type: W3C
+  primary: true
+docnumber: REC-css-box-3-20230406
+date:
+- type: published
+  value: '2023-04-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPR-css-box-3-20230216
+    docid:
+    - id: W3C PR-css-box-3-20230216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-css-box-3-20230216
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-css-box-3-20230406
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

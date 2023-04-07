@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-trace-context-2-20220929
+id: W3CWD-trace-context-2-20230406
 title:
 - content: Trace Context Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-trace-context-2-20220929/
+- content: https://www.w3.org/TR/2023/WD-trace-context-2-20230406/
   type: src
 - content: https://w3c.github.io/trace-context/
   type: current
 type: standard
 docid:
-- id: W3C WD-trace-context-2-20220929
+- id: W3C WD-trace-context-2-20230406
   type: W3C
   primary: true
-docnumber: WD-trace-context-2-20220929
+docnumber: WD-trace-context-2-20230406
 date:
 - type: published
-  value: '2022-09-29'
+  value: '2023-04-06'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-29'
+revdate: '2023-04-06'
 language:
 - en
 script:
@@ -57,11 +57,22 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-trace-context-2-20220929
+    docid:
+    - id: W3C WD-trace-context-2-20220929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trace-context-2-20220929
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-trace-context-2-20220929
+  number: WD-trace-context-2-20230406
 doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-CSP3-20230406
+id: W3CWD-html-aam-1.0-20230411
 title:
-- content: Content Security Policy Level 3
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-CSP3-20230406/
+- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/
   type: src
-- content: https://w3c.github.io/webappsec-csp/
+- content: https://w3c.github.io/html-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20230406
+- id: W3C WD-html-aam-1.0-20230411
   type: W3C
   primary: true
-docnumber: WD-CSP3-20230406
+docnumber: WD-html-aam-1.0-20230411
 date:
 - type: published
-  value: '2023-04-06'
+  value: '2023-04-11'
 contributor:
 - person:
     name:
       completename:
-        content: Antonio Sartori
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike West
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-06'
+revdate: '2023-04-11'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-CSP3-20230220
+    id: W3CWD-html-aam-1.0-20230328
     docid:
-    - id: W3C WD-CSP3-20230220
+    - id: W3C WD-html-aam-1.0-20230328
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20230220
+      content: W3C WD-html-aam-1.0-20230328
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-CSP3-20230406
+  number: WD-html-aam-1.0-20230411
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webrtc-svc-20230329
+id: W3CWD-webrtc-svc-20230412
 title:
 - content: Scalable Video Coding (SVC) Extension for WebRTC
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-svc-20230329/
+- content: https://www.w3.org/TR/2023/WD-webrtc-svc-20230412/
   type: src
 - content: https://w3c.github.io/webrtc-svc/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-svc-20230329
+- id: W3C WD-webrtc-svc-20230412
   type: W3C
   primary: true
-docnumber: WD-webrtc-svc-20230329
+docnumber: WD-webrtc-svc-20230412
 date:
 - type: published
-  value: '2023-03-29'
+  value: '2023-04-12'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-29'
+revdate: '2023-04-12'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-svc-20230221
+    id: W3CWD-webrtc-svc-20230329
     docid:
-    - id: W3C WD-webrtc-svc-20230221
+    - id: W3C WD-webrtc-svc-20230329
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-svc-20230221
+      content: W3C WD-webrtc-svc-20230329
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-svc-20230329
+  number: WD-webrtc-svc-20230412
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

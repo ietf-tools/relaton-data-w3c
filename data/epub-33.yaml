@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: proposedRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CCR-epub-33-20230221
+    id: W3CPR-epub-33-20230413
     docid:
-    - id: W3C CR-epub-33-20230221
+    - id: W3C PR-epub-33-20230413
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-epub-33-20230221
+      content: W3C PR-epub-33-20230413
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +53,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C PR
     format: text/plain
   number: epub-33
 doctype: technicalReport

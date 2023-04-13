@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-epub-rs-33-20230221
+id: W3CPR-epub-rs-33-20230413
 title:
 - content: EPUB Reading Systems 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CR-epub-rs-33-20230221/
+- content: https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/rs/
   type: current
 type: standard
 docid:
-- id: W3C CR-epub-rs-33-20230221
+- id: W3C PR-epub-rs-33-20230413
   type: W3C
   primary: true
-docnumber: CR-epub-rs-33-20230221
+docnumber: PR-epub-rs-33-20230413
 date:
 - type: published
-  value: '2023-02-21'
+  value: '2023-04-13'
 contributor:
 - person:
     name:
@@ -49,30 +49,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-21'
+revdate: '2023-04-13'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: proposedRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-epub-rs-33-20230209
+    id: W3CCR-epub-rs-33-20230221
     docid:
-    - id: W3C CRD-epub-rs-33-20230209
+    - id: W3C CR-epub-rs-33-20230221
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-rs-33-20230209
+      content: W3C CR-epub-rs-33-20230221
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C PR
     format: text/plain
-  number: CR-epub-rs-33-20230221
+  number: PR-epub-rs-33-20230413
 doctype: technicalReport
 editorialgroup:
 - name: EPUB 3 Working Group

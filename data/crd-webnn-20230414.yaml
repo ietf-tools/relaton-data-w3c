@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20230406
+id: W3CCRD-webnn-20230414
 title:
-- content: WebGPU
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230406/
+- content: https://www.w3.org/TR/2023/CRD-webnn-20230414/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230406
+- id: W3C CRD-webnn-20230414
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230406
+docnumber: CRD-webnn-20230414
 date:
 - type: published
-  value: '2023-04-06'
+  value: '2023-04-14'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Chai Chaoweeraprasit
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Myles Maxfield
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-04-06'
+revdate: '2023-04-14'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230328
+    id: W3CCR-webnn-20230330
     docid:
-    - id: W3C WD-webgpu-20230328
+    - id: W3C CR-webnn-20230330
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230328
+      content: W3C CR-webnn-20230330
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20230406
+  number: CRD-webnn-20230414
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

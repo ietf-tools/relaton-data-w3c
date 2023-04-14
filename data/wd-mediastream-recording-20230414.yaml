@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-screen-orientation-20230413
+id: W3CWD-mediastream-recording-20230414
 title:
-- content: Screen Orientation
+- content: MediaStream Recording
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-screen-orientation-20230413/
+- content: https://www.w3.org/TR/2023/WD-mediastream-recording-20230414/
   type: src
-- content: https://w3c.github.io/screen-orientation/
+- content: https://w3c.github.io/mediacapture-record/
   type: current
 type: standard
 docid:
-- id: W3C WD-screen-orientation-20230413
+- id: W3C WD-mediastream-recording-20230414
   type: W3C
   primary: true
-docnumber: WD-screen-orientation-20230413
+docnumber: WD-mediastream-recording-20230414
 date:
 - type: published
-  value: '2023-04-13'
+  value: '2023-04-14'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Miguel Casas-sanchez
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-13'
+revdate: '2023-04-14'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-screen-orientation-20230403
+    id: W3CWD-mediastream-recording-20220607
     docid:
-    - id: W3C WD-screen-orientation-20230403
+    - id: W3C WD-mediastream-recording-20220607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-orientation-20230403
+      content: W3C WD-mediastream-recording-20220607
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-screen-orientation-20230413
+  number: WD-mediastream-recording-20230414
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

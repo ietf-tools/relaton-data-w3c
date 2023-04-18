@@ -12285,8 +12285,8 @@
   :file: data/secure-payment-confirmation.yaml
 - :code: secure-payment-confirmation
   :stage: WD
-  :date: '20230414'
-  :file: data/wd-secure-payment-confirmation-20230414.yaml
+  :date: '20230417'
+  :file: data/wd-secure-payment-confirmation-20230417.yaml
 - :code: secure-payment-confirmation
   :stage: WD
   :date: '20210831'
@@ -13899,9 +13899,9 @@
 - :code: trace-context-2
   :file: data/trace-context-2.yaml
 - :code: trace-context-2
-  :stage: WD
-  :date: '20230406'
-  :file: data/wd-trace-context-2-20230406.yaml
+  :stage: CR
+  :date: '20230418'
+  :file: data/cr-trace-context-2-20230418.yaml
 - :code: trace-context-protocols-registry
   :file: data/trace-context-protocols-registry.yaml
 - :code: trace-context-protocols-registry
@@ -14585,6 +14585,18 @@
   :stage: WD
   :date: '20230414'
   :file: data/wd-vc-data-model-2.0-20230414.yaml
+- :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :code: vc-di-ecdsa
+  :stage: WD
+  :date: '20230418'
+  :file: data/wd-vc-di-ecdsa-20230418.yaml
+- :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :code: vc-di-eddsa
+  :stage: WD
+  :date: '20230418'
+  :file: data/wd-vc-di-eddsa-20230418.yaml
 - :code: vc-imp-guide
   :file: data/vc-imp-guide.yaml
 - :code: vc-imp-guide
@@ -16146,8 +16158,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230413'
-  :file: data/wd-webgpu-20230413.yaml
+  :date: '20230418'
+  :file: data/wd-webgpu-20230418.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16456,8 +16468,8 @@
   :file: data/webrtc-svc.yaml
 - :code: webrtc-svc
   :stage: WD
-  :date: '20230415'
-  :file: data/wd-webrtc-svc-20230415.yaml
+  :date: '20230417'
+  :file: data/wd-webrtc-svc-20230417.yaml
 - :code: webrtc-svc
   :stage: WD
   :date: '20220303'

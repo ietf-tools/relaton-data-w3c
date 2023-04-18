@@ -1,41 +1,41 @@
 ---
 schema-version: v1.2.3
-id: W3Ctrace-context-2
+id: W3Cvc-di-eddsa
 title:
-- content: Trace Context Level 2
+- content: EdDSA Cryptosuite v2022
   format: text/plain
 link:
-- content: https://www.w3.org/TR/trace-context-2/
+- content: https://www.w3.org/TR/vc-di-eddsa/
   type: src
 type: standard
 docid:
-- id: W3C trace-context-2
+- id: W3C vc-di-eddsa
   type: W3C
   primary: true
-docnumber: trace-context-2
+docnumber: vc-di-eddsa
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CCR-trace-context-2-20230418
+    id: W3CWD-vc-di-eddsa-20230418
     docid:
-    - id: W3C CR-trace-context-2-20230418
+    - id: W3C WD-vc-di-eddsa-20230418
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-trace-context-2-20230418
+      content: W3C WD-vc-di-eddsa-20230418
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: trace-context-2
+  number: vc-di-eddsa
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

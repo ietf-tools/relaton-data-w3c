@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-secure-payment-confirmation-20230417
+id: W3CWD-orientation-event-20230421
 title:
-- content: Secure Payment Confirmation
+- content: DeviceOrientation Event Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230417/
+- content: https://www.w3.org/TR/2023/WD-orientation-event-20230421/
   type: src
-- content: https://w3c.github.io/secure-payment-confirmation/
+- content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C WD-secure-payment-confirmation-20230417
+- id: W3C WD-orientation-event-20230421
   type: W3C
   primary: true
-docnumber: WD-secure-payment-confirmation-20230417
+docnumber: WD-orientation-event-20230421
 date:
 - type: published
-  value: '2023-04-17'
+  value: '2023-04-21'
 contributor:
 - person:
     name:
       completename:
-        content: Rouslan Solomakhin
+        content: Raphael Kubo da Costa
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Stephen McGruer
+        content: Reilly Grant
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-17'
+revdate: '2023-04-21'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-secure-payment-confirmation-20230414
+    id: W3CWD-orientation-event-20230412
     docid:
-    - id: W3C WD-secure-payment-confirmation-20230414
+    - id: W3C WD-orientation-event-20230412
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-secure-payment-confirmation-20230414
+      content: W3C WD-orientation-event-20230412
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-secure-payment-confirmation-20230417
+  number: WD-orientation-event-20230421
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-selection-api-20230404
+id: W3CWD-selection-api-20230422
 title:
 - content: Selection API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-selection-api-20230404/
+- content: https://www.w3.org/TR/2023/WD-selection-api-20230422/
   type: src
 - content: https://w3c.github.io/selection-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-selection-api-20230404
+- id: W3C WD-selection-api-20230422
   type: W3C
   primary: true
-docnumber: WD-selection-api-20230404
+docnumber: WD-selection-api-20230422
 date:
 - type: published
-  value: '2023-04-04'
+  value: '2023-04-22'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-04'
+revdate: '2023-04-22'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-selection-api-20230321
+    id: W3CWD-selection-api-20230404
     docid:
-    - id: W3C WD-selection-api-20230321
+    - id: W3C WD-selection-api-20230404
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-selection-api-20230321
+      content: W3C WD-selection-api-20230404
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-selection-api-20230404
+  number: WD-selection-api-20230422
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

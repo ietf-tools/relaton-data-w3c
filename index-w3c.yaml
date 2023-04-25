@@ -4151,6 +4151,12 @@
   :type: NOTE
   :date: '20100629'
   :file: data/note-dap-privacy-reqs-20100629.yaml
+- :code: dapt
+  :file: data/dapt.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20230425'
+  :file: data/wd-dapt-20230425.yaml
 - :code: dapt-reqs
   :file: data/dapt-reqs.yaml
 - :code: dapt-reqs
@@ -6359,8 +6365,8 @@
   :file: data/note-hr-time-3-20170803.yaml
 - :code: hr-time-3
   :stage: WD
-  :date: '20230411'
-  :file: data/wd-hr-time-3-20230411.yaml
+  :date: '20230425'
+  :file: data/wd-hr-time-3-20230425.yaml
 - :code: hr-time-3
   :stage: WD
   :date: '20220128'
@@ -7057,6 +7063,10 @@
   :file: data/i18n-glossary.yaml
 - :code: i18n-glossary
   :type: DNOTE
+  :date: '20230424'
+  :file: data/dnote-i18n-glossary-20230424.yaml
+- :code: i18n-glossary
+  :type: DNOTE
   :date: '20220211'
   :file: data/dnote-i18n-glossary-20220211.yaml
 - :code: i18n-glossary
@@ -7446,8 +7456,8 @@
   :file: data/international-specs.yaml
 - :code: international-specs
   :type: DNOTE
-  :date: '20220923'
-  :file: data/dnote-international-specs-20220923.yaml
+  :date: '20230424'
+  :file: data/dnote-international-specs-20230424.yaml
 - :code: international-specs
   :type: DNOTE
   :date: '20220501'
@@ -14583,8 +14593,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20230422'
-  :file: data/wd-vc-data-model-2.0-20230422.yaml
+  :date: '20230424'
+  :file: data/wd-vc-data-model-2.0-20230424.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
@@ -16735,8 +16745,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230419'
-  :file: data/wd-wgsl-20230419.yaml
+  :date: '20230424'
+  :file: data/wd-wgsl-20230424.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

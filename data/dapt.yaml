@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cvc-data-model-2.0
+id: W3Cdapt
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/vc-data-model-2.0/
+- content: https://www.w3.org/TR/dapt/
   type: src
 type: standard
 docid:
-- id: W3C vc-data-model-2.0
+- id: W3C dapt
   type: W3C
   primary: true
-docnumber: vc-data-model-2.0
+docnumber: dapt
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20230424
+    id: W3CWD-dapt-20230425
     docid:
-    - id: W3C WD-vc-data-model-2.0-20230424
+    - id: W3C WD-dapt-20230425
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20230424
+      content: W3C WD-dapt-20230425
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: vc-data-model-2.0
+  number: dapt
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

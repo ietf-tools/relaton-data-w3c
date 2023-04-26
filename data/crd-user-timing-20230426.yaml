@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-user-timing-20230426
+title:
+- content: User Timing Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-user-timing-20230426/
+  type: src
+- content: https://w3c.github.io/user-timing/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-user-timing-20230426
+  type: W3C
+  primary: true
+docnumber: CRD-user-timing-20230426
+date:
+- type: published
+  value: '2023-04-26'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nicolas Pena Moreno
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-26'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-user-timing-20211202
+    docid:
+    - id: W3C CR-user-timing-20211202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-user-timing-20211202
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-user-timing-20230426
+doctype: technicalReport
+editorialgroup:
+- name: Web Performance Working Group
+ext:
+  schema-version: v1.0.0

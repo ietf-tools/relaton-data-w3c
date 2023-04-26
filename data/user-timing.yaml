@@ -31,7 +31,7 @@ relation:
     formattedref:
       content: W3C REC-user-timing-20131212
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CCRD-user-timing-20220803
     docid:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-user-timing-20220803
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-user-timing-20230426
+    docid:
+    - id: W3C CRD-user-timing-20230426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-user-timing-20230426
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cvc-status-list
+title:
+- content: Verifiable Credentials Status List v2021
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-status-list/
+  type: src
+type: standard
+docid:
+- id: W3C vc-status-list
+  type: W3C
+  primary: true
+docnumber: vc-status-list
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-status-list-20230427
+    docid:
+    - id: W3C WD-vc-status-list-20230427
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-status-list-20230427
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-status-list
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

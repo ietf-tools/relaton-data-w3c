@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-mediacapture-streams-20230427
+title:
+- content: Media Capture and Streams
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230427/
+  type: src
+- content: https://w3c.github.io/mediacapture-main/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-mediacapture-streams-20230427
+  type: W3C
+  primary: true
+docnumber: CRD-mediacapture-streams-20230427
+date:
+- type: published
+  value: '2023-04-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Cullen Jennings
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Henrik Boström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Jan-Ivar Bruaroey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-mediacapture-streams-20230413
+    docid:
+    - id: W3C CRD-mediacapture-streams-20230413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mediacapture-streams-20230413
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-mediacapture-streams-20230427
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

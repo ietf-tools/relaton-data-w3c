@@ -493,8 +493,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20230329'
-  :file: data/wd-appmanifest-20230329.yaml
+  :date: '20230426'
+  :file: data/wd-appmanifest-20230426.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -4292,8 +4292,8 @@
   :file: data/design-principles.yaml
 - :code: design-principles
   :type: NOTE
-  :date: '20230224'
-  :file: data/note-design-principles-20230224.yaml
+  :date: '20230426'
+  :file: data/note-design-principles-20230426.yaml
 - :code: design-principles
   :type: NOTE
   :date: '20211216'
@@ -7456,8 +7456,8 @@
   :file: data/international-specs.yaml
 - :code: international-specs
   :type: DNOTE
-  :date: '20230424'
-  :file: data/dnote-international-specs-20230424.yaml
+  :date: '20230427'
+  :file: data/dnote-international-specs-20230427.yaml
 - :code: international-specs
   :type: DNOTE
   :date: '20220501'
@@ -8392,8 +8392,8 @@
   :file: data/cr-mediacapture-streams-20160519.yaml
 - :code: mediacapture-streams
   :stage: CRD
-  :date: '20230413'
-  :file: data/crd-mediacapture-streams-20230413.yaml
+  :date: '20230427'
+  :file: data/crd-mediacapture-streams-20230427.yaml
 - :code: mediacapture-streams
   :stage: CRD
   :date: '20220505'
@@ -14624,6 +14624,18 @@
   :stage: WD
   :date: '20230127'
   :file: data/wd-vc-jws-2020-20230127.yaml
+- :code: vc-jwt
+  :file: data/vc-jwt.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230427'
+  :file: data/wd-vc-jwt-20230427.yaml
+- :code: vc-status-list
+  :file: data/vc-status-list.yaml
+- :code: vc-status-list
+  :stage: WD
+  :date: '20230427'
+  :file: data/wd-vc-status-list-20230427.yaml
 - :code: vc-use-cases
   :file: data/vc-use-cases.yaml
 - :code: vc-use-cases
@@ -16172,8 +16184,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230425'
-  :file: data/wd-webgpu-20230425.yaml
+  :date: '20230426'
+  :file: data/wd-webgpu-20230426.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16400,8 +16412,8 @@
   :file: data/webrtc-encoded-transform.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
-  :date: '20230131'
-  :file: data/wd-webrtc-encoded-transform-20230131.yaml
+  :date: '20230427'
+  :file: data/wd-webrtc-encoded-transform-20230427.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
   :date: '20220519'
@@ -16452,8 +16464,8 @@
   :file: data/cr-webrtc-stats-20180703.yaml
 - :code: webrtc-stats
   :stage: CRD
-  :date: '20230421'
-  :file: data/crd-webrtc-stats-20230421.yaml
+  :date: '20230427'
+  :file: data/crd-webrtc-stats-20230427.yaml
 - :code: webrtc-stats
   :stage: CRD
   :date: '20220517'

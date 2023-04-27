@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cvc-jwt
+title:
+- content: Securing Verifiable Credentials using JSON Web Tokens
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-jwt/
+  type: src
+type: standard
+docid:
+- id: W3C vc-jwt
+  type: W3C
+  primary: true
+docnumber: vc-jwt
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-jwt-20230427
+    docid:
+    - id: W3C WD-vc-jwt-20230427
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-jwt-20230427
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-jwt
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

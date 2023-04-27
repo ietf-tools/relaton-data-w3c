@@ -1,0 +1,69 @@
+---
+schema-version: v1.2.3
+id: W3CWD-vc-jwt-20230427
+title:
+- content: Securing Verifiable Credentials using JSON Web Tokens
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230427/
+  type: src
+- content: https://w3c.github.io/vc-jwt/
+  type: current
+type: standard
+docid:
+- id: W3C WD-vc-jwt-20230427
+  type: W3C
+  primary: true
+docnumber: WD-vc-jwt-20230427
+date:
+- type: published
+  value: '2023-04-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Michael Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Prorock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Orie Steele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-vc-jwt-20230427
+doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-html-aam-1.0-20230411
+id: W3CWD-webcodecs-20230427
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230427/
   type: src
-- content: https://w3c.github.io/html-aam/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20230411
+- id: W3C WD-webcodecs-20230427
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20230411
+docnumber: WD-webcodecs-20230427
 date:
 - type: published
-  value: '2023-04-11'
+  value: '2023-04-27'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-11'
+revdate: '2023-04-27'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aam-1.0-20230328
+    id: W3CWD-webcodecs-20230419
     docid:
-    - id: W3C WD-html-aam-1.0-20230328
+    - id: W3C WD-webcodecs-20230419
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20230328
+      content: W3C WD-webcodecs-20230419
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20230411
+  number: WD-webcodecs-20230427
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

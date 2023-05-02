@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-appmanifest-20230426
+id: W3CWD-appmanifest-20230502
 title:
 - content: Web Application Manifest
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-appmanifest-20230426/
+- content: https://www.w3.org/TR/2023/WD-appmanifest-20230502/
   type: src
 - content: https://w3c.github.io/manifest/
   type: current
 type: standard
 docid:
-- id: W3C WD-appmanifest-20230426
+- id: W3C WD-appmanifest-20230502
   type: W3C
   primary: true
-docnumber: WD-appmanifest-20230426
+docnumber: WD-appmanifest-20230502
 date:
 - type: published
-  value: '2023-04-26'
+  value: '2023-05-02'
 contributor:
 - person:
     name:
@@ -79,7 +79,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-26'
+revdate: '2023-05-02'
 language:
 - en
 script:
@@ -90,19 +90,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-appmanifest-20230329
+    id: W3CWD-appmanifest-20230426
     docid:
-    - id: W3C WD-appmanifest-20230329
+    - id: W3C WD-appmanifest-20230426
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-appmanifest-20230329
+      content: W3C WD-appmanifest-20230426
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-appmanifest-20230426
+  number: WD-appmanifest-20230502
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

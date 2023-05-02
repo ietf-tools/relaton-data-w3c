@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jwt-20230427
+id: W3CWD-webgpu-20230501
 title:
-- content: Securing Verifiable Credentials using JSON Web Tokens
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230427/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230501/
   type: src
-- content: https://w3c.github.io/vc-jwt/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jwt-20230427
+- id: W3C WD-webgpu-20230501
   type: W3C
   primary: true
-docnumber: WD-vc-jwt-20230427
+docnumber: WD-webgpu-20230501
 date:
 - type: published
-  value: '2023-04-27'
+  value: '2023-05-01'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-27'
+revdate: '2023-05-01'
 language:
 - en
 script:
@@ -57,13 +57,24 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webgpu-20230426
+    docid:
+    - id: W3C WD-webgpu-20230426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webgpu-20230426
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jwt-20230427
+  number: WD-webgpu-20230501
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

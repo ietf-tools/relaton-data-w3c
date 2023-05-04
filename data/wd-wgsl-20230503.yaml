@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-audio-output-20230203
+id: W3CWD-WGSL-20230503
 title:
-- content: Audio Output Devices API
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-audio-output-20230203/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230503/
   type: src
-- content: https://w3c.github.io/mediacapture-output/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C CRD-audio-output-20230203
+- id: W3C WD-WGSL-20230503
   type: W3C
   primary: true
-docnumber: CRD-audio-output-20230203
+docnumber: WD-WGSL-20230503
 date:
 - type: published
-  value: '2023-02-03'
+  value: '2023-05-03'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Justin Uberti
+        content: David Neto
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-03'
+revdate: '2023-05-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-audio-output-20220210
+    id: W3CWD-WGSL-20230501
     docid:
-    - id: W3C CRD-audio-output-20220210
+    - id: W3C WD-WGSL-20230501
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-audio-output-20220210
+      content: W3C WD-WGSL-20230501
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-audio-output-20230203
+  number: WD-WGSL-20230503
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

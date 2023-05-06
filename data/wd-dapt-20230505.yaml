@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20230415
+id: W3CWD-dapt-20230505
 title:
-- content: RDF Dataset Canonicalization
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230415/
+- content: https://www.w3.org/TR/2023/WD-dapt-20230505/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230415
+- id: W3C WD-dapt-20230505
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230415
+docnumber: WD-dapt-20230505
 date:
 - type: published
-  value: '2023-04-15'
+  value: '2023-05-05'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-04-15'
+revdate: '2023-05-05'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230412
+    id: W3CWD-dapt-20230504
     docid:
-    - id: W3C WD-rdf-canon-20230412
+    - id: W3C WD-dapt-20230504
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230412
+      content: W3C WD-dapt-20230504
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf-canon-20230415
+  number: WD-dapt-20230505
 doctype: technicalReport
+editorialgroup:
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

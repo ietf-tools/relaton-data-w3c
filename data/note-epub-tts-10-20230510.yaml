@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-tts-10-20230402
+id: W3CNOTE-epub-tts-10-20230510
 title:
 - content: EPUB 3 Text-to-Speech Enhancements 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230402/
+- content: https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230510/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/tts/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-tts-10-20230402
+- id: W3C NOTE-epub-tts-10-20230510
   type: W3C
   primary: true
-docnumber: NOTE-epub-tts-10-20230402
+docnumber: NOTE-epub-tts-10-20230510
 date:
 - type: published
-  value: '2023-04-02'
+  value: '2023-05-10'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-02'
+revdate: '2023-05-10'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-tts-10-20230330
+    id: W3CNOTE-epub-tts-10-20230402
     docid:
-    - id: W3C NOTE-epub-tts-10-20230330
+    - id: W3C NOTE-epub-tts-10-20230402
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-tts-10-20230330
+      content: W3C NOTE-epub-tts-10-20230402
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-tts-10-20230402
+  number: NOTE-epub-tts-10-20230510
 doctype: groupNote
 editorialgroup:
 - name: EPUB 3 Working Group

@@ -51,7 +51,7 @@ relation:
     formattedref:
       content: W3C CRD-resource-timing-20230313
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CCRD-resource-timing-20230509
     docid:
@@ -60,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-resource-timing-20230509
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-resource-timing-20230511
+    docid:
+    - id: W3C CRD-resource-timing-20230511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-resource-timing-20230511
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-reporting-1-20220917
+id: W3CWD-reporting-1-20230512
 title:
 - content: Reporting API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-reporting-1-20220917/
+- content: https://www.w3.org/TR/2023/WD-reporting-1-20230512/
   type: src
 - content: https://w3c.github.io/reporting/
   type: current
 type: standard
 docid:
-- id: W3C WD-reporting-1-20220917
+- id: W3C WD-reporting-1-20230512
   type: W3C
   primary: true
-docnumber: WD-reporting-1-20220917
+docnumber: WD-reporting-1-20230512
 date:
 - type: published
-  value: '2022-09-17'
+  value: '2023-05-12'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-17'
+revdate: '2023-05-12'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-reporting-1-20220916
+    id: W3CWD-reporting-1-20220917
     docid:
-    - id: W3C WD-reporting-1-20220916
+    - id: W3C WD-reporting-1-20220917
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-reporting-1-20220916
+      content: W3C WD-reporting-1-20220917
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-reporting-1-20220917
+  number: WD-reporting-1-20230512
 doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

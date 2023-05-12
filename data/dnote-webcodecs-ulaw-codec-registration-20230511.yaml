@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-hevc-codec-registration-20230427
+id: W3CDNOTE-webcodecs-ulaw-codec-registration-20230511
 title:
-- content: HEVC (H.265) WebCodecs Registration
+- content: u-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230427/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-ulaw-codec-registration-20230511/
   type: src
-- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/ulaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-hevc-codec-registration-20230427
+- id: W3C DNOTE-webcodecs-ulaw-codec-registration-20230511
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-hevc-codec-registration-20230427
+docnumber: DNOTE-webcodecs-ulaw-codec-registration-20230511
 date:
 - type: published
-  value: '2023-04-27'
+  value: '2023-05-11'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-27'
+revdate: '2023-05-11'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-hevc-codec-registration-20230419
+    id: W3CDNOTE-webcodecs-ulaw-codec-registration-20230427
     docid:
-    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20230419
+    - id: W3C DNOTE-webcodecs-ulaw-codec-registration-20230427
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-hevc-codec-registration-20230419
+      content: W3C DNOTE-webcodecs-ulaw-codec-registration-20230427
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-hevc-codec-registration-20230427
+  number: DNOTE-webcodecs-ulaw-codec-registration-20230511
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

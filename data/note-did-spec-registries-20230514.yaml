@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-spec-registries-20230427
+id: W3CNOTE-did-spec-registries-20230514
 title:
 - content: DID Specification Registries
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230427/
+- content: https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230514/
   type: src
 - content: https://w3c.github.io/did-spec-registries/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-spec-registries-20230427
+- id: W3C NOTE-did-spec-registries-20230514
   type: W3C
   primary: true
-docnumber: NOTE-did-spec-registries-20230427
+docnumber: NOTE-did-spec-registries-20230514
 date:
 - type: published
-  value: '2023-04-27'
+  value: '2023-05-14'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-27'
+revdate: '2023-05-14'
 language:
 - en
 script:
@@ -57,19 +57,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-did-spec-registries-20230411
+    id: W3CNOTE-did-spec-registries-20230427
     docid:
-    - id: W3C NOTE-did-spec-registries-20230411
+    - id: W3C NOTE-did-spec-registries-20230427
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20230411
+      content: W3C NOTE-did-spec-registries-20230427
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-did-spec-registries-20230427
+  number: NOTE-did-spec-registries-20230514
 doctype: groupNote
 editorialgroup:
 - name: Decentralized Identifier Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aria-1.1-20230222
+id: W3CWD-vc-data-integrity-20230515
 title:
-- content: Digital Publishing WAI-ARIA Module 1.1
+- content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230222/
+- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/
   type: src
-- content: https://w3c.github.io/dpub-aria/
+- content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20230222
+- id: W3C WD-vc-data-integrity-20230515
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20230222
+docnumber: WD-vc-data-integrity-20230515
 date:
 - type: published
-  value: '2023-02-22'
+  value: '2023-05-15'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Dave Longley
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-22'
+revdate: '2023-05-15'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20230215
+    id: W3CWD-vc-data-integrity-20230428
     docid:
-    - id: W3C WD-dpub-aria-1.1-20230215
+    - id: W3C WD-vc-data-integrity-20230428
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aria-1.1-20230215
+      content: W3C WD-vc-data-integrity-20230428
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aria-1.1-20230222
+  number: WD-vc-data-integrity-20230515
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

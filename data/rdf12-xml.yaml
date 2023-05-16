@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Crdf12-xml
+title:
+- content: RDF 1.2 XML Syntax
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/rdf12-xml/
+  type: src
+type: standard
+docid:
+- id: W3C rdf12-xml
+  type: W3C
+  primary: true
+docnumber: rdf12-xml
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-rdf12-xml-20230516
+    docid:
+    - id: W3C WD-rdf12-xml-20230516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-xml-20230516
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: rdf12-xml
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

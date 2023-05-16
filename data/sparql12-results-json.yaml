@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Csparql12-results-json
+title:
+- content: SPARQL 1.2 Query Results JSON Format
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/sparql12-results-json/
+  type: src
+type: standard
+docid:
+- id: W3C sparql12-results-json
+  type: W3C
+  primary: true
+docnumber: sparql12-results-json
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-sparql12-results-json-20230516
+    docid:
+    - id: W3C WD-sparql12-results-json-20230516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql12-results-json-20230516
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: sparql12-results-json
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

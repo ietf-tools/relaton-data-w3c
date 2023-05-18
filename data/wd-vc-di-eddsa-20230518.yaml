@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-eddsa-20230515
+id: W3CWD-vc-di-eddsa-20230518
 title:
 - content: EdDSA Cryptosuite v2022
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230515/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230518/
   type: src
 - content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-eddsa-20230515
+- id: W3C WD-vc-di-eddsa-20230518
   type: W3C
   primary: true
-docnumber: WD-vc-di-eddsa-20230515
+docnumber: WD-vc-di-eddsa-20230518
 date:
 - type: published
-  value: '2023-05-15'
+  value: '2023-05-18'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-15'
+revdate: '2023-05-18'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-eddsa-20230503
+    id: W3CWD-vc-di-eddsa-20230515
     docid:
-    - id: W3C WD-vc-di-eddsa-20230503
+    - id: W3C WD-vc-di-eddsa-20230515
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20230503
+      content: W3C WD-vc-di-eddsa-20230515
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-eddsa-20230515
+  number: WD-vc-di-eddsa-20230518
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

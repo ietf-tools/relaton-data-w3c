@@ -1451,9 +1451,9 @@
 - :code: core-aam-1.2
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
-  :stage: CR
-  :date: '20221122'
-  :file: data/cr-core-aam-1.2-20221122.yaml
+  :stage: CRD
+  :date: '20230518'
+  :file: data/crd-core-aam-1.2-20230518.yaml
 - :code: core-aam-1.2
   :stage: WD
   :date: '20220526'
@@ -5436,8 +5436,8 @@
   :file: data/epub-overview-33.yaml
 - :code: epub-overview-33
   :type: NOTE
-  :date: '20230510'
-  :file: data/note-epub-overview-33-20230510.yaml
+  :date: '20230518'
+  :file: data/note-epub-overview-33-20230518.yaml
 - :code: epub-overview-33
   :type: NOTE
   :date: '20220519'
@@ -14715,18 +14715,24 @@
   :stage: WD
   :date: '20230513'
   :file: data/wd-vc-data-model-2.0-20230513.yaml
+- :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :code: vc-di-bbs
+  :stage: WD
+  :date: '20230518'
+  :file: data/wd-vc-di-bbs-20230518.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
   :stage: WD
-  :date: '20230420'
-  :file: data/wd-vc-di-ecdsa-20230420.yaml
+  :date: '20230518'
+  :file: data/wd-vc-di-ecdsa-20230518.yaml
 - :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :code: vc-di-eddsa
   :stage: WD
-  :date: '20230515'
-  :file: data/wd-vc-di-eddsa-20230515.yaml
+  :date: '20230518'
+  :file: data/wd-vc-di-eddsa-20230518.yaml
 - :code: vc-imp-guide
   :file: data/vc-imp-guide.yaml
 - :code: vc-imp-guide

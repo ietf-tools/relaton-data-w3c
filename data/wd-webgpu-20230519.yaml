@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-a11y-eaa-mapping-20230510
+id: W3CWD-webgpu-20230519
 title:
-- content: EPUB Accessibility - EU Accessibility Act Mapping
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230510/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230519/
   type: src
-- content: https://w3c.github.io/epub-specs/epub33/epub-a11y-eaa-mapping/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-eaa-mapping-20230510
+- id: W3C WD-webgpu-20230519
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-eaa-mapping-20230510
+docnumber: WD-webgpu-20230519
 date:
 - type: published
-  value: '2023-05-10'
+  value: '2023-05-19'
 contributor:
 - person:
     name:
       completename:
-        content: Cristina Mussinelli
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregorio Pellegrino
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -42,36 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Luc Audrain
+        content: Myles Maxfield
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-10'
+revdate: '2023-05-19'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-a11y-eaa-mapping-20230402
+    id: W3CWD-webgpu-20230510
     docid:
-    - id: W3C NOTE-epub-a11y-eaa-mapping-20230402
+    - id: W3C WD-webgpu-20230510
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-eaa-mapping-20230402
+      content: W3C WD-webgpu-20230510
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-epub-a11y-eaa-mapping-20230510
-doctype: groupNote
+  number: WD-webgpu-20230519
+doctype: technicalReport
 editorialgroup:
-- name: EPUB 3 Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

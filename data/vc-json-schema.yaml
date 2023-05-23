@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cvc-json-schema
+title:
+- content: Verifiable Credentials JSON Schema Specification 2023
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-json-schema/
+  type: src
+type: standard
+docid:
+- id: W3C vc-json-schema
+  type: W3C
+  primary: true
+docnumber: vc-json-schema
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-json-schema-20230523
+    docid:
+    - id: W3C WD-vc-json-schema-20230523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-json-schema-20230523
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-json-schema
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

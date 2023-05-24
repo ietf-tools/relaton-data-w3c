@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-baggage-20220928
+id: W3CWD-vc-json-schema-20230524
 title:
-- content: 'Propagation format for distributed context: Baggage'
+- content: Verifiable Credentials JSON Schema Specification 2023
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-baggage-20220928/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230524/
   type: src
-- content: https://w3c.github.io/baggage/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-baggage-20220928
+- id: W3C WD-vc-json-schema-20230524
   type: W3C
   primary: true
-docnumber: WD-baggage-20220928
+docnumber: WD-vc-json-schema-20230524
 date:
 - type: published
-  value: '2022-09-28'
+  value: '2023-05-24'
 contributor:
 - person:
     name:
       completename:
-        content: Sergey Kanzhelev
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Yuri Shkuro
+        content: Gabe Cohen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-28'
+- person:
+    name:
+      completename:
+        content: Orie Steele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-24'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-baggage-20220927
+    id: W3CWD-vc-json-schema-20230523
     docid:
-    - id: W3C WD-baggage-20220927
+    - id: W3C WD-vc-json-schema-20230523
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-baggage-20220927
+      content: W3C WD-vc-json-schema-20230523
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-baggage-20220928
+  number: WD-vc-json-schema-20230524
 doctype: technicalReport
 editorialgroup:
-- name: Distributed Tracing Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

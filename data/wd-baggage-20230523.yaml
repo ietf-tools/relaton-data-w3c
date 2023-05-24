@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20230523
+id: W3CWD-baggage-20230523
 title:
-- content: Verifiable Credentials JSON Schema Specification 2023
+- content: 'Propagation format for distributed context: Baggage'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230523/
+- content: https://www.w3.org/TR/2023/WD-baggage-20230523/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://w3c.github.io/baggage/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20230523
+- id: W3C WD-baggage-20230523
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20230523
+docnumber: WD-baggage-20230523
 date:
 - type: published
   value: '2023-05-23'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Sergey Kanzhelev
         language:
         - en
         script:
@@ -32,17 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Orie Steele
+        content: Yuri Shkuro
         language:
         - en
         script:
@@ -57,13 +47,24 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-baggage-20220928
+    docid:
+    - id: W3C WD-baggage-20220928
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-baggage-20220928
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-json-schema-20230523
+  number: WD-baggage-20230523
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Distributed Tracing Working Group
 ext:
   schema-version: v1.0.0

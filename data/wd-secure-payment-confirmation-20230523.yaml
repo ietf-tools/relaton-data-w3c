@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-secure-payment-confirmation-20230510
+id: W3CWD-secure-payment-confirmation-20230523
 title:
 - content: Secure Payment Confirmation
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230510/
+- content: https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230523/
   type: src
 - content: https://w3c.github.io/secure-payment-confirmation/
   type: current
 type: standard
 docid:
-- id: W3C WD-secure-payment-confirmation-20230510
+- id: W3C WD-secure-payment-confirmation-20230523
   type: W3C
   primary: true
-docnumber: WD-secure-payment-confirmation-20230510
+docnumber: WD-secure-payment-confirmation-20230523
 date:
 - type: published
-  value: '2023-05-10'
+  value: '2023-05-23'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-10'
+revdate: '2023-05-23'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-secure-payment-confirmation-20230424
+    id: W3CWD-secure-payment-confirmation-20230510
     docid:
-    - id: W3C WD-secure-payment-confirmation-20230424
+    - id: W3C WD-secure-payment-confirmation-20230510
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-secure-payment-confirmation-20230424
+      content: W3C WD-secure-payment-confirmation-20230510
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-secure-payment-confirmation-20230510
+  number: WD-secure-payment-confirmation-20230523
 doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

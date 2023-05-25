@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20230330
+id: W3CWD-vc-jwt-20230525
 title:
-- content: Compute Pressure Level 1
+- content: Securing Verifiable Credentials using JSON Web Tokens
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-compute-pressure-20230330/
+- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230525/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://w3c.github.io/vc-jwt/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20230330
+- id: W3C WD-vc-jwt-20230525
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20230330
+docnumber: WD-vc-jwt-20230525
 date:
 - type: published
-  value: '2023-03-30'
+  value: '2023-05-25'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: Michael Jones
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-30'
+- person:
+    name:
+      completename:
+        content: Orie Steele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-25'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20230329
+    id: W3CWD-vc-jwt-20230515
     docid:
-    - id: W3C WD-compute-pressure-20230329
+    - id: W3C WD-vc-jwt-20230515
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20230329
+      content: W3C WD-vc-jwt-20230515
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-compute-pressure-20230330
+  number: WD-vc-jwt-20230525
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-epub-33-20230413
+id: W3CREC-epub-33-20230525
 title:
 - content: EPUB 3.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/PR-epub-33-20230413/
+- content: https://www.w3.org/TR/2023/REC-epub-33-20230525/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/core/
   type: current
 type: standard
 docid:
-- id: W3C PR-epub-33-20230413
+- id: W3C REC-epub-33-20230525
   type: W3C
   primary: true
-docnumber: PR-epub-33-20230413
+docnumber: REC-epub-33-20230525
 date:
 - type: published
-  value: '2023-04-13'
+  value: '2023-05-25'
 contributor:
 - person:
     name:
@@ -49,30 +49,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-13'
+revdate: '2023-05-25'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-epub-33-20230221
+    id: W3CPR-epub-33-20230413
     docid:
-    - id: W3C CR-epub-33-20230221
+    - id: W3C PR-epub-33-20230413
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-epub-33-20230221
+      content: W3C PR-epub-33-20230413
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-epub-33-20230413
+  number: REC-epub-33-20230525
 doctype: technicalReport
 editorialgroup:
 - name: EPUB 3 Working Group

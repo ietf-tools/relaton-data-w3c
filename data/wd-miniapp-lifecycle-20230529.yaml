@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230515
+id: W3CWD-miniapp-lifecycle-20230529
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: MiniApp Lifecycle
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/
+- content: https://www.w3.org/TR/2023/WD-miniapp-lifecycle-20230529/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/miniapp-lifecycle/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230515
+- id: W3C WD-miniapp-lifecycle-20230529
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230515
+docnumber: WD-miniapp-lifecycle-20230529
 date:
 - type: published
-  value: '2023-05-15'
+  value: '2023-05-29'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Haoyang Xu
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Qing An
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-15'
+revdate: '2023-05-29'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230428
+    id: W3CWD-miniapp-lifecycle-20221124
     docid:
-    - id: W3C WD-vc-data-integrity-20230428
+    - id: W3C WD-miniapp-lifecycle-20221124
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230428
+      content: W3C WD-miniapp-lifecycle-20221124
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-integrity-20230515
+  number: WD-miniapp-lifecycle-20230529
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: MiniApps Working Group
 ext:
   schema-version: v1.0.0

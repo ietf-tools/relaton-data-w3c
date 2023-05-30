@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20230519
+id: W3CWD-RangeRequest-20230530
 title:
-- content: WebGPU
+- content: Range Request Incremental Font Transfer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230519/
+- content: https://www.w3.org/TR/2023/WD-RangeRequest-20230530/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/IFT/RangeRequest.html
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230519
+- id: W3C WD-RangeRequest-20230530
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230519
+docnumber: WD-RangeRequest-20230530
 date:
 - type: published
-  value: '2023-05-19'
+  value: '2023-05-30'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Chris Lilley
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Garret Rieger
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-19'
+revdate: '2023-05-30'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230510
+    id: W3CWD-RangeRequest-20220125
     docid:
-    - id: W3C WD-webgpu-20230510
+    - id: W3C WD-RangeRequest-20220125
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230510
+      content: W3C WD-RangeRequest-20220125
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20230519
+  number: WD-RangeRequest-20230530
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Fonts Working Group
 ext:
   schema-version: v1.0.0

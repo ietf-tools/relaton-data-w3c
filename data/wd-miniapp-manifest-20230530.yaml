@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-miniapp-manifest-20230530
+title:
+- content: MiniApp Manifest
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-miniapp-manifest-20230530/
+  type: src
+- content: https://w3c.github.io/miniapp-manifest/
+  type: current
+type: standard
+docid:
+- id: W3C WD-miniapp-manifest-20230530
+  type: W3C
+  primary: true
+docnumber: WD-miniapp-manifest-20230530
+date:
+- type: published
+  value: '2023-05-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Martin Alvarez-Espinar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Yongjing ZHANG
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-miniapp-manifest-20230228
+    docid:
+    - id: W3C WD-miniapp-manifest-20230228
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-manifest-20230228
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-miniapp-manifest-20230530
+doctype: technicalReport
+editorialgroup:
+- name: MiniApps Working Group
+ext:
+  schema-version: v1.0.0

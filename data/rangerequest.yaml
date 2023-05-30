@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3CRangeRequest
 title:
-- content: Incremental Font Transfer via Range Request
+- content: Range Request Incremental Font Transfer
   format: text/plain
 link:
 - content: https://www.w3.org/TR/RangeRequest/
@@ -22,6 +22,16 @@ docstatus:
     value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-RangeRequest-20230530
+    docid:
+    - id: W3C WD-RangeRequest-20230530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-RangeRequest-20230530
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-RangeRequest-20220125
     docid:

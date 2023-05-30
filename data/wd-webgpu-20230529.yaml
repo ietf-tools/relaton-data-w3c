@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-IFT-20220628
+id: W3CWD-webgpu-20230529
 title:
-- content: Incremental Font Transfer
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-IFT-20220628/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230529/
   type: src
-- content: https://w3c.github.io/IFT/Overview.html
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-IFT-20220628
+- id: W3C WD-webgpu-20230529
   type: W3C
   primary: true
-docnumber: WD-IFT-20220628
+docnumber: WD-webgpu-20230529
 date:
 - type: published
-  value: '2022-06-28'
+  value: '2023-05-29'
 contributor:
 - person:
     name:
       completename:
-        content: Chris Lilley
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Garret Rieger
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2022-06-28'
+revdate: '2023-05-29'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-IFT-20210907
+    id: W3CWD-webgpu-20230519
     docid:
-    - id: W3C WD-IFT-20210907
+    - id: W3C WD-webgpu-20230519
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IFT-20210907
+      content: W3C WD-webgpu-20230519
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IFT-20220628
+  number: WD-webgpu-20230529
 doctype: technicalReport
 editorialgroup:
-- name: Web Fonts Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

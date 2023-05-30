@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20230523
+id: W3CCR-uievents-code-20230530
 title:
-- content: WebGPU Shading Language
+- content: UI Events KeyboardEvent code Values
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230523/
+- content: https://www.w3.org/TR/2023/CR-uievents-code-20230530/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/uievents-code/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230523
+- id: W3C CR-uievents-code-20230530
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230523
+docnumber: CR-uievents-code-20230530
 date:
 - type: published
-  value: '2023-05-23'
+  value: '2023-05-30'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-05-23'
+revdate: '2023-05-30'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230503
+    id: W3CCR-uievents-code-20170601
     docid:
-    - id: W3C WD-WGSL-20230503
+    - id: W3C CR-uievents-code-20170601
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230503
+      content: W3C CR-uievents-code-20170601
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20230523
+  number: CR-uievents-code-20230530
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

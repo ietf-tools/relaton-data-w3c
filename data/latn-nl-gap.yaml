@@ -20,6 +20,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDNOTE-latn-nl-gap-20230530
+    docid:
+    - id: W3C DNOTE-latn-nl-gap-20230530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-latn-nl-gap-20230530
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-latn-nl-gap-20220126
     docid:
     - id: W3C DNOTE-latn-nl-gap-20220126

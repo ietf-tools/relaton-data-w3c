@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-sparql11-protocol-20130321
 title:
 - content: SPARQL 1.1 Protocol
@@ -6,6 +7,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/
   type: src
+- content: https://w3c.github.io/sparql-protocol/spec/
+  type: current
 type: standard
 docid:
 - id: W3C REC-sparql11-protocol-20130321
@@ -96,3 +99,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: SPARQL Working Group
+ext:
+  schema-version: v1.0.0

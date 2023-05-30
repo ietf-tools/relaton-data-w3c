@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdfa-primer
 title:
 - content: RDFa 1.1 Primer - Third Edition
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-rdfa-primer-20130822
-    docid:
-    - id: W3C NOTE-rdfa-primer-20130822
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-rdfa-primer-20130822
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-rdfa-primer-20120607
     docid:
     - id: W3C NOTE-rdfa-primer-20120607
@@ -46,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-rdfa-primer-20120607
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-rdfa-primer-20130822
+    docid:
+    - id: W3C NOTE-rdfa-primer-20130822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rdfa-primer-20130822
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: rdfa-primer
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

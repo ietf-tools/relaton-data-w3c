@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CWD-css-pseudo-4-20221230
+title:
+- content: CSS Pseudo-Elements Module Level 4
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-css-pseudo-4-20221230/
+  type: src
+- content: https://drafts.csswg.org/css-pseudo-4/
+  type: current
+type: standard
+docid:
+- id: W3C WD-css-pseudo-4-20221230
+  type: W3C
+  primary: true
+docnumber: WD-css-pseudo-4-20221230
+date:
+- type: published
+  value: '2022-12-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alan Stearns
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Daniel Glazman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Elika Etemad
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-12-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-pseudo-4-20201231
+    docid:
+    - id: W3C WD-css-pseudo-4-20201231
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-pseudo-4-20201231
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-pseudo-4-20221230
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

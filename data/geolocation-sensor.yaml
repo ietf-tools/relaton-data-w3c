@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cgeolocation-sensor
 title:
 - content: Geolocation Sensor
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-geolocation-sensor-20210902
-    docid:
-    - id: W3C WD-geolocation-sensor-20210902
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-geolocation-sensor-20210902
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-geolocation-sensor-20181219
     docid:
     - id: W3C WD-geolocation-sensor-20181219
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-geolocation-sensor-20181219
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-geolocation-sensor-20210902
+    docid:
+    - id: W3C WD-geolocation-sensor-20210902
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geolocation-sensor-20210902
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: geolocation-sensor
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

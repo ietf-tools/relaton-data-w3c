@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Caccessibility-metrics-report
 title:
 - content: Research Report on Web Accessibility Metrics
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: accessibility-metrics-report
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

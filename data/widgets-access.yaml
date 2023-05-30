@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwidgets-access
 title:
 - content: Widget Access Request Policy
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-widgets-access-20111213
-    docid:
-    - id: W3C PR-widgets-access-20111213
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-widgets-access-20111213
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-widgets-access-20100420
     docid:
     - id: W3C CR-widgets-access-20100420
@@ -70,9 +61,21 @@ relation:
     formattedref:
       content: W3C WD-widgets-access-20090804
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-widgets-access-20111213
+    docid:
+    - id: W3C PR-widgets-access-20111213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-widgets-access-20111213
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: widgets-access
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

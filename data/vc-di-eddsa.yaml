@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cvc-di-eddsa
+title:
+- content: EdDSA Cryptosuite v2022
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-di-eddsa/
+  type: src
+type: standard
+docid:
+- id: W3C vc-di-eddsa
+  type: W3C
+  primary: true
+docnumber: vc-di-eddsa
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-di-eddsa-20230518
+    docid:
+    - id: W3C WD-vc-di-eddsa-20230518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-di-eddsa-20230518
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-di-eddsa
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,10 +1,11 @@
 ---
+schema-version: v1.2.1
 id: W3CPER-xslt20-20090421
 title:
 - content: XSL Transformations (XSLT) Version 2.0 (Second Edition)
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2009/PER-xslt20-20090421/
+- content: http://www.w3.org/TR/2009/PER-xslt20-20090421/
   type: src
 type: standard
 docid:
@@ -53,3 +54,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Extensible Stylesheet Language Family
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cdapt
+title:
+- content: Dubbing and Audio description Profiles of TTML2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/dapt/
+  type: src
+type: standard
+docid:
+- id: W3C dapt
+  type: W3C
+  primary: true
+docnumber: dapt
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-dapt-20230505
+    docid:
+    - id: W3C WD-dapt-20230505
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dapt-20230505
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: dapt
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

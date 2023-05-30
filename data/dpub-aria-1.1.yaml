@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdpub-aria-1.1
 title:
 - content: Digital Publishing WAI-ARIA Module 1.1
@@ -21,6 +22,16 @@ docstatus:
     value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-dpub-aria-1.1-20230515
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20230515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20230515
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-dpub-aria-1.1-20220530
     docid:
@@ -46,3 +57,5 @@ series:
     format: text/plain
   number: dpub-aria-1.1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

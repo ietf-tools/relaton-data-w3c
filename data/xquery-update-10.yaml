@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxquery-update-10
 title:
 - content: XQuery Update Facility 1.0
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xquery-update-10-20090609
-    docid:
-    - id: W3C CR-xquery-update-10-20090609
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xquery-update-10-20090609
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-xquery-update-10-20080801
     docid:
     - id: W3C CR-xquery-update-10-20080801
@@ -49,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-xquery-update-10-20080801
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xquery-update-10-20090609
+    docid:
+    - id: W3C CR-xquery-update-10-20090609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xquery-update-10-20090609
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: xquery-update-10
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

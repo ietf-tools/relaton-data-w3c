@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xmldsig2ed-tests-20080610
 title:
 - content: Test Cases for C14N 1.1 and XMLDSig Interoperability
@@ -60,3 +61,5 @@ doctype: groupNote
 editorialgroup:
 - name: XML Security Specifications Maintenance Working Group
 - name: XML Security Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdfa-core
 title:
 - content: RDFa Core 1.1 - Third Edition
@@ -52,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-rdfa-core-20101026
+    docid:
+    - id: W3C WD-rdfa-core-20101026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-core-20101026
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPER-rdfa-core-20141216
     docid:
     - id: W3C PER-rdfa-core-20141216
@@ -70,19 +81,11 @@ relation:
     formattedref:
       content: W3C WD-rdfa-core-20111215
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-rdfa-core-20101026
-    docid:
-    - id: W3C WD-rdfa-core-20101026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdfa-core-20101026
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: rdfa-core
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.1
+id: W3Caac-registry
+title:
+- content: W3C Alternative and Augmented Communication (AAC) Symbol Registry
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/aac-registry/
+  type: src
+type: standard
+docid:
+- id: W3C aac-registry
+  type: W3C
+  primary: true
+docnumber: aac-registry
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDRY-aac-registry-20221213
+    docid:
+    - id: W3C DRY-aac-registry-20221213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DRY-aac-registry-20221213
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: aac-registry
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

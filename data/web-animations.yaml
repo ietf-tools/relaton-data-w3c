@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cweb-animations
 title:
 - content: Web Animations 1.0
@@ -20,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-web-animations-20140605
-    docid:
-    - id: W3C WD-web-animations-20140605
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-animations-20140605
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-web-animations-20130625
@@ -40,9 +31,21 @@ relation:
     formattedref:
       content: W3C WD-web-animations-20130625
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-web-animations-20140605
+    docid:
+    - id: W3C WD-web-animations-20140605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20140605
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: web-animations
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

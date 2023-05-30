@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-webxr-20230303
+title:
+- content: WebXR Device API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-webxr-20230303/
+  type: src
+- content: https://immersive-web.github.io/webxr/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-webxr-20230303
+  type: W3C
+  primary: true
+docnumber: CRD-webxr-20230303
+date:
+- type: published
+  value: '2023-03-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Brandon Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Manish Goregaokar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rik Cabanier
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-webxr-20220824
+    docid:
+    - id: W3C CRD-webxr-20220824
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webxr-20220824
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-webxr-20230303
+doctype: technicalReport
+editorialgroup:
+- name: Immersive Web Working Group
+ext:
+  schema-version: v1.0.0

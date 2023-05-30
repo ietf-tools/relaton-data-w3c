@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cowl-guide
 title:
 - content: OWL Web Ontology Language Guide
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-owl-guide-20030818
-    docid:
-    - id: W3C CR-owl-guide-20030818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-owl-guide-20030818
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-owl-guide-20021104
     docid:
     - id: W3C WD-owl-guide-20021104
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-owl-guide-20021104
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-owl-guide-20030818
+    docid:
+    - id: W3C CR-owl-guide-20030818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-owl-guide-20030818
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: owl-guide
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

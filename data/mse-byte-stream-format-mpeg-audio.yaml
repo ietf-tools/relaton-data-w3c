@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmse-byte-stream-format-mpeg-audio
 title:
 - content: MPEG Audio Byte Stream Format
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: mse-byte-stream-format-mpeg-audio
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

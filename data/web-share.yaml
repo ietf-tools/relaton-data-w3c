@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cweb-share
 title:
 - content: Web Share API
@@ -32,33 +33,13 @@ relation:
       format: text/plain
 - type: instance
   bibitem:
-    id: W3CCRD-web-share-20221108
+    id: W3CREC-web-share-20230530
     docid:
-    - id: W3C CRD-web-share-20221108
+    - id: W3C REC-web-share-20230530
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-web-share-20221108
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-web-share-20220530
-    docid:
-    - id: W3C WD-web-share-20220530
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-share-20220530
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-web-share-20211122
-    docid:
-    - id: W3C WD-web-share-20211122
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-share-20211122
+      content: W3C REC-web-share-20230530
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,9 +61,31 @@ relation:
     formattedref:
       content: W3C WD-web-share-20191217
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-share-20220530
+    docid:
+    - id: W3C WD-web-share-20220530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-share-20220530
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-share-20211122
+    docid:
+    - id: W3C WD-web-share-20211122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-share-20211122
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: web-share
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-P3P10-principles-19980721
 title:
 - content: P3P Guiding Principles
@@ -15,6 +16,17 @@ docnumber: NOTE-P3P10-principles-19980721
 date:
 - type: published
   value: '1998-07-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Lorrie Faith Cranor
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 revdate: '1998-07-21'
 language:
 - en
@@ -28,3 +40,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: P3P Specification Working Group
+ext:
+  schema-version: v1.0.0

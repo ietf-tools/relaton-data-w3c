@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-audio-output-20161215
 title:
 - content: Audio Output Devices API
@@ -66,3 +67,5 @@ doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
 - name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

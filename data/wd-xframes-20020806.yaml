@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-xframes-20020806
 title:
 - content: XFrames
@@ -40,5 +41,5 @@ series:
     format: text/plain
   number: WD-xframes-20020806
 doctype: technicalReport
-editorialgroup:
-- name: XHTML2 Working Group
+ext:
+  schema-version: v1.0.0

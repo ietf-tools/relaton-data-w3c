@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.1
+id: W3CDNOTE-adapt-20230103
+title:
+- content: WAI-Adapt Explainer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-adapt-20230103/
+  type: src
+- content: https://w3c.github.io/adapt/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-adapt-20230103
+  type: W3C
+  primary: true
+docnumber: DNOTE-adapt-20230103
+date:
+- type: published
+  value: '2023-01-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles LaPierre
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: John Foliot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Lisa Seeman-Horwitz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Richard Schwerdtfeger
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Ruoxi Ran
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-03'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-adapt-20220609
+    docid:
+    - id: W3C DNOTE-adapt-20220609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-adapt-20220609
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-adapt-20230103
+doctype: groupNote
+editorialgroup:
+- name: Accessible Platform Architectures
+ext:
+  schema-version: v1.0.0

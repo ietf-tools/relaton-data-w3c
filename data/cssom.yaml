@@ -1,7 +1,8 @@
 ---
+schema-version: v1.2.1
 id: W3Ccssom
 title:
-- content: CSS Object Model (CSSOM)
+- content: CSSOM
   format: text/plain
 link:
 - content: http://www.w3.org/TR/cssom/
@@ -20,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-cssom-20131205
-    docid:
-    - id: W3C WD-cssom-20131205
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-cssom-20131205
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-cssom-20110712
@@ -40,9 +31,21 @@ relation:
     formattedref:
       content: W3C WD-cssom-20110712
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-cssom-20131205
+    docid:
+    - id: W3C WD-cssom-20131205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-cssom-20131205
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: cssom
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

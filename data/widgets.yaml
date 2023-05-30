@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwidgets
 title:
 - content: Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)
@@ -52,26 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-widgets-20101005
-    docid:
-    - id: W3C WD-widgets-20101005
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-widgets-20101005
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-widgets-20091029
-    docid:
-    - id: W3C WD-widgets-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-widgets-20091029
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-widgets-20080414
     docid:
     - id: W3C WD-widgets-20080414
@@ -79,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-widgets-20080414
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-widgets-20061109
+    docid:
+    - id: W3C WD-widgets-20061109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-widgets-20061109
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-widgets-20101005
+    docid:
+    - id: W3C WD-widgets-20101005
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-widgets-20101005
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -92,13 +93,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-widgets-20061109
+    id: W3CWD-widgets-20091029
     docid:
-    - id: W3C WD-widgets-20061109
+    - id: W3C WD-widgets-20091029
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-widgets-20061109
+      content: W3C WD-widgets-20091029
       format: text/plain
 series:
 - title:
@@ -106,3 +107,5 @@ series:
     format: text/plain
   number: widgets
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

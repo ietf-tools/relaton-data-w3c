@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctrace-context-2
 title:
 - content: Trace Context Level 2
@@ -18,21 +19,23 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-trace-context-2-20220929
+    id: W3CCR-trace-context-2-20230418
     docid:
-    - id: W3C WD-trace-context-2-20220929
+    - id: W3C CR-trace-context-2-20230418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trace-context-2-20220929
+      content: W3C CR-trace-context-2-20230418
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: trace-context-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

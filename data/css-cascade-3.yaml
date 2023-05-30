@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-cascade-3
 title:
 - content: CSS Cascading and Inheritance Level 3
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-cascade-3-20180828
-    docid:
-    - id: W3C CR-css-cascade-3-20180828
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-cascade-3-20180828
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-cascade-3-20160519
     docid:
     - id: W3C CR-css-cascade-3-20160519
@@ -59,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-cascade-3-20160519
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css-cascade-3-20150416
-    docid:
-    - id: W3C CR-css-cascade-3-20150416
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-cascade-3-20150416
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,9 +61,31 @@ relation:
     formattedref:
       content: W3C CR-css-cascade-3-20131003
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-cascade-3-20180828
+    docid:
+    - id: W3C CR-css-cascade-3-20180828
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-cascade-3-20180828
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-cascade-3-20150416
+    docid:
+    - id: W3C CR-css-cascade-3-20150416
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-cascade-3-20150416
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: css-cascade-3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

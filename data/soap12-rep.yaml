@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap12-rep
 title:
 - content: Resource Representation SOAP Header Block
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: soap12-rep
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

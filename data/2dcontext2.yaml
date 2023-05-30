@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3C2dcontext2
 title:
 - content: HTML Canvas 2D Context, Level 2
@@ -29,13 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-2dcontext2-20140828
+    id: W3CWD-2dcontext2-20121217
     docid:
-    - id: W3C WD-2dcontext2-20140828
+    - id: W3C WD-2dcontext2-20121217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-2dcontext2-20140828
+      content: W3C WD-2dcontext2-20121217
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -49,13 +50,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-2dcontext2-20121217
+    id: W3CWD-2dcontext2-20140828
     docid:
-    - id: W3C WD-2dcontext2-20121217
+    - id: W3C WD-2dcontext2-20140828
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-2dcontext2-20121217
+      content: W3C WD-2dcontext2-20140828
       format: text/plain
 series:
 - title:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: 2dcontext2
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

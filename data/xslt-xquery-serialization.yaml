@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxslt-xquery-serialization
 title:
 - content: XSLT 2.0 and XQuery 1.0 Serialization (Second Edition)
@@ -42,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPER-xslt-xquery-serialization-20090421
+    id: W3CCR-xslt-xquery-serialization-20051103
     docid:
-    - id: W3C PER-xslt-xquery-serialization-20090421
+    - id: W3C CR-xslt-xquery-serialization-20051103
       type: W3C
       primary: true
     formattedref:
-      content: W3C PER-xslt-xquery-serialization-20090421
+      content: W3C CR-xslt-xquery-serialization-20051103
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -62,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xslt-xquery-serialization-20051103
-    docid:
-    - id: W3C CR-xslt-xquery-serialization-20051103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xslt-xquery-serialization-20051103
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xslt-xquery-serialization-20041029
     docid:
     - id: W3C WD-xslt-xquery-serialization-20041029
@@ -79,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xslt-xquery-serialization-20041029
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-xslt-xquery-serialization-20090421
+    docid:
+    - id: W3C PER-xslt-xquery-serialization-20090421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xslt-xquery-serialization-20090421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -96,3 +97,5 @@ series:
     format: text/plain
   number: xslt-xquery-serialization
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

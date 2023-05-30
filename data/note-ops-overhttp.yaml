@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-OPS-OverHTTP
 title:
 - content: Implementation of OPS Over HTTP
@@ -77,3 +78,5 @@ series:
     format: text/plain
   number: NOTE-OPS-OverHTTP
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

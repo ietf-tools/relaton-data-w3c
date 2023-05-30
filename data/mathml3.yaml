@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CMathML3
 title:
 - content: Mathematical Markup Language (MathML) Version 3.0 2nd Edition
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-MathML3-20090924
-    docid:
-    - id: W3C WD-MathML3-20090924
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-MathML3-20090924
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-MathML3-20081117
     docid:
     - id: W3C WD-MathML3-20081117
@@ -70,9 +61,21 @@ relation:
     formattedref:
       content: W3C WD-MathML3-20071214
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-MathML3-20090924
+    docid:
+    - id: W3C WD-MathML3-20090924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-MathML3-20090924
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: MathML3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

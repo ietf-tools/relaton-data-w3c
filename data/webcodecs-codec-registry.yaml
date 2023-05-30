@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebcodecs-codec-registry
 title:
 - content: WebCodecs Codec Registry
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: webcodecs-codec-registry
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

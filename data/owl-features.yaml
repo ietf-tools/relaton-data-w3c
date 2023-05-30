@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cowl-features
 title:
 - content: OWL Web Ontology Language Overview
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-owl-features-20030818
-    docid:
-    - id: W3C CR-owl-features-20030818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-owl-features-20030818
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-owl-features-20020729
     docid:
     - id: W3C WD-owl-features-20020729
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-owl-features-20020729
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-owl-features-20030818
+    docid:
+    - id: W3C CR-owl-features-20030818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-owl-features-20030818
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: owl-features
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

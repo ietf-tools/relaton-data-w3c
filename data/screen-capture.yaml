@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cscreen-capture
 title:
 - content: Screen Capture
@@ -22,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-screen-capture-20221020
+    id: W3CWD-screen-capture-20230413
     docid:
-    - id: W3C WD-screen-capture-20221020
+    - id: W3C WD-screen-capture-20230413
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20221020
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-screen-capture-20220519
-    docid:
-    - id: W3C WD-screen-capture-20220519
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-capture-20220519
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-screen-capture-20211202
-    docid:
-    - id: W3C WD-screen-capture-20211202
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-capture-20211202
+      content: W3C WD-screen-capture-20230413
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -72,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-screen-capture-20220519
+    docid:
+    - id: W3C WD-screen-capture-20220519
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-capture-20220519
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-screen-capture-20150210
     docid:
     - id: W3C WD-screen-capture-20150210
@@ -80,9 +71,21 @@ relation:
     formattedref:
       content: W3C WD-screen-capture-20150210
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-screen-capture-20211202
+    docid:
+    - id: W3C WD-screen-capture-20211202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-capture-20211202
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: screen-capture
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

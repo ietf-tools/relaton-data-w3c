@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebrtc-svc
 title:
 - content: Scalable Video Coding (SVC) Extension for WebRTC
@@ -22,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webrtc-svc-20220829
+    id: W3CWD-webrtc-svc-20230417
     docid:
-    - id: W3C WD-webrtc-svc-20220829
+    - id: W3C WD-webrtc-svc-20230417
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-svc-20220829
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-svc-20220303
-    docid:
-    - id: W3C WD-webrtc-svc-20220303
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-svc-20220303
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-svc-20211216
-    docid:
-    - id: W3C WD-webrtc-svc-20211216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-svc-20211216
+      content: W3C WD-webrtc-svc-20230417
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,9 +51,31 @@ relation:
     formattedref:
       content: W3C WD-webrtc-svc-20191022
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-svc-20220303
+    docid:
+    - id: W3C WD-webrtc-svc-20220303
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-svc-20220303
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-svc-20211216
+    docid:
+    - id: W3C WD-webrtc-svc-20211216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-svc-20211216
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: webrtc-svc
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

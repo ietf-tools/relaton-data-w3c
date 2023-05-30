@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-sparql-query
 title:
 - content: SPARQL Query Language for RDF
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-rdf-sparql-query-20071112
+    id: W3CWD-rdf-sparql-query-20050721
     docid:
-    - id: W3C PR-rdf-sparql-query-20071112
+    - id: W3C WD-rdf-sparql-query-20050721
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-rdf-sparql-query-20071112
+      content: W3C WD-rdf-sparql-query-20050721
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf-sparql-query-20050721
-    docid:
-    - id: W3C WD-rdf-sparql-query-20050721
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf-sparql-query-20050721
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdf-sparql-query-20041012
     docid:
     - id: W3C WD-rdf-sparql-query-20041012
@@ -70,9 +61,21 @@ relation:
     formattedref:
       content: W3C WD-rdf-sparql-query-20041012
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-rdf-sparql-query-20071112
+    docid:
+    - id: W3C PR-rdf-sparql-query-20071112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-rdf-sparql-query-20071112
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: rdf-sparql-query
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

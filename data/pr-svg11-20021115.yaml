@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-SVG11-20021115
 title:
 - content: Scalable Vector Graphics (SVG) 1.1 Specification
@@ -57,83 +58,83 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g576800
+    id: W3C_-g49717760
     docid:
-    - id: W3C _:g576800
+    - id: W3C _:g49717760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576800
+      content: W3C _:g49717760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576820
+    id: W3C_-g49717780
     docid:
-    - id: W3C _:g576820
+    - id: W3C _:g49717780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576820
+      content: W3C _:g49717780
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576840
+    id: W3C_-g49717800
     docid:
-    - id: W3C _:g576840
+    - id: W3C _:g49717800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576840
+      content: W3C _:g49717800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576880
+    id: W3C_-g49717820
     docid:
-    - id: W3C _:g576880
+    - id: W3C _:g49717820
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576880
+      content: W3C _:g49717820
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576900
+    id: W3C_-g49717840
     docid:
-    - id: W3C _:g576900
+    - id: W3C _:g49717840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576900
+      content: W3C _:g49717840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576940
+    id: W3C_-g49717880
     docid:
-    - id: W3C _:g576940
+    - id: W3C _:g49717880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576940
+      content: W3C _:g49717880
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g576980
+    id: W3C_-g49717920
     docid:
-    - id: W3C _:g576980
+    - id: W3C _:g49717920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g576980
+      content: W3C _:g49717920
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577020
+    id: W3C_-g49717960
     docid:
-    - id: W3C _:g577020
+    - id: W3C _:g49717960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577020
+      content: W3C _:g49717960
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -151,3 +152,5 @@ series:
     format: text/plain
   number: PR-SVG11-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cremote-meetings
 title:
 - content: Accessibility of Remote Meetings
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: remote-meetings
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

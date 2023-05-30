@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccore-aam-1.2
 title:
 - content: Core Accessibility API Mappings 1.2
@@ -18,27 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-core-aam-1.2-20221101
+    id: W3CCRD-core-aam-1.2-20230518
     docid:
-    - id: W3C WD-core-aam-1.2-20221101
+    - id: W3C CRD-core-aam-1.2-20230518
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-core-aam-1.2-20221101
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-core-aam-1.2-20220526
-    docid:
-    - id: W3C WD-core-aam-1.2-20220526
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-core-aam-1.2-20220526
+      content: W3C CRD-core-aam-1.2-20230518
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,9 +51,21 @@ relation:
     formattedref:
       content: W3C WD-core-aam-1.2-20181218
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-core-aam-1.2-20220526
+    docid:
+    - id: W3C WD-core-aam-1.2-20220526
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-core-aam-1.2-20220526
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: core-aam-1.2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

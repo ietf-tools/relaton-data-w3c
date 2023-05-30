@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-vocab-owl-time-agg-20200707
 title:
 - content: Extensions to the OWL-Time Ontology - temporal aggregates
@@ -61,3 +62,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Spatial Data on the Web Interest Group
+ext:
+  schema-version: v1.0.0

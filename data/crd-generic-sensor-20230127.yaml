@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-generic-sensor-20230127
+title:
+- content: Generic Sensor API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-generic-sensor-20230127/
+  type: src
+- content: https://w3c.github.io/sensors/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-generic-sensor-20230127
+  type: W3C
+  primary: true
+docnumber: CRD-generic-sensor-20230127
+date:
+- type: published
+  value: '2023-01-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Rick Waldron
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-generic-sensor-20230117
+    docid:
+    - id: W3C CRD-generic-sensor-20230117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-generic-sensor-20230117
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-generic-sensor-20230127
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

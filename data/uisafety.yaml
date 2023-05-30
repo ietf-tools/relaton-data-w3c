@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CUISafety
 title:
 - content: User Interface Safety Directives for Content Security Policy
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: UISafety
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

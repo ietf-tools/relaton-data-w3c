@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-DOM-Requirements-20010419
 title:
 - content: Document Object Model (DOM) Requirements
@@ -150,5 +151,5 @@ series:
     format: text/plain
   number: WD-DOM-Requirements-20010419
 doctype: technicalReport
-editorialgroup:
-- name: Web Hypertext Application Technology Working Group
+ext:
+  schema-version: v1.0.0

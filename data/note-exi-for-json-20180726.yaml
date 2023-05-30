@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-exi-for-json-20180726
 title:
 - content: EXI for JSON (EXI4JSON)
@@ -60,3 +61,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Efficient Extensible Interchange Working Group
+ext:
+  schema-version: v1.0.0

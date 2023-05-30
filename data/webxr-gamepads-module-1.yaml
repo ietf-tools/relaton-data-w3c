@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebxr-gamepads-module-1
 title:
 - content: WebXR Gamepads Module - Level 1
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webxr-gamepads-module-1-20211228
-    docid:
-    - id: W3C WD-webxr-gamepads-module-1-20211228
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webxr-gamepads-module-1-20211228
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webxr-gamepads-module-1-20191010
     docid:
     - id: W3C WD-webxr-gamepads-module-1-20191010
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-webxr-gamepads-module-1-20191010
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webxr-gamepads-module-1-20211228
+    docid:
+    - id: W3C WD-webxr-gamepads-module-1-20211228
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-gamepads-module-1-20211228
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: webxr-gamepads-module-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

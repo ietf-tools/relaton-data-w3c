@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-access-control-20050613
 title:
 - content: Authorizing Read Access to XML Content Using the <?access-control?> Processing
@@ -60,3 +61,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Voice Browser Working Group
+ext:
+  schema-version: v1.0.0

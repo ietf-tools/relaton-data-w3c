@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpayment-method-basic-card
 title:
 - content: 'Payment Method: Basic Card'
@@ -39,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-payment-method-basic-card-20170727
+    docid:
+    - id: W3C WD-payment-method-basic-card-20170727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-method-basic-card-20170727
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-payment-method-basic-card-20191120
     docid:
     - id: W3C WD-payment-method-basic-card-20191120
@@ -59,16 +70,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-method-basic-card-20170727
-    docid:
-    - id: W3C WD-payment-method-basic-card-20170727
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-payment-method-basic-card-20170727
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-payment-method-basic-card-20161220
     docid:
     - id: W3C WD-payment-method-basic-card-20161220
@@ -83,3 +84,5 @@ series:
     format: text/plain
   number: payment-method-basic-card
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

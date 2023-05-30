@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdpub-latinreq
 title:
 - content: Requirements for Latin Text Layout and Pagination
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: dpub-latinreq
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

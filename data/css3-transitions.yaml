@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss3-transitions
 title:
 - content: CSS Transitions
@@ -20,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-css3-transitions-20131119
-    docid:
-    - id: W3C WD-css3-transitions-20131119
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-transitions-20131119
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-transitions-20120403
@@ -50,6 +41,16 @@ relation:
     formattedref:
       content: W3C WD-css3-transitions-20091201
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-css3-transitions-20131119
+    docid:
+    - id: W3C WD-css3-transitions-20131119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-transitions-20131119
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-transitions-20090320
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: css3-transitions
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

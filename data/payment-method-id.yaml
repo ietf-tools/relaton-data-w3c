@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpayment-method-id
 title:
 - content: Payment Method Identifiers
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-payment-method-id-20210930
-    docid:
-    - id: W3C PR-payment-method-id-20210930
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-payment-method-id-20210930
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-payment-method-id-20190905
     docid:
     - id: W3C CR-payment-method-id-20190905
@@ -62,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CPR-payment-method-id-20210930
+    docid:
+    - id: W3C PR-payment-method-id-20210930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-payment-method-id-20210930
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-payment-method-id-20161207
     docid:
     - id: W3C WD-payment-method-id-20161207
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: payment-method-id
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cjlreq
 title:
 - content: Requirements for Japanese Text Layout 日本語組版処理の要件(日本語版)
@@ -29,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-jlreq-20081015
+    docid:
+    - id: W3C WD-jlreq-20081015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-jlreq-20081015
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-jlreq-20120403
     docid:
     - id: W3C NOTE-jlreq-20120403
@@ -36,16 +47,6 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-jlreq-20120403
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-jlreq-20111129
-    docid:
-    - id: W3C WD-jlreq-20111129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-jlreq-20111129
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -59,13 +60,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-jlreq-20081015
+    id: W3CWD-jlreq-20111129
     docid:
-    - id: W3C WD-jlreq-20081015
+    - id: W3C WD-jlreq-20111129
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-jlreq-20081015
+      content: W3C WD-jlreq-20111129
       format: text/plain
 series:
 - title:
@@ -73,3 +74,5 @@ series:
     format: text/plain
   number: jlreq
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cepub-rs-33
 title:
 - content: EPUB Reading Systems 3.3
@@ -18,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-epub-rs-33-20221109
+    id: W3CREC-epub-rs-33-20230525
     docid:
-    - id: W3C CRD-epub-rs-33-20221109
+    - id: W3C REC-epub-rs-33-20230525
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-epub-rs-33-20221109
+      content: W3C REC-epub-rs-33-20230525
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,7 +53,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C REC
     format: text/plain
   number: epub-rs-33
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

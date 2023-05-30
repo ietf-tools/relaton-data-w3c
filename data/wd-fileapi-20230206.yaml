@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: W3CWD-FileAPI-20230206
+title:
+- content: File API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-FileAPI-20230206/
+  type: src
+- content: https://w3c.github.io/FileAPI/
+  type: current
+type: standard
+docid:
+- id: W3C WD-FileAPI-20230206
+  type: W3C
+  primary: true
+docnumber: WD-FileAPI-20230206
+date:
+- type: published
+  value: '2023-02-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Marijn Kruisselbrink
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-02-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-FileAPI-20221130
+    docid:
+    - id: W3C WD-FileAPI-20221130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-FileAPI-20221130
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-FileAPI-20230206
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.1
+id: W3CDNOTE-privacy-principles-20230223
+title:
+- content: Privacy Principles
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-privacy-principles-20230223/
+  type: src
+- content: https://w3ctag.github.io/privacy-principles/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-privacy-principles-20230223
+  type: W3C
+  primary: true
+docnumber: DNOTE-privacy-principles-20230223
+date:
+- type: published
+  value: '2023-02-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Robin Berjon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tonya Lee Tonya Dickard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-02-23'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-privacy-principles-20221214
+    docid:
+    - id: W3C DNOTE-privacy-principles-20221214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-privacy-principles-20221214
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-privacy-principles-20230223
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group
+ext:
+  schema-version: v1.0.0

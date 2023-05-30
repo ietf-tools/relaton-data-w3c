@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-sparql-XMLres
 title:
 - content: SPARQL Query Results XML Format (Second Edition)
@@ -42,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-rdf-sparql-XMLres-20050801
+    docid:
+    - id: W3C WD-rdf-sparql-XMLres-20050801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-sparql-XMLres-20050801
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPER-rdf-sparql-XMLres-20121108
     docid:
     - id: W3C PER-rdf-sparql-XMLres-20121108
@@ -49,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C PER-rdf-sparql-XMLres-20121108
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPR-rdf-sparql-XMLres-20071112
-    docid:
-    - id: W3C PR-rdf-sparql-XMLres-20071112
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-rdf-sparql-XMLres-20071112
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -72,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf-sparql-XMLres-20050801
+    id: W3CPR-rdf-sparql-XMLres-20071112
     docid:
-    - id: W3C WD-rdf-sparql-XMLres-20050801
+    - id: W3C PR-rdf-sparql-XMLres-20071112
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-sparql-XMLres-20050801
+      content: W3C PR-rdf-sparql-XMLres-20071112
       format: text/plain
 series:
 - title:
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: rdf-sparql-XMLres
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

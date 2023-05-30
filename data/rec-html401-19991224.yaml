@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-html401-19991224
 title:
 - content: HTML 4.01 Specification
@@ -67,7 +68,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Chtml4-updates/errata
+    id: W3Chtml4-updates-errata
     docid:
     - id: W3C html4-updates/errata
       type: W3C
@@ -86,3 +87,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: XHTML2 Working Group
+ext:
+  schema-version: v1.0.0

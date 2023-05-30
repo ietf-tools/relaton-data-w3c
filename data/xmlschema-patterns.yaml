@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmlschema-patterns
 title:
 - content: Basic XML Schema Patterns for Databinding Version 1.0
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmlschema-patterns-20071031
-    docid:
-    - id: W3C WD-xmlschema-patterns-20071031
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmlschema-patterns-20071031
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmlschema-patterns-20061122
     docid:
     - id: W3C WD-xmlschema-patterns-20061122
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-xmlschema-patterns-20061122
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlschema-patterns-20071031
+    docid:
+    - id: W3C WD-xmlschema-patterns-20071031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlschema-patterns-20071031
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: xmlschema-patterns
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

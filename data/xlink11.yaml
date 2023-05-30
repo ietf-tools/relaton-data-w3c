@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxlink11
 title:
 - content: XML Linking Language (XLink) Version 1.1
@@ -32,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xlink11-20050707
+    docid:
+    - id: W3C WD-xlink11-20050707
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xlink11-20050707
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xlink11-20080331
     docid:
     - id: W3C WD-xlink11-20080331
@@ -50,19 +61,11 @@ relation:
     formattedref:
       content: W3C CR-xlink11-20060328
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xlink11-20050707
-    docid:
-    - id: W3C WD-xlink11-20050707
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xlink11-20050707
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xlink11
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

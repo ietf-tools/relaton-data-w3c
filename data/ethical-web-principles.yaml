@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cethical-web-principles
 title:
 - content: W3C TAG Ethical Web Principles
@@ -19,6 +20,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDNOTE-ethical-web-principles-20221207
+    docid:
+    - id: W3C DNOTE-ethical-web-principles-20221207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-ethical-web-principles-20221207
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-ethical-web-principles-20220512
     docid:
     - id: W3C DNOTE-ethical-web-principles-20220512
@@ -33,3 +44,5 @@ series:
     format: text/plain
   number: ethical-web-principles
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxslt20
 title:
 - content: XSL Transformations (XSLT) Version 2.0 (Second Edition)
@@ -42,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-xslt20-20051103
+    docid:
+    - id: W3C CR-xslt20-20051103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xslt20-20051103
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPER-xslt20-20090421
     docid:
     - id: W3C PER-xslt20-20090421
@@ -52,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xslt20-20021115
+    docid:
+    - id: W3C WD-xslt20-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xslt20-20021115
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPR-xslt20-20061121
     docid:
     - id: W3C PR-xslt20-20061121
@@ -59,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-xslt20-20061121
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-xslt20-20051103
-    docid:
-    - id: W3C CR-xslt20-20051103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xslt20-20051103
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,19 +101,11 @@ relation:
     formattedref:
       content: W3C WD-xslt20-20031112
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xslt20-20021115
-    docid:
-    - id: W3C WD-xslt20-20021115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xslt20-20021115
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xslt20
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

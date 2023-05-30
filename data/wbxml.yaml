@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwbxml
 title:
 - content: WAP Binary XML Content Format
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: wbxml
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

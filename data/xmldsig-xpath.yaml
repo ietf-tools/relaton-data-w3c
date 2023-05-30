@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmldsig-xpath
 title:
 - content: XML Signature Streaming Profile of XPath 1.0
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmldsig-xpath-20110421
-    docid:
-    - id: W3C WD-xmldsig-xpath-20110421
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmldsig-xpath-20110421
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmldsig-xpath-20100831
     docid:
     - id: W3C WD-xmldsig-xpath-20100831
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-xmldsig-xpath-20100831
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmldsig-xpath-20110421
+    docid:
+    - id: W3C WD-xmldsig-xpath-20110421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-xpath-20110421
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: xmldsig-xpath
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

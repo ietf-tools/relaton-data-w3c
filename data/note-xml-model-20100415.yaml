@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-xml-model-20100415
 title:
 - content: Associating Schemas with XML documents 1.0 (First Edition)
@@ -49,3 +50,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Core Working Group
+ext:
+  schema-version: v1.0.0

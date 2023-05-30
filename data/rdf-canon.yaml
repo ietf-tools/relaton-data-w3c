@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Crdf-canon
+title:
+- content: RDF Dataset Canonicalization
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/rdf-canon/
+  type: src
+type: standard
+docid:
+- id: W3C rdf-canon
+  type: W3C
+  primary: true
+docnumber: rdf-canon
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-rdf-canon-20230524
+    docid:
+    - id: W3C WD-rdf-canon-20230524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-canon-20230524
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: rdf-canon
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

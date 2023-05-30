@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdid-core
 title:
 - content: Decentralized Identifiers (DIDs) v1.0
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-did-core-20210803
-    docid:
-    - id: W3C PR-did-core-20210803
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-did-core-20210803
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-did-core-20201227
     docid:
     - id: W3C WD-did-core-20201227
@@ -60,9 +51,21 @@ relation:
     formattedref:
       content: W3C WD-did-core-20191209
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-did-core-20210803
+    docid:
+    - id: W3C PR-did-core-20210803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-did-core-20210803
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: did-core
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

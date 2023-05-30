@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cvc-di-bbs
+title:
+- content: BBS Cryptosuite v2023
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-di-bbs/
+  type: src
+type: standard
+docid:
+- id: W3C vc-di-bbs
+  type: W3C
+  primary: true
+docnumber: vc-di-bbs
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-di-bbs-20230524
+    docid:
+    - id: W3C WD-vc-di-bbs-20230524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-di-bbs-20230524
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-di-bbs
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

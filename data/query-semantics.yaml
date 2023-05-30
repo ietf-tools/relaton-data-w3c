@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cquery-semantics
 title:
 - content: XQuery 1.0 and XPath 2.0 Formal Semantics
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: query-semantics
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

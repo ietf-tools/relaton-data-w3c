@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebvtt1
 title:
 - content: 'WebVTT: The Web Video Text Tracks Format'
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-webvtt1-20180510
-    docid:
-    - id: W3C CR-webvtt1-20180510
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webvtt1-20180510
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webvtt1-20170808
     docid:
     - id: W3C WD-webvtt1-20170808
@@ -49,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webvtt1-20170808
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-webvtt1-20180510
+    docid:
+    - id: W3C CR-webvtt1-20180510
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webvtt1-20180510
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: webvtt1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

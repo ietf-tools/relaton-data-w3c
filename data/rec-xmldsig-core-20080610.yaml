@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xmldsig-core-20080610
 title:
 - content: XML Signature Syntax and Processing (Second Edition)
@@ -107,3 +108,5 @@ doctype: technicalReport
 editorialgroup:
 - name: XML Security Specifications Maintenance Working Group
 - name: XML Security Working Group
+ext:
+  schema-version: v1.0.0

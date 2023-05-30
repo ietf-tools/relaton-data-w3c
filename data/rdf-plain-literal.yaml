@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-plain-literal
 title:
 - content: 'rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)'
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: rdf-plain-literal
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

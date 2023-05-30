@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-SOAP-dsig-20010206
 title:
 - content: 'SOAP Security Extensions: Digital Signature'
@@ -77,3 +78,5 @@ series:
     format: text/plain
   number: NOTE-SOAP-dsig-20010206
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

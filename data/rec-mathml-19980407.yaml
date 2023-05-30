@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-MathML-19980407
 title:
 - content: Mathematical Markup Language (MathML) 1.0 Specification
@@ -57,7 +58,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Cmathml101-updates/errata
+    id: W3Cmathml101-updates-errata
     docid:
     - id: W3C mathml101-updates/errata
       type: W3C
@@ -76,3 +77,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Math Working Group
+ext:
+  schema-version: v1.0.0

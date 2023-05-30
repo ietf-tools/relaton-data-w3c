@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cvc-di-ecdsa
+title:
+- content: ECDSA Cryptosuite v2019
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/vc-di-ecdsa/
+  type: src
+type: standard
+docid:
+- id: W3C vc-di-ecdsa
+  type: W3C
+  primary: true
+docnumber: vc-di-ecdsa
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-vc-di-ecdsa-20230518
+    docid:
+    - id: W3C WD-vc-di-ecdsa-20230518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-di-ecdsa-20230518
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: vc-di-ecdsa
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

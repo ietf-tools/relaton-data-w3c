@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cowl-semantics
 title:
 - content: OWL Web Ontology Language Semantics and Abstract Syntax
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-owl-semantics-20030818
-    docid:
-    - id: W3C CR-owl-semantics-20030818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-owl-semantics-20030818
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-owl-semantics-20021108
     docid:
     - id: W3C WD-owl-semantics-20021108
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-owl-semantics-20021108
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-owl-semantics-20030818
+    docid:
+    - id: W3C CR-owl-semantics-20030818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-owl-semantics-20030818
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: owl-semantics
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

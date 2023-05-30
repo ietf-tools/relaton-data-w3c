@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CPR-SVGMobile-20021115
 title:
 - content: 'Mobile SVG Profiles: SVG Tiny and SVG Basic'
@@ -37,63 +38,63 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g577220
+    id: W3C_-g49718140
     docid:
-    - id: W3C _:g577220
+    - id: W3C _:g49718140
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577220
+      content: W3C _:g49718140
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577240
+    id: W3C_-g49718160
     docid:
-    - id: W3C _:g577240
+    - id: W3C _:g49718160
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577240
+      content: W3C _:g49718160
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577260
+    id: W3C_-g49718180
     docid:
-    - id: W3C _:g577260
+    - id: W3C _:g49718180
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577260
+      content: W3C _:g49718180
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577300
+    id: W3C_-g49718200
     docid:
-    - id: W3C _:g577300
+    - id: W3C _:g49718200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577300
+      content: W3C _:g49718200
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577320
+    id: W3C_-g49718220
     docid:
-    - id: W3C _:g577320
+    - id: W3C _:g49718220
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577320
+      content: W3C _:g49718220
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g577360
+    id: W3C_-g49718260
     docid:
-    - id: W3C _:g577360
+    - id: W3C _:g49718260
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g577360
+      content: W3C _:g49718260
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -111,3 +112,5 @@ series:
     format: text/plain
   number: PR-SVGMobile-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

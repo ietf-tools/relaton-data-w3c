@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-sparql11-http-rdf-update-20091022
 title:
 - content: SPARQL 1.1 Uniform HTTP Protocol for Managing RDF Graphs
@@ -42,3 +43,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: SPARQL Working Group
+ext:
+  schema-version: v1.0.0

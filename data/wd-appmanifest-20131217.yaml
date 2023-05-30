@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-appmanifest-20131217
 title:
 - content: Manifest for web apps and bookmarks
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-appmanifest-20131217/
   type: src
-- content: http://w3c.github.io/manifest/
-  type: current
 type: standard
 docid:
 - id: W3C WD-appmanifest-20131217
@@ -64,3 +63,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

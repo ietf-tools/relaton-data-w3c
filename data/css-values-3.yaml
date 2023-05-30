@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-values-3
 title:
 - content: CSS Values and Units Module Level 3
@@ -22,6 +23,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CCR-css-values-3-20221201
+    docid:
+    - id: W3C CR-css-values-3-20221201
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-values-3-20221201
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-css-values-3-20190606
     docid:
     - id: W3C CR-css-values-3-20190606
@@ -29,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-values-3-20190606
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css-values-3-20180814
-    docid:
-    - id: W3C CR-css-values-3-20180814
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-values-3-20180814
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,9 +51,21 @@ relation:
     formattedref:
       content: W3C CR-css-values-3-20160929
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-values-3-20180814
+    docid:
+    - id: W3C CR-css-values-3-20180814
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-values-3-20180814
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: css-values-3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

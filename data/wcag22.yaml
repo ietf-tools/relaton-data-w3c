@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWCAG22
 title:
 - content: Web Content Accessibility Guidelines (WCAG) 2.2
@@ -22,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCR-WCAG22-20220906
+    id: W3CCRD-WCAG22-20230517
     docid:
-    - id: W3C CR-WCAG22-20220906
+    - id: W3C CRD-WCAG22-20230517
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-WCAG22-20220906
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-WCAG22-20210521
-    docid:
-    - id: W3C WD-WCAG22-20210521
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WCAG22-20210521
+      content: W3C CRD-WCAG22-20230517
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-WCAG22-20200811
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WCAG22-20210521
+    docid:
+    - id: W3C WD-WCAG22-20210521
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG22-20210521
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: WCAG22
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

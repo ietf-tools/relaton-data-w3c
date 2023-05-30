@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxquery-use-cases
 title:
 - content: XML Query Use Cases
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xquery-use-cases-20060608
-    docid:
-    - id: W3C WD-xquery-use-cases-20060608
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-use-cases-20060608
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xquery-use-cases-20050915
     docid:
     - id: W3C WD-xquery-use-cases-20050915
@@ -46,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xquery-use-cases-20050915
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-use-cases-20060608
+    docid:
+    - id: W3C WD-xquery-use-cases-20060608
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-use-cases-20060608
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: xquery-use-cases
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

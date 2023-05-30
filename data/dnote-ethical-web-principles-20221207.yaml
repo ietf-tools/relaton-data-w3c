@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.1
+id: W3CDNOTE-ethical-web-principles-20221207
+title:
+- content: W3C TAG Ethical Web Principles
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/DNOTE-ethical-web-principles-20221207/
+  type: src
+- content: https://w3ctag.github.io/ethical-web-principles/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-ethical-web-principles-20221207
+  type: W3C
+  primary: true
+docnumber: DNOTE-ethical-web-principles-20221207
+date:
+- type: published
+  value: '2022-12-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Amy Guy
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Daniel Appelquist
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Hadley Beeman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-12-07'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-ethical-web-principles-20220512
+    docid:
+    - id: W3C DNOTE-ethical-web-principles-20220512
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-ethical-web-principles-20220512
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-ethical-web-principles-20221207
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group
+ext:
+  schema-version: v1.0.0

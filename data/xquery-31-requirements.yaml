@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxquery-31-requirements
 title:
 - content: XQuery 3.1 Requirements and Use Cases
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-xquery-31-requirements-20150811
-    docid:
-    - id: W3C NOTE-xquery-31-requirements-20150811
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-xquery-31-requirements-20150811
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xquery-31-requirements-20140424
     docid:
     - id: W3C WD-xquery-31-requirements-20140424
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-xquery-31-requirements-20140424
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xquery-31-requirements-20150811
+    docid:
+    - id: W3C NOTE-xquery-31-requirements-20150811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xquery-31-requirements-20150811
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: xquery-31-requirements
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

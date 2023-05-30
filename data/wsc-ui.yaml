@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwsc-ui
 title:
 - content: 'Web Security Context: User Interface Guidelines'
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wsc-ui-20090226
-    docid:
-    - id: W3C WD-wsc-ui-20090226
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wsc-ui-20090226
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wsc-ui-20080724
     docid:
     - id: W3C WD-wsc-ui-20080724
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-wsc-ui-20080724
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wsc-ui-20090226
+    docid:
+    - id: W3C WD-wsc-ui-20090226
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsc-ui-20090226
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: wsc-ui
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

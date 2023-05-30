@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chtml51
 title:
 - content: HTML 5.1 2nd Edition
@@ -52,23 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html51-20151008
+    id: W3CWD-html51-20121217
     docid:
-    - id: W3C WD-html51-20151008
+    - id: W3C WD-html51-20121217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html51-20151008
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html51-20140617
-    docid:
-    - id: W3C WD-html51-20140617
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html51-20140617
+      content: W3C WD-html51-20121217
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -82,13 +73,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html51-20121217
+    id: W3CWD-html51-20140617
     docid:
-    - id: W3C WD-html51-20121217
+    - id: W3C WD-html51-20140617
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html51-20121217
+      content: W3C WD-html51-20140617
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html51-20151008
+    docid:
+    - id: W3C WD-html51-20151008
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html51-20151008
       format: text/plain
 series:
 - title:
@@ -96,3 +97,5 @@ series:
     format: text/plain
   number: html51
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

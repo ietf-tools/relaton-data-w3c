@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Canimation-timing
 title:
 - content: Timing control for script-based animations
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-animation-timing-20131031
-    docid:
-    - id: W3C CR-animation-timing-20131031
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-animation-timing-20131031
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-animation-timing-20120221
     docid:
     - id: W3C WD-animation-timing-20120221
@@ -46,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-animation-timing-20120221
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-animation-timing-20131031
+    docid:
+    - id: W3C CR-animation-timing-20131031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-animation-timing-20131031
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: animation-timing
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

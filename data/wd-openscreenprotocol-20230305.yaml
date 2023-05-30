@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: W3CWD-openscreenprotocol-20230305
+title:
+- content: Open Screen Protocol
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/
+  type: src
+- content: https://w3c.github.io/openscreenprotocol/
+  type: current
+type: standard
+docid:
+- id: W3C WD-openscreenprotocol-20230305
+  type: W3C
+  primary: true
+docnumber: WD-openscreenprotocol-20230305
+date:
+- type: published
+  value: '2023-03-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Foltz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-openscreenprotocol-20221212
+    docid:
+    - id: W3C WD-openscreenprotocol-20221212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-openscreenprotocol-20221212
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-openscreenprotocol-20230305
+doctype: technicalReport
+editorialgroup:
+- name: Second Screen Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-soap11-ror-httpbinding-20060321
 title:
 - content: SOAP 1.1 Request Optional Response HTTP Binding
@@ -39,3 +40,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Web Services Addressing Working Group
+ext:
+  schema-version: v1.0.0

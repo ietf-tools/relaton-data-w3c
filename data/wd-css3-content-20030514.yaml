@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-css3-content-20030514
 title:
 - content: CSS3 Generated and Replaced Content Module
@@ -34,6 +35,17 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CREC-CSS2-19980512-generate
+    docid:
+    - id: W3C REC-CSS2-19980512/generate
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-19980512/generate
+      format: text/plain
 series:
 - title:
     content: W3C WD
@@ -42,3 +54,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

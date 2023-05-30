@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CSVG12
 title:
 - content: Scalable Vector Graphics (SVG) Full 1.2 Specification
@@ -32,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-SVG12-20021115
+    docid:
+    - id: W3C WD-SVG12-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVG12-20021115
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-SVG12-20041027
     docid:
     - id: W3C WD-SVG12-20041027
@@ -50,19 +61,11 @@ relation:
     formattedref:
       content: W3C WD-SVG12-20031113
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-SVG12-20021115
-    docid:
-    - id: W3C WD-SVG12-20021115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-SVG12-20021115
-      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: SVG12
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

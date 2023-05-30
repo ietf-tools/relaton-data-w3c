@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmmi-mc-discovery
 title:
 - content: Discovery & Registration of Multimodal Modality Components
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: mmi-mc-discovery
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

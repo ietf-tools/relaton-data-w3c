@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cproximity
 title:
 - content: Proximity Sensor
@@ -22,13 +23,23 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-proximity-20210903
+    id: W3CWD-proximity-20230130
     docid:
-    - id: W3C WD-proximity-20210903
+    - id: W3C WD-proximity-20230130
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-proximity-20210903
+      content: W3C WD-proximity-20230130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-proximity-20121206
+    docid:
+    - id: W3C WD-proximity-20121206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-proximity-20121206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-proximity-20150903
-    docid:
-    - id: W3C WD-proximity-20150903
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-proximity-20150903
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-proximity-20131001
     docid:
     - id: W3C CR-proximity-20131001
@@ -72,13 +73,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-proximity-20121206
+    id: W3CWD-proximity-20210903
     docid:
-    - id: W3C WD-proximity-20121206
+    - id: W3C WD-proximity-20210903
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-proximity-20121206
+      content: W3C WD-proximity-20210903
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-proximity-20150903
+    docid:
+    - id: W3C WD-proximity-20150903
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-proximity-20150903
       format: text/plain
 series:
 - title:
@@ -86,3 +97,5 @@ series:
     format: text/plain
   number: proximity
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

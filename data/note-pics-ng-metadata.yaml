@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-pics-ng-metadata
 title:
 - content: PICS-NG Metadata Model and Label Syntax
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-pics-ng-metadata
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

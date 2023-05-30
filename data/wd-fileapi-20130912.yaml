@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-FileAPI-20130912
 title:
 - content: File API
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-FileAPI-20130912/
   type: src
-- content: http://dev.w3.org/2006/webapi/FileAPI/
-  type: current
 type: standard
 docid:
 - id: W3C WD-FileAPI-20130912
@@ -65,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

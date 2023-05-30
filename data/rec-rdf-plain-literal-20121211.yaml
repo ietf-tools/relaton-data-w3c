@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-rdf-plain-literal-20121211
 title:
 - content: 'rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)'
@@ -117,3 +118,5 @@ doctype: technicalReport
 editorialgroup:
 - name: RIF Working Group
 - name: OWL Working Group
+ext:
+  schema-version: v1.0.0

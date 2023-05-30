@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CmobileOK
 title:
 - content: W3C mobileOK Scheme 1.0
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mobileOK-20070504
-    docid:
-    - id: W3C WD-mobileOK-20070504
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mobileOK-20070504
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mobileOK-20060712
     docid:
     - id: W3C WD-mobileOK-20060712
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-mobileOK-20060712
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mobileOK-20070504
+    docid:
+    - id: W3C WD-mobileOK-20070504
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mobileOK-20070504
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: mobileOK
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-XMLHttpRequest-20121206
 title:
 - content: XMLHttpRequest
@@ -19,7 +20,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Hallvord Steen
+        content: Hallvord R. M. Steen
         language:
         - en
         script:
@@ -73,3 +74,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

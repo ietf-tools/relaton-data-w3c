@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cinput-events-2
 title:
 - content: Input Events Level 2
@@ -22,6 +23,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-input-events-2-20230516
+    docid:
+    - id: W3C WD-input-events-2-20230516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-input-events-2-20230516
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-input-events-2-20190530
     docid:
     - id: W3C WD-input-events-2-20190530
@@ -29,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-input-events-2-20190530
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-input-events-2-20181108
-    docid:
-    - id: W3C WD-input-events-2-20181108
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-input-events-2-20181108
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,9 +51,21 @@ relation:
     formattedref:
       content: W3C WD-input-events-2-20170905
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-input-events-2-20181108
+    docid:
+    - id: W3C WD-input-events-2-20181108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-input-events-2-20181108
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: input-events-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

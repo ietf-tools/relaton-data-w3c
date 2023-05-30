@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebrtc-stats
 title:
 - content: Identifiers for WebRTC's Statistics API
@@ -22,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-webrtc-stats-20221011
+    id: W3CCRD-webrtc-stats-20230511
     docid:
-    - id: W3C CRD-webrtc-stats-20221011
+    - id: W3C CRD-webrtc-stats-20230511
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20221011
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webrtc-stats-20220517
-    docid:
-    - id: W3C CRD-webrtc-stats-20220517
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webrtc-stats-20220517
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webrtc-stats-20211110
-    docid:
-    - id: W3C CRD-webrtc-stats-20211110
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webrtc-stats-20211110
+      content: W3C CRD-webrtc-stats-20230511
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -62,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webrtc-stats-20161214
+    docid:
+    - id: W3C WD-webrtc-stats-20161214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-stats-20161214
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-webrtc-stats-20180703
     docid:
     - id: W3C CR-webrtc-stats-20180703
@@ -72,13 +63,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-stats-20161214
+    id: W3CCRD-webrtc-stats-20220517
     docid:
-    - id: W3C WD-webrtc-stats-20161214
+    - id: W3C CRD-webrtc-stats-20220517
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-stats-20161214
+      content: W3C CRD-webrtc-stats-20220517
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-stats-20141021
+    docid:
+    - id: W3C WD-webrtc-stats-20141021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-stats-20141021
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -92,13 +93,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-stats-20141021
+    id: W3CCRD-webrtc-stats-20211110
     docid:
-    - id: W3C WD-webrtc-stats-20141021
+    - id: W3C CRD-webrtc-stats-20211110
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-stats-20141021
+      content: W3C CRD-webrtc-stats-20211110
       format: text/plain
 series:
 - title:
@@ -106,3 +107,5 @@ series:
     format: text/plain
   number: webrtc-stats
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

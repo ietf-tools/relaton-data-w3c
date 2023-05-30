@@ -1,0 +1,71 @@
+---
+schema-version: v1.2.1
+id: W3CWD-contact-picker-20230308
+title:
+- content: Contact Picker API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-contact-picker-20230308/
+  type: src
+- content: https://w3c.github.io/contact-picker/
+  type: current
+type: standard
+docid:
+- id: W3C WD-contact-picker-20230308
+  type: W3C
+  primary: true
+docnumber: WD-contact-picker-20230308
+date:
+- type: published
+  value: '2023-03-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Beverloo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rayan Kanso
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-contact-picker-20230127
+    docid:
+    - id: W3C WD-contact-picker-20230127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-contact-picker-20230127
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-contact-picker-20230308
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

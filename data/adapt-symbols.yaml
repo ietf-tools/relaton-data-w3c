@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cadapt-symbols
+title:
+- content: 'WAI-Adapt: Symbols Module'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/adapt-symbols/
+  type: src
+type: standard
+docid:
+- id: W3C adapt-symbols
+  type: W3C
+  primary: true
+docnumber: adapt-symbols
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: instance
+  bibitem:
+    id: W3CCR-adapt-symbols-20230105
+    docid:
+    - id: W3C CR-adapt-symbols-20230105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-adapt-symbols-20230105
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: adapt-symbols
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

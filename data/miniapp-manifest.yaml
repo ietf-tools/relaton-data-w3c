@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cminiapp-manifest
 title:
 - content: MiniApp Manifest
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-miniapp-manifest-20221027
+    id: W3CWD-miniapp-manifest-20230530
     docid:
-    - id: W3C WD-miniapp-manifest-20221027
+    - id: W3C WD-miniapp-manifest-20230530
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-manifest-20221027
+      content: W3C WD-miniapp-manifest-20230530
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: miniapp-manifest
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

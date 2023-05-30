@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWOFF2
 title:
 - content: WOFF File Format 2.0
@@ -62,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-WOFF2-20150414
-    docid:
-    - id: W3C WD-WOFF2-20150414
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WOFF2-20150414
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-WOFF2-20140508
     docid:
     - id: W3C WD-WOFF2-20140508
@@ -80,9 +71,21 @@ relation:
     formattedref:
       content: W3C WD-WOFF2-20140508
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WOFF2-20150414
+    docid:
+    - id: W3C WD-WOFF2-20150414
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WOFF2-20150414
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: WOFF2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

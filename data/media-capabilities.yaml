@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmedia-capabilities
 title:
 - content: Media Capabilities
@@ -22,13 +23,23 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-media-capabilities-20220803
+    id: W3CWD-media-capabilities-20221117
     docid:
-    - id: W3C WD-media-capabilities-20220803
+    - id: W3C WD-media-capabilities-20221117
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20220803
+      content: W3C WD-media-capabilities-20221117
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-capabilities-20200130
+    docid:
+    - id: W3C WD-media-capabilities-20200130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-capabilities-20200130
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,19 +61,11 @@ relation:
     formattedref:
       content: W3C WD-media-capabilities-20210604
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-media-capabilities-20200130
-    docid:
-    - id: W3C WD-media-capabilities-20200130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-media-capabilities-20200130
-      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: media-capabilities
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

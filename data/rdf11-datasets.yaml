@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf11-datasets
 title:
 - content: 'RDF 1.1: On Semantics of RDF Datasets'
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: rdf11-datasets
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

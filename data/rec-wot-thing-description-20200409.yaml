@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-wot-thing-description-20200409
 title:
 - content: Web of Things (WoT) Thing Description
@@ -89,7 +90,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Cwot-thing-description/errata
+    id: W3Cwot-thing-description-errata
     docid:
     - id: W3C wot-thing-description/errata
       type: W3C
@@ -108,3 +109,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web of Things Working Group
+ext:
+  schema-version: v1.0.0

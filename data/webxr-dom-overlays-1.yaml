@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebxr-dom-overlays-1
 title:
 - content: WebXR DOM Overlays Module
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webxr-dom-overlays-1-20220705
+    id: W3CWD-webxr-dom-overlays-1-20221117
     docid:
-    - id: W3C WD-webxr-dom-overlays-1-20220705
+    - id: W3C WD-webxr-dom-overlays-1-20221117
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webxr-dom-overlays-1-20220705
+      content: W3C WD-webxr-dom-overlays-1-20221117
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: webxr-dom-overlays-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cview-mode
 title:
 - content: The 'view-mode' Media Feature
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-view-mode-20110811
-    docid:
-    - id: W3C PR-view-mode-20110811
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-view-mode-20110811
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-view-mode-20100624
     docid:
     - id: W3C CR-view-mode-20100624
@@ -60,9 +51,21 @@ relation:
     formattedref:
       content: W3C CR-view-mode-20100624
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-view-mode-20110811
+    docid:
+    - id: W3C PR-view-mode-20110811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-view-mode-20110811
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: view-mode
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cfingerprinting-guidance
 title:
 - content: Mitigating Browser Fingerprinting in Web Specifications
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: fingerprinting-guidance
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

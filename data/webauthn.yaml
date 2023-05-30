@@ -1,7 +1,8 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebauthn
 title:
-- content: 'Web Authentication: An API for accessing Public Key Credentials Level
+- content: 'Web Authentication: An API for accessing Public Key Credentials - Level
     1'
   format: text/plain
 link:
@@ -19,18 +20,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CCR-webauthn-20180807
-    docid:
-    - id: W3C CR-webauthn-20180807
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webauthn-20180807
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-webauthn-20171205
@@ -40,6 +31,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webauthn-20171205
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-webauthn-20180807
+    docid:
+    - id: W3C CR-webauthn-20180807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webauthn-20180807
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +54,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: webauthn
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

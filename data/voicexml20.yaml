@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvoicexml20
 title:
 - content: Voice Extensible Markup Language (VoiceXML) Version 2.0
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-voicexml20-20030220
-    docid:
-    - id: W3C CR-voicexml20-20030220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-voicexml20-20030220
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-voicexml20-20020424
     docid:
     - id: W3C WD-voicexml20-20020424
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-voicexml20-20020424
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-voicexml20-20030220
+    docid:
+    - id: W3C CR-voicexml20-20030220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-voicexml20-20030220
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: voicexml20
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ci18n-html-tech-bidi
 title:
 - content: 'Authoring HTML: Handling Right-to-left Scripts'
@@ -29,13 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-i18n-html-tech-bidi-20090908
+    id: W3CWD-i18n-html-tech-bidi-20040509
     docid:
-    - id: W3C NOTE-i18n-html-tech-bidi-20090908
+    - id: W3C WD-i18n-html-tech-bidi-20040509
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-i18n-html-tech-bidi-20090908
+      content: W3C WD-i18n-html-tech-bidi-20040509
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -49,13 +50,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-i18n-html-tech-bidi-20040509
+    id: W3CNOTE-i18n-html-tech-bidi-20090908
     docid:
-    - id: W3C WD-i18n-html-tech-bidi-20040509
+    - id: W3C NOTE-i18n-html-tech-bidi-20090908
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-i18n-html-tech-bidi-20040509
+      content: W3C NOTE-i18n-html-tech-bidi-20090908
       format: text/plain
 series:
 - title:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: i18n-html-tech-bidi
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

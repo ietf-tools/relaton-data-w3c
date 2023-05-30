@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cemma11
 title:
 - content: 'EMMA: Extensible MultiModal Annotation markup language Version 1.1'
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: emma11
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

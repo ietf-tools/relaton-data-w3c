@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cweb-animations-2
+title:
+- content: Web Animations Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/web-animations-2/
+  type: src
+type: standard
+docid:
+- id: W3C web-animations-2
+  type: W3C
+  primary: true
+docnumber: web-animations-2
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-web-animations-2-20230221
+    docid:
+    - id: W3C WD-web-animations-2-20230221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-2-20230221
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: web-animations-2
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

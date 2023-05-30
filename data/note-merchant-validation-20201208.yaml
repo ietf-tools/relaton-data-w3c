@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-merchant-validation-20201208
 title:
 - content: The MerchantValidationEvent interface
@@ -41,3 +42,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Web Payments Working Group
+ext:
+  schema-version: v1.0.0

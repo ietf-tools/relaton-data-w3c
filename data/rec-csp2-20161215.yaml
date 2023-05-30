@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-CSP2-20161215
 title:
 - content: Content Security Policy Level 2
@@ -69,7 +70,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Cwebappsec-csp/issues
+    id: W3Cwebappsec-csp-issues
     docid:
     - id: W3C webappsec-csp/issues
       type: W3C
@@ -88,3 +89,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwot-thing-description11
 title:
 - content: Web of Things (WoT) Thing Description 1.1
@@ -18,17 +19,27 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-wot-thing-description11-20220803
+    id: W3CCR-wot-thing-description11-20230119
     docid:
-    - id: W3C WD-wot-thing-description11-20220803
+    - id: W3C CR-wot-thing-description11-20230119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wot-thing-description11-20220803
+      content: W3C CR-wot-thing-description11-20230119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-thing-description11-20201124
+    docid:
+    - id: W3C WD-wot-thing-description11-20201124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description11-20201124
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,19 +61,11 @@ relation:
     formattedref:
       content: W3C WD-wot-thing-description11-20210607
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-wot-thing-description11-20201124
-    docid:
-    - id: W3C WD-wot-thing-description11-20201124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wot-thing-description11-20201124
-      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: wot-thing-description11
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

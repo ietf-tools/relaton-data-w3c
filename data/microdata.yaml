@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmicrodata
 title:
 - content: HTML Microdata
@@ -26,6 +27,26 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-microdata-20210128
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-microdata-20121025
+    docid:
+    - id: W3C WD-microdata-20121025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-microdata-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-microdata-20101019
+    docid:
+    - id: W3C WD-microdata-20101019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-microdata-20101019
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -59,16 +80,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-microdata-20121025
-    docid:
-    - id: W3C WD-microdata-20121025
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-microdata-20121025
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-microdata-20110525
     docid:
     - id: W3C WD-microdata-20110525
@@ -77,19 +88,11 @@ relation:
     formattedref:
       content: W3C WD-microdata-20110525
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-microdata-20101019
-    docid:
-    - id: W3C WD-microdata-20101019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-microdata-20101019
-      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: microdata
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

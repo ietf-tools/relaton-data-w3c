@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xmlenc-decrypt-20021210
 title:
 - content: Decryption Transform for XML Signature
@@ -86,3 +87,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: XML Security Working Group
+ext:
+  schema-version: v1.0.0

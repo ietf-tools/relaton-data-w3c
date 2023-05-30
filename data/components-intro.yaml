@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccomponents-intro
 title:
 - content: Introduction to Web Components
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-components-intro-20130606
-    docid:
-    - id: W3C WD-components-intro-20130606
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-components-intro-20130606
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-components-intro-20120522
     docid:
     - id: W3C WD-components-intro-20120522
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-components-intro-20120522
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-components-intro-20130606
+    docid:
+    - id: W3C WD-components-intro-20130606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-components-intro-20130606
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: components-intro
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

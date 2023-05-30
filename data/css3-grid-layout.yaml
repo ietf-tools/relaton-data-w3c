@@ -1,7 +1,8 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss3-grid-layout
 title:
-- content: CSS Grid Layout Module Level 1
+- content: CSS Grid Layout
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-grid-layout/
@@ -20,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-css3-grid-layout-20130910
-    docid:
-    - id: W3C WD-css3-grid-layout-20130910
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-grid-layout-20130910
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-grid-layout-20121106
@@ -39,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-grid-layout-20121106
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-css3-grid-layout-20130910
+    docid:
+    - id: W3C WD-css3-grid-layout-20130910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-grid-layout-20130910
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: css3-grid-layout
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

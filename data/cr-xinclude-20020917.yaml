@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-xinclude-20020917
 title:
 - content: XML Inclusions (XInclude) Version 1.0
@@ -47,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g570900
+    id: W3C_-g49712680
     docid:
-    - id: W3C _:g570900
+    - id: W3C _:g49712680
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570900
+      content: W3C _:g49712680
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570920
+    id: W3C_-g49712700
     docid:
-    - id: W3C _:g570920
+    - id: W3C _:g49712700
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570920
+      content: W3C _:g49712700
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570940
+    id: W3C_-g49712720
     docid:
-    - id: W3C _:g570940
+    - id: W3C _:g49712720
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570940
+      content: W3C _:g49712720
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570980
+    id: W3C_-g49712740
     docid:
-    - id: W3C _:g570980
+    - id: W3C _:g49712740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570980
+      content: W3C _:g49712740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g571000
+    id: W3C_-g49712760
     docid:
-    - id: W3C _:g571000
+    - id: W3C _:g49712760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g571000
+      content: W3C _:g49712760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g571040
+    id: W3C_-g49712800
     docid:
-    - id: W3C _:g571040
+    - id: W3C _:g49712800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g571040
+      content: W3C _:g49712800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g571080
+    id: W3C_-g49712840
     docid:
-    - id: W3C _:g571080
+    - id: W3C _:g49712840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g571080
+      content: W3C _:g49712840
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: CR-xinclude-20020917
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

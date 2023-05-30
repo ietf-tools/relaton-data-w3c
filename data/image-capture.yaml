@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cimage-capture
 title:
 - content: MediaStream Image Capture
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-image-capture-20210406
+    id: W3CWD-image-capture-20230316
     docid:
-    - id: W3C WD-image-capture-20210406
+    - id: W3C WD-image-capture-20230316
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-image-capture-20210406
+      content: W3C WD-image-capture-20230316
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -39,6 +40,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-image-capture-20170621
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-image-capture-20130709
+    docid:
+    - id: W3C WD-image-capture-20130709
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-capture-20130709
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-image-capture-20210406
+    docid:
+    - id: W3C WD-image-capture-20210406
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-capture-20210406
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,19 +81,11 @@ relation:
     formattedref:
       content: W3C WD-image-capture-20150127
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-image-capture-20130709
-    docid:
-    - id: W3C WD-image-capture-20130709
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-image-capture-20130709
-      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: image-capture
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

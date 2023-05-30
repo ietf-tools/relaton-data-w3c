@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cccxml
 title:
 - content: 'Voice Browser Call Control: CCXML Version 1.0'
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-ccxml-20100401
+    id: W3CWD-ccxml-20050629
     docid:
-    - id: W3C CR-ccxml-20100401
+    - id: W3C WD-ccxml-20050629
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-ccxml-20100401
+      content: W3C WD-ccxml-20050629
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-ccxml-20021011
+    docid:
+    - id: W3C WD-ccxml-20021011
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ccxml-20021011
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ccxml-20061122
     docid:
     - id: W3C WD-ccxml-20061122
@@ -62,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ccxml-20050629
+    id: W3CCR-ccxml-20100401
     docid:
-    - id: W3C WD-ccxml-20050629
+    - id: W3C CR-ccxml-20100401
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ccxml-20050629
+      content: W3C CR-ccxml-20100401
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,19 +101,11 @@ relation:
     formattedref:
       content: W3C WD-ccxml-20030612
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-ccxml-20021011
-    docid:
-    - id: W3C WD-ccxml-20021011
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ccxml-20021011
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: ccxml
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

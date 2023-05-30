@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.1
+id: W3CWD-payment-handler-20230125
+title:
+- content: Payment Handler API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-payment-handler-20230125/
+  type: src
+- content: https://w3c.github.io/payment-handler/
+  type: current
+type: standard
+docid:
+- id: W3C WD-payment-handler-20230125
+  type: W3C
+  primary: true
+docnumber: WD-payment-handler-20230125
+date:
+- type: published
+  value: '2023-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Adrian Hope-Bailie
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Jinho Bang
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-payment-handler-20230124
+    docid:
+    - id: W3C WD-payment-handler-20230124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20230124
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-payment-handler-20230125
+doctype: technicalReport
+editorialgroup:
+- name: Web Payments Working Group
+ext:
+  schema-version: v1.0.0

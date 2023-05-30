@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxpath20
 title:
 - content: XML Path Language (XPath) 2.0 (Second Edition)
@@ -42,13 +43,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPER-xpath20-20090421
+    id: W3CCR-xpath20-20051103
     docid:
-    - id: W3C PER-xpath20-20090421
+    - id: W3C CR-xpath20-20051103
       type: W3C
       primary: true
     formattedref:
-      content: W3C PER-xpath20-20090421
+      content: W3C CR-xpath20-20051103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath20-20021115
+    docid:
+    - id: W3C WD-xpath20-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath20-20021115
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -62,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xpath20-20051103
+    id: W3CPER-xpath20-20090421
     docid:
-    - id: W3C CR-xpath20-20051103
+    - id: W3C PER-xpath20-20090421
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-xpath20-20051103
+      content: W3C PER-xpath20-20090421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,19 +101,11 @@ relation:
     formattedref:
       content: W3C WD-xpath20-20031112
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xpath20-20021115
-    docid:
-    - id: W3C WD-xpath20-20021115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xpath20-20021115
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xpath20
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

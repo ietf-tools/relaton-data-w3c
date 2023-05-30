@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Creporting-1
 title:
 - content: Reporting API
@@ -22,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-reporting-1-20220917
+    id: W3CWD-reporting-1-20230512
     docid:
-    - id: W3C WD-reporting-1-20220917
+    - id: W3C WD-reporting-1-20230512
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-reporting-1-20220917
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-reporting-1-20220405
-    docid:
-    - id: W3C WD-reporting-1-20220405
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-reporting-1-20220405
+      content: W3C WD-reporting-1-20230512
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,9 +51,21 @@ relation:
     formattedref:
       content: W3C NOTE-reporting-1-20160607
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-reporting-1-20220405
+    docid:
+    - id: W3C WD-reporting-1-20220405
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-reporting-1-20220405
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: reporting-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

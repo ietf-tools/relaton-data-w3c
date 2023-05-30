@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csemantic-interpretation
 title:
 - content: Semantic Interpretation for Speech Recognition (SISR) Version 1.0
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-semantic-interpretation-20061103
-    docid:
-    - id: W3C WD-semantic-interpretation-20061103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-semantic-interpretation-20061103
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-semantic-interpretation-20041108
     docid:
     - id: W3C WD-semantic-interpretation-20041108
@@ -49,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-semantic-interpretation-20041108
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-semantic-interpretation-20030401
-    docid:
-    - id: W3C WD-semantic-interpretation-20030401
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-semantic-interpretation-20030401
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,9 +51,31 @@ relation:
     formattedref:
       content: W3C WD-semantic-interpretation-20011116
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-semantic-interpretation-20061103
+    docid:
+    - id: W3C WD-semantic-interpretation-20061103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-semantic-interpretation-20061103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-semantic-interpretation-20030401
+    docid:
+    - id: W3C WD-semantic-interpretation-20030401
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-semantic-interpretation-20030401
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: semantic-interpretation
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-variables-1
 title:
 - content: CSS Custom Properties for Cascading Variables Module Level 1
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-css-variables-1-20211111
-    docid:
-    - id: W3C CRD-css-variables-1-20211111
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-css-variables-1-20211111
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-variables-1-20151203
     docid:
     - id: W3C CR-css-variables-1-20151203
@@ -49,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-variables-1-20151203
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css-variables-1-20140506
-    docid:
-    - id: W3C WD-css-variables-1-20140506
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-variables-1-20140506
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,9 +51,31 @@ relation:
     formattedref:
       content: W3C WD-css-variables-1-20130620
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-css-variables-1-20211111
+    docid:
+    - id: W3C CRD-css-variables-1-20211111
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-variables-1-20211111
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-variables-1-20140506
+    docid:
+    - id: W3C WD-css-variables-1-20140506
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-variables-1-20140506
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: css-variables-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

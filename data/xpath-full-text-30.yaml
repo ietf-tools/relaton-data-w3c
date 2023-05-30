@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxpath-full-text-30
 title:
 - content: XQuery and XPath Full Text 3.0
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xpath-full-text-30-20140918
+    id: W3CWD-xpath-full-text-30-20111213
     docid:
-    - id: W3C WD-xpath-full-text-30-20140918
+    - id: W3C WD-xpath-full-text-30-20111213
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xpath-full-text-30-20140918
+      content: W3C WD-xpath-full-text-30-20111213
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xpath-full-text-30-20111213
+    id: W3CWD-xpath-full-text-30-20140918
     docid:
-    - id: W3C WD-xpath-full-text-30-20111213
+    - id: W3C WD-xpath-full-text-30-20140918
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xpath-full-text-30-20111213
+      content: W3C WD-xpath-full-text-30-20140918
       format: text/plain
 series:
 - title:
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: xpath-full-text-30
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

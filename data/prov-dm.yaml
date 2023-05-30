@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cprov-dm
 title:
 - content: 'PROV-DM: The PROV Data Model'
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: prov-dm
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

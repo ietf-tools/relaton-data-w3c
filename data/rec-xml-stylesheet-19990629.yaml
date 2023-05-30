@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xml-stylesheet-19990629
 title:
 - content: Associating Style Sheets with XML documents
@@ -47,7 +48,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3CREC-xml-stylesheet-19990629/errata
+    id: W3CREC-xml-stylesheet-19990629-errata
     docid:
     - id: W3C REC-xml-stylesheet-19990629/errata
       type: W3C
@@ -65,3 +66,5 @@ series:
   number: REC-xml-stylesheet-19990629
 editorialgroup:
 - name: XML Core Working Group
+ext:
+  schema-version: v1.0.0

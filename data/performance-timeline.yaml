@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cperformance-timeline
 title:
 - content: Performance Timeline
@@ -52,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-performance-timeline-20211202
-    docid:
-    - id: W3C CR-performance-timeline-20211202
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-performance-timeline-20211202
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-performance-timeline-20120726
     docid:
     - id: W3C CR-performance-timeline-20120726
@@ -69,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-performance-timeline-20120726
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-performance-timeline-20211202
+    docid:
+    - id: W3C CR-performance-timeline-20211202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-performance-timeline-20211202
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: performance-timeline
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

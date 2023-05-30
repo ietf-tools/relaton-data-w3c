@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cowl-parsing
 title:
 - content: OWL Web Ontology Language Parsing OWL in RDF/XML
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: owl-parsing
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

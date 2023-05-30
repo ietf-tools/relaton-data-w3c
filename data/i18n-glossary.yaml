@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ci18n-glossary
 title:
 - content: Internationalization Glossary
@@ -18,6 +19,16 @@ script:
 - Latn
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-i18n-glossary-20230424
+    docid:
+    - id: W3C DNOTE-i18n-glossary-20230424
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-i18n-glossary-20230424
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CDNOTE-i18n-glossary-20220211
     docid:
@@ -43,3 +54,5 @@ series:
     format: text/plain
   number: i18n-glossary
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

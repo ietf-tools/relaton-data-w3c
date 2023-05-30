@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csparql11-query
 title:
 - content: SPARQL 1.1 Query Language
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-sparql11-query-20110512
-    docid:
-    - id: W3C WD-sparql11-query-20110512
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-sparql11-query-20110512
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-sparql11-query-20101014
     docid:
     - id: W3C WD-sparql11-query-20101014
@@ -70,9 +61,21 @@ relation:
     formattedref:
       content: W3C WD-sparql11-query-20091022
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-sparql11-query-20110512
+    docid:
+    - id: W3C WD-sparql11-query-20110512
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql11-query-20110512
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: sparql11-query
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cminiapp-lifecycle
 title:
 - content: MiniApp Lifecycle
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-miniapp-lifecycle-20221108
+    id: W3CWD-miniapp-lifecycle-20230529
     docid:
-    - id: W3C WD-miniapp-lifecycle-20221108
+    - id: W3C WD-miniapp-lifecycle-20230529
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-lifecycle-20221108
+      content: W3C WD-miniapp-lifecycle-20230529
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: miniapp-lifecycle
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

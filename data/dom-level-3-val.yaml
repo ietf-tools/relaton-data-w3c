@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CDOM-Level-3-Val
 title:
 - content: Document Object Model (DOM) Level 3 Validation Specification
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-DOM-Level-3-Val-20030730
-    docid:
-    - id: W3C CR-DOM-Level-3-Val-20030730
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-DOM-Level-3-Val-20030730
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-DOM-Level-3-Val-20021008
     docid:
     - id: W3C WD-DOM-Level-3-Val-20021008
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-DOM-Level-3-Val-20021008
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-DOM-Level-3-Val-20030730
+    docid:
+    - id: W3C CR-DOM-Level-3-Val-20030730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-DOM-Level-3-Val-20030730
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: DOM-Level-3-Val
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

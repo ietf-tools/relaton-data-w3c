@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-WebIDL-20120419
 title:
 - content: Web IDL
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2012/CR-WebIDL-20120419/
   type: src
-- content: http://dev.w3.org/2006/webapi/WebIDL/
-  type: current
 type: standard
 docid:
 - id: W3C CR-WebIDL-20120419
@@ -55,3 +54,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

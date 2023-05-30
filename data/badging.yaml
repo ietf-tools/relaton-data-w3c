@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cbadging
+title:
+- content: Badging API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/badging/
+  type: src
+type: standard
+docid:
+- id: W3C badging
+  type: W3C
+  primary: true
+docnumber: badging
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-badging-20230503
+    docid:
+    - id: W3C WD-badging-20230503
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-badging-20230503
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: badging
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

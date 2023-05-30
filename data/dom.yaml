@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdom
 title:
 - content: DOM
@@ -42,26 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CREC-dom-20151119
-    docid:
-    - id: W3C REC-dom-20151119
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-dom-20151119
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-dom-20140710
-    docid:
-    - id: W3C WD-dom-20140710
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-dom-20140710
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-dom-20121206
     docid:
     - id: W3C WD-dom-20121206
@@ -72,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CREC-dom-20151119
+    docid:
+    - id: W3C REC-dom-20151119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-dom-20151119
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-dom-20131107
     docid:
     - id: W3C WD-dom-20131107
@@ -79,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-dom-20131107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dom-20140710
+    docid:
+    - id: W3C WD-dom-20140710
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dom-20140710
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -96,3 +97,5 @@ series:
     format: text/plain
   number: dom
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cnetwork-error-logging
 title:
 - content: Network Error Logging
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: network-error-logging
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

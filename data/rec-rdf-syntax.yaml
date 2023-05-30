@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-rdf-syntax
 title:
 - content: Resource Description Framework (RDF) Model and Syntax Specification
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: REC-rdf-syntax
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

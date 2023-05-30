@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-prov-n-20130430
 title:
 - content: 'PROV-N: The Provenance Notation'
@@ -76,3 +77,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Provenance Working Group
+ext:
+  schema-version: v1.0.0

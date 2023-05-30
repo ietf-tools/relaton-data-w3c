@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-csv2rdf-20151217
 title:
 - content: Generating RDF from Tabular Data on the Web
@@ -75,3 +76,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: CSV on the Web Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCSP11
 title:
 - content: Content Security Policy 1.1
@@ -20,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-CSP11-20130604
-    docid:
-    - id: W3C WD-CSP11-20130604
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSP11-20130604
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-CSP11-20121213
@@ -40,9 +31,21 @@ relation:
     formattedref:
       content: W3C WD-CSP11-20121213
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-CSP11-20130604
+    docid:
+    - id: W3C WD-CSP11-20130604
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP11-20130604
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: CSP11
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Copenscreenprotocol
 title:
 - content: Open Screen Protocol
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-openscreenprotocol-20221114
+    id: W3CWD-openscreenprotocol-20230305
     docid:
-    - id: W3C WD-openscreenprotocol-20221114
+    - id: W3C WD-openscreenprotocol-20230305
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-openscreenprotocol-20221114
+      content: W3C WD-openscreenprotocol-20230305
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: openscreenprotocol
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

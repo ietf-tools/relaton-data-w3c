@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cgeolocation-API
 title:
 - content: Geolocation API Specification 2nd Edition
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPER-geolocation-API-20150528
-    docid:
-    - id: W3C PER-geolocation-API-20150528
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-geolocation-API-20150528
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-geolocation-API-20120510
     docid:
     - id: W3C PR-geolocation-API-20120510
@@ -80,9 +71,21 @@ relation:
     formattedref:
       content: W3C WD-geolocation-API-20090707
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-geolocation-API-20150528
+    docid:
+    - id: W3C PER-geolocation-API-20150528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-geolocation-API-20150528
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: geolocation-API
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

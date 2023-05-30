@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-contacts-api-20140114
 title:
 - content: Pick Contacts Intent
@@ -70,3 +71,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

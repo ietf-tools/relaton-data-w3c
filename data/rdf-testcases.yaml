@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdf-testcases
 title:
 - content: RDF Test Cases
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf-testcases-20031010
-    docid:
-    - id: W3C WD-rdf-testcases-20031010
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf-testcases-20031010
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdf-testcases-20021112
     docid:
     - id: W3C WD-rdf-testcases-20021112
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-rdf-testcases-20021112
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-testcases-20031010
+    docid:
+    - id: W3C WD-rdf-testcases-20031010
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-testcases-20031010
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: rdf-testcases
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

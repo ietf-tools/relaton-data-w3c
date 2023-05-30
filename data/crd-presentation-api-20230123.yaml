@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-presentation-api-20230123
+title:
+- content: Presentation API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-presentation-api-20230123/
+  type: src
+- content: https://w3c.github.io/presentation-api/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-presentation-api-20230123
+  type: W3C
+  primary: true
+docnumber: CRD-presentation-api-20230123
+date:
+- type: published
+  value: '2023-01-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dominik Röttsches
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mark Foltz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-presentation-api-20230119
+    docid:
+    - id: W3C CRD-presentation-api-20230119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-presentation-api-20230119
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-presentation-api-20230123
+doctype: technicalReport
+editorialgroup:
+- name: Second Screen Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-xforms-20021112
 title:
 - content: XForms 1.0
@@ -67,93 +68,93 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g570360
+    id: W3C_-g49712180
     docid:
-    - id: W3C _:g570360
+    - id: W3C _:g49712180
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570360
+      content: W3C _:g49712180
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570380
+    id: W3C_-g49712200
     docid:
-    - id: W3C _:g570380
+    - id: W3C _:g49712200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570380
+      content: W3C _:g49712200
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570400
+    id: W3C_-g49712220
     docid:
-    - id: W3C _:g570400
+    - id: W3C _:g49712220
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570400
+      content: W3C _:g49712220
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570440
+    id: W3C_-g49712240
     docid:
-    - id: W3C _:g570440
+    - id: W3C _:g49712240
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570440
+      content: W3C _:g49712240
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570480
+    id: W3C_-g49712280
     docid:
-    - id: W3C _:g570480
+    - id: W3C _:g49712280
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570480
+      content: W3C _:g49712280
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570520
+    id: W3C_-g49712320
     docid:
-    - id: W3C _:g570520
+    - id: W3C _:g49712320
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570520
+      content: W3C _:g49712320
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570560
+    id: W3C_-g49712360
     docid:
-    - id: W3C _:g570560
+    - id: W3C _:g49712360
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570560
+      content: W3C _:g49712360
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570600
+    id: W3C_-g49712400
     docid:
-    - id: W3C _:g570600
+    - id: W3C _:g49712400
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570600
+      content: W3C _:g49712400
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g570640
+    id: W3C_-g49712440
     docid:
-    - id: W3C _:g570640
+    - id: W3C _:g49712440
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g570640
+      content: W3C _:g49712440
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -171,3 +172,5 @@ series:
     format: text/plain
   number: CR-xforms-20021112
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

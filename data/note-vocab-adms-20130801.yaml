@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-vocab-adms-20130801
 title:
 - content: Asset Description Metadata Schema (ADMS)
@@ -60,3 +61,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Government Linked Data Working Group
+ext:
+  schema-version: v1.0.0

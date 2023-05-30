@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebtransport
 title:
 - content: WebTransport
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webtransport-20220623
+    id: W3CWD-webtransport-20230405
     docid:
-    - id: W3C WD-webtransport-20220623
+    - id: W3C WD-webtransport-20230405
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20220623
+      content: W3C WD-webtransport-20230405
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: webtransport
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdb-direct-mapping-20110920
 title:
 - content: A Direct Mapping of Relational Data to RDF
@@ -83,3 +84,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: RDB2RDF Working Group
+ext:
+  schema-version: v1.0.0

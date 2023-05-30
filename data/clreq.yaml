@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cclreq
 title:
 - content: Requirements for Chinese Text Layout - 中文排版需求
@@ -19,33 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-clreq-20221009
+    id: W3CDNOTE-clreq-20230501
     docid:
-    - id: W3C DNOTE-clreq-20221009
+    - id: W3C DNOTE-clreq-20230501
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-clreq-20221009
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-clreq-20220501
-    docid:
-    - id: W3C DNOTE-clreq-20220501
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-clreq-20220501
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-clreq-20211126
-    docid:
-    - id: W3C DNOTE-clreq-20211126
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-clreq-20211126
+      content: W3C DNOTE-clreq-20230501
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-clreq-20201101
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clreq-20171229
+    docid:
+    - id: W3C WD-clreq-20171229
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clreq-20171229
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -79,13 +70,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-clreq-20171229
+    id: W3CDNOTE-clreq-20220501
     docid:
-    - id: W3C WD-clreq-20171229
+    - id: W3C DNOTE-clreq-20220501
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-clreq-20171229
+      content: W3C DNOTE-clreq-20220501
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -97,9 +88,21 @@ relation:
     formattedref:
       content: W3C WD-clreq-20150730
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-clreq-20211126
+    docid:
+    - id: W3C DNOTE-clreq-20211126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-clreq-20211126
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: clreq
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

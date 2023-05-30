@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CMathML2
 title:
 - content: Mathematical Markup Language (MathML) Version 2.0 (Second Edition)
@@ -30,7 +31,7 @@ relation:
     formattedref:
       content: W3C REC-MathML2-20010221
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-MathML2-20031021
     docid:
@@ -40,9 +41,21 @@ relation:
     formattedref:
       content: W3C REC-MathML2-20031021
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CSPSD-MathML2-20230307
+    docid:
+    - id: W3C SPSD-MathML2-20230307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C SPSD-MathML2-20230307
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: MathML2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

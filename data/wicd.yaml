@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWICD
 title:
 - content: WICD Core 1.0
@@ -29,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-WICD-20050915
+    docid:
+    - id: W3C WD-WICD-20050915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WICD-20050915
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-WICD-20070718
     docid:
     - id: W3C CR-WICD-20070718
@@ -47,19 +58,11 @@ relation:
     formattedref:
       content: W3C WD-WICD-20061122
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-WICD-20050915
-    docid:
-    - id: W3C WD-WICD-20050915
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WICD-20050915
-      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: WICD
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

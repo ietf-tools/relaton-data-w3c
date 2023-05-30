@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chtml-polyglot
 title:
 - content: 'Polyglot Markup: A robust profile of the HTML5 vocabulary'
@@ -29,13 +30,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-html-polyglot-20140717
+    id: W3CWD-html-polyglot-20121025
     docid:
-    - id: W3C CR-html-polyglot-20140717
+    - id: W3C WD-html-polyglot-20121025
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-html-polyglot-20140717
+      content: W3C WD-html-polyglot-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-polyglot-20101019
+    docid:
+    - id: W3C WD-html-polyglot-20101019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-polyglot-20101019
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -49,13 +60,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-polyglot-20121025
+    id: W3CCR-html-polyglot-20140717
     docid:
-    - id: W3C WD-html-polyglot-20121025
+    - id: W3C CR-html-polyglot-20140717
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-polyglot-20121025
+      content: W3C CR-html-polyglot-20140717
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,19 +78,11 @@ relation:
     formattedref:
       content: W3C WD-html-polyglot-20110525
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html-polyglot-20101019
-    docid:
-    - id: W3C WD-html-polyglot-20101019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-polyglot-20101019
-      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: html-polyglot
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

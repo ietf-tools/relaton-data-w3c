@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxsd-precisionDecimal
 title:
 - content: An XSD datatype for IEEE floating-point decimal
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xsd-precisionDecimal
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CDDR-Simple-API
 title:
 - content: Device Description Repository Simple API
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: DDR-Simple-API
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

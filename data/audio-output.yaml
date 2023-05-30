@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Caudio-output
 title:
 - content: Audio Output Devices API
@@ -22,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-audio-output-20220210
+    id: W3CCRD-audio-output-20230504
     docid:
-    - id: W3C CRD-audio-output-20220210
+    - id: W3C CRD-audio-output-20230504
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-audio-output-20220210
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-audio-output-20211115
-    docid:
-    - id: W3C CRD-audio-output-20211115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-audio-output-20211115
+      content: W3C CRD-audio-output-20230504
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -62,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCRD-audio-output-20220210
+    docid:
+    - id: W3C CRD-audio-output-20220210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-audio-output-20220210
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-audio-output-20161215
     docid:
     - id: W3C WD-audio-output-20161215
@@ -80,9 +81,21 @@ relation:
     formattedref:
       content: W3C WD-audio-output-20150210
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-audio-output-20211115
+    docid:
+    - id: W3C CRD-audio-output-20211115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-audio-output-20211115
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: audio-output
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

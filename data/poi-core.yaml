@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpoi-core
 title:
 - content: Points of Interest Core
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: poi-core
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

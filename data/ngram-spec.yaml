@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cngram-spec
 title:
 - content: Stochastic Language Models (N-Gram) Specification
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: ngram-spec
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

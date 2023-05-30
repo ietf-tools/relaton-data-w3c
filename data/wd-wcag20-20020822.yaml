@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-WCAG20-20020822
 title:
 - content: Web Content Accessibility Guidelines 2.0
@@ -67,73 +68,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g585460
+    id: W3C_-g49725440
     docid:
-    - id: W3C _:g585460
+    - id: W3C _:g49725440
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585460
+      content: W3C _:g49725440
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585480
+    id: W3C_-g49725460
     docid:
-    - id: W3C _:g585480
+    - id: W3C _:g49725460
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585480
+      content: W3C _:g49725460
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585500
+    id: W3C_-g49725480
     docid:
-    - id: W3C _:g585500
+    - id: W3C _:g49725480
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585500
+      content: W3C _:g49725480
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585540
+    id: W3C_-g49725500
     docid:
-    - id: W3C _:g585540
+    - id: W3C _:g49725500
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585540
+      content: W3C _:g49725500
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585580
+    id: W3C_-g49725540
     docid:
-    - id: W3C _:g585580
+    - id: W3C _:g49725540
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585580
+      content: W3C _:g49725540
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585620
+    id: W3C_-g49725580
     docid:
-    - id: W3C _:g585620
+    - id: W3C _:g49725580
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585620
+      content: W3C _:g49725580
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g585660
+    id: W3C_-g49725620
     docid:
-    - id: W3C _:g585660
+    - id: W3C _:g49725620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g585660
+      content: W3C _:g49725620
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -151,3 +152,5 @@ series:
     format: text/plain
   number: WD-WCAG20-20020822
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

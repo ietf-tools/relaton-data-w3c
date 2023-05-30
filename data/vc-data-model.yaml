@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvc-data-model
 title:
 - content: Verifiable Credentials Data Model v1.1
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: vc-data-model
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

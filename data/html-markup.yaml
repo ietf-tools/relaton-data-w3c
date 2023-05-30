@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chtml-markup
 title:
 - content: 'HTML: The Markup Language (an HTML language reference)'
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-markup-20110525
-    docid:
-    - id: W3C WD-html-markup-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-markup-20110525
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-markup-20101019
     docid:
     - id: W3C WD-html-markup-20101019
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-html-markup-20101019
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-markup-20110525
+    docid:
+    - id: W3C WD-html-markup-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-markup-20110525
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: html-markup
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

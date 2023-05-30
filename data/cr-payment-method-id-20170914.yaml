@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-payment-method-id-20170914
 title:
 - content: Payment Method Identifiers
@@ -85,3 +86,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group
+ext:
+  schema-version: v1.0.0

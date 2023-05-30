@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cnavigation-timing-2
 title:
 - content: Navigation Timing Level 2
@@ -22,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-navigation-timing-2-20220907
+    id: W3CWD-navigation-timing-2-20230206
     docid:
-    - id: W3C WD-navigation-timing-2-20220907
+    - id: W3C WD-navigation-timing-2-20230206
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20220907
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-navigation-timing-2-20220310
-    docid:
-    - id: W3C WD-navigation-timing-2-20220310
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-navigation-timing-2-20220310
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-navigation-timing-2-20210927
-    docid:
-    - id: W3C WD-navigation-timing-2-20210927
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-navigation-timing-2-20210927
+      content: W3C WD-navigation-timing-2-20230206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -59,6 +40,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-navigation-timing-2-20200915
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-navigation-timing-2-20171205
+    docid:
+    - id: W3C WD-navigation-timing-2-20171205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-navigation-timing-2-20171205
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-navigation-timing-2-20130131
+    docid:
+    - id: W3C WD-navigation-timing-2-20130131
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-navigation-timing-2-20130131
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -82,13 +83,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-navigation-timing-2-20171205
+    id: W3CWD-navigation-timing-2-20220310
     docid:
-    - id: W3C WD-navigation-timing-2-20171205
+    - id: W3C WD-navigation-timing-2-20220310
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20171205
+      content: W3C WD-navigation-timing-2-20220310
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -102,16 +103,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-navigation-timing-2-20151204
-    docid:
-    - id: W3C WD-navigation-timing-2-20151204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-navigation-timing-2-20151204
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-navigation-timing-2-20140325
     docid:
     - id: W3C WD-navigation-timing-2-20140325
@@ -122,13 +113,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-navigation-timing-2-20130131
+    id: W3CWD-navigation-timing-2-20151204
     docid:
-    - id: W3C WD-navigation-timing-2-20130131
+    - id: W3C WD-navigation-timing-2-20151204
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20130131
+      content: W3C WD-navigation-timing-2-20151204
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-navigation-timing-2-20210927
+    docid:
+    - id: W3C WD-navigation-timing-2-20210927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-navigation-timing-2-20210927
       format: text/plain
 series:
 - title:
@@ -136,3 +137,5 @@ series:
     format: text/plain
   number: navigation-timing-2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

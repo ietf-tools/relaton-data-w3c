@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ceventsource
 title:
 - content: Server-Sent Events
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-eventsource-20141209
-    docid:
-    - id: W3C PR-eventsource-20141209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-eventsource-20141209
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-eventsource-20121211
     docid:
     - id: W3C CR-eventsource-20121211
@@ -59,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-eventsource-20121211
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-eventsource-20111020
-    docid:
-    - id: W3C WD-eventsource-20111020
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-eventsource-20111020
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,9 +71,31 @@ relation:
     formattedref:
       content: W3C WD-eventsource-20091029
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-eventsource-20141209
+    docid:
+    - id: W3C PR-eventsource-20141209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-eventsource-20141209
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-eventsource-20111020
+    docid:
+    - id: W3C WD-eventsource-20111020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-eventsource-20111020
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: eventsource
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

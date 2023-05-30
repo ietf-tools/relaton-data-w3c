@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-sparql11-http-rdf-update-20121108
 title:
 - content: SPARQL 1.1 Graph Store HTTP Protocol
@@ -34,6 +35,17 @@ script:
 docstatus:
   stage:
     value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-sparql11-http-rdf-update-20120501
+    docid:
+    - id: W3C WD-sparql11-http-rdf-update-20120501
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql11-http-rdf-update-20120501
+      format: text/plain
 series:
 - title:
     content: W3C CR
@@ -42,3 +54,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: SPARQL Working Group
+ext:
+  schema-version: v1.0.0

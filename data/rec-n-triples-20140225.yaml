@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-n-triples-20140225
 title:
 - content: RDF 1.1 N-Triples
@@ -6,6 +7,8 @@ title:
 link:
 - content: https://www.w3.org/TR/2014/REC-n-triples-20140225/
   type: src
+- content: https://w3c.github.io/rdf-n-triples/spec/
+  type: current
 type: standard
 docid:
 - id: W3C REC-n-triples-20140225
@@ -63,3 +66,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: RDF Working Group
+ext:
+  schema-version: v1.0.0

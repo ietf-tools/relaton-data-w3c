@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cindieauth
 title:
 - content: IndieAuth
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: indieauth
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

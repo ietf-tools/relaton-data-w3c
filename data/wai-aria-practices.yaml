@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwai-aria-practices
 title:
 - content: WAI-ARIA 1.0 Authoring Practices
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wai-aria-practices-20130307
+    id: W3CWD-wai-aria-practices-20080204
     docid:
-    - id: W3C WD-wai-aria-practices-20130307
+    - id: W3C WD-wai-aria-practices-20080204
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wai-aria-practices-20130307
+      content: W3C WD-wai-aria-practices-20080204
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-wai-aria-practices-20130307
+    docid:
+    - id: W3C WD-wai-aria-practices-20130307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-practices-20130307
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-wai-aria-practices-20090224
     docid:
     - id: W3C WD-wai-aria-practices-20090224
@@ -60,19 +71,11 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-practices-20090224
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-wai-aria-practices-20080204
-    docid:
-    - id: W3C WD-wai-aria-practices-20080204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wai-aria-practices-20080204
-      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: wai-aria-practices
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

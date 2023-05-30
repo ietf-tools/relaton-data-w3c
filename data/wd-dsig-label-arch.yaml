@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-DSIG-label-arch
 title:
 - content: Digital Signature Label Architecture
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: WD-DSIG-label-arch
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

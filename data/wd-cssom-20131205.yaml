@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-cssom-20131205
 title:
 - content: CSS Object Model (CSSOM)
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-cssom-20131205/
   type: src
-- content: http://dev.w3.org/csswg/cssom/
-  type: current
 type: standard
 docid:
 - id: W3C WD-cssom-20131205
@@ -65,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-notifications-20130912
 title:
 - content: Web Notifications
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-notifications-20130912/
   type: src
-- content: http://dvcs.w3.org/hg/notifications/raw-file/tip/Overview.html
-  type: current
 type: standard
 docid:
 - id: W3C WD-notifications-20130912
@@ -65,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Notification Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chr-time-1
 title:
 - content: High Resolution Time
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: hr-time-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

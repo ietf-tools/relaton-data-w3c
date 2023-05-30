@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-PICS-services
 title:
 - content: PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable
@@ -47,3 +48,5 @@ series:
     format: text/plain
   number: REC-PICS-services
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

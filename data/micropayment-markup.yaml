@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CMicropayment-Markup
 title:
 - content: Common Markup for micropayment per-fee-links
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: Micropayment-Markup
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

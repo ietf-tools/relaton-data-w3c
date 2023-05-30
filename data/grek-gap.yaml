@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cgrek-gap
 title:
 - content: Modern Greek Gap Analysis
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-grek-gap-20210525
-    docid:
-    - id: W3C WD-grek-gap-20210525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-grek-gap-20210525
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-grek-gap-20200715
     docid:
     - id: W3C WD-grek-gap-20200715
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-grek-gap-20200715
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-grek-gap-20210525
+    docid:
+    - id: W3C WD-grek-gap-20210525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-grek-gap-20210525
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: grek-gap
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

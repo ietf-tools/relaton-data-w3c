@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-agent-attributes
 title:
 - content: Client-Specific Web Services by Using User Agent Attributes
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: NOTE-agent-attributes
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

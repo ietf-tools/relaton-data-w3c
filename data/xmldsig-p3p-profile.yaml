@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmldsig-p3p-profile
 title:
 - content: A P3P Assurance Signature Profile
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xmldsig-p3p-profile
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

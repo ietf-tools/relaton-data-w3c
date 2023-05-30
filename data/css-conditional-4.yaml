@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-conditional-4
 title:
 - content: CSS Conditional Rules Module Level 4
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-conditional-4-20211225
-    docid:
-    - id: W3C WD-css-conditional-4-20211225
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-conditional-4-20211225
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-conditional-4-20200303
     docid:
     - id: W3C WD-css-conditional-4-20200303
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-css-conditional-4-20200303
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-conditional-4-20211225
+    docid:
+    - id: W3C WD-css-conditional-4-20211225
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-conditional-4-20211225
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: css-conditional-4
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmobile-bp
 title:
 - content: Mobile Web Best Practices 1.0
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-mobile-bp-20061102
-    docid:
-    - id: W3C PR-mobile-bp-20061102
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-mobile-bp-20061102
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mobile-bp-20051017
     docid:
     - id: W3C WD-mobile-bp-20051017
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-mobile-bp-20051017
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-mobile-bp-20061102
+    docid:
+    - id: W3C PR-mobile-bp-20061102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-mobile-bp-20061102
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: mobile-bp
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

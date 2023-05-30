@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CEARL10-Requirements
 title:
 - content: Requirements for the Evaluation and Report Language (EARL) 1.0
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-EARL10-Requirements-20091029
-    docid:
-    - id: W3C WD-EARL10-Requirements-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-EARL10-Requirements-20091029
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-EARL10-Requirements-20050711
     docid:
     - id: W3C WD-EARL10-Requirements-20050711
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-EARL10-Requirements-20050711
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-EARL10-Requirements-20091029
+    docid:
+    - id: W3C WD-EARL10-Requirements-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-EARL10-Requirements-20091029
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: EARL10-Requirements
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

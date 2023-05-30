@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmixed-content
 title:
 - content: Mixed Content
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-mixed-content-20211004
+    id: W3CCRD-mixed-content-20230223
     docid:
-    - id: W3C CRD-mixed-content-20211004
+    - id: W3C CRD-mixed-content-20230223
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-mixed-content-20211004
+      content: W3C CRD-mixed-content-20230223
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -42,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-mixed-content-20151008
+    id: W3CCRD-mixed-content-20211004
     docid:
-    - id: W3C CR-mixed-content-20151008
+    - id: W3C CRD-mixed-content-20211004
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-mixed-content-20151008
+      content: W3C CRD-mixed-content-20211004
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,9 +61,21 @@ relation:
     formattedref:
       content: W3C WD-mixed-content-20141113
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-mixed-content-20151008
+    docid:
+    - id: W3C CR-mixed-content-20151008
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-mixed-content-20151008
+      format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
   number: mixed-content
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.1
+id: W3Ccss-2023
+title:
+- content: CSS Snapshot 2023
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/css-2023/
+  type: src
+type: standard
+docid:
+- id: W3C css-2023
+  type: W3C
+  primary: true
+docnumber: css-2023
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-css-2023-20230214
+    docid:
+    - id: W3C DNOTE-css-2023-20230214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-css-2023-20230214
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: css-2023
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-vcard-rdf-20010222
 title:
 - content: Representing vCard Objects in RDF/XML
@@ -37,3 +38,5 @@ series:
     format: text/plain
   number: NOTE-vcard-rdf-20010222
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

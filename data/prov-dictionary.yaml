@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cprov-dictionary
 title:
 - content: 'PROV-Dictionary: Modeling Provenance for Dictionary Data Structures'
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: prov-dictionary
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

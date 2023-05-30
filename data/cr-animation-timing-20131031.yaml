@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-animation-timing-20131031
 title:
 - content: Timing control for script-based animations
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/CR-animation-timing-20131031/
   type: src
-- content: http://dvcs.w3.org/hg/webperf/raw-file/tip/specs/RequestAnimationFrame/Overview.html
-  type: current
 type: standard
 docid:
 - id: W3C CR-animation-timing-20131031
@@ -65,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group
+ext:
+  schema-version: v1.0.0

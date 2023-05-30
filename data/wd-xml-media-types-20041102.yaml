@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-xml-media-types-20041102
 title:
 - content: Assigning Media Types to Binary Data in XML
@@ -64,3 +65,5 @@ doctype: technicalReport
 editorialgroup:
 - name: XML Protocol Working Group
 - name: Web Services Description Working Group
+ext:
+  schema-version: v1.0.0

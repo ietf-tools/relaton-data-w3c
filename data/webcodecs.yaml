@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebcodecs
 title:
 - content: WebCodecs
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webcodecs-20221115
+    id: W3CWD-webcodecs-20230511
     docid:
-    - id: W3C WD-webcodecs-20221115
+    - id: W3C WD-webcodecs-20230511
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20221115
+      content: W3C WD-webcodecs-20230511
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -66,3 +67,5 @@ series:
     format: text/plain
   number: webcodecs
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

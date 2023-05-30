@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-xmldsig-core1-20110303
 title:
 - content: XML Signature Syntax and Processing Version 1.1
@@ -113,3 +114,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: XML Security Working Group
+ext:
+  schema-version: v1.0.0

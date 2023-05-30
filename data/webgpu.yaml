@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebgpu
 title:
 - content: WebGPU
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webgpu-20221026
+    id: W3CWD-webgpu-20230529
     docid:
-    - id: W3C WD-webgpu-20221026
+    - id: W3C WD-webgpu-20230529
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20221026
+      content: W3C WD-webgpu-20230529
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: webgpu
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

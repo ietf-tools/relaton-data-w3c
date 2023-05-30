@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwebrtc-priority
 title:
 - content: WebRTC Priority Control API
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: webrtc-priority
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

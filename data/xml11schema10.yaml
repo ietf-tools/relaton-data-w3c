@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxml11schema10
 title:
 - content: Processing XML 1.1 documents with XML Schema 1.0 processors
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: xml11schema10
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

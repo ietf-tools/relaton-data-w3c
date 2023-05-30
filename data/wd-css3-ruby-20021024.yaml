@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-css3-ruby-20021024
 title:
 - content: 'CSS3 module: Ruby'
@@ -37,53 +38,53 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g588160
+    id: W3C_-g49727520
     docid:
-    - id: W3C _:g588160
+    - id: W3C _:g49727520
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588160
+      content: W3C _:g49727520
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588180
+    id: W3C_-g49727540
     docid:
-    - id: W3C _:g588180
+    - id: W3C _:g49727540
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588180
+      content: W3C _:g49727540
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588200
+    id: W3C_-g49727560
     docid:
-    - id: W3C _:g588200
+    - id: W3C _:g49727560
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588200
+      content: W3C _:g49727560
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588240
+    id: W3C_-g49727580
     docid:
-    - id: W3C _:g588240
+    - id: W3C _:g49727580
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588240
+      content: W3C _:g49727580
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588280
+    id: W3C_-g49727620
     docid:
-    - id: W3C _:g588280
+    - id: W3C _:g49727620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588280
+      content: W3C _:g49727620
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -101,3 +102,5 @@ series:
     format: text/plain
   number: WD-css3-ruby-20021024
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

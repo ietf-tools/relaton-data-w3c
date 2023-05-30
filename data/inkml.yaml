@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CInkML
 title:
 - content: Ink Markup Language (InkML)
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-InkML-20100527
+    id: W3CWD-InkML-20040928
     docid:
-    - id: W3C WD-InkML-20100527
+    - id: W3C WD-InkML-20040928
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-InkML-20100527
+      content: W3C WD-InkML-20040928
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-InkML-20040928
+    id: W3CWD-InkML-20100527
     docid:
-    - id: W3C WD-InkML-20040928
+    - id: W3C WD-InkML-20100527
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-InkML-20040928
+      content: W3C WD-InkML-20100527
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -76,3 +77,5 @@ series:
     format: text/plain
   number: InkML
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

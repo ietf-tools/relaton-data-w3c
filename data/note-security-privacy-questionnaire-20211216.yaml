@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-security-privacy-questionnaire-20211216
 title:
 - content: 'Self-Review Questionnaire: Security and Privacy'
@@ -63,3 +64,5 @@ doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group
 - name: Privacy Interest Group
+ext:
+  schema-version: v1.0.0

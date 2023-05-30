@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-nesting-1
 title:
 - content: CSS Nesting Module
@@ -22,6 +23,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-css-nesting-1-20230214
+    docid:
+    - id: W3C WD-css-nesting-1-20230214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-nesting-1-20230214
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-css-nesting-1-20210831
     docid:
     - id: W3C WD-css-nesting-1-20210831
@@ -36,3 +47,5 @@ series:
     format: text/plain
   number: css-nesting-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwsdl12
 title:
 - content: Web Services Description Language (WSDL) Version 1.2
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: wsdl12
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

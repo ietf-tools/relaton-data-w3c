@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-mmi-mc-discovery-20170202
 title:
 - content: Discovery & Registration of Multimodal Modality Components
@@ -100,3 +101,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: Multimodal Interaction Working Group
+ext:
+  schema-version: v1.0.0

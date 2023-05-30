@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.1
+id: W3Cguru-lreq
+title:
+- content: Gurmukhi Layout Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/guru-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C guru-lreq
+  type: W3C
+  primary: true
+docnumber: guru-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-guru-lreq-20230214
+    docid:
+    - id: W3C DNOTE-guru-lreq-20230214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-guru-lreq-20230214
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: guru-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

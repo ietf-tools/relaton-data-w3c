@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmldsig-requirements
 title:
 - content: XML-Signature Requirements
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: xmldsig-requirements
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

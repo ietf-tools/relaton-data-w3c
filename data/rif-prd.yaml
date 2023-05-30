@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crif-prd
 title:
 - content: RIF Production Rule Dialect (Second Edition)
@@ -42,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-rif-prd-20080730
+    docid:
+    - id: W3C WD-rif-prd-20080730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rif-prd-20080730
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPER-rif-prd-20121211
     docid:
     - id: W3C PER-rif-prd-20121211
@@ -60,19 +71,11 @@ relation:
     formattedref:
       content: W3C CR-rif-prd-20091001
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-rif-prd-20080730
-    docid:
-    - id: W3C WD-rif-prd-20080730
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rif-prd-20080730
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: rif-prd
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

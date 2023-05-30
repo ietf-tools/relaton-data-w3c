@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Calreq-gap
 title:
 - content: Arabic and Persian Gap Analysis
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-alreq-gap-20211125
-    docid:
-    - id: W3C DNOTE-alreq-gap-20211125
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-alreq-gap-20211125
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-alreq-gap-20200616
     docid:
     - id: W3C WD-alreq-gap-20200616
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-alreq-gap-20200616
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-alreq-gap-20211125
+    docid:
+    - id: W3C DNOTE-alreq-gap-20211125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-alreq-gap-20211125
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: alreq-gap
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

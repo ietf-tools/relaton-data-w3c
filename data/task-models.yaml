@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctask-models
 title:
 - content: MBUI - Task Models
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-task-models-20131107
-    docid:
-    - id: W3C WD-task-models-20131107
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-task-models-20131107
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-task-models-20120802
     docid:
     - id: W3C WD-task-models-20120802
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-task-models-20120802
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-task-models-20131107
+    docid:
+    - id: W3C WD-task-models-20131107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-task-models-20131107
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: task-models
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

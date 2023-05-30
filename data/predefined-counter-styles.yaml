@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpredefined-counter-styles
 title:
 - content: Ready-made Counter Styles
@@ -39,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-predefined-counter-styles-20130725
+    docid:
+    - id: W3C WD-predefined-counter-styles-20130725
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-predefined-counter-styles-20130725
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-predefined-counter-styles-20160622
     docid:
     - id: W3C WD-predefined-counter-styles-20160622
@@ -46,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-predefined-counter-styles-20160622
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-predefined-counter-styles-20150203
-    docid:
-    - id: W3C WD-predefined-counter-styles-20150203
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-predefined-counter-styles-20150203
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -69,13 +70,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-predefined-counter-styles-20130725
+    id: W3CWD-predefined-counter-styles-20150203
     docid:
-    - id: W3C WD-predefined-counter-styles-20130725
+    - id: W3C WD-predefined-counter-styles-20150203
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-predefined-counter-styles-20130725
+      content: W3C WD-predefined-counter-styles-20150203
       format: text/plain
 series:
 - title:
@@ -83,3 +84,5 @@ series:
     format: text/plain
   number: predefined-counter-styles
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmediacapture-depth
 title:
 - content: Media Capture Depth Stream Extensions
@@ -49,16 +50,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediacapture-depth-20151208
-    docid:
-    - id: W3C WD-mediacapture-depth-20151208
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediacapture-depth-20151208
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mediacapture-depth-20141007
     docid:
     - id: W3C WD-mediacapture-depth-20141007
@@ -67,9 +58,21 @@ relation:
     formattedref:
       content: W3C WD-mediacapture-depth-20141007
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediacapture-depth-20151208
+    docid:
+    - id: W3C WD-mediacapture-depth-20151208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediacapture-depth-20151208
+      format: text/plain
 series:
 - title:
     content: W3C technicalReport
     format: text/plain
   number: mediacapture-depth
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

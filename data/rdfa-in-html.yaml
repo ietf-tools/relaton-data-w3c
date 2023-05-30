@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdfa-in-html
 title:
 - content: HTML+RDFa 1.1
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdfa-in-html-20110525
-    docid:
-    - id: W3C WD-rdfa-in-html-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdfa-in-html-20110525
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdfa-in-html-20101019
     docid:
     - id: W3C WD-rdfa-in-html-20101019
@@ -60,9 +51,21 @@ relation:
     formattedref:
       content: W3C WD-rdfa-in-html-20091015
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdfa-in-html-20110525
+    docid:
+    - id: W3C WD-rdfa-in-html-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-in-html-20110525
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: rdfa-in-html
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-testcases-20021112
 title:
 - content: RDF Test Cases
@@ -47,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g595920
+    id: W3C_-g49734740
     docid:
-    - id: W3C _:g595920
+    - id: W3C _:g49734740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595920
+      content: W3C _:g49734740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595940
+    id: W3C_-g49734760
     docid:
-    - id: W3C _:g595940
+    - id: W3C _:g49734760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595940
+      content: W3C _:g49734760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595960
+    id: W3C_-g49734780
     docid:
-    - id: W3C _:g595960
+    - id: W3C _:g49734780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595960
+      content: W3C _:g49734780
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g596000
+    id: W3C_-g49734800
     docid:
-    - id: W3C _:g596000
+    - id: W3C _:g49734800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g596000
+      content: W3C _:g49734800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g596020
+    id: W3C_-g49734820
     docid:
-    - id: W3C _:g596020
+    - id: W3C _:g49734820
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g596020
+      content: W3C _:g49734820
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g596060
+    id: W3C_-g49734860
     docid:
-    - id: W3C _:g596060
+    - id: W3C _:g49734860
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g596060
+      content: W3C _:g49734860
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g596100
+    id: W3C_-g49734900
     docid:
-    - id: W3C _:g596100
+    - id: W3C _:g49734900
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g596100
+      content: W3C _:g49734900
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: WD-rdf-testcases-20021112
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

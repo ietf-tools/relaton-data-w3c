@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap12-os-ucr
 title:
 - content: SOAP Optimized Serialization Use Cases and Requirements
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: soap12-os-ucr
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

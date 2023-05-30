@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cselectors-4
 title:
 - content: Selectors Level 4
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-selectors-4-20220507
-    docid:
-    - id: W3C WD-selectors-4-20220507
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selectors-4-20220507
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-selectors-4-20181121
     docid:
     - id: W3C WD-selectors-4-20181121
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-selectors-4-20181121
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selectors-4-20220507
+    docid:
+    - id: W3C WD-selectors-4-20220507
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selectors-4-20220507
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: selectors-4
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

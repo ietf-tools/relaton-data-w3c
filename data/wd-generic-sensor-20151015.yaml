@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-generic-sensor-20151015
 title:
 - content: Generic Sensor API
@@ -54,3 +55,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

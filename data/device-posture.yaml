@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdevice-posture
 title:
 - content: Device Posture API
@@ -22,6 +23,16 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CWD-device-posture-20230404
+    docid:
+    - id: W3C WD-device-posture-20230404
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-device-posture-20230404
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-device-posture-20211104
     docid:
     - id: W3C WD-device-posture-20211104
@@ -36,3 +47,5 @@ series:
     format: text/plain
   number: device-posture
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

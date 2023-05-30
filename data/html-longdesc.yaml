@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Chtml-longdesc
 title:
 - content: HTML5 Image Description Extension (longdesc)
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-html-longdesc-20141204
-    docid:
-    - id: W3C PR-html-longdesc-20141204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-html-longdesc-20141204
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-longdesc-20130716
     docid:
     - id: W3C WD-html-longdesc-20130716
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-html-longdesc-20130716
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-html-longdesc-20141204
+    docid:
+    - id: W3C PR-html-longdesc-20141204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-html-longdesc-20141204
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: html-longdesc
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

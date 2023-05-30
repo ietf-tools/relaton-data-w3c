@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCR-css3-values-20130730
 title:
 - content: CSS Values and Units Module Level 3
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/CR-css3-values-20130730/
   type: src
-- content: http://dev.w3.org/csswg/css3-values/
-  type: current
 type: standard
 docid:
 - id: W3C CR-css3-values-20130730
@@ -75,3 +74,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

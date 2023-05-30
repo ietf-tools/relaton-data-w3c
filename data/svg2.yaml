@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CSVG2
 title:
 - content: Scalable Vector Graphics (SVG) 2
@@ -32,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-SVG2-20120828
+    docid:
+    - id: W3C WD-SVG2-20120828
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVG2-20120828
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-SVG2-20160915
     docid:
     - id: W3C CR-SVG2-20160915
@@ -39,26 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-SVG2-20160915
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-SVG2-20150915
-    docid:
-    - id: W3C WD-SVG2-20150915
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-SVG2-20150915
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-SVG2-20140211
-    docid:
-    - id: W3C WD-SVG2-20140211
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-SVG2-20140211
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -72,13 +63,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-SVG2-20120828
+    id: W3CWD-SVG2-20140211
     docid:
-    - id: W3C WD-SVG2-20120828
+    - id: W3C WD-SVG2-20140211
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-SVG2-20120828
+      content: W3C WD-SVG2-20140211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-SVG2-20150915
+    docid:
+    - id: W3C WD-SVG2-20150915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVG2-20150915
       format: text/plain
 series:
 - title:
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: SVG2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

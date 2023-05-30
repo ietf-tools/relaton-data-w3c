@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CXHTMLplusMathMLplusSVG
 title:
 - content: An XHTML + MathML + SVG Profile
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: XHTMLplusMathMLplusSVG
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

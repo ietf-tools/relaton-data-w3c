@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCSS21
 title:
 - content: Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification
@@ -32,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-CSS2-20090423
+    id: W3CWD-CSS21-20050613
     docid:
-    - id: W3C CR-CSS2-20090423
+    - id: W3C WD-CSS21-20050613
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-CSS2-20090423
+      content: W3C WD-CSS21-20050613
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-CSS21-20020802
+    docid:
+    - id: W3C WD-CSS21-20020802
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSS21-20020802
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-CSS21-20061106
     docid:
     - id: W3C WD-CSS21-20061106
@@ -62,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CSS21-20050613
+    id: W3CCR-CSS2-20090423
     docid:
-    - id: W3C WD-CSS21-20050613
+    - id: W3C CR-CSS2-20090423
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSS21-20050613
+      content: W3C CR-CSS2-20090423
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,19 +101,11 @@ relation:
     formattedref:
       content: W3C WD-CSS21-20030915
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-CSS21-20020802
-    docid:
-    - id: W3C WD-CSS21-20020802
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSS21-20020802
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: CSS21
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

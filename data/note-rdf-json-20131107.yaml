@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-rdf-json-20131107
 title:
 - content: RDF 1.1 JSON Alternate Serialization (RDF/JSON)
@@ -59,3 +60,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: RDF Working Group
+ext:
+  schema-version: v1.0.0

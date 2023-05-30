@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.1
+id: W3Cepub-aria-authoring-11
+title:
+- content: EPUB Type to ARIA Role Authoring Guide 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/epub-aria-authoring-11/
+  type: src
+type: standard
+docid:
+- id: W3C epub-aria-authoring-11
+  type: W3C
+  primary: true
+docnumber: epub-aria-authoring-11
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-epub-aria-authoring-11-20230314
+    docid:
+    - id: W3C NOTE-epub-aria-authoring-11-20230314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-epub-aria-authoring-11-20230314
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: epub-aria-authoring-11
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

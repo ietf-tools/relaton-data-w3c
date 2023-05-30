@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cedit-context
 title:
 - content: EditContext API
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: edit-context
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

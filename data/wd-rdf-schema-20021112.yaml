@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-schema-20021112
 title:
 - content: 'RDF Vocabulary Description Language 1.0: RDF Schema'
@@ -47,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g595340
+    id: W3C_-g49734200
     docid:
-    - id: W3C _:g595340
+    - id: W3C _:g49734200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595340
+      content: W3C _:g49734200
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595360
+    id: W3C_-g49734220
     docid:
-    - id: W3C _:g595360
+    - id: W3C _:g49734220
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595360
+      content: W3C _:g49734220
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595380
+    id: W3C_-g49734240
     docid:
-    - id: W3C _:g595380
+    - id: W3C _:g49734240
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595380
+      content: W3C _:g49734240
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595420
+    id: W3C_-g49734260
     docid:
-    - id: W3C _:g595420
+    - id: W3C _:g49734260
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595420
+      content: W3C _:g49734260
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595440
+    id: W3C_-g49734280
     docid:
-    - id: W3C _:g595440
+    - id: W3C _:g49734280
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595440
+      content: W3C _:g49734280
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595480
+    id: W3C_-g49734320
     docid:
-    - id: W3C _:g595480
+    - id: W3C _:g49734320
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595480
+      content: W3C _:g49734320
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595520
+    id: W3C_-g49734360
     docid:
-    - id: W3C _:g595520
+    - id: W3C _:g49734360
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595520
+      content: W3C _:g49734360
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: WD-rdf-schema-20021112
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

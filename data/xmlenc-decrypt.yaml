@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmlenc-decrypt
 title:
 - content: Decryption Transform for XML Signature
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: xmlenc-decrypt
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

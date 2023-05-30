@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-ccxml-20021011
 title:
 - content: 'Voice Browser Call Control: CCXML Version 1.0'
@@ -37,53 +38,53 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g586260
+    id: W3C_-g49726100
     docid:
-    - id: W3C _:g586260
+    - id: W3C _:g49726100
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g586260
+      content: W3C _:g49726100
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g586280
+    id: W3C_-g49726120
     docid:
-    - id: W3C _:g586280
+    - id: W3C _:g49726120
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g586280
+      content: W3C _:g49726120
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g586300
+    id: W3C_-g49726140
     docid:
-    - id: W3C _:g586300
+    - id: W3C _:g49726140
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g586300
+      content: W3C _:g49726140
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g586340
+    id: W3C_-g49726160
     docid:
-    - id: W3C _:g586340
+    - id: W3C _:g49726160
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g586340
+      content: W3C _:g49726160
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g586380
+    id: W3C_-g49726200
     docid:
-    - id: W3C _:g586380
+    - id: W3C _:g49726200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g586380
+      content: W3C _:g49726200
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -101,3 +102,5 @@ series:
     format: text/plain
   number: WD-ccxml-20021011
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

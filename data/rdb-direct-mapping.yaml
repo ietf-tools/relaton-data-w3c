@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Crdb-direct-mapping
 title:
 - content: A Direct Mapping of Relational Data to RDF
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdb-direct-mapping-20110920
-    docid:
-    - id: W3C WD-rdb-direct-mapping-20110920
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdb-direct-mapping-20110920
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdb-direct-mapping-20101118
     docid:
     - id: W3C WD-rdb-direct-mapping-20101118
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-rdb-direct-mapping-20101118
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdb-direct-mapping-20110920
+    docid:
+    - id: W3C WD-rdb-direct-mapping-20110920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdb-direct-mapping-20110920
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: rdb-direct-mapping
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

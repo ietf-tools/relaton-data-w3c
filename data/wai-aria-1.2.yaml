@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwai-aria-1.2
 title:
 - content: Accessible Rich Internet Applications (WAI-ARIA) 1.2
@@ -18,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: proposedRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-wai-aria-1.2-20211208
+    id: W3CPR-wai-aria-1.2-20230328
     docid:
-    - id: W3C CRD-wai-aria-1.2-20211208
+    - id: W3C PR-wai-aria-1.2-20230328
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-wai-aria-1.2-20211208
+      content: W3C PR-wai-aria-1.2-20230328
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,9 +51,21 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-1.2-20181218
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-wai-aria-1.2-20211208
+    docid:
+    - id: W3C CRD-wai-aria-1.2-20211208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-wai-aria-1.2-20211208
+      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C PR
     format: text/plain
   number: wai-aria-1.2
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

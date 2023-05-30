@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxforms11
 title:
 - content: XForms 1.1
@@ -32,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xforms11-20041115
+    docid:
+    - id: W3C WD-xforms11-20041115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xforms11-20041115
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-xforms11-20071129
     docid:
     - id: W3C CR-xforms11-20071129
@@ -50,19 +61,11 @@ relation:
     formattedref:
       content: W3C WD-xforms11-20061103
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xforms11-20041115
-    docid:
-    - id: W3C WD-xforms11-20041115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xforms11-20041115
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xforms11
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

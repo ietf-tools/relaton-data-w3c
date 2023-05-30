@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-webmidi-20131126
 title:
 - content: Web MIDI API
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-webmidi-20131126/
   type: src
-- content: http://webaudio.github.io/web-audio-api/
-  type: current
 type: standard
 docid:
 - id: W3C WD-webmidi-20131126
@@ -65,3 +64,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Audio Working Group
+ext:
+  schema-version: v1.0.0

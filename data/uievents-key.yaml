@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cuievents-key
 title:
 - content: UI Events KeyboardEvent key Values
@@ -21,6 +22,16 @@ docstatus:
     value: candidateRecommendation
 relation:
 - type: instance
+  bibitem:
+    id: W3CCR-uievents-key-20230530
+    docid:
+    - id: W3C CR-uievents-key-20230530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-uievents-key-20230530
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CCR-uievents-key-20170601
     docid:
@@ -56,3 +67,5 @@ series:
     format: text/plain
   number: uievents-key
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

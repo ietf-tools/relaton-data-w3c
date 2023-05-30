@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cime-api
 title:
 - content: Input Method Editor API
@@ -29,13 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ime-api-20151215
+    id: W3CWD-ime-api-20120524
     docid:
-    - id: W3C WD-ime-api-20151215
+    - id: W3C WD-ime-api-20120524
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ime-api-20151215
+      content: W3C WD-ime-api-20120524
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -49,13 +50,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ime-api-20120524
+    id: W3CWD-ime-api-20151215
     docid:
-    - id: W3C WD-ime-api-20120524
+    - id: W3C WD-ime-api-20151215
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ime-api-20120524
+      content: W3C WD-ime-api-20151215
       format: text/plain
 series:
 - title:
@@ -63,3 +64,5 @@ series:
     format: text/plain
   number: ime-api
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

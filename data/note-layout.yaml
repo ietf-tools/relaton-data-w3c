@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-layout
 title:
 - content: Frame-based layout via Style Sheets
@@ -57,3 +58,5 @@ series:
     format: text/plain
   number: NOTE-layout
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

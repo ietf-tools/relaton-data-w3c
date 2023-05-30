@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxinclude
 title:
 - content: XML Inclusions (XInclude) Version 1.0 (Second Edition)
@@ -42,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-xinclude-20020917
+    docid:
+    - id: W3C CR-xinclude-20020917
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xinclude-20020917
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPR-xinclude-20040930
     docid:
     - id: W3C PR-xinclude-20040930
@@ -60,19 +71,11 @@ relation:
     formattedref:
       content: W3C WD-xinclude-20031110
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-xinclude-20020917
-    docid:
-    - id: W3C CR-xinclude-20020917
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xinclude-20020917
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xinclude
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

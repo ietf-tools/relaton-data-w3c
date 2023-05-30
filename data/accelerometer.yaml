@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Caccelerometer
 title:
 - content: Accelerometer
@@ -22,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-accelerometer-20221018
+    id: W3CCRD-accelerometer-20230130
     docid:
-    - id: W3C CRD-accelerometer-20221018
+    - id: W3C CRD-accelerometer-20230130
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-accelerometer-20221018
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-accelerometer-20211208
-    docid:
-    - id: W3C CRD-accelerometer-20211208
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-accelerometer-20211208
+      content: W3C CRD-accelerometer-20230130
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-accelerometer-20171018
+    docid:
+    - id: W3C WD-accelerometer-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-accelerometer-20171018
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-accelerometer-20180320
     docid:
     - id: W3C CR-accelerometer-20180320
@@ -62,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-accelerometer-20171018
+    id: W3CCRD-accelerometer-20211208
     docid:
-    - id: W3C WD-accelerometer-20171018
+    - id: W3C CRD-accelerometer-20211208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-accelerometer-20171018
+      content: W3C CRD-accelerometer-20211208
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: accelerometer
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cworkers
 title:
 - content: Web Workers
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-workers-20150924
-    docid:
-    - id: W3C WD-workers-20150924
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-workers-20150924
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-workers-20120501
     docid:
     - id: W3C CR-workers-20120501
@@ -46,16 +37,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-workers-20120501
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-workers-20110901
-    docid:
-    - id: W3C WD-workers-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-workers-20110901
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -69,6 +50,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-workers-20150924
+    docid:
+    - id: W3C WD-workers-20150924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-workers-20150924
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-workers-20091029
     docid:
     - id: W3C WD-workers-20091029
@@ -77,9 +68,21 @@ relation:
     formattedref:
       content: W3C WD-workers-20091029
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-workers-20110901
+    docid:
+    - id: W3C WD-workers-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-workers-20110901
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: workers
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

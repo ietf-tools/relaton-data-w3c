@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwsdl20-primer
 title:
 - content: 'Web Services Description Language (WSDL) Version 2.0 Part 0: Primer'
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-wsdl20-primer-20060327
-    docid:
-    - id: W3C CR-wsdl20-primer-20060327
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-wsdl20-primer-20060327
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wsdl20-primer-20050803
     docid:
     - id: W3C WD-wsdl20-primer-20050803
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-wsdl20-primer-20050803
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-wsdl20-primer-20060327
+    docid:
+    - id: W3C CR-wsdl20-primer-20060327
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wsdl20-primer-20060327
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: wsdl20-primer
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

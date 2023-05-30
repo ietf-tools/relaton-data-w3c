@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cupgrade-insecure-requests
 title:
 - content: Upgrade Insecure Requests
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: upgrade-insecure-requests
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

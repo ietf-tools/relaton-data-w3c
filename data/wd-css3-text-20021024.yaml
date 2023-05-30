@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-css3-text-20021024
 title:
 - content: 'CSS3 module: text'
@@ -37,83 +38,83 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g588400
+    id: W3C_-g49727740
     docid:
-    - id: W3C _:g588400
+    - id: W3C _:g49727740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588400
+      content: W3C _:g49727740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588420
+    id: W3C_-g49727760
     docid:
-    - id: W3C _:g588420
+    - id: W3C _:g49727760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588420
+      content: W3C _:g49727760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588440
+    id: W3C_-g49727780
     docid:
-    - id: W3C _:g588440
+    - id: W3C _:g49727780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588440
+      content: W3C _:g49727780
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588480
+    id: W3C_-g49727800
     docid:
-    - id: W3C _:g588480
+    - id: W3C _:g49727800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588480
+      content: W3C _:g49727800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588500
+    id: W3C_-g49727820
     docid:
-    - id: W3C _:g588500
+    - id: W3C _:g49727820
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588500
+      content: W3C _:g49727820
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588520
+    id: W3C_-g49727840
     docid:
-    - id: W3C _:g588520
+    - id: W3C _:g49727840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588520
+      content: W3C _:g49727840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588560
+    id: W3C_-g49727880
     docid:
-    - id: W3C _:g588560
+    - id: W3C _:g49727880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588560
+      content: W3C _:g49727880
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g588600
+    id: W3C_-g49727920
     docid:
-    - id: W3C _:g588600
+    - id: W3C _:g49727920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g588600
+      content: W3C _:g49727920
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: WD-css3-text-20021024
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cclreq-gap
 title:
 - content: Chinese Layout Gap Analysis
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-clreq-gap-20211119
-    docid:
-    - id: W3C WD-clreq-gap-20211119
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-clreq-gap-20211119
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-clreq-gap-20200616
     docid:
     - id: W3C WD-clreq-gap-20200616
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-clreq-gap-20200616
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clreq-gap-20211119
+    docid:
+    - id: W3C WD-clreq-gap-20211119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clreq-gap-20211119
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: clreq-gap
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

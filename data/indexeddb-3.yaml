@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CIndexedDB-3
 title:
 - content: Indexed Database API 3.0
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-IndexedDB-3-20220915
+    id: W3CWD-IndexedDB-3-20230413
     docid:
-    - id: W3C WD-IndexedDB-3-20220915
+    - id: W3C WD-IndexedDB-3-20230413
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20220915
+      content: W3C WD-IndexedDB-3-20230413
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: IndexedDB-3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

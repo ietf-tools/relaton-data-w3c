@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.1
+id: W3CWD-wot-profile-20230118
+title:
+- content: Web of Things (WoT) Profile
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-wot-profile-20230118/
+  type: src
+- content: https://w3c.github.io/wot-profile/
+  type: current
+type: standard
+docid:
+- id: W3C WD-wot-profile-20230118
+  type: W3C
+  primary: true
+docnumber: WD-wot-profile-20230118
+date:
+- type: published
+  value: '2023-01-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ben Francis
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Lagally
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael McCool
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Ryuichi Matsukura
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Sebastian Käbisch
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tomoaki Mizushima
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-01-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wot-profile-20201124
+    docid:
+    - id: W3C WD-wot-profile-20201124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-profile-20201124
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wot-profile-20230118
+doctype: technicalReport
+editorialgroup:
+- name: Web of Things Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctracking-dnt
 title:
 - content: Tracking Preference Expression (DNT)
@@ -29,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-tracking-dnt-20121002
+    docid:
+    - id: W3C WD-tracking-dnt-20121002
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-dnt-20121002
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-tracking-dnt-20171019
     docid:
     - id: W3C CR-tracking-dnt-20171019
@@ -36,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-tracking-dnt-20171019
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-tracking-dnt-20130912
+    docid:
+    - id: W3C WD-tracking-dnt-20130912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-dnt-20130912
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -59,26 +80,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-tracking-dnt-20130912
-    docid:
-    - id: W3C WD-tracking-dnt-20130912
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-tracking-dnt-20130912
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-tracking-dnt-20121002
-    docid:
-    - id: W3C WD-tracking-dnt-20121002
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-tracking-dnt-20121002
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-tracking-dnt-20111114
     docid:
     - id: W3C WD-tracking-dnt-20111114
@@ -93,3 +94,5 @@ series:
     format: text/plain
   number: tracking-dnt
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

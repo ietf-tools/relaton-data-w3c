@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cfile-system-api
 title:
 - content: 'File API: Directories and System'
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-file-system-api-20110419
-    docid:
-    - id: W3C WD-file-system-api-20110419
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-file-system-api-20110419
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-file-system-api-20101026
     docid:
     - id: W3C WD-file-system-api-20101026
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-file-system-api-20101026
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-system-api-20110419
+    docid:
+    - id: W3C WD-file-system-api-20110419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-system-api-20110419
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: file-system-api
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

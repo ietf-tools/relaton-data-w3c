@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-telephony-20130620
 title:
 - content: Web Telephony API
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-telephony-20130620/
   type: src
-- content: http://www.w3.org/2012/sysapps/telephony/
-  type: current
 type: standard
 docid:
 - id: W3C WD-telephony-20130620
@@ -74,3 +73,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: System Applications Working Group
+ext:
+  schema-version: v1.0.0

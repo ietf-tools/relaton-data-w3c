@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxbl
 title:
 - content: XBL 2.0
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xbl-20060907
-    docid:
-    - id: W3C WD-xbl-20060907
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xbl-20060907
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-xbl-20010223
     docid:
     - id: W3C NOTE-xbl-20010223
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C NOTE-xbl-20010223
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xbl-20060907
+    docid:
+    - id: W3C WD-xbl-20060907
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xbl-20060907
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: xbl
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

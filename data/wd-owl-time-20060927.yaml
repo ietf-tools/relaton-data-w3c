@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-owl-time-20060927
 title:
 - content: Time Ontology in OWL
@@ -29,7 +30,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jerry Hobbs
+        content: Jerry R. Hobbs
         language:
         - en
         script:
@@ -52,3 +53,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Semantic Web Best Practices and Deployment Working Group
+ext:
+  schema-version: v1.0.0

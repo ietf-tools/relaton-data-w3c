@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-wordnet-rdf-20060619
 title:
 - content: RDF/OWL Representation of WordNet
@@ -62,3 +63,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Semantic Web Best Practices and Deployment Working Group
+ext:
+  schema-version: v1.0.0

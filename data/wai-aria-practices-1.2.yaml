@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwai-aria-practices-1.2
 title:
 - content: WAI-ARIA Authoring Practices 1.2
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-wai-aria-practices-1.2-20211129
-    docid:
-    - id: W3C NOTE-wai-aria-practices-1.2-20211129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-wai-aria-practices-1.2-20211129
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wai-aria-practices-1.2-20191218
     docid:
     - id: W3C WD-wai-aria-practices-1.2-20191218
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-practices-1.2-20181218
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-wai-aria-practices-1.2-20211129
+    docid:
+    - id: W3C NOTE-wai-aria-practices-1.2-20211129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-wai-aria-practices-1.2-20211129
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: wai-aria-practices-1.2
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

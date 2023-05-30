@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccors
 title:
 - content: Cross-Origin Resource Sharing
@@ -42,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-cors-20131205
-    docid:
-    - id: W3C PR-cors-20131205
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-cors-20131205
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-cors-20120403
     docid:
     - id: W3C WD-cors-20120403
@@ -72,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CPR-cors-20131205
+    docid:
+    - id: W3C PR-cors-20131205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-cors-20131205
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-cors-20090317
     docid:
     - id: W3C WD-cors-20090317
@@ -86,3 +87,5 @@ series:
     format: text/plain
   number: cors
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

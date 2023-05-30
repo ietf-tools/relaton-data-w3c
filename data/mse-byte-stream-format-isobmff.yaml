@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmse-byte-stream-format-isobmff
 title:
 - content: ISO BMFF Byte Stream Format
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: mse-byte-stream-format-isobmff
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

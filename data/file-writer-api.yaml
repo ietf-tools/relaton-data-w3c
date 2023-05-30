@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cfile-writer-api
 title:
 - content: 'File API: Writer'
@@ -39,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-file-writer-api-20110419
-    docid:
-    - id: W3C WD-file-writer-api-20110419
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-file-writer-api-20110419
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-file-writer-api-20101026
     docid:
     - id: W3C WD-file-writer-api-20101026
@@ -57,9 +48,21 @@ relation:
     formattedref:
       content: W3C WD-file-writer-api-20101026
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-writer-api-20110419
+    docid:
+    - id: W3C WD-file-writer-api-20110419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-writer-api-20110419
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: file-writer-api
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

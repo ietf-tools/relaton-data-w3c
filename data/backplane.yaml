@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cbackplane
 title:
 - content: Rich Web Application Backplane
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: backplane
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

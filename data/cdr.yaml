@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CCDR
 title:
 - content: Compound Document by Reference Framework 1.0
@@ -53,3 +54,5 @@ series:
     format: text/plain
   number: CDR
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

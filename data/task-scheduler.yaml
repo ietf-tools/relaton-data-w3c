@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctask-scheduler
 title:
 - content: Task Scheduler API Specification
@@ -43,3 +44,5 @@ series:
     format: text/plain
   number: task-scheduler
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

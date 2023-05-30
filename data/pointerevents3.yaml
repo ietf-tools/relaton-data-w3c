@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cpointerevents3
 title:
 - content: Pointer Events
@@ -22,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-pointerevents3-20221027
+    id: W3CWD-pointerevents3-20230302
     docid:
-    - id: W3C WD-pointerevents3-20221027
+    - id: W3C WD-pointerevents3-20230302
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20221027
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-pointerevents3-20220525
-    docid:
-    - id: W3C WD-pointerevents3-20220525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-pointerevents3-20220525
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-pointerevents3-20211222
-    docid:
-    - id: W3C WD-pointerevents3-20211222
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-pointerevents3-20211222
+      content: W3C WD-pointerevents3-20230302
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,9 +51,31 @@ relation:
     formattedref:
       content: W3C WD-pointerevents3-20191212
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pointerevents3-20220525
+    docid:
+    - id: W3C WD-pointerevents3-20220525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pointerevents3-20220525
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pointerevents3-20211222
+    docid:
+    - id: W3C WD-pointerevents3-20211222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pointerevents3-20211222
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: pointerevents3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

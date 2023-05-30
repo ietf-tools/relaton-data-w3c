@@ -1,7 +1,8 @@
 ---
+schema-version: v1.2.1
 id: W3Cscroll-animations-1
 title:
-- content: Scroll-linked Animations
+- content: Scroll-driven Animations
   format: text/plain
 link:
 - content: https://www.w3.org/TR/scroll-animations-1/
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-scroll-animations-1-20221025
+    id: W3CWD-scroll-animations-1-20230428
     docid:
-    - id: W3C WD-scroll-animations-1-20221025
+    - id: W3C WD-scroll-animations-1-20230428
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-scroll-animations-1-20221025
+      content: W3C WD-scroll-animations-1-20230428
       format: text/plain
 series:
 - title:
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: scroll-animations-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

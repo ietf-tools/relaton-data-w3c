@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwai-aria-primer
 title:
 - content: WAI-ARIA 1.0 Primer
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wai-aria-primer-20100916
-    docid:
-    - id: W3C WD-wai-aria-primer-20100916
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wai-aria-primer-20100916
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wai-aria-primer-20080204
     docid:
     - id: W3C WD-wai-aria-primer-20080204
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-wai-aria-primer-20080204
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-primer-20100916
+    docid:
+    - id: W3C WD-wai-aria-primer-20100916
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-primer-20100916
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: wai-aria-primer
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

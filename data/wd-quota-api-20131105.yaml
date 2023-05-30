@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-quota-api-20131105
 title:
 - content: Quota Management API
@@ -6,8 +7,6 @@ title:
 link:
 - content: http://www.w3.org/TR/2013/WD-quota-api-20131105/
   type: src
-- content: http://dvcs.w3.org/hg/quota/raw-file/tip/Overview.html
-  type: current
 type: standard
 docid:
 - id: W3C WD-quota-api-20131105
@@ -55,3 +54,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

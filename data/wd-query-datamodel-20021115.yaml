@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-query-datamodel-20021115
 title:
 - content: XQuery 1.0 and XPath 2.0 Data Model
@@ -77,83 +78,83 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g593020
+    id: W3C_-g49731980
     docid:
-    - id: W3C _:g593020
+    - id: W3C _:g49731980
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593020
+      content: W3C _:g49731980
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593040
+    id: W3C_-g49732000
     docid:
-    - id: W3C _:g593040
+    - id: W3C _:g49732000
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593040
+      content: W3C _:g49732000
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593060
+    id: W3C_-g49732020
     docid:
-    - id: W3C _:g593060
+    - id: W3C _:g49732020
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593060
+      content: W3C _:g49732020
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593100
+    id: W3C_-g49732040
     docid:
-    - id: W3C _:g593100
+    - id: W3C _:g49732040
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593100
+      content: W3C _:g49732040
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593140
+    id: W3C_-g49732080
     docid:
-    - id: W3C _:g593140
+    - id: W3C _:g49732080
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593140
+      content: W3C _:g49732080
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593180
+    id: W3C_-g49732120
     docid:
-    - id: W3C _:g593180
+    - id: W3C _:g49732120
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593180
+      content: W3C _:g49732120
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593220
+    id: W3C_-g49732160
     docid:
-    - id: W3C _:g593220
+    - id: W3C _:g49732160
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593220
+      content: W3C _:g49732160
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g593260
+    id: W3C_-g49732200
     docid:
-    - id: W3C _:g593260
+    - id: W3C _:g49732200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g593260
+      content: W3C _:g49732200
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -171,3 +172,5 @@ series:
     format: text/plain
   number: WD-query-datamodel-20021115
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

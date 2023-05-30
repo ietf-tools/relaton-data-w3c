@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ccss-box-3
 title:
 - content: CSS Box Model Module Level 3
@@ -18,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-css-box-3-20221103
+    id: W3CREC-css-box-3-20230406
     docid:
-    - id: W3C CRD-css-box-3-20221103
+    - id: W3C REC-css-box-3-20230406
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-css-box-3-20221103
+      content: W3C REC-css-box-3-20230406
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,7 +53,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C REC
     format: text/plain
   number: css-box-3
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

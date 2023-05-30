@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-trace-context-20181122
 title:
 - content: Trace Context
@@ -75,3 +76,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CXMLHttpRequest2
 title:
 - content: XMLHttpRequest Level 2
@@ -26,6 +27,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-XMLHttpRequest2-20141118
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-XMLHttpRequest2-20080930
+    docid:
+    - id: W3C WD-XMLHttpRequest2-20080930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-XMLHttpRequest2-20080930
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -57,19 +68,11 @@ relation:
     formattedref:
       content: W3C WD-XMLHttpRequest2-20090820
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-XMLHttpRequest2-20080930
-    docid:
-    - id: W3C WD-XMLHttpRequest2-20080930
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-XMLHttpRequest2-20080930
-      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: XMLHttpRequest2
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

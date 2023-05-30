@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-owl-semantics-20021108
 title:
 - content: |-
@@ -69,83 +70,83 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g590660
+    id: W3C_-g49729720
     docid:
-    - id: W3C _:g590660
+    - id: W3C _:g49729720
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590660
+      content: W3C _:g49729720
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590680
+    id: W3C_-g49729740
     docid:
-    - id: W3C _:g590680
+    - id: W3C _:g49729740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590680
+      content: W3C _:g49729740
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590700
+    id: W3C_-g49729760
     docid:
-    - id: W3C _:g590700
+    - id: W3C _:g49729760
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590700
+      content: W3C _:g49729760
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590720
+    id: W3C_-g49729780
     docid:
-    - id: W3C _:g590720
+    - id: W3C _:g49729780
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590720
+      content: W3C _:g49729780
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590740
+    id: W3C_-g49729800
     docid:
-    - id: W3C _:g590740
+    - id: W3C _:g49729800
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590740
+      content: W3C _:g49729800
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590760
+    id: W3C_-g49729820
     docid:
-    - id: W3C _:g590760
+    - id: W3C _:g49729820
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590760
+      content: W3C _:g49729820
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590780
+    id: W3C_-g49729840
     docid:
-    - id: W3C _:g590780
+    - id: W3C _:g49729840
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590780
+      content: W3C _:g49729840
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g590800
+    id: W3C_-g49729860
     docid:
-    - id: W3C _:g590800
+    - id: W3C _:g49729860
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g590800
+      content: W3C _:g49729860
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -163,3 +164,5 @@ series:
     format: text/plain
   number: WD-owl-semantics-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

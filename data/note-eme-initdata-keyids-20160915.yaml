@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-eme-initdata-keyids-20160915
 title:
 - content: '"keyids" Initialization Data Format'
@@ -41,3 +42,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: HTML Working Group
+ext:
+  schema-version: v1.0.0

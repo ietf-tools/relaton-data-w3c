@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: W3CCRD-webrtc-stats-20230511
+title:
+- content: Identifiers for WebRTC's Statistics API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230511/
+  type: src
+- content: https://w3c.github.io/webrtc-stats/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-webrtc-stats-20230511
+  type: W3C
+  primary: true
+docnumber: CRD-webrtc-stats-20230511
+date:
+- type: published
+  value: '2023-05-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Harald Alvestrand
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Henrik Boström
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Varun Singh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-webrtc-stats-20230427
+    docid:
+    - id: W3C CRD-webrtc-stats-20230427
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webrtc-stats-20230427
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-webrtc-stats-20230511
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

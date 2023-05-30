@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.1
+id: W3Cweb-locks
+title:
+- content: Web Locks API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/web-locks/
+  type: src
+type: standard
+docid:
+- id: W3C web-locks
+  type: W3C
+  primary: true
+docnumber: web-locks
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-web-locks-20230105
+    docid:
+    - id: W3C WD-web-locks-20230105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-locks-20230105
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: web-locks
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

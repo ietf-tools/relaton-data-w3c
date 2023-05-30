@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwot-security
 title:
 - content: Web of Things (WoT) Security and Privacy Guidelines
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-wot-security-20181203
-    docid:
-    - id: W3C NOTE-wot-security-20181203
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-wot-security-20181203
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-wot-security-20171214
     docid:
     - id: W3C NOTE-wot-security-20171214
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C NOTE-wot-security-20171214
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-wot-security-20181203
+    docid:
+    - id: W3C NOTE-wot-security-20181203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-wot-security-20181203
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: wot-security
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

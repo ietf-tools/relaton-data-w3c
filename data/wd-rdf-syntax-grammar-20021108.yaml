@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-syntax-grammar-20021108
 title:
 - content: RDF/XML Syntax Specification (Revised)
@@ -37,53 +38,53 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g595680
+    id: W3C_-g49734520
     docid:
-    - id: W3C _:g595680
+    - id: W3C _:g49734520
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595680
+      content: W3C _:g49734520
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595700
+    id: W3C_-g49734540
     docid:
-    - id: W3C _:g595700
+    - id: W3C _:g49734540
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595700
+      content: W3C _:g49734540
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595720
+    id: W3C_-g49734560
     docid:
-    - id: W3C _:g595720
+    - id: W3C _:g49734560
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595720
+      content: W3C _:g49734560
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595760
+    id: W3C_-g49734580
     docid:
-    - id: W3C _:g595760
+    - id: W3C _:g49734580
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595760
+      content: W3C _:g49734580
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595800
+    id: W3C_-g49734620
     docid:
-    - id: W3C _:g595800
+    - id: W3C _:g49734620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595800
+      content: W3C _:g49734620
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -101,3 +102,5 @@ series:
     format: text/plain
   number: WD-rdf-syntax-grammar-20021108
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

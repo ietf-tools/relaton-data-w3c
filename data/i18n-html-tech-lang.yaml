@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ci18n-html-tech-lang
 title:
 - content: 'Authoring HTML: Language declarations'
@@ -29,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-i18n-html-tech-lang-20050224
+    docid:
+    - id: W3C WD-i18n-html-tech-lang-20050224
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-i18n-html-tech-lang-20050224
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-i18n-html-tech-lang-20070412
     docid:
     - id: W3C NOTE-i18n-html-tech-lang-20070412
@@ -49,16 +60,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-i18n-html-tech-lang-20050224
-    docid:
-    - id: W3C WD-i18n-html-tech-lang-20050224
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-i18n-html-tech-lang-20050224
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-i18n-html-tech-lang-20041015
     docid:
     - id: W3C WD-i18n-html-tech-lang-20041015
@@ -73,3 +74,5 @@ series:
     format: text/plain
   number: i18n-html-tech-lang
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

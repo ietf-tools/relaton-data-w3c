@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-task-scheduler-20150723
 title:
 - content: Task Scheduler API Specification
@@ -52,3 +53,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: System Applications Working Group
+ext:
+  schema-version: v1.0.0

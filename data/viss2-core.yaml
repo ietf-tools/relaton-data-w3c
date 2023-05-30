@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cviss2-core
 title:
 - content: VISS version 2 - Core
@@ -22,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-viss2-core-20220928
+    id: W3CWD-viss2-core-20230418
     docid:
-    - id: W3C WD-viss2-core-20220928
+    - id: W3C WD-viss2-core-20230418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20220928
+      content: W3C WD-viss2-core-20230418
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -56,3 +57,5 @@ series:
     format: text/plain
   number: viss2-core
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

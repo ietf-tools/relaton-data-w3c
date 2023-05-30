@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-trace-context-1-20211123
 title:
 - content: Trace Context
@@ -99,7 +100,7 @@ relation:
       format: text/plain
 - type: updatedBy
   bibitem:
-    id: W3Ctrace-context/errata
+    id: W3Ctrace-context-errata
     docid:
     - id: W3C trace-context/errata
       type: W3C
@@ -118,3 +119,5 @@ series:
 doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group
+ext:
+  schema-version: v1.0.0

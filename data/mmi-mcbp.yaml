@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cmmi-mcbp
 title:
 - content: Best practices for creating MMI Modality Components
@@ -33,3 +34,5 @@ series:
     format: text/plain
   number: mmi-mcbp
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

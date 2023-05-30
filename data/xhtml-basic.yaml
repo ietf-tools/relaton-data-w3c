@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxhtml-basic
 title:
 - content: XHTML™ Basic 1.1 - Second Edition
@@ -62,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xhtml-basic-20070713
-    docid:
-    - id: W3C CR-xhtml-basic-20070713
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xhtml-basic-20070713
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xhtml-basic-20060705
     docid:
     - id: W3C WD-xhtml-basic-20060705
@@ -80,9 +71,21 @@ relation:
     formattedref:
       content: W3C WD-xhtml-basic-20060705
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xhtml-basic-20070713
+    docid:
+    - id: W3C CR-xhtml-basic-20070713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xhtml-basic-20070713
+      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
   number: xhtml-basic
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

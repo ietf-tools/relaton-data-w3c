@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cclipboard-apis
 title:
 - content: Clipboard API and events
@@ -22,13 +23,33 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-clipboard-apis-20210806
+    id: W3CWD-clipboard-apis-20230516
     docid:
-    - id: W3C WD-clipboard-apis-20210806
+    - id: W3C WD-clipboard-apis-20230516
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-clipboard-apis-20210806
+      content: W3C WD-clipboard-apis-20230516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clipboard-apis-20061115
+    docid:
+    - id: W3C WD-clipboard-apis-20061115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clipboard-apis-20061115
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clipboard-apis-20120223
+    docid:
+    - id: W3C WD-clipboard-apis-20120223
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clipboard-apis-20120223
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -39,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-clipboard-apis-20201029
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clipboard-apis-20170929
+    docid:
+    - id: W3C WD-clipboard-apis-20170929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clipboard-apis-20170929
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-clipboard-apis-20130411
+    docid:
+    - id: W3C WD-clipboard-apis-20130411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clipboard-apis-20130411
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -62,13 +103,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-clipboard-apis-20170929
+    id: W3CWD-clipboard-apis-20210806
     docid:
-    - id: W3C WD-clipboard-apis-20170929
+    - id: W3C WD-clipboard-apis-20210806
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-clipboard-apis-20170929
+      content: W3C WD-clipboard-apis-20210806
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -82,16 +123,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-clipboard-apis-20151215
-    docid:
-    - id: W3C WD-clipboard-apis-20151215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-clipboard-apis-20151215
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-clipboard-apis-20141209
     docid:
     - id: W3C WD-clipboard-apis-20141209
@@ -99,26 +130,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-clipboard-apis-20141209
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-clipboard-apis-20130411
-    docid:
-    - id: W3C WD-clipboard-apis-20130411
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-clipboard-apis-20130411
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-clipboard-apis-20120223
-    docid:
-    - id: W3C WD-clipboard-apis-20120223
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-clipboard-apis-20120223
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -132,13 +143,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-clipboard-apis-20061115
+    id: W3CWD-clipboard-apis-20151215
     docid:
-    - id: W3C WD-clipboard-apis-20061115
+    - id: W3C WD-clipboard-apis-20151215
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-clipboard-apis-20061115
+      content: W3C WD-clipboard-apis-20151215
       format: text/plain
 series:
 - title:
@@ -146,3 +157,5 @@ series:
     format: text/plain
   number: clipboard-apis
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

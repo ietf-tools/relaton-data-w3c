@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdevice-memory-1
 title:
 - content: Device Memory
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: device-memory-1
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

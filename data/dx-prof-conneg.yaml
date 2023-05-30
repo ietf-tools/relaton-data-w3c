@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdx-prof-conneg
 title:
 - content: Content Negotiation by Profile
@@ -46,3 +47,5 @@ series:
     format: text/plain
   number: dx-prof-conneg
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

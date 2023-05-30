@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cvcard-rdf
 title:
 - content: vCard Ontology - for describing People and Organizations
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vcard-rdf-20130924
-    docid:
-    - id: W3C WD-vcard-rdf-20130924
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vcard-rdf-20130924
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-vcard-rdf-20010222
     docid:
     - id: W3C NOTE-vcard-rdf-20010222
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C NOTE-vcard-rdf-20010222
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vcard-rdf-20130924
+    docid:
+    - id: W3C WD-vcard-rdf-20130924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vcard-rdf-20130924
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: vcard-rdf
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

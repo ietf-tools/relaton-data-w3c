@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxquery-sx-10
 title:
 - content: XQuery Scripting Extension 1.0
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xquery-sx-10-20100408
-    docid:
-    - id: W3C WD-xquery-sx-10-20100408
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-sx-10-20100408
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xquery-sx-10-20081203
     docid:
     - id: W3C WD-xquery-sx-10-20081203
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-xquery-sx-10-20081203
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-sx-10-20100408
+    docid:
+    - id: W3C WD-xquery-sx-10-20100408
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-sx-10-20100408
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: xquery-sx-10
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

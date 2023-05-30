@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: W3CWD-permissions-policy-1-20230322
+title:
+- content: Permissions Policy
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/
+  type: src
+- content: https://w3c.github.io/webappsec-permissions-policy/
+  type: current
+type: standard
+docid:
+- id: W3C WD-permissions-policy-1-20230322
+  type: W3C
+  primary: true
+docnumber: WD-permissions-policy-1-20230322
+date:
+- type: published
+  value: '2023-03-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Clelland
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-03-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-permissions-policy-1-20230222
+    docid:
+    - id: W3C WD-permissions-policy-1-20230222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-policy-1-20230222
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-permissions-policy-1-20230322
+doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
+ext:
+  schema-version: v1.0.0

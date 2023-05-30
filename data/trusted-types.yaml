@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Ctrusted-types
 title:
 - content: Trusted Types
@@ -36,3 +37,5 @@ series:
     format: text/plain
   number: trusted-types
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

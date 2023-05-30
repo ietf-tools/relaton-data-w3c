@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWD-rdf-primer-20021111
 title:
 - content: RDF Primer
@@ -47,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g595000
+    id: W3C_-g49733880
     docid:
-    - id: W3C _:g595000
+    - id: W3C _:g49733880
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595000
+      content: W3C _:g49733880
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595020
+    id: W3C_-g49733900
     docid:
-    - id: W3C _:g595020
+    - id: W3C _:g49733900
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595020
+      content: W3C _:g49733900
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595040
+    id: W3C_-g49733920
     docid:
-    - id: W3C _:g595040
+    - id: W3C _:g49733920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595040
+      content: W3C _:g49733920
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595080
+    id: W3C_-g49733940
     docid:
-    - id: W3C _:g595080
+    - id: W3C _:g49733940
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595080
+      content: W3C _:g49733940
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595100
+    id: W3C_-g49733960
     docid:
-    - id: W3C _:g595100
+    - id: W3C _:g49733960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595100
+      content: W3C _:g49733960
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595140
+    id: W3C_-g49734000
     docid:
-    - id: W3C _:g595140
+    - id: W3C _:g49734000
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595140
+      content: W3C _:g49734000
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g595180
+    id: W3C_-g49734040
     docid:
-    - id: W3C _:g595180
+    - id: W3C _:g49734040
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g595180
+      content: W3C _:g49734040
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -131,3 +132,5 @@ series:
     format: text/plain
   number: WD-rdf-primer-20021111
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

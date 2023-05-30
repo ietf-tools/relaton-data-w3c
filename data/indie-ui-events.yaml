@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cindie-ui-events
 title:
 - content: 'IndieUI: Events 1.0'
@@ -32,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-indie-ui-events-20140529
-    docid:
-    - id: W3C WD-indie-ui-events-20140529
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-indie-ui-events-20140529
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-indie-ui-events-20130730
     docid:
     - id: W3C WD-indie-ui-events-20130730
@@ -50,9 +41,21 @@ relation:
     formattedref:
       content: W3C WD-indie-ui-events-20130730
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-indie-ui-events-20140529
+    docid:
+    - id: W3C WD-indie-ui-events-20140529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-indie-ui-events-20140529
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: indie-ui-events
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

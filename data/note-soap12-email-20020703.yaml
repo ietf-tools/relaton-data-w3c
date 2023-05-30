@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CNOTE-soap12-email-20020703
 title:
 - content: SOAP Version 1.2 Email Binding
@@ -90,3 +91,5 @@ series:
 doctype: groupNote
 editorialgroup:
 - name: XML Protocol Working Group
+ext:
+  schema-version: v1.0.0

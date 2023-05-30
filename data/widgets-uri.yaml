@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cwidgets-uri
 title:
 - content: Widget URI scheme
@@ -29,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-widgets-uri-20110927
-    docid:
-    - id: W3C WD-widgets-uri-20110927
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-widgets-uri-20110927
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-widgets-uri-20091008
     docid:
     - id: W3C WD-widgets-uri-20091008
@@ -47,9 +38,21 @@ relation:
     formattedref:
       content: W3C WD-widgets-uri-20091008
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-widgets-uri-20110927
+    docid:
+    - id: W3C WD-widgets-uri-20110927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-widgets-uri-20110927
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
   number: widgets-uri
 doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cresource-hints
 title:
 - content: Resource Hints
@@ -16,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDISC-resource-hints-20230314
+    docid:
+    - id: W3C DISC-resource-hints-20230314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DISC-resource-hints-20230314
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-resource-hints-20201005
     docid:
@@ -29,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-hints-20201005
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-hints-20170504
+    docid:
+    - id: W3C WD-resource-hints-20170504
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20170504
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -52,16 +70,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-resource-hints-20170504
-    docid:
-    - id: W3C WD-resource-hints-20170504
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-hints-20170504
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-resource-hints-20161213
     docid:
     - id: W3C WD-resource-hints-20161213
@@ -69,16 +77,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-hints-20161213
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-hints-20151007
-    docid:
-    - id: W3C WD-resource-hints-20151007
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-hints-20151007
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,9 +88,21 @@ relation:
     formattedref:
       content: W3C WD-resource-hints-20141021
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-hints-20151007
+    docid:
+    - id: W3C WD-resource-hints-20151007
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20151007
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: resource-hints
 doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CWCA-terms
 title:
 - content: Web Characterization Terminology & Definitions Sheet
@@ -22,7 +23,7 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWCA-terms/01
+    id: W3CWCA-terms-01
     docid:
     - id: W3C WCA-terms/01
       type: W3C
@@ -35,3 +36,5 @@ series:
     content: W3C WD
     format: text/plain
   number: WCA-terms
+ext:
+  schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20230524
+id: W3CREC-html-aria-20230531
 title:
-- content: Verifiable Credentials JSON Schema Specification 2023
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230524/
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230531/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20230524
+- id: W3C REC-html-aria-20230531
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20230524
+docnumber: REC-html-aria-20230531
 date:
 - type: published
-  value: '2023-05-24'
+  value: '2023-05-31'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-24'
+revdate: '2023-05-31'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20230523
+    id: W3CREC-html-aria-20230515
     docid:
-    - id: W3C WD-vc-json-schema-20230523
+    - id: W3C REC-html-aria-20230515
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20230523
+      content: W3C REC-html-aria-20230515
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-vc-json-schema-20230524
+  number: REC-html-aria-20230531
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

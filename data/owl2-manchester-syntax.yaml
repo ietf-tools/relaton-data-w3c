@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-owl2-manchester-syntax-20081202
-    docid:
-    - id: W3C WD-owl2-manchester-syntax-20081202
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-owl2-manchester-syntax-20081202
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-owl2-manchester-syntax-20091027
     docid:
     - id: W3C NOTE-owl2-manchester-syntax-20091027
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-owl2-manchester-syntax-20091027
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-owl2-manchester-syntax-20081202
+    docid:
+    - id: W3C WD-owl2-manchester-syntax-20081202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-owl2-manchester-syntax-20081202
       format: text/plain
 series:
 - title:

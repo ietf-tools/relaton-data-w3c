@@ -43,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-orientation-event-20160818
+    docid:
+    - id: W3C CR-orientation-event-20160818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-orientation-event-20160818
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-orientation-event-20190416
     docid:
     - id: W3C WD-orientation-event-20190416
@@ -60,16 +70,6 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-orientation-event-20170530
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-orientation-event-20160818
-    docid:
-    - id: W3C CR-orientation-event-20160818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-orientation-event-20160818
       format: text/plain
 series:
 - title:

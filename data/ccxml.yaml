@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ccxml-20050629
-    docid:
-    - id: W3C WD-ccxml-20050629
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ccxml-20050629
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ccxml-20070119
     docid:
     - id: W3C WD-ccxml-20070119
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ccxml-20070119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ccxml-20030612
+    docid:
+    - id: W3C WD-ccxml-20030612
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ccxml-20030612
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,26 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ccxml-20061122
-    docid:
-    - id: W3C WD-ccxml-20061122
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ccxml-20061122
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-ccxml-20100401
-    docid:
-    - id: W3C CR-ccxml-20100401
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ccxml-20100401
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ccxml-20040430
     docid:
     - id: W3C WD-ccxml-20040430
@@ -93,13 +73,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ccxml-20030612
+    id: W3CWD-ccxml-20061122
     docid:
-    - id: W3C WD-ccxml-20030612
+    - id: W3C WD-ccxml-20061122
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ccxml-20030612
+      content: W3C WD-ccxml-20061122
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ccxml-20050629
+    docid:
+    - id: W3C WD-ccxml-20050629
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ccxml-20050629
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ccxml-20100401
+    docid:
+    - id: W3C CR-ccxml-20100401
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ccxml-20100401
       format: text/plain
 series:
 - title:

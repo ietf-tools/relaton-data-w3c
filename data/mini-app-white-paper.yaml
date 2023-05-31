@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mini-app-white-paper-20190912
-    docid:
-    - id: W3C WD-mini-app-white-paper-20190912
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mini-app-white-paper-20190912
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-mini-app-white-paper-20220528
     docid:
     - id: W3C DNOTE-mini-app-white-paper-20220528
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-mini-app-white-paper-20220528
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mini-app-white-paper-20190912
+    docid:
+    - id: W3C WD-mini-app-white-paper-20190912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mini-app-white-paper-20190912
       format: text/plain
 series:
 - title:

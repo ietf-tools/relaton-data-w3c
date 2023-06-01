@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-speech-synthesis11-20081107
+    docid:
+    - id: W3C CR-speech-synthesis11-20081107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-speech-synthesis11-20081107
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-speech-synthesis11-20071212
     docid:
     - id: W3C WD-speech-synthesis11-20071212
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-speech-synthesis11-20090827
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-speech-synthesis11-20081107
-    docid:
-    - id: W3C CR-speech-synthesis11-20081107
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-speech-synthesis11-20081107
       format: text/plain
 series:
 - title:

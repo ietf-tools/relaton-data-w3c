@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-resource-hints-20161213
-    docid:
-    - id: W3C WD-resource-hints-20161213
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-hints-20161213
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-resource-hints-20201005
     docid:
     - id: W3C WD-resource-hints-20201005
@@ -60,16 +50,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-resource-hints-20141021
-    docid:
-    - id: W3C WD-resource-hints-20141021
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-hints-20141021
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-resource-hints-20190702
     docid:
     - id: W3C WD-resource-hints-20190702
@@ -80,16 +60,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-resource-hints-20151007
-    docid:
-    - id: W3C WD-resource-hints-20151007
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-hints-20151007
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-resource-hints-20180115
     docid:
     - id: W3C WD-resource-hints-20180115
@@ -97,6 +67,36 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-hints-20180115
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-hints-20161213
+    docid:
+    - id: W3C WD-resource-hints-20161213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20161213
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-hints-20141021
+    docid:
+    - id: W3C WD-resource-hints-20141021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20141021
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-hints-20151007
+    docid:
+    - id: W3C WD-resource-hints-20151007
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-hints-20151007
       format: text/plain
 series:
 - title:

@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Cxhtml-m12n-schema
 title:
-- content: Modularization of XHTML™ in XML Schema
+- content: Modularization of XHTML in XML Schema
   format: text/plain
 link:
 - content: http://www.w3.org/TR/xhtml-m12n-schema
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-xhtml-m12n-schema-20031003
-    docid:
-    - id: W3C WD-xhtml-m12n-schema-20031003
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xhtml-m12n-schema-20031003
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-xhtml-m12n-schema-20021209
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xhtml-m12n-schema-20021209
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-xhtml-m12n-schema-20031003
+    docid:
+    - id: W3C WD-xhtml-m12n-schema-20031003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-m12n-schema-20031003
       format: text/plain
 series:
 - title:

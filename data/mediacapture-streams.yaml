@@ -33,33 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-mediacapture-streams-20160519
+    id: W3CWD-mediacapture-streams-20120628
     docid:
-    - id: W3C CR-mediacapture-streams-20160519
+    - id: W3C WD-mediacapture-streams-20120628
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-mediacapture-streams-20160519
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-mediacapture-streams-20220505
-    docid:
-    - id: W3C CRD-mediacapture-streams-20220505
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-mediacapture-streams-20220505
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-mediacapture-streams-20211216
-    docid:
-    - id: W3C CRD-mediacapture-streams-20211216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-mediacapture-streams-20211216
+      content: W3C WD-mediacapture-streams-20120628
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,6 +83,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCRD-mediacapture-streams-20220505
+    docid:
+    - id: W3C CRD-mediacapture-streams-20220505
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mediacapture-streams-20220505
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-mediacapture-streams-20160519
+    docid:
+    - id: W3C CR-mediacapture-streams-20160519
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-mediacapture-streams-20160519
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-mediacapture-streams-20150414
     docid:
     - id: W3C WD-mediacapture-streams-20150414
@@ -113,13 +113,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediacapture-streams-20120628
+    id: W3CCRD-mediacapture-streams-20211216
     docid:
-    - id: W3C WD-mediacapture-streams-20120628
+    - id: W3C CRD-mediacapture-streams-20211216
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediacapture-streams-20120628
+      content: W3C CRD-mediacapture-streams-20211216
       format: text/plain
 series:
 - title:

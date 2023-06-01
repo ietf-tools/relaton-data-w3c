@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-indie-ui-events-20140529
-    docid:
-    - id: W3C WD-indie-ui-events-20140529
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-indie-ui-events-20140529
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-indie-ui-events-20130730
     docid:
     - id: W3C WD-indie-ui-events-20130730
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-indie-ui-events-20130730
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-indie-ui-events-20140529
+    docid:
+    - id: W3C WD-indie-ui-events-20140529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-indie-ui-events-20140529
       format: text/plain
 series:
 - title:

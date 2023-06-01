@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-sXBL-20041122
+id: W3CREC-html-aria-20230531
 title:
-- content: SVG's XML Binding Language (sXBL)
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2004/WD-sXBL-20041122
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230531/
   type: src
+- content: https://w3c.github.io/html-aria/
+  type: current
 type: standard
 docid:
-- id: W3C WD-sXBL-20041122
+- id: W3C REC-html-aria-20230531
   type: W3C
   primary: true
-docnumber: WD-sXBL-20041122
+docnumber: REC-html-aria-20230531
 date:
 - type: published
-  value: '2004-11-22'
+  value: '2023-05-31'
 contributor:
 - person:
     name:
       completename:
-        content: David Hyatt
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Hickson
+        content: Scott O'Hara
         language:
         - en
         script:
@@ -40,40 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Jon Ferraiolo
+        content: Steve Faulkner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2004-11-22'
+revdate: '2023-05-31'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sXBL-20040901
+    id: W3CREC-html-aria-20230515
     docid:
-    - id: W3C WD-sXBL-20040901
+    - id: W3C REC-html-aria-20230515
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sXBL-20040901
+      content: W3C REC-html-aria-20230515
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-sXBL-20041122
+  number: REC-html-aria-20230531
 doctype: technicalReport
 editorialgroup:
-- name: SVG Working Group
-- name: Cascading Style Sheets Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

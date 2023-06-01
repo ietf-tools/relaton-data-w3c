@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CCR-qaframe-ops-20030922
-    docid:
-    - id: W3C CR-qaframe-ops-20030922
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-qaframe-ops-20030922
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-qaframe-ops-20021108
@@ -41,9 +31,19 @@ relation:
     formattedref:
       content: W3C WD-qaframe-ops-20021108
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-qaframe-ops-20030922
+    docid:
+    - id: W3C CR-qaframe-ops-20030922
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-qaframe-ops-20030922
+      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: qaframe-ops
 doctype: technicalReport

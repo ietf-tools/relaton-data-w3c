@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-activitypub-20161117
-    docid:
-    - id: W3C CR-activitypub-20161117
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-activitypub-20161117
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-activitypub-20171205
     docid:
     - id: W3C PR-activitypub-20171205
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-activitypub-20171205
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-activitypub-20161117
+    docid:
+    - id: W3C CR-activitypub-20161117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-activitypub-20161117
       format: text/plain
 series:
 - title:

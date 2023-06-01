@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-selection-api-20161206
-    docid:
-    - id: W3C WD-selection-api-20161206
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selection-api-20161206
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-selection-api-20210724
-    docid:
-    - id: W3C WD-selection-api-20210724
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selection-api-20210724
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-selection-api-20201219
     docid:
     - id: W3C WD-selection-api-20201219
@@ -73,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-selection-api-20141007
-    docid:
-    - id: W3C WD-selection-api-20141007
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selection-api-20141007
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-selection-api-20190820
     docid:
     - id: W3C WD-selection-api-20190820
@@ -93,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-selection-api-20151215
-    docid:
-    - id: W3C WD-selection-api-20151215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selection-api-20151215
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-selection-api-20181018
     docid:
     - id: W3C WD-selection-api-20181018
@@ -110,6 +70,46 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-selection-api-20181018
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selection-api-20210724
+    docid:
+    - id: W3C WD-selection-api-20210724
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selection-api-20210724
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selection-api-20161206
+    docid:
+    - id: W3C WD-selection-api-20161206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selection-api-20161206
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selection-api-20141007
+    docid:
+    - id: W3C WD-selection-api-20141007
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selection-api-20141007
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selection-api-20151215
+    docid:
+    - id: W3C WD-selection-api-20151215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selection-api-20151215
       format: text/plain
 series:
 - title:

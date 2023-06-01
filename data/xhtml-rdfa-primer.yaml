@@ -17,20 +17,7 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xhtml-rdfa-primer-20071026
-    docid:
-    - id: W3C WD-xhtml-rdfa-primer-20071026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xhtml-rdfa-primer-20071026
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CNOTE-xhtml-rdfa-primer-20081014
@@ -51,11 +38,21 @@ relation:
     formattedref:
       content: W3C WD-xhtml-rdfa-primer-20060516
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml-rdfa-primer-20071026
+    docid:
+    - id: W3C WD-xhtml-rdfa-primer-20071026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-rdfa-primer-20071026
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: xhtml-rdfa-primer
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

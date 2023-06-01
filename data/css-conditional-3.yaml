@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-css-conditional-3-20211223
-    docid:
-    - id: W3C CRD-css-conditional-3-20211223
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-css-conditional-3-20211223
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-conditional-3-20201208
     docid:
     - id: W3C CR-css-conditional-3-20201208
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-conditional-3-20201208
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-css-conditional-3-20211223
+    docid:
+    - id: W3C CRD-css-conditional-3-20211223
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-conditional-3-20211223
       format: text/plain
 series:
 - title:

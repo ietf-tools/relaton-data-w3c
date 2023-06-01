@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-method-basic-card-20161220
-    docid:
-    - id: W3C WD-payment-method-basic-card-20161220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-payment-method-basic-card-20161220
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-payment-method-basic-card-20200213
     docid:
     - id: W3C WD-payment-method-basic-card-20200213
@@ -77,6 +67,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-payment-method-basic-card-20181220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-method-basic-card-20161220
+    docid:
+    - id: W3C WD-payment-method-basic-card-20161220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-method-basic-card-20161220
       format: text/plain
 series:
 - title:

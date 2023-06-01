@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3CCSP
 title:
-- content: Content Security Policy
+- content: Content Security Policy 1.0
   format: text/plain
 link:
 - content: http://www.w3.org/TR/CSP/
@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-CSP-20111129
-    docid:
-    - id: W3C WD-CSP-20111129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSP-20111129
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-CSP-20121115
@@ -41,9 +31,19 @@ relation:
     formattedref:
       content: W3C CR-CSP-20121115
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSP-20111129
+    docid:
+    - id: W3C WD-CSP-20111129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP-20111129
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: CSP
 doctype: technicalReport

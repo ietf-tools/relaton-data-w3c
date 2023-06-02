@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-resource-timing-20230313
+id: W3CWD-webgpu-20230601
 title:
-- content: Resource Timing
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-resource-timing-20230313/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20230601/
   type: src
-- content: https://w3c.github.io/resource-timing/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CRD-resource-timing-20230313
+- id: W3C WD-webgpu-20230601
   type: W3C
   primary: true
-docnumber: CRD-resource-timing-20230313
+docnumber: WD-webgpu-20230601
 date:
 - type: published
-  value: '2023-03-13'
+  value: '2023-06-01'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-13'
+- person:
+    name:
+      completename:
+        content: Myles Maxfield
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-01'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-resource-timing-20221004
+    id: W3CWD-webgpu-20230529
     docid:
-    - id: W3C CR-resource-timing-20221004
+    - id: W3C WD-webgpu-20230529
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-resource-timing-20221004
+      content: W3C WD-webgpu-20230529
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-resource-timing-20230313
+  number: WD-webgpu-20230601
 doctype: technicalReport
 editorialgroup:
-- name: Web Performance Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

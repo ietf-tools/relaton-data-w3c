@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webxr-hand-input-1-20201022
-    docid:
-    - id: W3C WD-webxr-hand-input-1-20201022
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webxr-hand-input-1-20201022
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webxr-hand-input-1-20211224
     docid:
     - id: W3C WD-webxr-hand-input-1-20211224
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webxr-hand-input-1-20211224
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webxr-hand-input-1-20201022
+    docid:
+    - id: W3C WD-webxr-hand-input-1-20201022
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-hand-input-1-20201022
       format: text/plain
 series:
 - title:

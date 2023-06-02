@@ -21,46 +21,6 @@ docstatus:
   stage:
     value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-resource-timing-20221110
-    docid:
-    - id: W3C CRD-resource-timing-20221110
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-resource-timing-20221110
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-resource-timing-20230303
-    docid:
-    - id: W3C CRD-resource-timing-20230303
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-resource-timing-20230303
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-resource-timing-20230313
-    docid:
-    - id: W3C CRD-resource-timing-20230313
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-resource-timing-20230313
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-resource-timing-20230509
-    docid:
-    - id: W3C CRD-resource-timing-20230509
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-resource-timing-20230509
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCRD-resource-timing-20230511
@@ -70,26 +30,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-resource-timing-20230511
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-resource-timing-20120522
-    docid:
-    - id: W3C CR-resource-timing-20120522
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-resource-timing-20120522
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-20141216
-    docid:
-    - id: W3C WD-resource-timing-20141216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-20141216
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-resource-timing-20141216
+    docid:
+    - id: W3C WD-resource-timing-20141216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-20141216
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-resource-timing-20151125
     docid:
     - id: W3C WD-resource-timing-20151125
@@ -110,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-timing-20151125
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-resource-timing-20120522
+    docid:
+    - id: W3C CR-resource-timing-20120522
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-resource-timing-20120522
       format: text/plain
 series:
 - title:

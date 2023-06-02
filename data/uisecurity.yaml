@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UISecurity-20130523
-    docid:
-    - id: W3C WD-UISecurity-20130523
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UISecurity-20130523
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-UISecurity-20140318
     docid:
     - id: W3C WD-UISecurity-20140318
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-UISecurity-20140318
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UISecurity-20130523
+    docid:
+    - id: W3C WD-UISecurity-20130523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UISecurity-20130523
       format: text/plain
 series:
 - title:

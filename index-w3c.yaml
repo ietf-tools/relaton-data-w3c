@@ -3239,12 +3239,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -11725,22 +11725,6 @@
   :date: '20230511'
   :file: data/crd-resource-timing-20230511.yaml
 - :code: resource-timing
-  :stage: CRD
-  :date: '20230509'
-  :file: data/crd-resource-timing-20230509.yaml
-- :code: resource-timing
-  :stage: CRD
-  :date: '20230313'
-  :file: data/crd-resource-timing-20230313.yaml
-- :code: resource-timing
-  :stage: CRD
-  :date: '20230303'
-  :file: data/crd-resource-timing-20230303.yaml
-- :code: resource-timing
-  :stage: CRD
-  :date: '20221110'
-  :file: data/crd-resource-timing-20221110.yaml
-- :code: resource-timing
   :stage: WD
   :date: '20151125'
   :file: data/wd-resource-timing-20151125.yaml
@@ -14776,8 +14760,8 @@
   :file: data/vc-jwt.yaml
 - :code: vc-jwt
   :stage: WD
-  :date: '20230525'
-  :file: data/wd-vc-jwt-20230525.yaml
+  :date: '20230601'
+  :file: data/wd-vc-jwt-20230601.yaml
 - :code: vc-status-list
   :file: data/vc-status-list.yaml
 - :code: vc-status-list
@@ -16332,8 +16316,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20230529'
-  :file: data/wd-webgpu-20230529.yaml
+  :date: '20230601'
+  :file: data/wd-webgpu-20230601.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16560,8 +16544,8 @@
   :file: data/webrtc-encoded-transform.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
-  :date: '20230428'
-  :file: data/wd-webrtc-encoded-transform-20230428.yaml
+  :date: '20230602'
+  :file: data/wd-webrtc-encoded-transform-20230602.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
   :date: '20220519'

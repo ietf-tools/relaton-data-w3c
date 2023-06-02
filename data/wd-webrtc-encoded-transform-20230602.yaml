@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-webrtc-encoded-transform-20230428
+id: W3CWD-webrtc-encoded-transform-20230602
 title:
 - content: WebRTC Encoded Transform
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230428/
+- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/
   type: src
 - content: https://w3c.github.io/webrtc-encoded-transform/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-encoded-transform-20230428
+- id: W3C WD-webrtc-encoded-transform-20230602
   type: W3C
   primary: true
-docnumber: WD-webrtc-encoded-transform-20230428
+docnumber: WD-webrtc-encoded-transform-20230602
 date:
 - type: published
-  value: '2023-04-28'
+  value: '2023-06-02'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-28'
+revdate: '2023-06-02'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-encoded-transform-20230427
+    id: W3CWD-webrtc-encoded-transform-20230428
     docid:
-    - id: W3C WD-webrtc-encoded-transform-20230427
+    - id: W3C WD-webrtc-encoded-transform-20230428
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-encoded-transform-20230427
+      content: W3C WD-webrtc-encoded-transform-20230428
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-encoded-transform-20230428
+  number: WD-webrtc-encoded-transform-20230602
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

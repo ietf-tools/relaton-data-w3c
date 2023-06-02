@@ -23,6 +23,36 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-resource-timing-2-20161103
+    docid:
+    - id: W3C WD-resource-timing-2-20161103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20161103
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-resource-timing-2-20220413
+    docid:
+    - id: W3C WD-resource-timing-2-20220413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20220413
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-timing-2-20210414
+    docid:
+    - id: W3C WD-resource-timing-2-20210414
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20210414
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-resource-timing-2-20200818
     docid:
     - id: W3C WD-resource-timing-2-20200818
@@ -60,36 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-timing-2-20181105
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CWD-resource-timing-2-20220413
-    docid:
-    - id: W3C WD-resource-timing-2-20220413
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20220413
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-2-20161103
-    docid:
-    - id: W3C WD-resource-timing-2-20161103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20161103
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-2-20210414
-    docid:
-    - id: W3C WD-resource-timing-2-20210414
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20210414
       format: text/plain
 series:
 - title:

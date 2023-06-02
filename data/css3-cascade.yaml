@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-cascade-20020219
-    docid:
-    - id: W3C WD-css3-cascade-20020219
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-cascade-20020219
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-cascade-20051215
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-cascade-20051215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-cascade-20020219
+    docid:
+    - id: W3C WD-css3-cascade-20020219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-cascade-20020219
       format: text/plain
 series:
 - title:

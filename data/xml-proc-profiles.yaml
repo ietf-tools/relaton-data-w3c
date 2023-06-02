@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xml-proc-profiles-20110412
+    docid:
+    - id: W3C WD-xml-proc-profiles-20110412
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xml-proc-profiles-20110412
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xml-proc-profiles-20120124
     docid:
     - id: W3C WD-xml-proc-profiles-20120124
@@ -47,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xml-proc-profiles-20101130
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xml-proc-profiles-20110412
-    docid:
-    - id: W3C WD-xml-proc-profiles-20110412
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xml-proc-profiles-20110412
       format: text/plain
 series:
 - title:

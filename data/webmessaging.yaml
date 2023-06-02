@@ -43,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webmessaging-20111020
+    docid:
+    - id: W3C WD-webmessaging-20111020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webmessaging-20111020
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-webmessaging-20120501
     docid:
     - id: W3C CR-webmessaging-20120501
@@ -60,16 +70,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webmessaging-20101118
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webmessaging-20111020
-    docid:
-    - id: W3C WD-webmessaging-20111020
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webmessaging-20111020
       format: text/plain
 series:
 - title:

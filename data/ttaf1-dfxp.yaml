@@ -20,18 +20,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-ttaf1-dfxp-20050321
-    docid:
-    - id: W3C WD-ttaf1-dfxp-20050321
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ttaf1-dfxp-20050321
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCR-ttaf1-dfxp-20061116
@@ -54,6 +44,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-ttaf1-dfxp-20090924
+    docid:
+    - id: W3C CR-ttaf1-dfxp-20090924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttaf1-dfxp-20090924
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ttaf1-dfxp-20041101
     docid:
     - id: W3C WD-ttaf1-dfxp-20041101
@@ -64,17 +64,17 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-ttaf1-dfxp-20090924
+    id: W3CWD-ttaf1-dfxp-20050321
     docid:
-    - id: W3C CR-ttaf1-dfxp-20090924
+    - id: W3C WD-ttaf1-dfxp-20050321
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-ttaf1-dfxp-20090924
+      content: W3C WD-ttaf1-dfxp-20050321
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: ttaf1-dfxp
 doctype: technicalReport

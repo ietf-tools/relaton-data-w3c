@@ -33,33 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-IndexedDB-20120524
+    id: W3CWD-IndexedDB-20111206
     docid:
-    - id: W3C WD-IndexedDB-20120524
+    - id: W3C WD-IndexedDB-20111206
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-20120524
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-IndexedDB-20100819
-    docid:
-    - id: W3C WD-IndexedDB-20100819
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-IndexedDB-20100819
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-IndexedDB-20130704
-    docid:
-    - id: W3C CR-IndexedDB-20130704
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-IndexedDB-20130704
+      content: W3C WD-IndexedDB-20111206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,13 +53,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-IndexedDB-20111206
+    id: W3CWD-IndexedDB-20120524
     docid:
-    - id: W3C WD-IndexedDB-20111206
+    - id: W3C WD-IndexedDB-20120524
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-20111206
+      content: W3C WD-IndexedDB-20120524
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-IndexedDB-20130704
+    docid:
+    - id: W3C CR-IndexedDB-20130704
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-IndexedDB-20130704
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-IndexedDB-20100819
+    docid:
+    - id: W3C WD-IndexedDB-20100819
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-IndexedDB-20100819
       format: text/plain
 series:
 - title:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-powder-grouping-20081114
-    docid:
-    - id: W3C WD-powder-grouping-20081114
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-powder-grouping-20081114
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-powder-grouping-20071031
     docid:
     - id: W3C WD-powder-grouping-20071031
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-powder-grouping-20071031
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-powder-grouping-20081114
+    docid:
+    - id: W3C WD-powder-grouping-20081114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-powder-grouping-20081114
       format: text/plain
 series:
 - title:

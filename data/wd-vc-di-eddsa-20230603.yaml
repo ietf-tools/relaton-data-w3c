@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20230518
+id: W3CWD-vc-di-eddsa-20230603
 title:
-- content: ECDSA Cryptosuite v2019
+- content: EdDSA Cryptosuite v2022
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230518/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230603/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20230518
+- id: W3C WD-vc-di-eddsa-20230603
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20230518
+docnumber: WD-vc-di-eddsa-20230603
 date:
 - type: published
-  value: '2023-05-18'
+  value: '2023-06-03'
 contributor:
+- person:
+    name:
+      completename:
+        content: Dmitri Zagidulin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,17 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Martin Reed
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-05-18'
+revdate: '2023-06-03'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20230420
+    id: W3CWD-vc-di-eddsa-20230518
     docid:
-    - id: W3C WD-vc-di-ecdsa-20230420
+    - id: W3C WD-vc-di-eddsa-20230518
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20230420
+      content: W3C WD-vc-di-eddsa-20230518
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-ecdsa-20230518
+  number: WD-vc-di-eddsa-20230603
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

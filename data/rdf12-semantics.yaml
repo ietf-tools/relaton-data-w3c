@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Crdf12-semantics
+title:
+- content: RDF 1.2 Semantics
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/rdf12-semantics/
+  type: src
+type: standard
+docid:
+- id: W3C rdf12-semantics
+  type: W3C
+  primary: true
+docnumber: rdf12-semantics
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-rdf12-semantics-20230606
+    docid:
+    - id: W3C WD-rdf12-semantics-20230606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-semantics-20230606
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: rdf12-semantics
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

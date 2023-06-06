@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-wai-aria-1.2-20230328
+id: W3CREC-wai-aria-1.2-20230606
 title:
 - content: Accessible Rich Internet Applications (WAI-ARIA) 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/PR-wai-aria-1.2-20230328/
+- content: https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/
   type: src
 - content: https://w3c.github.io/aria/
   type: current
 type: standard
 docid:
-- id: W3C PR-wai-aria-1.2-20230328
+- id: W3C REC-wai-aria-1.2-20230606
   type: W3C
   primary: true
-docnumber: PR-wai-aria-1.2-20230328
+docnumber: REC-wai-aria-1.2-20230606
 date:
 - type: published
-  value: '2023-03-28'
+  value: '2023-06-06'
 contributor:
 - person:
     name:
@@ -59,30 +59,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-28'
+revdate: '2023-06-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-wai-aria-1.2-20211208
+    id: W3CPR-wai-aria-1.2-20230328
     docid:
-    - id: W3C CRD-wai-aria-1.2-20211208
+    - id: W3C PR-wai-aria-1.2-20230328
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-wai-aria-1.2-20211208
+      content: W3C PR-wai-aria-1.2-20230328
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-wai-aria-1.2-20230328
+  number: REC-wai-aria-1.2-20230606
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

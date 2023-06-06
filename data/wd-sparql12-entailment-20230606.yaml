@@ -1,0 +1,47 @@
+---
+schema-version: v1.2.3
+id: W3CWD-sparql12-entailment-20230606
+title:
+- content: SPARQL 1.2 Entailment Regimes
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-sparql12-entailment-20230606/
+  type: src
+- content: https://w3c.github.io/sparql-entailment/spec/
+  type: current
+type: standard
+docid:
+- id: W3C WD-sparql12-entailment-20230606
+  type: W3C
+  primary: true
+docnumber: WD-sparql12-entailment-20230606
+date:
+- type: published
+  value: '2023-06-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Peter Patel-Schneider
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-sparql12-entailment-20230606
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

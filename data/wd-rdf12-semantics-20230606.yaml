@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CREC-rdf11-mt-20140225
+id: W3CWD-rdf12-semantics-20230606
 title:
-- content: RDF 1.1 Semantics
+- content: RDF 1.2 Semantics
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2014/REC-rdf11-mt-20140225/
+- content: https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/
   type: src
 - content: https://w3c.github.io/rdf-semantics/spec/
   type: current
 type: standard
 docid:
-- id: W3C REC-rdf11-mt-20140225
+- id: W3C WD-rdf12-semantics-20230606
   type: W3C
   primary: true
-docnumber: REC-rdf11-mt-20140225
+docnumber: WD-rdf12-semantics-20230606
 date:
 - type: published
-  value: '2014-02-25'
+  value: '2023-06-06'
 contributor:
 - person:
     name:
       completename:
-        content: Patrick Hayes
+        content: Dörthe Arndt
         language:
         - en
         script:
@@ -39,32 +39,29 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2014-02-25'
+- person:
+    name:
+      completename:
+        content: Timothée Haudebourg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: recommendation
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CPR-rdf11-mt-20140109
-    docid:
-    - id: W3C PR-rdf11-mt-20140109
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-rdf11-mt-20140109
-      format: text/plain
+    value: workingDraft
 series:
 - title:
-    content: W3C REC
+    content: W3C WD
     format: text/plain
-  number: REC-rdf11-mt-20140225
+  number: WD-rdf12-semantics-20230606
 doctype: technicalReport
-editorialgroup:
-- name: RDF Working Group
 ext:
   schema-version: v1.0.0

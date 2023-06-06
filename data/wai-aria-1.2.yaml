@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-wai-aria-1.2-20230328
+    id: W3CREC-wai-aria-1.2-20230606
     docid:
-    - id: W3C PR-wai-aria-1.2-20230328
+    - id: W3C REC-wai-aria-1.2-20230606
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-wai-aria-1.2-20230328
+      content: W3C REC-wai-aria-1.2-20230606
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +63,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: wai-aria-1.2
 doctype: technicalReport

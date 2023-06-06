@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Csparql12-entailment
+title:
+- content: SPARQL 1.2 Entailment Regimes
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/sparql12-entailment/
+  type: src
+type: standard
+docid:
+- id: W3C sparql12-entailment
+  type: W3C
+  primary: true
+docnumber: sparql12-entailment
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-sparql12-entailment-20230606
+    docid:
+    - id: W3C WD-sparql12-entailment-20230606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql12-entailment-20230606
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: sparql12-entailment
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

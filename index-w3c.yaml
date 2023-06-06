@@ -11435,6 +11435,12 @@
   :stage: WD
   :date: '20230516'
   :file: data/wd-rdf12-schema-20230516.yaml
+- :code: rdf12-semantics
+  :file: data/rdf12-semantics.yaml
+- :code: rdf12-semantics
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-rdf12-semantics-20230606.yaml
 - :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :code: rdf12-trig
@@ -13232,6 +13238,12 @@
   :stage: WD
   :date: '20091022'
   :file: data/wd-sparql11-update-20091022.yaml
+- :code: sparql12-entailment
+  :file: data/sparql12-entailment.yaml
+- :code: sparql12-entailment
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-sparql12-entailment-20230606.yaml
 - :code: sparql12-federated-query
   :file: data/sparql12-federated-query.yaml
 - :code: sparql12-federated-query
@@ -15277,9 +15289,9 @@
 - :code: wai-aria-1.2
   :file: data/wai-aria-1.2.yaml
 - :code: wai-aria-1.2
-  :stage: PR
-  :date: '20230328'
-  :file: data/pr-wai-aria-1.2-20230328.yaml
+  :stage: REC
+  :date: '20230606'
+  :file: data/rec-wai-aria-1.2-20230606.yaml
 - :code: wai-aria-1.2
   :stage: CRD
   :date: '20211208'
@@ -16434,8 +16446,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20230519'
-  :file: data/crd-webnn-20230519.yaml
+  :date: '20230606'
+  :file: data/crd-webnn-20230606.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -16893,8 +16905,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230531'
-  :file: data/wd-wgsl-20230531.yaml
+  :date: '20230605'
+  :file: data/wd-wgsl-20230605.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-navigation-timing-2-20230206
+id: W3CWD-rdf-canon-20230607
 title:
-- content: Navigation Timing Level 2
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-navigation-timing-2-20230206/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230607/
   type: src
-- content: https://w3c.github.io/navigation-timing/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-navigation-timing-2-20230206
+- id: W3C WD-rdf-canon-20230607
   type: W3C
   primary: true
-docnumber: WD-navigation-timing-2-20230206
+docnumber: WD-rdf-canon-20230607
 date:
 - type: published
-  value: '2023-02-06'
+  value: '2023-06-07'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Dave Longley
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-06'
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-07'
 language:
 - en
 script:
@@ -50,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-navigation-timing-2-20220907
+    id: W3CWD-rdf-canon-20230524
     docid:
-    - id: W3C WD-navigation-timing-2-20220907
+    - id: W3C WD-rdf-canon-20230524
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20220907
+      content: W3C WD-rdf-canon-20230524
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-navigation-timing-2-20230206
+  number: WD-rdf-canon-20230607
 doctype: technicalReport
-editorialgroup:
-- name: Web Performance Working Group
 ext:
   schema-version: v1.0.0

@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPER-xmlbase-20080320
-    docid:
-    - id: W3C PER-xmlbase-20080320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-xmlbase-20080320
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPER-xmlbase-20061220
     docid:
     - id: W3C PER-xmlbase-20061220
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PER-xmlbase-20061220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-xmlbase-20080320
+    docid:
+    - id: W3C PER-xmlbase-20080320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xmlbase-20080320
       format: text/plain
 series:
 - title:

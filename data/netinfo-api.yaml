@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-netinfo-api-20121129
-    docid:
-    - id: W3C WD-netinfo-api-20121129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-netinfo-api-20121129
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-netinfo-api-20110607
     docid:
     - id: W3C WD-netinfo-api-20110607
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-netinfo-api-20110607
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-netinfo-api-20121129
+    docid:
+    - id: W3C WD-netinfo-api-20121129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-netinfo-api-20121129
       format: text/plain
 series:
 - title:

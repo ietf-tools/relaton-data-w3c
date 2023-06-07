@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-appmanifest-20161212
+    docid:
+    - id: W3C WD-appmanifest-20161212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20161212
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-appmanifest-20220217
     docid:
     - id: W3C WD-appmanifest-20220217
@@ -63,26 +73,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-appmanifest-20191209
-    docid:
-    - id: W3C WD-appmanifest-20191209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20191209
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20181212
-    docid:
-    - id: W3C WD-appmanifest-20181212
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20181212
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-appmanifest-20171129
     docid:
     - id: W3C WD-appmanifest-20171129
@@ -93,13 +83,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-appmanifest-20161212
+    id: W3CWD-appmanifest-20131217
     docid:
-    - id: W3C WD-appmanifest-20161212
+    - id: W3C WD-appmanifest-20131217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-appmanifest-20161212
+      content: W3C WD-appmanifest-20131217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20191209
+    docid:
+    - id: W3C WD-appmanifest-20191209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20191209
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,13 +113,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-appmanifest-20131217
+    id: W3CWD-appmanifest-20181212
     docid:
-    - id: W3C WD-appmanifest-20131217
+    - id: W3C WD-appmanifest-20181212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-appmanifest-20131217
+      content: W3C WD-appmanifest-20181212
       format: text/plain
 series:
 - title:

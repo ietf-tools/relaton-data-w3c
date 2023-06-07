@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: recommendation
+    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CREC-CSS2-19980512-fonts
-    docid:
-    - id: W3C REC-CSS2-19980512/fonts
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-CSS2-19980512/fonts
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-webfonts-20020802
@@ -41,9 +31,19 @@ relation:
     formattedref:
       content: W3C WD-css3-webfonts-20020802
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-CSS2-19980512-fonts
+    docid:
+    - id: W3C REC-CSS2-19980512/fonts
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-19980512/fonts
+      format: text/plain
 series:
 - title:
-    content: W3C REC
+    content: W3C WD
     format: text/plain
   number: css3-webfonts
 doctype: technicalReport

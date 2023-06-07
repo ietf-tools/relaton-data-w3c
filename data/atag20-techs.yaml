@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-ATAG20-TECHS-20080310
-    docid:
-    - id: W3C WD-ATAG20-TECHS-20080310
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ATAG20-TECHS-20080310
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-ATAG20-TECHS-20070423
@@ -43,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-ATAG20-TECHS-20030314
+    docid:
+    - id: W3C WD-ATAG20-TECHS-20030314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ATAG20-TECHS-20030314
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ATAG20-TECHS-20041122
     docid:
     - id: W3C WD-ATAG20-TECHS-20041122
@@ -51,15 +51,15 @@ relation:
     formattedref:
       content: W3C WD-ATAG20-TECHS-20041122
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-ATAG20-TECHS-20030314
+    id: W3CWD-ATAG20-TECHS-20080310
     docid:
-    - id: W3C WD-ATAG20-TECHS-20030314
+    - id: W3C WD-ATAG20-TECHS-20080310
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ATAG20-TECHS-20030314
+      content: W3C WD-ATAG20-TECHS-20080310
       format: text/plain
 series:
 - title:

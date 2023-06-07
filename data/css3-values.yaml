@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-values
 title:
-- content: CSS Values and Units Module Level 3
+- content: CSS3 Values and Units
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-values/
@@ -19,8 +19,38 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-values-20060919
+    docid:
+    - id: W3C WD-css3-values-20060919
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-values-20060919
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-values-20010713
+    docid:
+    - id: W3C WD-css3-values-20010713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-values-20010713
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-values-20110906
+    docid:
+    - id: W3C WD-css3-values-20110906
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-values-20110906
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-css3-values-20130730
@@ -43,26 +73,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-values-20110906
-    docid:
-    - id: W3C WD-css3-values-20110906
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-values-20110906
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-values-20060919
-    docid:
-    - id: W3C WD-css3-values-20060919
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-values-20060919
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-values-20050726
     docid:
     - id: W3C WD-css3-values-20050726
@@ -71,19 +81,9 @@ relation:
     formattedref:
       content: W3C WD-css3-values-20050726
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-values-20010713
-    docid:
-    - id: W3C WD-css3-values-20010713
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-values-20010713
-      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: css3-values
 doctype: technicalReport

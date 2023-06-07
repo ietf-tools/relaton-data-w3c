@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-scroll-animations-1-20230428
+id: W3CWD-scroll-animations-1-20230606
 title:
 - content: Scroll-driven Animations
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-scroll-animations-1-20230428/
+- content: https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/
   type: src
 - content: https://drafts.csswg.org/scroll-animations-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-scroll-animations-1-20230428
+- id: W3C WD-scroll-animations-1-20230606
   type: W3C
   primary: true
-docnumber: WD-scroll-animations-1-20230428
+docnumber: WD-scroll-animations-1-20230606
 date:
 - type: published
-  value: '2023-04-28'
+  value: '2023-06-06'
 contributor:
 - person:
     name:
@@ -79,7 +79,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-28'
+revdate: '2023-06-06'
 language:
 - en
 script:
@@ -90,19 +90,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-scroll-animations-1-20230406
+    id: W3CWD-scroll-animations-1-20230428
     docid:
-    - id: W3C WD-scroll-animations-1-20230406
+    - id: W3C WD-scroll-animations-1-20230428
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-scroll-animations-1-20230406
+      content: W3C WD-scroll-animations-1-20230428
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-scroll-animations-1-20230428
+  number: WD-scroll-animations-1-20230606
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

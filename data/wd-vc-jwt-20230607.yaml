@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jwt-20230606
+id: W3CWD-vc-jwt-20230607
 title:
 - content: Securing Verifiable Credentials using JSON Web Tokens
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230606/
+- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230607/
   type: src
 - content: https://w3c.github.io/vc-jwt/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jwt-20230606
+- id: W3C WD-vc-jwt-20230607
   type: W3C
   primary: true
-docnumber: WD-vc-jwt-20230606
+docnumber: WD-vc-jwt-20230607
 date:
 - type: published
-  value: '2023-06-06'
+  value: '2023-06-07'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-06'
+revdate: '2023-06-07'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jwt-20230601
+    id: W3CWD-vc-jwt-20230606
     docid:
-    - id: W3C WD-vc-jwt-20230601
+    - id: W3C WD-vc-jwt-20230606
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230601
+      content: W3C WD-vc-jwt-20230606
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jwt-20230606
+  number: WD-vc-jwt-20230607
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmlsec-algorithms-20110421
-    docid:
-    - id: W3C WD-xmlsec-algorithms-20110421
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmlsec-algorithms-20110421
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmlsec-algorithms-20090730
     docid:
     - id: W3C WD-xmlsec-algorithms-20090730
@@ -50,13 +40,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmlsec-algorithms-20120105
+    id: W3CWD-xmlsec-algorithms-20110421
     docid:
-    - id: W3C WD-xmlsec-algorithms-20120105
+    - id: W3C WD-xmlsec-algorithms-20110421
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xmlsec-algorithms-20120105
+      content: W3C WD-xmlsec-algorithms-20110421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xmlsec-algorithms-20100513
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlsec-algorithms-20120105
+    docid:
+    - id: W3C WD-xmlsec-algorithms-20120105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-algorithms-20120105
       format: text/plain
 series:
 - title:

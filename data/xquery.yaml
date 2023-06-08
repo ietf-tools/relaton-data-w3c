@@ -43,6 +43,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xquery-20041029
+    docid:
+    - id: W3C WD-xquery-20041029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-20041029
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xquery-20051103
+    docid:
+    - id: W3C CR-xquery-20051103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xquery-20051103
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xquery-20031112
     docid:
     - id: W3C WD-xquery-20031112
@@ -73,16 +93,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xquery-20041029
-    docid:
-    - id: W3C WD-xquery-20041029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-20041029
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-xquery-20061121
     docid:
     - id: W3C PR-xquery-20061121
@@ -90,16 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-xquery-20061121
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-xquery-20051103
-    docid:
-    - id: W3C CR-xquery-20051103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xquery-20051103
       format: text/plain
 series:
 - title:

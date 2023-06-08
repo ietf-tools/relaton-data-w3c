@@ -43,6 +43,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xquery-semantics-20040220
+    docid:
+    - id: W3C WD-xquery-semantics-20040220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-semantics-20040220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xquery-semantics-20051103
+    docid:
+    - id: W3C CR-xquery-semantics-20051103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xquery-semantics-20051103
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xquery-semantics-20031112
     docid:
     - id: W3C WD-xquery-semantics-20031112
@@ -63,16 +83,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xquery-semantics-20040220
-    docid:
-    - id: W3C WD-xquery-semantics-20040220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-semantics-20040220
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-xquery-semantics-20061121
     docid:
     - id: W3C PR-xquery-semantics-20061121
@@ -80,16 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-xquery-semantics-20061121
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-xquery-semantics-20051103
-    docid:
-    - id: W3C CR-xquery-semantics-20051103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xquery-semantics-20051103
       format: text/plain
 series:
 - title:

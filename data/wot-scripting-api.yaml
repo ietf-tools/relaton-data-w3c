@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wot-scripting-api-20191028
-    docid:
-    - id: W3C WD-wot-scripting-api-20191028
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wot-scripting-api-20191028
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wot-scripting-api-20170914
     docid:
     - id: W3C WD-wot-scripting-api-20170914
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-wot-scripting-api-20170914
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-scripting-api-20191028
+    docid:
+    - id: W3C WD-wot-scripting-api-20191028
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-scripting-api-20191028
       format: text/plain
 - type: hasEdition
   bibitem:

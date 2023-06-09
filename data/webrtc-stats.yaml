@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-stats-20141021
-    docid:
-    - id: W3C WD-webrtc-stats-20141021
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-stats-20141021
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-webrtc-stats-20180703
-    docid:
-    - id: W3C CR-webrtc-stats-20180703
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webrtc-stats-20180703
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webrtc-stats-20161214
     docid:
     - id: W3C WD-webrtc-stats-20161214
@@ -60,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webrtc-stats-20161214
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-webrtc-stats-20220517
+    docid:
+    - id: W3C CRD-webrtc-stats-20220517
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webrtc-stats-20220517
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,6 +73,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webrtc-stats-20141021
+    docid:
+    - id: W3C WD-webrtc-stats-20141021
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-stats-20141021
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-webrtc-stats-20180703
+    docid:
+    - id: W3C CR-webrtc-stats-20180703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webrtc-stats-20180703
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-webrtc-stats-20150206
     docid:
     - id: W3C WD-webrtc-stats-20150206
@@ -90,16 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webrtc-stats-20150206
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webrtc-stats-20220517
-    docid:
-    - id: W3C CRD-webrtc-stats-20220517
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webrtc-stats-20220517
       format: text/plain
 series:
 - title:

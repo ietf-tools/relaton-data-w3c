@@ -33,23 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-payment-request-20191212
+    id: W3CWD-payment-request-20161214
     docid:
-    - id: W3C CR-payment-request-20191212
+    - id: W3C WD-payment-request-20161214
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-payment-request-20191212
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-payment-request-20170921
-    docid:
-    - id: W3C CR-payment-request-20170921
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-payment-request-20170921
+      content: W3C WD-payment-request-20161214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-payment-request-20180830
-    docid:
-    - id: W3C CR-payment-request-20180830
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-payment-request-20180830
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-payment-request-20201203
     docid:
     - id: W3C CR-payment-request-20201203
@@ -83,13 +63,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-request-20161214
+    id: W3CCR-payment-request-20170921
     docid:
-    - id: W3C WD-payment-request-20161214
+    - id: W3C CR-payment-request-20170921
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-payment-request-20161214
+      content: W3C CR-payment-request-20170921
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-payment-request-20191212
+    docid:
+    - id: W3C CR-payment-request-20191212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-payment-request-20180830
+    docid:
+    - id: W3C CR-payment-request-20180830
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20180830
       format: text/plain
 series:
 - title:

@@ -19,8 +19,18 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-images-20111206
+    docid:
+    - id: W3C WD-css3-images-20111206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-images-20111206
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-css3-images-20120417
@@ -41,19 +51,9 @@ relation:
     formattedref:
       content: W3C WD-css3-images-20090723
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-images-20111206
-    docid:
-    - id: W3C WD-css3-images-20111206
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-images-20111206
-      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: css3-images
 doctype: technicalReport

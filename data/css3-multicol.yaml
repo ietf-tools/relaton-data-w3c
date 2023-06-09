@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-multicol
 title:
-- content: Multi-column layout in CSS
+- content: 'CSS3 module: Multi-column layout'
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-multicol
@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-multicol-20070606
+    docid:
+    - id: W3C WD-css3-multicol-20070606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-multicol-20070606
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-multicol-20010118
@@ -43,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-multicol-20070606
-    docid:
-    - id: W3C WD-css3-multicol-20070606
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-multicol-20070606
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-multicol-20090630
     docid:
     - id: W3C WD-css3-multicol-20090630
@@ -63,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css3-multicol-20091217
-    docid:
-    - id: W3C CR-css3-multicol-20091217
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-multicol-20091217
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-multicol-20051215
     docid:
     - id: W3C WD-css3-multicol-20051215
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-multicol-20051215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-multicol-20091217
+    docid:
+    - id: W3C CR-css3-multicol-20091217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-multicol-20091217
       format: text/plain
 series:
 - title:

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-UNDERSTANDING-WCAG20-20140916
-    docid:
-    - id: W3C NOTE-UNDERSTANDING-WCAG20-20140916
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-UNDERSTANDING-WCAG20-20140916
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-UNDERSTANDING-WCAG20-20071211
     docid:
     - id: W3C WD-UNDERSTANDING-WCAG20-20071211
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-UNDERSTANDING-WCAG20-20071211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-UNDERSTANDING-WCAG20-20101014
+    docid:
+    - id: W3C NOTE-UNDERSTANDING-WCAG20-20101014
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-UNDERSTANDING-WCAG20-20101014
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,13 +60,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-UNDERSTANDING-WCAG20-20101014
+    id: W3CNOTE-UNDERSTANDING-WCAG20-20140916
     docid:
-    - id: W3C NOTE-UNDERSTANDING-WCAG20-20101014
+    - id: W3C NOTE-UNDERSTANDING-WCAG20-20140916
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-UNDERSTANDING-WCAG20-20101014
+      content: W3C NOTE-UNDERSTANDING-WCAG20-20140916
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UNDERSTANDING-WCAG20-20060427
+    docid:
+    - id: W3C WD-UNDERSTANDING-WCAG20-20060427
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UNDERSTANDING-WCAG20-20060427
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -97,16 +107,6 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-UNDERSTANDING-WCAG20-20130905
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-UNDERSTANDING-WCAG20-20060427
-    docid:
-    - id: W3C WD-UNDERSTANDING-WCAG20-20060427
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UNDERSTANDING-WCAG20-20060427
       format: text/plain
 series:
 - title:

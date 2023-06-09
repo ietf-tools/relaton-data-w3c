@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmldsig-bestpractices-20090730
-    docid:
-    - id: W3C WD-xmldsig-bestpractices-20090730
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmldsig-bestpractices-20090730
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmldsig-bestpractices-20110809
     docid:
     - id: W3C WD-xmldsig-bestpractices-20110809
@@ -50,13 +40,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmldsig-bestpractices-20100831
+    id: W3CWD-xmldsig-bestpractices-20090730
     docid:
-    - id: W3C WD-xmldsig-bestpractices-20100831
+    - id: W3C WD-xmldsig-bestpractices-20090730
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xmldsig-bestpractices-20100831
+      content: W3C WD-xmldsig-bestpractices-20090730
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-xmldsig-bestpractices-20120710
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmldsig-bestpractices-20100831
+    docid:
+    - id: W3C WD-xmldsig-bestpractices-20100831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmldsig-bestpractices-20100831
       format: text/plain
 - type: hasEdition
   bibitem:

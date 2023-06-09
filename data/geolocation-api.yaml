@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-geolocation-API-20090707
-    docid:
-    - id: W3C WD-geolocation-API-20090707
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-geolocation-API-20090707
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-geolocation-API-20100907
     docid:
     - id: W3C CR-geolocation-API-20100907
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-geolocation-API-20100907
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-geolocation-API-20090707
+    docid:
+    - id: W3C WD-geolocation-API-20090707
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geolocation-API-20090707
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -26229,11 +26229,6 @@
     :date: '20230515'
   :file: data/rec-html-aria-20230515.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-rdf12-concepts-20230516.yaml
-- :id:
     :code: rdf12-schema
     :stage: WD
     :date: '20230516'
@@ -26363,11 +26358,6 @@
     :type: NOTE
     :date: '20230519'
   :file: data/note-epub-multi-rend-11-20230519.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230520'
-  :file: data/wd-vc-data-model-2.0-20230520.yaml
 - :id:
     :code: baggage
     :stage: WD
@@ -26579,6 +26569,21 @@
     :date: '20230609'
   :file: data/wd-html-aam-1.0-20230609.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230611'
+  :file: data/wd-vc-data-model-2.0-20230611.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20230612'
+  :file: data/wd-rdf12-concepts-20230612.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230612'
+  :file: data/rec-html-aria-20230612.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26663,9 +26668,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
 - :id:
@@ -26711,9 +26713,6 @@
     :code: sparql12-federated-query
   :file: data/sparql12-federated-query.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -26758,3 +26757,9 @@
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml

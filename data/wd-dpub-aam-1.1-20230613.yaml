@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20230530
+id: W3CWD-dpub-aam-1.1-20230613
 title:
-- content: Verifiable Credentials JSON Schema Specification 2023
+- content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230530/
+- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20230613/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20230530
+- id: W3C WD-dpub-aam-1.1-20230613
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20230530
+docnumber: WD-dpub-aam-1.1-20230613
 date:
 - type: published
-  value: '2023-05-30'
+  value: '2023-06-13'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Orie Steele
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-05-30'
+revdate: '2023-06-13'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20230524
+    id: W3CWD-dpub-aam-1.1-20230308
     docid:
-    - id: W3C WD-vc-json-schema-20230524
+    - id: W3C WD-dpub-aam-1.1-20230308
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20230524
+      content: W3C WD-dpub-aam-1.1-20230308
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-json-schema-20230530
+  number: WD-dpub-aam-1.1-20230613
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

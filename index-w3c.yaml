@@ -1364,8 +1364,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20230605'
-  :file: data/wd-compute-pressure-20230605.yaml
+  :date: '20230613'
+  :file: data/wd-compute-pressure-20230613.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -4872,8 +4872,8 @@
   :file: data/dpub-aam-1.1.yaml
 - :code: dpub-aam-1.1
   :stage: WD
-  :date: '20230308'
-  :file: data/wd-dpub-aam-1.1-20230308.yaml
+  :date: '20230613'
+  :file: data/wd-dpub-aam-1.1-20230613.yaml
 - :code: dpub-aam-1.1
   :stage: WD
   :date: '20211130'
@@ -9270,6 +9270,12 @@
   :type: DNOTE
   :date: '20211202'
   :file: data/dnote-nkoo-gap-20211202.yaml
+- :code: nkoo-lreq
+  :file: data/nkoo-lreq.yaml
+- :code: nkoo-lreq
+  :type: DNOTE
+  :date: '20230613'
+  :file: data/dnote-nkoo-lreq-20230613.yaml
 - :code: nl-spec
   :file: data/nl-spec.yaml
 - :code: nl-spec
@@ -14733,8 +14739,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20230611'
-  :file: data/wd-vc-data-model-2.0-20230611.yaml
+  :date: '20230612'
+  :file: data/wd-vc-data-model-2.0-20230612.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
@@ -14763,8 +14769,8 @@
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: WD
-  :date: '20230530'
-  :file: data/wd-vc-json-schema-20230530.yaml
+  :date: '20230612'
+  :file: data/wd-vc-json-schema-20230612.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml

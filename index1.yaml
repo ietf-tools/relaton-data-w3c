@@ -25914,11 +25914,6 @@
     :date: '20230308'
   :file: data/wd-mediacapture-region-20230308.yaml
 - :id:
-    :code: dpub-aam-1.1
-    :stage: WD
-    :date: '20230308'
-  :file: data/wd-dpub-aam-1.1-20230308.yaml
-- :id:
     :code: epub-aria-authoring-11
     :type: NOTE
     :date: '20230314'
@@ -26444,11 +26439,6 @@
     :date: '20230530'
   :file: data/dnote-latn-nl-gap-20230530.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230530'
-  :file: data/wd-vc-json-schema-20230530.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230531'
@@ -26478,11 +26468,6 @@
     :stage: WD
     :date: '20230605'
   :file: data/wd-web-animations-1-20230605.yaml
-- :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20230605'
-  :file: data/wd-compute-pressure-20230605.yaml
 - :id:
     :code: wai-aria-1.2
     :stage: REC
@@ -26569,11 +26554,6 @@
     :date: '20230609'
   :file: data/wd-html-aam-1.0-20230609.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230611'
-  :file: data/wd-vc-data-model-2.0-20230611.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20230612'
@@ -26583,6 +26563,31 @@
     :stage: REC
     :date: '20230612'
   :file: data/rec-html-aria-20230612.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230612'
+  :file: data/wd-vc-json-schema-20230612.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230612'
+  :file: data/wd-vc-data-model-2.0-20230612.yaml
+- :id:
+    :code: nkoo-lreq
+    :type: DNOTE
+    :date: '20230613'
+  :file: data/dnote-nkoo-lreq-20230613.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20230613'
+  :file: data/wd-compute-pressure-20230613.yaml
+- :id:
+    :code: dpub-aam-1.1
+    :stage: WD
+    :date: '20230613'
+  :file: data/wd-dpub-aam-1.1-20230613.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26722,9 +26727,6 @@
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: css-animations-2
   :file: data/css-animations-2.yaml
 - :id:
@@ -26733,9 +26735,6 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
-- :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
 - :id:
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
@@ -26758,8 +26757,17 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
+    :code: nkoo-lreq
+  :file: data/nkoo-lreq.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

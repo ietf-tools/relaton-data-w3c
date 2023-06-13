@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cnkoo-lreq
+title:
+- content: N'Ko Layout Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/nkoo-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C nkoo-lreq
+  type: W3C
+  primary: true
+docnumber: nkoo-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-nkoo-lreq-20230613
+    docid:
+    - id: W3C DNOTE-nkoo-lreq-20230613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-nkoo-lreq-20230613
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: nkoo-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

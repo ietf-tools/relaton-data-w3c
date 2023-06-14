@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-osge-osa-gap-20230614
+    docid:
+    - id: W3C DNOTE-osge-osa-gap-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-osge-osa-gap-20230614
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-osge-osa-gap-20210524
     docid:
@@ -33,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: osge-osa-gap
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

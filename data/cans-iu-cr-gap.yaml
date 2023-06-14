@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-cans-iu-cr-gap-20230614
+    docid:
+    - id: W3C DNOTE-cans-iu-cr-gap-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-cans-iu-cr-gap-20230614
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-cans-iu-cr-gap-20210521
     docid:
@@ -43,9 +50,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: cans-iu-cr-gap
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

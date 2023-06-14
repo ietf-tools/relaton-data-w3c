@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-IndexedDB-3-20230413
+id: W3CWD-permissions-20230613
 title:
-- content: Indexed Database API 3.0
+- content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-IndexedDB-3-20230413/
+- content: https://www.w3.org/TR/2023/WD-permissions-20230613/
   type: src
-- content: https://w3c.github.io/IndexedDB/
+- content: https://w3c.github.io/permissions/
   type: current
 type: standard
 docid:
-- id: W3C WD-IndexedDB-3-20230413
+- id: W3C WD-permissions-20230613
   type: W3C
   primary: true
-docnumber: WD-IndexedDB-3-20230413
+docnumber: WD-permissions-20230613
 date:
 - type: published
-  value: '2023-04-13'
+  value: '2023-06-13'
 contributor:
 - person:
     name:
       completename:
-        content: Ali Alabbas
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Mike Taylor
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-13'
+revdate: '2023-06-13'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-IndexedDB-3-20230303
+    id: W3CWD-permissions-20221220
     docid:
-    - id: W3C WD-IndexedDB-3-20230303
+    - id: W3C WD-permissions-20221220
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20230303
+      content: W3C WD-permissions-20221220
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IndexedDB-3-20230413
+  number: WD-permissions-20230613
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

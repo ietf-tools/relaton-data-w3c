@@ -25379,26 +25379,6 @@
     :date: '20220712'
   :file: data/note-act-rules-aspects-20220712.yaml
 - :id:
-    :code: adlm-gap
-    :type: DNOTE
-    :date: '20220712'
-  :file: data/dnote-adlm-gap-20220712.yaml
-- :id:
-    :code: arab-ks-gap
-    :type: DNOTE
-    :date: '20220712'
-  :file: data/dnote-arab-ks-gap-20220712.yaml
-- :id:
-    :code: arab-ug-gap
-    :type: DNOTE
-    :date: '20220712'
-  :file: data/dnote-arab-ug-gap-20220712.yaml
-- :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20220713'
-  :file: data/dnote-alreq-gap-20220713.yaml
-- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20220713'
@@ -25643,11 +25623,6 @@
     :stage: WD
     :date: '20221219'
   :file: data/wd-picture-in-picture-20221219.yaml
-- :id:
-    :code: permissions
-    :stage: WD
-    :date: '20221220'
-  :file: data/wd-permissions-20221220.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26003,11 +25978,6 @@
     :stage: WD
     :date: '20230413'
   :file: data/wd-screen-capture-20230413.yaml
-- :id:
-    :code: IndexedDB-3
-    :stage: WD
-    :date: '20230413'
-  :file: data/wd-indexeddb-3-20230413.yaml
 - :id:
     :code: gamepad
     :stage: WD
@@ -26564,11 +26534,6 @@
     :date: '20230612'
   :file: data/rec-html-aria-20230612.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230612'
-  :file: data/wd-vc-json-schema-20230612.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: WD
     :date: '20230612'
@@ -26588,6 +26553,61 @@
     :stage: WD
     :date: '20230613'
   :file: data/wd-dpub-aam-1.1-20230613.yaml
+- :id:
+    :code: permissions
+    :stage: WD
+    :date: '20230613'
+  :file: data/wd-permissions-20230613.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230613'
+  :file: data/wd-vc-json-schema-20230613.yaml
+- :id:
+    :code: IndexedDB-3
+    :stage: WD
+    :date: '20230613'
+  :file: data/wd-indexeddb-3-20230613.yaml
+- :id:
+    :code: adlm-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-adlm-gap-20230614.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-alreq-gap-20230614.yaml
+- :id:
+    :code: arab-ks-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-arab-ks-gap-20230614.yaml
+- :id:
+    :code: arab-ug-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-arab-ug-gap-20230614.yaml
+- :id:
+    :code: cher-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-cher-gap-20230614.yaml
+- :id:
+    :code: cans-iu-cr-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-cans-iu-cr-gap-20230614.yaml
+- :id:
+    :code: osge-osa-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-osge-osa-gap-20230614.yaml
+- :id:
+    :code: elreq-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-elreq-gap-20230614.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26760,9 +26780,6 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
@@ -26771,3 +26788,6 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

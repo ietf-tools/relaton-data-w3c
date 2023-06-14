@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-alreq-gap-20220713
+id: W3CDNOTE-elreq-gap-20230614
 title:
-- content: Arabic and Persian Gap Analysis
+- content: Ethiopic Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/DNOTE-alreq-gap-20220713/
+- content: https://www.w3.org/TR/2023/DNOTE-elreq-gap-20230614/
   type: src
-- content: https://w3c.github.io/alreq/gap-analysis/
+- content: https://w3c.github.io/elreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-alreq-gap-20220713
+- id: W3C DNOTE-elreq-gap-20230614
   type: W3C
   primary: true
-docnumber: DNOTE-alreq-gap-20220713
+docnumber: DNOTE-elreq-gap-20230614
 date:
 - type: published
-  value: '2022-07-13'
+  value: '2023-06-14'
 contributor:
 - person:
     name:
@@ -29,17 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Shervin Afshar
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2022-07-13'
+revdate: '2023-06-14'
 language:
 - en
 script:
@@ -47,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-alreq-gap-20211125
+    id: W3CWD-elreq-gap-20210524
     docid:
-    - id: W3C DNOTE-alreq-gap-20211125
+    - id: W3C WD-elreq-gap-20210524
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-alreq-gap-20211125
+      content: W3C WD-elreq-gap-20210524
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-alreq-gap-20220713
+  number: DNOTE-elreq-gap-20230614
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

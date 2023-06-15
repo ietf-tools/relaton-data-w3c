@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-fonts-20111004
-    docid:
-    - id: W3C WD-css3-fonts-20111004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-fonts-20111004
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-fonts-20090618
     docid:
     - id: W3C WD-css3-fonts-20090618
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-fonts-20090618
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-fonts-20111004
+    docid:
+    - id: W3C WD-css3-fonts-20111004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-fonts-20111004
       format: text/plain
 - type: instance
   bibitem:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-nkoo-gap-20230608
+id: W3CDNOTE-beng-gap-20230614
 title:
-- content: N’Ko Gap Analysis
+- content: Bengali Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/
+- content: https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/
   type: src
-- content: https://w3c.github.io/afrlreq/gap-analysis/nkoo-gap
+- content: https://w3c.github.io/iip/gap-analysis/beng-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-nkoo-gap-20230608
+- id: W3C DNOTE-beng-gap-20230614
   type: W3C
   primary: true
-docnumber: DNOTE-nkoo-gap-20230608
+docnumber: DNOTE-beng-gap-20230614
 date:
 - type: published
-  value: '2023-06-08'
+  value: '2023-06-14'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-08'
+revdate: '2023-06-14'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-nkoo-gap-20220712
+    id: W3CDNOTE-beng-gap-20211215
     docid:
-    - id: W3C DNOTE-nkoo-gap-20220712
+    - id: W3C DNOTE-beng-gap-20211215
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-nkoo-gap-20220712
+      content: W3C DNOTE-beng-gap-20211215
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-nkoo-gap-20230608
+  number: DNOTE-beng-gap-20230614
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-thai-gap-20220119
+    id: W3CDNOTE-thai-gap-20230615
     docid:
-    - id: W3C DNOTE-thai-gap-20220119
+    - id: W3C DNOTE-thai-gap-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-thai-gap-20220119
+      content: W3C DNOTE-thai-gap-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-thai-gap-20200616
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-thai-gap-20220119
+    docid:
+    - id: W3C DNOTE-thai-gap-20220119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-thai-gap-20220119
       format: text/plain
 series:
 - title:

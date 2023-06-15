@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-sparql11-service-description-20110512
-    docid:
-    - id: W3C WD-sparql11-service-description-20110512
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-sparql11-service-description-20110512
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-sparql11-service-description-20091022
     docid:
     - id: W3C WD-sparql11-service-description-20091022
@@ -53,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-sparql11-service-description-20121108
+    id: W3CWD-sparql11-service-description-20110512
     docid:
-    - id: W3C PR-sparql11-service-description-20121108
+    - id: W3C WD-sparql11-service-description-20110512
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-sparql11-service-description-20121108
+      content: W3C WD-sparql11-service-description-20110512
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-sparql11-service-description-20101014
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-sparql11-service-description-20121108
+    docid:
+    - id: W3C PR-sparql11-service-description-20121108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-sparql11-service-description-20121108
       format: text/plain
 series:
 - title:

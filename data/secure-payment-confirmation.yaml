@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-secure-payment-confirmation-20230530
+    id: W3CCR-secure-payment-confirmation-20230615
     docid:
-    - id: W3C WD-secure-payment-confirmation-20230530
+    - id: W3C CR-secure-payment-confirmation-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-secure-payment-confirmation-20230530
+      content: W3C CR-secure-payment-confirmation-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -43,7 +43,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: secure-payment-confirmation
 doctype: technicalReport

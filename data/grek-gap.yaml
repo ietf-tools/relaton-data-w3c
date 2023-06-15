@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-grek-gap-20220316
+    id: W3CDNOTE-grek-gap-20230614
     docid:
-    - id: W3C DNOTE-grek-gap-20220316
+    - id: W3C DNOTE-grek-gap-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-grek-gap-20220316
+      content: W3C DNOTE-grek-gap-20230614
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-grek-gap-20200715
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-grek-gap-20220316
+    docid:
+    - id: W3C DNOTE-grek-gap-20220316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-grek-gap-20220316
       format: text/plain
 series:
 - title:

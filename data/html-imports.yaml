@@ -17,19 +17,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-html-imports-20160225
+    id: W3CDISC-html-imports-20230615
     docid:
-    - id: W3C WD-html-imports-20160225
+    - id: W3C DISC-html-imports-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-imports-20160225
+      content: W3C DISC-html-imports-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -43,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-html-imports-20160225
+    docid:
+    - id: W3C WD-html-imports-20160225
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-imports-20160225
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-html-imports-20130514
     docid:
     - id: W3C WD-html-imports-20130514
@@ -53,7 +60,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: html-imports
 doctype: technicalReport

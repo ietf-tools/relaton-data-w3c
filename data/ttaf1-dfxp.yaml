@@ -20,38 +20,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CCR-ttaf1-dfxp-20061116
-    docid:
-    - id: W3C CR-ttaf1-dfxp-20061116
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ttaf1-dfxp-20061116
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CREC-ttaf1-dfxp-20101118
-    docid:
-    - id: W3C REC-ttaf1-dfxp-20101118
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-ttaf1-dfxp-20101118
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-ttaf1-dfxp-20090924
-    docid:
-    - id: W3C CR-ttaf1-dfxp-20090924
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ttaf1-dfxp-20090924
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-ttaf1-dfxp-20041101
@@ -72,9 +42,39 @@ relation:
     formattedref:
       content: W3C WD-ttaf1-dfxp-20050321
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ttaf1-dfxp-20061116
+    docid:
+    - id: W3C CR-ttaf1-dfxp-20061116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttaf1-dfxp-20061116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ttaf1-dfxp-20090924
+    docid:
+    - id: W3C CR-ttaf1-dfxp-20090924
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttaf1-dfxp-20090924
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-ttaf1-dfxp-20101118
+    docid:
+    - id: W3C REC-ttaf1-dfxp-20101118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-ttaf1-dfxp-20101118
+      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: ttaf1-dfxp
 doctype: technicalReport

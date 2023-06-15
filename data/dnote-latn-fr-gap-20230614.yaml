@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-latn-fr-gap-20230614
+title:
+- content: French Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-latn-fr-gap-20230614/
+  type: src
+- content: https://w3c.github.io/eurlreq/gap-analysis/latn-fr-gap
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-latn-fr-gap-20230614
+  type: W3C
+  primary: true
+docnumber: DNOTE-latn-fr-gap-20230614
+date:
+- type: published
+  value: '2023-06-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-14'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-latn-fr-gap-20220119
+    docid:
+    - id: W3C DNOTE-latn-fr-gap-20220119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-latn-fr-gap-20220119
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-latn-fr-gap-20230614
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

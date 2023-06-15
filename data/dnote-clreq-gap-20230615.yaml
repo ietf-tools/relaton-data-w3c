@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-CSP3-20230503
+id: W3CDNOTE-clreq-gap-20230615
 title:
-- content: Content Security Policy Level 3
+- content: Chinese Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-CSP3-20230503/
+- content: https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/
   type: src
-- content: https://w3c.github.io/webappsec-csp/
+- content: https://w3c.github.io/clreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20230503
+- id: W3C DNOTE-clreq-gap-20230615
   type: W3C
   primary: true
-docnumber: WD-CSP3-20230503
+docnumber: DNOTE-clreq-gap-20230615
 date:
 - type: published
-  value: '2023-05-03'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
       completename:
-        content: Antonio Sartori
+        content: Fuqiao Xue
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike West
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-03'
+revdate: '2023-06-15'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-CSP3-20230428
+    id: W3CDNOTE-clreq-gap-20220923
     docid:
-    - id: W3C WD-CSP3-20230428
+    - id: W3C DNOTE-clreq-gap-20220923
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20230428
+      content: W3C DNOTE-clreq-gap-20220923
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-CSP3-20230503
-doctype: technicalReport
+  number: DNOTE-clreq-gap-20230615
+doctype: groupNote
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

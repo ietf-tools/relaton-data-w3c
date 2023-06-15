@@ -20,23 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-nkoo-gap-20230608
+    id: W3CDNOTE-nkoo-gap-20230615
     docid:
-    - id: W3C DNOTE-nkoo-gap-20230608
+    - id: W3C DNOTE-nkoo-gap-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-nkoo-gap-20230608
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-nkoo-gap-20220128
-    docid:
-    - id: W3C DNOTE-nkoo-gap-20220128
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-nkoo-gap-20220128
+      content: W3C DNOTE-nkoo-gap-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-nkoo-gap-20211202
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-nkoo-gap-20220128
+    docid:
+    - id: W3C DNOTE-nkoo-gap-20220128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-nkoo-gap-20220128
       format: text/plain
 series:
 - title:

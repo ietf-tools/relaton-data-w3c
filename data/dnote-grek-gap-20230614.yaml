@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-latn-nl-gap-20230530
+id: W3CDNOTE-grek-gap-20230614
 title:
-- content: Dutch Gap Analysis
+- content: Modern Greek Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-latn-nl-gap-20230530/
+- content: https://www.w3.org/TR/2023/DNOTE-grek-gap-20230614/
   type: src
-- content: https://w3c.github.io/eurlreq/gap-analysis/latn-nl-gap
+- content: https://w3c.github.io/eurlreq/gap-analysis/grek-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-latn-nl-gap-20230530
+- id: W3C DNOTE-grek-gap-20230614
   type: W3C
   primary: true
-docnumber: DNOTE-latn-nl-gap-20230530
+docnumber: DNOTE-grek-gap-20230614
 date:
 - type: published
-  value: '2023-05-30'
+  value: '2023-06-14'
 contributor:
-- person:
-    name:
-      completename:
-        content: Bert Bos
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-30'
+revdate: '2023-06-14'
 language:
 - en
 script:
@@ -47,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-latn-nl-gap-20220126
+    id: W3CDNOTE-grek-gap-20220316
     docid:
-    - id: W3C DNOTE-latn-nl-gap-20220126
+    - id: W3C DNOTE-grek-gap-20220316
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-latn-nl-gap-20220126
+      content: W3C DNOTE-grek-gap-20220316
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-latn-nl-gap-20230530
+  number: DNOTE-grek-gap-20230614
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

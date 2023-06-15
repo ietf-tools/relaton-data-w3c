@@ -23,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webgpu-20230606
+    id: W3CWD-webgpu-20230614
     docid:
-    - id: W3C WD-webgpu-20230606
+    - id: W3C WD-webgpu-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230606
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webgpu-20220527
-    docid:
-    - id: W3C WD-webgpu-20220527
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webgpu-20220527
+      content: W3C WD-webgpu-20230614
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webgpu-20211230
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webgpu-20220527
+    docid:
+    - id: W3C WD-webgpu-20220527
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webgpu-20220527
       format: text/plain
 series:
 - title:

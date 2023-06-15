@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.3
+id: W3CWD-rdf-canon-20230614
+title:
+- content: RDF Dataset Canonicalization
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230614/
+  type: src
+- content: https://w3c.github.io/rdf-canon/spec/
+  type: current
+type: standard
+docid:
+- id: W3C WD-rdf-canon-20230614
+  type: W3C
+  primary: true
+docnumber: WD-rdf-canon-20230614
+date:
+- type: published
+  value: '2023-06-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dan Yamamoto
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-14'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf-canon-20230609
+    docid:
+    - id: W3C WD-rdf-canon-20230609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-canon-20230609
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdf-canon-20230614
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

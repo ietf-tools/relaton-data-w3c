@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-window-management-20230606
+id: W3CDNOTE-guru-gap-20230614
 title:
-- content: Window Management
+- content: Gurmukhi Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-window-management-20230606/
+- content: https://www.w3.org/TR/2023/DNOTE-guru-gap-20230614/
   type: src
-- content: https://w3c.github.io/window-management/
+- content: https://w3c.github.io/iip/gap-analysis/guru-gap
   type: current
 type: standard
 docid:
-- id: W3C WD-window-management-20230606
+- id: W3C DNOTE-guru-gap-20230614
   type: W3C
   primary: true
-docnumber: WD-window-management-20230606
+docnumber: DNOTE-guru-gap-20230614
 date:
 - type: published
-  value: '2023-06-06'
+  value: '2023-06-14'
 contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Akshat Joshi
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike Wasserman
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-06'
+revdate: '2023-06-14'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-window-management-20230405
+    id: W3CWD-guru-gap-20210525
     docid:
-    - id: W3C WD-window-management-20230405
+    - id: W3C WD-guru-gap-20210525
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-window-management-20230405
+      content: W3C WD-guru-gap-20210525
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-window-management-20230606
-doctype: technicalReport
+  number: DNOTE-guru-gap-20230614
+doctype: groupNote
 editorialgroup:
-- name: Second Screen Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

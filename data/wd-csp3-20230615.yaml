@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20230609
+id: W3CWD-CSP3-20230615
 title:
-- content: RDF Dataset Canonicalization
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230609/
+- content: https://www.w3.org/TR/2023/WD-CSP3-20230615/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230609
+- id: W3C WD-CSP3-20230615
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230609
+docnumber: WD-CSP3-20230615
 date:
 - type: published
-  value: '2023-06-09'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-06-09'
+revdate: '2023-06-15'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230607
+    id: W3CWD-CSP3-20230503
     docid:
-    - id: W3C WD-rdf-canon-20230607
+    - id: W3C WD-CSP3-20230503
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230607
+      content: W3C WD-CSP3-20230503
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf-canon-20230609
+  number: WD-CSP3-20230615
 doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

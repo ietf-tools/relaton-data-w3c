@@ -21,15 +21,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-cssom-view-20110804
+    id: W3CWD-cssom-view-20131217
     docid:
-    - id: W3C WD-cssom-view-20110804
+    - id: W3C WD-cssom-view-20131217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-cssom-view-20110804
+      content: W3C WD-cssom-view-20131217
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -41,15 +41,15 @@ relation:
     formattedref:
       content: W3C WD-cssom-view-20090804
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-cssom-view-20131217
+    id: W3CWD-cssom-view-20110804
     docid:
-    - id: W3C WD-cssom-view-20131217
+    - id: W3C WD-cssom-view-20110804
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-cssom-view-20131217
+      content: W3C WD-cssom-view-20110804
       format: text/plain
 - type: hasEdition
   bibitem:

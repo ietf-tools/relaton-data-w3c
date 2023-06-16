@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-semantics-20230606
+id: W3CWD-vc-jwt-20230615
 title:
-- content: RDF 1.2 Semantics
+- content: Securing Verifiable Credentials using JSON Web Tokens
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/
+- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230615/
   type: src
-- content: https://w3c.github.io/rdf-semantics/spec/
+- content: https://w3c.github.io/vc-jwt/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-semantics-20230606
+- id: W3C WD-vc-jwt-20230615
   type: W3C
   primary: true
-docnumber: WD-rdf12-semantics-20230606
+docnumber: WD-vc-jwt-20230615
 date:
 - type: published
-  value: '2023-06-06'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
       completename:
-        content: Dörthe Arndt
+        content: Michael Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Patel-Schneider
+        content: Michael Prorock
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Timothée Haudebourg
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-06'
+revdate: '2023-06-15'
 language:
 - en
 script:
@@ -57,11 +57,24 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-vc-jwt-20230614
+    docid:
+    - id: W3C WD-vc-jwt-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-jwt-20230614
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-semantics-20230606
+  number: WD-vc-jwt-20230615
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

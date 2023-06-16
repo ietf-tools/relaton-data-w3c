@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jwt-20230614
+id: W3CWD-rdf12-concepts-20230615
 title:
-- content: Securing Verifiable Credentials using JSON Web Tokens
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230614/
+- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230615/
   type: src
-- content: https://w3c.github.io/vc-jwt/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jwt-20230614
+- id: W3C WD-rdf12-concepts-20230615
   type: W3C
   primary: true
-docnumber: WD-vc-jwt-20230614
+docnumber: WD-rdf12-concepts-20230615
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Olaf Hartig
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Pierre-Antoine Champin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2023-06-15'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jwt-20230607
+    id: W3CWD-rdf12-concepts-20230612
     docid:
-    - id: W3C WD-vc-jwt-20230607
+    - id: W3C WD-rdf12-concepts-20230612
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230607
+      content: W3C WD-rdf12-concepts-20230612
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jwt-20230614
+  number: WD-rdf12-concepts-20230615
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

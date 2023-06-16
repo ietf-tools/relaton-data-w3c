@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-turtle-20230516
+id: W3CWD-rdf12-n-triples-20230615
 title:
-- content: RDF 1.2 Turtle
+- content: RDF 1.2 N-Triples
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/
+- content: https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230615/
   type: src
-- content: https://w3c.github.io/rdf-turtle/spec/
+- content: https://w3c.github.io/rdf-n-triples/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-turtle-20230516
+- id: W3C WD-rdf12-n-triples-20230615
   type: W3C
   primary: true
-docnumber: WD-rdf12-turtle-20230516
+docnumber: WD-rdf12-n-triples-20230615
 date:
 - type: published
-  value: '2023-05-16'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-16'
+revdate: '2023-06-15'
 language:
 - en
 script:
@@ -47,11 +47,22 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf12-n-triples-20230516
+    docid:
+    - id: W3C WD-rdf12-n-triples-20230516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-n-triples-20230516
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-turtle-20230516
+  number: WD-rdf12-n-triples-20230615
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20230612
+id: W3CWD-rdf12-semantics-20230615
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: RDF 1.2 Semantics
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230612/
+- content: https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/rdf-semantics/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20230612
+- id: W3C WD-rdf12-semantics-20230615
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20230612
+docnumber: WD-rdf12-semantics-20230615
 date:
 - type: published
-  value: '2023-06-12'
+  value: '2023-06-15'
 contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Dörthe Arndt
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Peter Patel-Schneider
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Pierre-Antoine Champin
+        content: Timothée Haudebourg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-12'
+revdate: '2023-06-15'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20230516
+    id: W3CWD-rdf12-semantics-20230606
     docid:
-    - id: W3C WD-rdf12-concepts-20230516
+    - id: W3C WD-rdf12-semantics-20230606
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20230516
+      content: W3C WD-rdf12-semantics-20230606
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20230612
+  number: WD-rdf12-semantics-20230615
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -26179,51 +26179,6 @@
     :date: '20230516'
   :file: data/wd-rdf12-trig-20230516.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-query-20230516.yaml
-- :id:
-    :code: sparql12-graph-store-protocol
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-graph-store-protocol-20230516.yaml
-- :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-results-json-20230516.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-results-csv-tsv-20230516.yaml
-- :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-results-xml-20230516.yaml
-- :id:
-    :code: sparql12-service-description
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-service-description-20230516.yaml
-- :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-update-20230516.yaml
-- :id:
-    :code: sparql12-protocol
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-protocol-20230516.yaml
-- :id:
-    :code: sparql12-federated-query
-    :stage: WD
-    :date: '20230516'
-  :file: data/wd-sparql12-federated-query-20230516.yaml
-- :id:
     :code: clipboard-apis
     :stage: WD
     :date: '20230516'
@@ -26368,11 +26323,6 @@
     :stage: WD
     :date: '20230602'
   :file: data/wd-css-animations-2-20230602.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230603'
-  :file: data/wd-vc-di-ecdsa-20230603.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: WD
@@ -26589,11 +26539,6 @@
     :date: '20230615'
   :file: data/wd-csp3-20230615.yaml
 - :id:
-    :code: jpan-gap
-    :type: DNOTE
-    :date: '20230615'
-  :file: data/dnote-jpan-gap-20230615.yaml
-- :id:
     :code: laoo-gap
     :type: DNOTE
     :date: '20230615'
@@ -26689,6 +26634,61 @@
     :date: '20230616'
   :file: data/dnote-adlm-gap-20230616.yaml
 - :id:
+    :code: sparql12-federated-query
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-federated-query-20230616.yaml
+- :id:
+    :code: sparql12-protocol
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-protocol-20230616.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-query-20230616.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-results-csv-tsv-20230616.yaml
+- :id:
+    :code: sparql12-graph-store-protocol
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-results-json-20230616.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-results-xml-20230616.yaml
+- :id:
+    :code: sparql12-service-description
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-service-description-20230616.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-update-20230616.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-vc-di-ecdsa-20230616.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20230617'
+  :file: data/dnote-jpan-gap-20230617.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26776,33 +26776,6 @@
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
-    :code: sparql12-graph-store-protocol
-  :file: data/sparql12-graph-store-protocol.yaml
-- :id:
-    :code: sparql12-results-json
-  :file: data/sparql12-results-json.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-  :file: data/sparql12-results-csv-tsv.yaml
-- :id:
-    :code: sparql12-results-xml
-  :file: data/sparql12-results-xml.yaml
-- :id:
-    :code: sparql12-service-description
-  :file: data/sparql12-service-description.yaml
-- :id:
-    :code: sparql12-update
-  :file: data/sparql12-update.yaml
-- :id:
-    :code: sparql12-protocol
-  :file: data/sparql12-protocol.yaml
-- :id:
-    :code: sparql12-federated-query
-  :file: data/sparql12-federated-query.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -26814,9 +26787,6 @@
 - :id:
     :code: css-animations-2
   :file: data/css-animations-2.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
@@ -26871,3 +26841,33 @@
 - :id:
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
+- :id:
+    :code: sparql12-federated-query
+  :file: data/sparql12-federated-query.yaml
+- :id:
+    :code: sparql12-protocol
+  :file: data/sparql12-protocol.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+  :file: data/sparql12-results-csv-tsv.yaml
+- :id:
+    :code: sparql12-graph-store-protocol
+  :file: data/sparql12-graph-store-protocol.yaml
+- :id:
+    :code: sparql12-results-json
+  :file: data/sparql12-results-json.yaml
+- :id:
+    :code: sparql12-results-xml
+  :file: data/sparql12-results-xml.yaml
+- :id:
+    :code: sparql12-service-description
+  :file: data/sparql12-service-description.yaml
+- :id:
+    :code: sparql12-update
+  :file: data/sparql12-update.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20230603
+id: W3CWD-sparql12-federated-query-20230616
 title:
-- content: ECDSA Cryptosuite v2019
+- content: SPARQL 1.2 Federated Query
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230603/
+- content: https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230616/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/sparql-federated-query/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20230603
+- id: W3C WD-sparql12-federated-query-20230616
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20230603
+docnumber: WD-sparql12-federated-query-20230616
 date:
 - type: published
-  value: '2023-06-03'
+  value: '2023-06-16'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Gregory Williams
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Reed
+        content: Ruben Taelman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-03'
+revdate: '2023-06-16'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20230518
+    id: W3CWD-sparql12-federated-query-20230516
     docid:
-    - id: W3C WD-vc-di-ecdsa-20230518
+    - id: W3C WD-sparql12-federated-query-20230516
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20230518
+      content: W3C WD-sparql12-federated-query-20230516
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-ecdsa-20230603
+  number: WD-sparql12-federated-query-20230616
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

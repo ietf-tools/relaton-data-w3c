@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-jpan-gap-20230615
+id: W3CDNOTE-jpan-gap-20230617
 title:
 - content: Japanese Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230615/
+- content: https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230617/
   type: src
 - content: https://w3c.github.io/jlreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-jpan-gap-20230615
+- id: W3C DNOTE-jpan-gap-20230617
   type: W3C
   primary: true
-docnumber: DNOTE-jpan-gap-20230615
+docnumber: DNOTE-jpan-gap-20230617
 date:
 - type: published
-  value: '2023-06-15'
+  value: '2023-06-17'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-15'
+revdate: '2023-06-17'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-jpan-gap-20220923
+    id: W3CDNOTE-jpan-gap-20230615
     docid:
-    - id: W3C DNOTE-jpan-gap-20220923
+    - id: W3C DNOTE-jpan-gap-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-jpan-gap-20220923
+      content: W3C DNOTE-jpan-gap-20230615
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-jpan-gap-20230615
+  number: DNOTE-jpan-gap-20230617
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

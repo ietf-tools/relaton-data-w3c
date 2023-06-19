@@ -26059,11 +26059,6 @@
     :date: '20230504'
   :file: data/wd-screen-orientation-20230504.yaml
 - :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20230504'
-  :file: data/crd-mediacapture-streams-20230504.yaml
-- :id:
     :code: audio-output
     :stage: CRD
     :date: '20230504'
@@ -26688,6 +26683,11 @@
     :stage: WD
     :date: '20230617'
   :file: data/wd-vc-data-model-2.0-20230617.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20230619'
+  :file: data/crd-mediacapture-streams-20230619.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

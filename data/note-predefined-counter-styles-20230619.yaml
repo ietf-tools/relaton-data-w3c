@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-predefined-counter-styles-20230619
+title:
+- content: Ready-made Counter Styles
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/NOTE-predefined-counter-styles-20230619/
+  type: src
+- content: https://w3c.github.io/predefined-counter-styles/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-predefined-counter-styles-20230619
+  type: W3C
+  primary: true
+docnumber: NOTE-predefined-counter-styles-20230619
+date:
+- type: published
+  value: '2023-06-19'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-19'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-predefined-counter-styles-20210609
+    docid:
+    - id: W3C NOTE-predefined-counter-styles-20210609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-predefined-counter-styles-20210609
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-predefined-counter-styles-20230619
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

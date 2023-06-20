@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aria-1.1-20230515
+id: W3CWD-dapt-20230619
 title:
-- content: Digital Publishing WAI-ARIA Module 1.1
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230515/
+- content: https://www.w3.org/TR/2023/WD-dapt-20230619/
   type: src
-- content: https://w3c.github.io/dpub-aria/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20230515
+- id: W3C WD-dapt-20230619
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20230515
+docnumber: WD-dapt-20230619
 date:
 - type: published
-  value: '2023-05-15'
+  value: '2023-06-19'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-15'
+revdate: '2023-06-19'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20230222
+    id: W3CWD-dapt-20230606
     docid:
-    - id: W3C WD-dpub-aria-1.1-20230222
+    - id: W3C WD-dapt-20230606
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aria-1.1-20230222
+      content: W3C WD-dapt-20230606
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aria-1.1-20230515
+  number: WD-dapt-20230619
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

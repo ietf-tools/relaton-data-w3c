@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CNOTE-predefined-counter-styles-20210609
+    id: W3CNOTE-predefined-counter-styles-20230619
     docid:
-    - id: W3C NOTE-predefined-counter-styles-20210609
+    - id: W3C NOTE-predefined-counter-styles-20230619
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-predefined-counter-styles-20210609
+      content: W3C NOTE-predefined-counter-styles-20230619
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-predefined-counter-styles-20170216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-predefined-counter-styles-20210609
+    docid:
+    - id: W3C NOTE-predefined-counter-styles-20210609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-predefined-counter-styles-20210609
       format: text/plain
 - type: hasEdition
   bibitem:

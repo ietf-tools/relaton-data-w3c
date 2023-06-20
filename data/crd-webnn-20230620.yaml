@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20230614
+id: W3CCRD-webnn-20230620
 title:
-- content: RDF Dataset Canonicalization
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230614/
+- content: https://www.w3.org/TR/2023/CRD-webnn-20230620/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230614
+- id: W3C CRD-webnn-20230620
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230614
+docnumber: CRD-webnn-20230620
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-06-20'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Chai Chaoweeraprasit
         language:
         - en
         script:
@@ -32,47 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-06-14'
+revdate: '2023-06-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230609
+    id: W3CCRD-webnn-20230606
     docid:
-    - id: W3C WD-rdf-canon-20230609
+    - id: W3C CRD-webnn-20230606
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230609
+      content: W3C CRD-webnn-20230606
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-rdf-canon-20230614
+  number: CRD-webnn-20230620
 doctype: technicalReport
+editorialgroup:
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

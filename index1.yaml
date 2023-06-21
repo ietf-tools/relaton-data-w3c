@@ -26484,11 +26484,6 @@
     :date: '20230614'
   :file: data/wd-window-management-20230614.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20230614'
-  :file: data/wd-webgpu-20230614.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20230615'
@@ -26523,11 +26518,6 @@
     :type: DNOTE
     :date: '20230615'
   :file: data/dnote-nkoo-gap-20230615.yaml
-- :id:
-    :code: secure-payment-confirmation
-    :stage: CR
-    :date: '20230615'
-  :file: data/cr-secure-payment-confirmation-20230615.yaml
 - :id:
     :code: webrtc-stats
     :stage: CRD
@@ -26659,11 +26649,6 @@
     :date: '20230619'
   :file: data/crd-mediacapture-streams-20230619.yaml
 - :id:
-    :code: predefined-counter-styles
-    :type: NOTE
-    :date: '20230619'
-  :file: data/note-predefined-counter-styles-20230619.yaml
-- :id:
     :code: rdf-canon
     :stage: WD
     :date: '20230619'
@@ -26693,6 +26678,21 @@
     :stage: WD
     :date: '20230620'
   :file: data/wd-dpub-aria-1.1-20230620.yaml
+- :id:
+    :code: predefined-counter-styles
+    :type: NOTE
+    :date: '20230620'
+  :file: data/note-predefined-counter-styles-20230620.yaml
+- :id:
+    :code: secure-payment-confirmation
+    :stage: CRD
+    :date: '20230621'
+  :file: data/crd-secure-payment-confirmation-20230621.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20230621'
+  :file: data/wd-webgpu-20230621.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

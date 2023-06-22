@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-service-workers-20141118
-    docid:
-    - id: W3C WD-service-workers-20141118
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-service-workers-20141118
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-service-workers-20150625
     docid:
     - id: W3C WD-service-workers-20150625
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-service-workers-20150625
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-service-workers-20141118
+    docid:
+    - id: W3C WD-service-workers-20141118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-service-workers-20141118
       format: text/plain
 series:
 - title:

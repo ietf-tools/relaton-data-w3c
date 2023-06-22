@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-imsc-hrm-20230620
+id: W3CCR-imsc-hrm-20230622
 title:
 - content: IMSC Hypothetical Render Model
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-imsc-hrm-20230620/
+- content: https://www.w3.org/TR/2023/CR-imsc-hrm-20230622/
   type: src
 - content: https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html
   type: current
 type: standard
 docid:
-- id: W3C WD-imsc-hrm-20230620
+- id: W3C CR-imsc-hrm-20230622
   type: W3C
   primary: true
-docnumber: WD-imsc-hrm-20230620
+docnumber: CR-imsc-hrm-20230622
 date:
 - type: published
-  value: '2023-06-20'
+  value: '2023-06-22'
 contributor:
 - person:
     name:
@@ -29,30 +29,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-20'
+revdate: '2023-06-22'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-imsc-hrm-20230619
+    id: W3CWD-imsc-hrm-20230620
     docid:
-    - id: W3C WD-imsc-hrm-20230619
+    - id: W3C WD-imsc-hrm-20230620
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-imsc-hrm-20230619
+      content: W3C WD-imsc-hrm-20230620
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-imsc-hrm-20230620
+  number: CR-imsc-hrm-20230622
 doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

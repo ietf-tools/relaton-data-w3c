@@ -50,16 +50,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xpath-full-text-10-use-cases-20100128
-    docid:
-    - id: W3C WD-xpath-full-text-10-use-cases-20100128
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xpath-full-text-10-use-cases-20100128
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xpath-full-text-10-use-cases-20080516
     docid:
     - id: W3C WD-xpath-full-text-10-use-cases-20080516
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xpath-full-text-10-use-cases-20080516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-full-text-10-use-cases-20100128
+    docid:
+    - id: W3C WD-xpath-full-text-10-use-cases-20100128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-full-text-10-use-cases-20100128
       format: text/plain
 series:
 - title:

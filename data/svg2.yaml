@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-SVG2-20150915
+    docid:
+    - id: W3C WD-SVG2-20150915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVG2-20150915
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-SVG2-20140211
     docid:
     - id: W3C WD-SVG2-20140211
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-SVG2-20160915
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-SVG2-20150915
-    docid:
-    - id: W3C WD-SVG2-20150915
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-SVG2-20150915
       format: text/plain
 - type: hasEdition
   bibitem:

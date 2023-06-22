@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-layout
 title:
-- content: CSS Template Layout Module
+- content: CSS Advanced Layout Module
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-layout/
+- content: http://www.w3.org/TR/css3-layout
   type: src
 type: standard
 docid:
@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-layout-20070809
+    docid:
+    - id: W3C WD-css3-layout-20070809
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-layout-20070809
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-layout-20111129
@@ -33,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-layout-20070809
+    id: W3CWD-css3-layout-20100429
     docid:
-    - id: W3C WD-css3-layout-20070809
+    - id: W3C WD-css3-layout-20100429
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-layout-20070809
+      content: W3C WD-css3-layout-20100429
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-layout-20090402
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-layout-20100429
-    docid:
-    - id: W3C WD-css3-layout-20100429
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-layout-20100429
       format: text/plain
 - type: hasEdition
   bibitem:

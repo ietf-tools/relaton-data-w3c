@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-text
 title:
-- content: CSS3 Text Module
+- content: CSS Text Level 3
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-text
@@ -19,28 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-text-20030514
-    docid:
-    - id: W3C CR-css3-text-20030514
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-text-20030514
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20050627
-    docid:
-    - id: W3C WD-css3-text-20050627
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20050627
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-text-20070306
@@ -50,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-text-20070306
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-text-20030514
+    docid:
+    - id: W3C CR-css3-text-20030514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-text-20030514
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -71,16 +61,6 @@ relation:
     formattedref:
       content: W3C WD-css3-text-20110901
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20101005
-    docid:
-    - id: W3C WD-css3-text-20101005
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20101005
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-text-20121113
@@ -91,9 +71,29 @@ relation:
     formattedref:
       content: W3C WD-css3-text-20121113
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20050627
+    docid:
+    - id: W3C WD-css3-text-20050627
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20050627
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20101005
+    docid:
+    - id: W3C WD-css3-text-20101005
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20101005
+      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: css3-text
 doctype: technicalReport

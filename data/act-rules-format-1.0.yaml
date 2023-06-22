@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-act-rules-format-1.0-20170912
-    docid:
-    - id: W3C WD-act-rules-format-1.0-20170912
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-act-rules-format-1.0-20170912
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-act-rules-format-1.0-20180705
     docid:
     - id: W3C WD-act-rules-format-1.0-20180705
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-act-rules-format-1.0-20180705
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-act-rules-format-1.0-20170912
+    docid:
+    - id: W3C WD-act-rules-format-1.0-20170912
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-act-rules-format-1.0-20170912
       format: text/plain
 series:
 - title:

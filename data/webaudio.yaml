@@ -33,13 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webaudio-20131010
+    id: W3CWD-webaudio-20151208
     docid:
-    - id: W3C WD-webaudio-20131010
+    - id: W3C WD-webaudio-20151208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webaudio-20131010
+      content: W3C WD-webaudio-20151208
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-webaudio-20200611
+    docid:
+    - id: W3C CR-webaudio-20200611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webaudio-20200611
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webaudio-20151208
+    id: W3CWD-webaudio-20131010
     docid:
-    - id: W3C WD-webaudio-20151208
+    - id: W3C WD-webaudio-20131010
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webaudio-20151208
+      content: W3C WD-webaudio-20131010
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webaudio-20111215
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-webaudio-20200611
-    docid:
-    - id: W3C CR-webaudio-20200611
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webaudio-20200611
       format: text/plain
 - type: hasEdition
   bibitem:

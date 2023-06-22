@@ -17,7 +17,20 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Level-3-Events-20071221
+    docid:
+    - id: W3C WD-DOM-Level-3-Events-20071221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Level-3-Events-20071221
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CNOTE-DOM-Level-3-Events-20031107
@@ -27,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-DOM-Level-3-Events-20031107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Level-3-Events-20020712
+    docid:
+    - id: W3C WD-DOM-Level-3-Events-20020712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Level-3-Events-20020712
       format: text/plain
 - type: instance
   bibitem:
@@ -40,23 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-DOM-Level-3-Events-20071221
+    id: W3CWD-DOM-Level-3-Events-20110531
     docid:
-    - id: W3C WD-DOM-Level-3-Events-20071221
+    - id: W3C WD-DOM-Level-3-Events-20110531
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-DOM-Level-3-Events-20071221
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-DOM-Level-3-Events-20020712
-    docid:
-    - id: W3C WD-DOM-Level-3-Events-20020712
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-DOM-Level-3-Events-20020712
+      content: W3C WD-DOM-Level-3-Events-20110531
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,26 +83,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-DOM-Level-3-Events-20110531
-    docid:
-    - id: W3C WD-DOM-Level-3-Events-20110531
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-DOM-Level-3-Events-20110531
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-DOM-Level-3-Events-20100907
-    docid:
-    - id: W3C WD-DOM-Level-3-Events-20100907
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-DOM-Level-3-Events-20100907
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-DOM-Level-3-Events-20120906
     docid:
     - id: W3C WD-DOM-Level-3-Events-20120906
@@ -97,6 +90,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-DOM-Level-3-Events-20120906
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Level-3-Events-20060413
+    docid:
+    - id: W3C WD-DOM-Level-3-Events-20060413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Level-3-Events-20060413
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -110,19 +113,19 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-DOM-Level-3-Events-20060413
+    id: W3CWD-DOM-Level-3-Events-20100907
     docid:
-    - id: W3C WD-DOM-Level-3-Events-20060413
+    - id: W3C WD-DOM-Level-3-Events-20100907
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-DOM-Level-3-Events-20060413
+      content: W3C WD-DOM-Level-3-Events-20100907
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
   number: DOM-Level-3-Events
-doctype: groupNote
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

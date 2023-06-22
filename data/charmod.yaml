@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-charmod-20030822
-    docid:
-    - id: W3C WD-charmod-20030822
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-charmod-20030822
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-charmod-20020430
     docid:
     - id: W3C WD-charmod-20020430
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-charmod-20020430
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-charmod-20030822
+    docid:
+    - id: W3C WD-charmod-20030822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-charmod-20030822
       format: text/plain
 series:
 - title:

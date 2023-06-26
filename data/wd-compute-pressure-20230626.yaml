@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-dpub-aam-1.1-20230619
+id: W3CWD-compute-pressure-20230626
 title:
-- content: Digital Publishing Accessibility API Mappings 1.1
+- content: Compute Pressure Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20230619/
+- content: https://www.w3.org/TR/2023/WD-compute-pressure-20230626/
   type: src
-- content: https://w3c.github.io/dpub-aam/
+- content: https://w3c.github.io/compute-pressure/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aam-1.1-20230619
+- id: W3C WD-compute-pressure-20230626
   type: W3C
   primary: true
-docnumber: WD-dpub-aam-1.1-20230619
+docnumber: WD-compute-pressure-20230626
 date:
 - type: published
-  value: '2023-06-19'
+  value: '2023-06-26'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Arnaud Mandy
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-19'
+revdate: '2023-06-26'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20230613
+    id: W3CWD-compute-pressure-20230613
     docid:
-    - id: W3C WD-dpub-aam-1.1-20230613
+    - id: W3C WD-compute-pressure-20230613
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20230613
+      content: W3C WD-compute-pressure-20230613
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aam-1.1-20230619
+  number: WD-compute-pressure-20230626
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

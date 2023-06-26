@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-compute-pressure-20230613
+id: W3CREC-html-aria-20230626
 title:
-- content: Compute Pressure Level 1
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-compute-pressure-20230613/
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230626/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20230613
+- id: W3C REC-html-aria-20230626
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20230613
+docnumber: REC-html-aria-20230626
 date:
 - type: published
-  value: '2023-06-13'
+  value: '2023-06-26'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-13'
+revdate: '2023-06-26'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20230605
+    id: W3CREC-html-aria-20230614
     docid:
-    - id: W3C WD-compute-pressure-20230605
+    - id: W3C REC-html-aria-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20230605
+      content: W3C REC-html-aria-20230614
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-compute-pressure-20230613
+  number: REC-html-aria-20230626
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

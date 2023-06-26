@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-dpub-aria-1.1-20230620
+id: W3CCRD-dpub-aria-1.1-20230626
 title:
 - content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230620/
+- content: https://www.w3.org/TR/2023/CRD-dpub-aria-1.1-20230626/
   type: src
 - content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20230620
+- id: W3C CRD-dpub-aria-1.1-20230626
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20230620
+docnumber: CRD-dpub-aria-1.1-20230626
 date:
 - type: published
-  value: '2023-06-20'
+  value: '2023-06-26'
 contributor:
 - person:
     name:
@@ -39,30 +39,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-20'
+revdate: '2023-06-26'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20230619
+    id: W3CWD-dpub-aria-1.1-20230620
     docid:
-    - id: W3C WD-dpub-aria-1.1-20230619
+    - id: W3C WD-dpub-aria-1.1-20230620
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aria-1.1-20230619
+      content: W3C WD-dpub-aria-1.1-20230620
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-dpub-aria-1.1-20230620
+  number: CRD-dpub-aria-1.1-20230626
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

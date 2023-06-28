@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CWD-payment-request-1.1-20220726
+id: W3CWD-uievents-20230627
 title:
-- content: Payment Request API 1.1
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-payment-request-1.1-20220726/
+- content: https://www.w3.org/TR/2023/WD-uievents-20230627/
   type: src
-- content: https://w3c.github.io/payment-request/
+- content: https://w3c.github.io/uievents/
   type: current
 type: standard
 docid:
-- id: W3C WD-payment-request-1.1-20220726
+- id: W3C WD-uievents-20230627
   type: W3C
   primary: true
-docnumber: WD-payment-request-1.1-20220726
+docnumber: WD-uievents-20230627
 date:
 - type: published
-  value: '2022-07-26'
+  value: '2023-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: Ian Jacobs
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Rouslan Solomakhin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2022-07-26'
+revdate: '2023-06-27'
 language:
 - en
 script:
@@ -57,13 +47,24 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-uievents-20230509
+    docid:
+    - id: W3C WD-uievents-20230509
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-uievents-20230509
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-payment-request-1.1-20220726
+  number: WD-uievents-20230627
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

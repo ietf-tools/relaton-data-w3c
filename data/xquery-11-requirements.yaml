@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Cxquery-11-requirements
 title:
-- content: XML Query (XQuery) 1.1 Requirements
+- content: XQuery 1.1 Requirements
   format: text/plain
 link:
 - content: http://www.w3.org/TR/xquery-11-requirements
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xquery-11-requirements-20070323
-    docid:
-    - id: W3C WD-xquery-11-requirements-20070323
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-11-requirements-20070323
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-xquery-11-requirements-20091215
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xquery-11-requirements-20091215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xquery-11-requirements-20070323
+    docid:
+    - id: W3C WD-xquery-11-requirements-20070323
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-11-requirements-20070323
       format: text/plain
 series:
 - title:

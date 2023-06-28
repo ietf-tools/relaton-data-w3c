@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-IndexedDB-2-20161101
-    docid:
-    - id: W3C WD-IndexedDB-2-20161101
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-IndexedDB-2-20161101
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-IndexedDB-2-20171116
     docid:
     - id: W3C PR-IndexedDB-2-20171116
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-IndexedDB-2-20171116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-IndexedDB-2-20161101
+    docid:
+    - id: W3C WD-IndexedDB-2-20161101
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-IndexedDB-2-20161101
       format: text/plain
 series:
 - title:

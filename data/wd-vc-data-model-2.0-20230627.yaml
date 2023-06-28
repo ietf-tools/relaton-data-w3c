@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CNOTE-saur-20220705
+id: W3CWD-vc-data-model-2.0-20230627
 title:
-- content: Synchronization Accessibility User Requirements
+- content: Verifiable Credentials Data Model v2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/NOTE-saur-20220705/
+- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230627/
   type: src
-- content: https://w3c.github.io/saur/
+- content: https://w3c.github.io/vc-data-model/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-saur-20220705
+- id: W3C WD-vc-data-model-2.0-20230627
   type: W3C
   primary: true
-docnumber: NOTE-saur-20220705
+docnumber: WD-vc-data-model-2.0-20230627
 date:
 - type: published
-  value: '2022-07-05'
+  value: '2023-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: Janina Sajka
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jason White
+        content: Manu Sporny
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshue O'Connor
+        content: Michael Jones
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Scott Hollier
+        content: Oliver Terbu
         language:
         - en
         script:
@@ -62,36 +62,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Noble
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-07-05'
+revdate: '2023-06-27'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-saur-20220413
+    id: W3CWD-vc-data-model-2.0-20230617
     docid:
-    - id: W3C DNOTE-saur-20220413
+    - id: W3C WD-vc-data-model-2.0-20230617
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-saur-20220413
+      content: W3C WD-vc-data-model-2.0-20230617
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-saur-20220705
-doctype: groupNote
+  number: WD-vc-data-model-2.0-20230627
+doctype: technicalReport
 editorialgroup:
-- name: Accessible Platform Architectures
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

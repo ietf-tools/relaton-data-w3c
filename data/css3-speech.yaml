@@ -63,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-speech-20110818
-    docid:
-    - id: W3C WD-css3-speech-20110818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-speech-20110818
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-speech-20030514
     docid:
     - id: W3C WD-css3-speech-20030514
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-speech-20030514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-speech-20110818
+    docid:
+    - id: W3C WD-css3-speech-20110818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-speech-20110818
       format: text/plain
 series:
 - title:

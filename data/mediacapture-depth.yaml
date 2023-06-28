@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediacapture-depth-20151208
-    docid:
-    - id: W3C WD-mediacapture-depth-20151208
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediacapture-depth-20151208
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mediacapture-depth-20170418
     docid:
     - id: W3C WD-mediacapture-depth-20170418
@@ -50,13 +40,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediacapture-depth-20141007
+    id: W3CWD-mediacapture-depth-20151208
     docid:
-    - id: W3C WD-mediacapture-depth-20141007
+    - id: W3C WD-mediacapture-depth-20151208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediacapture-depth-20141007
+      content: W3C WD-mediacapture-depth-20151208
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediacapture-depth-20160712
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediacapture-depth-20141007
+    docid:
+    - id: W3C WD-mediacapture-depth-20141007
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediacapture-depth-20141007
       format: text/plain
 series:
 - title:

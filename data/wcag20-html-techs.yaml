@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: instance
+  bibitem:
+    id: W3CWD-WCAG20-HTML-TECHS-20050630
+    docid:
+    - id: W3C WD-WCAG20-HTML-TECHS-20050630
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG20-HTML-TECHS-20050630
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-WCAG20-HTML-TECHS-20041119
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-WCAG20-HTML-TECHS-20031209
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CWD-WCAG20-HTML-TECHS-20050630
-    docid:
-    - id: W3C WD-WCAG20-HTML-TECHS-20050630
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WCAG20-HTML-TECHS-20050630
       format: text/plain
 series:
 - title:

@@ -35,17 +35,6 @@ script:
 docstatus:
   stage:
     value: candidateRecommendation
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CWD-sparql11-http-rdf-update-20120501
-    docid:
-    - id: W3C WD-sparql11-http-rdf-update-20120501
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-sparql11-http-rdf-update-20120501
-      format: text/plain
 series:
 - title:
     content: W3C CR

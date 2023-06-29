@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: W3CDNOTE-webcodecs-av1-codec-registration-20230511
+id: W3CDNOTE-webcodecs-opus-codec-registration-20230628
 title:
-- content: AV1 WebCodecs Registration
+- content: Opus WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-av1-codec-registration-20230511/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-opus-codec-registration-20230628/
   type: src
-- content: https://w3c.github.io/webcodecs/av1_codec_registration.html
+- content: https://w3c.github.io/webcodecs/opus_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-av1-codec-registration-20230511
+- id: W3C DNOTE-webcodecs-opus-codec-registration-20230628
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-av1-codec-registration-20230511
+docnumber: DNOTE-webcodecs-opus-codec-registration-20230628
 date:
 - type: published
-  value: '2023-05-11'
+  value: '2023-06-28'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-11'
+revdate: '2023-06-28'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-av1-codec-registration-20230427
+    id: W3CDNOTE-webcodecs-opus-codec-registration-20230511
     docid:
-    - id: W3C DNOTE-webcodecs-av1-codec-registration-20230427
+    - id: W3C DNOTE-webcodecs-opus-codec-registration-20230511
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-av1-codec-registration-20230427
+      content: W3C DNOTE-webcodecs-opus-codec-registration-20230511
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-av1-codec-registration-20230511
+  number: DNOTE-webcodecs-opus-codec-registration-20230628
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

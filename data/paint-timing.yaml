@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: W3Cpaint-timing
 title:
-- content: Paint Timing 1
+- content: Paint Timing
   format: text/plain
 link:
 - content: https://www.w3.org/TR/paint-timing/
@@ -22,6 +22,16 @@ docstatus:
     value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-paint-timing-20230703
+    docid:
+    - id: W3C WD-paint-timing-20230703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-paint-timing-20230703
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-paint-timing-20170907
     docid:

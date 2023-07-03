@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-dpub-aria-1.1-20230626
+    id: W3CWD-dpub-aria-1.1-20230703
     docid:
-    - id: W3C CRD-dpub-aria-1.1-20230626
+    - id: W3C WD-dpub-aria-1.1-20230703
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-dpub-aria-1.1-20230626
+      content: W3C WD-dpub-aria-1.1-20230703
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +53,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: dpub-aria-1.1
 doctype: technicalReport

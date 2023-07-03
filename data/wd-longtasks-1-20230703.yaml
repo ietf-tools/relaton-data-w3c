@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.1
+id: W3CWD-longtasks-1-20230703
+title:
+- content: Long Tasks API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-longtasks-1-20230703/
+  type: src
+- content: https://w3c.github.io/longtasks/
+  type: current
+type: standard
+docid:
+- id: W3C WD-longtasks-1-20230703
+  type: W3C
+  primary: true
+docnumber: WD-longtasks-1-20230703
+date:
+- type: published
+  value: '2023-07-03'
+contributor:
+- person:
+    name:
+      completename:
+        content: Noam Rosenthal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-07-03'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-longtasks-1-20170907
+    docid:
+    - id: W3C WD-longtasks-1-20170907
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-longtasks-1-20170907
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-longtasks-1-20230703
+doctype: technicalReport
+editorialgroup:
+- name: Web Performance Working Group
+ext:
+  schema-version: v1.0.0

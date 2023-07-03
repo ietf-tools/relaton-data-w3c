@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.1
-id: W3CCRD-dpub-aam-1.1-20230626
+id: W3CWD-event-timing-20230703
 title:
-- content: Digital Publishing Accessibility API Mappings 1.1
+- content: Event Timing API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-dpub-aam-1.1-20230626/
+- content: https://www.w3.org/TR/2023/WD-event-timing-20230703/
   type: src
-- content: https://w3c.github.io/dpub-aam/
+- content: https://w3c.github.io/event-timing/
   type: current
 type: standard
 docid:
-- id: W3C CRD-dpub-aam-1.1-20230626
+- id: W3C WD-event-timing-20230703
   type: W3C
   primary: true
-docnumber: CRD-dpub-aam-1.1-20230626
+docnumber: WD-event-timing-20230703
 date:
 - type: published
-  value: '2023-06-26'
+  value: '2023-07-03'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Nicolas Pena Moreno
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Tim Dresser
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-26'
+revdate: '2023-07-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20230626
+    id: W3CWD-event-timing-20220524
     docid:
-    - id: W3C WD-dpub-aam-1.1-20230626
+    - id: W3C WD-event-timing-20220524
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20230626
+      content: W3C WD-event-timing-20220524
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-dpub-aam-1.1-20230626
+  number: WD-event-timing-20230703
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Web Performance Working Group
 ext:
   schema-version: v1.0.0

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-charmod-norm-20160407
-    docid:
-    - id: W3C WD-charmod-norm-20160407
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-charmod-norm-20160407
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-charmod-norm-20051027
     docid:
     - id: W3C WD-charmod-norm-20051027
@@ -70,6 +60,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-charmod-norm-20140715
+    docid:
+    - id: W3C WD-charmod-norm-20140715
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-charmod-norm-20140715
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-charmod-norm-20190204
     docid:
     - id: W3C NOTE-charmod-norm-20190204
@@ -77,6 +77,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-charmod-norm-20190204
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-charmod-norm-20160407
+    docid:
+    - id: W3C WD-charmod-norm-20160407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-charmod-norm-20160407
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -97,16 +107,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-charmod-norm-20180420
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-charmod-norm-20140715
-    docid:
-    - id: W3C WD-charmod-norm-20140715
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-charmod-norm-20140715
       format: text/plain
 series:
 - title:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-opus-codec-registration-20230628
+id: W3CDNOTE-webcodecs-vp9-codec-registration-20230706
 title:
-- content: Opus WebCodecs Registration
+- content: VP9 WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-opus-codec-registration-20230628/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vp9-codec-registration-20230706/
   type: src
-- content: https://w3c.github.io/webcodecs/opus_codec_registration.html
+- content: https://w3c.github.io/webcodecs/vp9_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-opus-codec-registration-20230628
+- id: W3C DNOTE-webcodecs-vp9-codec-registration-20230706
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-opus-codec-registration-20230628
+docnumber: DNOTE-webcodecs-vp9-codec-registration-20230706
 date:
 - type: published
-  value: '2023-06-28'
+  value: '2023-07-06'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-28'
+revdate: '2023-07-06'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-opus-codec-registration-20230511
+    id: W3CDNOTE-webcodecs-vp9-codec-registration-20230705
     docid:
-    - id: W3C DNOTE-webcodecs-opus-codec-registration-20230511
+    - id: W3C DNOTE-webcodecs-vp9-codec-registration-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-opus-codec-registration-20230511
+      content: W3C DNOTE-webcodecs-vp9-codec-registration-20230705
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-opus-codec-registration-20230628
+  number: DNOTE-webcodecs-vp9-codec-registration-20230706
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

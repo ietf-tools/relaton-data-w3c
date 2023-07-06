@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-eventsource-20091222
-    docid:
-    - id: W3C WD-eventsource-20091222
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-eventsource-20091222
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-eventsource-20121211
     docid:
     - id: W3C CR-eventsource-20121211
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-eventsource-20141209
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-eventsource-20091222
+    docid:
+    - id: W3C WD-eventsource-20091222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-eventsource-20091222
       format: text/plain
 - type: hasEdition
   bibitem:

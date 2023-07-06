@@ -33,13 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-values-20060919
+    id: W3CCR-css3-values-20120828
     docid:
-    - id: W3C WD-css3-values-20060919
+    - id: W3C CR-css3-values-20120828
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-values-20060919
+      content: W3C CR-css3-values-20120828
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-values-20010713
+    docid:
+    - id: W3C WD-css3-values-20010713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-values-20010713
       format: text/plain
 - type: instance
   bibitem:
@@ -53,23 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-values-20010713
+    id: W3CWD-css3-values-20060919
     docid:
-    - id: W3C WD-css3-values-20010713
+    - id: W3C WD-css3-values-20060919
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-values-20010713
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-values-20120828
-    docid:
-    - id: W3C CR-css3-values-20120828
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-values-20120828
+      content: W3C WD-css3-values-20060919
       format: text/plain
 - type: hasEdition
   bibitem:

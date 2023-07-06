@@ -21,6 +21,26 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: instance
+  bibitem:
+    id: W3CWD-resource-timing-2-20220413
+    docid:
+    - id: W3C WD-resource-timing-2-20220413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20220413
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-timing-2-20191128
+    docid:
+    - id: W3C WD-resource-timing-2-20191128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20191128
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-resource-timing-2-20170329
@@ -30,36 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-resource-timing-2-20170329
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-2-20210414
-    docid:
-    - id: W3C WD-resource-timing-2-20210414
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20210414
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-2-20200818
-    docid:
-    - id: W3C WD-resource-timing-2-20200818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20200818
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-resource-timing-2-20181105
-    docid:
-    - id: W3C WD-resource-timing-2-20181105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-resource-timing-2-20181105
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,23 +63,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-resource-timing-2-20191128
+    id: W3CWD-resource-timing-2-20181105
     docid:
-    - id: W3C WD-resource-timing-2-20191128
+    - id: W3C WD-resource-timing-2-20181105
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-resource-timing-2-20191128
+      content: W3C WD-resource-timing-2-20181105
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-resource-timing-2-20220413
+    id: W3CWD-resource-timing-2-20200818
     docid:
-    - id: W3C WD-resource-timing-2-20220413
+    - id: W3C WD-resource-timing-2-20200818
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-resource-timing-2-20220413
+      content: W3C WD-resource-timing-2-20200818
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-resource-timing-2-20210414
+    docid:
+    - id: W3C WD-resource-timing-2-20210414
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-resource-timing-2-20210414
       format: text/plain
 series:
 - title:

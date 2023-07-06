@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xmlsec-reqs-20100204
-    docid:
-    - id: W3C WD-xmlsec-reqs-20100204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmlsec-reqs-20100204
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmlsec-reqs-20110303
     docid:
     - id: W3C WD-xmlsec-reqs-20110303
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xmlsec-reqs-20110303
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlsec-reqs-20100204
+    docid:
+    - id: W3C WD-xmlsec-reqs-20100204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlsec-reqs-20100204
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webstorage-20091222
-    docid:
-    - id: W3C WD-webstorage-20091222
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webstorage-20091222
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-webstorage-20111208
     docid:
     - id: W3C CR-webstorage-20111208
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-webstorage-20151126
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webstorage-20091222
+    docid:
+    - id: W3C WD-webstorage-20091222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webstorage-20091222
       format: text/plain
 - type: hasEdition
   bibitem:

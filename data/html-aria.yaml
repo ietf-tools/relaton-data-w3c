@@ -181,7 +181,7 @@ relation:
     formattedref:
       content: W3C REC-html-aria-20230626
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-html-aria-20230629
     docid:
@@ -190,6 +190,26 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-html-aria-20230629
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-html-aria-20230705
+    docid:
+    - id: W3C REC-html-aria-20230705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html-aria-20230705
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aria-20191206
+    docid:
+    - id: W3C WD-html-aria-20191206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aria-20191206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -203,16 +223,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aria-20201214
-    docid:
-    - id: W3C WD-html-aria-20201214
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-aria-20201214
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-aria-20151216
     docid:
     - id: W3C WD-html-aria-20151216
@@ -220,16 +230,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-html-aria-20151216
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html-aria-20181214
-    docid:
-    - id: W3C WD-html-aria-20181214
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-aria-20181214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -243,13 +243,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aria-20191206
+    id: W3CWD-html-aria-20181214
     docid:
-    - id: W3C WD-html-aria-20191206
+    - id: W3C WD-html-aria-20181214
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aria-20191206
+      content: W3C WD-html-aria-20181214
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aria-20201214
+    docid:
+    - id: W3C WD-html-aria-20201214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aria-20201214
       format: text/plain
 series:
 - title:

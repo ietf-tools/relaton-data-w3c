@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-magnetometer-20171018
-    docid:
-    - id: W3C WD-magnetometer-20171018
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-magnetometer-20171018
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-magnetometer-20211207
     docid:
     - id: W3C WD-magnetometer-20211207
@@ -63,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-magnetometer-20180320
+    id: W3CWD-magnetometer-20171018
     docid:
-    - id: W3C CR-magnetometer-20180320
+    - id: W3C WD-magnetometer-20171018
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-magnetometer-20180320
+      content: W3C WD-magnetometer-20171018
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-magnetometer-20160913
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-magnetometer-20180320
+    docid:
+    - id: W3C CR-magnetometer-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-magnetometer-20180320
       format: text/plain
 series:
 - title:

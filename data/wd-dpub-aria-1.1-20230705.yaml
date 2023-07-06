@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-dpub-aria-1.1-20230705
+title:
+- content: Digital Publishing WAI-ARIA Module 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230705/
+  type: src
+- content: https://w3c.github.io/dpub-aria/
+  type: current
+type: standard
+docid:
+- id: W3C WD-dpub-aria-1.1-20230705
+  type: W3C
+  primary: true
+docnumber: WD-dpub-aria-1.1-20230705
+date:
+- type: published
+  value: '2023-07-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tzviya Siegman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-07-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-dpub-aria-1.1-20230703
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20230703
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20230703
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-dpub-aria-1.1-20230705
+doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
+ext:
+  schema-version: v1.0.0

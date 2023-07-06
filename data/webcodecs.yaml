@@ -23,13 +23,23 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webcodecs-20230628
+    id: W3CWD-webcodecs-20230706
     docid:
-    - id: W3C WD-webcodecs-20230628
+    - id: W3C WD-webcodecs-20230706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20230628
+      content: W3C WD-webcodecs-20230706
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webcodecs-20220524
+    docid:
+    - id: W3C WD-webcodecs-20220524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webcodecs-20220524
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webcodecs-20211216
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webcodecs-20220524
-    docid:
-    - id: W3C WD-webcodecs-20220524
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webcodecs-20220524
       format: text/plain
 series:
 - title:

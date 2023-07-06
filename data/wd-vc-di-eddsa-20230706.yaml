@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aam-1.1-20230703
+id: W3CWD-vc-di-eddsa-20230706
 title:
-- content: Digital Publishing Accessibility API Mappings 1.1
+- content: EdDSA Cryptosuite v2022
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20230703/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230706/
   type: src
-- content: https://w3c.github.io/dpub-aam/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aam-1.1-20230703
+- id: W3C WD-vc-di-eddsa-20230706
   type: W3C
   primary: true
-docnumber: WD-dpub-aam-1.1-20230703
+docnumber: WD-vc-di-eddsa-20230706
 date:
 - type: published
-  value: '2023-07-03'
+  value: '2023-07-06'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-03'
+revdate: '2023-07-06'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20230626
+    id: W3CWD-vc-di-eddsa-20230603
     docid:
-    - id: W3C WD-dpub-aam-1.1-20230626
+    - id: W3C WD-vc-di-eddsa-20230603
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20230626
+      content: W3C WD-vc-di-eddsa-20230603
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aam-1.1-20230703
+  number: WD-vc-di-eddsa-20230706
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

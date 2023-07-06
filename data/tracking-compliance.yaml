@@ -30,13 +30,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-tracking-compliance-20160426
+    id: W3CWD-tracking-compliance-20121002
     docid:
-    - id: W3C CR-tracking-compliance-20160426
+    - id: W3C WD-tracking-compliance-20121002
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-tracking-compliance-20160426
+      content: W3C WD-tracking-compliance-20121002
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-tracking-compliance-20141125
+    docid:
+    - id: W3C WD-tracking-compliance-20141125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-compliance-20141125
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,13 +60,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-tracking-compliance-20121002
+    id: W3CCR-tracking-compliance-20160426
     docid:
-    - id: W3C WD-tracking-compliance-20121002
+    - id: W3C CR-tracking-compliance-20160426
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-tracking-compliance-20121002
+      content: W3C CR-tracking-compliance-20160426
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,16 +77,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-tracking-compliance-20150714
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-tracking-compliance-20141125
-    docid:
-    - id: W3C WD-tracking-compliance-20141125
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-tracking-compliance-20141125
       format: text/plain
 - type: hasEdition
   bibitem:

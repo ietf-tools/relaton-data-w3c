@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20230704
+id: W3CREC-html-aria-20230705
 title:
-- content: WebGPU Shading Language
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230704/
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230705/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230704
+- id: W3C REC-html-aria-20230705
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230704
+docnumber: REC-html-aria-20230705
 date:
 - type: published
-  value: '2023-07-04'
+  value: '2023-07-05'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-04'
+revdate: '2023-07-05'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230703
+    id: W3CREC-html-aria-20230629
     docid:
-    - id: W3C WD-WGSL-20230703
+    - id: W3C REC-html-aria-20230629
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230703
+      content: W3C REC-html-aria-20230629
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-WGSL-20230704
+  number: REC-html-aria-20230705
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

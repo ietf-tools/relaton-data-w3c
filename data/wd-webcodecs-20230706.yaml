@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230704
+id: W3CWD-webcodecs-20230706
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230704/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230706/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230704
+- id: W3C WD-webcodecs-20230706
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230704
+docnumber: WD-webcodecs-20230706
 date:
 - type: published
-  value: '2023-07-04'
+  value: '2023-07-06'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-04'
+revdate: '2023-07-06'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230630
+    id: W3CWD-webcodecs-20230705
     docid:
-    - id: W3C WD-vc-data-integrity-20230630
+    - id: W3C WD-webcodecs-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230630
+      content: W3C WD-webcodecs-20230705
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-integrity-20230704
+  number: WD-webcodecs-20230706
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

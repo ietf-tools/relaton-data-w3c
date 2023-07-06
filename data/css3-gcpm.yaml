@@ -5,7 +5,7 @@ title:
 - content: CSS Generated Content for Paged Media Module
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-gcpm
+- content: http://www.w3.org/TR/css3-gcpm/
   type: src
 type: standard
 docid:
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-gcpm-20100608
-    docid:
-    - id: W3C WD-css3-gcpm-20100608
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-gcpm-20100608
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-gcpm-20111129
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-gcpm-20060919
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-gcpm-20100608
+    docid:
+    - id: W3C WD-css3-gcpm-20100608
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-gcpm-20100608
       format: text/plain
 series:
 - title:

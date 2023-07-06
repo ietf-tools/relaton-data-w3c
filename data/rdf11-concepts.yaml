@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-rdf11-concepts-20131105
-    docid:
-    - id: W3C CR-rdf11-concepts-20131105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-rdf11-concepts-20131105
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdf11-concepts-20120605
     docid:
     - id: W3C WD-rdf11-concepts-20120605
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-rdf11-concepts-20120605
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-rdf11-concepts-20131105
+    docid:
+    - id: W3C CR-rdf11-concepts-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-rdf11-concepts-20131105
       format: text/plain
 - type: hasEdition
   bibitem:

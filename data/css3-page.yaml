@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-page
 title:
-- content: CSS Paged Media Module Level 3
+- content: CSS3 Paged Media Module
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-page/
+- content: http://www.w3.org/TR/css3-page
   type: src
 type: standard
 docid:
@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-css3-page-20130314
-    docid:
-    - id: W3C WD-css3-page-20130314
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-page-20130314
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCR-css3-page-20040225
@@ -51,15 +41,15 @@ relation:
     formattedref:
       content: W3C WD-css3-page-20061010
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-css3-page-19990928
+    id: W3CWD-css3-page-20130314
     docid:
-    - id: W3C WD-css3-page-19990928
+    - id: W3C WD-css3-page-20130314
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-page-19990928
+      content: W3C WD-css3-page-20130314
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -71,9 +61,19 @@ relation:
     formattedref:
       content: W3C WD-css3-page-20030909
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-page-19990928
+    docid:
+    - id: W3C WD-css3-page-19990928
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-page-19990928
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: css3-page
 doctype: technicalReport

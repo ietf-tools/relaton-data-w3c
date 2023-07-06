@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20230626
+id: W3CWD-WGSL-20230705
 title:
-- content: ECDSA Cryptosuite v2019
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230626/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230705/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20230626
+- id: W3C WD-WGSL-20230705
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20230626
+docnumber: WD-WGSL-20230705
 date:
 - type: published
-  value: '2023-06-26'
+  value: '2023-07-05'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Reed
+        content: David Neto
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-26'
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-07-05'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20230616
+    id: W3CWD-WGSL-20230704
     docid:
-    - id: W3C WD-vc-di-ecdsa-20230616
+    - id: W3C WD-WGSL-20230704
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20230616
+      content: W3C WD-WGSL-20230704
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-ecdsa-20230626
+  number: WD-WGSL-20230705
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

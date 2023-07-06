@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-animations
 title:
-- content: CSS Animations Module Level 3
+- content: CSS Animations
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-animations
+- content: http://www.w3.org/TR/css3-animations/
   type: src
 type: standard
 docid:
@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-animations-20090320
+    id: W3CWD-css3-animations-20120403
     docid:
-    - id: W3C WD-css3-animations-20090320
+    - id: W3C WD-css3-animations-20120403
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-animations-20090320
+      content: W3C WD-css3-animations-20120403
       format: text/plain
 - type: instance
   bibitem:
@@ -43,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-animations-20120403
+    id: W3CWD-css3-animations-20090320
     docid:
-    - id: W3C WD-css3-animations-20120403
+    - id: W3C WD-css3-animations-20090320
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-animations-20120403
+      content: W3C WD-css3-animations-20090320
       format: text/plain
 series:
 - title:

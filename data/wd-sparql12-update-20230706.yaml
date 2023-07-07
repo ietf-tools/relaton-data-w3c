@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20230613
+id: W3CWD-sparql12-update-20230706
 title:
-- content: Verifiable Credentials JSON Schema Specification 2023
+- content: SPARQL 1.2 Update
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230613/
+- content: https://www.w3.org/TR/2023/WD-sparql12-update-20230706/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://w3c.github.io/sparql-update/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20230613
+- id: W3C WD-sparql12-update-20230706
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20230613
+docnumber: WD-sparql12-update-20230706
 date:
 - type: published
-  value: '2023-06-13'
+  value: '2023-07-06'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Ruben Taelman
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Thomas Pellissier Tanon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-13'
+revdate: '2023-07-06'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20230612
+    id: W3CWD-sparql12-update-20230616
     docid:
-    - id: W3C WD-vc-json-schema-20230612
+    - id: W3C WD-sparql12-update-20230616
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20230612
+      content: W3C WD-sparql12-update-20230616
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-json-schema-20230613
+  number: WD-sparql12-update-20230706
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

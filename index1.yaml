@@ -25664,11 +25664,6 @@
     :date: '20230125'
   :file: data/wd-payment-handler-20230125.yaml
 - :id:
-    :code: generic-sensor
-    :stage: CRD
-    :date: '20230127'
-  :file: data/crd-generic-sensor-20230127.yaml
-- :id:
     :code: proximity
     :stage: WD
     :date: '20230130'
@@ -26224,11 +26219,6 @@
     :date: '20230613'
   :file: data/wd-permissions-20230613.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230613'
-  :file: data/wd-vc-json-schema-20230613.yaml
-- :id:
     :code: IndexedDB-3
     :stage: WD
     :date: '20230613'
@@ -26279,15 +26269,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: grek-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-grek-gap-20230614.yaml
-- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-hu-gap-20230614.yaml
+- :id:
+    :code: grek-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-grek-gap-20230614.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -26439,11 +26429,6 @@
     :date: '20230616'
   :file: data/wd-sparql12-service-description-20230616.yaml
 - :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-update-20230616.yaml
-- :id:
     :code: jpan-gap
     :type: DNOTE
     :date: '20230617'
@@ -26533,16 +26518,6 @@
     :stage: WD
     :date: '20230629'
   :file: data/wd-vc-jws-2020-20230629.yaml
-- :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20230629'
-  :file: data/dnote-webrtc-nv-use-cases-20230629.yaml
-- :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20230629'
-  :file: data/wd-screen-capture-20230629.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26729,6 +26704,31 @@
     :date: '20230706'
   :file: data/wd-vc-di-ecdsa-20230706.yaml
 - :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20230706'
+  :file: data/dnote-webrtc-nv-use-cases-20230706.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20230706'
+  :file: data/wd-screen-capture-20230706.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20230706'
+  :file: data/wd-sparql12-update-20230706.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230706'
+  :file: data/wd-vc-json-schema-20230706.yaml
+- :id:
+    :code: generic-sensor
+    :stage: CRD
+    :date: '20230706'
+  :file: data/crd-generic-sensor-20230706.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26818,9 +26818,6 @@
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: window-management
   :file: data/window-management.yaml
 - :id:
@@ -26862,9 +26859,6 @@
 - :id:
     :code: sparql12-service-description
   :file: data/sparql12-service-description.yaml
-- :id:
-    :code: sparql12-update
-  :file: data/sparql12-update.yaml
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
@@ -26914,3 +26908,9 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: sparql12-update
+  :file: data/sparql12-update.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

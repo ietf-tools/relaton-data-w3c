@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-screen-capture-20230629
+id: W3CWD-screen-capture-20230706
 title:
 - content: Screen Capture
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-screen-capture-20230629/
+- content: https://www.w3.org/TR/2023/WD-screen-capture-20230706/
   type: src
 - content: https://w3c.github.io/mediacapture-screen-share/
   type: current
 type: standard
 docid:
-- id: W3C WD-screen-capture-20230629
+- id: W3C WD-screen-capture-20230706
   type: W3C
   primary: true
-docnumber: WD-screen-capture-20230629
+docnumber: WD-screen-capture-20230706
 date:
 - type: published
-  value: '2023-06-29'
+  value: '2023-07-06'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-29'
+revdate: '2023-07-06'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-screen-capture-20230413
+    id: W3CWD-screen-capture-20230629
     docid:
-    - id: W3C WD-screen-capture-20230413
+    - id: W3C WD-screen-capture-20230629
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20230413
+      content: W3C WD-screen-capture-20230629
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-screen-capture-20230629
+  number: WD-screen-capture-20230706
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

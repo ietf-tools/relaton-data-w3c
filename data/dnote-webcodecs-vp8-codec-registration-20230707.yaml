@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20230706
+id: W3CDNOTE-webcodecs-vp8-codec-registration-20230707
 title:
-- content: WebCodecs
+- content: VP8 WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20230706/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vp8-codec-registration-20230707/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/webcodecs/vp8_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20230706
+- id: W3C DNOTE-webcodecs-vp8-codec-registration-20230707
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20230706
+docnumber: DNOTE-webcodecs-vp8-codec-registration-20230707
 date:
 - type: published
-  value: '2023-07-06'
+  value: '2023-07-07'
 contributor:
 - person:
     name:
@@ -39,31 +39,28 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-06'
+revdate: '2023-07-07'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20230705
+    id: W3CDNOTE-webcodecs-vp8-codec-registration-20230706
     docid:
-    - id: W3C WD-webcodecs-20230705
+    - id: W3C DNOTE-webcodecs-vp8-codec-registration-20230706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20230705
+      content: W3C DNOTE-webcodecs-vp8-codec-registration-20230706
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webcodecs-20230706
-doctype: technicalReport
+  number: DNOTE-webcodecs-vp8-codec-registration-20230707
+doctype: groupNote
 editorialgroup:
 - name: Media Working Group
 ext:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230707
+id: W3CDNOTE-webcodecs-pcm-codec-registration-20230708
 title:
-- content: Vorbis WebCodecs Registration
+- content: Linear PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vorbis-codec-registration-20230707/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-pcm-codec-registration-20230708/
   type: src
-- content: https://w3c.github.io/webcodecs/vorbis_codec_registration.html
+- content: https://w3c.github.io/webcodecs/pcm_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230707
+- id: W3C DNOTE-webcodecs-pcm-codec-registration-20230708
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-vorbis-codec-registration-20230707
+docnumber: DNOTE-webcodecs-pcm-codec-registration-20230708
 date:
 - type: published
-  value: '2023-07-07'
+  value: '2023-07-08'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-07'
+revdate: '2023-07-08'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230706
+    id: W3CDNOTE-webcodecs-pcm-codec-registration-20230707
     docid:
-    - id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230706
+    - id: W3C DNOTE-webcodecs-pcm-codec-registration-20230707
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-vorbis-codec-registration-20230706
+      content: W3C DNOTE-webcodecs-pcm-codec-registration-20230707
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-vorbis-codec-registration-20230707
+  number: DNOTE-webcodecs-pcm-codec-registration-20230708
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

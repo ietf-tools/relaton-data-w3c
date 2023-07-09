@@ -1,28 +1,38 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-avc-codec-registration-20230707
+id: W3CWD-webcodecs-20230708
 title:
-- content: AVC (H.264) WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230707/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230708/
   type: src
-- content: https://w3c.github.io/webcodecs/avc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-avc-codec-registration-20230707
+- id: W3C WD-webcodecs-20230708
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-avc-codec-registration-20230707
+docnumber: WD-webcodecs-20230708
 date:
 - type: published
-  value: '2023-07-07'
+  value: '2023-07-08'
 contributor:
 - person:
     name:
       completename:
         content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -39,28 +49,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-07'
+revdate: '2023-07-08'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-avc-codec-registration-20230706
+    id: W3CWD-webcodecs-20230707
     docid:
-    - id: W3C DNOTE-webcodecs-avc-codec-registration-20230706
+    - id: W3C WD-webcodecs-20230707
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-avc-codec-registration-20230706
+      content: W3C WD-webcodecs-20230707
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-avc-codec-registration-20230707
-doctype: groupNote
+  number: WD-webcodecs-20230708
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group
 ext:

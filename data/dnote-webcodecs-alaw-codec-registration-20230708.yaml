@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20230707
+id: W3CDNOTE-webcodecs-alaw-codec-registration-20230708
 title:
-- content: WebCodecs
+- content: A-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20230707/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-alaw-codec-registration-20230708/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/webcodecs/alaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20230707
+- id: W3C DNOTE-webcodecs-alaw-codec-registration-20230708
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20230707
+docnumber: DNOTE-webcodecs-alaw-codec-registration-20230708
 date:
 - type: published
-  value: '2023-07-07'
+  value: '2023-07-08'
 contributor:
 - person:
     name:
@@ -39,31 +39,28 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-07'
+revdate: '2023-07-08'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20230706
+    id: W3CDNOTE-webcodecs-alaw-codec-registration-20230707
     docid:
-    - id: W3C WD-webcodecs-20230706
+    - id: W3C DNOTE-webcodecs-alaw-codec-registration-20230707
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20230706
+      content: W3C DNOTE-webcodecs-alaw-codec-registration-20230707
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webcodecs-20230707
-doctype: technicalReport
+  number: DNOTE-webcodecs-alaw-codec-registration-20230708
+doctype: groupNote
 editorialgroup:
 - name: Media Working Group
 ext:

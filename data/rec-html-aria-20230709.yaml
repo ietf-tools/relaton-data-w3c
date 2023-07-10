@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-eddsa-20230706
+id: W3CREC-html-aria-20230709
 title:
-- content: EdDSA Cryptosuite v2022
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230706/
+- content: https://www.w3.org/TR/2023/REC-html-aria-20230709/
   type: src
-- content: https://w3c.github.io/vc-di-eddsa/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-eddsa-20230706
+- id: W3C REC-html-aria-20230709
   type: W3C
   primary: true
-docnumber: WD-vc-di-eddsa-20230706
+docnumber: REC-html-aria-20230709
 date:
 - type: published
-  value: '2023-07-06'
+  value: '2023-07-09'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-06'
+revdate: '2023-07-09'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-eddsa-20230603
+    id: W3CREC-html-aria-20230705
     docid:
-    - id: W3C WD-vc-di-eddsa-20230603
+    - id: W3C REC-html-aria-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20230603
+      content: W3C REC-html-aria-20230705
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-vc-di-eddsa-20230706
+  number: REC-html-aria-20230709
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cvc-di-eddsa
 title:
-- content: EdDSA Cryptosuite v2022
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
 - content: https://www.w3.org/TR/vc-di-eddsa/
@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-di-eddsa-20230706
+    id: W3CWD-vc-di-eddsa-20230709
     docid:
-    - id: W3C WD-vc-di-eddsa-20230706
+    - id: W3C WD-vc-di-eddsa-20230709
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20230706
+      content: W3C WD-vc-di-eddsa-20230709
       format: text/plain
 series:
 - title:

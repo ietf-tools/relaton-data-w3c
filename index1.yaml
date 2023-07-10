@@ -26579,11 +26579,6 @@
     :date: '20230705'
   :file: data/wd-permissions-policy-1-20230705.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230705'
-  :file: data/wd-vc-data-integrity-20230705.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230705'
@@ -26618,16 +26613,6 @@
     :stage: WD
     :date: '20230706'
   :file: data/wd-sparql12-query-20230706.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: WD
-    :date: '20230706'
-  :file: data/wd-vc-di-eddsa-20230706.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230706'
-  :file: data/wd-vc-di-ecdsa-20230706.yaml
 - :id:
     :code: webrtc-nv-use-cases
     :type: DNOTE
@@ -26728,6 +26713,26 @@
     :stage: WD
     :date: '20230709'
   :file: data/wd-vc-data-model-2.0-20230709.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230709'
+  :file: data/wd-vc-data-integrity-20230709.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: WD
+    :date: '20230709'
+  :file: data/wd-vc-di-eddsa-20230709.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230709'
+  :file: data/wd-vc-di-ecdsa-20230709.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230709'
+  :file: data/rec-html-aria-20230709.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26891,17 +26896,8 @@
     :code: vc-jwt
   :file: data/vc-jwt.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
-- :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
 - :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
@@ -26914,3 +26910,12 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

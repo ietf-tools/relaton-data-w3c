@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20230706
+id: W3CWD-vc-data-integrity-20230709
 title:
-- content: ECDSA Cryptosuite v2019
+- content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230706/
+- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20230706
+- id: W3C WD-vc-data-integrity-20230709
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20230706
+docnumber: WD-vc-data-integrity-20230709
 date:
 - type: published
-  value: '2023-07-06'
+  value: '2023-07-09'
 contributor:
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,17 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Martin Reed
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-06'
+revdate: '2023-07-09'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20230626
+    id: W3CWD-vc-data-integrity-20230705
     docid:
-    - id: W3C WD-vc-di-ecdsa-20230626
+    - id: W3C WD-vc-data-integrity-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20230626
+      content: W3C WD-vc-data-integrity-20230705
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-ecdsa-20230706
+  number: WD-vc-data-integrity-20230709
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230705
+id: W3CWD-vc-di-eddsa-20230709
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230705/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230709/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230705
+- id: W3C WD-vc-di-eddsa-20230709
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230705
+docnumber: WD-vc-di-eddsa-20230709
 date:
 - type: published
-  value: '2023-07-05'
+  value: '2023-07-09'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-05'
+revdate: '2023-07-09'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230704
+    id: W3CWD-vc-di-eddsa-20230706
     docid:
-    - id: W3C WD-vc-data-integrity-20230704
+    - id: W3C WD-vc-di-eddsa-20230706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230704
+      content: W3C WD-vc-di-eddsa-20230706
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-integrity-20230705
+  number: WD-vc-di-eddsa-20230709
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

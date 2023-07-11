@@ -7855,6 +7855,12 @@
   :stage: WD
   :date: '20130514'
   :file: data/wd-klreq-20130514.yaml
+- :code: kore-gap
+  :file: data/kore-gap.yaml
+- :code: kore-gap
+  :type: DNOTE
+  :date: '20230711'
+  :file: data/dnote-kore-gap-20230711.yaml
 - :code: laoo-gap
   :file: data/laoo-gap.yaml
 - :code: laoo-gap
@@ -14857,8 +14863,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20230709'
-  :file: data/wd-vc-data-model-2.0-20230709.yaml
+  :date: '20230711'
+  :file: data/wd-vc-data-model-2.0-20230711.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
@@ -14900,8 +14906,8 @@
   :file: data/vc-jwt.yaml
 - :code: vc-jwt
   :stage: WD
-  :date: '20230630'
-  :file: data/wd-vc-jwt-20230630.yaml
+  :date: '20230710'
+  :file: data/wd-vc-jwt-20230710.yaml
 - :code: vc-status-list
   :file: data/vc-status-list.yaml
 - :code: vc-status-list
@@ -17033,8 +17039,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230705'
-  :file: data/wd-wgsl-20230705.yaml
+  :date: '20230710'
+  :file: data/wd-wgsl-20230710.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'
@@ -17401,9 +17407,9 @@
 - :code: wot-architecture11
   :file: data/wot-architecture11.yaml
 - :code: wot-architecture11
-  :stage: CR
-  :date: '20230119'
-  :file: data/cr-wot-architecture11-20230119.yaml
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-architecture11-20230711.yaml
 - :code: wot-architecture11
   :stage: WD
   :date: '20201124'
@@ -17421,9 +17427,9 @@
 - :code: wot-discovery
   :file: data/wot-discovery.yaml
 - :code: wot-discovery
-  :stage: CR
-  :date: '20230119'
-  :file: data/cr-wot-discovery-20230119.yaml
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-discovery-20230711.yaml
 - :code: wot-discovery
   :stage: WD
   :date: '20210602'
@@ -17497,9 +17503,9 @@
 - :code: wot-thing-description11
   :file: data/wot-thing-description11.yaml
 - :code: wot-thing-description11
-  :stage: CR
-  :date: '20230119'
-  :file: data/cr-wot-thing-description11-20230119.yaml
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-thing-description11-20230711.yaml
 - :code: wot-thing-description11
   :stage: WD
   :date: '20220311'

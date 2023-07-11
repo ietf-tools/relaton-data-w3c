@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jwt-20230630
+id: W3CWD-WGSL-20230710
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230630/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230710/
   type: src
-- content: https://w3c.github.io/vc-jwt/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jwt-20230630
+- id: W3C WD-WGSL-20230710
   type: W3C
   primary: true
-docnumber: WD-vc-jwt-20230630
+docnumber: WD-WGSL-20230710
 date:
 - type: published
-  value: '2023-06-30'
+  value: '2023-07-10'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-30'
+revdate: '2023-07-10'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jwt-20230629
+    id: W3CWD-WGSL-20230705
     docid:
-    - id: W3C WD-vc-jwt-20230629
+    - id: W3C WD-WGSL-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230629
+      content: W3C WD-WGSL-20230705
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jwt-20230630
+  number: WD-WGSL-20230710
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

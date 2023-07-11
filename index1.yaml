@@ -25639,21 +25639,6 @@
     :date: '20230118'
   :file: data/wd-wot-profile-20230118.yaml
 - :id:
-    :code: wot-discovery
-    :stage: CR
-    :date: '20230119'
-  :file: data/cr-wot-discovery-20230119.yaml
-- :id:
-    :code: wot-thing-description11
-    :stage: CR
-    :date: '20230119'
-  :file: data/cr-wot-thing-description11-20230119.yaml
-- :id:
-    :code: wot-architecture11
-    :stage: CR
-    :date: '20230119'
-  :file: data/cr-wot-architecture11-20230119.yaml
-- :id:
     :code: presentation-api
     :stage: CRD
     :date: '20230123'
@@ -26549,11 +26534,6 @@
     :date: '20230630'
   :file: data/note-predefined-counter-styles-20230630.yaml
 - :id:
-    :code: vc-jwt
-    :stage: WD
-    :date: '20230630'
-  :file: data/wd-vc-jwt-20230630.yaml
-- :id:
     :code: clreq
     :type: DNOTE
     :date: '20230701'
@@ -26603,11 +26583,6 @@
     :stage: WD
     :date: '20230705'
   :file: data/wd-dpub-aria-1.1-20230705.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20230705'
-  :file: data/wd-wgsl-20230705.yaml
 - :id:
     :code: sparql12-query
     :stage: WD
@@ -26709,11 +26684,6 @@
     :date: '20230708'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230708.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230709'
-  :file: data/wd-vc-data-model-2.0-20230709.yaml
-- :id:
     :code: vc-data-integrity
     :stage: WD
     :date: '20230709'
@@ -26733,6 +26703,41 @@
     :stage: REC
     :date: '20230709'
   :file: data/rec-html-aria-20230709.yaml
+- :id:
+    :code: vc-jwt
+    :stage: WD
+    :date: '20230710'
+  :file: data/wd-vc-jwt-20230710.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20230710'
+  :file: data/wd-wgsl-20230710.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230711'
+  :file: data/wd-vc-data-model-2.0-20230711.yaml
+- :id:
+    :code: kore-gap
+    :type: DNOTE
+    :date: '20230711'
+  :file: data/dnote-kore-gap-20230711.yaml
+- :id:
+    :code: wot-architecture11
+    :stage: PR
+    :date: '20230711'
+  :file: data/pr-wot-architecture11-20230711.yaml
+- :id:
+    :code: wot-thing-description11
+    :stage: PR
+    :date: '20230711'
+  :file: data/pr-wot-thing-description11-20230711.yaml
+- :id:
+    :code: wot-discovery
+    :stage: PR
+    :date: '20230711'
+  :file: data/pr-wot-discovery-20230711.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26893,9 +26898,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: vc-jwt
-  :file: data/vc-jwt.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
@@ -26908,9 +26910,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -26919,3 +26918,12 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-jwt
+  :file: data/vc-jwt.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: kore-gap
+  :file: data/kore-gap.yaml

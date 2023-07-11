@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20230705
+id: W3CPR-wot-thing-description11-20230711
 title:
-- content: WebGPU Shading Language
+- content: Web of Things (WoT) Thing Description 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230705/
+- content: https://www.w3.org/TR/2023/PR-wot-thing-description11-20230711/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/wot-thing-description/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230705
+- id: W3C PR-wot-thing-description11-20230711
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230705
+docnumber: PR-wot-thing-description11-20230711
 date:
 - type: published
-  value: '2023-07-05'
+  value: '2023-07-11'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Ege Korkan
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Michael McCool
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Sebastian Käbisch
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-05'
+revdate: '2023-07-11'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: proposedRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230704
+    id: W3CCR-wot-thing-description11-20230119
     docid:
-    - id: W3C WD-WGSL-20230704
+    - id: W3C CR-wot-thing-description11-20230119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230704
+      content: W3C CR-wot-thing-description11-20230119
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C PR
     format: text/plain
-  number: WD-WGSL-20230705
+  number: PR-wot-thing-description11-20230711
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web of Things Working Group
 ext:
   schema-version: v1.0.0

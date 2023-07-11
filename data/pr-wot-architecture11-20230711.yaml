@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-model-2.0-20230709
+id: W3CPR-wot-architecture11-20230711
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Web of Things (WoT) Architecture 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230709/
+- content: https://www.w3.org/TR/2023/PR-wot-architecture11-20230711/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/wot-architecture/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-model-2.0-20230709
+- id: W3C PR-wot-architecture11-20230711
   type: W3C
   primary: true
-docnumber: WD-vc-data-model-2.0-20230709
+docnumber: PR-wot-architecture11-20230711
 date:
 - type: published
-  value: '2023-07-09'
+  value: '2023-07-11'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Kunihiko Toumura
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Michael Lagally
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Michael McCool
         language:
         - en
         script:
@@ -52,49 +52,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Oliver Terbu
+        content: Ryuichi Matsukura
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Orie Steele
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-09'
+revdate: '2023-07-11'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: proposedRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20230708
+    id: W3CCR-wot-architecture11-20230119
     docid:
-    - id: W3C WD-vc-data-model-2.0-20230708
+    - id: W3C CR-wot-architecture11-20230119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20230708
+      content: W3C CR-wot-architecture11-20230119
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C PR
     format: text/plain
-  number: WD-vc-data-model-2.0-20230709
+  number: PR-wot-architecture11-20230711
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web of Things Working Group
 ext:
   schema-version: v1.0.0

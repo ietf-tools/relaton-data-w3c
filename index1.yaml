@@ -26544,11 +26544,6 @@
     :date: '20230703'
   :file: data/wd-paint-timing-20230703.yaml
 - :id:
-    :code: longtasks-1
-    :stage: WD
-    :date: '20230703'
-  :file: data/wd-longtasks-1-20230703.yaml
-- :id:
     :code: event-timing
     :stage: WD
     :date: '20230703'
@@ -26714,11 +26709,6 @@
     :date: '20230710'
   :file: data/wd-wgsl-20230710.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230711'
-  :file: data/wd-vc-data-model-2.0-20230711.yaml
-- :id:
     :code: kore-gap
     :type: DNOTE
     :date: '20230711'
@@ -26738,6 +26728,21 @@
     :stage: PR
     :date: '20230711'
   :file: data/pr-wot-discovery-20230711.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230712'
+  :file: data/wd-vc-data-model-2.0-20230712.yaml
+- :id:
+    :code: longtasks-1
+    :stage: WD
+    :date: '20230712'
+  :file: data/wd-longtasks-1-20230712.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230712'
+  :file: data/rec-html-aria-20230712.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26922,8 +26927,8 @@
     :code: vc-jwt
   :file: data/vc-jwt.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

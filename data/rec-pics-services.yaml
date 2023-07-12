@@ -22,16 +22,6 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CREC-PICS-services-961031
-    docid:
-    - id: W3C REC-PICS-services-961031
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-PICS-services-961031
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CREC-PICS-services-20091124
@@ -41,6 +31,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-PICS-services-20091124
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-PICS-services-961031
+    docid:
+    - id: W3C REC-PICS-services-961031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-PICS-services-961031
       format: text/plain
 series:
 - title:

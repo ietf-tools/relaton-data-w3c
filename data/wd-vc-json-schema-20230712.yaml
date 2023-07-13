@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webtransport-20230405
+id: W3CWD-vc-json-schema-20230712
 title:
-- content: WebTransport
+- content: Verifiable Credentials JSON Schema Specification 2023
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webtransport-20230405/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230712/
   type: src
-- content: https://w3c.github.io/webtransport/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-webtransport-20230405
+- id: W3C WD-vc-json-schema-20230712
   type: W3C
   primary: true
-docnumber: WD-webtransport-20230405
+docnumber: WD-vc-json-schema-20230712
 date:
 - type: published
-  value: '2023-04-05'
+  value: '2023-07-12'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Nidhi Jaju
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Victor Vasiliev
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-05'
+revdate: '2023-07-12'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webtransport-20230118
+    id: W3CWD-vc-json-schema-20230706
     docid:
-    - id: W3C WD-webtransport-20230118
+    - id: W3C WD-vc-json-schema-20230706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20230118
+      content: W3C WD-vc-json-schema-20230706
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webtransport-20230405
+  number: WD-vc-json-schema-20230712
 doctype: technicalReport
 editorialgroup:
-- name: WebTransport Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

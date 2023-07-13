@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230709
+id: W3CWD-vc-data-integrity-20230713
 title:
 - content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/
+- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230713/
   type: src
 - content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230709
+- id: W3C WD-vc-data-integrity-20230713
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230709
+docnumber: WD-vc-data-integrity-20230713
 date:
 - type: published
-  value: '2023-07-09'
+  value: '2023-07-13'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-09'
+revdate: '2023-07-13'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230705
+    id: W3CWD-vc-data-integrity-20230709
     docid:
-    - id: W3C WD-vc-data-integrity-20230705
+    - id: W3C WD-vc-data-integrity-20230709
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230705
+      content: W3C WD-vc-data-integrity-20230709
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-integrity-20230709
+  number: WD-vc-data-integrity-20230713
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

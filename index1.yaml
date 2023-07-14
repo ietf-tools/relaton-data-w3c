@@ -26569,11 +26569,6 @@
     :date: '20230706'
   :file: data/wd-screen-capture-20230706.yaml
 - :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20230706'
-  :file: data/wd-sparql12-update-20230706.yaml
-- :id:
     :code: generic-sensor
     :stage: CRD
     :date: '20230707'
@@ -26648,16 +26643,6 @@
     :type: DNOTE
     :date: '20230708'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230708.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: WD
-    :date: '20230709'
-  :file: data/wd-vc-di-eddsa-20230709.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230709'
-  :file: data/wd-vc-di-ecdsa-20230709.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26743,6 +26728,21 @@
     :stage: WD
     :date: '20230713'
   :file: data/wd-webrtc-encoded-transform-20230713.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230713'
+  :file: data/wd-vc-di-ecdsa-20230713.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20230714'
+  :file: data/wd-sparql12-update-20230714.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: WD
+    :date: '20230714'
+  :file: data/wd-vc-di-eddsa-20230714.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26903,17 +26903,8 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: sparql12-update
-  :file: data/sparql12-update.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
-- :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
 - :id:
     :code: vc-jwt
   :file: data/vc-jwt.yaml
@@ -26932,3 +26923,12 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: sparql12-update
+  :file: data/sparql12-update.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml

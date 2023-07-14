@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-update-20230706
+id: W3CWD-vc-di-ecdsa-20230713
 title:
-- content: SPARQL 1.2 Update
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-update-20230706/
+- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230713/
   type: src
-- content: https://w3c.github.io/sparql-update/spec/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-update-20230706
+- id: W3C WD-vc-di-ecdsa-20230713
   type: W3C
   primary: true
-docnumber: WD-sparql12-update-20230706
+docnumber: WD-vc-di-ecdsa-20230713
 date:
 - type: published
-  value: '2023-07-06'
+  value: '2023-07-13'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Manu Sporny
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Martin Reed
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Thomas Pellissier Tanon
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-06'
+revdate: '2023-07-13'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-update-20230616
+    id: W3CWD-vc-di-ecdsa-20230709
     docid:
-    - id: W3C WD-sparql12-update-20230616
+    - id: W3C WD-vc-di-ecdsa-20230709
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-update-20230616
+      content: W3C WD-vc-di-ecdsa-20230709
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-update-20230706
+  number: WD-vc-di-ecdsa-20230713
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

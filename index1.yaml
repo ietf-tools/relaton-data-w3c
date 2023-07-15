@@ -25894,11 +25894,6 @@
     :date: '20230406'
   :file: data/wd-css-font-loading-3-20230406.yaml
 - :id:
-    :code: screen-wake-lock
-    :stage: WD
-    :date: '20230406'
-  :file: data/wd-screen-wake-lock-20230406.yaml
-- :id:
     :code: css-values-4
     :stage: WD
     :date: '20230406'
@@ -26674,11 +26669,6 @@
     :date: '20230711'
   :file: data/pr-wot-discovery-20230711.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230712'
-  :file: data/wd-vc-data-model-2.0-20230712.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20230712'
@@ -26743,6 +26733,16 @@
     :stage: WD
     :date: '20230714'
   :file: data/wd-vc-di-eddsa-20230714.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230714'
+  :file: data/wd-vc-data-model-2.0-20230714.yaml
+- :id:
+    :code: screen-wake-lock
+    :stage: WD
+    :date: '20230714'
+  :file: data/wd-screen-wake-lock-20230714.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26912,9 +26912,6 @@
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -26932,3 +26929,6 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

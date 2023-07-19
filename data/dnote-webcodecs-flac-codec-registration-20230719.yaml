@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230708
+id: W3CDNOTE-webcodecs-flac-codec-registration-20230719
 title:
-- content: Vorbis WebCodecs Registration
+- content: FLAC WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vorbis-codec-registration-20230708/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-flac-codec-registration-20230719/
   type: src
-- content: https://w3c.github.io/webcodecs/vorbis_codec_registration.html
+- content: https://w3c.github.io/webcodecs/flac_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230708
+- id: W3C DNOTE-webcodecs-flac-codec-registration-20230719
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-vorbis-codec-registration-20230708
+docnumber: DNOTE-webcodecs-flac-codec-registration-20230719
 date:
 - type: published
-  value: '2023-07-08'
+  value: '2023-07-19'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-08'
+revdate: '2023-07-19'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230707
+    id: W3CDNOTE-webcodecs-flac-codec-registration-20230708
     docid:
-    - id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230707
+    - id: W3C DNOTE-webcodecs-flac-codec-registration-20230708
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-vorbis-codec-registration-20230707
+      content: W3C DNOTE-webcodecs-flac-codec-registration-20230708
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-vorbis-codec-registration-20230708
+  number: DNOTE-webcodecs-flac-codec-registration-20230719
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

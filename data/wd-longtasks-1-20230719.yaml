@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-hr-time-3-20230425
+id: W3CWD-longtasks-1-20230719
 title:
-- content: High Resolution Time
+- content: Long Tasks API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-hr-time-3-20230425/
+- content: https://www.w3.org/TR/2023/WD-longtasks-1-20230719/
   type: src
-- content: https://w3c.github.io/hr-time/
+- content: https://w3c.github.io/longtasks/
   type: current
 type: standard
 docid:
-- id: W3C WD-hr-time-3-20230425
+- id: W3C WD-longtasks-1-20230719
   type: W3C
   primary: true
-docnumber: WD-hr-time-3-20230425
+docnumber: WD-longtasks-1-20230719
 date:
 - type: published
-  value: '2023-04-25'
+  value: '2023-07-19'
 contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Noam Rosenthal
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-25'
+revdate: '2023-07-19'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-hr-time-3-20230411
+    id: W3CWD-longtasks-1-20230712
     docid:
-    - id: W3C WD-hr-time-3-20230411
+    - id: W3C WD-longtasks-1-20230712
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-hr-time-3-20230411
+      content: W3C WD-longtasks-1-20230712
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-hr-time-3-20230425
+  number: WD-longtasks-1-20230719
 doctype: technicalReport
 editorialgroup:
 - name: Web Performance Working Group

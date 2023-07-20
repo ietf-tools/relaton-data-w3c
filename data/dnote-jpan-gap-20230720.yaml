@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-mong-gap-20230614
+id: W3CDNOTE-jpan-gap-20230720
 title:
-- content: Mongolian Gap Analysis
+- content: Japanese Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-mong-gap-20230614/
+- content: https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230720/
   type: src
-- content: https://w3c.github.io/mlreq/gap-analysis/
+- content: https://w3c.github.io/jlreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-mong-gap-20230614
+- id: W3C DNOTE-jpan-gap-20230720
   type: W3C
   primary: true
-docnumber: DNOTE-mong-gap-20230614
+docnumber: DNOTE-jpan-gap-20230720
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-07-20'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2023-07-20'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-mong-gap-20220125
+    id: W3CDNOTE-jpan-gap-20230617
     docid:
-    - id: W3C DNOTE-mong-gap-20220125
+    - id: W3C DNOTE-jpan-gap-20230617
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-mong-gap-20220125
+      content: W3C DNOTE-jpan-gap-20230617
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-mong-gap-20230614
+  number: DNOTE-jpan-gap-20230720
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

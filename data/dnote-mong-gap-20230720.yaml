@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-mong-gap-20230720
+title:
+- content: Mongolian Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-mong-gap-20230720/
+  type: src
+- content: https://w3c.github.io/mlreq/gap-analysis/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-mong-gap-20230720
+  type: W3C
+  primary: true
+docnumber: DNOTE-mong-gap-20230720
+date:
+- type: published
+  value: '2023-07-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-07-20'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-mong-gap-20230614
+    docid:
+    - id: W3C DNOTE-mong-gap-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-mong-gap-20230614
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-mong-gap-20230720
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20230717
+id: W3CCRD-webrtc-stats-20230720
 title:
-- content: WebGPU
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20230717/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20230717
+- id: W3C CRD-webrtc-stats-20230720
   type: W3C
   primary: true
-docnumber: WD-webgpu-20230717
+docnumber: CRD-webrtc-stats-20230720
 date:
 - type: published
-  value: '2023-07-17'
+  value: '2023-07-20'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-17'
+revdate: '2023-07-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20230712
+    id: W3CCRD-webrtc-stats-20230615
     docid:
-    - id: W3C WD-webgpu-20230712
+    - id: W3C CRD-webrtc-stats-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20230712
+      content: W3C CRD-webrtc-stats-20230615
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20230717
+  number: CRD-webrtc-stats-20230720
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jwt-20230710
+id: W3CWD-webcodecs-20230720
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jwt-20230710/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20230720/
   type: src
-- content: https://w3c.github.io/vc-jwt/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jwt-20230710
+- id: W3C WD-webcodecs-20230720
   type: W3C
   primary: true
-docnumber: WD-vc-jwt-20230710
+docnumber: WD-webcodecs-20230720
 date:
 - type: published
-  value: '2023-07-10'
+  value: '2023-07-20'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-10'
+revdate: '2023-07-20'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jwt-20230630
+    id: W3CWD-webcodecs-20230719
     docid:
-    - id: W3C WD-vc-jwt-20230630
+    - id: W3C WD-webcodecs-20230719
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230630
+      content: W3C WD-webcodecs-20230719
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jwt-20230710
+  number: WD-webcodecs-20230720
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

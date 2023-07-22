@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cvc-jwt
+id: W3Cvc-jose-cose
 title:
 - content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/vc-jwt/
+- content: https://www.w3.org/TR/vc-jose-cose/
   type: src
 type: standard
 docid:
-- id: W3C vc-jwt
+- id: W3C vc-jose-cose
   type: W3C
   primary: true
-docnumber: vc-jwt
+docnumber: vc-jose-cose
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-jwt-20230710
+    id: W3CWD-vc-jose-cose-20230721
     docid:
-    - id: W3C WD-vc-jwt-20230710
+    - id: W3C WD-vc-jose-cose-20230721
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230710
+      content: W3C WD-vc-jose-cose-20230721
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: vc-jwt
+  number: vc-jose-cose
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

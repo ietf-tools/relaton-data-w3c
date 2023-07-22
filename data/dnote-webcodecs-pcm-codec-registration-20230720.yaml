@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-avc-codec-registration-20230719
+id: W3CDNOTE-webcodecs-pcm-codec-registration-20230720
 title:
-- content: AVC (H.264) WebCodecs Registration
+- content: Linear PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230719/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-pcm-codec-registration-20230720/
   type: src
-- content: https://w3c.github.io/webcodecs/avc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/pcm_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-avc-codec-registration-20230719
+- id: W3C DNOTE-webcodecs-pcm-codec-registration-20230720
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-avc-codec-registration-20230719
+docnumber: DNOTE-webcodecs-pcm-codec-registration-20230720
 date:
 - type: published
-  value: '2023-07-19'
+  value: '2023-07-20'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-19'
+revdate: '2023-07-20'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-avc-codec-registration-20230708
+    id: W3CDNOTE-webcodecs-pcm-codec-registration-20230719
     docid:
-    - id: W3C DNOTE-webcodecs-avc-codec-registration-20230708
+    - id: W3C DNOTE-webcodecs-pcm-codec-registration-20230719
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-avc-codec-registration-20230708
+      content: W3C DNOTE-webcodecs-pcm-codec-registration-20230719
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-avc-codec-registration-20230719
+  number: DNOTE-webcodecs-pcm-codec-registration-20230720
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

@@ -26504,11 +26504,6 @@
     :date: '20230706'
   :file: data/wd-sparql12-query-20230706.yaml
 - :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20230706'
-  :file: data/dnote-webrtc-nv-use-cases-20230706.yaml
-- :id:
     :code: screen-capture
     :stage: WD
     :date: '20230706'
@@ -26598,11 +26593,6 @@
     :stage: WD
     :date: '20230719'
   :file: data/wd-hr-time-3-20230719.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230719'
-  :file: data/wd-vc-data-model-2.0-20230719.yaml
 - :id:
     :code: screen-wake-lock
     :stage: WD
@@ -26743,6 +26733,16 @@
     :stage: WD
     :date: '20230721'
   :file: data/wd-ambient-light-20230721.yaml
+- :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20230722'
+  :file: data/dnote-webrtc-nv-use-cases-20230722.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230723'
+  :file: data/wd-vc-data-model-2.0-20230723.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26915,9 +26915,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: png-3
   :file: data/png-3.yaml
 - :id:
@@ -26932,3 +26929,6 @@
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

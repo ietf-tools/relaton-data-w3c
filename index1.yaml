@@ -26559,11 +26559,6 @@
     :date: '20230713'
   :file: data/wd-webrtc-encoded-transform-20230713.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230713'
-  :file: data/wd-vc-di-ecdsa-20230713.yaml
-- :id:
     :code: sparql12-update
     :stage: WD
     :date: '20230714'
@@ -26744,6 +26739,16 @@
     :date: '20230723'
   :file: data/wd-vc-data-model-2.0-20230723.yaml
 - :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230723'
+  :file: data/wd-vc-di-ecdsa-20230723.yaml
+- :id:
+    :code: wcag-3.0
+    :stage: WD
+    :date: '20230724'
+  :file: data/wd-wcag-3.0-20230724.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26903,9 +26908,6 @@
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
@@ -26932,3 +26934,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

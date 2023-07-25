@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cw3c-vision
+title:
+- content: Vision for W3C
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/w3c-vision/
+  type: src
+type: standard
+docid:
+- id: W3C w3c-vision
+  type: W3C
+  primary: true
+docnumber: w3c-vision
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-w3c-vision-20230725
+    docid:
+    - id: W3C DNOTE-w3c-vision-20230725
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-w3c-vision-20230725
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: w3c-vision
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

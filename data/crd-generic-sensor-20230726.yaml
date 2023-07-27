@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-CSP3-20230726
+id: W3CCRD-generic-sensor-20230726
 title:
-- content: Content Security Policy Level 3
+- content: Generic Sensor API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-CSP3-20230726/
+- content: https://www.w3.org/TR/2023/CRD-generic-sensor-20230726/
   type: src
-- content: https://w3c.github.io/webappsec-csp/
+- content: https://w3c.github.io/sensors/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20230726
+- id: W3C CRD-generic-sensor-20230726
   type: W3C
   primary: true
-docnumber: WD-CSP3-20230726
+docnumber: CRD-generic-sensor-20230726
 date:
 - type: published
   value: '2023-07-26'
@@ -22,17 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Antonio Sartori
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Mike West
+        content: Rick Waldron
         language:
         - en
         script:
@@ -46,25 +36,25 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-CSP3-20230628
+    id: W3CCRD-generic-sensor-20230725
     docid:
-    - id: W3C WD-CSP3-20230628
+    - id: W3C CRD-generic-sensor-20230725
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20230628
+      content: W3C CRD-generic-sensor-20230725
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-CSP3-20230726
+  number: CRD-generic-sensor-20230726
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

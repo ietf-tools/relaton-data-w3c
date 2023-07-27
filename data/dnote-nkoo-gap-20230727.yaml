@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-nkoo-gap-20230627
+id: W3CDNOTE-nkoo-gap-20230727
 title:
 - content: N’Ko Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230627/
+- content: https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230727/
   type: src
 - content: https://w3c.github.io/afrlreq/gap-analysis/nkoo-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-nkoo-gap-20230627
+- id: W3C DNOTE-nkoo-gap-20230727
   type: W3C
   primary: true
-docnumber: DNOTE-nkoo-gap-20230627
+docnumber: DNOTE-nkoo-gap-20230727
 date:
 - type: published
-  value: '2023-06-27'
+  value: '2023-07-27'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-27'
+revdate: '2023-07-27'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-nkoo-gap-20230615
+    id: W3CDNOTE-nkoo-gap-20230627
     docid:
-    - id: W3C DNOTE-nkoo-gap-20230615
+    - id: W3C DNOTE-nkoo-gap-20230627
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-nkoo-gap-20230615
+      content: W3C DNOTE-nkoo-gap-20230627
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-nkoo-gap-20230627
+  number: DNOTE-nkoo-gap-20230727
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

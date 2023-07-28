@@ -1,45 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-trig-20230628
+id: W3CWD-html-aam-1.0-20230728
 title:
-- content: RDF 1.2 TriG
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-trig-20230628/
+- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20230728/
   type: src
-- content: https://w3c.github.io/rdf-trig/spec/
+- content: https://w3c.github.io/html-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-trig-20230628
+- id: W3C WD-html-aam-1.0-20230728
   type: W3C
   primary: true
-docnumber: WD-rdf12-trig-20230628
+docnumber: WD-html-aam-1.0-20230728
 date:
 - type: published
-  value: '2023-06-28'
+  value: '2023-07-28'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Tomaszuk
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-06-28'
+revdate: '2023-07-28'
 language:
 - en
 script:
@@ -50,19 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-trig-20230516
+    id: W3CWD-html-aam-1.0-20230705
     docid:
-    - id: W3C WD-rdf12-trig-20230516
+    - id: W3C WD-html-aam-1.0-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-trig-20230516
+      content: W3C WD-html-aam-1.0-20230705
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-trig-20230628
+  number: WD-html-aam-1.0-20230728
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

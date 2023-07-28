@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-n-triples-20230615
+id: W3CWD-sparql12-results-xml-20230727
 title:
-- content: RDF 1.2 N-Triples
+- content: SPARQL 1.2 Query Results XML Format
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230615/
+- content: https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230727/
   type: src
-- content: https://w3c.github.io/rdf-n-triples/spec/
+- content: https://w3c.github.io/sparql-results-xml/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-n-triples-20230615
+- id: W3C WD-sparql12-results-xml-20230727
   type: W3C
   primary: true
-docnumber: WD-rdf12-n-triples-20230615
+docnumber: WD-sparql12-results-xml-20230727
 date:
 - type: published
-  value: '2023-06-15'
+  value: '2023-07-27'
 contributor:
 - person:
     name:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Ruben Taelman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-15'
+- person:
+    name:
+      completename:
+        content: Thomas Pellissier Tanon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-07-27'
 language:
 - en
 script:
@@ -50,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-n-triples-20230516
+    id: W3CWD-sparql12-results-xml-20230616
     docid:
-    - id: W3C WD-rdf12-n-triples-20230516
+    - id: W3C WD-sparql12-results-xml-20230616
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-n-triples-20230516
+      content: W3C WD-sparql12-results-xml-20230616
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-n-triples-20230615
+  number: WD-sparql12-results-xml-20230727
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

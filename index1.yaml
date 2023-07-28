@@ -26284,25 +26284,10 @@
     :date: '20230615'
   :file: data/dnote-cher-gap-20230615.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20230615'
-  :file: data/wd-rdf12-n-quads-20230615.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20230615'
-  :file: data/wd-rdf12-n-triples-20230615.yaml
-- :id:
     :code: rdf12-schema
     :stage: WD
     :date: '20230615'
   :file: data/wd-rdf12-schema-20230615.yaml
-- :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20230615'
-  :file: data/wd-rdf12-turtle-20230615.yaml
 - :id:
     :code: rdf12-xml
     :stage: WD
@@ -26338,16 +26323,6 @@
     :stage: WD
     :date: '20230616'
   :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
-- :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-results-json-20230616.yaml
-- :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-results-xml-20230616.yaml
 - :id:
     :code: sparql12-service-description
     :stage: WD
@@ -26399,16 +26374,6 @@
     :date: '20230628'
   :file: data/note-saur-20230628.yaml
 - :id:
-    :code: rdf12-trig
-    :stage: WD
-    :date: '20230628'
-  :file: data/wd-rdf12-trig-20230628.yaml
-- :id:
-    :code: dapt
-    :stage: WD
-    :date: '20230628'
-  :file: data/wd-dapt-20230628.yaml
-- :id:
     :code: payment-request-1.1
     :stage: WD
     :date: '20230628'
@@ -26423,11 +26388,6 @@
     :stage: WD
     :date: '20230629'
   :file: data/wd-vc-jws-2020-20230629.yaml
-- :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20230629'
-  :file: data/wd-rdf12-concepts-20230629.yaml
 - :id:
     :code: sparql12-results-csv-tsv
     :stage: WD
@@ -26474,20 +26434,10 @@
     :date: '20230705'
   :file: data/wd-dpub-aam-1.1-20230705.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20230705'
-  :file: data/wd-html-aam-1.0-20230705.yaml
-- :id:
     :code: dpub-aria-1.1
     :stage: WD
     :date: '20230705'
   :file: data/wd-dpub-aria-1.1-20230705.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20230706'
-  :file: data/wd-sparql12-query-20230706.yaml
 - :id:
     :code: screen-capture
     :stage: WD
@@ -26533,11 +26483,6 @@
     :stage: WD
     :date: '20230713'
   :file: data/wd-vc-data-integrity-20230713.yaml
-- :id:
-    :code: webrtc-encoded-transform
-    :stage: WD
-    :date: '20230713'
-  :file: data/wd-webrtc-encoded-transform-20230713.yaml
 - :id:
     :code: sparql12-update
     :stage: WD
@@ -26619,11 +26564,6 @@
     :date: '20230721'
   :file: data/wd-ambient-light-20230721.yaml
 - :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20230722'
-  :file: data/dnote-webrtc-nv-use-cases-20230722.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: WD
     :date: '20230723'
@@ -26639,20 +26579,10 @@
     :date: '20230725'
   :file: data/dnote-w3c-vision-20230725.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230725'
-  :file: data/wd-vc-data-model-2.0-20230725.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20230725'
   :file: data/dnote-international-specs-20230725.yaml
-- :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230726'
-  :file: data/wd-rdf-canon-20230726.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -26754,6 +26684,76 @@
     :date: '20230727'
   :file: data/wd-csp3-20230727.yaml
 - :id:
+    :code: webrtc-encoded-transform
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-webrtc-encoded-transform-20230727.yaml
+- :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20230727'
+  :file: data/dnote-webrtc-nv-use-cases-20230727.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-dapt-20230727.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-sparql12-results-xml-20230727.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf12-concepts-20230727.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-sparql12-results-json-20230727.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf12-n-quads-20230727.yaml
+- :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf12-n-triples-20230727.yaml
+- :id:
+    :code: rdf12-trig
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf12-trig-20230727.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf12-turtle-20230727.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-sparql12-query-20230727.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230727'
+  :file: data/wd-rdf-canon-20230727.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20230728'
+  :file: data/wd-html-aam-1.0-20230728.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230728'
+  :file: data/wd-vc-data-model-2.0-20230728.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26843,17 +26843,8 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
-- :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
 - :id:
     :code: rdf12-xml
   :file: data/rdf12-xml.yaml
@@ -26873,23 +26864,11 @@
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
-    :code: sparql12-results-json
-  :file: data/sparql12-results-json.yaml
-- :id:
-    :code: sparql12-results-xml
-  :file: data/sparql12-results-xml.yaml
-- :id:
     :code: sparql12-service-description
   :file: data/sparql12-service-description.yaml
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
-- :id:
-    :code: rdf12-trig
-  :file: data/rdf12-trig.yaml
-- :id:
-    :code: dapt
-  :file: data/dapt.yaml
 - :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
@@ -26901,14 +26880,8 @@
     :date: '2020'
   :file: data/vc-jws-2020.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
-- :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
@@ -26934,14 +26907,41 @@
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml
+- :id:
+    :code: sparql12-results-xml
+  :file: data/sparql12-results-xml.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: sparql12-results-json
+  :file: data/sparql12-results-json.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
+- :id:
+    :code: rdf12-trig
+  :file: data/rdf12-trig.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

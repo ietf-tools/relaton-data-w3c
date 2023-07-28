@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20230629
+id: W3CWD-dapt-20230727
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230629/
+- content: https://www.w3.org/TR/2023/WD-dapt-20230727/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20230629
+- id: W3C WD-dapt-20230727
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20230629
+docnumber: WD-dapt-20230727
 date:
 - type: published
-  value: '2023-06-29'
+  value: '2023-07-27'
 contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Pierre-Antoine Champin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-06-29'
+revdate: '2023-07-27'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20230615
+    id: W3CWD-dapt-20230628
     docid:
-    - id: W3C WD-rdf12-concepts-20230615
+    - id: W3C WD-dapt-20230628
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20230615
+      content: W3C WD-dapt-20230628
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20230629
+  number: WD-dapt-20230727
 doctype: technicalReport
+editorialgroup:
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

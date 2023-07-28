@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webrtc-encoded-transform-20230713
+id: W3CWD-rdf-canon-20230727
 title:
-- content: WebRTC Encoded Transform
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230713/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230727/
   type: src
-- content: https://w3c.github.io/webrtc-encoded-transform/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-encoded-transform-20230713
+- id: W3C WD-rdf-canon-20230727
   type: W3C
   primary: true
-docnumber: WD-webrtc-encoded-transform-20230713
+docnumber: WD-rdf-canon-20230727
 date:
 - type: published
-  value: '2023-07-13'
+  value: '2023-07-27'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Dave Longley
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-13'
+revdate: '2023-07-27'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-encoded-transform-20230629
+    id: W3CWD-rdf-canon-20230726
     docid:
-    - id: W3C WD-webrtc-encoded-transform-20230629
+    - id: W3C WD-rdf-canon-20230726
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-encoded-transform-20230629
+      content: W3C WD-rdf-canon-20230726
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-encoded-transform-20230713
+  number: WD-rdf-canon-20230727
 doctype: technicalReport
-editorialgroup:
-- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

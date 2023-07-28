@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dapt-20230628
+id: W3CWD-rdf12-trig-20230727
 title:
-- content: Dubbing and Audio description Profiles of TTML2
+- content: RDF 1.2 TriG
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dapt-20230628/
+- content: https://www.w3.org/TR/2023/WD-rdf12-trig-20230727/
   type: src
-- content: https://w3c.github.io/dapt/
+- content: https://w3c.github.io/rdf-trig/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-dapt-20230628
+- id: W3C WD-rdf12-trig-20230727
   type: W3C
   primary: true
-docnumber: WD-dapt-20230628
+docnumber: WD-rdf12-trig-20230727
 date:
 - type: published
-  value: '2023-06-28'
+  value: '2023-07-27'
 contributor:
 - person:
     name:
       completename:
-        content: Cyril Concolato
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Nigel Megitt
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-28'
+revdate: '2023-07-27'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dapt-20230619
+    id: W3CWD-rdf12-trig-20230628
     docid:
-    - id: W3C WD-dapt-20230619
+    - id: W3C WD-rdf12-trig-20230628
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dapt-20230619
+      content: W3C WD-rdf12-trig-20230628
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dapt-20230628
+  number: WD-rdf12-trig-20230727
 doctype: technicalReport
-editorialgroup:
-- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

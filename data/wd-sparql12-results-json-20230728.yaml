@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-results-json-20230727
+id: W3CWD-sparql12-results-json-20230728
 title:
 - content: SPARQL 1.2 Query Results JSON Format
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-results-json-20230727/
+- content: https://www.w3.org/TR/2023/WD-sparql12-results-json-20230728/
   type: src
 - content: https://w3c.github.io/sparql-results-json/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-results-json-20230727
+- id: W3C WD-sparql12-results-json-20230728
   type: W3C
   primary: true
-docnumber: WD-sparql12-results-json-20230727
+docnumber: WD-sparql12-results-json-20230728
 date:
 - type: published
-  value: '2023-07-27'
+  value: '2023-07-28'
 contributor:
 - person:
     name:
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-27'
+revdate: '2023-07-28'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-results-json-20230616
+    id: W3CWD-sparql12-results-json-20230727
     docid:
-    - id: W3C WD-sparql12-results-json-20230616
+    - id: W3C WD-sparql12-results-json-20230727
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-results-json-20230616
+      content: W3C WD-sparql12-results-json-20230727
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-results-json-20230727
+  number: WD-sparql12-results-json-20230728
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

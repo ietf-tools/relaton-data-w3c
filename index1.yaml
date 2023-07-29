@@ -26699,20 +26699,10 @@
     :date: '20230727'
   :file: data/wd-dapt-20230727.yaml
 - :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-sparql12-results-xml-20230727.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20230727'
   :file: data/wd-rdf12-concepts-20230727.yaml
-- :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-sparql12-results-json-20230727.yaml
 - :id:
     :code: rdf12-n-quads
     :stage: WD
@@ -26739,11 +26729,6 @@
     :date: '20230727'
   :file: data/wd-sparql12-query-20230727.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-rdf-canon-20230727.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20230728'
@@ -26753,6 +26738,21 @@
     :stage: WD
     :date: '20230728'
   :file: data/wd-vc-data-model-2.0-20230728.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20230728'
+  :file: data/wd-sparql12-results-json-20230728.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20230728'
+  :file: data/wd-sparql12-results-xml-20230728.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230728'
+  :file: data/wd-rdf-canon-20230728.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26916,14 +26916,8 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: sparql12-results-xml
-  :file: data/sparql12-results-xml.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
-- :id:
-    :code: sparql12-results-json
-  :file: data/sparql12-results-json.yaml
 - :id:
     :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
@@ -26940,8 +26934,14 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: sparql12-results-json
+  :file: data/sparql12-results-json.yaml
+- :id:
+    :code: sparql12-results-xml
+  :file: data/sparql12-results-xml.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

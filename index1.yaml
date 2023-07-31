@@ -26209,15 +26209,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
     :code: grek-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-grek-gap-20230614.yaml
+- :id:
+    :code: latn-hu-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -26479,11 +26479,6 @@
     :date: '20230712'
   :file: data/wd-webtransport-20230712.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230713'
-  :file: data/wd-vc-data-integrity-20230713.yaml
-- :id:
     :code: sparql12-update
     :stage: WD
     :date: '20230714'
@@ -26654,11 +26649,6 @@
     :date: '20230726'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230726.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20230726'
-  :file: data/wd-wgsl-20230726.yaml
-- :id:
     :code: vc-json-schema
     :stage: WD
     :date: '20230726'
@@ -26678,11 +26668,6 @@
     :type: DNOTE
     :date: '20230727'
   :file: data/dnote-nkoo-gap-20230727.yaml
-- :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-csp3-20230727.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26734,11 +26719,6 @@
     :date: '20230728'
   :file: data/wd-html-aam-1.0-20230728.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230728'
-  :file: data/wd-vc-data-model-2.0-20230728.yaml
-- :id:
     :code: sparql12-results-json
     :stage: WD
     :date: '20230728'
@@ -26753,6 +26733,26 @@
     :stage: WD
     :date: '20230728'
   :file: data/wd-rdf-canon-20230728.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230730'
+  :file: data/wd-vc-data-model-2.0-20230730.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20230731'
+  :file: data/wd-wgsl-20230731.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230731'
+  :file: data/wd-vc-data-integrity-20230731.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20230731'
+  :file: data/wd-csp3-20230731.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26883,9 +26883,6 @@
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
@@ -26934,9 +26931,6 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
 - :id:
@@ -26945,3 +26939,9 @@
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml

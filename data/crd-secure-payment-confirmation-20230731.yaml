@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-secure-payment-confirmation-20230621
+id: W3CCRD-secure-payment-confirmation-20230731
 title:
 - content: Secure Payment Confirmation
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230621/
+- content: https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230731/
   type: src
 - content: https://w3c.github.io/secure-payment-confirmation/
   type: current
 type: standard
 docid:
-- id: W3C CRD-secure-payment-confirmation-20230621
+- id: W3C CRD-secure-payment-confirmation-20230731
   type: W3C
   primary: true
-docnumber: CRD-secure-payment-confirmation-20230621
+docnumber: CRD-secure-payment-confirmation-20230731
 date:
 - type: published
-  value: '2023-06-21'
+  value: '2023-07-31'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-21'
+revdate: '2023-07-31'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-secure-payment-confirmation-20230615
+    id: W3CCRD-secure-payment-confirmation-20230621
     docid:
-    - id: W3C CR-secure-payment-confirmation-20230615
+    - id: W3C CRD-secure-payment-confirmation-20230621
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-secure-payment-confirmation-20230615
+      content: W3C CRD-secure-payment-confirmation-20230621
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-secure-payment-confirmation-20230621
+  number: CRD-secure-payment-confirmation-20230731
 doctype: technicalReport
 editorialgroup:
 - name: Web Payments Working Group

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-clreq-20230701
+id: W3CDNOTE-clreq-20230801
 title:
 - content: Requirements for Chinese Text Layout - 中文排版需求
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-clreq-20230701/
+- content: https://www.w3.org/TR/2023/DNOTE-clreq-20230801/
   type: src
 - content: https://w3c.github.io/clreq/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-clreq-20230701
+- id: W3C DNOTE-clreq-20230801
   type: W3C
   primary: true
-docnumber: DNOTE-clreq-20230701
+docnumber: DNOTE-clreq-20230801
 date:
 - type: published
-  value: '2023-07-01'
+  value: '2023-08-01'
 contributor:
 - person:
     name:
@@ -89,7 +89,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-01'
+revdate: '2023-08-01'
 language:
 - en
 script:
@@ -97,19 +97,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-clreq-20230501
+    id: W3CDNOTE-clreq-20230701
     docid:
-    - id: W3C DNOTE-clreq-20230501
+    - id: W3C DNOTE-clreq-20230701
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-clreq-20230501
+      content: W3C DNOTE-clreq-20230701
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-clreq-20230701
+  number: DNOTE-clreq-20230801
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

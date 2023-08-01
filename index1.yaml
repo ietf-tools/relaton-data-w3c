@@ -26339,11 +26339,6 @@
     :date: '20230620'
   :file: data/crd-webnn-20230620.yaml
 - :id:
-    :code: secure-payment-confirmation
-    :stage: CRD
-    :date: '20230621'
-  :file: data/crd-secure-payment-confirmation-20230621.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20230621'
@@ -26403,11 +26398,6 @@
     :type: NOTE
     :date: '20230630'
   :file: data/note-predefined-counter-styles-20230630.yaml
-- :id:
-    :code: clreq
-    :type: DNOTE
-    :date: '20230701'
-  :file: data/dnote-clreq-20230701.yaml
 - :id:
     :code: paint-timing
     :stage: WD
@@ -26649,11 +26639,6 @@
     :date: '20230726'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230726.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230726'
-  :file: data/wd-vc-json-schema-20230726.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20230726'
@@ -26678,11 +26663,6 @@
     :type: DNOTE
     :date: '20230727'
   :file: data/dnote-webrtc-nv-use-cases-20230727.yaml
-- :id:
-    :code: dapt
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-dapt-20230727.yaml
 - :id:
     :code: rdf12-concepts
     :stage: WD
@@ -26729,11 +26709,6 @@
     :date: '20230728'
   :file: data/wd-sparql12-results-xml-20230728.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230728'
-  :file: data/wd-rdf-canon-20230728.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: WD
     :date: '20230730'
@@ -26753,6 +26728,31 @@
     :stage: WD
     :date: '20230731'
   :file: data/wd-csp3-20230731.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230731'
+  :file: data/wd-rdf-canon-20230731.yaml
+- :id:
+    :code: secure-payment-confirmation
+    :stage: CRD
+    :date: '20230731'
+  :file: data/crd-secure-payment-confirmation-20230731.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230731'
+  :file: data/wd-vc-json-schema-20230731.yaml
+- :id:
+    :code: clreq
+    :type: DNOTE
+    :date: '20230801'
+  :file: data/dnote-clreq-20230801.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20230801'
+  :file: data/wd-dapt-20230801.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26907,12 +26907,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -26937,11 +26931,17 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml

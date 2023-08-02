@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20230731
+id: W3CWD-orientation-sensor-20230801
 title:
-- content: WebGPU Shading Language
+- content: Orientation Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-WGSL-20230731/
+- content: https://www.w3.org/TR/2023/WD-orientation-sensor-20230801/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/orientation-sensor/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20230731
+- id: W3C WD-orientation-sensor-20230801
   type: W3C
   primary: true
-docnumber: WD-WGSL-20230731
+docnumber: WD-orientation-sensor-20230801
 date:
 - type: published
-  value: '2023-07-31'
+  value: '2023-08-01'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Anssi Kostiainen
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-31'
+revdate: '2023-08-01'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20230726
+    id: W3CWD-orientation-sensor-20210902
     docid:
-    - id: W3C WD-WGSL-20230726
+    - id: W3C WD-orientation-sensor-20210902
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20230726
+      content: W3C WD-orientation-sensor-20210902
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20230731
+  number: WD-orientation-sensor-20230801
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

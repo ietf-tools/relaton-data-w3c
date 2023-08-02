@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20230731
+id: W3CWD-WGSL-20230802
 title:
-- content: Verifiable Credentials JSON Schema Specification 2023
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230731/
+- content: https://www.w3.org/TR/2023/WD-WGSL-20230802/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20230731
+- id: W3C WD-WGSL-20230802
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20230731
+docnumber: WD-WGSL-20230802
 date:
 - type: published
-  value: '2023-07-31'
+  value: '2023-08-02'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-31'
+revdate: '2023-08-02'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20230726
+    id: W3CWD-WGSL-20230801
     docid:
-    - id: W3C WD-vc-json-schema-20230726
+    - id: W3C WD-WGSL-20230801
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20230726
+      content: W3C WD-WGSL-20230801
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-json-schema-20230731
+  number: WD-WGSL-20230802
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

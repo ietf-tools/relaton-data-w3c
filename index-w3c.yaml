@@ -6004,8 +6004,8 @@
   :file: data/cr-generic-sensor-20180320.yaml
 - :code: generic-sensor
   :stage: CRD
-  :date: '20230726'
-  :file: data/crd-generic-sensor-20230726.yaml
+  :date: '20230801'
+  :file: data/crd-generic-sensor-20230801.yaml
 - :code: generic-sensor
   :stage: CRD
   :date: '20220502'
@@ -9509,6 +9509,10 @@
   :stage: CR
   :date: '20180320'
   :file: data/cr-orientation-sensor-20180320.yaml
+- :code: orientation-sensor
+  :stage: WD
+  :date: '20230801'
+  :file: data/wd-orientation-sensor-20230801.yaml
 - :code: orientation-sensor
   :stage: WD
   :date: '20210902'
@@ -14903,8 +14907,8 @@
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: WD
-  :date: '20230731'
-  :file: data/wd-vc-json-schema-20230731.yaml
+  :date: '20230801'
+  :file: data/wd-vc-json-schema-20230801.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml
@@ -17053,8 +17057,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20230731'
-  :file: data/wd-wgsl-20230731.yaml
+  :date: '20230802'
+  :file: data/wd-wgsl-20230802.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webrtc-stats-20230720
+id: W3CCRD-webrtc-stats-20230803
 title:
 - content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/
   type: src
 - content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20230720
+- id: W3C CRD-webrtc-stats-20230803
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20230720
+docnumber: CRD-webrtc-stats-20230803
 date:
 - type: published
-  value: '2023-07-20'
+  value: '2023-08-03'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-20'
+revdate: '2023-08-03'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20230615
+    id: W3CCRD-webrtc-stats-20230720
     docid:
-    - id: W3C CRD-webrtc-stats-20230615
+    - id: W3C CRD-webrtc-stats-20230720
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20230615
+      content: W3C CRD-webrtc-stats-20230720
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-webrtc-stats-20230720
+  number: CRD-webrtc-stats-20230803
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

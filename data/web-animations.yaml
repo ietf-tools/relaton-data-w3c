@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-web-animations-20140605
-    docid:
-    - id: W3C WD-web-animations-20140605
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-animations-20140605
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-web-animations-20130625
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-web-animations-20130625
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-web-animations-20140605
+    docid:
+    - id: W3C WD-web-animations-20140605
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-20140605
       format: text/plain
 series:
 - title:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-miniapp-lifecycle-20220528
-    docid:
-    - id: W3C WD-miniapp-lifecycle-20220528
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-miniapp-lifecycle-20220528
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-miniapp-lifecycle-20211126
     docid:
     - id: W3C WD-miniapp-lifecycle-20211126
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-miniapp-lifecycle-20211126
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-miniapp-lifecycle-20220528
+    docid:
+    - id: W3C WD-miniapp-lifecycle-20220528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-lifecycle-20220528
       format: text/plain
 series:
 - title:

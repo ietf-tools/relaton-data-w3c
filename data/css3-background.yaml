@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-background
 title:
-- content: CSS3 Backgrounds and Borders Module
+- content: 'CSS3 module: Backgrounds'
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-background/
@@ -23,13 +23,23 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-background-20050216
+    id: W3CWD-css3-background-20020802
     docid:
-    - id: W3C WD-css3-background-20050216
+    - id: W3C WD-css3-background-20020802
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-background-20050216
+      content: W3C WD-css3-background-20020802
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-background-20091015
+    docid:
+    - id: W3C WD-css3-background-20091015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-background-20091015
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -43,13 +53,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-background-20020802
+    id: W3CWD-css3-background-20080910
     docid:
-    - id: W3C WD-css3-background-20020802
+    - id: W3C WD-css3-background-20080910
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-background-20020802
+      content: W3C WD-css3-background-20080910
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-background-20110215
+    docid:
+    - id: W3C CR-css3-background-20110215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-background-20110215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-background-20050216
+    docid:
+    - id: W3C WD-css3-background-20050216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-background-20050216
       format: text/plain
 - type: instance
   bibitem:
@@ -70,36 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-background-20100612
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-background-20080910
-    docid:
-    - id: W3C WD-css3-background-20080910
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-background-20080910
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-background-20091015
-    docid:
-    - id: W3C WD-css3-background-20091015
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-background-20091015
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-background-20110215
-    docid:
-    - id: W3C CR-css3-background-20110215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-background-20110215
       format: text/plain
 series:
 - title:

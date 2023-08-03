@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-html5-diff-20090825
+    docid:
+    - id: W3C WD-html5-diff-20090825
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html5-diff-20090825
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-html5-diff-20121025
     docid:
     - id: W3C WD-html5-diff-20121025
@@ -37,6 +47,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-html5-diff-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html5-diff-20080610
+    docid:
+    - id: W3C WD-html5-diff-20080610
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html5-diff-20080610
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html5-diff-20110525
+    docid:
+    - id: W3C WD-html5-diff-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html5-diff-20110525
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -57,36 +87,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-html5-diff-20101019
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html5-diff-20080610
-    docid:
-    - id: W3C WD-html5-diff-20080610
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html5-diff-20080610
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html5-diff-20090825
-    docid:
-    - id: W3C WD-html5-diff-20090825
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html5-diff-20090825
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html5-diff-20110525
-    docid:
-    - id: W3C WD-html5-diff-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html5-diff-20110525
       format: text/plain
 series:
 - title:

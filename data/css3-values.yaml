@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-values
 title:
-- content: CSS3 Values and Units
+- content: 'CSS3 module: Values and Units'
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-values/
@@ -23,26 +23,6 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-values-20050726
-    docid:
-    - id: W3C WD-css3-values-20050726
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-values-20050726
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-values-20120828
-    docid:
-    - id: W3C CR-css3-values-20120828
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-values-20120828
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-values-20010713
     docid:
     - id: W3C WD-css3-values-20010713
@@ -50,16 +30,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-values-20010713
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CCR-css3-values-20130730
-    docid:
-    - id: W3C CR-css3-values-20130730
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-values-20130730
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-css3-values-20120828
+    docid:
+    - id: W3C CR-css3-values-20120828
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-values-20120828
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-css3-values-20110906
     docid:
     - id: W3C WD-css3-values-20110906
@@ -80,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-values-20110906
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-css3-values-20130730
+    docid:
+    - id: W3C CR-css3-values-20130730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-values-20130730
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-values-20050726
+    docid:
+    - id: W3C WD-css3-values-20050726
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-values-20050726
       format: text/plain
 series:
 - title:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-geolocation-20220407
-    docid:
-    - id: W3C PR-geolocation-20220407
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-geolocation-20220407
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-geolocation-20211123
     docid:
     - id: W3C WD-geolocation-20211123
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-geolocation-20211124
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-geolocation-20220407
+    docid:
+    - id: W3C PR-geolocation-20220407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-geolocation-20220407
       format: text/plain
 series:
 - title:

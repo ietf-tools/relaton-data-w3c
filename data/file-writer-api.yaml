@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-file-writer-api-20101026
-    docid:
-    - id: W3C WD-file-writer-api-20101026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-file-writer-api-20101026
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-file-writer-api-20110419
     docid:
     - id: W3C WD-file-writer-api-20110419
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-file-writer-api-20110419
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-file-writer-api-20101026
+    docid:
+    - id: W3C WD-file-writer-api-20101026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-file-writer-api-20101026
       format: text/plain
 series:
 - title:

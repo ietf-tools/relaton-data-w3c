@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-payment-request-20210930
-    docid:
-    - id: W3C PR-payment-request-20210930
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-payment-request-20210930
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-payment-request-20191212
-    docid:
-    - id: W3C CR-payment-request-20191212
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-payment-request-20191212
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-payment-request-20170921
     docid:
     - id: W3C CR-payment-request-20170921
@@ -63,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-request-20161214
+    id: W3CPR-payment-request-20210930
     docid:
-    - id: W3C WD-payment-request-20161214
+    - id: W3C PR-payment-request-20210930
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-payment-request-20161214
+      content: W3C PR-payment-request-20210930
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-payment-request-20191212
+    docid:
+    - id: W3C CR-payment-request-20191212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-payment-request-20201203
     docid:
     - id: W3C CR-payment-request-20201203
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-payment-request-20201203
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-request-20161214
+    docid:
+    - id: W3C WD-payment-request-20161214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-request-20161214
       format: text/plain
 series:
 - title:

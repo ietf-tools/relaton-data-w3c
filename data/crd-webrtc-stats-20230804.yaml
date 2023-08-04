@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-view-transitions-1-20230530
+id: W3CCRD-webrtc-stats-20230804
 title:
-- content: CSS View Transitions Module Level 1
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/
   type: src
-- content: https://drafts.csswg.org/css-view-transitions-1/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-view-transitions-1-20230530
+- id: W3C CRD-webrtc-stats-20230804
   type: W3C
   primary: true
-docnumber: WD-css-view-transitions-1-20230530
+docnumber: CRD-webrtc-stats-20230804
 date:
 - type: published
-  value: '2023-05-30'
+  value: '2023-08-04'
 contributor:
 - person:
     name:
       completename:
-        content: Jake Archibald
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Khushal Sagar
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Tab Atkins Jr.
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-30'
+revdate: '2023-08-04'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-view-transitions-1-20230525
+    id: W3CCRD-webrtc-stats-20230803
     docid:
-    - id: W3C WD-css-view-transitions-1-20230525
+    - id: W3C CRD-webrtc-stats-20230803
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-view-transitions-1-20230525
+      content: W3C CRD-webrtc-stats-20230803
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-css-view-transitions-1-20230530
+  number: CRD-webrtc-stats-20230804
 doctype: technicalReport
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

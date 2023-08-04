@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webrtc-stats-20230803
+id: W3CWD-vc-json-schema-20230803
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230803/
   type: src
-- content: https://w3c.github.io/webrtc-stats/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20230803
+- id: W3C WD-vc-json-schema-20230803
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20230803
+docnumber: WD-vc-json-schema-20230803
 date:
 - type: published
   value: '2023-08-03'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Orie Steele
         language:
         - en
         script:
@@ -56,25 +56,25 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20230720
+    id: W3CWD-vc-json-schema-20230802
     docid:
-    - id: W3C CRD-webrtc-stats-20230720
+    - id: W3C WD-vc-json-schema-20230802
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20230720
+      content: W3C WD-vc-json-schema-20230802
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webrtc-stats-20230803
+  number: WD-vc-json-schema-20230803
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

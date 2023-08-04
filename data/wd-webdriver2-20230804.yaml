@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-IndexedDB-3-20230613
+id: W3CWD-webdriver2-20230804
 title:
-- content: Indexed Database API 3.0
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-IndexedDB-3-20230613/
+- content: https://www.w3.org/TR/2023/WD-webdriver2-20230804/
   type: src
-- content: https://w3c.github.io/IndexedDB/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-IndexedDB-3-20230613
+- id: W3C WD-webdriver2-20230804
   type: W3C
   primary: true
-docnumber: WD-IndexedDB-3-20230613
+docnumber: WD-webdriver2-20230804
 date:
 - type: published
-  value: '2023-06-13'
+  value: '2023-08-04'
 contributor:
 - person:
     name:
       completename:
-        content: Ali Alabbas
+        content: David Burns
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-13'
+revdate: '2023-08-04'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-IndexedDB-3-20230413
+    id: W3CWD-webdriver2-20230607
     docid:
-    - id: W3C WD-IndexedDB-3-20230413
+    - id: W3C WD-webdriver2-20230607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20230413
+      content: W3C WD-webdriver2-20230607
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IndexedDB-3-20230613
+  number: WD-webdriver2-20230804
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

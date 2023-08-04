@@ -26099,11 +26099,6 @@
     :date: '20230530'
   :file: data/wd-miniapp-manifest-20230530.yaml
 - :id:
-    :code: css-view-transitions-1
-    :stage: WD
-    :date: '20230530'
-  :file: data/wd-css-view-transitions-1-20230530.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230531'
@@ -26129,11 +26124,6 @@
     :date: '20230606'
   :file: data/wd-scroll-animations-1-20230606.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20230607'
-  :file: data/wd-webdriver2-20230607.yaml
-- :id:
     :code: navigation-timing-2
     :stage: WD
     :date: '20230607'
@@ -26153,11 +26143,6 @@
     :stage: WD
     :date: '20230613'
   :file: data/wd-permissions-20230613.yaml
-- :id:
-    :code: IndexedDB-3
-    :stage: WD
-    :date: '20230613'
-  :file: data/wd-indexeddb-3-20230613.yaml
 - :id:
     :code: alreq-gap
     :type: DNOTE
@@ -26739,25 +26724,40 @@
     :date: '20230802'
   :file: data/wd-wgsl-20230802.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230802'
-  :file: data/wd-vc-data-model-2.0-20230802.yaml
-- :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230802'
-  :file: data/wd-vc-json-schema-20230802.yaml
-- :id:
     :code: screen-orientation
     :stage: WD
     :date: '20230803'
   :file: data/wd-screen-orientation-20230803.yaml
 - :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230803'
+  :file: data/wd-vc-json-schema-20230803.yaml
+- :id:
+    :code: css-view-transitions-1
+    :stage: WD
+    :date: '20230803'
+  :file: data/wd-css-view-transitions-1-20230803.yaml
+- :id:
+    :code: IndexedDB-3
+    :stage: WD
+    :date: '20230803'
+  :file: data/wd-indexeddb-3-20230803.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230803'
+  :file: data/wd-vc-data-model-2.0-20230803.yaml
+- :id:
     :code: webrtc-stats
     :stage: CRD
-    :date: '20230803'
-  :file: data/crd-webrtc-stats-20230803.yaml
+    :date: '20230804'
+  :file: data/crd-webrtc-stats-20230804.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20230804'
+  :file: data/wd-webdriver2-20230804.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26832,9 +26832,6 @@
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
-- :id:
-    :code: css-view-transitions-1
-  :file: data/css-view-transitions-1.yaml
 - :id:
     :code: css-animations-2
   :file: data/css-animations-2.yaml
@@ -26945,8 +26942,11 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: css-view-transitions-1
+  :file: data/css-view-transitions-1.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

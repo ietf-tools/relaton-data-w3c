@@ -26679,11 +26679,6 @@
     :date: '20230728'
   :file: data/wd-sparql12-results-xml-20230728.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230731'
-  :file: data/wd-vc-data-integrity-20230731.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20230731'
@@ -26758,6 +26753,11 @@
     :stage: WD
     :date: '20230804'
   :file: data/wd-indexeddb-3-20230804.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230805'
+  :file: data/wd-vc-data-integrity-20230805.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26933,9 +26933,6 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -26950,3 +26947,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml

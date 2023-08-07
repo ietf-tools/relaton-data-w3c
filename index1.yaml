@@ -26254,11 +26254,6 @@
     :date: '20230615'
   :file: data/dnote-khmr-gap-20230615.yaml
 - :id:
-    :code: java-gap
-    :type: DNOTE
-    :date: '20230615'
-  :file: data/dnote-java-gap-20230615.yaml
-- :id:
     :code: cher-gap
     :type: DNOTE
     :date: '20230615'
@@ -26268,11 +26263,6 @@
     :stage: WD
     :date: '20230615'
   :file: data/wd-rdf12-schema-20230615.yaml
-- :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20230615'
-  :file: data/wd-rdf12-xml-20230615.yaml
 - :id:
     :code: sparql12-entailment
     :stage: WD
@@ -26524,11 +26514,6 @@
     :date: '20230721'
   :file: data/wd-ambient-light-20230721.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230723'
-  :file: data/wd-vc-di-ecdsa-20230723.yaml
-- :id:
     :code: wcag-3.0
     :stage: WD
     :date: '20230724'
@@ -26744,11 +26729,6 @@
     :date: '20230804'
   :file: data/crd-webrtc-stats-20230804.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20230804'
-  :file: data/wd-webdriver2-20230804.yaml
-- :id:
     :code: IndexedDB-3
     :stage: WD
     :date: '20230804'
@@ -26756,8 +26736,28 @@
 - :id:
     :code: vc-data-integrity
     :stage: WD
-    :date: '20230805'
-  :file: data/wd-vc-data-integrity-20230805.yaml
+    :date: '20230806'
+  :file: data/wd-vc-data-integrity-20230806.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230806'
+  :file: data/wd-vc-di-ecdsa-20230806.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20230807'
+  :file: data/wd-webdriver2-20230807.yaml
+- :id:
+    :code: java-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-java-gap-20230807.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20230807'
+  :file: data/wd-rdf12-xml-20230807.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26848,9 +26848,6 @@
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
 - :id:
-    :code: rdf12-xml
-  :file: data/rdf12-xml.yaml
-- :id:
     :code: sparql12-entailment
   :file: data/sparql12-entailment.yaml
 - :id:
@@ -26900,9 +26897,6 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
@@ -26950,3 +26944,9 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: rdf12-xml
+  :file: data/rdf12-xml.yaml

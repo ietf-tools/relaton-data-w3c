@@ -25374,11 +25374,6 @@
     :date: '20220712'
   :file: data/note-act-rules-aspects-20220712.yaml
 - :id:
-    :code: hebr-gap
-    :type: DNOTE
-    :date: '20220713'
-  :file: data/dnote-hebr-gap-20220713.yaml
-- :id:
     :code: did-core
     :stage: REC
     :date: '20220719'
@@ -26144,21 +26139,6 @@
     :date: '20230613'
   :file: data/wd-permissions-20230613.yaml
 - :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-alreq-gap-20230614.yaml
-- :id:
-    :code: arab-ks-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-arab-ks-gap-20230614.yaml
-- :id:
-    :code: arab-ug-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-arab-ug-gap-20230614.yaml
-- :id:
     :code: cans-iu-cr-gap
     :type: DNOTE
     :date: '20230614'
@@ -26273,11 +26253,6 @@
     :stage: WD
     :date: '20230615'
   :file: data/wd-rdf12-semantics-20230615.yaml
-- :id:
-    :code: adlm-gap
-    :type: DNOTE
-    :date: '20230616'
-  :file: data/dnote-adlm-gap-20230616.yaml
 - :id:
     :code: sparql12-federated-query
     :stage: WD
@@ -26604,11 +26579,6 @@
     :date: '20230726'
   :file: data/wd-webgpu-20230726.yaml
 - :id:
-    :code: nkoo-gap
-    :type: DNOTE
-    :date: '20230727'
-  :file: data/dnote-nkoo-gap-20230727.yaml
-- :id:
     :code: webrtc-encoded-transform
     :stage: WD
     :date: '20230727'
@@ -26709,11 +26679,6 @@
     :date: '20230803'
   :file: data/wd-screen-orientation-20230803.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230803'
-  :file: data/wd-vc-json-schema-20230803.yaml
-- :id:
     :code: css-view-transitions-1
     :stage: WD
     :date: '20230803'
@@ -26758,6 +26723,41 @@
     :stage: WD
     :date: '20230807'
   :file: data/wd-rdf12-xml-20230807.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-alreq-gap-20230807.yaml
+- :id:
+    :code: arab-ks-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-arab-ks-gap-20230807.yaml
+- :id:
+    :code: arab-ug-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-arab-ug-gap-20230807.yaml
+- :id:
+    :code: adlm-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-adlm-gap-20230807.yaml
+- :id:
+    :code: nkoo-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-nkoo-gap-20230807.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20230807'
+  :file: data/dnote-hebr-gap-20230807.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230807'
+  :file: data/wd-vc-json-schema-20230807.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26933,9 +26933,6 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
@@ -26950,3 +26947,6 @@
 - :id:
     :code: rdf12-xml
   :file: data/rdf12-xml.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

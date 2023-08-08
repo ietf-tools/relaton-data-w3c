@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-adlm-gap-20230616
+id: W3CDNOTE-adlm-gap-20230807
 title:
 - content: Adlam Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230616/
+- content: https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230807/
   type: src
 - content: https://w3c.github.io/afrlreq/gap-analysis/adlm-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-adlm-gap-20230616
+- id: W3C DNOTE-adlm-gap-20230807
   type: W3C
   primary: true
-docnumber: DNOTE-adlm-gap-20230616
+docnumber: DNOTE-adlm-gap-20230807
 date:
 - type: published
-  value: '2023-06-16'
+  value: '2023-08-07'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-16'
+revdate: '2023-08-07'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-adlm-gap-20230614
+    id: W3CDNOTE-adlm-gap-20230616
     docid:
-    - id: W3C DNOTE-adlm-gap-20230614
+    - id: W3C DNOTE-adlm-gap-20230616
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-adlm-gap-20230614
+      content: W3C DNOTE-adlm-gap-20230616
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-adlm-gap-20230616
+  number: DNOTE-adlm-gap-20230807
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

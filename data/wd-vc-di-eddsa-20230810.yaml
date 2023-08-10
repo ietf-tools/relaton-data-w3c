@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20230806
+id: W3CWD-vc-di-eddsa-20230810
 title:
-- content: Data Integrity ECDSA Cryptosuites v1.0
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230806/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230810/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20230806
+- id: W3C WD-vc-di-eddsa-20230810
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20230806
+docnumber: WD-vc-di-eddsa-20230810
 date:
 - type: published
-  value: '2023-08-06'
+  value: '2023-08-10'
 contributor:
+- person:
+    name:
+      completename:
+        content: Dmitri Zagidulin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -42,16 +52,6 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Reed
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
         content: Sebastian Crane
         language:
         - en
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-06'
+revdate: '2023-08-10'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20230723
+    id: W3CWD-vc-di-eddsa-20230714
     docid:
-    - id: W3C WD-vc-di-ecdsa-20230723
+    - id: W3C WD-vc-di-eddsa-20230714
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20230723
+      content: W3C WD-vc-di-eddsa-20230714
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-ecdsa-20230806
+  number: WD-vc-di-eddsa-20230810
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

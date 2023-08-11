@@ -25564,11 +25564,6 @@
     :date: '20221122'
   :file: data/dnote-css-2022-20221122.yaml
 - :id:
-    :code: webmachinelearning-ethics
-    :type: DNOTE
-    :date: '20221129'
-  :file: data/dnote-webmachinelearning-ethics-20221129.yaml
-- :id:
     :code: css-values-3
     :stage: CR
     :date: '20221201'
@@ -26029,11 +26024,6 @@
     :date: '20230519'
   :file: data/note-epub-multi-rend-11-20230519.yaml
 - :id:
-    :code: baggage
-    :stage: WD
-    :date: '20230523'
-  :file: data/wd-baggage-20230523.yaml
-- :id:
     :code: vc-di-bbs
     :stage: WD
     :date: '20230524'
@@ -26169,15 +26159,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
     :code: grek-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-grek-gap-20230614.yaml
+- :id:
+    :code: latn-hu-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -26624,11 +26614,6 @@
     :date: '20230731'
   :file: data/wd-csp3-20230731.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230731'
-  :file: data/wd-rdf-canon-20230731.yaml
-- :id:
     :code: secure-payment-confirmation
     :stage: CRD
     :date: '20230731'
@@ -26673,11 +26658,6 @@
     :type: DNOTE
     :date: '20230807'
   :file: data/dnote-java-gap-20230807.yaml
-- :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20230807'
-  :file: data/wd-rdf12-xml-20230807.yaml
 - :id:
     :code: alreq-gap
     :type: DNOTE
@@ -26759,6 +26739,26 @@
     :date: '20230810'
   :file: data/crd-webnn-20230810.yaml
 - :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230810'
+  :file: data/wd-rdf-canon-20230810.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20230810'
+  :file: data/wd-rdf12-xml-20230810.yaml
+- :id:
+    :code: baggage
+    :stage: WD
+    :date: '20230810'
+  :file: data/wd-baggage-20230810.yaml
+- :id:
+    :code: webmachinelearning-ethics
+    :type: DNOTE
+    :date: '20230811'
+  :file: data/dnote-webmachinelearning-ethics-20230811.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26792,9 +26792,6 @@
     :code: css
     :date: '2022'
   :file: data/css-2022.yaml
-- :id:
-    :code: webmachinelearning-ethics
-  :file: data/webmachinelearning-ethics.yaml
 - :id:
     :code: adapt
   :file: data/adapt.yaml
@@ -26924,17 +26921,11 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
-- :id:
-    :code: rdf12-xml
-  :file: data/rdf12-xml.yaml
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
@@ -26950,3 +26941,12 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: rdf12-xml
+  :file: data/rdf12-xml.yaml
+- :id:
+    :code: webmachinelearning-ethics
+  :file: data/webmachinelearning-ethics.yaml

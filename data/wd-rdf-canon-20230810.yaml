@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-baggage-20230523
+id: W3CWD-rdf-canon-20230810
 title:
-- content: 'Propagation format for distributed context: Baggage'
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-baggage-20230523/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230810/
   type: src
-- content: https://w3c.github.io/baggage/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-baggage-20230523
+- id: W3C WD-rdf-canon-20230810
   type: W3C
   primary: true
-docnumber: WD-baggage-20230523
+docnumber: WD-rdf-canon-20230810
 date:
 - type: published
-  value: '2023-05-23'
+  value: '2023-08-10'
 contributor:
 - person:
     name:
       completename:
-        content: Sergey Kanzhelev
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Yuri Shkuro
+        content: Dave Longley
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-23'
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-08-10'
 language:
 - en
 script:
@@ -50,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-baggage-20220928
+    id: W3CWD-rdf-canon-20230731
     docid:
-    - id: W3C WD-baggage-20220928
+    - id: W3C WD-rdf-canon-20230731
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-baggage-20220928
+      content: W3C WD-rdf-canon-20230731
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-baggage-20230523
+  number: WD-rdf-canon-20230810
 doctype: technicalReport
-editorialgroup:
-- name: Distributed Tracing Working Group
 ext:
   schema-version: v1.0.0

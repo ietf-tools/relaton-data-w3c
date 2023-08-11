@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-xml-20230807
+id: W3CWD-rdf12-xml-20230810
 title:
 - content: RDF 1.2 XML Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-xml-20230807/
+- content: https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/
   type: src
 - content: https://w3c.github.io/rdf-xml/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-xml-20230807
+- id: W3C WD-rdf12-xml-20230810
   type: W3C
   primary: true
-docnumber: WD-rdf12-xml-20230807
+docnumber: WD-rdf12-xml-20230810
 date:
 - type: published
-  value: '2023-08-07'
+  value: '2023-08-10'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-07'
+revdate: '2023-08-10'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-xml-20230615
+    id: W3CWD-rdf12-xml-20230807
     docid:
-    - id: W3C WD-rdf12-xml-20230615
+    - id: W3C WD-rdf12-xml-20230807
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-xml-20230615
+      content: W3C WD-rdf12-xml-20230807
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-xml-20230807
+  number: WD-rdf12-xml-20230810
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -26459,11 +26459,6 @@
     :date: '20230721'
   :file: data/dnote-jpan-gap-20230721.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230721'
-  :file: data/wd-vc-jose-cose-20230721.yaml
-- :id:
     :code: ambient-light
     :stage: WD
     :date: '20230721'
@@ -26709,11 +26704,6 @@
     :date: '20230809'
   :file: data/wd-vc-json-schema-20230809.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230809'
-  :file: data/wd-vc-data-model-2.0-20230809.yaml
-- :id:
     :code: vc-data-integrity
     :stage: WD
     :date: '20230810'
@@ -26758,6 +26748,16 @@
     :type: DNOTE
     :date: '20230811'
   :file: data/dnote-webmachinelearning-ethics-20230811.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230811'
+  :file: data/wd-vc-data-model-2.0-20230811.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230811'
+  :file: data/wd-vc-jose-cose-20230811.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26888,9 +26888,6 @@
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
@@ -26930,9 +26927,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -26950,3 +26944,9 @@
 - :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

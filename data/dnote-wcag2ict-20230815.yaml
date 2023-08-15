@@ -1,29 +1,29 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-wcag2ict-20130905
+id: W3CDNOTE-wcag2ict-20230815
 title:
-- content: Guidance on Applying WCAG 2.0 to Non-Web Information and Communications
+- content: Guidance on Applying WCAG 2.2 to Non-Web Information and Communications
     Technologies (WCAG2ICT)
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2013/NOTE-wcag2ict-20130905/
+- content: https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/
   type: src
-- content: http://www.w3.org/WAI/GL/wcag2ict/
+- content: https://w3c.github.io/wcag2ict/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-wcag2ict-20130905
+- id: W3C DNOTE-wcag2ict-20230815
   type: W3C
   primary: true
-docnumber: NOTE-wcag2ict-20130905
+docnumber: DNOTE-wcag2ict-20230815
 date:
 - type: published
-  value: '2013-09-05'
+  value: '2023-08-15'
 contributor:
 - person:
     name:
       completename:
-        content: Andi Snow-Weaver
+        content: Chris Loiselle
         language:
         - en
         script:
@@ -33,7 +33,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Vanderheiden
+        content: Mary Jo Mueller
         language:
         - en
         script:
@@ -43,24 +43,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Phil Day
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Peter Korn
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2013-09-05'
+revdate: '2023-08-15'
 language:
 - en
 script:
@@ -68,19 +58,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wcag2ict-20130711
+    id: W3CNOTE-wcag2ict-20130905
     docid:
-    - id: W3C WD-wcag2ict-20130711
+    - id: W3C NOTE-wcag2ict-20130905
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wcag2ict-20130711
+      content: W3C NOTE-wcag2ict-20130905
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-wcag2ict-20130905
+  number: DNOTE-wcag2ict-20230815
 doctype: groupNote
 editorialgroup:
 - name: Accessibility Guidelines Working Group

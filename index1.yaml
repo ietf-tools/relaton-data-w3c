@@ -26699,11 +26699,6 @@
     :date: '20230809'
   :file: data/wd-screen-orientation-20230809.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230809'
-  :file: data/wd-vc-json-schema-20230809.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: WD
     :date: '20230810'
@@ -26758,6 +26753,16 @@
     :stage: WD
     :date: '20230814'
   :file: data/wd-vc-data-model-2.0-20230814.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230814'
+  :file: data/wd-vc-json-schema-20230814.yaml
+- :id:
+    :code: wcag2ict
+    :type: DNOTE
+    :date: '20230815'
+  :file: data/dnote-wcag2ict-20230815.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26924,9 +26929,6 @@
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
@@ -26950,3 +26952,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

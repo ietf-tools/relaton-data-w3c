@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jose-cose-20230811
+id: W3CWD-vc-json-schema-20230815
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230815/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jose-cose-20230811
+- id: W3C WD-vc-json-schema-20230815
   type: W3C
   primary: true
-docnumber: WD-vc-jose-cose-20230811
+docnumber: WD-vc-json-schema-20230815
 date:
 - type: published
-  value: '2023-08-11'
+  value: '2023-08-15'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-11'
+revdate: '2023-08-15'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jose-cose-20230721
+    id: W3CWD-vc-json-schema-20230814
     docid:
-    - id: W3C WD-vc-jose-cose-20230721
+    - id: W3C WD-vc-json-schema-20230814
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jose-cose-20230721
+      content: W3C WD-vc-json-schema-20230814
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jose-cose-20230811
+  number: WD-vc-json-schema-20230815
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

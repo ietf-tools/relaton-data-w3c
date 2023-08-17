@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-input-events-1-20170905
-    docid:
-    - id: W3C WD-input-events-1-20170905
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-input-events-1-20170905
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-input-events-1-20181109
     docid:
     - id: W3C WD-input-events-1-20181109
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-input-events-1-20181109
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-input-events-1-20170905
+    docid:
+    - id: W3C WD-input-events-1-20170905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-input-events-1-20170905
       format: text/plain
 series:
 - title:

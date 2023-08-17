@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jose-cose-20230815
+id: W3CCRD-core-aam-1.2-20230816
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/
+- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230816/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jose-cose-20230815
+- id: W3C CRD-core-aam-1.2-20230816
   type: W3C
   primary: true
-docnumber: WD-vc-jose-cose-20230815
+docnumber: CRD-core-aam-1.2-20230816
 date:
 - type: published
-  value: '2023-08-15'
+  value: '2023-08-16'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Michael Cooper
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-15'
+revdate: '2023-08-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jose-cose-20230811
+    id: W3CCRD-core-aam-1.2-20230705
     docid:
-    - id: W3C WD-vc-jose-cose-20230811
+    - id: W3C CRD-core-aam-1.2-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jose-cose-20230811
+      content: W3C CRD-core-aam-1.2-20230705
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-vc-jose-cose-20230815
+  number: CRD-core-aam-1.2-20230816
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

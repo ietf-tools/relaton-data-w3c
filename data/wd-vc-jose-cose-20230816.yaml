@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20230705
+id: W3CWD-vc-jose-cose-20230816
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230705/
+- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20230705
+- id: W3C WD-vc-jose-cose-20230816
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20230705
+docnumber: WD-vc-jose-cose-20230816
 date:
 - type: published
-  value: '2023-07-05'
+  value: '2023-08-16'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Michael Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Michael Prorock
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-05'
+revdate: '2023-08-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20230628
+    id: W3CWD-vc-jose-cose-20230815
     docid:
-    - id: W3C CRD-core-aam-1.2-20230628
+    - id: W3C WD-vc-jose-cose-20230815
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20230628
+      content: W3C WD-vc-jose-cose-20230815
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20230705
+  number: WD-vc-jose-cose-20230816
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

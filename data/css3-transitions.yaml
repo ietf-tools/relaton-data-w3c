@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-transitions
 title:
-- content: CSS Transitions
+- content: CSS Transitions Module Level 3
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-transitions/
+- content: http://www.w3.org/TR/css3-transitions
   type: src
 type: standard
 docid:
@@ -21,26 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-css3-transitions-20131119
-    docid:
-    - id: W3C WD-css3-transitions-20131119
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-transitions-20131119
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-transitions-20091201
-    docid:
-    - id: W3C WD-css3-transitions-20091201
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-transitions-20091201
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-transitions-20090320
@@ -60,6 +40,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-transitions-20120403
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-transitions-20091201
+    docid:
+    - id: W3C WD-css3-transitions-20091201
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-transitions-20091201
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-css3-transitions-20131119
+    docid:
+    - id: W3C WD-css3-transitions-20131119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-transitions-20131119
       format: text/plain
 series:
 - title:

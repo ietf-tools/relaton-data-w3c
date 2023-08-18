@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-progress-events-20110922
-    docid:
-    - id: W3C CR-progress-events-20110922
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-progress-events-20110922
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-progress-events-20080521
     docid:
     - id: W3C WD-progress-events-20080521
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-progress-events-20080521
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-progress-events-20110922
+    docid:
+    - id: W3C CR-progress-events-20110922
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-progress-events-20110922
       format: text/plain
 - type: hasEdition
   bibitem:

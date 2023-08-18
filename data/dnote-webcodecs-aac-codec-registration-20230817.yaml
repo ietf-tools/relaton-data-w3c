@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-pcm-codec-registration-20230726
+id: W3CDNOTE-webcodecs-aac-codec-registration-20230817
 title:
-- content: Linear PCM WebCodecs Registration
+- content: AAC WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-pcm-codec-registration-20230726/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-aac-codec-registration-20230817/
   type: src
-- content: https://w3c.github.io/webcodecs/pcm_codec_registration.html
+- content: https://w3c.github.io/webcodecs/aac_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-pcm-codec-registration-20230726
+- id: W3C DNOTE-webcodecs-aac-codec-registration-20230817
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-pcm-codec-registration-20230726
+docnumber: DNOTE-webcodecs-aac-codec-registration-20230817
 date:
 - type: published
-  value: '2023-07-26'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-26'
+revdate: '2023-08-17'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-pcm-codec-registration-20230720
+    id: W3CDNOTE-webcodecs-aac-codec-registration-20230726
     docid:
-    - id: W3C DNOTE-webcodecs-pcm-codec-registration-20230720
+    - id: W3C DNOTE-webcodecs-aac-codec-registration-20230726
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-pcm-codec-registration-20230720
+      content: W3C DNOTE-webcodecs-aac-codec-registration-20230726
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-pcm-codec-registration-20230726
+  number: DNOTE-webcodecs-aac-codec-registration-20230817
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

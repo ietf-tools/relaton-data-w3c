@@ -23,6 +23,16 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-xquery-full-text-20040709
+    docid:
+    - id: W3C WD-xquery-full-text-20040709
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-full-text-20040709
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xquery-full-text-20051103
     docid:
     - id: W3C WD-xquery-full-text-20051103
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xquery-full-text-20060501
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xquery-full-text-20040709
-    docid:
-    - id: W3C WD-xquery-full-text-20040709
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-full-text-20040709
       format: text/plain
 series:
 - title:

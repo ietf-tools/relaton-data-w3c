@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230812
+id: W3CWD-vc-json-schema-20230817
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230812/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230817/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230812
+- id: W3C WD-vc-json-schema-20230817
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230812
+docnumber: WD-vc-json-schema-20230817
 date:
 - type: published
-  value: '2023-08-12'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,34 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Manu Sporny
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-08-12'
+revdate: '2023-08-17'
 language:
 - en
 script:
@@ -80,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230810
+    id: W3CWD-vc-json-schema-20230815
     docid:
-    - id: W3C WD-vc-data-integrity-20230810
+    - id: W3C WD-vc-json-schema-20230815
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230810
+      content: W3C WD-vc-json-schema-20230815
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-integrity-20230812
+  number: WD-vc-json-schema-20230817
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

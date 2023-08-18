@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20230726
+id: W3CWD-vc-di-eddsa-20230817
 title:
-- content: WebCodecs
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20230726/
+- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230817/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20230726
+- id: W3C WD-vc-di-eddsa-20230817
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20230726
+docnumber: WD-vc-di-eddsa-20230817
 date:
 - type: published
-  value: '2023-07-26'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Eugene Zemtsov
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -42,14 +42,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-26'
+- person:
+    name:
+      completename:
+        content: Sebastian Crane
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-08-17'
 language:
 - en
 script:
@@ -60,21 +70,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20230720
+    id: W3CWD-vc-di-eddsa-20230810
     docid:
-    - id: W3C WD-webcodecs-20230720
+    - id: W3C WD-vc-di-eddsa-20230810
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20230720
+      content: W3C WD-vc-di-eddsa-20230810
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20230726
+  number: WD-vc-di-eddsa-20230817
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

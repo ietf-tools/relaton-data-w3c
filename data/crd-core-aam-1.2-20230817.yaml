@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-eddsa-20230810
+id: W3CCRD-core-aam-1.2-20230817
 title:
-- content: Data Integrity EdDSA Cryptosuites v1.0
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20230810/
+- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/
   type: src
-- content: https://w3c.github.io/vc-di-eddsa/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-eddsa-20230810
+- id: W3C CRD-core-aam-1.2-20230817
   type: W3C
   primary: true
-docnumber: WD-vc-di-eddsa-20230810
+docnumber: CRD-core-aam-1.2-20230817
 date:
 - type: published
-  value: '2023-08-10'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Michael Cooper
         language:
         - en
         script:
@@ -42,49 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-08-10'
+revdate: '2023-08-17'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-eddsa-20230714
+    id: W3CCRD-core-aam-1.2-20230816
     docid:
-    - id: W3C WD-vc-di-eddsa-20230714
+    - id: W3C CRD-core-aam-1.2-20230816
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20230714
+      content: W3C CRD-core-aam-1.2-20230816
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-vc-di-eddsa-20230810
+  number: CRD-core-aam-1.2-20230817
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

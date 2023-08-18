@@ -1,38 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-query-20230727
+id: W3CWD-rdf12-concepts-20230817
 title:
-- content: SPARQL 1.2 Query Language
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-query-20230727/
+- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230817/
   type: src
-- content: https://w3c.github.io/sparql-query/spec/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-query-20230727
+- id: W3C WD-rdf12-concepts-20230817
   type: W3C
   primary: true
-docnumber: WD-sparql12-query-20230727
+docnumber: WD-rdf12-concepts-20230817
 date:
 - type: published
-  value: '2023-07-27'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Gregory Williams
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -52,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Pierre-Antoine Champin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Thomas Pellissier Tanon
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-07-27'
+revdate: '2023-08-17'
 language:
 - en
 script:
@@ -80,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-query-20230706
+    id: W3CWD-rdf12-concepts-20230727
     docid:
-    - id: W3C WD-sparql12-query-20230706
+    - id: W3C WD-rdf12-concepts-20230727
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-query-20230706
+      content: W3C WD-rdf12-concepts-20230727
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-query-20230727
+  number: WD-rdf12-concepts-20230817
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

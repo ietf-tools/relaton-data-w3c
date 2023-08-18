@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-pointerlock-20131217
-    docid:
-    - id: W3C CR-pointerlock-20131217
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-pointerlock-20131217
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-pointerlock-20120529
     docid:
     - id: W3C WD-pointerlock-20120529
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-pointerlock-20120529
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-pointerlock-20131217
+    docid:
+    - id: W3C CR-pointerlock-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-pointerlock-20131217
       format: text/plain
 series:
 - title:

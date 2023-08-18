@@ -30,33 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-microdata-20131029
+    id: W3CWD-microdata-20171010
     docid:
-    - id: W3C NOTE-microdata-20131029
+    - id: W3C WD-microdata-20171010
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-microdata-20131029
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-microdata-20110525
-    docid:
-    - id: W3C WD-microdata-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-microdata-20110525
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-microdata-20121025
-    docid:
-    - id: W3C WD-microdata-20121025
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-microdata-20121025
+      content: W3C WD-microdata-20171010
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,13 +50,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-microdata-20171010
+    id: W3CWD-microdata-20121025
     docid:
-    - id: W3C WD-microdata-20171010
+    - id: W3C WD-microdata-20121025
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-microdata-20171010
+      content: W3C WD-microdata-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-microdata-20110525
+    docid:
+    - id: W3C WD-microdata-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-microdata-20110525
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-microdata-20131029
+    docid:
+    - id: W3C NOTE-microdata-20131029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-microdata-20131029
       format: text/plain
 - type: hasEdition
   bibitem:

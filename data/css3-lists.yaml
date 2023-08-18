@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-lists
 title:
-- content: CSS Lists and Counters Module Level 3
+- content: 'CSS3 module: Lists'
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-lists
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-css3-lists-20110524
-    docid:
-    - id: W3C WD-css3-lists-20110524
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-lists-20110524
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-lists-20021107
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-lists-20021107
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-css3-lists-20110524
+    docid:
+    - id: W3C WD-css3-lists-20110524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-lists-20110524
       format: text/plain
 series:
 - title:

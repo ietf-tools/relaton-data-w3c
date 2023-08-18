@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-html-aapi-20131001
+id: W3CCRD-mediacapture-streams-20230817
 title:
-- content: HTML to Platform Accessibility APIs Implementation Guide
+- content: Media Capture and Streams
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2013/WD-html-aapi-20131001/
+- content: https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230817/
   type: src
+- content: https://w3c.github.io/mediacapture-main/
+  type: current
 type: standard
 docid:
-- id: W3C WD-html-aapi-20131001
+- id: W3C CRD-mediacapture-streams-20230817
   type: W3C
   primary: true
-docnumber: WD-html-aapi-20131001
+docnumber: CRD-mediacapture-streams-20230817
 date:
 - type: published
-  value: '2013-10-01'
+  value: '2023-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Cynthia Shelly
+        content: Cullen Jennings
         language:
         - en
         script:
@@ -40,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jason Kiss
+        content: Henrik Boström
         language:
         - en
         script:
@@ -50,39 +52,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Steve Faulkner
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2013-10-01'
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-08-17'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aapi-20121025
+    id: W3CCRD-mediacapture-streams-20230619
     docid:
-    - id: W3C WD-html-aapi-20121025
+    - id: W3C CRD-mediacapture-streams-20230619
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aapi-20121025
+      content: W3C CRD-mediacapture-streams-20230619
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-html-aapi-20131001
+  number: CRD-mediacapture-streams-20230817
 doctype: technicalReport
 editorialgroup:
-- name: HTML Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

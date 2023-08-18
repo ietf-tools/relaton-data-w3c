@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cpersonalization-semantics-1.0
 title:
-- content: Personalization Semantics Explainer 1.0
+- content: Personalization Semantics 1.0
   format: text/plain
 link:
 - content: https://www.w3.org/TR/personalization-semantics-1.0/
@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-personalization-semantics-1.0-20170606
+    docid:
+    - id: W3C WD-personalization-semantics-1.0-20170606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-personalization-semantics-1.0-20170606
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-personalization-semantics-1.0-20210812
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-personalization-semantics-1.0-20181018
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-personalization-semantics-1.0-20170606
-    docid:
-    - id: W3C WD-personalization-semantics-1.0-20170606
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-personalization-semantics-1.0-20170606
       format: text/plain
 - type: hasEdition
   bibitem:

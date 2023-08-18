@@ -5,7 +5,7 @@ title:
 - content: WebDriver
   format: text/plain
 link:
-- content: http://www.w3.org/TR/webdriver/
+- content: https://www.w3.org/TR/webdriver/
   type: src
 type: standard
 docid:
@@ -19,38 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webdriver-20151109
-    docid:
-    - id: W3C WD-webdriver-20151109
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webdriver-20151109
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webdriver-20130312
-    docid:
-    - id: W3C WD-webdriver-20130312
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webdriver-20130312
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webdriver-20161129
-    docid:
-    - id: W3C WD-webdriver-20161129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webdriver-20161129
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-webdriver-20170330
@@ -71,9 +41,39 @@ relation:
     formattedref:
       content: W3C WD-webdriver-20120710
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webdriver-20130312
+    docid:
+    - id: W3C WD-webdriver-20130312
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20130312
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webdriver-20151109
+    docid:
+    - id: W3C WD-webdriver-20151109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20151109
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webdriver-20161129
+    docid:
+    - id: W3C WD-webdriver-20161129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-20161129
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: webdriver
 doctype: technicalReport

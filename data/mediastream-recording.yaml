@@ -33,23 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediastream-recording-20150908
+    id: W3CWD-mediastream-recording-20170621
     docid:
-    - id: W3C WD-mediastream-recording-20150908
+    - id: W3C WD-mediastream-recording-20170621
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediastream-recording-20150908
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-mediastream-recording-20130205
-    docid:
-    - id: W3C WD-mediastream-recording-20130205
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediastream-recording-20130205
+      content: W3C WD-mediastream-recording-20170621
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,23 +53,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediastream-recording-20161222
+    id: W3CWD-mediastream-recording-20130205
     docid:
-    - id: W3C WD-mediastream-recording-20161222
+    - id: W3C WD-mediastream-recording-20130205
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediastream-recording-20161222
+      content: W3C WD-mediastream-recording-20130205
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediastream-recording-20170621
+    id: W3CWD-mediastream-recording-20150908
     docid:
-    - id: W3C WD-mediastream-recording-20170621
+    - id: W3C WD-mediastream-recording-20150908
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediastream-recording-20170621
+      content: W3C WD-mediastream-recording-20150908
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediastream-recording-20201201
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediastream-recording-20161222
+    docid:
+    - id: W3C WD-mediastream-recording-20161222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20161222
       format: text/plain
 series:
 - title:

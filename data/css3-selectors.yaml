@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-selectors-20090310
-    docid:
-    - id: W3C WD-css3-selectors-20090310
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-selectors-20090310
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css3-selectors-20011113
     docid:
     - id: W3C CR-css3-selectors-20011113
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css3-selectors-20011113
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-selectors-20090310
+    docid:
+    - id: W3C WD-css3-selectors-20090310
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-selectors-20090310
       format: text/plain
 - type: hasEdition
   bibitem:

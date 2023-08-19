@@ -26494,11 +26494,6 @@
     :date: '20230727'
   :file: data/wd-rdf12-turtle-20230727.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20230728'
-  :file: data/wd-html-aam-1.0-20230728.yaml
-- :id:
     :code: sparql12-results-json
     :stage: WD
     :date: '20230728'
@@ -26649,20 +26644,10 @@
     :date: '20230816'
   :file: data/wd-vc-jose-cose-20230816.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230816'
-  :file: data/wd-rdf-canon-20230816.yaml
-- :id:
     :code: mediacapture-streams
     :stage: CRD
     :date: '20230817'
   :file: data/crd-mediacapture-streams-20230817.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20230817'
-  :file: data/wd-sparql12-query-20230817.yaml
 - :id:
     :code: rdf12-concepts
     :stage: WD
@@ -26759,10 +26744,25 @@
     :date: '20230817'
   :file: data/crd-core-aam-1.2-20230817.yaml
 - :id:
-    :code: vc-data-integrity
+    :code: rdf-canon
     :stage: WD
     :date: '20230818'
-  :file: data/wd-vc-data-integrity-20230818.yaml
+  :file: data/wd-rdf-canon-20230818.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20230818'
+  :file: data/wd-sparql12-query-20230818.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20230818'
+  :file: data/wd-html-aam-1.0-20230818.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230819'
+  :file: data/wd-vc-data-integrity-20230819.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26932,12 +26932,6 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -26952,6 +26946,12 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml

@@ -26729,11 +26729,6 @@
     :date: '20230817'
   :file: data/wd-vc-di-eddsa-20230817.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230817'
-  :file: data/wd-vc-di-ecdsa-20230817.yaml
-- :id:
     :code: vc-json-schema
     :stage: WD
     :date: '20230817'
@@ -26763,6 +26758,11 @@
     :stage: WD
     :date: '20230819'
   :file: data/wd-vc-data-integrity-20230819.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230819'
+  :file: data/wd-vc-di-ecdsa-20230819.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26941,9 +26941,6 @@
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
@@ -26955,3 +26952,6 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

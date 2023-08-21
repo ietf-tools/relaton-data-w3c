@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css3-color-20030514
-    docid:
-    - id: W3C CR-css3-color-20030514
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-color-20030514
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-color-20080721
     docid:
     - id: W3C WD-css3-color-20080721
@@ -53,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-color-20020418
+    id: W3CCR-css3-color-20030514
     docid:
-    - id: W3C WD-css3-color-20020418
+    - id: W3C CR-css3-color-20030514
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-color-20020418
+      content: W3C CR-css3-color-20030514
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-css3-color-20101028
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-color-20020418
+    docid:
+    - id: W3C WD-css3-color-20020418
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-color-20020418
       format: text/plain
 series:
 - title:

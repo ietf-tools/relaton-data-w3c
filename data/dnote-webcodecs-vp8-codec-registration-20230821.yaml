@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-flac-codec-registration-20230817
+id: W3CDNOTE-webcodecs-vp8-codec-registration-20230821
 title:
-- content: FLAC WebCodecs Registration
+- content: VP8 WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-flac-codec-registration-20230817/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vp8-codec-registration-20230821/
   type: src
-- content: https://w3c.github.io/webcodecs/flac_codec_registration.html
+- content: https://w3c.github.io/webcodecs/vp8_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-flac-codec-registration-20230817
+- id: W3C DNOTE-webcodecs-vp8-codec-registration-20230821
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-flac-codec-registration-20230817
+docnumber: DNOTE-webcodecs-vp8-codec-registration-20230821
 date:
 - type: published
-  value: '2023-08-17'
+  value: '2023-08-21'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-17'
+revdate: '2023-08-21'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-flac-codec-registration-20230726
+    id: W3CDNOTE-webcodecs-vp8-codec-registration-20230817
     docid:
-    - id: W3C DNOTE-webcodecs-flac-codec-registration-20230726
+    - id: W3C DNOTE-webcodecs-vp8-codec-registration-20230817
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-flac-codec-registration-20230726
+      content: W3C DNOTE-webcodecs-vp8-codec-registration-20230817
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-flac-codec-registration-20230817
+  number: DNOTE-webcodecs-vp8-codec-registration-20230821
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

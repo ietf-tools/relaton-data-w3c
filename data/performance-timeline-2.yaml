@@ -5,7 +5,7 @@ title:
 - content: Performance Timeline Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/performance-timeline-2/
+- content: http://www.w3.org/TR/performance-timeline-2/
   type: src
 type: standard
 docid:
@@ -19,8 +19,18 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-performance-timeline-2-20151207
+    docid:
+    - id: W3C WD-performance-timeline-2-20151207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-2-20151207
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCR-performance-timeline-2-20161208
@@ -51,19 +61,9 @@ relation:
     formattedref:
       content: W3C WD-performance-timeline-2-20191024
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-performance-timeline-2-20151207
-    docid:
-    - id: W3C WD-performance-timeline-2-20151207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-performance-timeline-2-20151207
-      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: performance-timeline-2
 doctype: technicalReport

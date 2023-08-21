@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-multicol
 title:
-- content: Multi-column layout in CSS
+- content: CSS Multi-column Layout Module
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-multicol
@@ -19,28 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-multicol-20010118
-    docid:
-    - id: W3C WD-css3-multicol-20010118
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-multicol-20010118
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-multicol-20090630
-    docid:
-    - id: W3C WD-css3-multicol-20090630
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-multicol-20090630
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-css3-multicol-20110412
@@ -53,13 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-multicol-20070606
+    id: W3CWD-css3-multicol-20090630
     docid:
-    - id: W3C WD-css3-multicol-20070606
+    - id: W3C WD-css3-multicol-20090630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-multicol-20070606
+      content: W3C WD-css3-multicol-20090630
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-multicol-20010118
+    docid:
+    - id: W3C WD-css3-multicol-20010118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-multicol-20010118
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-css3-multicol-20070606
+    docid:
+    - id: W3C WD-css3-multicol-20070606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-multicol-20070606
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-css3-multicol-20091217
     docid:
     - id: W3C CR-css3-multicol-20091217
@@ -83,7 +83,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: css3-multicol
 doctype: technicalReport

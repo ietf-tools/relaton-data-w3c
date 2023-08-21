@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-vibration-20120508
-    docid:
-    - id: W3C CR-vibration-20120508
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-vibration-20120508
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-vibration-20111117
     docid:
     - id: W3C WD-vibration-20111117
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-vibration-20111117
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-vibration-20141209
+    docid:
+    - id: W3C PR-vibration-20141209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vibration-20141209
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-vibration-20141209
+    id: W3CCR-vibration-20120508
     docid:
-    - id: W3C PR-vibration-20141209
+    - id: W3C CR-vibration-20120508
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-vibration-20141209
+      content: W3C CR-vibration-20120508
       format: text/plain
 series:
 - title:

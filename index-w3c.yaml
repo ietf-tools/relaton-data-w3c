@@ -1464,8 +1464,8 @@
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
   :stage: CRD
-  :date: '20230817'
-  :file: data/crd-core-aam-1.2-20230817.yaml
+  :date: '20230821'
+  :file: data/crd-core-aam-1.2-20230821.yaml
 - :code: core-aam-1.2
   :stage: WD
   :date: '20220526'
@@ -6537,6 +6537,10 @@
   :file: data/html-aria.yaml
 - :code: html-aria
   :stage: REC
+  :date: '20230821'
+  :file: data/rec-html-aria-20230821.yaml
+- :code: html-aria
+  :stage: REC
   :date: '20230712'
   :file: data/rec-html-aria-20230712.yaml
 - :code: html-aria
@@ -7889,6 +7893,12 @@
   :stage: WD
   :date: '20220524'
   :file: data/wd-largest-contentful-paint-20220524.yaml
+- :code: latn-ca-gap
+  :file: data/latn-ca-gap.yaml
+- :code: latn-ca-gap
+  :type: DNOTE
+  :date: '20230822'
+  :file: data/dnote-latn-ca-gap-20230822.yaml
 - :code: latn-de-gap
   :file: data/latn-de-gap.yaml
 - :code: latn-de-gap
@@ -8160,8 +8170,8 @@
   :file: data/manifest-app-info.yaml
 - :code: manifest-app-info
   :type: NOTE
-  :date: '20230420'
-  :file: data/note-manifest-app-info-20230420.yaml
+  :date: '20230821'
+  :file: data/note-manifest-app-info-20230821.yaml
 - :code: manifest-app-info
   :type: NOTE
   :date: '20210930'
@@ -12493,8 +12503,8 @@
   :file: data/secure-payment-confirmation.yaml
 - :code: secure-payment-confirmation
   :stage: CRD
-  :date: '20230731'
-  :file: data/crd-secure-payment-confirmation-20230731.yaml
+  :date: '20230822'
+  :file: data/crd-secure-payment-confirmation-20230822.yaml
 - :code: secure-payment-confirmation
   :stage: WD
   :date: '20210831'
@@ -14871,8 +14881,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20230820'
-  :file: data/wd-vc-data-model-2.0-20230820.yaml
+  :date: '20230822'
+  :file: data/wd-vc-data-model-2.0-20230822.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
@@ -14907,8 +14917,8 @@
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: WD
-  :date: '20230817'
-  :file: data/wd-vc-json-schema-20230817.yaml
+  :date: '20230821'
+  :file: data/wd-vc-json-schema-20230821.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml

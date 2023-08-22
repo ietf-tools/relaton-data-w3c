@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-manifest-app-info-20230420
+id: W3CNOTE-manifest-app-info-20230821
 title:
 - content: Web App Manifest - Application Information
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-manifest-app-info-20230420/
+- content: https://www.w3.org/TR/2023/NOTE-manifest-app-info-20230821/
   type: src
 - content: https://w3c.github.io/manifest-app-info/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-manifest-app-info-20230420
+- id: W3C NOTE-manifest-app-info-20230821
   type: W3C
   primary: true
-docnumber: NOTE-manifest-app-info-20230420
+docnumber: NOTE-manifest-app-info-20230821
 date:
 - type: published
-  value: '2023-04-20'
+  value: '2023-08-21'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-20'
+revdate: '2023-08-21'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-manifest-app-info-20221025
+    id: W3CNOTE-manifest-app-info-20230420
     docid:
-    - id: W3C NOTE-manifest-app-info-20221025
+    - id: W3C NOTE-manifest-app-info-20230420
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-manifest-app-info-20221025
+      content: W3C NOTE-manifest-app-info-20230420
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-manifest-app-info-20230420
+  number: NOTE-manifest-app-info-20230821
 doctype: groupNote
 editorialgroup:
 - name: Web Applications Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20230817
+id: W3CWD-vc-json-schema-20230821
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230821/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20230817
+- id: W3C WD-vc-json-schema-20230821
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20230817
+docnumber: WD-vc-json-schema-20230821
 date:
 - type: published
-  value: '2023-08-17'
+  value: '2023-08-21'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-17'
+revdate: '2023-08-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20230816
+    id: W3CWD-vc-json-schema-20230817
     docid:
-    - id: W3C CRD-core-aam-1.2-20230816
+    - id: W3C WD-vc-json-schema-20230817
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20230816
+      content: W3C WD-vc-json-schema-20230817
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20230817
+  number: WD-vc-json-schema-20230821
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

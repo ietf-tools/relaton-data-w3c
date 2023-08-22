@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Clatn-ca-gap
+title:
+- content: Catalan Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/latn-ca-gap/
+  type: src
+type: standard
+docid:
+- id: W3C latn-ca-gap
+  type: W3C
+  primary: true
+docnumber: latn-ca-gap
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-latn-ca-gap-20230822
+    docid:
+    - id: W3C DNOTE-latn-ca-gap-20230822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-latn-ca-gap-20230822
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: latn-ca-gap
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -25904,11 +25904,6 @@
     :date: '20230418'
   :file: data/wd-viss2-core-20230418.yaml
 - :id:
-    :code: manifest-app-info
-    :type: NOTE
-    :date: '20230420'
-  :file: data/note-manifest-app-info-20230420.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20230421'
@@ -26509,11 +26504,6 @@
     :date: '20230731'
   :file: data/wd-csp3-20230731.yaml
 - :id:
-    :code: secure-payment-confirmation
-    :stage: CRD
-    :date: '20230731'
-  :file: data/crd-secure-payment-confirmation-20230731.yaml
-- :id:
     :code: clreq
     :type: DNOTE
     :date: '20230801'
@@ -26654,16 +26644,6 @@
     :date: '20230817'
   :file: data/wd-vc-di-eddsa-20230817.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230817'
-  :file: data/wd-vc-json-schema-20230817.yaml
-- :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20230817'
-  :file: data/crd-core-aam-1.2-20230817.yaml
-- :id:
     :code: rdf-canon
     :stage: WD
     :date: '20230818'
@@ -26688,11 +26668,6 @@
     :stage: WD
     :date: '20230819'
   :file: data/wd-vc-di-ecdsa-20230819.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230820'
-  :file: data/wd-vc-data-model-2.0-20230820.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -26763,6 +26738,41 @@
     :type: DNOTE
     :date: '20230821'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230821.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230821'
+  :file: data/rec-html-aria-20230821.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230821'
+  :file: data/wd-vc-json-schema-20230821.yaml
+- :id:
+    :code: manifest-app-info
+    :type: NOTE
+    :date: '20230821'
+  :file: data/note-manifest-app-info-20230821.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20230821'
+  :file: data/crd-core-aam-1.2-20230821.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230822'
+  :file: data/wd-vc-data-model-2.0-20230822.yaml
+- :id:
+    :code: latn-ca-gap
+    :type: DNOTE
+    :date: '20230822'
+  :file: data/dnote-latn-ca-gap-20230822.yaml
+- :id:
+    :code: secure-payment-confirmation
+    :stage: CRD
+    :date: '20230822'
+  :file: data/crd-secure-payment-confirmation-20230822.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26935,9 +26945,6 @@
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -26950,8 +26957,14 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
+    :code: latn-ca-gap
+  :file: data/latn-ca-gap.yaml

@@ -26664,11 +26664,6 @@
     :date: '20230819'
   :file: data/wd-vc-data-integrity-20230819.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230819'
-  :file: data/wd-vc-di-ecdsa-20230819.yaml
-- :id:
     :code: webcodecs
     :stage: WD
     :date: '20230821'
@@ -26759,11 +26754,6 @@
     :date: '20230821'
   :file: data/crd-core-aam-1.2-20230821.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230822'
-  :file: data/wd-vc-data-model-2.0-20230822.yaml
-- :id:
     :code: latn-ca-gap
     :type: DNOTE
     :date: '20230822'
@@ -26773,6 +26763,16 @@
     :stage: CRD
     :date: '20230822'
   :file: data/crd-secure-payment-confirmation-20230822.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230822'
+  :file: data/wd-vc-di-ecdsa-20230822.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230823'
+  :file: data/wd-vc-data-model-2.0-20230823.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26954,17 +26954,17 @@
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: latn-ca-gap
   :file: data/latn-ca-gap.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

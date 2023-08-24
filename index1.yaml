@@ -25424,11 +25424,6 @@
     :date: '20220903'
   :file: data/dnote-naur-20220903.yaml
 - :id:
-    :code: maturity-model
-    :type: DNOTE
-    :date: '20220906'
-  :file: data/dnote-maturity-model-20220906.yaml
-- :id:
     :code: payment-request
     :stage: REC
     :date: '20220908'
@@ -26274,11 +26269,6 @@
     :date: '20230626'
   :file: data/rec-html-aria-20230626.yaml
 - :id:
-    :code: uievents
-    :stage: WD
-    :date: '20230627'
-  :file: data/wd-uievents-20230627.yaml
-- :id:
     :code: saur
     :type: NOTE
     :date: '20230628'
@@ -26328,11 +26318,6 @@
     :stage: REC
     :date: '20230705'
   :file: data/rec-html-aria-20230705.yaml
-- :id:
-    :code: dpub-aam-1.1
-    :stage: WD
-    :date: '20230705'
-  :file: data/wd-dpub-aam-1.1-20230705.yaml
 - :id:
     :code: dpub-aria-1.1
     :stage: WD
@@ -26574,11 +26559,6 @@
     :date: '20230807'
   :file: data/dnote-hebr-gap-20230807.yaml
 - :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20230808'
-  :file: data/dnote-webrtc-nv-use-cases-20230808.yaml
-- :id:
     :code: IndexedDB-3
     :stage: WD
     :date: '20230808'
@@ -26623,11 +26603,6 @@
     :stage: WD
     :date: '20230816'
   :file: data/wd-compute-pressure-20230816.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230816'
-  :file: data/wd-vc-jose-cose-20230816.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -26774,6 +26749,31 @@
     :date: '20230823'
   :file: data/wd-vc-data-model-2.0-20230823.yaml
 - :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20230823'
+  :file: data/dnote-webrtc-nv-use-cases-20230823.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230823'
+  :file: data/wd-vc-jose-cose-20230823.yaml
+- :id:
+    :code: uievents
+    :stage: WD
+    :date: '20230823'
+  :file: data/wd-uievents-20230823.yaml
+- :id:
+    :code: dpub-aam-1.1
+    :stage: WD
+    :date: '20230823'
+  :file: data/wd-dpub-aam-1.1-20230823.yaml
+- :id:
+    :code: maturity-model
+    :type: DNOTE
+    :date: '20230824'
+  :file: data/dnote-maturity-model-20230824.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26788,9 +26788,6 @@
 - :id:
     :code: mathml-media-types
   :file: data/mathml-media-types.yaml
-- :id:
-    :code: maturity-model
-  :file: data/maturity-model.yaml
 - :id:
     :code: mathml4
   :file: data/mathml4.yaml
@@ -26936,9 +26933,6 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -26968,3 +26962,9 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: maturity-model
+  :file: data/maturity-model.yaml

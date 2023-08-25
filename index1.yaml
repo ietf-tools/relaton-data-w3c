@@ -26634,11 +26634,6 @@
     :date: '20230818'
   :file: data/wd-html-aam-1.0-20230818.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230819'
-  :file: data/wd-vc-data-integrity-20230819.yaml
-- :id:
     :code: webcodecs
     :stage: WD
     :date: '20230821'
@@ -26744,20 +26739,10 @@
     :date: '20230822'
   :file: data/wd-vc-di-ecdsa-20230822.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230823'
-  :file: data/wd-vc-data-model-2.0-20230823.yaml
-- :id:
     :code: webrtc-nv-use-cases
     :type: DNOTE
     :date: '20230823'
   :file: data/dnote-webrtc-nv-use-cases-20230823.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230823'
-  :file: data/wd-vc-jose-cose-20230823.yaml
 - :id:
     :code: uievents
     :stage: WD
@@ -26773,6 +26758,21 @@
     :type: DNOTE
     :date: '20230824'
   :file: data/dnote-maturity-model-20230824.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230824'
+  :file: data/wd-vc-data-model-2.0-20230824.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230824'
+  :file: data/wd-vc-data-integrity-20230824.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230824'
+  :file: data/wd-vc-jose-cose-20230824.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26945,9 +26945,6 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
@@ -26960,11 +26957,14 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
+    :code: maturity-model
+  :file: data/maturity-model.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
-- :id:
-    :code: maturity-model
-  :file: data/maturity-model.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230821
+id: W3CDNOTE-webcodecs-avc-codec-registration-20230825
 title:
-- content: Vorbis WebCodecs Registration
+- content: AVC (H.264) WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vorbis-codec-registration-20230821/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230825/
   type: src
-- content: https://w3c.github.io/webcodecs/vorbis_codec_registration.html
+- content: https://w3c.github.io/webcodecs/avc_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230821
+- id: W3C DNOTE-webcodecs-avc-codec-registration-20230825
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-vorbis-codec-registration-20230821
+docnumber: DNOTE-webcodecs-avc-codec-registration-20230825
 date:
 - type: published
-  value: '2023-08-21'
+  value: '2023-08-25'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-21'
+revdate: '2023-08-25'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-vorbis-codec-registration-20230817
+    id: W3CDNOTE-webcodecs-avc-codec-registration-20230821
     docid:
-    - id: W3C DNOTE-webcodecs-vorbis-codec-registration-20230817
+    - id: W3C DNOTE-webcodecs-avc-codec-registration-20230821
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-vorbis-codec-registration-20230817
+      content: W3C DNOTE-webcodecs-avc-codec-registration-20230821
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-vorbis-codec-registration-20230821
+  number: DNOTE-webcodecs-avc-codec-registration-20230825
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

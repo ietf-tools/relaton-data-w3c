@@ -26614,11 +26614,6 @@
     :date: '20230817'
   :file: data/wd-rdf12-concepts-20230817.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: WD
-    :date: '20230817'
-  :file: data/wd-vc-di-eddsa-20230817.yaml
-- :id:
     :code: rdf-canon
     :stage: WD
     :date: '20230818'
@@ -26654,11 +26649,6 @@
     :date: '20230822'
   :file: data/crd-secure-payment-confirmation-20230822.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230822'
-  :file: data/wd-vc-di-ecdsa-20230822.yaml
-- :id:
     :code: webrtc-nv-use-cases
     :type: DNOTE
     :date: '20230823'
@@ -26684,95 +26674,105 @@
     :date: '20230824'
   :file: data/wd-vc-data-model-2.0-20230824.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230824'
-  :file: data/wd-vc-data-integrity-20230824.yaml
-- :id:
     :code: vc-jose-cose
     :stage: WD
     :date: '20230824'
   :file: data/wd-vc-jose-cose-20230824.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20230825'
-  :file: data/wd-webcodecs-20230825.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-avc-codec-registration-20230825.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
     :date: '20230825'
   :file: data/crd-core-aam-1.2-20230825.yaml
 - :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-aac-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-flac-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-opus-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-av1-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20230825.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20230825'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20230825.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20230825'
   :file: data/wd-html-aam-1.0-20230825.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230826'
+  :file: data/wd-vc-data-integrity-20230826.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: WD
+    :date: '20230826'
+  :file: data/wd-vc-di-eddsa-20230826.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20230826'
+  :file: data/wd-vc-di-ecdsa-20230826.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20230826'
+  :file: data/wd-webcodecs-20230826.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-avc-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-aac-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-flac-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-opus-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-av1-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20230826.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20230826'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20230826.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26936,9 +26936,6 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -26951,20 +26948,23 @@
     :code: latn-ca-gap
   :file: data/latn-ca-gap.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: maturity-model
   :file: data/maturity-model.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml

@@ -26669,11 +26669,6 @@
     :date: '20230824'
   :file: data/dnote-maturity-model-20230824.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230824'
-  :file: data/wd-vc-data-model-2.0-20230824.yaml
-- :id:
     :code: vc-jose-cose
     :stage: WD
     :date: '20230824'
@@ -26773,6 +26768,16 @@
     :type: DNOTE
     :date: '20230826'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230826.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230827'
+  :file: data/rec-html-aria-20230827.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230827'
+  :file: data/wd-vc-data-model-2.0-20230827.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26951,9 +26956,6 @@
     :code: maturity-model
   :file: data/maturity-model.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
@@ -26968,3 +26970,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

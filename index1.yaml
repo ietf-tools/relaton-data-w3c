@@ -25959,11 +25959,6 @@
     :date: '20230512'
   :file: data/wd-reporting-1-20230512.yaml
 - :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20230514'
-  :file: data/note-did-spec-registries-20230514.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230515'
@@ -26629,11 +26624,6 @@
     :date: '20230821'
   :file: data/rec-html-aria-20230821.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230821'
-  :file: data/wd-vc-json-schema-20230821.yaml
-- :id:
     :code: manifest-app-info
     :type: NOTE
     :date: '20230821'
@@ -26778,6 +26768,16 @@
     :stage: WD
     :date: '20230827'
   :file: data/wd-vc-data-model-2.0-20230827.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20230828'
+  :file: data/note-did-spec-registries-20230828.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230829'
+  :file: data/wd-vc-json-schema-20230829.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26947,9 +26947,6 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: latn-ca-gap
   :file: data/latn-ca-gap.yaml
 - :id:
@@ -26973,3 +26970,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-spec-registries-20230514
+id: W3CWD-vc-json-schema-20230829
 title:
-- content: DID Specification Registries
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230514/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230829/
   type: src
-- content: https://w3c.github.io/did-spec-registries/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-spec-registries-20230514
+- id: W3C WD-vc-json-schema-20230829
   type: W3C
   primary: true
-docnumber: NOTE-did-spec-registries-20230514
+docnumber: WD-vc-json-schema-20230829
 date:
 - type: published
-  value: '2023-05-14'
+  value: '2023-08-29'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -49,29 +49,32 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-14'
+revdate: '2023-08-29'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-did-spec-registries-20230427
+    id: W3CWD-vc-json-schema-20230828
     docid:
-    - id: W3C NOTE-did-spec-registries-20230427
+    - id: W3C WD-vc-json-schema-20230828
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20230427
+      content: W3C WD-vc-json-schema-20230828
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-did-spec-registries-20230514
-doctype: groupNote
+  number: WD-vc-json-schema-20230829
+doctype: technicalReport
 editorialgroup:
-- name: Decentralized Identifier Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

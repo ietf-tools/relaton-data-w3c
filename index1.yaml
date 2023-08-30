@@ -26189,11 +26189,6 @@
     :date: '20230614'
   :file: data/dnote-taml-gap-20230614.yaml
 - :id:
-    :code: window-management
-    :stage: WD
-    :date: '20230614'
-  :file: data/wd-window-management-20230614.yaml
-- :id:
     :code: laoo-gap
     :type: DNOTE
     :date: '20230615'
@@ -26569,11 +26564,6 @@
     :date: '20230810'
   :file: data/crd-generic-sensor-20230810.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20230810'
-  :file: data/crd-webnn-20230810.yaml
-- :id:
     :code: rdf12-xml
     :stage: WD
     :date: '20230810'
@@ -26608,11 +26598,6 @@
     :stage: WD
     :date: '20230817'
   :file: data/wd-rdf12-concepts-20230817.yaml
-- :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230818'
-  :file: data/wd-rdf-canon-20230818.yaml
 - :id:
     :code: sparql12-query
     :stage: WD
@@ -26764,20 +26749,35 @@
     :date: '20230827'
   :file: data/rec-html-aria-20230827.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230827'
-  :file: data/wd-vc-data-model-2.0-20230827.yaml
-- :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20230828'
-  :file: data/note-did-spec-registries-20230828.yaml
-- :id:
     :code: vc-json-schema
     :stage: WD
     :date: '20230829'
   :file: data/wd-vc-json-schema-20230829.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20230829'
+  :file: data/note-did-spec-registries-20230829.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230829'
+  :file: data/wd-vc-data-model-2.0-20230829.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230829'
+  :file: data/wd-rdf-canon-20230829.yaml
+- :id:
+    :code: window-management
+    :stage: WD
+    :date: '20230829'
+  :file: data/wd-window-management-20230829.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20230830'
+  :file: data/crd-webnn-20230830.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26855,9 +26855,6 @@
 - :id:
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
-- :id:
-    :code: window-management
-  :file: data/window-management.yaml
 - :id:
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
@@ -26941,9 +26938,6 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
@@ -26968,8 +26962,14 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: window-management
+  :file: data/window-management.yaml

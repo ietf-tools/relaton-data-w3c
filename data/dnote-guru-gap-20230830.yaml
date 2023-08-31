@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-beng-gap-20230614
+id: W3CDNOTE-guru-gap-20230830
 title:
-- content: Bengali Gap Analysis
+- content: Gurmukhi Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/
+- content: https://www.w3.org/TR/2023/DNOTE-guru-gap-20230830/
   type: src
-- content: https://w3c.github.io/iip/gap-analysis/beng-gap
+- content: https://w3c.github.io/iip/gap-analysis/guru-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-beng-gap-20230614
+- id: W3C DNOTE-guru-gap-20230830
   type: W3C
   primary: true
-docnumber: DNOTE-beng-gap-20230614
+docnumber: DNOTE-guru-gap-20230830
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-08-30'
 contributor:
+- person:
+    name:
+      completename:
+        content: Akshat Joshi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2023-08-30'
 language:
 - en
 script:
@@ -37,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-beng-gap-20211215
+    id: W3CDNOTE-guru-gap-20230614
     docid:
-    - id: W3C DNOTE-beng-gap-20211215
+    - id: W3C DNOTE-guru-gap-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-beng-gap-20211215
+      content: W3C DNOTE-guru-gap-20230614
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-beng-gap-20230614
+  number: DNOTE-guru-gap-20230830
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

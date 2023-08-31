@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-guru-gap-20230614
+id: W3CDNOTE-deva-gap-20230830
 title:
-- content: Gurmukhi Gap Analysis
+- content: Devanagari Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-guru-gap-20230614/
+- content: https://www.w3.org/TR/2023/DNOTE-deva-gap-20230830/
   type: src
-- content: https://w3c.github.io/iip/gap-analysis/guru-gap
+- content: https://w3c.github.io/iip/gap-analysis/deva-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-guru-gap-20230614
+- id: W3C DNOTE-deva-gap-20230830
   type: W3C
   primary: true
-docnumber: DNOTE-guru-gap-20230614
+docnumber: DNOTE-deva-gap-20230830
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-08-30'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2023-08-30'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-guru-gap-20210525
+    id: W3CDNOTE-deva-gap-20230614
     docid:
-    - id: W3C WD-guru-gap-20210525
+    - id: W3C DNOTE-deva-gap-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-guru-gap-20210525
+      content: W3C DNOTE-deva-gap-20230614
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-guru-gap-20230614
+  number: DNOTE-deva-gap-20230830
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

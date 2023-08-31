@@ -26164,25 +26164,10 @@
     :date: '20230614'
   :file: data/rec-html-aria-20230614.yaml
 - :id:
-    :code: beng-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-beng-gap-20230614.yaml
-- :id:
-    :code: deva-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-deva-gap-20230614.yaml
-- :id:
     :code: gujr-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-gujr-gap-20230614.yaml
-- :id:
-    :code: guru-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-guru-gap-20230614.yaml
 - :id:
     :code: taml-gap
     :type: DNOTE
@@ -26584,11 +26569,6 @@
     :date: '20230815'
   :file: data/dnote-wcag2ict-20230815.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20230816'
-  :file: data/wd-compute-pressure-20230816.yaml
-- :id:
     :code: mediacapture-streams
     :stage: CRD
     :date: '20230817'
@@ -26779,6 +26759,26 @@
     :date: '20230830'
   :file: data/crd-webnn-20230830.yaml
 - :id:
+    :code: deva-gap
+    :type: DNOTE
+    :date: '20230830'
+  :file: data/dnote-deva-gap-20230830.yaml
+- :id:
+    :code: beng-gap
+    :type: DNOTE
+    :date: '20230830'
+  :file: data/dnote-beng-gap-20230830.yaml
+- :id:
+    :code: guru-gap
+    :type: DNOTE
+    :date: '20230830'
+  :file: data/dnote-guru-gap-20230830.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-compute-pressure-20230831.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26932,8 +26932,8 @@
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
+    :code: wcag2ict-22
+  :file: data/wcag2ict-22.yaml
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
@@ -26973,3 +26973,6 @@
 - :id:
     :code: window-management
   :file: data/window-management.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

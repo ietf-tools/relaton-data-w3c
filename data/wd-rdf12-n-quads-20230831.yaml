@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-turtle-20230727
+id: W3CWD-rdf12-n-quads-20230831
 title:
-- content: RDF 1.2 Turtle
+- content: RDF 1.2 N-Quads
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-turtle-20230727/
+- content: https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230831/
   type: src
-- content: https://w3c.github.io/rdf-turtle/spec/
+- content: https://w3c.github.io/rdf-n-quads/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-turtle-20230727
+- id: W3C WD-rdf12-n-quads-20230831
   type: W3C
   primary: true
-docnumber: WD-rdf12-turtle-20230727
+docnumber: WD-rdf12-n-quads-20230831
 date:
 - type: published
-  value: '2023-07-27'
+  value: '2023-08-31'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-27'
+revdate: '2023-08-31'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-turtle-20230615
+    id: W3CWD-rdf12-n-quads-20230727
     docid:
-    - id: W3C WD-rdf12-turtle-20230615
+    - id: W3C WD-rdf12-n-quads-20230727
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-turtle-20230615
+      content: W3C WD-rdf12-n-quads-20230727
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-turtle-20230727
+  number: WD-rdf12-n-quads-20230831
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

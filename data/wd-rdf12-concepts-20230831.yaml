@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-audio-output-20230504
+id: W3CWD-rdf12-concepts-20230831
 title:
-- content: Audio Output Devices API
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-audio-output-20230504/
+- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230831/
   type: src
-- content: https://w3c.github.io/mediacapture-output/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-audio-output-20230504
+- id: W3C WD-rdf12-concepts-20230831
   type: W3C
   primary: true
-docnumber: CRD-audio-output-20230504
+docnumber: WD-rdf12-concepts-20230831
 date:
 - type: published
-  value: '2023-05-04'
+  value: '2023-08-31'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Justin Uberti
+        content: Olaf Hartig
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Pierre-Antoine Champin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-04'
+revdate: '2023-08-31'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-audio-output-20230203
+    id: W3CWD-rdf12-concepts-20230817
     docid:
-    - id: W3C CRD-audio-output-20230203
+    - id: W3C WD-rdf12-concepts-20230817
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-audio-output-20230203
+      content: W3C WD-rdf12-concepts-20230817
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-audio-output-20230504
+  number: WD-rdf12-concepts-20230831
 doctype: technicalReport
-editorialgroup:
-- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

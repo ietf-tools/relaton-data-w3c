@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-model-2.0-20230829
+id: W3CDNOTE-clreq-20230901
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Requirements for Chinese Text Layout - 中文排版需求
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20230829/
+- content: https://www.w3.org/TR/2023/DNOTE-clreq-20230901/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/clreq/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-model-2.0-20230829
+- id: W3C DNOTE-clreq-20230901
   type: W3C
   primary: true
-docnumber: WD-vc-data-model-2.0-20230829
+docnumber: DNOTE-clreq-20230901
 date:
 - type: published
-  value: '2023-08-29'
+  value: '2023-09-01'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Bobby Tung
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Eric Q LIU
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Fuqiao Xue
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Oliver Terbu
+        content: Hui Jing Chen
         language:
         - en
         script:
@@ -62,39 +62,56 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-29'
+- person:
+    name:
+      completename:
+        content: Yijun Chen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Zhengyu Qian
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-09-01'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20230827
+    id: W3CDNOTE-clreq-20230801
     docid:
-    - id: W3C WD-vc-data-model-2.0-20230827
+    - id: W3C DNOTE-clreq-20230801
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20230827
+      content: W3C DNOTE-clreq-20230801
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-vc-data-model-2.0-20230829
-doctype: technicalReport
+  number: DNOTE-clreq-20230901
+doctype: groupNote
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

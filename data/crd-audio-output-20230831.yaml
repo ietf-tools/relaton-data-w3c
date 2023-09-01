@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20230817
+id: W3CCRD-audio-output-20230831
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: Audio Output Devices API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230817/
+- content: https://www.w3.org/TR/2023/CRD-audio-output-20230831/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/mediacapture-output/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20230817
+- id: W3C CRD-audio-output-20230831
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20230817
+docnumber: CRD-audio-output-20230831
 date:
 - type: published
-  value: '2023-08-17'
+  value: '2023-08-31'
 contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Guido Urdaneta
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Justin Uberti
         language:
         - en
         script:
@@ -42,37 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Pierre-Antoine Champin
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-17'
+revdate: '2023-08-31'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20230727
+    id: W3CCRD-audio-output-20230504
     docid:
-    - id: W3C WD-rdf12-concepts-20230727
+    - id: W3C CRD-audio-output-20230504
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20230727
+      content: W3C CRD-audio-output-20230504
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-rdf12-concepts-20230817
+  number: CRD-audio-output-20230831
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -25744,11 +25744,6 @@
     :date: '20230301'
   :file: data/rec-webrtc-20230301.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20230302'
-  :file: data/wd-pointerevents3-20230302.yaml
-- :id:
     :code: css-animations-1
     :stage: WD
     :date: '20230302'
@@ -25938,11 +25933,6 @@
     :stage: WD
     :date: '20230503'
   :file: data/wd-badging-20230503.yaml
-- :id:
-    :code: audio-output
-    :stage: CRD
-    :date: '20230504'
-  :file: data/crd-audio-output-20230504.yaml
 - :id:
     :code: resource-timing
     :stage: CRD
@@ -26299,11 +26289,6 @@
     :date: '20230705'
   :file: data/wd-dpub-aria-1.1-20230705.yaml
 - :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20230706'
-  :file: data/wd-screen-capture-20230706.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230709'
@@ -26429,25 +26414,10 @@
     :date: '20230727'
   :file: data/wd-webrtc-encoded-transform-20230727.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-rdf12-n-quads-20230727.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-rdf12-n-triples-20230727.yaml
-- :id:
     :code: rdf12-trig
     :stage: WD
     :date: '20230727'
   :file: data/wd-rdf12-trig-20230727.yaml
-- :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-rdf12-turtle-20230727.yaml
 - :id:
     :code: sparql12-results-json
     :stage: WD
@@ -26463,11 +26433,6 @@
     :stage: WD
     :date: '20230731'
   :file: data/wd-csp3-20230731.yaml
-- :id:
-    :code: clreq
-    :type: DNOTE
-    :date: '20230801'
-  :file: data/dnote-clreq-20230801.yaml
 - :id:
     :code: dapt
     :stage: WD
@@ -26549,11 +26514,6 @@
     :date: '20230810'
   :file: data/crd-generic-sensor-20230810.yaml
 - :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20230810'
-  :file: data/wd-rdf12-xml-20230810.yaml
-- :id:
     :code: baggage
     :stage: WD
     :date: '20230810'
@@ -26573,11 +26533,6 @@
     :stage: CRD
     :date: '20230817'
   :file: data/crd-mediacapture-streams-20230817.yaml
-- :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20230817'
-  :file: data/wd-rdf12-concepts-20230817.yaml
 - :id:
     :code: sparql12-query
     :stage: WD
@@ -26638,11 +26593,6 @@
     :stage: WD
     :date: '20230825'
   :file: data/wd-html-aam-1.0-20230825.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230826'
-  :file: data/wd-vc-data-integrity-20230826.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: WD
@@ -26739,11 +26689,6 @@
     :date: '20230829'
   :file: data/note-did-spec-registries-20230829.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230829'
-  :file: data/wd-vc-data-model-2.0-20230829.yaml
-- :id:
     :code: rdf-canon
     :stage: WD
     :date: '20230829'
@@ -26778,6 +26723,61 @@
     :stage: WD
     :date: '20230831'
   :file: data/wd-compute-pressure-20230831.yaml
+- :id:
+    :code: audio-output
+    :stage: CRD
+    :date: '20230831'
+  :file: data/crd-audio-output-20230831.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-screen-capture-20230831.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-pointerevents3-20230831.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-vc-data-integrity-20230831.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-rdf12-concepts-20230831.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-rdf12-n-quads-20230831.yaml
+- :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-rdf12-n-triples-20230831.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-rdf12-turtle-20230831.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-rdf12-xml-20230831.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230831'
+  :file: data/wd-vc-data-model-2.0-20230831.yaml
+- :id:
+    :code: clreq
+    :type: DNOTE
+    :date: '20230901'
+  :file: data/dnote-clreq-20230901.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26902,17 +26902,8 @@
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
-- :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
 - :id:
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
@@ -26926,17 +26917,11 @@
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
-    :code: rdf12-xml
-  :file: data/rdf12-xml.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
     :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml
-- :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
 - :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
@@ -26950,9 +26935,6 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -26965,9 +26947,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -26976,3 +26955,24 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: rdf12-xml
+  :file: data/rdf12-xml.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

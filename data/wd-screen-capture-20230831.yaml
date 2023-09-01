@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-pointerevents3-20230302
+id: W3CWD-screen-capture-20230831
 title:
-- content: Pointer Events
+- content: Screen Capture
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-pointerevents3-20230302/
+- content: https://www.w3.org/TR/2023/WD-screen-capture-20230831/
   type: src
-- content: https://w3c.github.io/pointerevents/
+- content: https://w3c.github.io/mediacapture-screen-share/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20230302
+- id: W3C WD-screen-capture-20230831
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20230302
+docnumber: WD-screen-capture-20230831
 date:
 - type: published
-  value: '2023-03-02'
+  value: '2023-08-31'
 contributor:
 - person:
     name:
       completename:
-        content: Navid Zolghadr
+        content: Elad Alon
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-03-02'
+revdate: '2023-08-31'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20230301
+    id: W3CWD-screen-capture-20230706
     docid:
-    - id: W3C WD-pointerevents3-20230301
+    - id: W3C WD-screen-capture-20230706
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20230301
+      content: W3C WD-screen-capture-20230706
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20230302
+  number: WD-screen-capture-20230831
 doctype: technicalReport
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

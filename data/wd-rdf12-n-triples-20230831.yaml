@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-xml-20230810
+id: W3CWD-rdf12-n-triples-20230831
 title:
-- content: RDF 1.2 XML Syntax
+- content: RDF 1.2 N-Triples
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/
+- content: https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230831/
   type: src
-- content: https://w3c.github.io/rdf-xml/spec/
+- content: https://w3c.github.io/rdf-n-triples/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-xml-20230810
+- id: W3C WD-rdf12-n-triples-20230831
   type: W3C
   primary: true
-docnumber: WD-rdf12-xml-20230810
+docnumber: WD-rdf12-n-triples-20230831
 date:
 - type: published
-  value: '2023-08-10'
+  value: '2023-08-31'
 contributor:
+- person:
+    name:
+      completename:
+        content: Dominik Tomaszuk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-10'
+revdate: '2023-08-31'
 language:
 - en
 script:
@@ -40,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-xml-20230807
+    id: W3CWD-rdf12-n-triples-20230727
     docid:
-    - id: W3C WD-rdf12-xml-20230807
+    - id: W3C WD-rdf12-n-triples-20230727
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-xml-20230807
+      content: W3C WD-rdf12-n-triples-20230727
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-xml-20230810
+  number: WD-rdf12-n-triples-20230831
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

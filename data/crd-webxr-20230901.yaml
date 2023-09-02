@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20230829
+id: W3CCRD-webxr-20230901
 title:
-- content: RDF Dataset Canonicalization
+- content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230829/
+- content: https://www.w3.org/TR/2023/CRD-webxr-20230901/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://immersive-web.github.io/webxr/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230829
+- id: W3C CRD-webxr-20230901
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230829
+docnumber: CRD-webxr-20230901
 date:
 - type: published
-  value: '2023-08-29'
+  value: '2023-09-01'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Manish Goregaokar
         language:
         - en
         script:
@@ -42,37 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Rik Cabanier
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-29'
+revdate: '2023-09-01'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230818
+    id: W3CCRD-webxr-20230621
     docid:
-    - id: W3C WD-rdf-canon-20230818
+    - id: W3C CRD-webxr-20230621
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230818
+      content: W3C CRD-webxr-20230621
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-rdf-canon-20230829
+  number: CRD-webxr-20230901
 doctype: technicalReport
+editorialgroup:
+- name: Immersive Web Working Group
 ext:
   schema-version: v1.0.0

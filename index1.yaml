@@ -26219,11 +26219,6 @@
     :date: '20230616'
   :file: data/wd-sparql12-service-description-20230616.yaml
 - :id:
-    :code: webxr
-    :stage: CRD
-    :date: '20230621'
-  :file: data/crd-webxr-20230621.yaml
-- :id:
     :code: imsc-hrm
     :stage: CR
     :date: '20230622'
@@ -26584,11 +26579,6 @@
     :date: '20230824'
   :file: data/wd-vc-jose-cose-20230824.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20230825'
-  :file: data/crd-core-aam-1.2-20230825.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20230825'
@@ -26689,11 +26679,6 @@
     :date: '20230829'
   :file: data/note-did-spec-registries-20230829.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230829'
-  :file: data/wd-rdf-canon-20230829.yaml
-- :id:
     :code: window-management
     :stage: WD
     :date: '20230829'
@@ -26778,6 +26763,26 @@
     :type: DNOTE
     :date: '20230901'
   :file: data/dnote-clreq-20230901.yaml
+- :id:
+    :code: largest-contentful-paint
+    :stage: WD
+    :date: '20230901'
+  :file: data/wd-largest-contentful-paint-20230901.yaml
+- :id:
+    :code: webxr
+    :stage: CRD
+    :date: '20230901'
+  :file: data/crd-webxr-20230901.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230901'
+  :file: data/wd-rdf-canon-20230901.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20230901'
+  :file: data/crd-core-aam-1.2-20230901.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26947,9 +26952,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: window-management
   :file: data/window-management.yaml
 - :id:
@@ -26976,3 +26978,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

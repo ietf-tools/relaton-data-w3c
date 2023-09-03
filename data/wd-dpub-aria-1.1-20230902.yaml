@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20230901
+id: W3CWD-dpub-aria-1.1-20230902
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/
+- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230902/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20230901
+- id: W3C WD-dpub-aria-1.1-20230902
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20230901
+docnumber: WD-dpub-aria-1.1-20230902
 date:
 - type: published
-  value: '2023-09-01'
+  value: '2023-09-02'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,47 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Valerie Young
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-09-01'
+revdate: '2023-09-02'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20230825
+    id: W3CWD-dpub-aria-1.1-20230705
     docid:
-    - id: W3C CRD-core-aam-1.2-20230825
+    - id: W3C WD-dpub-aria-1.1-20230705
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20230825
+      content: W3C WD-dpub-aria-1.1-20230705
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20230901
+  number: WD-dpub-aria-1.1-20230902
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

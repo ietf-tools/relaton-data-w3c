@@ -25674,11 +25674,6 @@
     :date: '20230213'
   :file: data/rec-html-aria-20230213.yaml
 - :id:
-    :code: css-text-3
-    :stage: CRD
-    :date: '20230213'
-  :file: data/crd-css-text-3-20230213.yaml
-- :id:
     :code: css-easing-1
     :stage: CRD
     :date: '20230213'
@@ -26419,11 +26414,6 @@
     :date: '20230728'
   :file: data/wd-sparql12-results-xml-20230728.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20230731'
-  :file: data/wd-csp3-20230731.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20230801'
@@ -26644,11 +26634,6 @@
     :date: '20230827'
   :file: data/rec-html-aria-20230827.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230829'
-  :file: data/wd-vc-json-schema-20230829.yaml
-- :id:
     :code: did-spec-registries
     :type: NOTE
     :date: '20230829'
@@ -26754,11 +26739,6 @@
     :date: '20230902'
   :file: data/wd-vc-data-integrity-20230902.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20230902'
-  :file: data/crd-core-aam-1.2-20230902.yaml
-- :id:
     :code: dpub-aam-1.1
     :stage: WD
     :date: '20230902'
@@ -26783,6 +26763,26 @@
     :stage: WD
     :date: '20230902'
   :file: data/wd-vc-di-eddsa-20230902.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230903'
+  :file: data/wd-vc-json-schema-20230903.yaml
+- :id:
+    :code: css-text-3
+    :stage: CRD
+    :date: '20230903'
+  :file: data/crd-css-text-3-20230903.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20230904'
+  :file: data/wd-csp3-20230904.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20230904'
+  :file: data/crd-core-aam-1.2-20230904.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26943,9 +26943,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: window-management
   :file: data/window-management.yaml
 - :id:
@@ -26981,3 +26978,6 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

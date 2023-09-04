@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20230902
+id: W3CCRD-css-text-3-20230903
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: CSS Text Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230902/
+- content: https://www.w3.org/TR/2023/CRD-css-text-3-20230903/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://drafts.csswg.org/css-text-3/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20230902
+- id: W3C CRD-css-text-3-20230903
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20230902
+docnumber: CRD-css-text-3-20230903
 date:
 - type: published
-  value: '2023-09-02'
+  value: '2023-09-03'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Florian Rivoal
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Koji Ishii
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-02'
+revdate: '2023-09-03'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20230901
+    id: W3CCRD-css-text-3-20230213
     docid:
-    - id: W3C CRD-core-aam-1.2-20230901
+    - id: W3C CRD-css-text-3-20230213
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20230901
+      content: W3C CRD-css-text-3-20230213
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-core-aam-1.2-20230902
+  number: CRD-css-text-3-20230903
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

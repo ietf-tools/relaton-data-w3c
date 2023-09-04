@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-css-text-3-20230213
+id: W3CCRD-core-aam-1.2-20230904
 title:
-- content: CSS Text Module Level 3
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-css-text-3-20230213/
+- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/
   type: src
-- content: https://drafts.csswg.org/css-text-3/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C CRD-css-text-3-20230213
+- id: W3C CRD-core-aam-1.2-20230904
   type: W3C
   primary: true
-docnumber: CRD-css-text-3-20230213
+docnumber: CRD-core-aam-1.2-20230904
 date:
 - type: published
-  value: '2023-02-13'
+  value: '2023-09-04'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Florian Rivoal
+        content: Michael Cooper
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Koji Ishii
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-13'
+revdate: '2023-09-04'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-css-text-3-20230127
+    id: W3CCRD-core-aam-1.2-20230902
     docid:
-    - id: W3C CRD-css-text-3-20230127
+    - id: W3C CRD-core-aam-1.2-20230902
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-css-text-3-20230127
+      content: W3C CRD-core-aam-1.2-20230902
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-css-text-3-20230213
+  number: CRD-core-aam-1.2-20230904
 doctype: technicalReport
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

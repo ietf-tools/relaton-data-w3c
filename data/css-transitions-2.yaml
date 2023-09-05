@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Ccss-transitions-2
+title:
+- content: CSS Transitions Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/css-transitions-2/
+  type: src
+type: standard
+docid:
+- id: W3C css-transitions-2
+  type: W3C
+  primary: true
+docnumber: css-transitions-2
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-css-transitions-2-20230905
+    docid:
+    - id: W3C WD-css-transitions-2-20230905
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-transitions-2-20230905
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: css-transitions-2
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

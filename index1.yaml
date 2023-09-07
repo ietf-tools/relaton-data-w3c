@@ -25564,11 +25564,6 @@
     :date: '20221201'
   :file: data/cr-css-values-3-20221201.yaml
 - :id:
-    :code: ethical-web-principles
-    :type: DNOTE
-    :date: '20221207'
-  :file: data/dnote-ethical-web-principles-20221207.yaml
-- :id:
     :code: htr
     :type: NOTE
     :date: '20221213'
@@ -25728,11 +25723,6 @@
     :stage: CRD
     :date: '20230223'
   :file: data/crd-mixed-content-20230223.yaml
-- :id:
-    :code: privacy-principles
-    :type: DNOTE
-    :date: '20230223'
-  :file: data/dnote-privacy-principles-20230223.yaml
 - :id:
     :code: webrtc
     :stage: REC
@@ -25903,11 +25893,6 @@
     :stage: CRD
     :date: '20230426'
   :file: data/crd-user-timing-20230426.yaml
-- :id:
-    :code: design-principles
-    :type: NOTE
-    :date: '20230426'
-  :file: data/note-design-principles-20230426.yaml
 - :id:
     :code: vc-status-list
     :stage: WD
@@ -26629,11 +26614,6 @@
     :date: '20230829'
   :file: data/note-did-spec-registries-20230829.yaml
 - :id:
-    :code: window-management
-    :stage: WD
-    :date: '20230829'
-  :file: data/wd-window-management-20230829.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20230830'
@@ -26788,6 +26768,26 @@
     :stage: WD
     :date: '20230906'
   :file: data/wd-wgsl-20230906.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: DNOTE
+    :date: '20230906'
+  :file: data/dnote-ethical-web-principles-20230906.yaml
+- :id:
+    :code: privacy-principles
+    :type: DNOTE
+    :date: '20230906'
+  :file: data/dnote-privacy-principles-20230906.yaml
+- :id:
+    :code: window-management
+    :stage: WD
+    :date: '20230906'
+  :file: data/wd-window-management-20230906.yaml
+- :id:
+    :code: design-principles
+    :type: NOTE
+    :date: '20230907'
+  :file: data/note-design-principles-20230907.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26945,9 +26945,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: window-management
-  :file: data/window-management.yaml
-- :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
@@ -26989,3 +26986,6 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: window-management
+  :file: data/window-management.yaml

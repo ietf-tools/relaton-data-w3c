@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-window-management-20230829
+id: W3CDNOTE-privacy-principles-20230906
 title:
-- content: Window Management
+- content: Privacy Principles
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-window-management-20230829/
+- content: https://www.w3.org/TR/2023/DNOTE-privacy-principles-20230906/
   type: src
-- content: https://w3c.github.io/window-management/
+- content: https://w3ctag.github.io/privacy-principles/
   type: current
 type: standard
 docid:
-- id: W3C WD-window-management-20230829
+- id: W3C DNOTE-privacy-principles-20230906
   type: W3C
   primary: true
-docnumber: WD-window-management-20230829
+docnumber: DNOTE-privacy-principles-20230906
 date:
 - type: published
-  value: '2023-08-29'
+  value: '2023-09-06'
 contributor:
 - person:
     name:
       completename:
-        content: Joshua Bell
+        content: Jeffrey Yasskin
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike Wasserman
+        content: Robin Berjon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-29'
+revdate: '2023-09-06'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-window-management-20230614
+    id: W3CDNOTE-privacy-principles-20230223
     docid:
-    - id: W3C WD-window-management-20230614
+    - id: W3C DNOTE-privacy-principles-20230223
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-window-management-20230614
+      content: W3C DNOTE-privacy-principles-20230223
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-window-management-20230829
-doctype: technicalReport
+  number: DNOTE-privacy-principles-20230906
+doctype: groupNote
 editorialgroup:
-- name: Second Screen Working Group
+- name: Technical Architecture Group
 ext:
   schema-version: v1.0.0

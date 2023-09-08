@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-viss2-transport-20230418
+id: W3CWD-viss2-transport-20230908
 title:
 - content: VISS version 2-Transport
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-viss2-transport-20230418/
+- content: https://www.w3.org/TR/2023/WD-viss2-transport-20230908/
   type: src
 - content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Transport.html
   type: current
 type: standard
 docid:
-- id: W3C WD-viss2-transport-20230418
+- id: W3C WD-viss2-transport-20230908
   type: W3C
   primary: true
-docnumber: WD-viss2-transport-20230418
+docnumber: WD-viss2-transport-20230908
 date:
 - type: published
-  value: '2023-04-18'
+  value: '2023-09-08'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-18'
+revdate: '2023-09-08'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-viss2-transport-20230331
+    id: W3CWD-viss2-transport-20230418
     docid:
-    - id: W3C WD-viss2-transport-20230331
+    - id: W3C WD-viss2-transport-20230418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-transport-20230331
+      content: W3C WD-viss2-transport-20230418
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-viss2-transport-20230418
+  number: WD-viss2-transport-20230908
 doctype: technicalReport
 editorialgroup:
 - name: Automotive Working Group

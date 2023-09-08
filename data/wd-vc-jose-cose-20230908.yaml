@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-viss2-core-20230418
+id: W3CWD-vc-jose-cose-20230908
 title:
-- content: VISS version 2 - Core
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-viss2-core-20230418/
+- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/
   type: src
-- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Core.html
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C WD-viss2-core-20230418
+- id: W3C WD-vc-jose-cose-20230908
   type: W3C
   primary: true
-docnumber: WD-viss2-core-20230418
+docnumber: WD-vc-jose-cose-20230908
 date:
 - type: published
-  value: '2023-04-18'
+  value: '2023-09-08'
 contributor:
 - person:
     name:
       completename:
-        content: Isaac Agudo
+        content: Michael Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ulf Bjorkengren
+        content: Michael Prorock
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Wonsuk Lee
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-18'
+revdate: '2023-09-08'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-viss2-core-20230331
+    id: W3CWD-vc-jose-cose-20230824
     docid:
-    - id: W3C WD-viss2-core-20230331
+    - id: W3C WD-vc-jose-cose-20230824
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20230331
+      content: W3C WD-vc-jose-cose-20230824
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-viss2-core-20230418
+  number: WD-vc-jose-cose-20230908
 doctype: technicalReport
 editorialgroup:
-- name: Automotive Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

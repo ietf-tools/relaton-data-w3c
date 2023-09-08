@@ -25869,16 +25869,6 @@
     :date: '20230418'
   :file: data/cr-trace-context-2-20230418.yaml
 - :id:
-    :code: viss2-transport
-    :stage: WD
-    :date: '20230418'
-  :file: data/wd-viss2-transport-20230418.yaml
-- :id:
-    :code: viss2-core
-    :stage: WD
-    :date: '20230418'
-  :file: data/wd-viss2-core-20230418.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20230421'
@@ -26529,11 +26519,6 @@
     :date: '20230824'
   :file: data/dnote-maturity-model-20230824.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230824'
-  :file: data/wd-vc-jose-cose-20230824.yaml
-- :id:
     :code: webcodecs
     :stage: WD
     :date: '20230826'
@@ -26754,11 +26739,6 @@
     :date: '20230905'
   :file: data/wd-vc-data-model-2.0-20230905.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230905'
-  :file: data/wd-vc-json-schema-20230905.yaml
-- :id:
     :code: largest-contentful-paint
     :stage: WD
     :date: '20230906'
@@ -26788,6 +26768,26 @@
     :type: NOTE
     :date: '20230907'
   :file: data/note-design-principles-20230907.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230907'
+  :file: data/wd-vc-json-schema-20230907.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230908'
+  :file: data/wd-vc-jose-cose-20230908.yaml
+- :id:
+    :code: viss2-core
+    :stage: WD
+    :date: '20230908'
+  :file: data/wd-viss2-core-20230908.yaml
+- :id:
+    :code: viss2-transport
+    :stage: WD
+    :date: '20230908'
+  :file: data/wd-viss2-transport-20230908.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26939,9 +26939,6 @@
     :code: maturity-model
   :file: data/maturity-model.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
@@ -26984,8 +26981,11 @@
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
+    :code: window-management
+  :file: data/window-management.yaml
+- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: window-management
-  :file: data/window-management.yaml
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

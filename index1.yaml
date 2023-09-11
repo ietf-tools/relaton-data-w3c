@@ -26664,11 +26664,6 @@
     :date: '20230901'
   :file: data/crd-webxr-20230901.yaml
 - :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230901'
-  :file: data/wd-rdf-canon-20230901.yaml
-- :id:
     :code: vc-data-integrity
     :stage: WD
     :date: '20230902'
@@ -26774,11 +26769,6 @@
     :date: '20230908'
   :file: data/wd-viss2-transport-20230908.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20230908'
-  :file: data/wd-openscreenprotocol-20230908.yaml
-- :id:
     :code: intersection-observer
     :stage: WD
     :date: '20230909'
@@ -26788,6 +26778,16 @@
     :stage: WD
     :date: '20230910'
   :file: data/wd-vc-data-model-2.0-20230910.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20230911'
+  :file: data/wd-openscreenprotocol-20230911.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20230911'
+  :file: data/wd-rdf-canon-20230911.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26960,9 +26960,6 @@
     :code: rdf12-xml
   :file: data/rdf12-xml.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -26989,3 +26986,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

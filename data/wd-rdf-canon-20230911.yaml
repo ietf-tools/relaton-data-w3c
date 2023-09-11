@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20230901
+id: W3CWD-rdf-canon-20230911
 title:
 - content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230901/
+- content: https://www.w3.org/TR/2023/WD-rdf-canon-20230911/
   type: src
 - content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20230901
+- id: W3C WD-rdf-canon-20230911
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20230901
+docnumber: WD-rdf-canon-20230911
 date:
 - type: published
-  value: '2023-09-01'
+  value: '2023-09-11'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-01'
+revdate: '2023-09-11'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230829
+    id: W3CWD-rdf-canon-20230901
     docid:
-    - id: W3C WD-rdf-canon-20230829
+    - id: W3C WD-rdf-canon-20230901
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230829
+      content: W3C WD-rdf-canon-20230901
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf-canon-20230901
+  number: WD-rdf-canon-20230911
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -25439,11 +25439,6 @@
     :date: '20220917'
   :file: data/wd-css-contain-2-20220917.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20220920'
-  :file: data/wd-mediasession-20220920.yaml
-- :id:
     :code: media-source-2
     :stage: WD
     :date: '20220921'
@@ -26279,11 +26274,6 @@
     :date: '20230714'
   :file: data/wd-sparql12-update-20230714.yaml
 - :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20230717'
-  :file: data/wd-permissions-policy-1-20230717.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20230719'
@@ -26353,11 +26343,6 @@
     :type: DNOTE
     :date: '20230725'
   :file: data/dnote-international-specs-20230725.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20230726'
-  :file: data/wd-webgpu-20230726.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26584,11 +26569,6 @@
     :date: '20230827'
   :file: data/rec-html-aria-20230827.yaml
 - :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20230829'
-  :file: data/note-did-spec-registries-20230829.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20230830'
@@ -26749,11 +26729,6 @@
     :date: '20230907'
   :file: data/note-design-principles-20230907.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230907'
-  :file: data/wd-vc-json-schema-20230907.yaml
-- :id:
     :code: vc-jose-cose
     :stage: WD
     :date: '20230908'
@@ -26769,16 +26744,6 @@
     :date: '20230908'
   :file: data/wd-viss2-transport-20230908.yaml
 - :id:
-    :code: intersection-observer
-    :stage: WD
-    :date: '20230909'
-  :file: data/wd-intersection-observer-20230909.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230910'
-  :file: data/wd-vc-data-model-2.0-20230910.yaml
-- :id:
     :code: openscreenprotocol
     :stage: WD
     :date: '20230911'
@@ -26788,6 +26753,41 @@
     :stage: WD
     :date: '20230911'
   :file: data/wd-rdf-canon-20230911.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20230911'
+  :file: data/note-did-spec-registries-20230911.yaml
+- :id:
+    :code: intersection-observer
+    :stage: WD
+    :date: '20230911'
+  :file: data/wd-intersection-observer-20230911.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230911'
+  :file: data/wd-vc-data-model-2.0-20230911.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20230911'
+  :file: data/wd-permissions-policy-1-20230911.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20230912'
+  :file: data/wd-mediasession-20230912.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20230912'
+  :file: data/wd-webgpu-20230912.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230912'
+  :file: data/wd-vc-json-schema-20230912.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26978,14 +26978,14 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

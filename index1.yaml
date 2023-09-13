@@ -26729,11 +26729,6 @@
     :date: '20230907'
   :file: data/note-design-principles-20230907.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230908'
-  :file: data/wd-vc-jose-cose-20230908.yaml
-- :id:
     :code: viss2-core
     :stage: WD
     :date: '20230908'
@@ -26764,16 +26759,6 @@
     :date: '20230911'
   :file: data/wd-intersection-observer-20230911.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230911'
-  :file: data/wd-vc-data-model-2.0-20230911.yaml
-- :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20230911'
-  :file: data/wd-permissions-policy-1-20230911.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20230912'
@@ -26788,6 +26773,21 @@
     :stage: WD
     :date: '20230912'
   :file: data/wd-vc-json-schema-20230912.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20230912'
+  :file: data/wd-permissions-policy-1-20230912.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230913'
+  :file: data/wd-vc-data-model-2.0-20230913.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230913'
+  :file: data/wd-vc-jose-cose-20230913.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26978,14 +26978,14 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

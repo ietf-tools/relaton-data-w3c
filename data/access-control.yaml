@@ -31,16 +31,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-access-control-20060517
-    docid:
-    - id: W3C WD-access-control-20060517
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-access-control-20060517
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-access-control-20071126
     docid:
     - id: W3C WD-access-control-20071126
@@ -48,6 +38,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-access-control-20071126
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-access-control-20060517
+    docid:
+    - id: W3C WD-access-control-20060517
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-access-control-20060517
       format: text/plain
 - type: instance
   bibitem:

@@ -33,36 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-emotionml-20110407
-    docid:
-    - id: W3C WD-emotionml-20110407
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-emotionml-20110407
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-emotionml-20091029
-    docid:
-    - id: W3C WD-emotionml-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-emotionml-20091029
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPR-emotionml-20130416
-    docid:
-    - id: W3C PR-emotionml-20130416
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-emotionml-20130416
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-emotionml-20120510
     docid:
     - id: W3C CR-emotionml-20120510
@@ -80,6 +50,36 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-emotionml-20100729
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-emotionml-20110407
+    docid:
+    - id: W3C WD-emotionml-20110407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-emotionml-20110407
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-emotionml-20130416
+    docid:
+    - id: W3C PR-emotionml-20130416
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-emotionml-20130416
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-emotionml-20091029
+    docid:
+    - id: W3C WD-emotionml-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-emotionml-20091029
       format: text/plain
 series:
 - title:

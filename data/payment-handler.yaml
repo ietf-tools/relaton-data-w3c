@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-handler-20211004
-    docid:
-    - id: W3C WD-payment-handler-20211004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-payment-handler-20211004
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-payment-handler-20180108
     docid:
     - id: W3C WD-payment-handler-20180108
@@ -53,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-payment-handler-20171203
+    id: W3CWD-payment-handler-20211004
     docid:
-    - id: W3C WD-payment-handler-20171203
+    - id: W3C WD-payment-handler-20211004
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-payment-handler-20171203
+      content: W3C WD-payment-handler-20211004
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-payment-handler-20191021
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-payment-handler-20171203
+    docid:
+    - id: W3C WD-payment-handler-20171203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-handler-20171203
       format: text/plain
 series:
 - title:

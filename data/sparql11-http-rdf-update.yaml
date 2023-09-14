@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-sparql11-http-rdf-update-20110512
-    docid:
-    - id: W3C WD-sparql11-http-rdf-update-20110512
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-sparql11-http-rdf-update-20110512
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-sparql11-http-rdf-update-20091022
-    docid:
-    - id: W3C WD-sparql11-http-rdf-update-20091022
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-sparql11-http-rdf-update-20091022
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-sparql11-http-rdf-update-20121108
     docid:
     - id: W3C CR-sparql11-http-rdf-update-20121108
@@ -80,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-sparql11-http-rdf-update-20101014
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-sparql11-http-rdf-update-20110512
+    docid:
+    - id: W3C WD-sparql11-http-rdf-update-20110512
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql11-http-rdf-update-20110512
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-sparql11-http-rdf-update-20091022
+    docid:
+    - id: W3C WD-sparql11-http-rdf-update-20091022
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-sparql11-http-rdf-update-20091022
       format: text/plain
 series:
 - title:

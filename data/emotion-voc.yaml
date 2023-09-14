@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-emotion-voc-20110407
-    docid:
-    - id: W3C WD-emotion-voc-20110407
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-emotion-voc-20110407
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-emotion-voc-20120510
     docid:
     - id: W3C NOTE-emotion-voc-20120510
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-emotion-voc-20120510
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-emotion-voc-20110407
+    docid:
+    - id: W3C WD-emotion-voc-20110407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-emotion-voc-20110407
       format: text/plain
 series:
 - title:

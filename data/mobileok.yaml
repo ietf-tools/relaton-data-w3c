@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mobileOK-20060712
-    docid:
-    - id: W3C WD-mobileOK-20060712
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mobileOK-20060712
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mobileOK-20070504
     docid:
     - id: W3C WD-mobileOK-20070504
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mobileOK-20070504
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mobileOK-20060712
+    docid:
+    - id: W3C WD-mobileOK-20060712
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mobileOK-20060712
       format: text/plain
 - type: hasEdition
   bibitem:

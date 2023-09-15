@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-mediasession-20230912
+id: W3CWD-vc-json-schema-20230915
 title:
-- content: Media Session
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-mediasession-20230912/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20230915/
   type: src
-- content: https://w3c.github.io/mediasession/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-mediasession-20230912
+- id: W3C WD-vc-json-schema-20230915
   type: W3C
   primary: true
-docnumber: WD-mediasession-20230912
+docnumber: WD-vc-json-schema-20230915
 date:
 - type: published
-  value: '2023-09-12'
+  value: '2023-09-15'
 contributor:
 - person:
     name:
       completename:
-        content: Thomas Steimel
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Gabe Cohen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-12'
+- person:
+    name:
+      completename:
+        content: Orie Steele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-09-15'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mediasession-20220920
+    id: W3CWD-vc-json-schema-20230912
     docid:
-    - id: W3C WD-mediasession-20220920
+    - id: W3C WD-vc-json-schema-20230912
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediasession-20220920
+      content: W3C WD-vc-json-schema-20230912
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-mediasession-20230912
+  number: WD-vc-json-schema-20230915
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

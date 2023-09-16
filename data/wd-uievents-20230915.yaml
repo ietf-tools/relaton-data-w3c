@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-uievents-20230823
+id: W3CWD-uievents-20230915
 title:
 - content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-uievents-20230823/
+- content: https://www.w3.org/TR/2023/WD-uievents-20230915/
   type: src
 - content: https://w3c.github.io/uievents/
   type: current
 type: standard
 docid:
-- id: W3C WD-uievents-20230823
+- id: W3C WD-uievents-20230915
   type: W3C
   primary: true
-docnumber: WD-uievents-20230823
+docnumber: WD-uievents-20230915
 date:
 - type: published
-  value: '2023-08-23'
+  value: '2023-09-15'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-23'
+revdate: '2023-09-15'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20230627
+    id: W3CWD-uievents-20230823
     docid:
-    - id: W3C WD-uievents-20230627
+    - id: W3C WD-uievents-20230823
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20230627
+      content: W3C WD-uievents-20230823
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-uievents-20230823
+  number: WD-uievents-20230915
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

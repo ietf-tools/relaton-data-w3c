@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20230902
+id: W3CDNOTE-sdw-bp-20230919
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Spatial Data on the Web Best Practices
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20230902/
+- content: https://www.w3.org/TR/2023/DNOTE-sdw-bp-20230919/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/sdw/bp/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20230902
+- id: W3C DNOTE-sdw-bp-20230919
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20230902
+docnumber: DNOTE-sdw-bp-20230919
 date:
 - type: published
-  value: '2023-09-02'
+  value: '2023-09-19'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Jeremy Tandy
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Linda van den Brink
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Payam Barnaghi
         language:
         - en
         script:
@@ -52,49 +52,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Timo Homburg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-09-02'
+revdate: '2023-09-19'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20230831
+    id: W3CNOTE-sdw-bp-20170928
     docid:
-    - id: W3C WD-vc-data-integrity-20230831
+    - id: W3C NOTE-sdw-bp-20170928
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20230831
+      content: W3C NOTE-sdw-bp-20170928
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-vc-data-integrity-20230902
-doctype: technicalReport
+  number: DNOTE-sdw-bp-20230919
+doctype: groupNote
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Spatial Data on the Web Working Group
 ext:
   schema-version: v1.0.0

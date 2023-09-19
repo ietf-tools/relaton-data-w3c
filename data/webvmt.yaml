@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cwebvmt
+title:
+- content: 'WebVMT: The Web Video Map Tracks Format'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/webvmt/
+  type: src
+type: standard
+docid:
+- id: W3C webvmt
+  type: W3C
+  primary: true
+docnumber: webvmt
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-webvmt-20230919
+    docid:
+    - id: W3C NOTE-webvmt-20230919
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-webvmt-20230919
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: webvmt
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

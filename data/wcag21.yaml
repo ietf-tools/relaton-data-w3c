@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-WCAG21-20180605
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-WCAG21-20180605
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-WCAG21-20230921
+    docid:
+    - id: W3C REC-WCAG21-20230921
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-WCAG21-20230921
       format: text/plain
 - type: hasEdition
   bibitem:

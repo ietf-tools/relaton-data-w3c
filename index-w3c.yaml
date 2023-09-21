@@ -8548,8 +8548,8 @@
   :file: data/cr-mediacapture-streams-20160519.yaml
 - :code: mediacapture-streams
   :stage: CRD
-  :date: '20230817'
-  :file: data/crd-mediacapture-streams-20230817.yaml
+  :date: '20230921'
+  :file: data/crd-mediacapture-streams-20230921.yaml
 - :code: mediacapture-streams
   :stage: CRD
   :date: '20220505'
@@ -10384,9 +10384,9 @@
 - :code: png-3
   :file: data/png-3.yaml
 - :code: png-3
-  :stage: WD
-  :date: '20230720'
-  :file: data/wd-png-3-20230720.yaml
+  :stage: CR
+  :date: '20230921'
+  :file: data/cr-png-3-20230921.yaml
 - :code: png-hdr-pq
   :file: data/png-hdr-pq.yaml
 - :code: png-hdr-pq
@@ -14697,6 +14697,10 @@
   :file: data/understanding-wcag20.yaml
 - :code: UNDERSTANDING-WCAG20
   :type: NOTE
+  :date: '20230921'
+  :file: data/note-understanding-wcag20-20230921.yaml
+- :code: UNDERSTANDING-WCAG20
+  :type: NOTE
   :date: '20161007'
   :file: data/note-understanding-wcag20-20161007.yaml
 - :code: UNDERSTANDING-WCAG20
@@ -14933,8 +14937,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: WD
-  :date: '20230914'
-  :file: data/wd-vc-jose-cose-20230914.yaml
+  :date: '20230921'
+  :file: data/wd-vc-jose-cose-20230921.yaml
 - :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
@@ -15892,6 +15896,10 @@
   :file: data/wd-wcag20-techs-20060427.yaml
 - :code: WCAG21
   :file: data/wcag21.yaml
+- :code: WCAG21
+  :stage: REC
+  :date: '20230921'
+  :file: data/rec-wcag21-20230921.yaml
 - :code: WCAG21
   :stage: REC
   :date: '20180605'

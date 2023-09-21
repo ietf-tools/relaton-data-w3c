@@ -1,28 +1,26 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jose-cose-20230914
+id: W3CNOTE-UNDERSTANDING-WCAG20-20230921
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: Understanding WCAG 2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/
+- content: https://www.w3.org/TR/2023/NOTE-UNDERSTANDING-WCAG20-20230921/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
-  type: current
 type: standard
 docid:
-- id: W3C WD-vc-jose-cose-20230914
+- id: W3C NOTE-UNDERSTANDING-WCAG20-20230921
   type: W3C
   primary: true
-docnumber: WD-vc-jose-cose-20230914
+docnumber: NOTE-UNDERSTANDING-WCAG20-20230921
 date:
 - type: published
-  value: '2023-09-14'
+  value: '2023-09-21'
 contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Andrew Kirkpatrick
         language:
         - en
         script:
@@ -32,7 +30,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Joshue O'Connor
         language:
         - en
         script:
@@ -42,39 +40,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Michael Cooper
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-14'
+revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jose-cose-20230913
+    id: W3CNOTE-UNDERSTANDING-WCAG20-20161007
     docid:
-    - id: W3C WD-vc-jose-cose-20230913
+    - id: W3C NOTE-UNDERSTANDING-WCAG20-20161007
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jose-cose-20230913
+      content: W3C NOTE-UNDERSTANDING-WCAG20-20161007
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-vc-jose-cose-20230914
-doctype: technicalReport
+  number: NOTE-UNDERSTANDING-WCAG20-20230921
+doctype: groupNote
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessibility Guidelines Working Group
 ext:
   schema-version: v1.0.0

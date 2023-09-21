@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-UNDERSTANDING-WCAG20-20161007
+id: W3CWD-vc-jose-cose-20230921
 title:
-- content: Understanding WCAG 2.0
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2016/NOTE-UNDERSTANDING-WCAG20-20161007/
+- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/
   type: src
+- content: https://w3c.github.io/vc-jose-cose/
+  type: current
 type: standard
 docid:
-- id: W3C NOTE-UNDERSTANDING-WCAG20-20161007
+- id: W3C WD-vc-jose-cose-20230921
   type: W3C
   primary: true
-docnumber: NOTE-UNDERSTANDING-WCAG20-20161007
+docnumber: WD-vc-jose-cose-20230921
 date:
 - type: published
-  value: '2016-10-07'
+  value: '2023-09-21'
 contributor:
 - person:
     name:
       completename:
-        content: Andrew Kirkpatrick
+        content: Michael Jones
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshue O Connor
+        content: Michael Prorock
         language:
         - en
         script:
@@ -40,36 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2016-10-07'
+revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-UNDERSTANDING-WCAG20-20160317
+    id: W3CWD-vc-jose-cose-20230920
     docid:
-    - id: W3C NOTE-UNDERSTANDING-WCAG20-20160317
+    - id: W3C WD-vc-jose-cose-20230920
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-UNDERSTANDING-WCAG20-20160317
+      content: W3C WD-vc-jose-cose-20230920
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: NOTE-UNDERSTANDING-WCAG20-20161007
-doctype: groupNote
+  number: WD-vc-jose-cose-20230921
+doctype: technicalReport
 editorialgroup:
-- name: Accessibility Guidelines Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

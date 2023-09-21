@@ -1,22 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-UNDERSTANDING-WCAG20-20161007
+id: W3CREC-WCAG21-20230921
 title:
-- content: Understanding WCAG 2.0
+- content: Web Content Accessibility Guidelines (WCAG) 2.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2016/NOTE-UNDERSTANDING-WCAG20-20161007/
+- content: https://www.w3.org/TR/2023/REC-WCAG21-20230921/
   type: src
+- content: https://w3c.github.io/wcag/guidelines/22/
+  type: current
 type: standard
 docid:
-- id: W3C NOTE-UNDERSTANDING-WCAG20-20161007
+- id: W3C REC-WCAG21-20230921
   type: W3C
   primary: true
-docnumber: NOTE-UNDERSTANDING-WCAG20-20161007
+docnumber: REC-WCAG21-20230921
 date:
 - type: published
-  value: '2016-10-07'
+  value: '2023-09-21'
 contributor:
+- person:
+    name:
+      completename:
+        content: Alastair Campbell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -30,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshue O Connor
+        content: Joshue O'Connor
         language:
         - en
         script:
@@ -47,28 +59,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2016-10-07'
+revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-UNDERSTANDING-WCAG20-20160317
+    id: W3CREC-WCAG21-20180605
     docid:
-    - id: W3C NOTE-UNDERSTANDING-WCAG20-20160317
+    - id: W3C REC-WCAG21-20180605
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-UNDERSTANDING-WCAG20-20160317
+      content: W3C REC-WCAG21-20180605
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C REC
     format: text/plain
-  number: NOTE-UNDERSTANDING-WCAG20-20161007
-doctype: groupNote
+  number: REC-WCAG21-20230921
+doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group
 ext:

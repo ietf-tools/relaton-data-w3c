@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-png-3-20230720
+id: W3CCRD-mediacapture-streams-20230921
 title:
-- content: Portable Network Graphics (PNG) Specification (Third Edition)
+- content: Media Capture and Streams
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-png-3-20230720/
+- content: https://www.w3.org/TR/2023/CRD-mediacapture-streams-20230921/
   type: src
-- content: https://w3c.github.io/PNG-spec/
+- content: https://w3c.github.io/mediacapture-main/
   type: current
 type: standard
 docid:
-- id: W3C WD-png-3-20230720
+- id: W3C CRD-mediacapture-streams-20230921
   type: W3C
   primary: true
-docnumber: WD-png-3-20230720
+docnumber: CRD-mediacapture-streams-20230921
 date:
 - type: published
-  value: '2023-07-20'
+  value: '2023-09-21'
 contributor:
 - person:
     name:
       completename:
-        content: Chris Blume
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Lilley
+        content: Cullen Jennings
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Chris Seeger
+        content: Henrik Boström
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Leonard Rosenthol
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
@@ -62,37 +62,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Pierre-Anthony Lemieux
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-20'
+revdate: '2023-09-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-png-3-20221025
+    id: W3CCRD-mediacapture-streams-20230817
     docid:
-    - id: W3C WD-png-3-20221025
+    - id: W3C CRD-mediacapture-streams-20230817
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-png-3-20221025
+      content: W3C CRD-mediacapture-streams-20230817
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-png-3-20230720
+  number: CRD-mediacapture-streams-20230921
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -26294,11 +26294,6 @@
     :date: '20230720'
   :file: data/pr-wcag22-20230720.yaml
 - :id:
-    :code: png-3
-    :stage: WD
-    :date: '20230720'
-  :file: data/wd-png-3-20230720.yaml
-- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20230720'
@@ -26448,11 +26443,6 @@
     :type: DNOTE
     :date: '20230815'
   :file: data/dnote-wcag2ict-20230815.yaml
-- :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20230817'
-  :file: data/crd-mediacapture-streams-20230817.yaml
 - :id:
     :code: sparql12-query
     :stage: WD
@@ -26759,11 +26749,6 @@
     :date: '20230914'
   :file: data/wd-vc-data-model-2.0-20230914.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230914'
-  :file: data/wd-vc-jose-cose-20230914.yaml
-- :id:
     :code: vc-json-schema
     :stage: WD
     :date: '20230915'
@@ -26803,6 +26788,31 @@
     :stage: WD
     :date: '20230920'
   :file: data/wd-csp3-20230920.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20230921'
+  :file: data/wd-vc-jose-cose-20230921.yaml
+- :id:
+    :code: png-3
+    :stage: CR
+    :date: '20230921'
+  :file: data/cr-png-3-20230921.yaml
+- :id:
+    :code: UNDERSTANDING-WCAG20
+    :type: NOTE
+    :date: '20230921'
+  :file: data/note-understanding-wcag20-20230921.yaml
+- :id:
+    :code: WCAG21
+    :stage: REC
+    :date: '20230921'
+  :file: data/rec-wcag21-20230921.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20230921'
+  :file: data/crd-mediacapture-streams-20230921.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26918,9 +26928,6 @@
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
-    :code: png-3
-  :file: data/png-3.yaml
-- :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
@@ -26993,9 +27000,6 @@
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
@@ -27007,3 +27011,9 @@
 - :id:
     :code: webvmt
   :file: data/webvmt.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: png-3
+  :file: data/png-3.yaml

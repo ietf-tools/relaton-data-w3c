@@ -19,21 +19,21 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-png-3-20230720
+    id: W3CCR-png-3-20230921
     docid:
-    - id: W3C WD-png-3-20230720
+    - id: W3C CR-png-3-20230921
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-png-3-20230720
+      content: W3C CR-png-3-20230921
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: png-3
 doctype: technicalReport

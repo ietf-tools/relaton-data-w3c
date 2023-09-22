@@ -26269,11 +26269,6 @@
     :date: '20230712'
   :file: data/wd-webtransport-20230712.yaml
 - :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20230714'
-  :file: data/wd-sparql12-update-20230714.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20230719'
@@ -26343,11 +26338,6 @@
     :stage: WD
     :date: '20230727'
   :file: data/wd-webrtc-encoded-transform-20230727.yaml
-- :id:
-    :code: rdf12-trig
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-rdf12-trig-20230727.yaml
 - :id:
     :code: sparql12-results-json
     :stage: WD
@@ -26594,25 +26584,10 @@
     :date: '20230831'
   :file: data/wd-pointerevents3-20230831.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-rdf12-n-quads-20230831.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20230831'
   :file: data/wd-rdf12-n-triples-20230831.yaml
-- :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-rdf12-turtle-20230831.yaml
-- :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-rdf12-xml-20230831.yaml
 - :id:
     :code: clreq
     :type: DNOTE
@@ -26814,6 +26789,31 @@
     :date: '20230921'
   :file: data/crd-mediacapture-streams-20230921.yaml
 - :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20230921'
+  :file: data/wd-rdf12-n-quads-20230921.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20230921'
+  :file: data/wd-rdf12-xml-20230921.yaml
+- :id:
+    :code: rdf12-trig
+    :stage: WD
+    :date: '20230921'
+  :file: data/wd-rdf12-trig-20230921.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20230921'
+  :file: data/wd-rdf12-turtle-20230921.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20230922'
+  :file: data/wd-sparql12-update-20230922.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26925,17 +26925,11 @@
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
 - :id:
-    :code: sparql12-update
-  :file: data/sparql12-update.yaml
-- :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
-- :id:
-    :code: rdf12-trig
-  :file: data/rdf12-trig.yaml
 - :id:
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
@@ -26967,17 +26961,8 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
-- :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
-- :id:
-    :code: rdf12-xml
-  :file: data/rdf12-xml.yaml
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
@@ -27017,3 +27002,18 @@
 - :id:
     :code: png-3
   :file: data/png-3.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
+- :id:
+    :code: rdf12-xml
+  :file: data/rdf12-xml.yaml
+- :id:
+    :code: rdf12-trig
+  :file: data/rdf12-trig.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: sparql12-update
+  :file: data/sparql12-update.yaml

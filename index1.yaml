@@ -26149,11 +26149,6 @@
     :date: '20230615'
   :file: data/wd-sparql12-entailment-20230615.yaml
 - :id:
-    :code: rdf12-semantics
-    :stage: WD
-    :date: '20230615'
-  :file: data/wd-rdf12-semantics-20230615.yaml
-- :id:
     :code: sparql12-federated-query
     :stage: WD
     :date: '20230616'
@@ -26333,11 +26328,6 @@
     :type: DNOTE
     :date: '20230725'
   :file: data/dnote-international-specs-20230725.yaml
-- :id:
-    :code: webrtc-encoded-transform
-    :stage: WD
-    :date: '20230727'
-  :file: data/wd-webrtc-encoded-transform-20230727.yaml
 - :id:
     :code: sparql12-results-json
     :stage: WD
@@ -26734,11 +26724,6 @@
     :date: '20230915'
   :file: data/wd-uievents-20230915.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20230916'
-  :file: data/wd-rdf12-concepts-20230916.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20230918'
@@ -26813,6 +26798,21 @@
     :stage: WD
     :date: '20230922'
   :file: data/wd-sparql12-update-20230922.yaml
+- :id:
+    :code: webrtc-encoded-transform
+    :stage: WD
+    :date: '20230922'
+  :file: data/wd-webrtc-encoded-transform-20230922.yaml
+- :id:
+    :code: rdf12-semantics
+    :stage: WD
+    :date: '20230922'
+  :file: data/wd-rdf12-semantics-20230922.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20230922'
+  :file: data/wd-rdf12-concepts-20230922.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26896,9 +26896,6 @@
 - :id:
     :code: sparql12-entailment
   :file: data/sparql12-entailment.yaml
-- :id:
-    :code: rdf12-semantics
-  :file: data/rdf12-semantics.yaml
 - :id:
     :code: sparql12-federated-query
   :file: data/sparql12-federated-query.yaml
@@ -26988,9 +26985,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -27017,3 +27011,9 @@
 - :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
+- :id:
+    :code: rdf12-semantics
+  :file: data/rdf12-semantics.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml

@@ -26599,11 +26599,6 @@
     :date: '20230902'
   :file: data/wd-dpub-aria-1.1-20230902.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20230902'
-  :file: data/wd-html-aam-1.0-20230902.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: WD
     :date: '20230902'
@@ -26789,11 +26784,6 @@
     :date: '20230921'
   :file: data/wd-rdf12-trig-20230921.yaml
 - :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20230921'
-  :file: data/wd-rdf12-turtle-20230921.yaml
-- :id:
     :code: sparql12-update
     :stage: WD
     :date: '20230922'
@@ -26813,6 +26803,16 @@
     :stage: WD
     :date: '20230922'
   :file: data/wd-rdf12-concepts-20230922.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20230925'
+  :file: data/wd-rdf12-turtle-20230925.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20230925'
+  :file: data/wd-html-aam-1.0-20230925.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27006,9 +27006,6 @@
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
-- :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
@@ -27017,3 +27014,6 @@
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml

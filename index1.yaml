@@ -26554,11 +26554,6 @@
     :date: '20230830'
   :file: data/dnote-guru-gap-20230830.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-compute-pressure-20230831.yaml
-- :id:
     :code: audio-output
     :stage: CRD
     :date: '20230831'
@@ -26724,11 +26719,6 @@
     :date: '20230918'
   :file: data/wd-mediasession-20230918.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230918'
-  :file: data/wd-vc-data-integrity-20230918.yaml
-- :id:
     :code: sdw-bp
     :type: DNOTE
     :date: '20230919'
@@ -26813,6 +26803,21 @@
     :stage: WD
     :date: '20230925'
   :file: data/wd-html-aam-1.0-20230925.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20230925'
+  :file: data/wd-vc-data-integrity-20230925.yaml
+- :id:
+    :code: edge-cloud-reqs
+    :type: DNOTE
+    :date: '20230926'
+  :file: data/dnote-edge-cloud-reqs-20230926.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20230926'
+  :file: data/wd-compute-pressure-20230926.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26955,9 +26960,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :id:
@@ -26984,9 +26986,6 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
-- :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
 - :id:
     :code: webvmt
   :file: data/webvmt.yaml
@@ -27017,3 +27016,12 @@
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: edge-cloud-reqs
+  :file: data/edge-cloud-reqs.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

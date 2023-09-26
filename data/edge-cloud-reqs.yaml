@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cedge-cloud-reqs
+title:
+- content: Client-Edge-Cloud coordination Use Cases and Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/edge-cloud-reqs/
+  type: src
+type: standard
+docid:
+- id: W3C edge-cloud-reqs
+  type: W3C
+  primary: true
+docnumber: edge-cloud-reqs
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-edge-cloud-reqs-20230926
+    docid:
+    - id: W3C DNOTE-edge-cloud-reqs-20230926
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-edge-cloud-reqs-20230926
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: edge-cloud-reqs
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

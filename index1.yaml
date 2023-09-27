@@ -26629,11 +26629,6 @@
     :date: '20230906'
   :file: data/wd-largest-contentful-paint-20230906.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20230906'
-  :file: data/wd-wgsl-20230906.yaml
-- :id:
     :code: ethical-web-principles
     :type: DNOTE
     :date: '20230906'
@@ -26698,16 +26693,6 @@
     :stage: WD
     :date: '20230914'
   :file: data/wd-css-page-3-20230914.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230914'
-  :file: data/wd-vc-data-model-2.0-20230914.yaml
-- :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230915'
-  :file: data/wd-vc-json-schema-20230915.yaml
 - :id:
     :code: uievents
     :stage: WD
@@ -26818,6 +26803,21 @@
     :stage: WD
     :date: '20230926'
   :file: data/wd-compute-pressure-20230926.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20230926'
+  :file: data/wd-vc-json-schema-20230926.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20230926'
+  :file: data/wd-vc-data-model-2.0-20230926.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20230927'
+  :file: data/wd-wgsl-20230927.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26981,12 +26981,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: webvmt
   :file: data/webvmt.yaml
 - :id:
@@ -27025,3 +27019,9 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

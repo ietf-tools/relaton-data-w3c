@@ -30,23 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xhtml2-20030506
+    id: W3CWD-xhtml2-20040722
     docid:
-    - id: W3C WD-xhtml2-20030506
+    - id: W3C WD-xhtml2-20040722
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xhtml2-20030506
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xhtml2-20050527
-    docid:
-    - id: W3C WD-xhtml2-20050527
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xhtml2-20050527
+      content: W3C WD-xhtml2-20040722
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,6 +50,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-xhtml2-20050527
+    docid:
+    - id: W3C WD-xhtml2-20050527
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml2-20050527
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xhtml2-20020805
     docid:
     - id: W3C WD-xhtml2-20020805
@@ -70,13 +70,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xhtml2-20040722
+    id: W3CWD-xhtml2-20030506
     docid:
-    - id: W3C WD-xhtml2-20040722
+    - id: W3C WD-xhtml2-20030506
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xhtml2-20040722
+      content: W3C WD-xhtml2-20030506
       format: text/plain
 series:
 - title:

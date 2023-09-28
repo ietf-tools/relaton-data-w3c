@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-xmlsec-rngschema-20120124
-    docid:
-    - id: W3C NOTE-xmlsec-rngschema-20120124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-xmlsec-rngschema-20120124
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xmlsec-rngschema-20100831
     docid:
     - id: W3C WD-xmlsec-rngschema-20100831
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xmlsec-rngschema-20100831
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-xmlsec-rngschema-20120124
+    docid:
+    - id: W3C NOTE-xmlsec-rngschema-20120124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-xmlsec-rngschema-20120124
       format: text/plain
 - type: hasEdition
   bibitem:

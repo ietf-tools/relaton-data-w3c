@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-curie-20071126
-    docid:
-    - id: W3C WD-curie-20071126
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-curie-20071126
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-curie-20090116
     docid:
     - id: W3C CR-curie-20090116
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-curie-20090116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-curie-20071126
+    docid:
+    - id: W3C WD-curie-20071126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-curie-20071126
       format: text/plain
 - type: hasEdition
   bibitem:

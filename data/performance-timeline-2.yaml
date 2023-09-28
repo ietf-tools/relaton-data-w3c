@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-performance-timeline-2-20181127
-    docid:
-    - id: W3C WD-performance-timeline-2-20181127
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-performance-timeline-2-20181127
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-performance-timeline-2-20191024
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-performance-timeline-2-20151207
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-performance-timeline-2-20181127
+    docid:
+    - id: W3C WD-performance-timeline-2-20181127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-2-20181127
       format: text/plain
 series:
 - title:

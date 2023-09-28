@@ -3267,12 +3267,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -7173,8 +7173,8 @@
   :file: data/i18n-glossary.yaml
 - :code: i18n-glossary
   :type: DNOTE
-  :date: '20230424'
-  :file: data/dnote-i18n-glossary-20230424.yaml
+  :date: '20230927'
+  :file: data/dnote-i18n-glossary-20230927.yaml
 - :code: i18n-glossary
   :type: DNOTE
   :date: '20220211'
@@ -9372,6 +9372,10 @@
   :file: data/wd-network-error-logging-20151027.yaml
 - :code: network-error-logging-1
   :file: data/network-error-logging-1.yaml
+- :code: network-error-logging-1
+  :stage: WD
+  :date: '20230927'
+  :file: data/wd-network-error-logging-1-20230927.yaml
 - :code: network-error-logging-1
   :stage: WD
   :date: '20180925'
@@ -14943,8 +14947,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: WD
-  :date: '20230921'
-  :file: data/wd-vc-jose-cose-20230921.yaml
+  :date: '20230927'
+  :file: data/wd-vc-jose-cose-20230927.yaml
 - :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
@@ -15096,8 +15100,8 @@
   :file: data/viss2-core.yaml
 - :code: viss2-core
   :stage: WD
-  :date: '20230908'
-  :file: data/wd-viss2-core-20230908.yaml
+  :date: '20230927'
+  :file: data/wd-viss2-core-20230927.yaml
 - :code: viss2-core
   :stage: WD
   :date: '20220503'
@@ -16168,6 +16172,10 @@
   :file: data/wd-webauthn-2-20191126.yaml
 - :code: webauthn-3
   :file: data/webauthn-3.yaml
+- :code: webauthn-3
+  :stage: WD
+  :date: '20230927'
+  :file: data/wd-webauthn-3-20230927.yaml
 - :code: webauthn-3
   :stage: WD
   :date: '20210427'

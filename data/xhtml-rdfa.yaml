@@ -53,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CPER-xhtml-rdfa-20141216
+    docid:
+    - id: W3C PER-xhtml-rdfa-20141216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-xhtml-rdfa-20141216
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-xhtml-rdfa-20100422
     docid:
     - id: W3C WD-xhtml-rdfa-20100422
@@ -80,16 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xhtml-rdfa-20111215
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPER-xhtml-rdfa-20141216
-    docid:
-    - id: W3C PER-xhtml-rdfa-20141216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-xhtml-rdfa-20141216
       format: text/plain
 series:
 - title:

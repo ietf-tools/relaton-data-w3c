@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-wake-lock-20211207
-    docid:
-    - id: W3C WD-screen-wake-lock-20211207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-wake-lock-20211207
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-screen-wake-lock-20200929
     docid:
     - id: W3C WD-screen-wake-lock-20200929
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-screen-wake-lock-20200929
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-screen-wake-lock-20211207
+    docid:
+    - id: W3C WD-screen-wake-lock-20211207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-wake-lock-20211207
       format: text/plain
 series:
 - title:

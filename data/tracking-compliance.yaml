@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-tracking-compliance-20141125
+    docid:
+    - id: W3C WD-tracking-compliance-20141125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-compliance-20141125
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-tracking-compliance-20160426
     docid:
     - id: W3C CR-tracking-compliance-20160426
@@ -37,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-tracking-compliance-20160426
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-tracking-compliance-20150714
+    docid:
+    - id: W3C WD-tracking-compliance-20150714
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-tracking-compliance-20150714
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,26 +87,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-tracking-compliance-20130912
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-tracking-compliance-20141125
-    docid:
-    - id: W3C WD-tracking-compliance-20141125
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-tracking-compliance-20141125
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-tracking-compliance-20150714
-    docid:
-    - id: W3C WD-tracking-compliance-20150714
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-tracking-compliance-20150714
       format: text/plain
 series:
 - title:

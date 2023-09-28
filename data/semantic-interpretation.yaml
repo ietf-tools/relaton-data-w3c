@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-semantic-interpretation-20030401
-    docid:
-    - id: W3C WD-semantic-interpretation-20030401
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-semantic-interpretation-20030401
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-semantic-interpretation-20041108
     docid:
     - id: W3C WD-semantic-interpretation-20041108
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-semantic-interpretation-20011116
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-semantic-interpretation-20030401
+    docid:
+    - id: W3C WD-semantic-interpretation-20030401
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-semantic-interpretation-20030401
       format: text/plain
 series:
 - title:

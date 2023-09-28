@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ws-enumeration-20100805
-    docid:
-    - id: W3C WD-ws-enumeration-20100805
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ws-enumeration-20100805
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ws-enumeration-20090924
     docid:
     - id: W3C WD-ws-enumeration-20090924
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ws-enumeration-20090924
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ws-enumeration-20100805
+    docid:
+    - id: W3C WD-ws-enumeration-20100805
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-enumeration-20100805
       format: text/plain
 series:
 - title:

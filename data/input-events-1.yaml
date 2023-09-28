@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDISC-input-events-1-20230928
+    docid:
+    - id: W3C DISC-input-events-1-20230928
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DISC-input-events-1-20230928
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-input-events-1-20190530
     docid:
@@ -33,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-input-events-1-20181109
-    docid:
-    - id: W3C WD-input-events-1-20181109
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-input-events-1-20181109
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-input-events-1-20170905
     docid:
     - id: W3C WD-input-events-1-20170905
@@ -51,9 +48,19 @@ relation:
     formattedref:
       content: W3C WD-input-events-1-20170905
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-input-events-1-20181109
+    docid:
+    - id: W3C WD-input-events-1-20181109
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-input-events-1-20181109
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: input-events-1
 doctype: technicalReport

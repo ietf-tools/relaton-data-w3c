@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ATAG20-20030314
+    id: W3CCR-ATAG20-20131107
     docid:
-    - id: W3C WD-ATAG20-20030314
+    - id: W3C CR-ATAG20-20131107
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ATAG20-20030314
+      content: W3C CR-ATAG20-20131107
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-ATAG20-20091029
+    docid:
+    - id: W3C WD-ATAG20-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ATAG20-20091029
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ATAG20-20061207
     docid:
     - id: W3C WD-ATAG20-20061207
@@ -63,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ATAG20-20120410
+    id: W3CWD-ATAG20-20030314
     docid:
-    - id: W3C WD-ATAG20-20120410
+    - id: W3C WD-ATAG20-20030314
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ATAG20-20120410
+      content: W3C WD-ATAG20-20030314
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,6 +93,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-ATAG20-20120410
+    docid:
+    - id: W3C WD-ATAG20-20120410
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ATAG20-20120410
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ATAG20-20110721
     docid:
     - id: W3C WD-ATAG20-20110721
@@ -90,26 +110,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ATAG20-20110721
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-ATAG20-20131107
-    docid:
-    - id: W3C CR-ATAG20-20131107
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ATAG20-20131107
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-ATAG20-20091029
-    docid:
-    - id: W3C WD-ATAG20-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ATAG20-20091029
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-scroll-snap-1-20180814
-    docid:
-    - id: W3C CR-css-scroll-snap-1-20180814
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-scroll-snap-1-20180814
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-scroll-snap-1-20190319
     docid:
     - id: W3C CR-css-scroll-snap-1-20190319
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-scroll-snap-1-20190319
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-scroll-snap-1-20171214
+    docid:
+    - id: W3C CR-css-scroll-snap-1-20171214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-scroll-snap-1-20171214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-scroll-snap-1-20171214
+    id: W3CCR-css-scroll-snap-1-20180814
     docid:
-    - id: W3C CR-css-scroll-snap-1-20171214
+    - id: W3C CR-css-scroll-snap-1-20180814
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-css-scroll-snap-1-20171214
+      content: W3C CR-css-scroll-snap-1-20180814
       format: text/plain
 series:
 - title:

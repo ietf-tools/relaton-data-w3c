@@ -50,6 +50,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-workers-20091029
+    docid:
+    - id: W3C WD-workers-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-workers-20091029
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-workers-20091222
     docid:
     - id: W3C WD-workers-20091222
@@ -67,16 +77,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-workers-20110901
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-workers-20091029
-    docid:
-    - id: W3C WD-workers-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-workers-20091029
       format: text/plain
 series:
 - title:

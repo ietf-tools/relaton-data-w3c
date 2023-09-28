@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-i18n-glossary-20230424
+id: W3CDNOTE-i18n-glossary-20230927
 title:
 - content: Internationalization Glossary
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-i18n-glossary-20230424/
+- content: https://www.w3.org/TR/2023/DNOTE-i18n-glossary-20230927/
   type: src
 - content: https://w3c.github.io/i18n-glossary/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-i18n-glossary-20230424
+- id: W3C DNOTE-i18n-glossary-20230927
   type: W3C
   primary: true
-docnumber: DNOTE-i18n-glossary-20230424
+docnumber: DNOTE-i18n-glossary-20230927
 date:
 - type: published
-  value: '2023-04-24'
+  value: '2023-09-27'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-24'
+revdate: '2023-09-27'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20220211
+    id: W3CDNOTE-i18n-glossary-20230424
     docid:
-    - id: W3C DNOTE-i18n-glossary-20220211
+    - id: W3C DNOTE-i18n-glossary-20230424
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-i18n-glossary-20220211
+      content: W3C DNOTE-i18n-glossary-20230424
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-i18n-glossary-20230424
+  number: DNOTE-i18n-glossary-20230927
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -23,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-viss2-core-20230908
+    id: W3CWD-viss2-core-20230927
     docid:
-    - id: W3C WD-viss2-core-20230908
+    - id: W3C WD-viss2-core-20230927
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20230908
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-viss2-core-20220503
-    docid:
-    - id: W3C WD-viss2-core-20220503
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-viss2-core-20220503
+      content: W3C WD-viss2-core-20230927
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-viss2-core-20210729
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-viss2-core-20220503
+    docid:
+    - id: W3C WD-viss2-core-20220503
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-viss2-core-20220503
       format: text/plain
 series:
 - title:

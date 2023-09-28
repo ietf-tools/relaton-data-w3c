@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-web-animations-1-20210518
-    docid:
-    - id: W3C WD-web-animations-1-20210518
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-animations-1-20210518
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-web-animations-1-20160913
     docid:
     - id: W3C WD-web-animations-1-20160913
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-web-animations-1-20160913
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-animations-1-20210518
+    docid:
+    - id: W3C WD-web-animations-1-20210518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-1-20210518
       format: text/plain
 - type: hasEdition
   bibitem:

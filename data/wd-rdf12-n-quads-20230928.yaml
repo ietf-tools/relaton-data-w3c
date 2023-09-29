@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-update-20230922
+id: W3CWD-rdf12-n-quads-20230928
 title:
-- content: SPARQL 1.2 Update
+- content: RDF 1.2 N-Quads
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-update-20230922/
+- content: https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230928/
   type: src
-- content: https://w3c.github.io/sparql-update/spec/
+- content: https://w3c.github.io/rdf-n-quads/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-update-20230922
+- id: W3C WD-rdf12-n-quads-20230928
   type: W3C
   primary: true
-docnumber: WD-sparql12-update-20230922
+docnumber: WD-rdf12-n-quads-20230928
 date:
 - type: published
-  value: '2023-09-22'
+  value: '2023-09-28'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Thomas Pellissier Tanon
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-09-22'
+revdate: '2023-09-28'
 language:
 - en
 script:
@@ -60,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-update-20230714
+    id: W3CWD-rdf12-n-quads-20230921
     docid:
-    - id: W3C WD-sparql12-update-20230714
+    - id: W3C WD-rdf12-n-quads-20230921
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-update-20230714
+      content: W3C WD-rdf12-n-quads-20230921
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-update-20230922
+  number: WD-rdf12-n-quads-20230928
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

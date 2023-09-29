@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-animation-timing-20150922
+id: W3CNOTE-wot-binding-templates-20230928
 title:
-- content: Timing control for script-based animations
+- content: Web of Things (WoT) Binding Templates
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2015/NOTE-animation-timing-20150922/
+- content: https://www.w3.org/TR/2023/NOTE-wot-binding-templates-20230928/
   type: src
-- content: https://w3c.github.io/animation-timing/
+- content: https://w3c.github.io/wot-binding-templates/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-animation-timing-20150922
+- id: W3C NOTE-wot-binding-templates-20230928
   type: W3C
   primary: true
-docnumber: NOTE-animation-timing-20150922
+docnumber: NOTE-wot-binding-templates-20230928
 date:
 - type: published
-  value: '2015-09-22'
+  value: '2023-09-28'
 contributor:
 - person:
     name:
       completename:
-        content: Cameron McCormack
+        content: Ege Korkan
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: James Robinson
+        content: Michael Koster
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2015-09-22'
+revdate: '2023-09-28'
 language:
 - en
 script:
@@ -47,19 +47,21 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-animation-timing-20131031
+    id: W3CNOTE-wot-binding-templates-20200130
     docid:
-    - id: W3C CR-animation-timing-20131031
+    - id: W3C NOTE-wot-binding-templates-20200130
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-animation-timing-20131031
+      content: W3C NOTE-wot-binding-templates-20200130
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-animation-timing-20150922
+  number: NOTE-wot-binding-templates-20230928
 doctype: groupNote
+editorialgroup:
+- name: Web of Things Working Group
 ext:
   schema-version: v1.0.0

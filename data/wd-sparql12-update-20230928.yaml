@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20230826
+id: W3CWD-sparql12-update-20230928
 title:
-- content: WebCodecs
+- content: SPARQL 1.2 Update
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20230826/
+- content: https://www.w3.org/TR/2023/WD-sparql12-update-20230928/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/sparql-update/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20230826
+- id: W3C WD-sparql12-update-20230928
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20230826
+docnumber: WD-sparql12-update-20230928
 date:
 - type: published
-  value: '2023-08-26'
+  value: '2023-09-28'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Eugene Zemtsov
+        content: Ruben Taelman
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Thomas Pellissier Tanon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-26'
+revdate: '2023-09-28'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20230825
+    id: W3CWD-sparql12-update-20230922
     docid:
-    - id: W3C WD-webcodecs-20230825
+    - id: W3C WD-sparql12-update-20230922
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20230825
+      content: W3C WD-sparql12-update-20230922
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20230826
+  number: WD-sparql12-update-20230928
 doctype: technicalReport
-editorialgroup:
-- name: Media Working Group
 ext:
   schema-version: v1.0.0

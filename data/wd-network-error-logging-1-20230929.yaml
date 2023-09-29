@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-network-error-logging-1-20230927
+id: W3CWD-network-error-logging-1-20230929
 title:
 - content: Network Error Logging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/
+- content: https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/
   type: src
 - content: https://w3c.github.io/network-error-logging-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-network-error-logging-1-20230927
+- id: W3C WD-network-error-logging-1-20230929
   type: W3C
   primary: true
-docnumber: WD-network-error-logging-1-20230927
+docnumber: WD-network-error-logging-1-20230929
 date:
 - type: published
-  value: '2023-09-27'
+  value: '2023-09-29'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-27'
+revdate: '2023-09-29'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-network-error-logging-1-20180925
+    id: W3CWD-network-error-logging-1-20230927
     docid:
-    - id: W3C WD-network-error-logging-1-20180925
+    - id: W3C WD-network-error-logging-1-20230927
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-network-error-logging-1-20180925
+      content: W3C WD-network-error-logging-1-20230927
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-network-error-logging-1-20230927
+  number: WD-network-error-logging-1-20230929
 doctype: technicalReport
-editorialgroup:
-- name: Web Performance Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-intersection-observer-20230914
+id: W3CWD-intersection-observer-20230929
 title:
 - content: Intersection Observer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-intersection-observer-20230914/
+- content: https://www.w3.org/TR/2023/WD-intersection-observer-20230929/
   type: src
 - content: https://w3c.github.io/IntersectionObserver/
   type: current
 type: standard
 docid:
-- id: W3C WD-intersection-observer-20230914
+- id: W3C WD-intersection-observer-20230929
   type: W3C
   primary: true
-docnumber: WD-intersection-observer-20230914
+docnumber: WD-intersection-observer-20230929
 date:
 - type: published
-  value: '2023-09-14'
+  value: '2023-09-29'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-14'
+revdate: '2023-09-29'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-intersection-observer-20230911
+    id: W3CWD-intersection-observer-20230914
     docid:
-    - id: W3C WD-intersection-observer-20230911
+    - id: W3C WD-intersection-observer-20230914
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-intersection-observer-20230911
+      content: W3C WD-intersection-observer-20230914
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-intersection-observer-20230914
+  number: WD-intersection-observer-20230929
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

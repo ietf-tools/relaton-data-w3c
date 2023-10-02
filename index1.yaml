@@ -26474,11 +26474,6 @@
     :date: '20230831'
   :file: data/wd-screen-capture-20230831.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-pointerevents3-20230831.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20230831'
@@ -26574,11 +26569,6 @@
     :date: '20230911'
   :file: data/note-did-spec-registries-20230911.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20230912'
-  :file: data/wd-webgpu-20230912.yaml
-- :id:
     :code: permissions-policy-1
     :stage: WD
     :date: '20230912'
@@ -26673,11 +26663,6 @@
     :type: DNOTE
     :date: '20230926'
   :file: data/dnote-edge-cloud-reqs-20230926.yaml
-- :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20230926'
-  :file: data/wd-compute-pressure-20230926.yaml
 - :id:
     :code: vc-json-schema
     :stage: WD
@@ -26833,6 +26818,26 @@
     :type: DNOTE
     :date: '20230930'
   :file: data/dnote-webcodecs-hevc-codec-registration-20230930.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-compute-pressure-20231002.yaml
+- :id:
+    :code: dx-prof-conneg
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-dx-prof-conneg-20231002.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-webgpu-20231002.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-pointerevents3-20231002.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27008,9 +27013,6 @@
     :code: edge-cloud-reqs
   :file: data/edge-cloud-reqs.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
@@ -27040,3 +27042,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

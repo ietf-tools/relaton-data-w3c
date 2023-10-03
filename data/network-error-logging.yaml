@@ -5,7 +5,7 @@ title:
 - content: Network Error Logging
   format: text/plain
 link:
-- content: http://www.w3.org/TR/network-error-logging/
+- content: https://www.w3.org/TR/network-error-logging/
   type: src
 type: standard
 docid:
@@ -17,8 +17,21 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-network-error-logging-20231003
+    docid:
+    - id: W3C WD-network-error-logging-20231003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-network-error-logging-20231003
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CNOTE-network-error-logging-20160720
     docid:
@@ -40,9 +53,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
   number: network-error-logging
-doctype: groupNote
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

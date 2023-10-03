@@ -26649,11 +26649,6 @@
     :date: '20230922'
   :file: data/wd-rdf12-concepts-20230922.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20230925'
-  :file: data/wd-html-aam-1.0-20230925.yaml
-- :id:
     :code: vc-data-integrity
     :stage: WD
     :date: '20230925'
@@ -26663,11 +26658,6 @@
     :type: DNOTE
     :date: '20230926'
   :file: data/dnote-edge-cloud-reqs-20230926.yaml
-- :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20230926'
-  :file: data/wd-vc-json-schema-20230926.yaml
 - :id:
     :code: WGSL
     :stage: WD
@@ -26704,11 +26694,6 @@
     :date: '20230928'
   :file: data/wd-sparql12-update-20230928.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20230928'
-  :file: data/wd-vc-di-ecdsa-20230928.yaml
-- :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20230928'
@@ -26723,11 +26708,6 @@
     :stage: WD
     :date: '20230929'
   :file: data/wd-sparql12-query-20230929.yaml
-- :id:
-    :code: network-error-logging-1
-    :stage: WD
-    :date: '20230929'
-  :file: data/wd-network-error-logging-1-20230929.yaml
 - :id:
     :code: intersection-observer
     :stage: WD
@@ -26838,6 +26818,31 @@
     :stage: WD
     :date: '20231002'
   :file: data/wd-pointerevents3-20231002.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-vc-di-ecdsa-20231002.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231002'
+  :file: data/wd-vc-json-schema-20231002.yaml
+- :id:
+    :code: epub-a11y-exemption
+    :type: NOTE
+    :date: '20231003'
+  :file: data/note-epub-a11y-exemption-20231003.yaml
+- :id:
+    :code: network-error-logging
+    :stage: WD
+    :date: '20231003'
+  :file: data/wd-network-error-logging-20231003.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20231003'
+  :file: data/wd-html-aam-1.0-20231003.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27013,9 +27018,6 @@
     :code: edge-cloud-reqs
   :file: data/edge-cloud-reqs.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
@@ -27024,9 +27026,6 @@
 - :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
@@ -27045,3 +27044,12 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
+- :id:
+    :code: epub-a11y-exemption
+  :file: data/epub-a11y-exemption.yaml

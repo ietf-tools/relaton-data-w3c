@@ -5444,6 +5444,12 @@
   :type: NOTE
   :date: '20211208'
   :file: data/note-epub-a11y-eaa-mapping-20211208.yaml
+- :code: epub-a11y-exemption
+  :file: data/epub-a11y-exemption.yaml
+- :code: epub-a11y-exemption
+  :type: NOTE
+  :date: '20231003'
+  :file: data/note-epub-a11y-exemption-20231003.yaml
 - :code: epub-a11y-tech-11
   :file: data/epub-a11y-tech-11.yaml
 - :code: epub-a11y-tech-11
@@ -6471,8 +6477,8 @@
   :file: data/html-aam-1.0.yaml
 - :code: html-aam-1.0
   :stage: WD
-  :date: '20230925'
-  :file: data/wd-html-aam-1.0-20230925.yaml
+  :date: '20231003'
+  :file: data/wd-html-aam-1.0-20231003.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20220526'
@@ -9372,14 +9378,14 @@
   :file: data/note-network-error-logging-20160720.yaml
 - :code: network-error-logging
   :stage: WD
+  :date: '20231003'
+  :file: data/wd-network-error-logging-20231003.yaml
+- :code: network-error-logging
+  :stage: WD
   :date: '20151027'
   :file: data/wd-network-error-logging-20151027.yaml
 - :code: network-error-logging-1
   :file: data/network-error-logging-1.yaml
-- :code: network-error-logging-1
-  :stage: WD
-  :date: '20230929'
-  :file: data/wd-network-error-logging-1-20230929.yaml
 - :code: network-error-logging-1
   :stage: WD
   :date: '20180925'
@@ -14933,8 +14939,8 @@
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
   :stage: WD
-  :date: '20230928'
-  :file: data/wd-vc-di-ecdsa-20230928.yaml
+  :date: '20231002'
+  :file: data/wd-vc-di-ecdsa-20231002.yaml
 - :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :code: vc-di-eddsa
@@ -14957,8 +14963,8 @@
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: WD
-  :date: '20230926'
-  :file: data/wd-vc-json-schema-20230926.yaml
+  :date: '20231002'
+  :file: data/wd-vc-json-schema-20231002.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml

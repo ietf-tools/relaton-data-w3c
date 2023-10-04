@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-elreq-gap-20230614
+id: W3CDNOTE-grek-gap-20231004
 title:
-- content: Ethiopic Layout Gap Analysis
+- content: Modern Greek Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-elreq-gap-20230614/
+- content: https://www.w3.org/TR/2023/DNOTE-grek-gap-20231004/
   type: src
-- content: https://w3c.github.io/elreq/gap-analysis/
+- content: https://w3c.github.io/eurlreq/gap-analysis/grek-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-elreq-gap-20230614
+- id: W3C DNOTE-grek-gap-20231004
   type: W3C
   primary: true
-docnumber: DNOTE-elreq-gap-20230614
+docnumber: DNOTE-grek-gap-20231004
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-10-04'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2023-10-04'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-elreq-gap-20210524
+    id: W3CDNOTE-grek-gap-20230614
     docid:
-    - id: W3C WD-elreq-gap-20210524
+    - id: W3C DNOTE-grek-gap-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-elreq-gap-20210524
+      content: W3C DNOTE-grek-gap-20230614
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-elreq-gap-20230614
+  number: DNOTE-grek-gap-20231004
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

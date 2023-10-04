@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-gujr-gap-20230614
+id: W3CDNOTE-alreq-gap-20231004
 title:
-- content: Gujarati Gap Analysis
+- content: Arabic and Persian Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/
+- content: https://www.w3.org/TR/2023/DNOTE-alreq-gap-20231004/
   type: src
-- content: https://w3c.github.io/iip/gap-analysis/gujr-gap
+- content: https://w3c.github.io/alreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-gujr-gap-20230614
+- id: W3C DNOTE-alreq-gap-20231004
   type: W3C
   primary: true
-docnumber: DNOTE-gujr-gap-20230614
+docnumber: DNOTE-alreq-gap-20231004
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2023-10-04'
 contributor:
-- person:
-    name:
-      completename:
-        content: Neha Gupta
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,17 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+- person:
+    name:
+      completename:
+        content: Shervin Afshar
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-04'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-gujr-gap-20220119
+    id: W3CDNOTE-alreq-gap-20230807
     docid:
-    - id: W3C DNOTE-gujr-gap-20220119
+    - id: W3C DNOTE-alreq-gap-20230807
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-gujr-gap-20220119
+      content: W3C DNOTE-alreq-gap-20230807
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-gujr-gap-20230614
+  number: DNOTE-alreq-gap-20231004
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

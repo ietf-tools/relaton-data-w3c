@@ -26249,11 +26249,6 @@
     :date: '20230719'
   :file: data/wd-screen-wake-lock-20230719.yaml
 - :id:
-    :code: WCAG22
-    :stage: PR
-    :date: '20230720'
-  :file: data/pr-wcag22-20230720.yaml
-- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20230720'
@@ -26268,11 +26263,6 @@
     :type: DNOTE
     :date: '20230720'
   :file: data/dnote-string-meta-20230720.yaml
-- :id:
-    :code: clreq-gap
-    :type: DNOTE
-    :date: '20230721'
-  :file: data/dnote-clreq-gap-20230721.yaml
 - :id:
     :code: ambient-light
     :stage: WD
@@ -26493,16 +26483,6 @@
     :stage: WD
     :date: '20230908'
   :file: data/wd-viss2-transport-20230908.yaml
-- :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20230911'
-  :file: data/wd-openscreenprotocol-20230911.yaml
-- :id:
-    :code: rdf-canon
-    :stage: WD
-    :date: '20230911'
-  :file: data/wd-rdf-canon-20230911.yaml
 - :id:
     :code: did-spec-registries
     :type: NOTE
@@ -26759,11 +26739,6 @@
     :date: '20231003'
   :file: data/note-epub-a11y-exemption-20231003.yaml
 - :id:
-    :code: network-error-logging
-    :stage: WD
-    :date: '20231003'
-  :file: data/wd-network-error-logging-20231003.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20231003'
@@ -26853,6 +26828,36 @@
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-arab-ks-gap-20231004.yaml
+- :id:
+    :code: rdf-canon
+    :stage: WD
+    :date: '20231004'
+  :file: data/wd-rdf-canon-20231004.yaml
+- :id:
+    :code: clreq-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-clreq-gap-20231004.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20231004'
+  :file: data/rec-html-aria-20231004.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20231004'
+  :file: data/wd-openscreenprotocol-20231004.yaml
+- :id:
+    :code: network-error-logging
+    :stage: WD
+    :date: '20231005'
+  :file: data/wd-network-error-logging-20231005.yaml
+- :id:
+    :code: WCAG22
+    :stage: REC
+    :date: '20231005'
+  :file: data/rec-wcag22-20231005.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27001,9 +27006,6 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: webvmt
   :file: data/webvmt.yaml
 - :id:
@@ -27063,3 +27065,6 @@
 - :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

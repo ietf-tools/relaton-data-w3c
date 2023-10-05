@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-WCAG22-20230720
+    id: W3CREC-WCAG22-20231005
     docid:
-    - id: W3C PR-WCAG22-20230720
+    - id: W3C REC-WCAG22-20231005
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-WCAG22-20230720
+      content: W3C REC-WCAG22-20231005
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +53,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: WCAG22
 doctype: technicalReport

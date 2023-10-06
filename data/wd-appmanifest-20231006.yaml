@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-query-20230929
+id: W3CWD-appmanifest-20231006
 title:
-- content: SPARQL 1.2 Query Language
+- content: Web Application Manifest
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-query-20230929/
+- content: https://www.w3.org/TR/2023/WD-appmanifest-20231006/
   type: src
-- content: https://w3c.github.io/sparql-query/spec/
+- content: https://w3c.github.io/manifest/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-query-20230929
+- id: W3C WD-appmanifest-20231006
   type: W3C
   primary: true
-docnumber: WD-sparql12-query-20230929
+docnumber: WD-appmanifest-20231006
 date:
 - type: published
-  value: '2023-09-29'
+  value: '2023-10-06'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Aaron Gustafson
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregory Williams
+        content: Anssi Kostiainen
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Daniel Murphy
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Kenneth Christiansen
         language:
         - en
         script:
@@ -62,14 +62,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Thomas Pellissier Tanon
+        content: Marcos Caceres
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-29'
+- person:
+    name:
+      completename:
+        content: Matt Giuca
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-06'
 language:
 - en
 script:
@@ -80,19 +90,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-query-20230928
+    id: W3CWD-appmanifest-20230502
     docid:
-    - id: W3C WD-sparql12-query-20230928
+    - id: W3C WD-appmanifest-20230502
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-query-20230928
+      content: W3C WD-appmanifest-20230502
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-query-20230929
+  number: WD-appmanifest-20231006
 doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

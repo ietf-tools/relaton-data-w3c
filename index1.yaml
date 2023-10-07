@@ -26279,11 +26279,6 @@
     :date: '20230728'
   :file: data/wd-sparql12-results-xml-20230728.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20230801'
-  :file: data/wd-dapt-20230801.yaml
-- :id:
     :code: orientation-sensor
     :stage: WD
     :date: '20230801'
@@ -26564,11 +26559,6 @@
     :date: '20230927'
   :file: data/wd-webauthn-3-20230927.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20230927'
-  :file: data/wd-vc-jose-cose-20230927.yaml
-- :id:
     :code: wot-binding-templates
     :type: NOTE
     :date: '20230928'
@@ -26598,11 +26588,6 @@
     :stage: WD
     :date: '20230929'
   :file: data/wd-rdf12-n-quads-20230929.yaml
-- :id:
-    :code: i18n-glossary
-    :type: DNOTE
-    :date: '20230929'
-  :file: data/dnote-i18n-glossary-20230929.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -26779,11 +26764,6 @@
     :date: '20231004'
   :file: data/dnote-taml-gap-20231004.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231004'
-  :file: data/wd-wgsl-20231004.yaml
-- :id:
     :code: arab-ug-gap
     :type: DNOTE
     :date: '20231004'
@@ -26858,6 +26838,26 @@
     :stage: WD
     :date: '20231006'
   :file: data/wd-vc-di-ecdsa-20231006.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20231006'
+  :file: data/wd-dapt-20231006.yaml
+- :id:
+    :code: i18n-glossary
+    :type: DNOTE
+    :date: '20231006'
+  :file: data/dnote-i18n-glossary-20231006.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231006'
+  :file: data/wd-vc-jose-cose-20231006.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20231006'
+  :file: data/wd-wgsl-20231006.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26976,9 +26976,6 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
@@ -27030,9 +27027,6 @@
     :code: edge-cloud-reqs
   :file: data/edge-cloud-reqs.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
 - :id:
@@ -27068,3 +27062,9 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

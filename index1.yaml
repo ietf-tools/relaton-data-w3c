@@ -25339,11 +25339,6 @@
     :date: '20220628'
   :file: data/wd-requestidlecallback-20220628.yaml
 - :id:
-    :code: push-api
-    :stage: WD
-    :date: '20220630'
-  :file: data/wd-push-api-20220630.yaml
-- :id:
     :code: mini-app-white-paper
     :type: DNOTE
     :date: '20220701'
@@ -25438,11 +25433,6 @@
     :stage: WD
     :date: '20220917'
   :file: data/wd-css-contain-2-20220917.yaml
-- :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20220921'
-  :file: data/wd-media-source-2-20220921.yaml
 - :id:
     :code: trusted-types
     :stage: WD
@@ -25768,11 +25758,6 @@
     :type: NOTE
     :date: '20230314'
   :file: data/note-epub-aria-authoring-11-20230314.yaml
-- :id:
-    :code: image-capture
-    :stage: WD
-    :date: '20230316'
-  :file: data/wd-image-capture-20230316.yaml
 - :id:
     :code: css-cascade-6
     :stage: WD
@@ -26789,11 +26774,6 @@
     :date: '20231005'
   :file: data/rec-wcag22-20231005.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20231005'
-  :file: data/wd-sparql12-query-20231005.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20231005'
@@ -26858,6 +26838,26 @@
     :stage: WD
     :date: '20231009'
   :file: data/wd-html-aam-1.0-20231009.yaml
+- :id:
+    :code: push-api
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-push-api-20231010.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-sparql12-query-20231010.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-media-source-2-20231010.yaml
+- :id:
+    :code: image-capture
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-image-capture-20231010.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27054,9 +27054,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
@@ -27068,3 +27065,6 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-source-2-20220921
+id: W3CWD-push-api-20231010
 title:
-- content: Media Source Extensions™
+- content: Push API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-media-source-2-20220921/
+- content: https://www.w3.org/TR/2023/WD-push-api-20231010/
   type: src
-- content: https://w3c.github.io/media-source/
+- content: https://w3c.github.io/push-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-source-2-20220921
+- id: W3C WD-push-api-20231010
   type: W3C
   primary: true
-docnumber: WD-media-source-2-20220921
+docnumber: WD-push-api-20231010
 date:
 - type: published
-  value: '2022-09-21'
+  value: '2023-10-10'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Watson
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Matthew Wolenetz
+        content: Martin Thomson
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-09-21'
+- person:
+    name:
+      completename:
+        content: Peter Beverloo
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-10'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-source-2-20220726
+    id: W3CWD-push-api-20220630
     docid:
-    - id: W3C WD-media-source-2-20220726
+    - id: W3C WD-push-api-20220630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-source-2-20220726
+      content: W3C WD-push-api-20220630
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-source-2-20220921
+  number: WD-push-api-20231010
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

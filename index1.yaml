@@ -26804,30 +26804,15 @@
     :date: '20231006'
   :file: data/wd-vc-di-ecdsa-20231006.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20231006'
-  :file: data/wd-dapt-20231006.yaml
-- :id:
     :code: i18n-glossary
     :type: DNOTE
     :date: '20231006'
   :file: data/dnote-i18n-glossary-20231006.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231006'
-  :file: data/wd-vc-jose-cose-20231006.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20231006'
   :file: data/wd-wgsl-20231006.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231009'
-  :file: data/wd-webgpu-20231009.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26858,6 +26843,21 @@
     :stage: WD
     :date: '20231010'
   :file: data/wd-image-capture-20231010.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-vc-jose-cose-20231010.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231010'
+  :file: data/wd-webgpu-20231010.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20231011'
+  :file: data/wd-dapt-20231011.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27060,11 +27060,11 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
+    :code: dapt
+  :file: data/dapt.yaml

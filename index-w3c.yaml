@@ -493,8 +493,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20231006'
-  :file: data/wd-appmanifest-20231006.yaml
+  :date: '20231012'
+  :file: data/wd-appmanifest-20231012.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -8704,8 +8704,8 @@
   :file: data/mediasession.yaml
 - :code: mediasession
   :stage: WD
-  :date: '20230918'
-  :file: data/wd-mediasession-20230918.yaml
+  :date: '20231011'
+  :file: data/wd-mediasession-20231011.yaml
 - :code: mediasession
   :stage: WD
   :date: '20210604'
@@ -10161,6 +10161,10 @@
   :stage: CR
   :date: '20120726'
   :file: data/cr-performance-timeline-20120726.yaml
+- :code: performance-timeline
+  :stage: CRD
+  :date: '20231011'
+  :file: data/crd-performance-timeline-20231011.yaml
 - :code: performance-timeline
   :stage: CRD
   :date: '20221115'
@@ -16558,8 +16562,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20231010'
-  :file: data/wd-webgpu-20231010.yaml
+  :date: '20231011'
+  :file: data/wd-webgpu-20231011.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -17141,8 +17145,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20231006'
-  :file: data/wd-wgsl-20231006.yaml
+  :date: '20231011'
+  :file: data/wd-wgsl-20231011.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

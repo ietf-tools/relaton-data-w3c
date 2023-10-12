@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-performance-timeline-20231011
+title:
+- content: Performance Timeline
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-performance-timeline-20231011/
+  type: src
+- content: https://w3c.github.io/performance-timeline/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-performance-timeline-20231011
+  type: W3C
+  primary: true
+docnumber: CRD-performance-timeline-20231011
+date:
+- type: published
+  value: '2023-10-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Nicolas Pena Moreno
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCR-performance-timeline-20211202
+    docid:
+    - id: W3C CR-performance-timeline-20211202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-performance-timeline-20211202
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-performance-timeline-20231011
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

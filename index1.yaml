@@ -26464,11 +26464,6 @@
     :date: '20230915'
   :file: data/wd-uievents-20230915.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20230918'
-  :file: data/wd-mediasession-20230918.yaml
-- :id:
     :code: sdw-bp
     :type: DNOTE
     :date: '20230919'
@@ -26789,11 +26784,6 @@
     :date: '20231005'
   :file: data/wd-gamepad-20231005.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20231006'
-  :file: data/wd-appmanifest-20231006.yaml
-- :id:
     :code: generic-sensor
     :stage: CRD
     :date: '20231006'
@@ -26808,11 +26798,6 @@
     :type: DNOTE
     :date: '20231006'
   :file: data/dnote-i18n-glossary-20231006.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231006'
-  :file: data/wd-wgsl-20231006.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26849,15 +26834,35 @@
     :date: '20231010'
   :file: data/wd-vc-jose-cose-20231010.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231010'
-  :file: data/wd-webgpu-20231010.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20231011'
   :file: data/wd-dapt-20231011.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20231011'
+  :file: data/wd-wgsl-20231011.yaml
+- :id:
+    :code: performance-timeline
+    :stage: CRD
+    :date: '20231011'
+  :file: data/crd-performance-timeline-20231011.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20231011'
+  :file: data/wd-mediasession-20231011.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231011'
+  :file: data/wd-webgpu-20231011.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-appmanifest-20231012.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

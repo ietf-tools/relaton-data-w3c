@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20230922
+id: W3CWD-webrtc-encoded-transform-20231012
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: WebRTC Encoded Transform
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-concepts-20230922/
+- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231012/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/webrtc-encoded-transform/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20230922
+- id: W3C WD-webrtc-encoded-transform-20231012
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20230922
+docnumber: WD-webrtc-encoded-transform-20231012
 date:
 - type: published
-  value: '2023-09-22'
+  value: '2023-10-12'
 contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Guido Urdaneta
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Pierre-Antoine Champin
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-22'
+revdate: '2023-10-12'
 language:
 - en
 script:
@@ -60,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20230916
+    id: W3CWD-webrtc-encoded-transform-20231009
     docid:
-    - id: W3C WD-rdf12-concepts-20230916
+    - id: W3C WD-webrtc-encoded-transform-20231009
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20230916
+      content: W3C WD-webrtc-encoded-transform-20231009
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20230922
+  number: WD-webrtc-encoded-transform-20231012
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

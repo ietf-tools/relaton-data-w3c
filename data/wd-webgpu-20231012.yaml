@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-presentation-api-20230123
+id: W3CWD-webgpu-20231012
 title:
-- content: Presentation API
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-presentation-api-20230123/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20231012/
   type: src
-- content: https://w3c.github.io/presentation-api/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CRD-presentation-api-20230123
+- id: W3C WD-webgpu-20231012
   type: W3C
   primary: true
-docnumber: CRD-presentation-api-20230123
+docnumber: WD-webgpu-20231012
 date:
 - type: published
-  value: '2023-01-23'
+  value: '2023-10-12'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Röttsches
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-23'
+- person:
+    name:
+      completename:
+        content: Myles Maxfield
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-presentation-api-20230119
+    id: W3CWD-webgpu-20231011
     docid:
-    - id: W3C CRD-presentation-api-20230119
+    - id: W3C WD-webgpu-20231011
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20230119
+      content: W3C WD-webgpu-20231011
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-presentation-api-20230123
+  number: WD-webgpu-20231012
 doctype: technicalReport
 editorialgroup:
-- name: Second Screen Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

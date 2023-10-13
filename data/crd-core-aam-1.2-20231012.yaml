@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webrtc-encoded-transform-20231009
+id: W3CCRD-core-aam-1.2-20231012
 title:
-- content: WebRTC Encoded Transform
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231009/
+- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231012/
   type: src
-- content: https://w3c.github.io/webrtc-encoded-transform/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-encoded-transform-20231009
+- id: W3C CRD-core-aam-1.2-20231012
   type: W3C
   primary: true
-docnumber: WD-webrtc-encoded-transform-20231009
+docnumber: CRD-core-aam-1.2-20231012
 date:
 - type: published
-  value: '2023-10-09'
+  value: '2023-10-12'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Michael Cooper
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-09'
+revdate: '2023-10-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-encoded-transform-20231004
+    id: W3CCRD-core-aam-1.2-20230904
     docid:
-    - id: W3C WD-webrtc-encoded-transform-20231004
+    - id: W3C CRD-core-aam-1.2-20230904
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-encoded-transform-20231004
+      content: W3C CRD-core-aam-1.2-20230904
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webrtc-encoded-transform-20231009
+  number: CRD-core-aam-1.2-20231012
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

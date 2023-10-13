@@ -25589,11 +25589,6 @@
     :date: '20230118'
   :file: data/wd-wot-profile-20230118.yaml
 - :id:
-    :code: presentation-api
-    :stage: CRD
-    :date: '20230123'
-  :file: data/crd-presentation-api-20230123.yaml
-- :id:
     :code: payment-handler
     :stage: WD
     :date: '20230125'
@@ -25748,11 +25743,6 @@
     :stage: REC
     :date: '20230307'
   :file: data/rec-xml-entity-names-20230307.yaml
-- :id:
-    :code: contact-picker
-    :stage: WD
-    :date: '20230308'
-  :file: data/wd-contact-picker-20230308.yaml
 - :id:
     :code: epub-aria-authoring-11
     :type: NOTE
@@ -26389,20 +26379,10 @@
     :date: '20230902'
   :file: data/wd-dpub-aria-1.1-20230902.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: WD
-    :date: '20230902'
-  :file: data/wd-vc-di-eddsa-20230902.yaml
-- :id:
     :code: css-text-3
     :stage: CRD
     :date: '20230903'
   :file: data/crd-css-text-3-20230903.yaml
-- :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20230904'
-  :file: data/crd-core-aam-1.2-20230904.yaml
 - :id:
     :code: css-transitions-2
     :stage: WD
@@ -26448,11 +26428,6 @@
     :type: NOTE
     :date: '20230911'
   :file: data/note-did-spec-registries-20230911.yaml
-- :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20230912'
-  :file: data/wd-permissions-policy-1-20230912.yaml
 - :id:
     :code: css-page-3
     :stage: WD
@@ -26514,16 +26489,6 @@
     :date: '20230922'
   :file: data/wd-rdf12-semantics-20230922.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20230922'
-  :file: data/wd-rdf12-concepts-20230922.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20230925'
-  :file: data/wd-vc-data-integrity-20230925.yaml
-- :id:
     :code: edge-cloud-reqs
     :type: DNOTE
     :date: '20230926'
@@ -26554,95 +26519,15 @@
     :date: '20230928'
   :file: data/wd-sparql12-update-20230928.yaml
 - :id:
-    :code: international-specs
-    :type: DNOTE
-    :date: '20230928'
-  :file: data/dnote-international-specs-20230928.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20230929'
-  :file: data/wd-vc-data-model-2.0-20230929.yaml
-- :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20230929'
-  :file: data/wd-rdf12-n-quads-20230929.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20230930'
-  :file: data/wd-webcodecs-20230930.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-avc-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-aac-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-flac-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-opus-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-av1-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20230930.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20230930'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20230930.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20231002'
   :file: data/wd-compute-pressure-20231002.yaml
+- :id:
+    :code: international-specs
+    :type: DNOTE
+    :date: '20230928'
+  :file: data/dnote-international-specs-20230928.yaml
 - :id:
     :code: dx-prof-conneg
     :stage: WD
@@ -26754,11 +26639,6 @@
     :date: '20231004'
   :file: data/rec-html-aria-20231004.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20231004'
-  :file: data/wd-openscreenprotocol-20231004.yaml
-- :id:
     :code: network-error-logging
     :stage: WD
     :date: '20231005'
@@ -26774,11 +26654,6 @@
     :date: '20231005'
   :file: data/crd-webxr-20231005.yaml
 - :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20231005'
-  :file: data/wd-rdf12-turtle-20231005.yaml
-- :id:
     :code: gamepad
     :stage: WD
     :date: '20231005'
@@ -26789,20 +26664,10 @@
     :date: '20231006'
   :file: data/crd-generic-sensor-20231006.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20231006'
-  :file: data/wd-vc-di-ecdsa-20231006.yaml
-- :id:
     :code: i18n-glossary
     :type: DNOTE
     :date: '20231006'
   :file: data/dnote-i18n-glossary-20231006.yaml
-- :id:
-    :code: webrtc-encoded-transform
-    :stage: WD
-    :date: '20231009'
-  :file: data/wd-webrtc-encoded-transform-20231009.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -26813,11 +26678,6 @@
     :stage: WD
     :date: '20231010'
   :file: data/wd-push-api-20231010.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20231010'
-  :file: data/wd-sparql12-query-20231010.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26834,16 +26694,6 @@
     :date: '20231010'
   :file: data/wd-vc-jose-cose-20231010.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20231011'
-  :file: data/wd-dapt-20231011.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231011'
-  :file: data/wd-wgsl-20231011.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20231011'
@@ -26854,15 +26704,165 @@
     :date: '20231011'
   :file: data/wd-mediasession-20231011.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231011'
-  :file: data/wd-webgpu-20231011.yaml
-- :id:
     :code: appmanifest
     :stage: WD
     :date: '20231012'
   :file: data/wd-appmanifest-20231012.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-webcodecs-20231012.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-avc-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-aac-codec-registration-20231012.yaml
+- :id:
+    :code: webrtc-encoded-transform
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-webrtc-encoded-transform-20231012.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-flac-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-opus-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-av1-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20231012.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20231012'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20231012.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-vc-data-model-2.0-20231012.yaml
+- :id:
+    :code: presentation-api
+    :stage: CRD
+    :date: '20231012'
+  :file: data/crd-presentation-api-20231012.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-openscreenprotocol-20231012.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-webgpu-20231012.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20231012'
+  :file: data/crd-core-aam-1.2-20231012.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-wgsl-20231012.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-rdf12-n-quads-20231012.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-rdf12-turtle-20231012.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20231012'
+  :file: data/wd-rdf12-concepts-20231012.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-vc-data-integrity-20231013.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-vc-di-ecdsa-20231013.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-vc-di-eddsa-20231013.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-permissions-policy-1-20231013.yaml
+- :id:
+    :code: contact-picker
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-contact-picker-20231013.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-dapt-20231013.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20231013'
+  :file: data/wd-sparql12-query-20231013.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26913,9 +26913,6 @@
 - :id:
     :code: web-animations-2
   :file: data/web-animations-2.yaml
-- :id:
-    :code: contact-picker
-  :file: data/contact-picker.yaml
 - :id:
     :code: epub-aria-authoring-11
   :file: data/epub-aria-authoring-11.yaml
@@ -26996,9 +26993,6 @@
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: css-transitions-2
   :file: data/css-transitions-2.yaml
 - :id:
@@ -27023,12 +27017,6 @@
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: edge-cloud-reqs
   :file: data/edge-cloud-reqs.yaml
 - :id:
@@ -27037,15 +27025,6 @@
 - :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
@@ -27059,17 +27038,38 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
+- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
+    :code: contact-picker
+  :file: data/contact-picker.yaml
 - :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml

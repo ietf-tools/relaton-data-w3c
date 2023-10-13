@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-openscreenprotocol-20231004
+id: W3CWD-dapt-20231013
 title:
-- content: Open Screen Protocol
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/
+- content: https://www.w3.org/TR/2023/WD-dapt-20231013/
   type: src
-- content: https://w3c.github.io/openscreenprotocol/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-openscreenprotocol-20231004
+- id: W3C WD-dapt-20231013
   type: W3C
   primary: true
-docnumber: WD-openscreenprotocol-20231004
+docnumber: WD-dapt-20231013
 date:
 - type: published
-  value: '2023-10-04'
+  value: '2023-10-13'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Cyril Concolato
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-04'
+- person:
+    name:
+      completename:
+        content: Nigel Megitt
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-13'
 language:
 - en
 script:
@@ -40,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-openscreenprotocol-20230911
+    id: W3CWD-dapt-20231011
     docid:
-    - id: W3C WD-openscreenprotocol-20230911
+    - id: W3C WD-dapt-20231011
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-openscreenprotocol-20230911
+      content: W3C WD-dapt-20231011
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-openscreenprotocol-20231004
+  number: WD-dapt-20231013
 doctype: technicalReport
 editorialgroup:
-- name: Second Screen Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

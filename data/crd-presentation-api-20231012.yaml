@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20230904
+id: W3CCRD-presentation-api-20231012
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Presentation API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/
+- content: https://www.w3.org/TR/2023/CRD-presentation-api-20231012/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/presentation-api/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20230904
+- id: W3C CRD-presentation-api-20231012
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20230904
+docnumber: CRD-presentation-api-20231012
 date:
 - type: published
-  value: '2023-09-04'
+  value: '2023-10-12'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Dominik Röttsches
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Mark Foltz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Valerie Young
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-09-04'
+revdate: '2023-10-12'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20230902
+    id: W3CCRD-presentation-api-20230123
     docid:
-    - id: W3C CRD-core-aam-1.2-20230902
+    - id: W3C CRD-presentation-api-20230123
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20230902
+      content: W3C CRD-presentation-api-20230123
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-core-aam-1.2-20230904
+  number: CRD-presentation-api-20231012
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Second Screen Working Group
 ext:
   schema-version: v1.0.0

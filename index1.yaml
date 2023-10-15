@@ -26529,11 +26529,6 @@
     :date: '20231002'
   :file: data/wd-pointerevents3-20231002.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20231002'
-  :file: data/wd-vc-json-schema-20231002.yaml
-- :id:
     :code: epub-a11y-exemption
     :type: NOTE
     :date: '20231003'
@@ -26653,11 +26648,6 @@
     :stage: CRD
     :date: '20231006'
   :file: data/crd-generic-sensor-20231006.yaml
-- :id:
-    :code: i18n-glossary
-    :type: DNOTE
-    :date: '20231006'
-  :file: data/dnote-i18n-glossary-20231006.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -26864,6 +26854,16 @@
     :date: '20231014'
   :file: data/wd-vc-jose-cose-20231014.yaml
 - :id:
+    :code: i18n-glossary
+    :type: DNOTE
+    :date: '20231014'
+  :file: data/dnote-i18n-glossary-20231014.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231014'
+  :file: data/wd-vc-json-schema-20231014.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27023,9 +27023,6 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
 - :id:
@@ -27073,3 +27070,6 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

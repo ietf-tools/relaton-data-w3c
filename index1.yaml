@@ -26649,11 +26649,6 @@
     :date: '20231006'
   :file: data/crd-generic-sensor-20231006.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20231009'
-  :file: data/wd-html-aam-1.0-20231009.yaml
-- :id:
     :code: push-api
     :stage: WD
     :date: '20231010'
@@ -26809,11 +26804,6 @@
     :date: '20231013'
   :file: data/wd-sparql12-query-20231013.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-vc-data-model-2.0-20231013.yaml
-- :id:
     :code: rdf12-trig
     :stage: WD
     :date: '20231013'
@@ -26863,6 +26853,16 @@
     :stage: WD
     :date: '20231014'
   :file: data/wd-vc-json-schema-20231014.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-vc-data-model-2.0-20231016.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-html-aam-1.0-20231016.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27050,9 +27050,6 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :id:
@@ -27073,3 +27070,6 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-presentation-api-20231012
+id: W3CCRD-presentation-api-20231016
 title:
 - content: Presentation API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-presentation-api-20231012/
+- content: https://www.w3.org/TR/2023/CRD-presentation-api-20231016/
   type: src
 - content: https://w3c.github.io/presentation-api/
   type: current
 type: standard
 docid:
-- id: W3C CRD-presentation-api-20231012
+- id: W3C CRD-presentation-api-20231016
   type: W3C
   primary: true
-docnumber: CRD-presentation-api-20231012
+docnumber: CRD-presentation-api-20231016
 date:
 - type: published
-  value: '2023-10-12'
+  value: '2023-10-16'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-12'
+revdate: '2023-10-16'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-presentation-api-20230123
+    id: W3CCRD-presentation-api-20231012
     docid:
-    - id: W3C CRD-presentation-api-20230123
+    - id: W3C CRD-presentation-api-20231012
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20230123
+      content: W3C CRD-presentation-api-20231012
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-presentation-api-20231012
+  number: CRD-presentation-api-20231016
 doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

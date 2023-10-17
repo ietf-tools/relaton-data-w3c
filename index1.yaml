@@ -25914,11 +25914,6 @@
     :date: '20230519'
   :file: data/note-epub-multi-rend-11-20230519.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20230524'
-  :file: data/wd-vc-di-bbs-20230524.yaml
-- :id:
     :code: epub-33
     :stage: REC
     :date: '20230525'
@@ -26754,11 +26749,6 @@
     :date: '20231012'
   :file: data/dnote-webcodecs-hevc-codec-registration-20231012.yaml
 - :id:
-    :code: presentation-api
-    :stage: CRD
-    :date: '20231012'
-  :file: data/crd-presentation-api-20231012.yaml
-- :id:
     :code: core-aam-1.2
     :stage: CRD
     :date: '20231012'
@@ -26783,11 +26773,6 @@
     :stage: WD
     :date: '20231013'
   :file: data/wd-vc-di-eddsa-20231013.yaml
-- :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-permissions-policy-1-20231013.yaml
 - :id:
     :code: contact-picker
     :stage: WD
@@ -26834,16 +26819,6 @@
     :date: '20231013'
   :file: data/wd-webgpu-20231013.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-openscreenprotocol-20231013.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231014'
-  :file: data/wd-vc-jose-cose-20231014.yaml
-- :id:
     :code: i18n-glossary
     :type: DNOTE
     :date: '20231014'
@@ -26863,6 +26838,31 @@
     :stage: WD
     :date: '20231016'
   :file: data/wd-html-aam-1.0-20231016.yaml
+- :id:
+    :code: presentation-api
+    :stage: CRD
+    :date: '20231016'
+  :file: data/crd-presentation-api-20231016.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-vc-di-bbs-20231016.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-vc-jose-cose-20231016.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-openscreenprotocol-20231016.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20231016'
+  :file: data/wd-permissions-policy-1-20231016.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26925,9 +26925,6 @@
 - :id:
     :code: badging
   :file: data/badging.yaml
-- :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
 - :id:
     :code: css-animations-2
   :file: data/css-animations-2.yaml
@@ -27065,11 +27062,14 @@
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

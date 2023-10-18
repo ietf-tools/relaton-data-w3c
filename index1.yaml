@@ -25604,11 +25604,6 @@
     :date: '20230130'
   :file: data/crd-accelerometer-20230130.yaml
 - :id:
-    :code: gyroscope
-    :stage: CRD
-    :date: '20230130'
-  :file: data/crd-gyroscope-20230130.yaml
-- :id:
     :code: magnetometer
     :stage: WD
     :date: '20230130'
@@ -26759,21 +26754,6 @@
     :date: '20231012'
   :file: data/wd-wgsl-20231012.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-vc-data-integrity-20231013.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-vc-di-ecdsa-20231013.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-vc-di-eddsa-20231013.yaml
-- :id:
     :code: contact-picker
     :stage: WD
     :date: '20231013'
@@ -26861,8 +26841,28 @@
 - :id:
     :code: permissions-policy-1
     :stage: WD
-    :date: '20231016'
-  :file: data/wd-permissions-policy-1-20231016.yaml
+    :date: '20231017'
+  :file: data/wd-permissions-policy-1-20231017.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: WD
+    :date: '20231017'
+  :file: data/wd-vc-data-integrity-20231017.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: WD
+    :date: '20231017'
+  :file: data/wd-vc-di-eddsa-20231017.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: WD
+    :date: '20231017'
+  :file: data/wd-vc-di-ecdsa-20231017.yaml
+- :id:
+    :code: gyroscope
+    :stage: CRD
+    :date: '20231018'
+  :file: data/crd-gyroscope-20231018.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27029,15 +27029,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
@@ -27073,3 +27064,12 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

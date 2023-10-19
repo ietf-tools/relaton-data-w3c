@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-animation-timing-20120221
-    docid:
-    - id: W3C WD-animation-timing-20120221
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-animation-timing-20120221
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-animation-timing-20110602
     docid:
     - id: W3C WD-animation-timing-20110602
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-animation-timing-20110602
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-animation-timing-20120221
+    docid:
+    - id: W3C WD-animation-timing-20120221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-animation-timing-20120221
       format: text/plain
 series:
 - title:

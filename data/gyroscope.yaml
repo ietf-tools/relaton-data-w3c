@@ -53,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-gyroscope-20180320
+    docid:
+    - id: W3C CR-gyroscope-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-gyroscope-20180320
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-gyroscope-20160913
     docid:
     - id: W3C WD-gyroscope-20160913
@@ -70,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-gyroscope-20211207
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-gyroscope-20180320
-    docid:
-    - id: W3C CR-gyroscope-20180320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-gyroscope-20180320
       format: text/plain
 series:
 - title:

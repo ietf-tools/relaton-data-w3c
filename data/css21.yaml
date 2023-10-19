@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-CSS21-20040225
+    id: W3CCR-CSS21-20070719
     docid:
-    - id: W3C CR-CSS21-20040225
+    - id: W3C CR-CSS21-20070719
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-CSS21-20040225
+      content: W3C CR-CSS21-20070719
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CSS21-20050613
-    docid:
-    - id: W3C WD-CSS21-20050613
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSS21-20050613
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-CSS21-20061106
     docid:
     - id: W3C WD-CSS21-20061106
@@ -70,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-CSS21-20061106
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-CSS21-20040225
+    docid:
+    - id: W3C CR-CSS21-20040225
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-CSS21-20040225
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSS21-20050613
+    docid:
+    - id: W3C WD-CSS21-20050613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSS21-20050613
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,16 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-CSS21-20030915
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-CSS21-20070719
-    docid:
-    - id: W3C CR-CSS21-20070719
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-CSS21-20070719
       format: text/plain
 series:
 - title:

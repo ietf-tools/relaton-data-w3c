@@ -63,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-presentation-api-20220422
-    docid:
-    - id: W3C CRD-presentation-api-20220422
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-presentation-api-20220422
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-presentation-api-20151013
     docid:
     - id: W3C WD-presentation-api-20151013
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-presentation-api-20151013
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-presentation-api-20220422
+    docid:
+    - id: W3C CRD-presentation-api-20220422
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-presentation-api-20220422
       format: text/plain
 series:
 - title:

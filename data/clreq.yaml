@@ -50,6 +50,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-clreq-20181220
+    docid:
+    - id: W3C WD-clreq-20181220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-clreq-20181220
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-clreq-20150730
     docid:
     - id: W3C WD-clreq-20150730
@@ -87,16 +97,6 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-clreq-20220501
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-clreq-20181220
-    docid:
-    - id: W3C WD-clreq-20181220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-clreq-20181220
       format: text/plain
 series:
 - title:

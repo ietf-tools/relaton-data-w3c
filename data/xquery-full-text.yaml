@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: instance
+  bibitem:
+    id: W3CWD-xquery-full-text-20060501
+    docid:
+    - id: W3C WD-xquery-full-text-20060501
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xquery-full-text-20060501
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-xquery-full-text-20040709
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xquery-full-text-20051103
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CWD-xquery-full-text-20060501
-    docid:
-    - id: W3C WD-xquery-full-text-20060501
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xquery-full-text-20060501
       format: text/plain
 series:
 - title:

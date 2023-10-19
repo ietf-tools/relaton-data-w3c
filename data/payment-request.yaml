@@ -53,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-payment-request-20180830
+    docid:
+    - id: W3C CR-payment-request-20180830
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20180830
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-payment-request-20161214
     docid:
     - id: W3C WD-payment-request-20161214
@@ -80,16 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-payment-request-20210930
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-payment-request-20180830
-    docid:
-    - id: W3C CR-payment-request-20180830
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-payment-request-20180830
       format: text/plain
 series:
 - title:

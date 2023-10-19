@@ -1,0 +1,39 @@
+---
+schema-version: v1.2.3
+id: W3Crch-explainer
+title:
+- content: RDF Dataset Canonicalization and Hash Working Group — Explainer and Use
+    Cases
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/rch-explainer/
+  type: src
+type: standard
+docid:
+- id: W3C rch-explainer
+  type: W3C
+  primary: true
+docnumber: rch-explainer
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-rch-explainer-20231019
+    docid:
+    - id: W3C NOTE-rch-explainer-20231019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rch-explainer-20231019
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: rch-explainer
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

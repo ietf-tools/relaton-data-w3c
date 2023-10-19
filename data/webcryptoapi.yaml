@@ -43,6 +43,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-WebCryptoAPI-20130625
+    docid:
+    - id: W3C WD-WebCryptoAPI-20130625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WebCryptoAPI-20130625
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPR-WebCryptoAPI-20161215
     docid:
     - id: W3C PR-WebCryptoAPI-20161215
@@ -60,16 +70,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-WebCryptoAPI-20120913
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-WebCryptoAPI-20130625
-    docid:
-    - id: W3C WD-WebCryptoAPI-20130625
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WebCryptoAPI-20130625
       format: text/plain
 series:
 - title:

@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-mixed-content-20211004
-    docid:
-    - id: W3C CRD-mixed-content-20211004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-mixed-content-20211004
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-mixed-content-20151008
     docid:
     - id: W3C CR-mixed-content-20151008
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-mixed-content-20151008
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-mixed-content-20211004
+    docid:
+    - id: W3C CRD-mixed-content-20211004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-mixed-content-20211004
       format: text/plain
 series:
 - title:

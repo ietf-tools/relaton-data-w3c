@@ -50,16 +50,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-turingtest-20031105
-    docid:
-    - id: W3C WD-turingtest-20031105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-turingtest-20031105
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-turingtest-20180703
     docid:
     - id: W3C WD-turingtest-20180703
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-turingtest-20180703
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-turingtest-20031105
+    docid:
+    - id: W3C WD-turingtest-20031105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-turingtest-20031105
       format: text/plain
 series:
 - title:

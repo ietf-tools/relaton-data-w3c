@@ -25759,11 +25759,6 @@
     :date: '20230324'
   :file: data/rec-html-aria-20230324.yaml
 - :id:
-    :code: css-text-4
-    :stage: WD
-    :date: '20230329'
-  :file: data/wd-css-text-4-20230329.yaml
-- :id:
     :code: css-overflow-3
     :stage: WD
     :date: '20230329'
@@ -26219,11 +26214,6 @@
     :date: '20230720'
   :file: data/dnote-string-meta-20230720.yaml
 - :id:
-    :code: ambient-light
-    :stage: WD
-    :date: '20230721'
-  :file: data/wd-ambient-light-20230721.yaml
-- :id:
     :code: wcag-3.0
     :stage: WD
     :date: '20230724'
@@ -26308,11 +26298,6 @@
     :type: DNOTE
     :date: '20230822'
   :file: data/dnote-latn-ca-gap-20230822.yaml
-- :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20230823'
-  :file: data/dnote-webrtc-nv-use-cases-20230823.yaml
 - :id:
     :code: maturity-model
     :type: DNOTE
@@ -26493,16 +26478,6 @@
     :stage: WD
     :date: '20230928'
   :file: data/wd-sparql12-update-20230928.yaml
-- :id:
-    :code: international-specs
-    :type: DNOTE
-    :date: '20230928'
-  :file: data/dnote-international-specs-20230928.yaml
-- :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20231002'
-  :file: data/wd-compute-pressure-20231002.yaml
 - :id:
     :code: dx-prof-conneg
     :stage: WD
@@ -26759,11 +26734,6 @@
     :date: '20231013'
   :file: data/wd-rdf12-trig-20231013.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-rdf12-n-quads-20231013.yaml
-- :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20231013'
@@ -26773,11 +26743,6 @@
     :stage: WD
     :date: '20231013'
   :file: data/wd-rdf12-concepts-20231013.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-rdf12-n-triples-20231013.yaml
 - :id:
     :code: i18n-glossary
     :type: DNOTE
@@ -26839,11 +26804,6 @@
     :date: '20231017'
   :file: data/wd-vc-di-ecdsa-20231017.yaml
 - :id:
-    :code: gyroscope
-    :stage: CRD
-    :date: '20231018'
-  :file: data/crd-gyroscope-20231018.yaml
-- :id:
     :code: secure-payment-confirmation
     :stage: CRD
     :date: '20231018'
@@ -26854,11 +26814,6 @@
     :date: '20231018'
   :file: data/wd-intersection-observer-20231018.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231018'
-  :file: data/wd-webgpu-20231018.yaml
-- :id:
     :code: rch-explainer
     :type: NOTE
     :date: '20231019'
@@ -26868,6 +26823,51 @@
     :stage: WD
     :date: '20231019'
   :file: data/wd-dapt-20231019.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20231019'
+  :file: data/wd-compute-pressure-20231019.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231019'
+  :file: data/wd-webgpu-20231019.yaml
+- :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20231019'
+  :file: data/dnote-webrtc-nv-use-cases-20231019.yaml
+- :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20231019'
+  :file: data/wd-rdf12-n-triples-20231019.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20231019'
+  :file: data/wd-rdf12-n-quads-20231019.yaml
+- :id:
+    :code: css-text-4
+    :stage: WD
+    :date: '20231020'
+  :file: data/wd-css-text-4-20231020.yaml
+- :id:
+    :code: international-specs
+    :type: DNOTE
+    :date: '20231019'
+  :file: data/dnote-international-specs-20231019.yaml
+- :id:
+    :code: gyroscope
+    :stage: CRD
+    :date: '20231020'
+  :file: data/crd-gyroscope-20231020.yaml
+- :id:
+    :code: ambient-light
+    :stage: WD
+    :date: '20231020'
+  :file: data/wd-ambient-light-20231020.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27022,9 +27022,6 @@
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
 - :id:
@@ -27043,17 +27040,11 @@
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
@@ -27081,3 +27072,12 @@
 - :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml

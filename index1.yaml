@@ -26744,11 +26744,6 @@
     :date: '20231014'
   :file: data/wd-vc-json-schema-20231014.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231016'
-  :file: data/wd-vc-data-model-2.0-20231016.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20231016'
@@ -26819,15 +26814,15 @@
     :date: '20231019'
   :file: data/wd-rdf12-n-quads-20231019.yaml
 - :id:
-    :code: css-text-4
-    :stage: WD
-    :date: '20231020'
-  :file: data/wd-css-text-4-20231020.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231019'
   :file: data/dnote-international-specs-20231019.yaml
+- :id:
+    :code: css-text-4
+    :stage: WD
+    :date: '20231020'
+  :file: data/wd-css-text-4-20231020.yaml
 - :id:
     :code: gyroscope
     :stage: CRD
@@ -26868,6 +26863,11 @@
     :stage: WD
     :date: '20231021'
   :file: data/wd-vc-di-eddsa-20231021.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231021'
+  :file: data/wd-vc-data-model-2.0-20231021.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27046,9 +27046,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -27081,3 +27078,6 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

@@ -25949,11 +25949,6 @@
     :date: '20230530'
   :file: data/cr-uievents-code-20230530.yaml
 - :id:
-    :code: miniapp-packaging
-    :stage: WD
-    :date: '20230530'
-  :file: data/wd-miniapp-packaging-20230530.yaml
-- :id:
     :code: miniapp-manifest
     :stage: WD
     :date: '20230530'
@@ -26029,15 +26024,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
     :code: geor-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-geor-gap-20230614.yaml
+- :id:
+    :code: latn-hu-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26739,11 +26734,6 @@
     :date: '20231014'
   :file: data/dnote-i18n-glossary-20231014.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20231014'
-  :file: data/wd-vc-json-schema-20231014.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20231016'
@@ -26868,6 +26858,16 @@
     :stage: WD
     :date: '20231021'
   :file: data/wd-vc-data-model-2.0-20231021.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231022'
+  :file: data/wd-vc-json-schema-20231022.yaml
+- :id:
+    :code: miniapp-packaging
+    :stage: WD
+    :date: '20231023'
+  :file: data/wd-miniapp-packaging-20231023.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27043,9 +27043,6 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -27081,3 +27078,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

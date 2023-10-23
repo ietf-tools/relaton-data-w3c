@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-miniapp-packaging-20230530
+id: W3CWD-miniapp-packaging-20231023
 title:
 - content: MiniApp Packaging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-miniapp-packaging-20230530/
+- content: https://www.w3.org/TR/2023/WD-miniapp-packaging-20231023/
   type: src
 - content: https://w3c.github.io/miniapp-packaging/
   type: current
 type: standard
 docid:
-- id: W3C WD-miniapp-packaging-20230530
+- id: W3C WD-miniapp-packaging-20231023
   type: W3C
   primary: true
-docnumber: WD-miniapp-packaging-20230530
+docnumber: WD-miniapp-packaging-20231023
 date:
 - type: published
-  value: '2023-05-30'
+  value: '2023-10-23'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-30'
+revdate: '2023-10-23'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-miniapp-packaging-20230220
+    id: W3CWD-miniapp-packaging-20230530
     docid:
-    - id: W3C WD-miniapp-packaging-20230220
+    - id: W3C WD-miniapp-packaging-20230530
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-packaging-20230220
+      content: W3C WD-miniapp-packaging-20230530
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-miniapp-packaging-20230530
+  number: WD-miniapp-packaging-20231023
 doctype: technicalReport
 editorialgroup:
 - name: MiniApps Working Group

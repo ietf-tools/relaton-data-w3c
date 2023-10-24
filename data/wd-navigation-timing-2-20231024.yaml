@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-magnetometer-20230130
+id: W3CWD-navigation-timing-2-20231024
 title:
-- content: Magnetometer
+- content: Navigation Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-magnetometer-20230130/
+- content: https://www.w3.org/TR/2023/WD-navigation-timing-2-20231024/
   type: src
-- content: https://w3c.github.io/magnetometer/
+- content: https://w3c.github.io/navigation-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-magnetometer-20230130
+- id: W3C WD-navigation-timing-2-20231024
   type: W3C
   primary: true
-docnumber: WD-magnetometer-20230130
+docnumber: WD-navigation-timing-2-20231024
 date:
 - type: published
-  value: '2023-01-30'
+  value: '2023-10-24'
 contributor:
 - person:
     name:
       completename:
-        content: Anssi Kostiainen
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Rijubrata Bhaumik
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-01-30'
+revdate: '2023-10-24'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-magnetometer-20211207
+    id: W3CWD-navigation-timing-2-20230607
     docid:
-    - id: W3C WD-magnetometer-20211207
+    - id: W3C WD-navigation-timing-2-20230607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-magnetometer-20211207
+      content: W3C WD-navigation-timing-2-20230607
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-magnetometer-20230130
+  number: WD-navigation-timing-2-20231024
 doctype: technicalReport
-editorialgroup:
-- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

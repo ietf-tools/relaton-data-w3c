@@ -25494,11 +25494,6 @@
     :date: '20221103'
   :file: data/wd-css-box-4-20221103.yaml
 - :id:
-    :code: ctaur
-    :type: DNOTE
-    :date: '20221108'
-  :file: data/dnote-ctaur-20221108.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20221110'
@@ -25603,11 +25598,6 @@
     :stage: CRD
     :date: '20230130'
   :file: data/crd-accelerometer-20230130.yaml
-- :id:
-    :code: magnetometer
-    :stage: WD
-    :date: '20230130'
-  :file: data/wd-magnetometer-20230130.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -25979,11 +25969,6 @@
     :date: '20230606'
   :file: data/wd-scroll-animations-1-20230606.yaml
 - :id:
-    :code: navigation-timing-2
-    :stage: WD
-    :date: '20230607'
-  :file: data/wd-navigation-timing-2-20230607.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230612'
@@ -26024,15 +26009,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-geor-gap-20230614.yaml
-- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-hu-gap-20230614.yaml
+- :id:
+    :code: geor-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-geor-gap-20230614.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26179,11 +26164,6 @@
     :date: '20230712'
   :file: data/wd-webtransport-20230712.yaml
 - :id:
-    :code: longtasks-1
-    :stage: WD
-    :date: '20230719'
-  :file: data/wd-longtasks-1-20230719.yaml
-- :id:
     :code: hr-time-3
     :stage: WD
     :date: '20230719'
@@ -26228,11 +26208,6 @@
     :stage: WD
     :date: '20230728'
   :file: data/wd-sparql12-results-xml-20230728.yaml
-- :id:
-    :code: orientation-sensor
-    :stage: WD
-    :date: '20230801'
-  :file: data/wd-orientation-sensor-20230801.yaml
 - :id:
     :code: webrtc-stats
     :stage: CRD
@@ -26604,11 +26579,6 @@
     :date: '20231010'
   :file: data/wd-push-api-20231010.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20231010'
-  :file: data/wd-media-source-2-20231010.yaml
-- :id:
     :code: image-capture
     :stage: WD
     :date: '20231010'
@@ -26749,11 +26719,6 @@
     :date: '20231016'
   :file: data/wd-vc-di-bbs-20231016.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231016'
-  :file: data/wd-vc-jose-cose-20231016.yaml
-- :id:
     :code: openscreenprotocol
     :stage: WD
     :date: '20231016'
@@ -26829,11 +26794,6 @@
     :date: '20231020'
   :file: data/wd-wgsl-20231020.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231020'
-  :file: data/wd-webgpu-20231020.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20231020'
@@ -26869,6 +26829,46 @@
     :date: '20231023'
   :file: data/wd-miniapp-packaging-20231023.yaml
 - :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20231023'
+  :file: data/wd-media-source-2-20231023.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231023'
+  :file: data/wd-webgpu-20231023.yaml
+- :id:
+    :code: navigation-timing-2
+    :stage: WD
+    :date: '20231024'
+  :file: data/wd-navigation-timing-2-20231024.yaml
+- :id:
+    :code: ctaur
+    :type: DNOTE
+    :date: '20231024'
+  :file: data/dnote-ctaur-20231024.yaml
+- :id:
+    :code: orientation-sensor
+    :stage: WD
+    :date: '20231024'
+  :file: data/wd-orientation-sensor-20231024.yaml
+- :id:
+    :code: longtasks-1
+    :stage: WD
+    :date: '20231024'
+  :file: data/wd-longtasks-1-20231024.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231024'
+  :file: data/wd-vc-jose-cose-20231024.yaml
+- :id:
+    :code: magnetometer
+    :stage: WD
+    :date: '20231024'
+  :file: data/wd-magnetometer-20231024.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -26892,9 +26892,6 @@
 - :id:
     :code: change-password-url
   :file: data/change-password-url.yaml
-- :id:
-    :code: ctaur
-  :file: data/ctaur.yaml
 - :id:
     :code: css
     :date: '2022'
@@ -27046,9 +27043,6 @@
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: rch-explainer
   :file: data/rch-explainer.yaml
 - :id:
@@ -27081,3 +27075,9 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: ctaur
+  :file: data/ctaur.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

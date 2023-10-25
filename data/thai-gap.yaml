@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-thai-gap-20200616
-    docid:
-    - id: W3C WD-thai-gap-20200616
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-thai-gap-20200616
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-thai-gap-20210525
     docid:
     - id: W3C WD-thai-gap-20210525
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-thai-gap-20220119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-thai-gap-20200616
+    docid:
+    - id: W3C WD-thai-gap-20200616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-thai-gap-20200616
       format: text/plain
 series:
 - title:

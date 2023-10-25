@@ -60,16 +60,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-polyglot-20110525
-    docid:
-    - id: W3C WD-html-polyglot-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-polyglot-20110525
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-polyglot-20121025
     docid:
     - id: W3C WD-html-polyglot-20121025
@@ -77,6 +67,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-html-polyglot-20121025
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-polyglot-20110525
+    docid:
+    - id: W3C WD-html-polyglot-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-polyglot-20110525
       format: text/plain
 series:
 - title:

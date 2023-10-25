@@ -44,21 +44,10 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedEditedRecommendation
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CREC-xhtml1-20000126
-    docid:
-    - id: W3C REC-xhtml1-20000126
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-xhtml1-20000126
-      format: text/plain
+    value: workingDraft
 series:
 - title:
-    content: W3C PER
+    content: W3C WD
     format: text/plain
   number: WD-xhtml1-20011004
 doctype: technicalReport

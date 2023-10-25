@@ -43,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-xpath-datamodel-20061121
+    id: W3CPER-xpath-datamodel-20090421
     docid:
-    - id: W3C PR-xpath-datamodel-20061121
+    - id: W3C PER-xpath-datamodel-20090421
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-xpath-datamodel-20061121
+      content: W3C PER-xpath-datamodel-20090421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CPR-xpath-datamodel-20061121
+    docid:
+    - id: W3C PR-xpath-datamodel-20061121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xpath-datamodel-20061121
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-xpath-datamodel-20051103
     docid:
     - id: W3C CR-xpath-datamodel-20051103
@@ -70,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-xpath-datamodel-20051103
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPER-xpath-datamodel-20090421
-    docid:
-    - id: W3C PER-xpath-datamodel-20090421
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-xpath-datamodel-20090421
       format: text/plain
 - type: hasEdition
   bibitem:

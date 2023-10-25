@@ -33,13 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-mediaqueries-20081015
+    id: W3CCR-css3-mediaqueries-20090423
     docid:
-    - id: W3C WD-css3-mediaqueries-20081015
+    - id: W3C CR-css3-mediaqueries-20090423
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-mediaqueries-20081015
+      content: W3C CR-css3-mediaqueries-20090423
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-mediaqueries-20020708
+    docid:
+    - id: W3C CR-css3-mediaqueries-20020708
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-mediaqueries-20020708
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,23 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css3-mediaqueries-20020708
+    id: W3CWD-css3-mediaqueries-20081015
     docid:
-    - id: W3C CR-css3-mediaqueries-20020708
+    - id: W3C WD-css3-mediaqueries-20081015
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-css3-mediaqueries-20020708
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-mediaqueries-20090423
-    docid:
-    - id: W3C CR-css3-mediaqueries-20090423
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-mediaqueries-20090423
+      content: W3C WD-css3-mediaqueries-20081015
       format: text/plain
 series:
 - title:

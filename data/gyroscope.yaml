@@ -23,33 +23,23 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-gyroscope-20231020
+    id: W3CCRD-gyroscope-20231025
     docid:
-    - id: W3C CRD-gyroscope-20231020
+    - id: W3C CRD-gyroscope-20231025
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-gyroscope-20231020
+      content: W3C CRD-gyroscope-20231025
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-gyroscope-20191212
+    id: W3CCRD-gyroscope-20211207
     docid:
-    - id: W3C CR-gyroscope-20191212
+    - id: W3C CRD-gyroscope-20211207
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-gyroscope-20191212
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-gyroscope-20171018
-    docid:
-    - id: W3C WD-gyroscope-20171018
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-gyroscope-20171018
+      content: W3C CRD-gyroscope-20211207
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-gyroscope-20191212
+    docid:
+    - id: W3C CR-gyroscope-20191212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-gyroscope-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-gyroscope-20160913
     docid:
     - id: W3C WD-gyroscope-20160913
@@ -73,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-gyroscope-20211207
+    id: W3CWD-gyroscope-20171018
     docid:
-    - id: W3C CRD-gyroscope-20211207
+    - id: W3C WD-gyroscope-20171018
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-gyroscope-20211207
+      content: W3C WD-gyroscope-20171018
       format: text/plain
 series:
 - title:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-magnetometer-20231024
+id: W3CWD-orientation-sensor-20231025
 title:
-- content: Magnetometer
+- content: Orientation Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-magnetometer-20231024/
+- content: https://www.w3.org/TR/2023/WD-orientation-sensor-20231025/
   type: src
-- content: https://w3c.github.io/magnetometer/
+- content: https://w3c.github.io/orientation-sensor/
   type: current
 type: standard
 docid:
-- id: W3C WD-magnetometer-20231024
+- id: W3C WD-orientation-sensor-20231025
   type: W3C
   primary: true
-docnumber: WD-magnetometer-20231024
+docnumber: WD-orientation-sensor-20231025
 date:
 - type: published
-  value: '2023-10-24'
+  value: '2023-10-25'
 contributor:
 - person:
     name:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Rijubrata Bhaumik
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-24'
+revdate: '2023-10-25'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-magnetometer-20230130
+    id: W3CWD-orientation-sensor-20231024
     docid:
-    - id: W3C WD-magnetometer-20230130
+    - id: W3C WD-orientation-sensor-20231024
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-magnetometer-20230130
+      content: W3C WD-orientation-sensor-20231024
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-magnetometer-20231024
+  number: WD-orientation-sensor-20231025
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

@@ -19,8 +19,18 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WebIDL-20081219
+    docid:
+    - id: W3C WD-WebIDL-20081219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WebIDL-20081219
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-WebIDL-20120419
@@ -30,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-WebIDL-20120419
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-WebIDL-20080829
-    docid:
-    - id: W3C WD-WebIDL-20080829
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WebIDL-20080829
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,17 +63,17 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-WebIDL-20081219
+    id: W3CWD-WebIDL-20080829
     docid:
-    - id: W3C WD-WebIDL-20081219
+    - id: W3C WD-WebIDL-20080829
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WebIDL-20081219
+      content: W3C WD-WebIDL-20080829
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: WebIDL
 doctype: technicalReport

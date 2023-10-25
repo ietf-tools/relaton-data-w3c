@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-text-decor-4-20180313
-    docid:
-    - id: W3C WD-css-text-decor-4-20180313
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-text-decor-4-20180313
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-text-decor-4-20200506
     docid:
     - id: W3C WD-css-text-decor-4-20200506
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-text-decor-4-20200506
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-text-decor-4-20180313
+    docid:
+    - id: W3C WD-css-text-decor-4-20180313
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-text-decor-4-20180313
       format: text/plain
 series:
 - title:

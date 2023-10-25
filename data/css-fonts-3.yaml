@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CREC-CSS2-19980512-fonts
-    docid:
-    - id: W3C REC-CSS2-19980512/fonts
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-CSS2-19980512/fonts
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-fonts-3-20131003
     docid:
     - id: W3C CR-css-fonts-3-20131003
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-fonts-3-20131003
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-CSS2-19980512-fonts
+    docid:
+    - id: W3C REC-CSS2-19980512/fonts
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-19980512/fonts
       format: text/plain
 series:
 - title:

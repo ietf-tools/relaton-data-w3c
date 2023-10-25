@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-gyroscope-20231020
+id: W3CCRD-gyroscope-20231025
 title:
 - content: Gyroscope
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-gyroscope-20231020/
+- content: https://www.w3.org/TR/2023/CRD-gyroscope-20231025/
   type: src
 - content: https://w3c.github.io/gyroscope/
   type: current
 type: standard
 docid:
-- id: W3C CRD-gyroscope-20231020
+- id: W3C CRD-gyroscope-20231025
   type: W3C
   primary: true
-docnumber: CRD-gyroscope-20231020
+docnumber: CRD-gyroscope-20231025
 date:
 - type: published
-  value: '2023-10-20'
+  value: '2023-10-25'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-20'
+revdate: '2023-10-25'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-gyroscope-20231018
+    id: W3CCRD-gyroscope-20231020
     docid:
-    - id: W3C CRD-gyroscope-20231018
+    - id: W3C CRD-gyroscope-20231020
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-gyroscope-20231018
+      content: W3C CRD-gyroscope-20231020
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-gyroscope-20231020
+  number: CRD-gyroscope-20231025
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

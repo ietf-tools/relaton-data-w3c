@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-css3-color-20101028
-    docid:
-    - id: W3C PR-css3-color-20101028
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-css3-color-20101028
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css3-color-20030514
     docid:
     - id: W3C CR-css3-color-20030514
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css3-color-20030514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-css3-color-20101028
+    docid:
+    - id: W3C PR-css3-color-20101028
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-css3-color-20101028
       format: text/plain
 - type: hasEdition
   bibitem:

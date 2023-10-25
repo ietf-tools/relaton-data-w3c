@@ -33,23 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-capture-20191119
+    id: W3CWD-screen-capture-20211202
     docid:
-    - id: W3C WD-screen-capture-20191119
+    - id: W3C WD-screen-capture-20211202
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20191119
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-screen-capture-20160714
-    docid:
-    - id: W3C WD-screen-capture-20160714
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-capture-20160714
+      content: W3C WD-screen-capture-20211202
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-capture-20211202
+    id: W3CWD-screen-capture-20160714
     docid:
-    - id: W3C WD-screen-capture-20211202
+    - id: W3C WD-screen-capture-20160714
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20211202
+      content: W3C WD-screen-capture-20160714
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-screen-capture-20220519
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-screen-capture-20191119
+    docid:
+    - id: W3C WD-screen-capture-20191119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-capture-20191119
       format: text/plain
 series:
 - title:

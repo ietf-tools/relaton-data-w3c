@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-magnetometer-20231025
+id: W3CWD-media-source-2-20231025
 title:
-- content: Magnetometer
+- content: Media Source Extensions™
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-magnetometer-20231025/
+- content: https://www.w3.org/TR/2023/WD-media-source-2-20231025/
   type: src
-- content: https://w3c.github.io/magnetometer/
+- content: https://w3c.github.io/media-source/
   type: current
 type: standard
 docid:
-- id: W3C WD-magnetometer-20231025
+- id: W3C WD-media-source-2-20231025
   type: W3C
   primary: true
-docnumber: WD-magnetometer-20231025
+docnumber: WD-media-source-2-20231025
 date:
 - type: published
   value: '2023-10-25'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Anssi Kostiainen
+        content: Jean-Yves Avenard
         language:
         - en
         script:
@@ -32,7 +32,17 @@ contributor:
 - person:
     name:
       completename:
-        content: Rijubrata Bhaumik
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Matthew Wolenetz
         language:
         - en
         script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-magnetometer-20231024
+    id: W3CWD-media-source-2-20231023
     docid:
-    - id: W3C WD-magnetometer-20231024
+    - id: W3C WD-media-source-2-20231023
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-magnetometer-20231024
+      content: W3C WD-media-source-2-20231023
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-magnetometer-20231025
+  number: WD-media-source-2-20231025
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

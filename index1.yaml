@@ -25589,11 +25589,6 @@
     :date: '20230125'
   :file: data/wd-payment-handler-20230125.yaml
 - :id:
-    :code: proximity
-    :stage: WD
-    :date: '20230130'
-  :file: data/wd-proximity-20230130.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230202'
@@ -26189,11 +26184,6 @@
     :date: '20230724'
   :file: data/wd-wcag-3.0-20230724.yaml
 - :id:
-    :code: w3c-vision
-    :type: DNOTE
-    :date: '20230725'
-  :file: data/dnote-w3c-vision-20230725.yaml
-- :id:
     :code: sparql12-results-json
     :stage: WD
     :date: '20230728'
@@ -26273,11 +26263,6 @@
     :stage: REC
     :date: '20230827'
   :file: data/rec-html-aria-20230827.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20230830'
-  :file: data/crd-webnn-20230830.yaml
 - :id:
     :code: guru-gap
     :type: DNOTE
@@ -26559,11 +26544,6 @@
     :date: '20231005'
   :file: data/wd-gamepad-20231005.yaml
 - :id:
-    :code: generic-sensor
-    :stage: CRD
-    :date: '20231006'
-  :file: data/crd-generic-sensor-20231006.yaml
-- :id:
     :code: push-api
     :stage: WD
     :date: '20231010'
@@ -26809,11 +26789,6 @@
     :date: '20231023'
   :file: data/wd-miniapp-packaging-20231023.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20231023'
-  :file: data/wd-media-source-2-20231023.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20231023'
@@ -26839,11 +26814,6 @@
     :date: '20231024'
   :file: data/wd-vc-jose-cose-20231024.yaml
 - :id:
-    :code: magnetometer
-    :stage: WD
-    :date: '20231025'
-  :file: data/wd-magnetometer-20231025.yaml
-- :id:
     :code: gyroscope
     :stage: CRD
     :date: '20231025'
@@ -26868,6 +26838,41 @@
     :stage: WD
     :date: '20231025'
   :file: data/wd-pointerevents3-20231025.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20231025'
+  :file: data/wd-media-source-2-20231025.yaml
+- :id:
+    :code: w3c-vision
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-w3c-vision-20231026.yaml
+- :id:
+    :code: proximity
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-proximity-20231026.yaml
+- :id:
+    :code: magnetometer
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-magnetometer-20231026.yaml
+- :id:
+    :code: geolocation-sensor
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-geolocation-sensor-20231026.yaml
+- :id:
+    :code: generic-sensor
+    :stage: CRD
+    :date: '20231026'
+  :file: data/crd-generic-sensor-20231026.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20231026'
+  :file: data/crd-webnn-20231026.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -26967,9 +26972,6 @@
 - :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
-- :id:
-    :code: w3c-vision
-  :file: data/w3c-vision.yaml
 - :id:
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
@@ -27081,3 +27083,6 @@
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
+- :id:
+    :code: w3c-vision
+  :file: data/w3c-vision.yaml

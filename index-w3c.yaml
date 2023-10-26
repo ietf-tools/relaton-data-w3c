@@ -6030,8 +6030,8 @@
   :file: data/cr-generic-sensor-20180320.yaml
 - :code: generic-sensor
   :stage: CRD
-  :date: '20231006'
-  :file: data/crd-generic-sensor-20231006.yaml
+  :date: '20231026'
+  :file: data/crd-generic-sensor-20231026.yaml
 - :code: generic-sensor
   :stage: CRD
   :date: '20220502'
@@ -6118,6 +6118,10 @@
   :file: data/wd-geolocation-api-v2-20111201.yaml
 - :code: geolocation-sensor
   :file: data/geolocation-sensor.yaml
+- :code: geolocation-sensor
+  :stage: WD
+  :date: '20231026'
+  :file: data/wd-geolocation-sensor-20231026.yaml
 - :code: geolocation-sensor
   :stage: WD
   :date: '20220316'
@@ -8190,8 +8194,8 @@
   :file: data/cr-magnetometer-20180320.yaml
 - :code: magnetometer
   :stage: WD
-  :date: '20231025'
-  :file: data/wd-magnetometer-20231025.yaml
+  :date: '20231026'
+  :file: data/wd-magnetometer-20231026.yaml
 - :code: magnetometer
   :stage: WD
   :date: '20211207'
@@ -8476,8 +8480,8 @@
   :file: data/media-source-2.yaml
 - :code: media-source-2
   :stage: WD
-  :date: '20231023'
-  :file: data/wd-media-source-2-20231023.yaml
+  :date: '20231025'
+  :file: data/wd-media-source-2-20231025.yaml
 - :code: media-source-2
   :stage: WD
   :date: '20220519'
@@ -10987,8 +10991,8 @@
   :file: data/cr-proximity-20131001.yaml
 - :code: proximity
   :stage: WD
-  :date: '20230130'
-  :file: data/wd-proximity-20230130.yaml
+  :date: '20231026'
+  :file: data/wd-proximity-20231026.yaml
 - :code: proximity
   :stage: WD
   :date: '20210903'
@@ -15446,8 +15450,8 @@
   :file: data/w3c-vision.yaml
 - :code: w3c-vision
   :type: DNOTE
-  :date: '20230725'
-  :file: data/dnote-w3c-vision-20230725.yaml
+  :date: '20231026'
+  :file: data/dnote-w3c-vision-20231026.yaml
 - :code: WAET
   :file: data/waet.yaml
 - :code: WAET
@@ -16686,8 +16690,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20230830'
-  :file: data/crd-webnn-20230830.yaml
+  :date: '20231026'
+  :file: data/crd-webnn-20231026.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

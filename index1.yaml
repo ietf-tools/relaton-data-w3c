@@ -26274,11 +26274,6 @@
     :date: '20230831'
   :file: data/crd-audio-output-20230831.yaml
 - :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20230831'
-  :file: data/wd-screen-capture-20230831.yaml
-- :id:
     :code: clreq
     :type: DNOTE
     :date: '20230901'
@@ -26549,11 +26544,6 @@
     :date: '20231010'
   :file: data/wd-push-api-20231010.yaml
 - :id:
-    :code: image-capture
-    :stage: WD
-    :date: '20231010'
-  :file: data/wd-image-capture-20231010.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20231011'
@@ -26569,85 +26559,10 @@
     :date: '20231012'
   :file: data/wd-appmanifest-20231012.yaml
 - :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20231012'
-  :file: data/wd-webcodecs-20231012.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-avc-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-aac-codec-registration-20231012.yaml
-- :id:
     :code: webrtc-encoded-transform
     :stage: WD
     :date: '20231012'
   :file: data/wd-webrtc-encoded-transform-20231012.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-flac-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-opus-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-av1-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20231012.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20231012'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20231012.yaml
-- :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20231012'
-  :file: data/crd-core-aam-1.2-20231012.yaml
 - :id:
     :code: contact-picker
     :stage: WD
@@ -26718,11 +26633,6 @@
     :stage: WD
     :date: '20231019'
   :file: data/wd-compute-pressure-20231019.yaml
-- :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20231019'
-  :file: data/dnote-webrtc-nv-use-cases-20231019.yaml
 - :id:
     :code: rdf12-n-triples
     :stage: WD
@@ -26873,6 +26783,96 @@
     :stage: CRD
     :date: '20231026'
   :file: data/crd-webnn-20231026.yaml
+- :id:
+    :code: image-capture
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-image-capture-20231026.yaml
+- :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webrtc-nv-use-cases-20231026.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-webcodecs-20231026.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-avc-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-aac-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-flac-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-opus-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-av1-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20231026.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20231026'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20231026.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20231026'
+  :file: data/crd-core-aam-1.2-20231026.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20231026'
+  :file: data/wd-screen-capture-20231026.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27027,9 +27027,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
-- :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
@@ -27086,3 +27083,6 @@
 - :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml

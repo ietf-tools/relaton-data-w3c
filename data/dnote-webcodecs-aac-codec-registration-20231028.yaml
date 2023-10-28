@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-mp3-codec-registration-20231026
+id: W3CDNOTE-webcodecs-aac-codec-registration-20231028
 title:
-- content: MP3 WebCodecs Registration
+- content: AAC WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-mp3-codec-registration-20231026/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-aac-codec-registration-20231028/
   type: src
-- content: https://w3c.github.io/webcodecs/mp3_codec_registration.html
+- content: https://w3c.github.io/webcodecs/aac_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-mp3-codec-registration-20231026
+- id: W3C DNOTE-webcodecs-aac-codec-registration-20231028
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-mp3-codec-registration-20231026
+docnumber: DNOTE-webcodecs-aac-codec-registration-20231028
 date:
 - type: published
-  value: '2023-10-26'
+  value: '2023-10-28'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-26'
+revdate: '2023-10-28'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-mp3-codec-registration-20231012
+    id: W3CDNOTE-webcodecs-aac-codec-registration-20231026
     docid:
-    - id: W3C DNOTE-webcodecs-mp3-codec-registration-20231012
+    - id: W3C DNOTE-webcodecs-aac-codec-registration-20231026
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-mp3-codec-registration-20231012
+      content: W3C DNOTE-webcodecs-aac-codec-registration-20231026
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-mp3-codec-registration-20231026
+  number: DNOTE-webcodecs-aac-codec-registration-20231028
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

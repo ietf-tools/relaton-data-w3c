@@ -25774,11 +25774,6 @@
     :date: '20230406'
   :file: data/wd-css-font-loading-3-20230406.yaml
 - :id:
-    :code: css-values-4
-    :stage: WD
-    :date: '20230406'
-  :file: data/wd-css-values-4-20230406.yaml
-- :id:
     :code: server-timing
     :stage: WD
     :date: '20230411'
@@ -26554,11 +26549,6 @@
     :date: '20231011'
   :file: data/wd-mediasession-20231011.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20231012'
-  :file: data/wd-appmanifest-20231012.yaml
-- :id:
     :code: webrtc-encoded-transform
     :stage: WD
     :date: '20231012'
@@ -26719,11 +26709,6 @@
     :date: '20231024'
   :file: data/wd-longtasks-1-20231024.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231024'
-  :file: data/wd-vc-jose-cose-20231024.yaml
-- :id:
     :code: gyroscope
     :stage: CRD
     :date: '20231025'
@@ -26794,76 +26779,6 @@
     :date: '20231026'
   :file: data/dnote-webrtc-nv-use-cases-20231026.yaml
 - :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20231026'
-  :file: data/wd-webcodecs-20231026.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-avc-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-aac-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-flac-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-opus-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-av1-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20231026.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20231026.yaml
-- :id:
     :code: core-aam-1.2
     :stage: CRD
     :date: '20231026'
@@ -26873,6 +26788,91 @@
     :stage: WD
     :date: '20231026'
   :file: data/wd-screen-capture-20231026.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231027'
+  :file: data/wd-vc-jose-cose-20231027.yaml
+- :id:
+    :code: css-values-4
+    :stage: WD
+    :date: '20231027'
+  :file: data/wd-css-values-4-20231027.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20231028'
+  :file: data/wd-webcodecs-20231028.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-avc-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-aac-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-flac-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-opus-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-av1-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20231028.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20231028'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20231028.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20231028'
+  :file: data/wd-appmanifest-20231028.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27075,14 +27075,14 @@
     :code: ctaur
   :file: data/ctaur.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml

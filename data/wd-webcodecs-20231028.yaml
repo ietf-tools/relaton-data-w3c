@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20231026
+id: W3CWD-webcodecs-20231028
 title:
 - content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webcodecs-20231026/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20231028/
   type: src
 - content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20231026
+- id: W3C WD-webcodecs-20231028
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20231026
+docnumber: WD-webcodecs-20231028
 date:
 - type: published
-  value: '2023-10-26'
+  value: '2023-10-28'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-26'
+revdate: '2023-10-28'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20231012
+    id: W3CWD-webcodecs-20231026
     docid:
-    - id: W3C WD-webcodecs-20231012
+    - id: W3C WD-webcodecs-20231026
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20231012
+      content: W3C WD-webcodecs-20231026
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20231026
+  number: WD-webcodecs-20231028
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

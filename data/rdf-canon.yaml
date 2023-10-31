@@ -19,21 +19,21 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-rdf-canon-20231004
+    id: W3CCR-rdf-canon-20231031
     docid:
-    - id: W3C WD-rdf-canon-20231004
+    - id: W3C CR-rdf-canon-20231031
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20231004
+      content: W3C CR-rdf-canon-20231031
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: rdf-canon
 doctype: technicalReport

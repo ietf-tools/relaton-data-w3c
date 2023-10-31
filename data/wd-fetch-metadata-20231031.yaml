@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-fetch-metadata-20231031
+title:
+- content: Fetch Metadata Request Headers
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-fetch-metadata-20231031/
+  type: src
+- content: https://w3c.github.io/webappsec-fetch-metadata/
+  type: current
+type: standard
+docid:
+- id: W3C WD-fetch-metadata-20231031
+  type: W3C
+  primary: true
+docnumber: WD-fetch-metadata-20231031
+date:
+- type: published
+  value: '2023-10-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-fetch-metadata-20210720
+    docid:
+    - id: W3C WD-fetch-metadata-20210720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-fetch-metadata-20210720
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-fetch-metadata-20231031
+doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
+ext:
+  schema-version: v1.0.0

@@ -4940,8 +4940,8 @@
   :file: data/dpub-aria-1.1.yaml
 - :code: dpub-aria-1.1
   :stage: WD
-  :date: '20230902'
-  :file: data/wd-dpub-aria-1.1-20230902.yaml
+  :date: '20231030'
+  :file: data/wd-dpub-aria-1.1-20231030.yaml
 - :code: dpub-aria-1.1
   :stage: WD
   :date: '20220530'
@@ -5746,6 +5746,10 @@
   :file: data/wd-feature-policy-1-20190416.yaml
 - :code: fetch-metadata
   :file: data/fetch-metadata.yaml
+- :code: fetch-metadata
+  :stage: WD
+  :date: '20231031'
+  :file: data/wd-fetch-metadata-20231031.yaml
 - :code: fetch-metadata
   :stage: WD
   :date: '20210720'
@@ -11307,9 +11311,9 @@
 - :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :code: rdf-canon
-  :stage: WD
-  :date: '20231004'
-  :file: data/wd-rdf-canon-20231004.yaml
+  :stage: CR
+  :date: '20231031'
+  :file: data/cr-rdf-canon-20231031.yaml
 - :code: rdf-concepts
   :file: data/rdf-concepts.yaml
 - :code: rdf-concepts
@@ -14949,8 +14953,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: WD
-  :date: '20231021'
-  :file: data/wd-vc-data-model-2.0-20231021.yaml
+  :date: '20231031'
+  :file: data/wd-vc-data-model-2.0-20231031.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
@@ -14985,8 +14989,8 @@
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: WD
-  :date: '20231022'
-  :file: data/wd-vc-json-schema-20231022.yaml
+  :date: '20231031'
+  :file: data/wd-vc-json-schema-20231031.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml
@@ -17155,8 +17159,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20231020'
-  :file: data/wd-wgsl-20231020.yaml
+  :date: '20231031'
+  :file: data/wd-wgsl-20231031.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

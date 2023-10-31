@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf-canon-20231004
+id: W3CWD-dpub-aria-1.1-20231030
 title:
-- content: RDF Dataset Canonicalization
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf-canon-20231004/
+- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231030/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf-canon-20231004
+- id: W3C WD-dpub-aria-1.1-20231030
   type: W3C
   primary: true
-docnumber: WD-rdf-canon-20231004
+docnumber: WD-dpub-aria-1.1-20231030
 date:
 - type: published
-  value: '2023-10-04'
+  value: '2023-10-30'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-10-04'
+revdate: '2023-10-30'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf-canon-20230911
+    id: W3CWD-dpub-aria-1.1-20230902
     docid:
-    - id: W3C WD-rdf-canon-20230911
+    - id: W3C WD-dpub-aria-1.1-20230902
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230911
+      content: W3C WD-dpub-aria-1.1-20230902
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf-canon-20231004
+  number: WD-dpub-aria-1.1-20231030
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

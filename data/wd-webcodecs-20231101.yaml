@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20231026
+id: W3CWD-webcodecs-20231101
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231026/
+- content: https://www.w3.org/TR/2023/WD-webcodecs-20231101/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20231026
+- id: W3C WD-webcodecs-20231101
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20231026
+docnumber: WD-webcodecs-20231101
 date:
 - type: published
-  value: '2023-10-26'
+  value: '2023-11-01'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-26'
+revdate: '2023-11-01'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20231012
+    id: W3CWD-webcodecs-20231028
     docid:
-    - id: W3C CRD-core-aam-1.2-20231012
+    - id: W3C WD-webcodecs-20231028
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20231012
+      content: W3C WD-webcodecs-20231028
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20231026
+  number: WD-webcodecs-20231101
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

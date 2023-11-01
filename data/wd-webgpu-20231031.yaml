@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-model-2.0-20231031
+id: W3CWD-webgpu-20231031
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20231031/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20231031/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-model-2.0-20231031
+- id: W3C WD-webgpu-20231031
   type: W3C
   primary: true
-docnumber: WD-vc-data-model-2.0-20231031
+docnumber: WD-webgpu-20231031
 date:
 - type: published
   value: '2023-10-31'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -42,27 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Oliver Terbu
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Orie Steele
+        content: Myles Maxfield
         language:
         - en
         script:
@@ -80,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20231021
+    id: W3CWD-webgpu-20231023
     docid:
-    - id: W3C WD-vc-data-model-2.0-20231021
+    - id: W3C WD-webgpu-20231023
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20231021
+      content: W3C WD-webgpu-20231023
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-model-2.0-20231031
+  number: WD-webgpu-20231031
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

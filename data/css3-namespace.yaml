@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-namespace-19990625
-    docid:
-    - id: W3C WD-css3-namespace-19990625
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-namespace-19990625
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-namespace-20060828
     docid:
     - id: W3C WD-css3-namespace-20060828
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-namespace-20060828
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-namespace-19990625
+    docid:
+    - id: W3C WD-css3-namespace-19990625
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-namespace-19990625
       format: text/plain
 series:
 - title:

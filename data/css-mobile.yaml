@@ -40,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-css-mobile-20071019
+    docid:
+    - id: W3C WD-css-mobile-20071019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-mobile-20071019
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-css-mobile-20020725
     docid:
     - id: W3C CR-css-mobile-20020725
@@ -57,16 +67,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-mobile-20061208
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css-mobile-20071019
-    docid:
-    - id: W3C WD-css-mobile-20071019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-mobile-20071019
       format: text/plain
 series:
 - title:

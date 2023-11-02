@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-accelerometer-20231025
+id: W3CCRD-accelerometer-20231102
 title:
 - content: Accelerometer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-accelerometer-20231025/
+- content: https://www.w3.org/TR/2023/CRD-accelerometer-20231102/
   type: src
 - content: https://w3c.github.io/accelerometer/
   type: current
 type: standard
 docid:
-- id: W3C CRD-accelerometer-20231025
+- id: W3C CRD-accelerometer-20231102
   type: W3C
   primary: true
-docnumber: CRD-accelerometer-20231025
+docnumber: CRD-accelerometer-20231102
 date:
 - type: published
-  value: '2023-10-25'
+  value: '2023-11-02'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-25'
+revdate: '2023-11-02'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-accelerometer-20230130
+    id: W3CCRD-accelerometer-20231025
     docid:
-    - id: W3C CRD-accelerometer-20230130
+    - id: W3C CRD-accelerometer-20231025
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-accelerometer-20230130
+      content: W3C CRD-accelerometer-20231025
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-accelerometer-20231025
+  number: CRD-accelerometer-20231102
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

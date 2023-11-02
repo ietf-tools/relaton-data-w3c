@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-WCAG20-TECHS-20101014
+    docid:
+    - id: W3C NOTE-WCAG20-TECHS-20101014
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-WCAG20-TECHS-20101014
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-WCAG20-TECHS-20081211
     docid:
     - id: W3C NOTE-WCAG20-TECHS-20081211
@@ -40,13 +50,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-WCAG20-TECHS-20150226
+    id: W3CWD-WCAG20-TECHS-20071211
     docid:
-    - id: W3C NOTE-WCAG20-TECHS-20150226
+    - id: W3C WD-WCAG20-TECHS-20071211
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-WCAG20-TECHS-20150226
+      content: W3C WD-WCAG20-TECHS-20071211
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,16 +90,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-WCAG20-TECHS-20101014
-    docid:
-    - id: W3C NOTE-WCAG20-TECHS-20101014
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-WCAG20-TECHS-20101014
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-WCAG20-TECHS-20120103
     docid:
     - id: W3C NOTE-WCAG20-TECHS-20120103
@@ -100,13 +100,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-WCAG20-TECHS-20071211
+    id: W3CNOTE-WCAG20-TECHS-20150226
     docid:
-    - id: W3C WD-WCAG20-TECHS-20071211
+    - id: W3C NOTE-WCAG20-TECHS-20150226
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WCAG20-TECHS-20071211
+      content: W3C NOTE-WCAG20-TECHS-20150226
       format: text/plain
 series:
 - title:

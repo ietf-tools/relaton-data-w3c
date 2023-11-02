@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-image-capture-20161216
+    docid:
+    - id: W3C WD-image-capture-20161216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-capture-20161216
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-image-capture-20210406
     docid:
     - id: W3C WD-image-capture-20210406
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-image-capture-20210406
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-image-capture-20150127
-    docid:
-    - id: W3C WD-image-capture-20150127
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-image-capture-20150127
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-image-capture-20161216
+    id: W3CWD-image-capture-20150127
     docid:
-    - id: W3C WD-image-capture-20161216
+    - id: W3C WD-image-capture-20150127
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-image-capture-20161216
+      content: W3C WD-image-capture-20150127
       format: text/plain
 series:
 - title:

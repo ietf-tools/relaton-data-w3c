@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-html-media-capture-20140909
-    docid:
-    - id: W3C CR-html-media-capture-20140909
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-html-media-capture-20140909
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-html-media-capture-20130509
-    docid:
-    - id: W3C CR-html-media-capture-20130509
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-html-media-capture-20130509
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-media-capture-20100928
     docid:
     - id: W3C WD-html-media-capture-20100928
@@ -63,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-media-capture-20121213
+    id: W3CCR-html-media-capture-20140909
     docid:
-    - id: W3C WD-html-media-capture-20121213
+    - id: W3C CR-html-media-capture-20140909
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-media-capture-20121213
+      content: W3C CR-html-media-capture-20140909
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,6 +70,26 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-html-media-capture-20171128
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-html-media-capture-20130509
+    docid:
+    - id: W3C CR-html-media-capture-20130509
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-html-media-capture-20130509
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-media-capture-20121213
+    docid:
+    - id: W3C WD-html-media-capture-20121213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-media-capture-20121213
       format: text/plain
 series:
 - title:

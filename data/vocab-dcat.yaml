@@ -31,6 +31,16 @@ relation:
     formattedref:
       content: W3C REC-vocab-dcat-20140116
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CSPSD-vocab-dcat-20200204
+    docid:
+    - id: W3C SPSD-vocab-dcat-20200204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C SPSD-vocab-dcat-20200204
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CPR-vocab-dcat-20131217
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-vocab-dcat-20120405
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CSPSD-vocab-dcat-20200204
-    docid:
-    - id: W3C SPSD-vocab-dcat-20200204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C SPSD-vocab-dcat-20200204
       format: text/plain
 series:
 - title:

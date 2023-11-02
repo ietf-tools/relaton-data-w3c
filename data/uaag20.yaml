@@ -30,36 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UAAG20-20090723
-    docid:
-    - id: W3C WD-UAAG20-20090723
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20090723
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-UAAG20-20140925
-    docid:
-    - id: W3C WD-UAAG20-20140925
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20140925
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-UAAG20-20131107
-    docid:
-    - id: W3C WD-UAAG20-20131107
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20131107
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-UAAG20-20100617
     docid:
     - id: W3C WD-UAAG20-20100617
@@ -70,13 +40,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UAAG20-20121004
+    id: W3CWD-UAAG20-20080312
     docid:
-    - id: W3C WD-UAAG20-20121004
+    - id: W3C WD-UAAG20-20080312
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-UAAG20-20121004
+      content: W3C WD-UAAG20-20080312
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,13 +60,43 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UAAG20-20080312
+    id: W3CWD-UAAG20-20140925
     docid:
-    - id: W3C WD-UAAG20-20080312
+    - id: W3C WD-UAAG20-20140925
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-UAAG20-20080312
+      content: W3C WD-UAAG20-20140925
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20090723
+    docid:
+    - id: W3C WD-UAAG20-20090723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20090723
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20131107
+    docid:
+    - id: W3C WD-UAAG20-20131107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20131107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20121004
+    docid:
+    - id: W3C WD-UAAG20-20121004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20121004
       format: text/plain
 series:
 - title:

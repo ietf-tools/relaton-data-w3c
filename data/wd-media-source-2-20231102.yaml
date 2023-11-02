@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-eddsa-20231021
+id: W3CWD-media-source-2-20231102
 title:
-- content: Data Integrity EdDSA Cryptosuites v1.0
+- content: Media Source Extensions™
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-eddsa-20231021/
+- content: https://www.w3.org/TR/2023/WD-media-source-2-20231102/
   type: src
-- content: https://w3c.github.io/vc-di-eddsa/
+- content: https://w3c.github.io/media-source/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-eddsa-20231021
+- id: W3C WD-media-source-2-20231102
   type: W3C
   primary: true
-docnumber: WD-vc-di-eddsa-20231021
+docnumber: WD-media-source-2-20231102
 date:
 - type: published
-  value: '2023-10-21'
+  value: '2023-11-02'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Jean-Yves Avenard
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Mark Watson
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Matthew Wolenetz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-10-21'
+revdate: '2023-11-02'
 language:
 - en
 script:
@@ -70,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-eddsa-20231017
+    id: W3CWD-media-source-2-20231025
     docid:
-    - id: W3C WD-vc-di-eddsa-20231017
+    - id: W3C WD-media-source-2-20231025
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20231017
+      content: W3C WD-media-source-2-20231025
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-eddsa-20231021
+  number: WD-media-source-2-20231102
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

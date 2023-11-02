@@ -33,6 +33,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-battery-status-20160707
+    docid:
+    - id: W3C CR-battery-status-20160707
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-battery-status-20160707
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-battery-status-20111129
+    docid:
+    - id: W3C WD-battery-status-20111129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-battery-status-20111129
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-battery-status-20211109
     docid:
     - id: W3C WD-battery-status-20211109
@@ -53,16 +73,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-battery-status-20160707
-    docid:
-    - id: W3C CR-battery-status-20160707
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-battery-status-20160707
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-battery-status-20120508
     docid:
     - id: W3C CR-battery-status-20120508
@@ -70,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-battery-status-20120508
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-battery-status-20111129
-    docid:
-    - id: W3C WD-battery-status-20111129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-battery-status-20111129
       format: text/plain
 series:
 - title:

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cpowerful-features
 title:
-- content: Privileged Contexts
+- content: Requirements for Powerful Features
   format: text/plain
 link:
 - content: http://www.w3.org/TR/powerful-features/
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-powerful-features-20150424
-    docid:
-    - id: W3C WD-powerful-features-20150424
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-powerful-features-20150424
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-powerful-features-20141204
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-powerful-features-20141204
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-powerful-features-20150424
+    docid:
+    - id: W3C WD-powerful-features-20150424
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-powerful-features-20150424
       format: text/plain
 series:
 - title:

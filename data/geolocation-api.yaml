@@ -43,26 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-geolocation-API-20090707
-    docid:
-    - id: W3C WD-geolocation-API-20090707
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-geolocation-API-20090707
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPER-geolocation-API-20150528
-    docid:
-    - id: W3C PER-geolocation-API-20150528
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-geolocation-API-20150528
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-geolocation-API-20100907
     docid:
     - id: W3C CR-geolocation-API-20100907
@@ -73,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-geolocation-API-20090707
+    docid:
+    - id: W3C WD-geolocation-API-20090707
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geolocation-API-20090707
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPR-geolocation-API-20120510
     docid:
     - id: W3C PR-geolocation-API-20120510
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-geolocation-API-20120510
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPER-geolocation-API-20150528
+    docid:
+    - id: W3C PER-geolocation-API-20150528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PER-geolocation-API-20150528
       format: text/plain
 series:
 - title:

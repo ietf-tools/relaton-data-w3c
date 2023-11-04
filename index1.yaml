@@ -26529,16 +26529,6 @@
     :date: '20231013'
   :file: data/wd-contact-picker-20231013.yaml
 - :id:
-    :code: rdf12-trig
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-rdf12-trig-20231013.yaml
-- :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-rdf12-turtle-20231013.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20231013'
@@ -26739,11 +26729,6 @@
     :date: '20231031'
   :file: data/wd-vc-json-schema-20231031.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231031'
-  :file: data/wd-webgpu-20231031.yaml
-- :id:
     :code: clreq
     :type: DNOTE
     :date: '20231101'
@@ -26883,6 +26868,21 @@
     :stage: WD
     :date: '20231103'
   :file: data/wd-orientation-sensor-20231103.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231103'
+  :file: data/wd-webgpu-20231103.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20231103'
+  :file: data/wd-rdf12-turtle-20231103.yaml
+- :id:
+    :code: rdf12-trig
+    :stage: WD
+    :date: '20231103'
+  :file: data/wd-rdf12-trig-20231103.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27034,12 +27034,6 @@
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
-    :code: rdf12-trig
-  :file: data/rdf12-trig.yaml
-- :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -27096,3 +27090,9 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: rdf12-trig
+  :file: data/rdf12-trig.yaml

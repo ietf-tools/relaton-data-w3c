@@ -26569,25 +26569,20 @@
     :date: '20231019'
   :file: data/note-rch-explainer-20231019.yaml
 - :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20231019'
-  :file: data/wd-rdf12-n-triples-20231019.yaml
-- :id:
     :code: rdf12-n-quads
     :stage: WD
     :date: '20231019'
   :file: data/wd-rdf12-n-quads-20231019.yaml
 - :id:
-    :code: css-text-4
-    :stage: WD
-    :date: '20231020'
-  :file: data/wd-css-text-4-20231020.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231019'
   :file: data/dnote-international-specs-20231019.yaml
+- :id:
+    :code: css-text-4
+    :stage: WD
+    :date: '20231020'
+  :file: data/wd-css-text-4-20231020.yaml
 - :id:
     :code: ambient-light
     :stage: WD
@@ -26628,11 +26623,6 @@
     :stage: CRD
     :date: '20231025'
   :file: data/crd-gyroscope-20231025.yaml
-- :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20231025'
-  :file: data/wd-vc-di-bbs-20231025.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -26733,11 +26723,6 @@
     :type: DNOTE
     :date: '20231101'
   :file: data/dnote-clreq-20231101.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231101'
-  :file: data/wd-vc-data-model-2.0-20231101.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: WD
@@ -26874,15 +26859,30 @@
     :date: '20231103'
   :file: data/wd-webgpu-20231103.yaml
 - :id:
-    :code: rdf12-turtle
+    :code: vc-data-model-2.0
     :stage: WD
-    :date: '20231103'
-  :file: data/wd-rdf12-turtle-20231103.yaml
+    :date: '20231104'
+  :file: data/wd-vc-data-model-2.0-20231104.yaml
+- :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20231104'
+  :file: data/wd-rdf12-n-triples-20231104.yaml
 - :id:
     :code: rdf12-trig
     :stage: WD
-    :date: '20231103'
-  :file: data/wd-rdf12-trig-20231103.yaml
+    :date: '20231104'
+  :file: data/wd-rdf12-trig-20231104.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20231104'
+  :file: data/wd-rdf12-turtle-20231104.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20231104'
+  :file: data/wd-vc-di-bbs-20231104.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27040,9 +27040,6 @@
     :code: rch-explainer
   :file: data/rch-explainer.yaml
 - :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
 - :id:
@@ -27055,9 +27052,6 @@
     :code: ctaur
   :file: data/ctaur.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
@@ -27069,9 +27063,6 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
@@ -27091,8 +27082,17 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: rdf12-trig
   :file: data/rdf12-trig.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

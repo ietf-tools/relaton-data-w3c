@@ -25784,11 +25784,6 @@
     :date: '20230418'
   :file: data/cr-trace-context-2-20230418.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20230421'
-  :file: data/wd-orientation-event-20230421.yaml
-- :id:
     :code: user-timing
     :stage: CRD
     :date: '20230426'
@@ -26144,11 +26139,6 @@
     :date: '20230719'
   :file: data/wd-hr-time-3-20230719.yaml
 - :id:
-    :code: screen-wake-lock
-    :stage: WD
-    :date: '20230719'
-  :file: data/wd-screen-wake-lock-20230719.yaml
-- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20230720'
@@ -26283,11 +26273,6 @@
     :stage: WD
     :date: '20230906'
   :file: data/wd-largest-contentful-paint-20230906.yaml
-- :id:
-    :code: ethical-web-principles
-    :type: DNOTE
-    :date: '20230906'
-  :file: data/dnote-ethical-web-principles-20230906.yaml
 - :id:
     :code: privacy-principles
     :type: DNOTE
@@ -26878,6 +26863,26 @@
     :stage: WD
     :date: '20231104'
   :file: data/wd-rdf12-turtle-20231104.yaml
+- :id:
+    :code: user-timing
+    :stage: CRD
+    :date: '20231106'
+  :file: data/crd-user-timing-20231106.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: DNOTE
+    :date: '20231107'
+  :file: data/dnote-ethical-web-principles-20231107.yaml
+- :id:
+    :code: screen-wake-lock
+    :stage: WD
+    :date: '20231107'
+  :file: data/wd-screen-wake-lock-20231107.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231107'
+  :file: data/wd-orientation-event-20231107.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

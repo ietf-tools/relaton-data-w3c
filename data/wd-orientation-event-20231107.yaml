@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-screen-wake-lock-20230719
+id: W3CWD-orientation-event-20231107
 title:
-- content: Screen Wake Lock API
+- content: DeviceOrientation Event Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-screen-wake-lock-20230719/
+- content: https://www.w3.org/TR/2023/WD-orientation-event-20231107/
   type: src
-- content: https://w3c.github.io/screen-wake-lock/
+- content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C WD-screen-wake-lock-20230719
+- id: W3C WD-orientation-event-20231107
   type: W3C
   primary: true
-docnumber: WD-screen-wake-lock-20230719
+docnumber: WD-orientation-event-20231107
 date:
 - type: published
-  value: '2023-07-19'
+  value: '2023-11-07'
 contributor:
-- person:
-    name:
-      completename:
-        content: Kenneth Christiansen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,17 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-19'
+- person:
+    name:
+      completename:
+        content: Reilly Grant
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-11-07'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-screen-wake-lock-20230714
+    id: W3CWD-orientation-event-20230421
     docid:
-    - id: W3C WD-screen-wake-lock-20230714
+    - id: W3C WD-orientation-event-20230421
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-wake-lock-20230714
+      content: W3C WD-orientation-event-20230421
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-screen-wake-lock-20230719
+  number: WD-orientation-event-20231107
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

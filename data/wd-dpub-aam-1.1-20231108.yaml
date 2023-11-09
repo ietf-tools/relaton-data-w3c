@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aam-1.1-20230902
+id: W3CWD-dpub-aam-1.1-20231108
 title:
 - content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20230902/
+- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20231108/
   type: src
 - content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aam-1.1-20230902
+- id: W3C WD-dpub-aam-1.1-20231108
   type: W3C
   primary: true
-docnumber: WD-dpub-aam-1.1-20230902
+docnumber: WD-dpub-aam-1.1-20231108
 date:
 - type: published
-  value: '2023-09-02'
+  value: '2023-11-08'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-02'
+revdate: '2023-11-08'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20230823
+    id: W3CWD-dpub-aam-1.1-20230902
     docid:
-    - id: W3C WD-dpub-aam-1.1-20230823
+    - id: W3C WD-dpub-aam-1.1-20230902
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20230823
+      content: W3C WD-dpub-aam-1.1-20230902
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aam-1.1-20230902
+  number: WD-dpub-aam-1.1-20231108
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

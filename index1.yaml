@@ -26249,11 +26249,6 @@
     :date: '20230831'
   :file: data/crd-audio-output-20230831.yaml
 - :id:
-    :code: dpub-aam-1.1
-    :stage: WD
-    :date: '20230902'
-  :file: data/wd-dpub-aam-1.1-20230902.yaml
-- :id:
     :code: css-text-3
     :stage: CRD
     :date: '20230903'
@@ -26609,11 +26604,6 @@
     :date: '20231025'
   :file: data/crd-gyroscope-20231025.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20231025'
-  :file: data/wd-pointerevents3-20231025.yaml
-- :id:
     :code: w3c-vision
     :type: DNOTE
     :date: '20231026'
@@ -26698,11 +26688,6 @@
     :stage: WD
     :date: '20231031'
   :file: data/wd-fetch-metadata-20231031.yaml
-- :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20231031'
-  :file: data/wd-vc-json-schema-20231031.yaml
 - :id:
     :code: clreq
     :type: DNOTE
@@ -26879,10 +26864,25 @@
     :date: '20231107'
   :file: data/wd-orientation-event-20231107.yaml
 - :id:
+    :code: dpub-aam-1.1
+    :stage: WD
+    :date: '20231108'
+  :file: data/wd-dpub-aam-1.1-20231108.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231108'
+  :file: data/wd-vc-json-schema-20231108.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20231108'
+  :file: data/wd-pointerevents3-20231108.yaml
+- :id:
     :code: webgpu
     :stage: WD
-    :date: '20231107'
-  :file: data/wd-webgpu-20231107.yaml
+    :date: '20231108'
+  :file: data/wd-webgpu-20231108.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27066,9 +27066,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -27098,6 +27095,9 @@
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

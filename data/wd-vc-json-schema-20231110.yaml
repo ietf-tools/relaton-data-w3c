@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-reporting-1-20230512
+id: W3CWD-vc-json-schema-20231110
 title:
-- content: Reporting API
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-reporting-1-20230512/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20231110/
   type: src
-- content: https://w3c.github.io/reporting/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-reporting-1-20230512
+- id: W3C WD-vc-json-schema-20231110
   type: W3C
   primary: true
-docnumber: WD-reporting-1-20230512
+docnumber: WD-vc-json-schema-20231110
 date:
 - type: published
-  value: '2023-05-12'
+  value: '2023-11-10'
 contributor:
 - person:
     name:
       completename:
-        content: Douglas Creager
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Clelland
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike West
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-12'
+revdate: '2023-11-10'
 language:
 - en
 script:
@@ -60,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-reporting-1-20220917
+    id: W3CWD-vc-json-schema-20231108
     docid:
-    - id: W3C WD-reporting-1-20220917
+    - id: W3C WD-vc-json-schema-20231108
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-reporting-1-20220917
+      content: W3C WD-vc-json-schema-20231108
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-reporting-1-20230512
+  number: WD-vc-json-schema-20231110
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

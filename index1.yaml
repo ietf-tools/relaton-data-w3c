@@ -25814,11 +25814,6 @@
     :date: '20230511'
   :file: data/wd-mediastream-recording-20230511.yaml
 - :id:
-    :code: reporting-1
-    :stage: WD
-    :date: '20230512'
-  :file: data/wd-reporting-1-20230512.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230515'
@@ -26068,11 +26063,6 @@
     :stage: WD
     :date: '20230629'
   :file: data/wd-vc-jws-2020-20230629.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-    :stage: WD
-    :date: '20230629'
-  :file: data/wd-sparql12-results-csv-tsv-20230629.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26809,11 +26799,6 @@
     :date: '20231103'
   :file: data/dnote-webcodecs-hevc-codec-registration-20231103.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20231103'
-  :file: data/wd-compute-pressure-20231103.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20231103'
@@ -26859,20 +26844,10 @@
     :date: '20231107'
   :file: data/wd-screen-wake-lock-20231107.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231107'
-  :file: data/wd-orientation-event-20231107.yaml
-- :id:
     :code: dpub-aam-1.1
     :stage: WD
     :date: '20231108'
   :file: data/wd-dpub-aam-1.1-20231108.yaml
-- :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20231108'
-  :file: data/wd-vc-json-schema-20231108.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -26883,6 +26858,36 @@
     :stage: WD
     :date: '20231108'
   :file: data/wd-webgpu-20231108.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231110'
+  :file: data/wd-vc-json-schema-20231110.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20231110'
+  :file: data/wd-compute-pressure-20231110.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+    :stage: WD
+    :date: '20231110'
+  :file: data/wd-sparql12-results-csv-tsv-20231110.yaml
+- :id:
+    :code: reporting-1
+    :stage: WD
+    :date: '20231110'
+  :file: data/wd-reporting-1-20231110.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231110'
+  :file: data/wd-orientation-event-20231110.yaml
+- :id:
+    :code: secure-contexts
+    :stage: CRD
+    :date: '20231110'
+  :file: data/crd-secure-contexts-20231110.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -26978,9 +26983,6 @@
     :code: vc-jws
     :date: '2020'
   :file: data/vc-jws-2020.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-  :file: data/sparql12-results-csv-tsv.yaml
 - :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
@@ -27081,9 +27083,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
@@ -27098,6 +27097,12 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+  :file: data/sparql12-results-csv-tsv.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

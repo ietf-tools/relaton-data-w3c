@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-secure-contexts-20231110
+title:
+- content: Secure Contexts
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-secure-contexts-20231110/
+  type: src
+- content: https://w3c.github.io/webappsec-secure-contexts/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-secure-contexts-20231110
+  type: W3C
+  primary: true
+docnumber: CRD-secure-contexts-20231110
+date:
+- type: published
+  value: '2023-11-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-11-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-secure-contexts-20210918
+    docid:
+    - id: W3C CRD-secure-contexts-20210918
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-secure-contexts-20210918
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-secure-contexts-20231110
+doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
+ext:
+  schema-version: v1.0.0

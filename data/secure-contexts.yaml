@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-secure-contexts-20210918
+    id: W3CCRD-secure-contexts-20231110
     docid:
-    - id: W3C CRD-secure-contexts-20210918
+    - id: W3C CRD-secure-contexts-20231110
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-secure-contexts-20210918
+      content: W3C CRD-secure-contexts-20231110
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-secure-contexts-20160915
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-secure-contexts-20210918
+    docid:
+    - id: W3C CRD-secure-contexts-20210918
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-secure-contexts-20210918
       format: text/plain
 series:
 - title:

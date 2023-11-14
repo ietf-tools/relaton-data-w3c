@@ -26694,11 +26694,6 @@
     :date: '20231102'
   :file: data/wd-webrtc-svc-20231102.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20231102'
-  :file: data/wd-media-source-2-20231102.yaml
-- :id:
     :code: accelerometer
     :stage: CRD
     :date: '20231102'
@@ -26874,20 +26869,30 @@
     :date: '20231110'
   :file: data/wd-reporting-1-20231110.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231110'
-  :file: data/wd-orientation-event-20231110.yaml
-- :id:
     :code: secure-contexts
     :stage: CRD
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231113'
+  :file: data/wd-orientation-event-20231113.yaml
+- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231110'
   :file: data/dnote-international-specs-20231110.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20231114'
+  :file: data/wd-media-source-2-20231114.yaml
+- :id:
+    :code: user-timing
+    :stage: CRD
+    :date: '20231114'
+  :file: data/crd-user-timing-20231114.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-hevc-codec-registration-20231103
+id: W3CDNOTE-webcodecs-vorbis-codec-registration-20231114
 title:
-- content: HEVC (H.265) WebCodecs Registration
+- content: Vorbis WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231103/
+- content: https://www.w3.org/TR/2023/DNOTE-webcodecs-vorbis-codec-registration-20231114/
   type: src
-- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/vorbis_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-hevc-codec-registration-20231103
+- id: W3C DNOTE-webcodecs-vorbis-codec-registration-20231114
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-hevc-codec-registration-20231103
+docnumber: DNOTE-webcodecs-vorbis-codec-registration-20231114
 date:
 - type: published
-  value: '2023-11-03'
+  value: '2023-11-14'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-03'
+revdate: '2023-11-14'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-hevc-codec-registration-20231102
+    id: W3CDNOTE-webcodecs-vorbis-codec-registration-20231103
     docid:
-    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20231102
+    - id: W3C DNOTE-webcodecs-vorbis-codec-registration-20231103
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-hevc-codec-registration-20231102
+      content: W3C DNOTE-webcodecs-vorbis-codec-registration-20231103
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-hevc-codec-registration-20231103
+  number: DNOTE-webcodecs-vorbis-codec-registration-20231114
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

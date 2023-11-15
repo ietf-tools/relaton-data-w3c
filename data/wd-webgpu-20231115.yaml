@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-viss2-core-20230927
+id: W3CWD-webgpu-20231115
 title:
-- content: VISS version 2 - Core
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-viss2-core-20230927/
+- content: https://www.w3.org/TR/2023/WD-webgpu-20231115/
   type: src
-- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Core.html
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-viss2-core-20230927
+- id: W3C WD-webgpu-20231115
   type: W3C
   primary: true
-docnumber: WD-viss2-core-20230927
+docnumber: WD-webgpu-20231115
 date:
 - type: published
-  value: '2023-09-27'
+  value: '2023-11-15'
 contributor:
 - person:
     name:
       completename:
-        content: Isaac Agudo
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ulf Bjorkengren
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Wonsuk Lee
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-27'
+revdate: '2023-11-15'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-viss2-core-20230908
+    id: W3CWD-webgpu-20231114
     docid:
-    - id: W3C WD-viss2-core-20230908
+    - id: W3C WD-webgpu-20231114
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20230908
+      content: W3C WD-webgpu-20231114
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-viss2-core-20230927
+  number: WD-webgpu-20231115
 doctype: technicalReport
 editorialgroup:
-- name: Automotive Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

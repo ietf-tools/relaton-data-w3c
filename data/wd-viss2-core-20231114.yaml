@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20231108
+id: W3CWD-viss2-core-20231114
 title:
-- content: WebGPU
+- content: VISS version 2 - Core
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20231108/
+- content: https://www.w3.org/TR/2023/WD-viss2-core-20231114/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Core.html
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20231108
+- id: W3C WD-viss2-core-20231114
   type: W3C
   primary: true
-docnumber: WD-webgpu-20231108
+docnumber: WD-viss2-core-20231114
 date:
 - type: published
-  value: '2023-11-08'
+  value: '2023-11-14'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Isaac Agudo
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Ulf Bjorkengren
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Myles Maxfield
+        content: Wonsuk Lee
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-08'
+revdate: '2023-11-14'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20231107
+    id: W3CWD-viss2-core-20230927
     docid:
-    - id: W3C WD-webgpu-20231107
+    - id: W3C WD-viss2-core-20230927
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20231107
+      content: W3C WD-viss2-core-20230927
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20231108
+  number: WD-viss2-core-20231114
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Automotive Working Group
 ext:
   schema-version: v1.0.0

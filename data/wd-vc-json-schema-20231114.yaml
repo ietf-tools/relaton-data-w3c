@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-json-schema-20231110
+id: W3CWD-vc-json-schema-20231114
 title:
 - content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20231110/
+- content: https://www.w3.org/TR/2023/WD-vc-json-schema-20231114/
   type: src
 - content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-json-schema-20231110
+- id: W3C WD-vc-json-schema-20231114
   type: W3C
   primary: true
-docnumber: WD-vc-json-schema-20231110
+docnumber: WD-vc-json-schema-20231114
 date:
 - type: published
-  value: '2023-11-10'
+  value: '2023-11-14'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-10'
+revdate: '2023-11-14'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20231108
+    id: W3CWD-vc-json-schema-20231110
     docid:
-    - id: W3C WD-vc-json-schema-20231108
+    - id: W3C WD-vc-json-schema-20231110
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20231108
+      content: W3C WD-vc-json-schema-20231110
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-json-schema-20231110
+  number: WD-vc-json-schema-20231114
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -26874,11 +26874,6 @@
     :date: '20231114'
   :file: data/wd-viss2-transport-20231114.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: WD
-    :date: '20231114'
-  :file: data/wd-vc-json-schema-20231114.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20231115'
@@ -26894,6 +26889,11 @@
     :date: '20231115'
   :file: data/wd-webrtc-svc-20231115.yaml
 - :id:
+    :code: vc-json-schema
+    :stage: WD
+    :date: '20231115'
+  :file: data/wd-vc-json-schema-20231115.yaml
+- :id:
     :code: vc-di-bbs
     :stage: WD
     :date: '20231104'
@@ -26901,6 +26901,9 @@
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
+- :id:
+    :code: xslt-10
+  :file: data/xslt-10.yaml
 - :id:
     :code: adapt-requirements
   :file: data/adapt-requirements.yaml

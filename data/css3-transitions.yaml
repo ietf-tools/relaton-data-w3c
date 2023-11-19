@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-transitions-20090320
-    docid:
-    - id: W3C WD-css3-transitions-20090320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-transitions-20090320
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-transitions-20120403
     docid:
     - id: W3C WD-css3-transitions-20120403
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-transitions-20120403
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-transitions-20090320
+    docid:
+    - id: W3C WD-css3-transitions-20090320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-transitions-20090320
       format: text/plain
 series:
 - title:

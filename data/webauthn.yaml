@@ -2,7 +2,8 @@
 schema-version: v1.2.3
 id: W3Cwebauthn
 title:
-- content: 'Web Authentication: An API for accessing Scoped Credentials'
+- content: 'Web Authentication: An API for accessing Public Key Credentials Level
+    1'
   format: text/plain
 link:
 - content: https://www.w3.org/TR/webauthn/
@@ -19,18 +20,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webauthn-20161207
-    docid:
-    - id: W3C WD-webauthn-20161207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webauthn-20161207
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-webauthn-20180807
@@ -51,9 +42,19 @@ relation:
     formattedref:
       content: W3C WD-webauthn-20171205
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webauthn-20161207
+    docid:
+    - id: W3C WD-webauthn-20161207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webauthn-20161207
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: webauthn
 doctype: technicalReport

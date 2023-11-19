@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aam-1.0-20161223
-    docid:
-    - id: W3C WD-html-aam-1.0-20161223
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-aam-1.0-20161223
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html-aam-1.0-20210813
-    docid:
-    - id: W3C WD-html-aam-1.0-20210813
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-aam-1.0-20210813
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-html-aam-1.0-20190913
     docid:
     - id: W3C WD-html-aam-1.0-20190913
@@ -73,13 +53,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aam-1.0-20191217
+    id: W3CWD-html-aam-1.0-20210813
     docid:
-    - id: W3C WD-html-aam-1.0-20191217
+    - id: W3C WD-html-aam-1.0-20210813
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20191217
+      content: W3C WD-html-aam-1.0-20210813
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aam-1.0-20151203
+    docid:
+    - id: W3C WD-html-aam-1.0-20151203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aam-1.0-20151203
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,13 +103,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aam-1.0-20151203
+    id: W3CWD-html-aam-1.0-20191217
     docid:
-    - id: W3C WD-html-aam-1.0-20151203
+    - id: W3C WD-html-aam-1.0-20191217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20151203
+      content: W3C WD-html-aam-1.0-20191217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aam-1.0-20161223
+    docid:
+    - id: W3C WD-html-aam-1.0-20161223
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aam-1.0-20161223
       format: text/plain
 series:
 - title:

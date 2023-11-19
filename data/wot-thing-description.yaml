@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CCR-wot-thing-description-20191106
-    docid:
-    - id: W3C CR-wot-thing-description-20191106
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-wot-thing-description-20191106
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-wot-thing-description-20181021
@@ -51,9 +41,19 @@ relation:
     formattedref:
       content: W3C WD-wot-thing-description-20170914
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-wot-thing-description-20191106
+    docid:
+    - id: W3C CR-wot-thing-description-20191106
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-wot-thing-description-20191106
+      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: wot-thing-description
 doctype: technicalReport

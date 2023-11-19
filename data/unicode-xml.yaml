@@ -30,36 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-unicode-xml-20070516
-    docid:
-    - id: W3C NOTE-unicode-xml-20070516
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-unicode-xml-20070516
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CNOTE-unicode-xml-20160503
-    docid:
-    - id: W3C NOTE-unicode-xml-20160503
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-unicode-xml-20160503
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CNOTE-unicode-xml-20130124
-    docid:
-    - id: W3C NOTE-unicode-xml-20130124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-unicode-xml-20130124
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-unicode-xml-20030613
     docid:
     - id: W3C NOTE-unicode-xml-20030613
@@ -77,6 +47,36 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-unicode-xml-20020218
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-unicode-xml-20070516
+    docid:
+    - id: W3C NOTE-unicode-xml-20070516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20070516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-unicode-xml-20130124
+    docid:
+    - id: W3C NOTE-unicode-xml-20130124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20130124
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-unicode-xml-20160503
+    docid:
+    - id: W3C NOTE-unicode-xml-20160503
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-unicode-xml-20160503
       format: text/plain
 series:
 - title:

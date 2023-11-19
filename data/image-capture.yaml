@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-image-capture-20161216
+    id: W3CWD-image-capture-20170621
     docid:
-    - id: W3C WD-image-capture-20161216
+    - id: W3C WD-image-capture-20170621
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-image-capture-20161216
+      content: W3C WD-image-capture-20170621
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-image-capture-20150127
+    docid:
+    - id: W3C WD-image-capture-20150127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-capture-20150127
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-image-capture-20130709
     docid:
     - id: W3C WD-image-capture-20130709
@@ -63,23 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-image-capture-20170621
+    id: W3CWD-image-capture-20161216
     docid:
-    - id: W3C WD-image-capture-20170621
+    - id: W3C WD-image-capture-20161216
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-image-capture-20170621
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-image-capture-20150127
-    docid:
-    - id: W3C WD-image-capture-20150127
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-image-capture-20150127
+      content: W3C WD-image-capture-20161216
       format: text/plain
 series:
 - title:

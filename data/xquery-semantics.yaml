@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPER-xquery-semantics-20090421
-    docid:
-    - id: W3C PER-xquery-semantics-20090421
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PER-xquery-semantics-20090421
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xquery-semantics-20040220
     docid:
     - id: W3C WD-xquery-semantics-20040220
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xquery-semantics-20040220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xquery-semantics-20051103
+    docid:
+    - id: W3C CR-xquery-semantics-20051103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xquery-semantics-20051103
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,13 +83,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xquery-semantics-20051103
+    id: W3CPER-xquery-semantics-20090421
     docid:
-    - id: W3C CR-xquery-semantics-20051103
+    - id: W3C PER-xquery-semantics-20090421
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-xquery-semantics-20051103
+      content: W3C PER-xquery-semantics-20090421
       format: text/plain
 series:
 - title:

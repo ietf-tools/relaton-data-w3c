@@ -25949,11 +25949,6 @@
     :date: '20230613'
   :file: data/dnote-nkoo-lreq-20230613.yaml
 - :id:
-    :code: permissions
-    :stage: WD
-    :date: '20230613'
-  :file: data/wd-permissions-20230613.yaml
-- :id:
     :code: cans-iu-cr-gap
     :type: DNOTE
     :date: '20230614'
@@ -25979,15 +25974,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
     :code: geor-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-geor-gap-20230614.yaml
+- :id:
+    :code: latn-hu-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26303,11 +26298,6 @@
     :stage: REC
     :date: '20230921'
   :file: data/rec-wcag21-20230921.yaml
-- :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20230921'
-  :file: data/crd-mediacapture-streams-20230921.yaml
 - :id:
     :code: rdf12-xml
     :stage: WD
@@ -26734,11 +26724,6 @@
     :date: '20231108'
   :file: data/wd-dpub-aam-1.1-20231108.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20231108'
-  :file: data/wd-pointerevents3-20231108.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20231110'
@@ -26759,15 +26744,15 @@
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231113'
-  :file: data/wd-orientation-event-20231113.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231110'
   :file: data/dnote-international-specs-20231110.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231113'
+  :file: data/wd-orientation-event-20231113.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26893,6 +26878,21 @@
     :stage: WD
     :date: '20231117'
   :file: data/wd-vc-jose-cose-20231117.yaml
+- :id:
+    :code: permissions
+    :stage: WD
+    :date: '20231119'
+  :file: data/wd-permissions-20231119.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20231120'
+  :file: data/crd-mediacapture-streams-20231120.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20231120'
+  :file: data/wd-pointerevents3-20231120.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20231115
+id: W3CCR-vc-di-eddsa-20231121
 title:
-- content: WebGPU
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20231115/
+- content: https://www.w3.org/TR/2023/CR-vc-di-eddsa-20231121/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20231115
+- id: W3C CR-vc-di-eddsa-20231121
   type: W3C
   primary: true
-docnumber: WD-webgpu-20231115
+docnumber: CR-vc-di-eddsa-20231121
 date:
 - type: published
-  value: '2023-11-15'
+  value: '2023-11-21'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -42,39 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-15'
+- person:
+    name:
+      completename:
+        content: Sebastian Crane
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-11-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20231114
+    id: W3CWD-vc-di-eddsa-20231101
     docid:
-    - id: W3C WD-webgpu-20231114
+    - id: W3C WD-vc-di-eddsa-20231101
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20231114
+      content: W3C WD-vc-di-eddsa-20231101
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20231115
+  number: CR-vc-di-eddsa-20231121
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-ecdsa-20231101
+id: W3CCR-vc-json-schema-20231121
 title:
-- content: Data Integrity ECDSA Cryptosuites v1.0
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231101/
+- content: https://www.w3.org/TR/2023/CR-vc-json-schema-20231121/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-ecdsa-20231101
+- id: W3C CR-vc-json-schema-20231121
   type: W3C
   primary: true
-docnumber: WD-vc-di-ecdsa-20231101
+docnumber: CR-vc-json-schema-20231121
 date:
 - type: published
-  value: '2023-11-01'
+  value: '2023-11-21'
 contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,47 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Reed
+        content: Orie Steele
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-11-01'
+revdate: '2023-11-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-ecdsa-20231021
+    id: W3CWD-vc-json-schema-20231116
     docid:
-    - id: W3C WD-vc-di-ecdsa-20231021
+    - id: W3C WD-vc-json-schema-20231116
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-ecdsa-20231021
+      content: W3C WD-vc-json-schema-20231116
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-vc-di-ecdsa-20231101
+  number: CR-vc-json-schema-20231121
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

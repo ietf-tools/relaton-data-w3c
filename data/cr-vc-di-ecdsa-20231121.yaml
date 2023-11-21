@@ -1,44 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-integrity-20231021
+id: W3CCR-vc-di-ecdsa-20231121
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-integrity-20231021/
+- content: https://www.w3.org/TR/2023/CR-vc-di-ecdsa-20231121/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-integrity-20231021
+- id: W3C CR-vc-di-ecdsa-20231121
   type: W3C
   primary: true
-docnumber: WD-vc-data-integrity-20231021
+docnumber: CR-vc-di-ecdsa-20231121
 date:
 - type: published
-  value: '2023-10-21'
+  value: '2023-11-21'
 contributor:
-- person:
-    name:
-      completename:
-        content: Dave Longley
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Dmitri Zagidulin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -62,6 +42,16 @@ contributor:
 - person:
     name:
       completename:
+        content: Martin Reed
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
         content: Sebastian Crane
         language:
         - en
@@ -69,30 +59,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-21'
+revdate: '2023-11-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-integrity-20231017
+    id: W3CWD-vc-di-ecdsa-20231101
     docid:
-    - id: W3C WD-vc-data-integrity-20231017
+    - id: W3C WD-vc-di-ecdsa-20231101
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-integrity-20231017
+      content: W3C WD-vc-di-ecdsa-20231101
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-vc-data-integrity-20231021
+  number: CR-vc-di-ecdsa-20231121
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

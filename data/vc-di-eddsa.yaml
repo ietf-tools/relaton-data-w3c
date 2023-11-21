@@ -19,21 +19,21 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-di-eddsa-20231101
+    id: W3CCR-vc-di-eddsa-20231121
     docid:
-    - id: W3C WD-vc-di-eddsa-20231101
+    - id: W3C CR-vc-di-eddsa-20231121
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-eddsa-20231101
+      content: W3C CR-vc-di-eddsa-20231121
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: vc-di-eddsa
 doctype: technicalReport

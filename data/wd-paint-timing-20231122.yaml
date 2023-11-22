@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-paint-timing-20231116
+id: W3CWD-paint-timing-20231122
 title:
 - content: Paint Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-paint-timing-20231116/
+- content: https://www.w3.org/TR/2023/WD-paint-timing-20231122/
   type: src
 - content: https://w3c.github.io/paint-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-paint-timing-20231116
+- id: W3C WD-paint-timing-20231122
   type: W3C
   primary: true
-docnumber: WD-paint-timing-20231116
+docnumber: WD-paint-timing-20231122
 date:
 - type: published
-  value: '2023-11-16'
+  value: '2023-11-22'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-16'
+revdate: '2023-11-22'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-paint-timing-20230703
+    id: W3CWD-paint-timing-20231116
     docid:
-    - id: W3C WD-paint-timing-20230703
+    - id: W3C WD-paint-timing-20231116
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-paint-timing-20230703
+      content: W3C WD-paint-timing-20231116
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-paint-timing-20231116
+  number: WD-paint-timing-20231122
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

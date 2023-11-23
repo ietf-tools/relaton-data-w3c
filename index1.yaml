@@ -25789,11 +25789,6 @@
     :date: '20230426'
   :file: data/crd-user-timing-20230426.yaml
 - :id:
-    :code: vc-status-list
-    :stage: WD
-    :date: '20230427'
-  :file: data/wd-vc-status-list-20230427.yaml
-- :id:
     :code: webxrlayers-1
     :stage: WD
     :date: '20230502'
@@ -26574,11 +26569,6 @@
     :date: '20231026'
   :file: data/wd-geolocation-sensor-20231026.yaml
 - :id:
-    :code: generic-sensor
-    :stage: CRD
-    :date: '20231026'
-  :file: data/crd-generic-sensor-20231026.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20231026'
@@ -26744,80 +26734,10 @@
     :date: '20231114'
   :file: data/crd-user-timing-20231114.yaml
 - :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20231114'
-  :file: data/wd-webcodecs-20231114.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-avc-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-aac-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-flac-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-opus-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-av1-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20231114.yaml
-- :id:
     :code: webdriver2
     :stage: WD
     :date: '20231114'
   :file: data/wd-webdriver2-20231114.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20231114.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20231114'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20231114.yaml
 - :id:
     :code: viss2-core
     :stage: WD
@@ -26844,20 +26764,10 @@
     :date: '20231117'
   :file: data/wd-vc-jose-cose-20231117.yaml
 - :id:
-    :code: permissions
-    :stage: WD
-    :date: '20231119'
-  :file: data/wd-permissions-20231119.yaml
-- :id:
     :code: mediacapture-streams
     :stage: CRD
     :date: '20231120'
   :file: data/crd-mediacapture-streams-20231120.yaml
-- :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20231120'
-  :file: data/wd-pointerevents3-20231120.yaml
 - :id:
     :code: WGSL
     :stage: WD
@@ -26893,6 +26803,96 @@
     :stage: WD
     :date: '20231122'
   :file: data/wd-paint-timing-20231122.yaml
+- :id:
+    :code: permissions
+    :stage: WD
+    :date: '20231122'
+  :file: data/wd-permissions-20231122.yaml
+- :id:
+    :code: generic-sensor
+    :stage: CRD
+    :date: '20231122'
+  :file: data/crd-generic-sensor-20231122.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20231122'
+  :file: data/wd-pointerevents3-20231122.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20231123'
+  :file: data/wd-vc-bitstring-status-list-20231123.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20231123'
+  :file: data/wd-webcodecs-20231123.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-avc-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-aac-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-flac-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-opus-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-av1-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20231123.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20231123'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20231123.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -26954,9 +26954,6 @@
 - :id:
     :code: trace-context-2
   :file: data/trace-context-2.yaml
-- :id:
-    :code: vc-status-list
-  :file: data/vc-status-list.yaml
 - :id:
     :code: badging
   :file: data/badging.yaml
@@ -27094,9 +27091,6 @@
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
 - :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
-- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
@@ -27111,6 +27105,12 @@
 - :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

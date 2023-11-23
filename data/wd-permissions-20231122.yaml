@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-permissions-20231119
+id: W3CWD-permissions-20231122
 title:
 - content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-permissions-20231119/
+- content: https://www.w3.org/TR/2023/WD-permissions-20231122/
   type: src
 - content: https://w3c.github.io/permissions/
   type: current
 type: standard
 docid:
-- id: W3C WD-permissions-20231119
+- id: W3C WD-permissions-20231122
   type: W3C
   primary: true
-docnumber: WD-permissions-20231119
+docnumber: WD-permissions-20231122
 date:
 - type: published
-  value: '2023-11-19'
+  value: '2023-11-22'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-19'
+revdate: '2023-11-22'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-permissions-20230613
+    id: W3CWD-permissions-20231119
     docid:
-    - id: W3C WD-permissions-20230613
+    - id: W3C WD-permissions-20231119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-permissions-20230613
+      content: W3C WD-permissions-20231119
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-permissions-20231119
+  number: WD-permissions-20231122
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

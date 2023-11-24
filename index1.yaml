@@ -26024,11 +26024,6 @@
     :date: '20230616'
   :file: data/wd-sparql12-service-description-20230616.yaml
 - :id:
-    :code: imsc-hrm
-    :stage: CR
-    :date: '20230622'
-  :file: data/cr-imsc-hrm-20230622.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230626'
@@ -26624,11 +26619,6 @@
     :date: '20231102'
   :file: data/crd-accelerometer-20231102.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20231102'
-  :file: data/wd-dapt-20231102.yaml
-- :id:
     :code: sparql12-protocol
     :stage: WD
     :date: '20231102'
@@ -26714,15 +26704,15 @@
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
-    :code: international-specs
-    :type: DNOTE
-    :date: '20231110'
-  :file: data/dnote-international-specs-20231110.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20231113'
   :file: data/wd-orientation-event-20231113.yaml
+- :id:
+    :code: international-specs
+    :type: DNOTE
+    :date: '20231110'
+  :file: data/dnote-international-specs-20231110.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26768,11 +26758,6 @@
     :stage: CRD
     :date: '20231120'
   :file: data/crd-mediacapture-streams-20231120.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231120'
-  :file: data/wd-wgsl-20231120.yaml
 - :id:
     :code: webgpu
     :stage: WD
@@ -26893,6 +26878,26 @@
     :type: DNOTE
     :date: '20231123'
   :file: data/dnote-webcodecs-hevc-codec-registration-20231123.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20231123'
+  :file: data/wd-wgsl-20231123.yaml
+- :id:
+    :code: imsc-hrm
+    :stage: CRD
+    :date: '20231123'
+  :file: data/crd-imsc-hrm-20231123.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20231123'
+  :file: data/wd-dapt-20231123.yaml
+- :id:
+    :code: mlreq
+    :type: DNOTE
+    :date: '20231124'
+  :file: data/dnote-mlreq-20231124.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27067,9 +27072,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :id:
@@ -27111,6 +27113,9 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

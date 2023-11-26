@@ -1,38 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-data-model-2.0-20231104
+id: W3CWD-vc-jose-cose-20231125
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-vc-data-model-2.0-20231104/
+- content: https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-data-model-2.0-20231104
+- id: W3C WD-vc-jose-cose-20231125
   type: W3C
   primary: true
-docnumber: WD-vc-data-model-2.0-20231104
+docnumber: WD-vc-jose-cose-20231125
 date:
 - type: published
-  value: '2023-11-04'
+  value: '2023-11-25'
 contributor:
 - person:
     name:
       completename:
         content: Gabe Cohen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Manu Sporny
         language:
         - en
         script:
@@ -52,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Oliver Terbu
+        content: Michael Prorock
         language:
         - en
         script:
@@ -69,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-04'
+revdate: '2023-11-25'
 language:
 - en
 script:
@@ -80,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20231101
+    id: W3CWD-vc-jose-cose-20231117
     docid:
-    - id: W3C WD-vc-data-model-2.0-20231101
+    - id: W3C WD-vc-jose-cose-20231117
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20231101
+      content: W3C WD-vc-jose-cose-20231117
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-data-model-2.0-20231104
+  number: WD-vc-jose-cose-20231125
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

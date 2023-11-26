@@ -26644,11 +26644,6 @@
     :date: '20231103'
   :file: data/wd-orientation-sensor-20231103.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231104'
-  :file: data/wd-vc-data-model-2.0-20231104.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20231104'
@@ -26704,15 +26699,15 @@
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231113'
-  :file: data/wd-orientation-event-20231113.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231110'
   :file: data/dnote-international-specs-20231110.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231113'
+  :file: data/wd-orientation-event-20231113.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26748,11 +26743,6 @@
     :stage: WD
     :date: '20231115'
   :file: data/wd-webrtc-svc-20231115.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231117'
-  :file: data/wd-vc-jose-cose-20231117.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -26898,6 +26888,16 @@
     :stage: WD
     :date: '20231124'
   :file: data/wd-wgsl-20231124.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231125'
+  :file: data/wd-vc-jose-cose-20231125.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231126'
+  :file: data/wd-vc-data-model-2.0-20231126.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27075,9 +27075,6 @@
     :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :id:
@@ -27092,9 +27089,6 @@
 - :id:
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
-- :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
@@ -27116,6 +27110,12 @@
 - :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

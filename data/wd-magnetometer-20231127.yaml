@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-ambient-light-20231020
+id: W3CWD-magnetometer-20231127
 title:
-- content: Ambient Light Sensor
+- content: Magnetometer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-ambient-light-20231020/
+- content: https://www.w3.org/TR/2023/WD-magnetometer-20231127/
   type: src
-- content: https://w3c.github.io/ambient-light/
+- content: https://w3c.github.io/magnetometer/
   type: current
 type: standard
 docid:
-- id: W3C WD-ambient-light-20231020
+- id: W3C WD-magnetometer-20231127
   type: W3C
   primary: true
-docnumber: WD-ambient-light-20231020
+docnumber: WD-magnetometer-20231127
 date:
 - type: published
-  value: '2023-10-20'
+  value: '2023-11-27'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-20'
+revdate: '2023-11-27'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-ambient-light-20230721
+    id: W3CWD-magnetometer-20231026
     docid:
-    - id: W3C WD-ambient-light-20230721
+    - id: W3C WD-magnetometer-20231026
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-ambient-light-20230721
+      content: W3C WD-magnetometer-20231026
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-ambient-light-20231020
+  number: WD-magnetometer-20231127
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

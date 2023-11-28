@@ -26509,11 +26509,6 @@
     :date: '20231020'
   :file: data/wd-css-text-4-20231020.yaml
 - :id:
-    :code: ambient-light
-    :stage: WD
-    :date: '20231020'
-  :file: data/wd-ambient-light-20231020.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20231020'
@@ -26543,21 +26538,6 @@
     :type: DNOTE
     :date: '20231026'
   :file: data/dnote-w3c-vision-20231026.yaml
-- :id:
-    :code: proximity
-    :stage: WD
-    :date: '20231026'
-  :file: data/wd-proximity-20231026.yaml
-- :id:
-    :code: magnetometer
-    :stage: WD
-    :date: '20231026'
-  :file: data/wd-magnetometer-20231026.yaml
-- :id:
-    :code: geolocation-sensor
-    :stage: WD
-    :date: '20231026'
-  :file: data/wd-geolocation-sensor-20231026.yaml
 - :id:
     :code: webnn
     :stage: CRD
@@ -26634,11 +26614,6 @@
     :date: '20231103'
   :file: data/rec-html-aria-20231103.yaml
 - :id:
-    :code: orientation-sensor
-    :stage: WD
-    :date: '20231103'
-  :file: data/wd-orientation-sensor-20231103.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20231104'
@@ -26694,15 +26669,15 @@
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
-    :code: international-specs
-    :type: DNOTE
-    :date: '20231110'
-  :file: data/dnote-international-specs-20231110.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20231113'
   :file: data/wd-orientation-event-20231113.yaml
+- :id:
+    :code: international-specs
+    :type: DNOTE
+    :date: '20231110'
+  :file: data/dnote-international-specs-20231110.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26898,6 +26873,36 @@
     :stage: WD
     :date: '20231126'
   :file: data/wd-longtasks-1-20231126.yaml
+- :id:
+    :code: mathml-core
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-mathml-core-20231127.yaml
+- :id:
+    :code: magnetometer
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-magnetometer-20231127.yaml
+- :id:
+    :code: ambient-light
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-ambient-light-20231127.yaml
+- :id:
+    :code: geolocation-sensor
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-geolocation-sensor-20231127.yaml
+- :id:
+    :code: proximity
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-proximity-20231127.yaml
+- :id:
+    :code: orientation-sensor
+    :stage: WD
+    :date: '20231128'
+  :file: data/wd-orientation-sensor-20231128.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

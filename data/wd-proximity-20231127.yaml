@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-magnetometer-20231026
+id: W3CWD-proximity-20231127
 title:
-- content: Magnetometer
+- content: Proximity Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-magnetometer-20231026/
+- content: https://www.w3.org/TR/2023/WD-proximity-20231127/
   type: src
-- content: https://w3c.github.io/magnetometer/
+- content: https://w3c.github.io/proximity/
   type: current
 type: standard
 docid:
-- id: W3C WD-magnetometer-20231026
+- id: W3C WD-proximity-20231127
   type: W3C
   primary: true
-docnumber: WD-magnetometer-20231026
+docnumber: WD-proximity-20231127
 date:
 - type: published
-  value: '2023-10-26'
+  value: '2023-11-27'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-26'
+revdate: '2023-11-27'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-magnetometer-20231025
+    id: W3CWD-proximity-20231026
     docid:
-    - id: W3C WD-magnetometer-20231025
+    - id: W3C WD-proximity-20231026
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-magnetometer-20231025
+      content: W3C WD-proximity-20231026
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-magnetometer-20231026
+  number: WD-proximity-20231127
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

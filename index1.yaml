@@ -26589,11 +26589,6 @@
     :date: '20231101'
   :file: data/dnote-clreq-20231101.yaml
 - :id:
-    :code: accelerometer
-    :stage: CRD
-    :date: '20231102'
-  :file: data/crd-accelerometer-20231102.yaml
-- :id:
     :code: sparql12-protocol
     :stage: WD
     :date: '20231102'
@@ -26669,15 +26664,15 @@
     :date: '20231110'
   :file: data/crd-secure-contexts-20231110.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231113'
-  :file: data/wd-orientation-event-20231113.yaml
-- :id:
     :code: international-specs
     :type: DNOTE
     :date: '20231110'
   :file: data/dnote-international-specs-20231110.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231113'
+  :file: data/wd-orientation-event-20231113.yaml
 - :id:
     :code: media-source-2
     :stage: WD
@@ -26703,11 +26698,6 @@
     :stage: WD
     :date: '20231114'
   :file: data/wd-viss2-transport-20231114.yaml
-- :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20231115'
-  :file: data/wd-appmanifest-20231115.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
@@ -26903,6 +26893,16 @@
     :stage: WD
     :date: '20231128'
   :file: data/wd-orientation-sensor-20231128.yaml
+- :id:
+    :code: accelerometer
+    :stage: CRD
+    :date: '20231128'
+  :file: data/crd-accelerometer-20231128.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20231129'
+  :file: data/wd-appmanifest-20231129.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

@@ -26574,11 +26574,6 @@
     :date: '20231030'
   :file: data/wd-dpub-aria-1.1-20231030.yaml
 - :id:
-    :code: rdf-canon
-    :stage: CR
-    :date: '20231031'
-  :file: data/cr-rdf-canon-20231031.yaml
-- :id:
     :code: fetch-metadata
     :stage: WD
     :date: '20231031'
@@ -26904,6 +26899,11 @@
     :date: '20231129'
   :file: data/wd-appmanifest-20231129.yaml
 - :id:
+    :code: rdf-canon
+    :stage: CRD
+    :date: '20231130'
+  :file: data/crd-rdf-canon-20231130.yaml
+- :id:
     :code: vc-di-bbs
     :stage: WD
     :date: '20231104'
@@ -27074,9 +27074,6 @@
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :id:
@@ -27121,6 +27118,9 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

@@ -26129,16 +26129,6 @@
     :date: '20230724'
   :file: data/wd-wcag-3.0-20230724.yaml
 - :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20230728'
-  :file: data/wd-sparql12-results-json-20230728.yaml
-- :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20230728'
-  :file: data/wd-sparql12-results-xml-20230728.yaml
-- :id:
     :code: webrtc-stats
     :stage: CRD
     :date: '20230804'
@@ -26849,11 +26839,6 @@
     :date: '20231125'
   :file: data/wd-vc-jose-cose-20231125.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231126'
-  :file: data/wd-vc-data-model-2.0-20231126.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20231126'
@@ -26903,6 +26888,21 @@
     :stage: CRD
     :date: '20231130'
   :file: data/crd-rdf-canon-20231130.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231130'
+  :file: data/wd-vc-data-model-2.0-20231130.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20231130'
+  :file: data/wd-sparql12-results-json-20231130.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20231130'
+  :file: data/wd-sparql12-results-xml-20231130.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27001,12 +27001,6 @@
 - :id:
     :code: kore-gap
   :file: data/kore-gap.yaml
-- :id:
-    :code: sparql12-results-json
-  :file: data/sparql12-results-json.yaml
-- :id:
-    :code: sparql12-results-xml
-  :file: data/sparql12-results-xml.yaml
 - :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
@@ -27116,11 +27110,17 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
+    :code: sparql12-results-json
+  :file: data/sparql12-results-json.yaml
+- :id:
+    :code: sparql12-results-xml
+  :file: data/sparql12-results-xml.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

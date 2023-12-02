@@ -26724,11 +26724,6 @@
     :date: '20231122'
   :file: data/wd-paint-timing-20231122.yaml
 - :id:
-    :code: permissions
-    :stage: WD
-    :date: '20231122'
-  :file: data/wd-permissions-20231122.yaml
-- :id:
     :code: generic-sensor
     :stage: CRD
     :date: '20231122'
@@ -26834,11 +26829,6 @@
     :date: '20231124'
   :file: data/wd-wgsl-20231124.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231125'
-  :file: data/wd-vc-jose-cose-20231125.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20231126'
@@ -26903,6 +26893,16 @@
     :stage: WD
     :date: '20231130'
   :file: data/wd-sparql12-results-xml-20231130.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231201'
+  :file: data/wd-vc-jose-cose-20231201.yaml
+- :id:
+    :code: permissions
+    :stage: WD
+    :date: '20231201'
+  :file: data/wd-permissions-20231201.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27107,9 +27107,6 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -27121,6 +27118,9 @@
 - :id:
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

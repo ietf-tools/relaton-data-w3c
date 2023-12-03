@@ -26879,11 +26879,6 @@
     :date: '20231130'
   :file: data/crd-rdf-canon-20231130.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20231130'
-  :file: data/wd-vc-data-model-2.0-20231130.yaml
-- :id:
     :code: sparql12-results-json
     :stage: WD
     :date: '20231130'
@@ -26903,6 +26898,11 @@
     :stage: WD
     :date: '20231201'
   :file: data/wd-permissions-20231201.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20231202'
+  :file: data/wd-vc-data-model-2.0-20231202.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27110,9 +27110,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
 - :id:
@@ -27121,6 +27118,9 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

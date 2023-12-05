@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-wot-thing-description11-20230711
+    id: W3CREC-wot-thing-description11-20231205
     docid:
-    - id: W3C PR-wot-thing-description11-20230711
+    - id: W3C REC-wot-thing-description11-20231205
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-wot-thing-description11-20230711
+      content: W3C REC-wot-thing-description11-20231205
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +63,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: wot-thing-description11
 doctype: technicalReport

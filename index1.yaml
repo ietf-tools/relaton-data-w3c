@@ -26074,21 +26074,6 @@
     :date: '20230709'
   :file: data/rec-html-aria-20230709.yaml
 - :id:
-    :code: wot-architecture11
-    :stage: PR
-    :date: '20230711'
-  :file: data/pr-wot-architecture11-20230711.yaml
-- :id:
-    :code: wot-thing-description11
-    :stage: PR
-    :date: '20230711'
-  :file: data/pr-wot-thing-description11-20230711.yaml
-- :id:
-    :code: wot-discovery
-    :stage: PR
-    :date: '20230711'
-  :file: data/pr-wot-discovery-20230711.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230712'
@@ -26248,11 +26233,6 @@
     :stage: WD
     :date: '20230914'
   :file: data/wd-css-page-3-20230914.yaml
-- :id:
-    :code: uievents
-    :stage: WD
-    :date: '20230915'
-  :file: data/wd-uievents-20230915.yaml
 - :id:
     :code: sdw-bp
     :type: DNOTE
@@ -26579,11 +26559,6 @@
     :date: '20231102'
   :file: data/wd-sparql12-protocol-20231102.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20231102'
-  :file: data/wd-html-aam-1.0-20231102.yaml
-- :id:
     :code: core-aam-1.2
     :stage: CRD
     :date: '20231102'
@@ -26683,11 +26658,6 @@
     :stage: CRD
     :date: '20231120'
   :file: data/crd-mediacapture-streams-20231120.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231120'
-  :file: data/wd-webgpu-20231120.yaml
 - :id:
     :code: vc-data-integrity
     :stage: CR
@@ -26814,11 +26784,6 @@
     :date: '20231124'
   :file: data/dnote-mlreq-20231124.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231124'
-  :file: data/wd-wgsl-20231124.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20231126'
@@ -26879,11 +26844,6 @@
     :date: '20231130'
   :file: data/wd-sparql12-results-xml-20231130.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231201'
-  :file: data/wd-vc-jose-cose-20231201.yaml
-- :id:
     :code: permissions
     :stage: WD
     :date: '20231201'
@@ -26899,10 +26859,50 @@
     :date: '20231204'
   :file: data/wd-media-source-2-20231204.yaml
 - :id:
-    :code: orientation-event
+    :code: html-aam-1.0
     :stage: WD
     :date: '20231204'
-  :file: data/wd-orientation-event-20231204.yaml
+  :file: data/wd-html-aam-1.0-20231204.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20231204'
+  :file: data/wd-vc-jose-cose-20231204.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20231204'
+  :file: data/wd-webgpu-20231204.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20231204'
+  :file: data/wd-wgsl-20231204.yaml
+- :id:
+    :code: uievents
+    :stage: WD
+    :date: '20231204'
+  :file: data/wd-uievents-20231204.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20231205'
+  :file: data/wd-orientation-event-20231205.yaml
+- :id:
+    :code: wot-discovery
+    :stage: REC
+    :date: '20231205'
+  :file: data/rec-wot-discovery-20231205.yaml
+- :id:
+    :code: wot-thing-description11
+    :stage: REC
+    :date: '20231205'
+  :file: data/rec-wot-thing-description11-20231205.yaml
+- :id:
+    :code: wot-architecture11
+    :stage: REC
+    :date: '20231205'
+  :file: data/rec-wot-architecture11-20231205.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -27116,11 +27116,11 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

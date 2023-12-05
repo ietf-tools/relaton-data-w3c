@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-wot-discovery-20230711
+id: W3CREC-wot-discovery-20231205
 title:
 - content: Web of Things (WoT) Discovery
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/PR-wot-discovery-20230711/
+- content: https://www.w3.org/TR/2023/REC-wot-discovery-20231205/
   type: src
 - content: https://w3c.github.io/wot-discovery/
   type: current
 type: standard
 docid:
-- id: W3C PR-wot-discovery-20230711
+- id: W3C REC-wot-discovery-20231205
   type: W3C
   primary: true
-docnumber: PR-wot-discovery-20230711
+docnumber: REC-wot-discovery-20231205
 date:
 - type: published
-  value: '2023-07-11'
+  value: '2023-12-05'
 contributor:
 - person:
     name:
@@ -59,30 +59,43 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-11'
+revdate: '2023-12-05'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-wot-discovery-20230119
+    id: W3CPR-wot-discovery-20230711
     docid:
-    - id: W3C CR-wot-discovery-20230119
+    - id: W3C PR-wot-discovery-20230711
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-wot-discovery-20230119
+      content: W3C PR-wot-discovery-20230711
       format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3Cwot-discovery-errata
+    docid:
+    - id: W3C wot-discovery/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-discovery/errata
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-wot-discovery-20230711
+  number: REC-wot-discovery-20231205
 doctype: technicalReport
 editorialgroup:
 - name: Web of Things Working Group

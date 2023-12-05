@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-wot-architecture11-20230711
+id: W3CREC-wot-architecture11-20231205
 title:
 - content: Web of Things (WoT) Architecture 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/PR-wot-architecture11-20230711/
+- content: https://www.w3.org/TR/2023/REC-wot-architecture11-20231205/
   type: src
 - content: https://w3c.github.io/wot-architecture/
   type: current
 type: standard
 docid:
-- id: W3C PR-wot-architecture11-20230711
+- id: W3C REC-wot-architecture11-20231205
   type: W3C
   primary: true
-docnumber: PR-wot-architecture11-20230711
+docnumber: REC-wot-architecture11-20231205
 date:
 - type: published
-  value: '2023-07-11'
+  value: '2023-12-05'
 contributor:
 - person:
     name:
@@ -59,30 +59,43 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-11'
+revdate: '2023-12-05'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-wot-architecture11-20230119
+    id: W3CPR-wot-architecture11-20230711
     docid:
-    - id: W3C CR-wot-architecture11-20230119
+    - id: W3C PR-wot-architecture11-20230711
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-wot-architecture11-20230119
+      content: W3C PR-wot-architecture11-20230711
       format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3Cwot-architecture-errata11
+    docid:
+    - id: W3C wot-architecture/errata11
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C wot-architecture/errata11
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-wot-architecture11-20230711
+  number: REC-wot-architecture11-20231205
 doctype: technicalReport
 editorialgroup:
 - name: Web of Things Working Group

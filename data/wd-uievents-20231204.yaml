@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20231120
+id: W3CWD-uievents-20231204
 title:
-- content: WebGPU
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20231120/
+- content: https://www.w3.org/TR/2023/WD-uievents-20231204/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/uievents/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20231120
+- id: W3C WD-uievents-20231204
   type: W3C
   primary: true
-docnumber: WD-webgpu-20231120
+docnumber: WD-uievents-20231204
 date:
 - type: published
-  value: '2023-11-20'
+  value: '2023-12-04'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-11-20'
+revdate: '2023-12-04'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20231115
+    id: W3CWD-uievents-20230915
     docid:
-    - id: W3C WD-webgpu-20231115
+    - id: W3C WD-uievents-20230915
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20231115
+      content: W3C WD-uievents-20230915
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20231120
+  number: WD-uievents-20231204
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

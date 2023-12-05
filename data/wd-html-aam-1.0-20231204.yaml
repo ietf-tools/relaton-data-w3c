@@ -1,45 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-uievents-20230915
+id: W3CWD-html-aam-1.0-20231204
 title:
-- content: UI Events
+- content: HTML Accessibility API Mappings 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-uievents-20230915/
+- content: https://www.w3.org/TR/2023/WD-html-aam-1.0-20231204/
   type: src
-- content: https://w3c.github.io/uievents/
+- content: https://w3c.github.io/html-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-uievents-20230915
+- id: W3C WD-html-aam-1.0-20231204
   type: W3C
   primary: true
-docnumber: WD-uievents-20230915
+docnumber: WD-html-aam-1.0-20231204
 date:
 - type: published
-  value: '2023-09-15'
+  value: '2023-12-04'
 contributor:
 - person:
     name:
       completename:
-        content: Gary Kacmarcik
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Travis Leithead
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-09-15'
+revdate: '2023-12-04'
 language:
 - en
 script:
@@ -50,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20230823
+    id: W3CWD-html-aam-1.0-20231102
     docid:
-    - id: W3C WD-uievents-20230823
+    - id: W3C WD-html-aam-1.0-20231102
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20230823
+      content: W3C WD-html-aam-1.0-20231102
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-uievents-20230915
+  number: WD-html-aam-1.0-20231204
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

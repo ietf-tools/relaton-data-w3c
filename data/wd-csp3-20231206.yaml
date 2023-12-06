@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20231204
+id: W3CWD-CSP3-20231206
 title:
-- content: WebGPU
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webgpu-20231204/
+- content: https://www.w3.org/TR/2023/WD-CSP3-20231206/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20231204
+- id: W3C WD-CSP3-20231206
   type: W3C
   primary: true
-docnumber: WD-webgpu-20231204
+docnumber: WD-CSP3-20231206
 date:
 - type: published
-  value: '2023-12-04'
+  value: '2023-12-06'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Kai Ninomiya
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-12-04'
+revdate: '2023-12-06'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20231120
+    id: W3CWD-CSP3-20231030
     docid:
-    - id: W3C WD-webgpu-20231120
+    - id: W3C WD-CSP3-20231030
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20231120
+      content: W3C WD-CSP3-20231030
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20231204
+  number: WD-CSP3-20231206
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

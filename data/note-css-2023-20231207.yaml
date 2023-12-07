@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-css-2023-20230214
+id: W3CNOTE-css-2023-20231207
 title:
 - content: CSS Snapshot 2023
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-css-2023-20230214/
+- content: https://www.w3.org/TR/2023/NOTE-css-2023-20231207/
   type: src
 - content: https://drafts.csswg.org/css-2023/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-css-2023-20230214
+- id: W3C NOTE-css-2023-20231207
   type: W3C
   primary: true
-docnumber: DNOTE-css-2023-20230214
+docnumber: NOTE-css-2023-20231207
 date:
 - type: published
-  value: '2023-02-14'
+  value: '2023-12-07'
 contributor:
 - person:
     name:
@@ -59,16 +59,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-02-14'
+revdate: '2023-12-07'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-css-2023-20230214
+    docid:
+    - id: W3C DNOTE-css-2023-20230214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-css-2023-20230214
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-css-2023-20230214
+  number: NOTE-css-2023-20231207
 doctype: groupNote
 editorialgroup:
 - name: Cascading Style Sheets Working Group

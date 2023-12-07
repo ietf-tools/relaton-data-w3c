@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-localizable-manifests-20231206
+    docid:
+    - id: W3C DNOTE-localizable-manifests-20231206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-localizable-manifests-20231206
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-localizable-manifests-20210824
     docid:
@@ -33,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: localizable-manifests
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

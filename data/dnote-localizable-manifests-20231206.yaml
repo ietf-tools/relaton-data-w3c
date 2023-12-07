@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-localizable-manifests-20231206
+title:
+- content: Developing Localizable Manifests
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-localizable-manifests-20231206/
+  type: src
+- content: https://w3c.github.io/localizable-manifests
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-localizable-manifests-20231206
+  type: W3C
+  primary: true
+docnumber: DNOTE-localizable-manifests-20231206
+date:
+- type: published
+  value: '2023-12-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-12-06'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-localizable-manifests-20210824
+    docid:
+    - id: W3C WD-localizable-manifests-20210824
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-localizable-manifests-20210824
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-localizable-manifests-20231206
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

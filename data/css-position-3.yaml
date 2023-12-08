@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-position-3-20211216
-    docid:
-    - id: W3C WD-css-position-3-20211216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-position-3-20211216
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-position-3-20160517
     docid:
     - id: W3C WD-css-position-3-20160517
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-position-3-20160517
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-position-3-20211216
+    docid:
+    - id: W3C WD-css-position-3-20211216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-position-3-20211216
       format: text/plain
 series:
 - title:

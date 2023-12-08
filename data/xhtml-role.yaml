@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xhtml-role-20061113
-    docid:
-    - id: W3C WD-xhtml-role-20061113
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xhtml-role-20061113
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xhtml-role-20080407
     docid:
     - id: W3C WD-xhtml-role-20080407
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xhtml-role-20080407
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml-role-20061113
+    docid:
+    - id: W3C WD-xhtml-role-20061113
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-role-20061113
       format: text/plain
 - type: hasEdition
   bibitem:

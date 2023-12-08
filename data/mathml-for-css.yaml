@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-mathml-for-css-20100810
-    docid:
-    - id: W3C PR-mathml-for-css-20100810
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-mathml-for-css-20100810
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mathml-for-css-20071214
     docid:
     - id: W3C WD-mathml-for-css-20071214
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mathml-for-css-20071214
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-mathml-for-css-20100810
+    docid:
+    - id: W3C PR-mathml-for-css-20100810
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-mathml-for-css-20100810
       format: text/plain
 series:
 - title:

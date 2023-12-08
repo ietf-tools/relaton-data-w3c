@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf-sparql-query-20041012
-    docid:
-    - id: W3C WD-rdf-sparql-query-20041012
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf-sparql-query-20041012
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdf-sparql-query-20050721
     docid:
     - id: W3C WD-rdf-sparql-query-20050721
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-rdf-sparql-query-20050721
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-sparql-query-20041012
+    docid:
+    - id: W3C WD-rdf-sparql-query-20041012
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-sparql-query-20041012
       format: text/plain
 - type: hasEdition
   bibitem:

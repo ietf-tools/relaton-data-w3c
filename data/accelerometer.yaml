@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-accelerometer-20211208
-    docid:
-    - id: W3C CRD-accelerometer-20211208
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-accelerometer-20211208
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-accelerometer-20180320
     docid:
     - id: W3C CR-accelerometer-20180320
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-accelerometer-20171018
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-accelerometer-20211208
+    docid:
+    - id: W3C CRD-accelerometer-20211208
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-accelerometer-20211208
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-encrypted-media-20151130
-    docid:
-    - id: W3C WD-encrypted-media-20151130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-encrypted-media-20151130
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-encrypted-media-20131022
-    docid:
-    - id: W3C WD-encrypted-media-20131022
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-encrypted-media-20131022
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-encrypted-media-20140828
     docid:
     - id: W3C WD-encrypted-media-20140828
@@ -70,6 +50,26 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-encrypted-media-20160705
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-encrypted-media-20131022
+    docid:
+    - id: W3C WD-encrypted-media-20131022
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-encrypted-media-20131022
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-encrypted-media-20151130
+    docid:
+    - id: W3C WD-encrypted-media-20151130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-encrypted-media-20151130
       format: text/plain
 series:
 - title:

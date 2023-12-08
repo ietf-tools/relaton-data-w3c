@@ -43,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xpath-functions-20041029
+    id: W3CWD-xpath-functions-20031112
     docid:
-    - id: W3C WD-xpath-functions-20041029
+    - id: W3C WD-xpath-functions-20031112
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xpath-functions-20041029
+      content: W3C WD-xpath-functions-20031112
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,26 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-xpath-functions-20061121
-    docid:
-    - id: W3C PR-xpath-functions-20061121
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-xpath-functions-20061121
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xpath-functions-20031112
-    docid:
-    - id: W3C WD-xpath-functions-20031112
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xpath-functions-20031112
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPER-xpath-functions-20090421
     docid:
     - id: W3C PER-xpath-functions-20090421
@@ -90,6 +70,26 @@ relation:
       primary: true
     formattedref:
       content: W3C PER-xpath-functions-20090421
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xpath-functions-20041029
+    docid:
+    - id: W3C WD-xpath-functions-20041029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xpath-functions-20041029
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-xpath-functions-20061121
+    docid:
+    - id: W3C PR-xpath-functions-20061121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-xpath-functions-20061121
       format: text/plain
 series:
 - title:

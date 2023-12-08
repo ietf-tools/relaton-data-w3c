@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-scxml-20110426
-    docid:
-    - id: W3C WD-scxml-20110426
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20110426
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-scxml-20050705
     docid:
     - id: W3C WD-scxml-20050705
@@ -50,36 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-scxml-20050705
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20060124
-    docid:
-    - id: W3C WD-scxml-20060124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20060124
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20121206
-    docid:
-    - id: W3C WD-scxml-20121206
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20121206
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20130801
-    docid:
-    - id: W3C WD-scxml-20130801
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20130801
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,13 +63,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-scxml-20101216
+    id: W3CWD-scxml-20110426
     docid:
-    - id: W3C WD-scxml-20101216
+    - id: W3C WD-scxml-20110426
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-scxml-20101216
+      content: W3C WD-scxml-20110426
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20121206
+    docid:
+    - id: W3C WD-scxml-20121206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20121206
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20060124
+    docid:
+    - id: W3C WD-scxml-20060124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20060124
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -130,6 +110,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-scxml-20080516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20130801
+    docid:
+    - id: W3C WD-scxml-20130801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20130801
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20101216
+    docid:
+    - id: W3C WD-scxml-20101216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20101216
       format: text/plain
 series:
 - title:

@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-magnetometer-20211207
-    docid:
-    - id: W3C WD-magnetometer-20211207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-magnetometer-20211207
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-magnetometer-20180320
     docid:
     - id: W3C CR-magnetometer-20180320
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-magnetometer-20171018
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-magnetometer-20211207
+    docid:
+    - id: W3C WD-magnetometer-20211207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-magnetometer-20211207
       format: text/plain
 - type: hasEdition
   bibitem:

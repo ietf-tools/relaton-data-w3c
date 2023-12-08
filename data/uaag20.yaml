@@ -30,36 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UAAG20-20110719
-    docid:
-    - id: W3C WD-UAAG20-20110719
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20110719
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-UAAG20-20121004
-    docid:
-    - id: W3C WD-UAAG20-20121004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20121004
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-UAAG20-20131107
-    docid:
-    - id: W3C WD-UAAG20-20131107
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-UAAG20-20131107
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-UAAG20-20140925
     docid:
     - id: W3C WD-UAAG20-20140925
@@ -80,13 +50,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-UAAG20-20100617
+    id: W3CWD-UAAG20-20110719
     docid:
-    - id: W3C WD-UAAG20-20100617
+    - id: W3C WD-UAAG20-20110719
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-UAAG20-20100617
+      content: W3C WD-UAAG20-20110719
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20121004
+    docid:
+    - id: W3C WD-UAAG20-20121004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20121004
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -97,6 +77,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-UAAG20-20080312
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20131107
+    docid:
+    - id: W3C WD-UAAG20-20131107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20131107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-UAAG20-20100617
+    docid:
+    - id: W3C WD-UAAG20-20100617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-UAAG20-20100617
       format: text/plain
 series:
 - title:

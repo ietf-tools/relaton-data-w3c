@@ -26464,11 +26464,6 @@
     :date: '20231020'
   :file: data/wd-css-text-4-20231020.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20231020'
-  :file: data/wd-sparql12-query-20231020.yaml
-- :id:
     :code: miniapp-packaging
     :stage: WD
     :date: '20231023'
@@ -26498,11 +26493,6 @@
     :stage: WD
     :date: '20231026'
   :file: data/wd-image-capture-20231026.yaml
-- :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20231026'
-  :file: data/dnote-webrtc-nv-use-cases-20231026.yaml
 - :id:
     :code: screen-capture
     :stage: WD
@@ -26909,6 +26899,16 @@
     :date: '20231207'
   :file: data/wd-webrtc-encoded-transform-20231207.yaml
 - :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20231208'
+  :file: data/wd-sparql12-query-20231208.yaml
+- :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20231208'
+  :file: data/dnote-webrtc-nv-use-cases-20231208.yaml
+- :id:
     :code: vc-di-bbs
     :stage: WD
     :date: '20231104'
@@ -27060,9 +27060,6 @@
     :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
     :code: ctaur
   :file: data/ctaur.yaml
 - :id:
@@ -27126,6 +27123,9 @@
     :code: css
     :date: '2023'
   :file: data/css-2023.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webrtc-encoded-transform-20231207
+id: W3CWD-mediacapture-fromelement-20231212
 title:
-- content: WebRTC Encoded Transform
+- content: Media Capture from DOM Elements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231207/
+- content: https://www.w3.org/TR/2023/WD-mediacapture-fromelement-20231212/
   type: src
-- content: https://w3c.github.io/webrtc-encoded-transform/
+- content: https://w3c.github.io/mediacapture-fromelement/
   type: current
 type: standard
 docid:
-- id: W3C WD-webrtc-encoded-transform-20231207
+- id: W3C WD-mediacapture-fromelement-20231212
   type: W3C
   primary: true
-docnumber: WD-webrtc-encoded-transform-20231207
+docnumber: WD-mediacapture-fromelement-20231212
 date:
 - type: published
-  value: '2023-12-07'
+  value: '2023-12-12'
 contributor:
 - person:
     name:
       completename:
-        content: Guido Urdaneta
+        content: Emircan Uysaler
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Martin Thomson
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Miguel Casas-sanchez
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-07'
+revdate: '2023-12-12'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webrtc-encoded-transform-20231012
+    id: W3CWD-mediacapture-fromelement-20211115
     docid:
-    - id: W3C WD-webrtc-encoded-transform-20231012
+    - id: W3C WD-mediacapture-fromelement-20211115
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-encoded-transform-20231012
+      content: W3C WD-mediacapture-fromelement-20211115
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webrtc-encoded-transform-20231207
+  number: WD-mediacapture-fromelement-20231212
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

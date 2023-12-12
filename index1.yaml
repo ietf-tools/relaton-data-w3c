@@ -26864,11 +26864,6 @@
     :date: '20231207'
   :file: data/crd-gyroscope-20231207.yaml
 - :id:
-    :code: webrtc-encoded-transform
-    :stage: WD
-    :date: '20231207'
-  :file: data/wd-webrtc-encoded-transform-20231207.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20231208'
@@ -26908,6 +26903,16 @@
     :stage: WD
     :date: '20231211'
   :file: data/wd-orientation-event-20231211.yaml
+- :id:
+    :code: webrtc-encoded-transform
+    :stage: WD
+    :date: '20231212'
+  :file: data/wd-webrtc-encoded-transform-20231212.yaml
+- :id:
+    :code: mediacapture-fromelement
+    :stage: WD
+    :date: '20231212'
+  :file: data/wd-mediacapture-fromelement-20231212.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD

@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-alreq-20231212
+title:
+- content: Arabic & Persian Layout Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-alreq-20231212/
+  type: src
+- content: https://w3c.github.io/alreq/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-alreq-20231212
+  type: W3C
+  primary: true
+docnumber: DNOTE-alreq-20231212
+date:
+- type: published
+  value: '2023-12-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-12-12'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-alreq-20211026
+    docid:
+    - id: W3C WD-alreq-20211026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-alreq-20211026
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-alreq-20231212
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver2-20231114
+id: W3CWD-webdriver2-20231213
 title:
 - content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webdriver2-20231114/
+- content: https://www.w3.org/TR/2023/WD-webdriver2-20231213/
   type: src
 - content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20231114
+- id: W3C WD-webdriver2-20231213
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20231114
+docnumber: WD-webdriver2-20231213
 date:
 - type: published
-  value: '2023-11-14'
+  value: '2023-12-13'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-14'
+revdate: '2023-12-13'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20230807
+    id: W3CWD-webdriver2-20231114
     docid:
-    - id: W3C WD-webdriver2-20230807
+    - id: W3C WD-webdriver2-20231114
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20230807
+      content: W3C WD-webdriver2-20231114
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver2-20231114
+  number: WD-webdriver2-20231213
 doctype: technicalReport
 editorialgroup:
 - name: Browser Testing and Tools Working Group

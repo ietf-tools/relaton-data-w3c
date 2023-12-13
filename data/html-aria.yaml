@@ -261,7 +261,7 @@ relation:
     formattedref:
       content: W3C REC-html-aria-20231004
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-html-aria-20231103
     docid:
@@ -270,6 +270,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-html-aria-20231103
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-html-aria-20231213
+    docid:
+    - id: W3C REC-html-aria-20231213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-html-aria-20231213
       format: text/plain
 - type: hasEdition
   bibitem:

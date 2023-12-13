@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Calreq
 title:
-- content: Text Layout Requirements for the Arabic Script
+- content: Arabic & Persian Layout Requirements
   format: text/plain
 link:
 - content: https://www.w3.org/TR/alreq/
@@ -17,19 +17,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-alreq-20211026
+    id: W3CDNOTE-alreq-20231212
     docid:
-    - id: W3C WD-alreq-20211026
+    - id: W3C DNOTE-alreq-20231212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-alreq-20211026
+      content: W3C DNOTE-alreq-20231212
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -51,11 +48,21 @@ relation:
     formattedref:
       content: W3C WD-alreq-20180222
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-alreq-20211026
+    docid:
+    - id: W3C WD-alreq-20211026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-alreq-20211026
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: alreq
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

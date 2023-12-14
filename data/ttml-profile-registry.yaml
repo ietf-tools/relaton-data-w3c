@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-ttml-profile-registry-20170117
-    docid:
-    - id: W3C NOTE-ttml-profile-registry-20170117
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-ttml-profile-registry-20170117
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-ttml-profile-registry-20161009
     docid:
     - id: W3C NOTE-ttml-profile-registry-20161009
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-ttml-profile-registry-20161009
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-ttml-profile-registry-20170117
+    docid:
+    - id: W3C NOTE-ttml-profile-registry-20170117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-ttml-profile-registry-20170117
       format: text/plain
 - type: hasEdition
   bibitem:

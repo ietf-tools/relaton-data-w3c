@@ -73,23 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-20111027
+    id: W3CWD-webrtc-20161124
     docid:
-    - id: W3C WD-webrtc-20111027
+    - id: W3C WD-webrtc-20161124
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-20111027
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-webrtc-20180927
-    docid:
-    - id: W3C CR-webrtc-20180927
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webrtc-20180927
+      content: W3C WD-webrtc-20161124
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,26 +93,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-20120821
-    docid:
-    - id: W3C WD-webrtc-20120821
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-20120821
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-20161124
-    docid:
-    - id: W3C WD-webrtc-20161124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-20161124
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-webrtc-20191213
     docid:
     - id: W3C CR-webrtc-20191213
@@ -130,6 +100,36 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-webrtc-20191213
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-webrtc-20180927
+    docid:
+    - id: W3C CR-webrtc-20180927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webrtc-20180927
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-20111027
+    docid:
+    - id: W3C WD-webrtc-20111027
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20111027
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-20120821
+    docid:
+    - id: W3C WD-webrtc-20120821
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20120821
       format: text/plain
 - type: hasEdition
   bibitem:

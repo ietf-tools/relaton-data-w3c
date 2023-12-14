@@ -23,16 +23,6 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-ATAG20-TECHS-20030314
-    docid:
-    - id: W3C WD-ATAG20-TECHS-20030314
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ATAG20-TECHS-20030314
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ATAG20-TECHS-20041122
     docid:
     - id: W3C WD-ATAG20-TECHS-20041122
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ATAG20-TECHS-20041122
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ATAG20-TECHS-20030314
+    docid:
+    - id: W3C WD-ATAG20-TECHS-20030314
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ATAG20-TECHS-20030314
       format: text/plain
 - type: hasEdition
   bibitem:

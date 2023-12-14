@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-mediaont-api-1.0-20111122
-    docid:
-    - id: W3C CR-mediaont-api-1.0-20111122
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-mediaont-api-1.0-20111122
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-mediaont-api-1.0-20131015
     docid:
     - id: W3C PR-mediaont-api-1.0-20131015
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediaont-api-1.0-20100608
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-mediaont-api-1.0-20111122
+    docid:
+    - id: W3C CR-mediaont-api-1.0-20111122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-mediaont-api-1.0-20111122
       format: text/plain
 series:
 - title:

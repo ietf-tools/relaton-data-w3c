@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-WCAG20-20030624
-    docid:
-    - id: W3C WD-WCAG20-20030624
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WCAG20-20030624
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-WCAG20-20050630
     docid:
     - id: W3C WD-WCAG20-20050630
@@ -50,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-WCAG20-20050630
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-WCAG20-20020822
-    docid:
-    - id: W3C WD-WCAG20-20020822
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-WCAG20-20020822
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-WCAG20-20030624
+    docid:
+    - id: W3C WD-WCAG20-20030624
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG20-20030624
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-WCAG20-20071211
     docid:
     - id: W3C WD-WCAG20-20071211
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-WCAG20-20071211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-WCAG20-20020822
+    docid:
+    - id: W3C WD-WCAG20-20020822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-WCAG20-20020822
       format: text/plain
 series:
 - title:

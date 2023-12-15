@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webrtc-stats-20230804
+id: W3CDNOTE-maturity-model-20231215
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: Accessibility Maturity Model
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/
+- content: https://www.w3.org/TR/2023/DNOTE-maturity-model-20231215/
   type: src
-- content: https://w3c.github.io/webrtc-stats/
+- content: https://w3c.github.io/maturity-model/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20230804
+- id: W3C DNOTE-maturity-model-20231215
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20230804
+docnumber: DNOTE-maturity-model-20231215
 date:
 - type: published
-  value: '2023-08-04'
+  value: '2023-12-15'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Charles LaPierre
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: David Fazio
         language:
         - en
         script:
@@ -42,39 +42,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Janina Sajka
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-04'
+revdate: '2023-12-15'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20230803
+    id: W3CDNOTE-maturity-model-20230824
     docid:
-    - id: W3C CRD-webrtc-stats-20230803
+    - id: W3C DNOTE-maturity-model-20230824
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20230803
+      content: W3C DNOTE-maturity-model-20230824
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-webrtc-stats-20230804
-doctype: technicalReport
+  number: DNOTE-maturity-model-20231215
+doctype: groupNote
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Accessible Platform Architectures
 ext:
   schema-version: v1.0.0

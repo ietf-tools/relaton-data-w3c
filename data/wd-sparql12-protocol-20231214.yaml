@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-maturity-model-20230824
+id: W3CWD-sparql12-protocol-20231214
 title:
-- content: W3C Accessibility Maturity Model
+- content: SPARQL 1.2 Protocol
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-maturity-model-20230824/
+- content: https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/
   type: src
-- content: https://w3c.github.io/maturity-model/
+- content: https://w3c.github.io/sparql-protocol/spec/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-maturity-model-20230824
+- id: W3C WD-sparql12-protocol-20231214
   type: W3C
   primary: true
-docnumber: DNOTE-maturity-model-20230824
+docnumber: WD-sparql12-protocol-20231214
 date:
 - type: published
-  value: '2023-08-24'
+  value: '2023-12-14'
 contributor:
 - person:
     name:
       completename:
-        content: Charles LaPierre
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Fazio
+        content: Gregory Williams
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Janina Sajka
+        content: Ruben Taelman
         language:
         - en
         script:
@@ -52,36 +52,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Sheri Byrne-Haber
+        content: Thomas Pellissier Tanon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-24'
+revdate: '2023-12-14'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-maturity-model-20220906
+    id: W3CWD-sparql12-protocol-20231102
     docid:
-    - id: W3C DNOTE-maturity-model-20220906
+    - id: W3C WD-sparql12-protocol-20231102
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-maturity-model-20220906
+      content: W3C WD-sparql12-protocol-20231102
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-maturity-model-20230824
-doctype: groupNote
-editorialgroup:
-- name: Accessible Platform Architectures
+  number: WD-sparql12-protocol-20231214
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

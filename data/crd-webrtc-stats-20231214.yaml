@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-protocol-20231102
+id: W3CCRD-webrtc-stats-20231214
 title:
-- content: SPARQL 1.2 Protocol
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-sparql12-protocol-20231102/
+- content: https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/
   type: src
-- content: https://w3c.github.io/sparql-protocol/spec/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-protocol-20231102
+- id: W3C CRD-webrtc-stats-20231214
   type: W3C
   primary: true
-docnumber: WD-sparql12-protocol-20231102
+docnumber: CRD-webrtc-stats-20231214
 date:
 - type: published
-  value: '2023-11-02'
+  value: '2023-12-14'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregory Williams
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,47 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Thomas Pellissier Tanon
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-11-02'
+revdate: '2023-12-14'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-protocol-20230616
+    id: W3CCRD-webrtc-stats-20230804
     docid:
-    - id: W3C WD-sparql12-protocol-20230616
+    - id: W3C CRD-webrtc-stats-20230804
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-protocol-20230616
+      content: W3C CRD-webrtc-stats-20230804
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-sparql12-protocol-20231102
+  number: CRD-webrtc-stats-20231214
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -26014,11 +26014,6 @@
     :date: '20230616'
   :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
 - :id:
-    :code: sparql12-service-description
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-service-description-20230616.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230626'
@@ -26109,11 +26104,6 @@
     :date: '20230724'
   :file: data/wd-wcag-3.0-20230724.yaml
 - :id:
-    :code: webrtc-stats
-    :stage: CRD
-    :date: '20230804'
-  :file: data/crd-webrtc-stats-20230804.yaml
-- :id:
     :code: java-gap
     :type: DNOTE
     :date: '20230807'
@@ -26158,11 +26148,6 @@
     :type: DNOTE
     :date: '20230822'
   :file: data/dnote-latn-ca-gap-20230822.yaml
-- :id:
-    :code: maturity-model
-    :type: DNOTE
-    :date: '20230824'
-  :file: data/dnote-maturity-model-20230824.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26474,11 +26459,6 @@
     :date: '20231026'
   :file: data/wd-image-capture-20231026.yaml
 - :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20231026'
-  :file: data/wd-screen-capture-20231026.yaml
-- :id:
     :code: css-values-4
     :stage: WD
     :date: '20231027'
@@ -26493,11 +26473,6 @@
     :type: DNOTE
     :date: '20231101'
   :file: data/dnote-clreq-20231101.yaml
-- :id:
-    :code: sparql12-protocol
-    :stage: WD
-    :date: '20231102'
-  :file: data/wd-sparql12-protocol-20231102.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
@@ -26834,11 +26809,6 @@
     :date: '20231208'
   :file: data/wd-sparql12-query-20231208.yaml
 - :id:
-    :code: webrtc-nv-use-cases
-    :type: DNOTE
-    :date: '20231208'
-  :file: data/dnote-webrtc-nv-use-cases-20231208.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20231210'
@@ -26894,11 +26864,6 @@
     :date: '20231212'
   :file: data/wd-webrtc-svc-20231212.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20231213'
-  :file: data/wd-webdriver2-20231213.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20231213'
@@ -26924,10 +26889,45 @@
     :date: '20231213'
   :file: data/crd-secure-payment-confirmation-20231213.yaml
 - :id:
+    :code: webrtc-nv-use-cases
+    :type: DNOTE
+    :date: '20231214'
+  :file: data/dnote-webrtc-nv-use-cases-20231214.yaml
+- :id:
+    :code: webrtc-stats
+    :stage: CRD
+    :date: '20231214'
+  :file: data/crd-webrtc-stats-20231214.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20231214'
+  :file: data/wd-screen-capture-20231214.yaml
+- :id:
+    :code: sparql12-protocol
+    :stage: WD
+    :date: '20231214'
+  :file: data/wd-sparql12-protocol-20231214.yaml
+- :id:
+    :code: sparql12-service-description
+    :stage: WD
+    :date: '20231214'
+  :file: data/wd-sparql12-service-description-20231214.yaml
+- :id:
     :code: vc-di-bbs
     :stage: WD
-    :date: '20231104'
-  :file: data/wd-vc-di-bbs-20231104.yaml
+    :date: '20231214'
+  :file: data/wd-vc-di-bbs-20231214.yaml
+- :id:
+    :code: maturity-model
+    :type: DNOTE
+    :date: '20231215'
+  :file: data/dnote-maturity-model-20231215.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20231215'
+  :file: data/wd-webdriver2-20231215.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27002,9 +27002,6 @@
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
-    :code: sparql12-service-description
-  :file: data/sparql12-service-description.yaml
-- :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
 - :id:
@@ -27026,9 +27023,6 @@
 - :id:
     :code: latn-ca-gap
   :file: data/latn-ca-gap.yaml
-- :id:
-    :code: maturity-model
-  :file: data/maturity-model.yaml
 - :id:
     :code: css-transitions-2
   :file: data/css-transitions-2.yaml
@@ -27080,9 +27074,6 @@
 - :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
-- :id:
-    :code: sparql12-protocol
-  :file: data/sparql12-protocol.yaml
 - :id:
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
@@ -27142,5 +27133,14 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
+    :code: sparql12-protocol
+  :file: data/sparql12-protocol.yaml
+- :id:
+    :code: sparql12-service-description
+  :file: data/sparql12-service-description.yaml
+- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
+- :id:
+    :code: maturity-model
+  :file: data/maturity-model.yaml

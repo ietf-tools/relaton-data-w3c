@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-a11y-exemption-20231003
+id: W3CNOTE-epub-a11y-exemption-20231215
 title:
 - content: The EPUB Accessibility exemption property
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231003/
+- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/a11y-exemption/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-exemption-20231003
+- id: W3C NOTE-epub-a11y-exemption-20231215
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-exemption-20231003
+docnumber: NOTE-epub-a11y-exemption-20231215
 date:
 - type: published
-  value: '2023-10-03'
+  value: '2023-12-15'
 contributor:
 - person:
     name:
@@ -39,16 +39,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-03'
+revdate: '2023-12-15'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-epub-a11y-exemption-20231003
+    docid:
+    - id: W3C NOTE-epub-a11y-exemption-20231003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-epub-a11y-exemption-20231003
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-a11y-exemption-20231003
+  number: NOTE-epub-a11y-exemption-20231215
 doctype: groupNote
 ext:
   schema-version: v1.0.0

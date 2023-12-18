@@ -26884,11 +26884,6 @@
     :date: '20231214'
   :file: data/wd-sparql12-service-description-20231214.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20231214'
-  :file: data/wd-vc-di-bbs-20231214.yaml
-- :id:
     :code: maturity-model
     :type: DNOTE
     :date: '20231215'
@@ -26928,6 +26923,11 @@
     :stage: WD
     :date: '20231217'
   :file: data/wd-vc-data-model-2.0-20231217.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20231218'
+  :file: data/wd-vc-di-bbs-20231218.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27130,9 +27130,6 @@
     :code: sparql12-service-description
   :file: data/sparql12-service-description.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: maturity-model
   :file: data/maturity-model.yaml
 - :id:
@@ -27144,3 +27141,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

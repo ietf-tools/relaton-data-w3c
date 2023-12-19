@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-vc-json-schema-20231121
+id: W3CCRD-css-images-3-20231218
 title:
-- content: Verifiable Credentials JSON Schema Specification
+- content: CSS Images Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CR-vc-json-schema-20231121/
+- content: https://www.w3.org/TR/2023/CRD-css-images-3-20231218/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://drafts.csswg.org/css-images-3/
   type: current
 type: standard
 docid:
-- id: W3C CR-vc-json-schema-20231121
+- id: W3C CRD-css-images-3-20231218
   type: W3C
   primary: true
-docnumber: CR-vc-json-schema-20231121
+docnumber: CRD-css-images-3-20231218
 date:
 - type: published
-  value: '2023-11-21'
+  value: '2023-12-18'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Lea Verou
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Orie Steele
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-11-21'
+revdate: '2023-12-18'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-json-schema-20231116
+    id: W3CCRD-css-images-3-20201217
     docid:
-    - id: W3C WD-vc-json-schema-20231116
+    - id: W3C CRD-css-images-3-20201217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-json-schema-20231116
+      content: W3C CRD-css-images-3-20201217
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-vc-json-schema-20231121
+  number: CRD-css-images-3-20231218
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-source-2-20231206
+id: W3CCRD-vc-json-schema-20231218
 title:
-- content: Media Source Extensions™
+- content: Verifiable Credentials JSON Schema Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-media-source-2-20231206/
+- content: https://www.w3.org/TR/2023/CRD-vc-json-schema-20231218/
   type: src
-- content: https://w3c.github.io/media-source/
+- content: https://w3c.github.io/vc-json-schema/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-source-2-20231206
+- id: W3C CRD-vc-json-schema-20231218
   type: W3C
   primary: true
-docnumber: WD-media-source-2-20231206
+docnumber: CRD-vc-json-schema-20231218
 date:
 - type: published
-  value: '2023-12-06'
+  value: '2023-12-18'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Andres Uribe
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Watson
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Matthew Wolenetz
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-06'
+revdate: '2023-12-18'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-source-2-20231204
+    id: W3CCR-vc-json-schema-20231121
     docid:
-    - id: W3C WD-media-source-2-20231204
+    - id: W3C CR-vc-json-schema-20231121
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-source-2-20231204
+      content: W3C CR-vc-json-schema-20231121
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-media-source-2-20231206
+  number: CRD-vc-json-schema-20231218
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

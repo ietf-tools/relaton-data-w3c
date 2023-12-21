@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-ssv-11-20230519
+id: W3CNOTE-epub-ssv-11-20231221
 title:
 - content: EPUB 3 Structural Semantics Vocabulary 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230519/
+- content: https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20231221/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/ssv/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-ssv-11-20230519
+- id: W3C NOTE-epub-ssv-11-20231221
   type: W3C
   primary: true
-docnumber: NOTE-epub-ssv-11-20230519
+docnumber: NOTE-epub-ssv-11-20231221
 date:
 - type: published
-  value: '2023-05-19'
+  value: '2023-12-21'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-19'
+revdate: '2023-12-21'
 language:
 - en
 script:
@@ -47,21 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-ssv-11-20230510
+    id: W3CNOTE-epub-ssv-11-20230519
     docid:
-    - id: W3C NOTE-epub-ssv-11-20230510
+    - id: W3C NOTE-epub-ssv-11-20230519
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-ssv-11-20230510
+      content: W3C NOTE-epub-ssv-11-20230519
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-ssv-11-20230519
+  number: NOTE-epub-ssv-11-20231221
 doctype: groupNote
-editorialgroup:
-- name: EPUB 3 Working Group
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webtransport-20230712
+id: W3CWD-webtransport-20231220
 title:
 - content: WebTransport
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webtransport-20230712/
+- content: https://www.w3.org/TR/2023/WD-webtransport-20231220/
   type: src
 - content: https://w3c.github.io/webtransport/
   type: current
 type: standard
 docid:
-- id: W3C WD-webtransport-20230712
+- id: W3C WD-webtransport-20231220
   type: W3C
   primary: true
-docnumber: WD-webtransport-20230712
+docnumber: WD-webtransport-20231220
 date:
 - type: published
-  value: '2023-07-12'
+  value: '2023-12-20'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-07-12'
+revdate: '2023-12-20'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webtransport-20230405
+    id: W3CWD-webtransport-20230712
     docid:
-    - id: W3C WD-webtransport-20230405
+    - id: W3C WD-webtransport-20230712
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20230405
+      content: W3C WD-webtransport-20230712
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webtransport-20230712
+  number: WD-webtransport-20231220
 doctype: technicalReport
 editorialgroup:
 - name: WebTransport Working Group

@@ -25814,36 +25814,6 @@
     :date: '20230516'
   :file: data/wd-selection-api-20230516.yaml
 - :id:
-    :code: epub-a11y-eaa-mapping
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-a11y-eaa-mapping-20230519.yaml
-- :id:
-    :code: epub-ssv-11
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-ssv-11-20230519.yaml
-- :id:
-    :code: epub-overview-33
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-overview-33-20230519.yaml
-- :id:
-    :code: epub-tts-10
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-tts-10-20230519.yaml
-- :id:
-    :code: epub-a11y-tech-11
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-a11y-tech-11-20230519.yaml
-- :id:
-    :code: epub-multi-rend-11
-    :type: NOTE
-    :date: '20230519'
-  :file: data/note-epub-multi-rend-11-20230519.yaml
-- :id:
     :code: epub-33
     :stage: REC
     :date: '20230525'
@@ -25954,15 +25924,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-geor-gap-20230614.yaml
-- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-hu-gap-20230614.yaml
+- :id:
+    :code: geor-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-geor-gap-20230614.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26063,11 +26033,6 @@
     :stage: WD
     :date: '20230712'
   :file: data/wd-mediacapture-region-20230712.yaml
-- :id:
-    :code: webtransport
-    :stage: WD
-    :date: '20230712'
-  :file: data/wd-webtransport-20230712.yaml
 - :id:
     :code: hr-time-3
     :stage: WD
@@ -26619,11 +26584,6 @@
     :date: '20231123'
   :file: data/dnote-webcodecs-hevc-codec-registration-20231123.yaml
 - :id:
-    :code: imsc-hrm
-    :stage: CRD
-    :date: '20231123'
-  :file: data/crd-imsc-hrm-20231123.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20231123'
@@ -26909,11 +26869,6 @@
     :date: '20231218'
   :file: data/crd-vc-json-schema-20231218.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20231218'
-  :file: data/wd-media-source-2-20231218.yaml
-- :id:
     :code: css-images-3
     :stage: CRD
     :date: '20231218'
@@ -26933,6 +26888,56 @@
     :stage: CRD
     :date: '20231219'
   :file: data/crd-css-backgrounds-3-20231219.yaml
+- :id:
+    :code: webtransport
+    :stage: WD
+    :date: '20231220'
+  :file: data/wd-webtransport-20231220.yaml
+- :id:
+    :code: imsc-hrm
+    :stage: CRD
+    :date: '20231220'
+  :file: data/crd-imsc-hrm-20231220.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20231221'
+  :file: data/wd-media-source-2-20231221.yaml
+- :id:
+    :code: epub-a11y-tech-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-a11y-tech-11-20231221.yaml
+- :id:
+    :code: epub-a11y-eaa-mapping
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-a11y-eaa-mapping-20231221.yaml
+- :id:
+    :code: epub-overview-33
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-overview-33-20231221.yaml
+- :id:
+    :code: epub-tts-10
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-tts-10-20231221.yaml
+- :id:
+    :code: epub-ssv-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20231221'
+  :file: data/rec-html-aria-20231221.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

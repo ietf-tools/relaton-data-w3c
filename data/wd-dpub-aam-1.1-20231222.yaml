@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-n-quads-20231019
+id: W3CWD-dpub-aam-1.1-20231222
 title:
-- content: RDF 1.2 N-Quads
+- content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231019/
+- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20231222/
   type: src
-- content: https://w3c.github.io/rdf-n-quads/spec/
+- content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-n-quads-20231019
+- id: W3C WD-dpub-aam-1.1-20231222
   type: W3C
   primary: true
-docnumber: WD-rdf12-n-quads-20231019
+docnumber: WD-dpub-aam-1.1-20231222
 date:
 - type: published
-  value: '2023-10-19'
+  value: '2023-12-22'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Tomaszuk
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-19'
+revdate: '2023-12-22'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-n-quads-20231013
+    id: W3CWD-dpub-aam-1.1-20231213
     docid:
-    - id: W3C WD-rdf12-n-quads-20231013
+    - id: W3C WD-dpub-aam-1.1-20231213
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-n-quads-20231013
+      content: W3C WD-dpub-aam-1.1-20231213
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-n-quads-20231019
+  number: WD-dpub-aam-1.1-20231222
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

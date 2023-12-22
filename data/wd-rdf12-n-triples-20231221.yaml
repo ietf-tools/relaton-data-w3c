@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aria-1.1-20231213
+id: W3CWD-rdf12-n-triples-20231221
 title:
-- content: Digital Publishing WAI-ARIA Module 1.1
+- content: RDF 1.2 N-Triples
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231213/
+- content: https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231221/
   type: src
-- content: https://w3c.github.io/dpub-aria/
+- content: https://w3c.github.io/rdf-n-triples/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20231213
+- id: W3C WD-rdf12-n-triples-20231221
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20231213
+docnumber: WD-rdf12-n-triples-20231221
 date:
 - type: published
-  value: '2023-12-13'
+  value: '2023-12-21'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-13'
+revdate: '2023-12-21'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20231030
+    id: W3CWD-rdf12-n-triples-20231104
     docid:
-    - id: W3C WD-dpub-aria-1.1-20231030
+    - id: W3C WD-rdf12-n-triples-20231104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aria-1.1-20231030
+      content: W3C WD-rdf12-n-triples-20231104
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aria-1.1-20231213
+  number: WD-rdf12-n-triples-20231221
 doctype: technicalReport
-editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

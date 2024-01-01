@@ -26884,11 +26884,6 @@
     :date: '20231221'
   :file: data/dnote-international-specs-20231221.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20231221'
-  :file: data/wd-vc-jose-cose-20231221.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20231221'
@@ -26938,6 +26933,11 @@
     :stage: CRD
     :date: '20231228'
   :file: data/crd-imsc-hrm-20231228.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240101'
+  :file: data/wd-vc-jose-cose-20240101.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27134,9 +27134,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
@@ -27154,3 +27151,6 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

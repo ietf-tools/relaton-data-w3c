@@ -26784,11 +26784,6 @@
     :date: '20231215'
   :file: data/dnote-maturity-model-20231215.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20231215'
-  :file: data/wd-webdriver2-20231215.yaml
-- :id:
     :code: input-events-2
     :stage: WD
     :date: '20231215'
@@ -26864,15 +26859,15 @@
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-ssv-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-ssv-11-20231221.yaml
-- :id:
     :code: epub-multi-rend-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-multi-rend-11-20231221.yaml
+- :id:
+    :code: epub-ssv-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-ssv-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26938,6 +26933,11 @@
     :stage: WD
     :date: '20240101'
   :file: data/wd-vc-jose-cose-20240101.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20240104'
+  :file: data/wd-webdriver2-20240104.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

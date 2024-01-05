@@ -26584,35 +26584,10 @@
     :date: '20231127'
   :file: data/wd-mathml-core-20231127.yaml
 - :id:
-    :code: magnetometer
-    :stage: WD
-    :date: '20231127'
-  :file: data/wd-magnetometer-20231127.yaml
-- :id:
-    :code: ambient-light
-    :stage: WD
-    :date: '20231127'
-  :file: data/wd-ambient-light-20231127.yaml
-- :id:
-    :code: geolocation-sensor
-    :stage: WD
-    :date: '20231127'
-  :file: data/wd-geolocation-sensor-20231127.yaml
-- :id:
     :code: proximity
     :stage: WD
     :date: '20231127'
   :file: data/wd-proximity-20231127.yaml
-- :id:
-    :code: orientation-sensor
-    :stage: WD
-    :date: '20231128'
-  :file: data/wd-orientation-sensor-20231128.yaml
-- :id:
-    :code: accelerometer
-    :stage: CRD
-    :date: '20231128'
-  :file: data/crd-accelerometer-20231128.yaml
 - :id:
     :code: appmanifest
     :stage: WD
@@ -26644,11 +26619,6 @@
     :date: '20231204'
   :file: data/wd-html-aam-1.0-20231204.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20231204'
-  :file: data/wd-wgsl-20231204.yaml
-- :id:
     :code: uievents
     :stage: WD
     :date: '20231204'
@@ -26668,11 +26638,6 @@
     :stage: REC
     :date: '20231205'
   :file: data/rec-wot-architecture11-20231205.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20231206'
-  :file: data/wd-webgpu-20231206.yaml
 - :id:
     :code: CSP3
     :stage: WD
@@ -26694,11 +26659,6 @@
     :date: '20231207'
   :file: data/note-css-2023-20231207.yaml
 - :id:
-    :code: gyroscope
-    :stage: CRD
-    :date: '20231207'
-  :file: data/crd-gyroscope-20231207.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20231208'
@@ -26713,11 +26673,6 @@
     :stage: WD
     :date: '20231211'
   :file: data/wd-push-api-20231211.yaml
-- :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20231211'
-  :file: data/wd-orientation-event-20231211.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
@@ -26859,15 +26814,15 @@
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-multi-rend-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-multi-rend-11-20231221.yaml
-- :id:
     :code: epub-ssv-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26938,6 +26893,51 @@
     :stage: WD
     :date: '20240104'
   :file: data/wd-webdriver2-20240104.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240104'
+  :file: data/wd-wgsl-20240104.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240104'
+  :file: data/wd-webgpu-20240104.yaml
+- :id:
+    :code: orientation-sensor
+    :stage: WD
+    :date: '20240105'
+  :file: data/wd-orientation-sensor-20240105.yaml
+- :id:
+    :code: ambient-light
+    :stage: WD
+    :date: '20240105'
+  :file: data/wd-ambient-light-20240105.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240105'
+  :file: data/wd-orientation-event-20240105.yaml
+- :id:
+    :code: magnetometer
+    :stage: WD
+    :date: '20240105'
+  :file: data/wd-magnetometer-20240105.yaml
+- :id:
+    :code: gyroscope
+    :stage: CRD
+    :date: '20240105'
+  :file: data/crd-gyroscope-20240105.yaml
+- :id:
+    :code: geolocation-sensor
+    :stage: WD
+    :date: '20240105'
+  :file: data/wd-geolocation-sensor-20240105.yaml
+- :id:
+    :code: accelerometer
+    :stage: CRD
+    :date: '20240105'
+  :file: data/crd-accelerometer-20240105.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

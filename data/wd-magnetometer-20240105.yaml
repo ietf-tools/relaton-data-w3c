@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-gyroscope-20231207
+id: W3CWD-magnetometer-20240105
 title:
-- content: Gyroscope
+- content: Magnetometer
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-gyroscope-20231207/
+- content: https://www.w3.org/TR/2024/WD-magnetometer-20240105/
   type: src
-- content: https://w3c.github.io/gyroscope/
+- content: https://w3c.github.io/magnetometer/
   type: current
 type: standard
 docid:
-- id: W3C CRD-gyroscope-20231207
+- id: W3C WD-magnetometer-20240105
   type: W3C
   primary: true
-docnumber: CRD-gyroscope-20231207
+docnumber: WD-magnetometer-20240105
 date:
 - type: published
-  value: '2023-12-07'
+  value: '2024-01-05'
 contributor:
 - person:
     name:
@@ -29,30 +29,40 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-07'
+- person:
+    name:
+      completename:
+        content: Rijubrata Bhaumik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-01-05'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-gyroscope-20231025
+    id: W3CWD-magnetometer-20231127
     docid:
-    - id: W3C CRD-gyroscope-20231025
+    - id: W3C WD-magnetometer-20231127
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-gyroscope-20231025
+      content: W3C WD-magnetometer-20231127
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-gyroscope-20231207
+  number: WD-magnetometer-20240105
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

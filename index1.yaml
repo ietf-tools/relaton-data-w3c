@@ -25749,11 +25749,6 @@
     :date: '20230403'
   :file: data/wd-css-position-3-20230403.yaml
 - :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20230404'
-  :file: data/wd-device-posture-20230404.yaml
-- :id:
     :code: css-box-3
     :stage: REC
     :date: '20230406'
@@ -25924,15 +25919,15 @@
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
     :code: geor-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-geor-gap-20230614.yaml
+- :id:
+    :code: latn-hu-gap
+    :type: DNOTE
+    :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26494,11 +26489,6 @@
     :date: '20231124'
   :file: data/dnote-mlreq-20231124.yaml
 - :id:
-    :code: longtasks-1
-    :stage: WD
-    :date: '20231126'
-  :file: data/wd-longtasks-1-20231126.yaml
-- :id:
     :code: mathml-core
     :stage: WD
     :date: '20231127'
@@ -26734,15 +26724,15 @@
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-multi-rend-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-multi-rend-11-20231221.yaml
-- :id:
     :code: epub-ssv-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26768,11 +26758,6 @@
     :stage: WD
     :date: '20231221'
   :file: data/wd-rdf12-n-triples-20231221.yaml
-- :id:
-    :code: dpub-aria-1.1
-    :stage: WD
-    :date: '20231222'
-  :file: data/wd-dpub-aria-1.1-20231222.yaml
 - :id:
     :code: dpub-aam-1.1
     :stage: WD
@@ -26813,11 +26798,6 @@
     :stage: WD
     :date: '20240104'
   :file: data/wd-wgsl-20240104.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240104'
-  :file: data/wd-webgpu-20240104.yaml
 - :id:
     :code: orientation-sensor
     :stage: WD
@@ -26938,6 +26918,26 @@
     :type: DNOTE
     :date: '20240108'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240108.yaml
+- :id:
+    :code: longtasks-1
+    :stage: WD
+    :date: '20240108'
+  :file: data/wd-longtasks-1-20240108.yaml
+- :id:
+    :code: dpub-aria-1.1
+    :stage: WD
+    :date: '20240108'
+  :file: data/wd-dpub-aria-1.1-20240108.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240108'
+  :file: data/wd-device-posture-20240108.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240108'
+  :file: data/wd-webgpu-20240108.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

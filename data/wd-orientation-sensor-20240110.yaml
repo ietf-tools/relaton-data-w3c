@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aam-1.1-20231222
+id: W3CWD-orientation-sensor-20240110
 title:
-- content: Digital Publishing Accessibility API Mappings 1.1
+- content: Orientation Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-dpub-aam-1.1-20231222/
+- content: https://www.w3.org/TR/2024/WD-orientation-sensor-20240110/
   type: src
-- content: https://w3c.github.io/dpub-aam/
+- content: https://w3c.github.io/orientation-sensor/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aam-1.1-20231222
+- id: W3C WD-orientation-sensor-20240110
   type: W3C
   primary: true
-docnumber: WD-dpub-aam-1.1-20231222
+docnumber: WD-orientation-sensor-20240110
 date:
 - type: published
-  value: '2023-12-22'
+  value: '2024-01-10'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Anssi Kostiainen
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-22'
+revdate: '2024-01-10'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20231213
+    id: W3CWD-orientation-sensor-20240105
     docid:
-    - id: W3C WD-dpub-aam-1.1-20231213
+    - id: W3C WD-orientation-sensor-20240105
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20231213
+      content: W3C WD-orientation-sensor-20240105
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aam-1.1-20231222
+  number: WD-orientation-sensor-20240110
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

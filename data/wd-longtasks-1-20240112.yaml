@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-paint-timing-20240110
+id: W3CWD-longtasks-1-20240112
 title:
-- content: Paint Timing
+- content: Long Tasks API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-paint-timing-20240110/
+- content: https://www.w3.org/TR/2024/WD-longtasks-1-20240112/
   type: src
-- content: https://w3c.github.io/paint-timing/
+- content: https://w3c.github.io/longtasks/
   type: current
 type: standard
 docid:
-- id: W3C WD-paint-timing-20240110
+- id: W3C WD-longtasks-1-20240112
   type: W3C
   primary: true
-docnumber: WD-paint-timing-20240110
+docnumber: WD-longtasks-1-20240112
 date:
 - type: published
-  value: '2024-01-10'
+  value: '2024-01-12'
 contributor:
-- person:
-    name:
-      completename:
-        content: Nicolas Pena Moreno
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-10'
+revdate: '2024-01-12'
 language:
 - en
 script:
@@ -50,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-paint-timing-20231122
+    id: W3CWD-longtasks-1-20240108
     docid:
-    - id: W3C WD-paint-timing-20231122
+    - id: W3C WD-longtasks-1-20240108
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-paint-timing-20231122
+      content: W3C WD-longtasks-1-20240108
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-paint-timing-20240110
+  number: WD-longtasks-1-20240112
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

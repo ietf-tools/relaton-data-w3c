@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-CSP3-20231206
+id: W3CWD-CSP3-20240115
 title:
 - content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-CSP3-20231206/
+- content: https://www.w3.org/TR/2024/WD-CSP3-20240115/
   type: src
 - content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20231206
+- id: W3C WD-CSP3-20240115
   type: W3C
   primary: true
-docnumber: WD-CSP3-20231206
+docnumber: WD-CSP3-20240115
 date:
 - type: published
-  value: '2023-12-06'
+  value: '2024-01-15'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-06'
+revdate: '2024-01-15'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-CSP3-20231030
+    id: W3CWD-CSP3-20231206
     docid:
-    - id: W3C WD-CSP3-20231030
+    - id: W3C WD-CSP3-20231206
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20231030
+      content: W3C WD-CSP3-20231206
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-CSP3-20231206
+  number: WD-CSP3-20240115
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

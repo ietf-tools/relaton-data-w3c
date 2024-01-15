@@ -37,6 +37,17 @@ script:
 docstatus:
   stage:
     value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPR-png-960701
+    docid:
+    - id: W3C PR-png-960701
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-png-960701
+      format: text/plain
 series:
 - title:
     content: W3C REC

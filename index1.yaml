@@ -25979,11 +25979,6 @@
     :date: '20230628'
   :file: data/note-saur-20230628.yaml
 - :id:
-    :code: payment-request-1.1
-    :stage: WD
-    :date: '20230628'
-  :file: data/wd-payment-request-1.1-20230628.yaml
-- :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20230629'
@@ -26123,11 +26118,6 @@
     :stage: CR
     :date: '20230905'
   :file: data/cr-css-view-transitions-1-20230905.yaml
-- :id:
-    :code: largest-contentful-paint
-    :stage: WD
-    :date: '20230906'
-  :file: data/wd-largest-contentful-paint-20230906.yaml
 - :id:
     :code: privacy-principles
     :type: DNOTE
@@ -26749,11 +26739,6 @@
     :date: '20240101'
   :file: data/wd-vc-jose-cose-20240101.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20240104'
-  :file: data/wd-webdriver2-20240104.yaml
-- :id:
     :code: ambient-light
     :stage: WD
     :date: '20240105'
@@ -26894,11 +26879,6 @@
     :date: '20240110'
   :file: data/wd-orientation-sensor-20240110.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240110'
-  :file: data/wd-wgsl-20240110.yaml
-- :id:
     :code: webrtc-stats
     :stage: CRD
     :date: '20240111'
@@ -26919,11 +26899,6 @@
     :date: '20240112'
   :file: data/wd-rdf12-concepts-20240112.yaml
 - :id:
-    :code: permissions
-    :stage: WD
-    :date: '20240112'
-  :file: data/wd-permissions-20240112.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: WD
     :date: '20240113'
@@ -26938,6 +26913,31 @@
     :stage: WD
     :date: '20240115'
   :file: data/wd-longtasks-1-20240115.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240115'
+  :file: data/wd-wgsl-20240115.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20240115'
+  :file: data/wd-webdriver2-20240115.yaml
+- :id:
+    :code: largest-contentful-paint
+    :stage: WD
+    :date: '20240115'
+  :file: data/wd-largest-contentful-paint-20240115.yaml
+- :id:
+    :code: permissions
+    :stage: WD
+    :date: '20240116'
+  :file: data/wd-permissions-20240116.yaml
+- :id:
+    :code: payment-request-1.1
+    :stage: WD
+    :date: '20240116'
+  :file: data/wd-payment-request-1.1-20240116.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27011,9 +27011,6 @@
 - :id:
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
-- :id:
-    :code: payment-request-1.1
-  :file: data/payment-request-1.1.yaml
 - :id:
     :code: css-anchor-position-1
   :file: data/css-anchor-position-1.yaml
@@ -27154,3 +27151,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: payment-request-1.1
+  :file: data/payment-request-1.1.yaml

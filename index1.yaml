@@ -25699,11 +25699,6 @@
     :date: '20230307'
   :file: data/spsd-mathml-20230307.yaml
 - :id:
-    :code: vocab-dcat-3
-    :stage: WD
-    :date: '20230307'
-  :file: data/wd-vocab-dcat-3-20230307.yaml
-- :id:
     :code: xml-entity-names
     :stage: REC
     :date: '20230307'
@@ -26118,11 +26113,6 @@
     :stage: CR
     :date: '20230905'
   :file: data/cr-css-view-transitions-1-20230905.yaml
-- :id:
-    :code: privacy-principles
-    :type: DNOTE
-    :date: '20230906'
-  :file: data/dnote-privacy-principles-20230906.yaml
 - :id:
     :code: window-management
     :stage: WD
@@ -26929,15 +26919,25 @@
     :date: '20240116'
   :file: data/wd-permissions-20240116.yaml
 - :id:
-    :code: payment-request-1.1
-    :stage: WD
-    :date: '20240116'
-  :file: data/wd-payment-request-1.1-20240116.yaml
-- :id:
     :code: webnn
     :stage: CRD
-    :date: '20240117'
-  :file: data/crd-webnn-20240117.yaml
+    :date: '20240118'
+  :file: data/crd-webnn-20240118.yaml
+- :id:
+    :code: payment-request-1.1
+    :stage: WD
+    :date: '20240118'
+  :file: data/wd-payment-request-1.1-20240118.yaml
+- :id:
+    :code: vocab-dcat-3
+    :stage: CR
+    :date: '20240118'
+  :file: data/cr-vocab-dcat-3-20240118.yaml
+- :id:
+    :code: privacy-principles
+    :type: DNOTE
+    :date: '20240118'
+  :file: data/dnote-privacy-principles-20240118.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

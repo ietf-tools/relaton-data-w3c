@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-i18n-glossary-20231206
+id: W3CWD-mediasession-20240119
 title:
-- content: Internationalization Glossary
+- content: Media Session
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-i18n-glossary-20231206/
+- content: https://www.w3.org/TR/2024/WD-mediasession-20240119/
   type: src
-- content: https://w3c.github.io/i18n-glossary/
+- content: https://w3c.github.io/mediasession/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-i18n-glossary-20231206
+- id: W3C WD-mediasession-20240119
   type: W3C
   primary: true
-docnumber: DNOTE-i18n-glossary-20231206
+docnumber: WD-mediasession-20240119
 date:
 - type: published
-  value: '2023-12-06'
+  value: '2024-01-19'
 contributor:
 - person:
     name:
       completename:
-        content: Addison Phillips
+        content: Thomas Steimel
         language:
         - en
         script:
@@ -32,36 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Ishida
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-06'
+revdate: '2024-01-19'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20231014
+    id: W3CWD-mediasession-20231011
     docid:
-    - id: W3C DNOTE-i18n-glossary-20231014
+    - id: W3C WD-mediasession-20231011
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-i18n-glossary-20231014
+      content: W3C WD-mediasession-20231011
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-i18n-glossary-20231206
-doctype: groupNote
+  number: WD-mediasession-20240119
+doctype: technicalReport
 editorialgroup:
-- name: Internationalization Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

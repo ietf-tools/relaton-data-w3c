@@ -26439,11 +26439,6 @@
     :date: '20231122'
   :file: data/crd-generic-sensor-20231122.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20231122'
-  :file: data/wd-pointerevents3-20231122.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20231124'
@@ -26639,15 +26634,15 @@
     :date: '20231221'
   :file: data/note-epub-a11y-tech-11-20231221.yaml
 - :id:
-    :code: epub-tts-10
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-tts-10-20231221.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-overview-33-20231221.yaml
+- :id:
+    :code: epub-tts-10
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-tts-10-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
@@ -26894,11 +26889,6 @@
     :date: '20240116'
   :file: data/wd-permissions-20240116.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240118'
-  :file: data/crd-webnn-20240118.yaml
-- :id:
     :code: payment-request-1.1
     :stage: WD
     :date: '20240118'
@@ -26938,6 +26928,16 @@
     :stage: WD
     :date: '20240120'
   :file: data/wd-webgpu-20240120.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240120'
+  :file: data/crd-webnn-20240120.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20240121'
+  :file: data/wd-pointerevents3-20240121.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

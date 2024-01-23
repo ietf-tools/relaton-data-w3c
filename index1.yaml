@@ -26034,11 +26034,6 @@
     :date: '20230720'
   :file: data/dnote-kore-gap-20230720.yaml
 - :id:
-    :code: string-meta
-    :type: DNOTE
-    :date: '20230720'
-  :file: data/dnote-string-meta-20230720.yaml
-- :id:
     :code: wcag-3.0
     :stage: WD
     :date: '20230724'
@@ -26308,11 +26303,6 @@
     :stage: CRD
     :date: '20231016'
   :file: data/crd-presentation-api-20231016.yaml
-- :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20231016'
-  :file: data/wd-openscreenprotocol-20231016.yaml
 - :id:
     :code: intersection-observer
     :stage: WD
@@ -26704,11 +26694,6 @@
     :date: '20240105'
   :file: data/wd-ambient-light-20240105.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240105'
-  :file: data/wd-orientation-event-20240105.yaml
-- :id:
     :code: magnetometer
     :stage: WD
     :date: '20240105'
@@ -26854,11 +26839,6 @@
     :date: '20240113'
   :file: data/wd-vc-data-model-2.0-20240113.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20240115'
-  :file: data/wd-csp3-20240115.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20240115'
@@ -26868,11 +26848,6 @@
     :stage: WD
     :date: '20240115'
   :file: data/wd-wgsl-20240115.yaml
-- :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20240115'
-  :file: data/wd-webdriver2-20240115.yaml
 - :id:
     :code: largest-contentful-paint
     :stage: WD
@@ -26909,11 +26884,6 @@
     :date: '20240118'
   :file: data/dnote-i18n-glossary-20240118.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20240119'
-  :file: data/wd-mediasession-20240119.yaml
-- :id:
     :code: baggage
     :stage: WD
     :date: '20240119'
@@ -26924,11 +26894,6 @@
     :date: '20240120'
   :file: data/wd-webgpu-20240120.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240120'
-  :file: data/crd-webnn-20240120.yaml
-- :id:
     :code: pointerevents3
     :stage: WD
     :date: '20240121'
@@ -26938,6 +26903,46 @@
     :stage: WD
     :date: '20240121'
   :file: data/wd-rdf12-concepts-20240121.yaml
+- :id:
+    :code: string-meta
+    :type: DNOTE
+    :date: '20240122'
+  :file: data/dnote-string-meta-20240122.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20240122'
+  :file: data/wd-mediasession-20240122.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240122'
+  :file: data/wd-orientation-event-20240122.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20240122'
+  :file: data/wd-openscreenprotocol-20240122.yaml
+- :id:
+    :code: wai-aria-1.3
+    :stage: WD
+    :date: '20240123'
+  :file: data/wd-wai-aria-1.3-20240123.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240123'
+  :file: data/crd-webnn-20240123.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20240123'
+  :file: data/wd-webdriver2-20240123.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20240123'
+  :file: data/wd-csp3-20240123.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27154,3 +27159,6 @@
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
+- :id:
+    :code: wai-aria-1.3
+  :file: data/wai-aria-1.3.yaml

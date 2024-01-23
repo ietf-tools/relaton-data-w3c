@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-orientation-event-20240105
+id: W3CWD-CSP3-20240123
 title:
-- content: DeviceOrientation Event Specification
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-orientation-event-20240105/
+- content: https://www.w3.org/TR/2024/WD-CSP3-20240123/
   type: src
-- content: https://w3c.github.io/deviceorientation/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-orientation-event-20240105
+- id: W3C WD-CSP3-20240123
   type: W3C
   primary: true
-docnumber: WD-orientation-event-20240105
+docnumber: WD-CSP3-20240123
 date:
 - type: published
-  value: '2024-01-05'
+  value: '2024-01-23'
 contributor:
 - person:
     name:
       completename:
-        content: Raphael Kubo da Costa
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Reilly Grant
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-05'
+revdate: '2024-01-23'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-orientation-event-20240104
+    id: W3CWD-CSP3-20240115
     docid:
-    - id: W3C WD-orientation-event-20240104
+    - id: W3C WD-CSP3-20240115
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20240104
+      content: W3C WD-CSP3-20240115
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-orientation-event-20240105
+  number: WD-CSP3-20240123
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

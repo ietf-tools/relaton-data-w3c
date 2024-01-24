@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-media-accessibility-reqs-20140814
-    docid:
-    - id: W3C WD-media-accessibility-reqs-20140814
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-media-accessibility-reqs-20140814
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-media-accessibility-reqs-20120103
     docid:
     - id: W3C WD-media-accessibility-reqs-20120103
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-media-accessibility-reqs-20120103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-accessibility-reqs-20140814
+    docid:
+    - id: W3C WD-media-accessibility-reqs-20140814
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-accessibility-reqs-20140814
       format: text/plain
 series:
 - title:

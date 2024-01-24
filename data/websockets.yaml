@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-websockets-20091029
-    docid:
-    - id: W3C WD-websockets-20091029
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-websockets-20091029
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-websockets-20120920
     docid:
     - id: W3C CR-websockets-20120920
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-websockets-20120920
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-websockets-20091029
+    docid:
+    - id: W3C WD-websockets-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-websockets-20091029
       format: text/plain
 - type: hasEdition
   bibitem:

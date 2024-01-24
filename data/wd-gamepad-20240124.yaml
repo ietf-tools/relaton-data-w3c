@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-i18n-glossary-20240118
+id: W3CWD-gamepad-20240124
 title:
-- content: Internationalization Glossary
+- content: Gamepad
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240118/
+- content: https://www.w3.org/TR/2024/WD-gamepad-20240124/
   type: src
-- content: https://w3c.github.io/i18n-glossary/
+- content: https://w3c.github.io/gamepad/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-i18n-glossary-20240118
+- id: W3C WD-gamepad-20240124
   type: W3C
   primary: true
-docnumber: DNOTE-i18n-glossary-20240118
+docnumber: WD-gamepad-20240124
 date:
 - type: published
-  value: '2024-01-18'
+  value: '2024-01-24'
 contributor:
 - person:
     name:
       completename:
-        content: Addison Phillips
+        content: Matthew Reynolds
         language:
         - en
         script:
@@ -32,36 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Ishida
+        content: Steve Agoston
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-18'
+revdate: '2024-01-24'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20231206
+    id: W3CWD-gamepad-20231005
     docid:
-    - id: W3C DNOTE-i18n-glossary-20231206
+    - id: W3C WD-gamepad-20231005
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-i18n-glossary-20231206
+      content: W3C WD-gamepad-20231005
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-i18n-glossary-20240118
-doctype: groupNote
+  number: WD-gamepad-20240124
+doctype: technicalReport
 editorialgroup:
-- name: Internationalization Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

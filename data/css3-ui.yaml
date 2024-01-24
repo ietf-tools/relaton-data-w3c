@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-ui
 title:
-- content: CSS3 Basic User Interface Module
+- content: CSS Basic User Interface Module Level 3 (CSS3 UI)
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-ui
+- content: http://www.w3.org/TR/css3-ui/
   type: src
 type: standard
 docid:
@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css3-ui-20040511
-    docid:
-    - id: W3C CR-css3-ui-20040511
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-ui-20040511
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-ui-20120117
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-ui-20120117
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css3-ui-20040511
+    docid:
+    - id: W3C CR-css3-ui-20040511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css3-ui-20040511
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +63,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: css3-ui
 doctype: technicalReport

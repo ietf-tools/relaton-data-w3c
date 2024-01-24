@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-EARL10-Guide-20110510
+id: W3CDNOTE-i18n-glossary-20240123
 title:
-- content: Developer Guide for Evaluation and Report Language (EARL) 1.0
+- content: Internationalization Glossary
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2011/WD-EARL10-Guide-20110510/
+- content: https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240123/
   type: src
+- content: https://w3c.github.io/i18n-glossary/
+  type: current
 type: standard
 docid:
-- id: W3C WD-EARL10-Guide-20110510
+- id: W3C DNOTE-i18n-glossary-20240123
   type: W3C
   primary: true
-docnumber: WD-EARL10-Guide-20110510
+docnumber: DNOTE-i18n-glossary-20240123
 date:
 - type: published
-  value: '2011-05-10'
+  value: '2024-01-23'
 contributor:
 - person:
     name:
       completename:
-        content: Carlos A Velasco
+        content: Addison Phillips
         language:
         - en
         script:
@@ -30,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Shadi Abou-Zahra
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2011-05-10'
+revdate: '2024-01-23'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-EARL10-Guide-20091029
+    id: W3CDNOTE-i18n-glossary-20240118
     docid:
-    - id: W3C WD-EARL10-Guide-20091029
+    - id: W3C DNOTE-i18n-glossary-20240118
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-EARL10-Guide-20091029
+      content: W3C DNOTE-i18n-glossary-20240118
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-EARL10-Guide-20110510
-doctype: technicalReport
+  number: DNOTE-i18n-glossary-20240123
+doctype: groupNote
 editorialgroup:
-- name: Evaluation and Repair Tools Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-css-gcpm-3-20240125
+title:
+- content: CSS Generated Content for Paged Media Module
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-css-gcpm-3-20240125/
+  type: src
+- content: https://drafts.csswg.org/css-gcpm/
+  type: current
+type: standard
+docid:
+- id: W3C WD-css-gcpm-3-20240125
+  type: W3C
+  primary: true
+docnumber: WD-css-gcpm-3-20240125
+date:
+- type: published
+  value: '2024-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mike Bremford
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rachel Andrew
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-01-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-css-gcpm-3-20140513
+    docid:
+    - id: W3C WD-css-gcpm-3-20140513
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-gcpm-3-20140513
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-gcpm-3-20240125
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

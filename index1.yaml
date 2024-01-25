@@ -25479,11 +25479,6 @@
     :date: '20221101'
   :file: data/crd-css-color-4-20221101.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20221101'
-  :file: data/dnote-typography-20221101.yaml
-- :id:
     :code: webxr-ar-module-1
     :stage: CRD
     :date: '20221102'
@@ -26569,11 +26564,6 @@
     :date: '20231215'
   :file: data/note-epub-a11y-exemption-20231215.yaml
 - :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20231216'
-  :file: data/wd-webrtc-svc-20231216.yaml
-- :id:
     :code: vc-di-bbs
     :stage: WD
     :date: '20231218'
@@ -26619,15 +26609,15 @@
     :date: '20231221'
   :file: data/note-epub-a11y-tech-11-20231221.yaml
 - :id:
-    :code: epub-overview-33
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-overview-33-20231221.yaml
-- :id:
     :code: epub-tts-10
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
+- :id:
+    :code: epub-overview-33
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-overview-33-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
@@ -26864,11 +26854,6 @@
     :date: '20240119'
   :file: data/wd-baggage-20240119.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240120'
-  :file: data/wd-webgpu-20240120.yaml
-- :id:
     :code: pointerevents3
     :stage: WD
     :date: '20240121'
@@ -26943,6 +26928,31 @@
     :stage: WD
     :date: '20240124'
   :file: data/wd-ambient-light-20240124.yaml
+- :id:
+    :code: webrtc-svc
+    :stage: WD
+    :date: '20240124'
+  :file: data/wd-webrtc-svc-20240124.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240124'
+  :file: data/wd-webgpu-20240124.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240125'
+  :file: data/dnote-typography-20240125.yaml
+- :id:
+    :code: css-viewport-1
+    :stage: WD
+    :date: '20240125'
+  :file: data/wd-css-viewport-1-20240125.yaml
+- :id:
+    :code: css-gcpm-3
+    :stage: WD
+    :date: '20240125'
+  :file: data/wd-css-gcpm-3-20240125.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27162,3 +27172,6 @@
 - :id:
     :code: wai-aria-1.3
   :file: data/wai-aria-1.3.yaml
+- :id:
+    :code: css-viewport-1
+  :file: data/css-viewport-1.yaml

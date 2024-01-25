@@ -1,0 +1,59 @@
+---
+schema-version: v1.2.3
+id: W3CWD-css-viewport-1-20240125
+title:
+- content: CSS Viewport Module Level 1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-css-viewport-1-20240125/
+  type: src
+- content: https://drafts.csswg.org/css-viewport/
+  type: current
+type: standard
+docid:
+- id: W3C WD-css-viewport-1-20240125
+  type: W3C
+  primary: true
+docnumber: WD-css-viewport-1-20240125
+date:
+- type: published
+  value: '2024-01-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Emilio Cobos Álvarez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Florian Rivoal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-01-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-css-viewport-1-20240125
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

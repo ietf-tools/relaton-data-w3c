@@ -26149,11 +26149,6 @@
     :date: '20230921'
   :file: data/wd-rdf12-xml-20230921.yaml
 - :id:
-    :code: rdf12-semantics
-    :stage: WD
-    :date: '20230922'
-  :file: data/wd-rdf12-semantics-20230922.yaml
-- :id:
     :code: edge-cloud-reqs
     :type: DNOTE
     :date: '20230926'
@@ -26414,11 +26409,6 @@
     :date: '20231120'
   :file: data/crd-mediacapture-streams-20231120.yaml
 - :id:
-    :code: generic-sensor
-    :stage: CRD
-    :date: '20231122'
-  :file: data/crd-generic-sensor-20231122.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20231124'
@@ -26609,25 +26599,25 @@
     :date: '20231221'
   :file: data/note-epub-a11y-tech-11-20231221.yaml
 - :id:
-    :code: epub-tts-10
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-tts-10-20231221.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-overview-33-20231221.yaml
 - :id:
-    :code: epub-ssv-11
+    :code: epub-tts-10
     :type: NOTE
     :date: '20231221'
-  :file: data/note-epub-ssv-11-20231221.yaml
+  :file: data/note-epub-tts-10-20231221.yaml
 - :id:
     :code: epub-multi-rend-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-multi-rend-11-20231221.yaml
+- :id:
+    :code: epub-ssv-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-ssv-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26789,11 +26779,6 @@
     :date: '20240110'
   :file: data/wd-orientation-sensor-20240110.yaml
 - :id:
-    :code: webrtc-stats
-    :stage: CRD
-    :date: '20240111'
-  :file: data/crd-webrtc-stats-20240111.yaml
-- :id:
     :code: imsc-hrm
     :stage: CRD
     :date: '20240111'
@@ -26889,11 +26874,6 @@
     :date: '20240123'
   :file: data/wd-wai-aria-1.3-20240123.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240123'
-  :file: data/crd-webnn-20240123.yaml
-- :id:
     :code: webdriver2
     :stage: WD
     :date: '20240123'
@@ -26934,11 +26914,6 @@
     :date: '20240124'
   :file: data/wd-webrtc-svc-20240124.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240124'
-  :file: data/wd-webgpu-20240124.yaml
-- :id:
     :code: typography
     :type: DNOTE
     :date: '20240125'
@@ -26953,6 +26928,31 @@
     :stage: WD
     :date: '20240125'
   :file: data/wd-css-gcpm-3-20240125.yaml
+- :id:
+    :code: webrtc-stats
+    :stage: CRD
+    :date: '20240125'
+  :file: data/crd-webrtc-stats-20240125.yaml
+- :id:
+    :code: rdf12-semantics
+    :stage: WD
+    :date: '20240125'
+  :file: data/wd-rdf12-semantics-20240125.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240125'
+  :file: data/wd-webgpu-20240125.yaml
+- :id:
+    :code: generic-sensor
+    :stage: CRD
+    :date: '20240125'
+  :file: data/crd-generic-sensor-20240125.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240126'
+  :file: data/crd-webnn-20240126.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27060,9 +27060,6 @@
 - :id:
     :code: rdf12-xml
   :file: data/rdf12-xml.yaml
-- :id:
-    :code: rdf12-semantics
-  :file: data/rdf12-semantics.yaml
 - :id:
     :code: edge-cloud-reqs
   :file: data/edge-cloud-reqs.yaml
@@ -27175,3 +27172,6 @@
 - :id:
     :code: css-viewport-1
   :file: data/css-viewport-1.yaml
+- :id:
+    :code: rdf12-semantics
+  :file: data/rdf12-semantics.yaml

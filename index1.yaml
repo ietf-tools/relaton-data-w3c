@@ -26659,11 +26659,6 @@
     :date: '20231227'
   :file: data/crd-vc-di-ecdsa-20231227.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240101'
-  :file: data/wd-vc-jose-cose-20240101.yaml
-- :id:
     :code: magnetometer
     :stage: WD
     :date: '20240105'
@@ -26789,20 +26784,10 @@
     :date: '20240112'
   :file: data/wd-paint-timing-20240112.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: WD
-    :date: '20240113'
-  :file: data/wd-vc-data-model-2.0-20240113.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20240115'
   :file: data/wd-longtasks-1-20240115.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240115'
-  :file: data/wd-wgsl-20240115.yaml
 - :id:
     :code: largest-contentful-paint
     :stage: WD
@@ -26949,10 +26934,25 @@
     :date: '20240125'
   :file: data/crd-generic-sensor-20240125.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: WD
+    :date: '20240126'
+  :file: data/wd-vc-data-model-2.0-20240126.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240126'
+  :file: data/wd-wgsl-20240126.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240126'
+  :file: data/wd-vc-jose-cose-20240126.yaml
+- :id:
     :code: webnn
     :stage: CRD
-    :date: '20240126'
-  :file: data/crd-webnn-20240126.yaml
+    :date: '20240127'
+  :file: data/crd-webnn-20240127.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27143,9 +27143,6 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :id:
@@ -27154,9 +27151,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
@@ -27175,3 +27169,9 @@
 - :id:
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

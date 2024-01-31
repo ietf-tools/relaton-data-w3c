@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-shadow-dom-20121016
-    docid:
-    - id: W3C WD-shadow-dom-20121016
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-shadow-dom-20121016
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-shadow-dom-20161128
     docid:
     - id: W3C WD-shadow-dom-20161128
@@ -47,16 +37,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-shadow-dom-20161128
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-shadow-dom-20140617
-    docid:
-    - id: W3C WD-shadow-dom-20140617
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-shadow-dom-20140617
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,6 +50,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-shadow-dom-20130514
+    docid:
+    - id: W3C WD-shadow-dom-20130514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shadow-dom-20130514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-shadow-dom-20121016
+    docid:
+    - id: W3C WD-shadow-dom-20121016
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-shadow-dom-20121016
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-shadow-dom-20151215
     docid:
     - id: W3C WD-shadow-dom-20151215
@@ -80,13 +80,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-shadow-dom-20130514
+    id: W3CWD-shadow-dom-20140617
     docid:
-    - id: W3C WD-shadow-dom-20130514
+    - id: W3C WD-shadow-dom-20140617
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-shadow-dom-20130514
+      content: W3C WD-shadow-dom-20140617
       format: text/plain
 series:
 - title:

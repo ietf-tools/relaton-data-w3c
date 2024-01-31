@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-secure-contexts-20160915
-    docid:
-    - id: W3C CR-secure-contexts-20160915
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-secure-contexts-20160915
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-secure-contexts-20210918
     docid:
     - id: W3C CRD-secure-contexts-20210918
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-secure-contexts-20210918
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-secure-contexts-20160915
+    docid:
+    - id: W3C CR-secure-contexts-20160915
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-secure-contexts-20160915
       format: text/plain
 series:
 - title:

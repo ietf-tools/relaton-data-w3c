@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-media-capabilities-20200130
-    docid:
-    - id: W3C WD-media-capabilities-20200130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-media-capabilities-20200130
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-media-capabilities-20220420
     docid:
     - id: W3C WD-media-capabilities-20220420
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-media-capabilities-20220420
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-media-capabilities-20200130
+    docid:
+    - id: W3C WD-media-capabilities-20200130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-capabilities-20200130
       format: text/plain
 - type: hasEdition
   bibitem:

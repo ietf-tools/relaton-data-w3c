@@ -30,23 +30,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-EARL10-Schema-20110510
+    id: W3CWD-EARL10-Schema-20060927
     docid:
-    - id: W3C WD-EARL10-Schema-20110510
+    - id: W3C WD-EARL10-Schema-20060927
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-EARL10-Schema-20110510
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-EARL10-Schema-20070323
-    docid:
-    - id: W3C WD-EARL10-Schema-20070323
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-EARL10-Schema-20070323
+      content: W3C WD-EARL10-Schema-20060927
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,13 +60,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-EARL10-Schema-20060927
+    id: W3CWD-EARL10-Schema-20110510
     docid:
-    - id: W3C WD-EARL10-Schema-20060927
+    - id: W3C WD-EARL10-Schema-20110510
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-EARL10-Schema-20060927
+      content: W3C WD-EARL10-Schema-20110510
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-EARL10-Schema-20070323
+    docid:
+    - id: W3C WD-EARL10-Schema-20070323
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-EARL10-Schema-20070323
       format: text/plain
 series:
 - title:

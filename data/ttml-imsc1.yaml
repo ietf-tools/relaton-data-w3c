@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-ttml-imsc1-20141209
-    docid:
-    - id: W3C CR-ttml-imsc1-20141209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ttml-imsc1-20141209
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-ttml-imsc1-20150519
     docid:
     - id: W3C CR-ttml-imsc1-20150519
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-ttml-imsc1-20150519
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-ttml-imsc1-20141209
+    docid:
+    - id: W3C CR-ttml-imsc1-20141209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttml-imsc1-20141209
       format: text/plain
 series:
 - title:

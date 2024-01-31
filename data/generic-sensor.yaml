@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCRD-generic-sensor-20220502
+    docid:
+    - id: W3C CRD-generic-sensor-20220502
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-generic-sensor-20220502
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-generic-sensor-20191212
     docid:
     - id: W3C CR-generic-sensor-20191212
@@ -40,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-generic-sensor-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-generic-sensor-20211215
+    docid:
+    - id: W3C CRD-generic-sensor-20211215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-generic-sensor-20211215
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,26 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-generic-sensor-20151015
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-generic-sensor-20220502
-    docid:
-    - id: W3C CRD-generic-sensor-20220502
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-generic-sensor-20220502
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-generic-sensor-20211215
-    docid:
-    - id: W3C CRD-generic-sensor-20211215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-generic-sensor-20211215
       format: text/plain
 - type: hasEdition
   bibitem:

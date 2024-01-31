@@ -31,16 +31,6 @@ relation:
     formattedref:
       content: W3C REC-CSS2-20080411
       format: text/plain
-- type: instance
-  bibitem:
-    id: W3CREC-CSS2-20110607
-    docid:
-    - id: W3C REC-CSS2-20110607
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-CSS2-20110607
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCR-CSS2-20090423
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-CSS2-20090908
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-CSS2-20110607
+    docid:
+    - id: W3C REC-CSS2-20110607
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-CSS2-20110607
       format: text/plain
 - type: hasEdition
   bibitem:

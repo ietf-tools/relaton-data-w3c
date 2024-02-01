@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-longtasks-1-20240115
+id: W3CWD-css-fonts-4-20240201
 title:
-- content: Long Tasks API
+- content: CSS Fonts Module Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-longtasks-1-20240115/
+- content: https://www.w3.org/TR/2024/WD-css-fonts-4-20240201/
   type: src
-- content: https://w3c.github.io/longtasks/
+- content: https://drafts.csswg.org/css-fonts-4/
   type: current
 type: standard
 docid:
-- id: W3C WD-longtasks-1-20240115
+- id: W3C WD-css-fonts-4-20240201
   type: W3C
   primary: true
-docnumber: WD-longtasks-1-20240115
+docnumber: WD-css-fonts-4-20240201
 date:
 - type: published
-  value: '2024-01-15'
+  value: '2024-02-01'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Chris Lilley
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-15'
+revdate: '2024-02-01'
 language:
 - en
 script:
@@ -40,19 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-longtasks-1-20240112
+    id: W3CWD-css-fonts-4-20211221
     docid:
-    - id: W3C WD-longtasks-1-20240112
+    - id: W3C WD-css-fonts-4-20211221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-longtasks-1-20240112
+      content: W3C WD-css-fonts-4-20211221
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-longtasks-1-20240115
+  number: WD-css-fonts-4-20240201
 doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

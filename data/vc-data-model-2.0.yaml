@@ -19,21 +19,21 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20240126
+    id: W3CCR-vc-data-model-2.0-20240201
     docid:
-    - id: W3C WD-vc-data-model-2.0-20240126
+    - id: W3C CR-vc-data-model-2.0-20240201
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20240126
+      content: W3C CR-vc-data-model-2.0-20240201
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: vc-data-model-2.0
 doctype: technicalReport

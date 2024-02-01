@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-vc-specs-dir-20240201
+title:
+- content: VC Specifications Directory
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/NOTE-vc-specs-dir-20240201/
+  type: src
+- content: https://w3c.github.io/vc-specs-dir/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-vc-specs-dir-20240201
+  type: W3C
+  primary: true
+docnumber: NOTE-vc-specs-dir-20240201
+date:
+- type: published
+  value: '2024-02-01'
+contributor:
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-02-01'
+language:
+- en
+script:
+- Latn
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-vc-specs-dir-20240201
+doctype: groupNote
+editorialgroup:
+- name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

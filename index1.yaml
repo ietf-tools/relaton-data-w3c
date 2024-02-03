@@ -26539,11 +26539,6 @@
     :date: '20231215'
   :file: data/note-epub-a11y-exemption-20231215.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20231218'
-  :file: data/wd-vc-di-bbs-20231218.yaml
-- :id:
     :code: permissions-policy-1
     :stage: WD
     :date: '20231218'
@@ -26584,25 +26579,25 @@
     :date: '20231221'
   :file: data/note-epub-a11y-tech-11-20231221.yaml
 - :id:
-    :code: epub-overview-33
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-overview-33-20231221.yaml
-- :id:
     :code: epub-tts-10
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-multi-rend-11
+    :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
-  :file: data/note-epub-multi-rend-11-20231221.yaml
+  :file: data/note-epub-overview-33-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26834,11 +26829,6 @@
     :date: '20240126'
   :file: data/wd-vc-jose-cose-20240126.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240127'
-  :file: data/crd-webnn-20240127.yaml
-- :id:
     :code: design-principles
     :type: NOTE
     :date: '20240130'
@@ -26853,11 +26843,6 @@
     :stage: WD
     :date: '20240131'
   :file: data/wd-longtasks-1-20240131.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240131'
-  :file: data/wd-wgsl-20240131.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -26963,6 +26948,26 @@
     :stage: WD
     :date: '20240202'
   :file: data/wd-orientation-event-20240202.yaml
+- :id:
+    :code: performance-timeline
+    :stage: CRD
+    :date: '20240202'
+  :file: data/crd-performance-timeline-20240202.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20240202'
+  :file: data/wd-vc-di-bbs-20240202.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240202'
+  :file: data/wd-wgsl-20240202.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240203'
+  :file: data/crd-webnn-20240203.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27132,9 +27137,6 @@
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
@@ -27188,3 +27190,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

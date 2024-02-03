@@ -51,7 +51,7 @@ relation:
     formattedref:
       content: W3C CRD-performance-timeline-20221115
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CCRD-performance-timeline-20231011
     docid:
@@ -60,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-performance-timeline-20231011
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-performance-timeline-20240202
+    docid:
+    - id: W3C CRD-performance-timeline-20240202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-performance-timeline-20240202
       format: text/plain
 - type: hasEdition
   bibitem:

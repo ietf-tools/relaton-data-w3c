@@ -26649,11 +26649,6 @@
     :date: '20240105'
   :file: data/wd-geolocation-sensor-20240105.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240107'
-  :file: data/wd-vc-bitstring-status-list-20240107.yaml
-- :id:
     :code: accelerometer
     :stage: CRD
     :date: '20240108'
@@ -26854,11 +26849,6 @@
     :date: '20240201'
   :file: data/note-vc-specs-dir-20240201.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CR
-    :date: '20240201'
-  :file: data/cr-vc-data-model-2.0-20240201.yaml
-- :id:
     :code: css-fonts-4
     :stage: WD
     :date: '20240201'
@@ -26968,6 +26958,16 @@
     :stage: CRD
     :date: '20240203'
   :file: data/crd-webnn-20240203.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240204'
+  :file: data/wd-vc-bitstring-status-list-20240204.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240205'
+  :file: data/crd-vc-data-model-2.0-20240205.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27155,9 +27155,6 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
@@ -27185,11 +27182,14 @@
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-page-visibility-2-20210518
-    docid:
-    - id: W3C CR-page-visibility-2-20210518
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-page-visibility-2-20210518
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-page-visibility-2-20171017
     docid:
     - id: W3C PR-page-visibility-2-20171017
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-page-visibility-2-20171017
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-page-visibility-2-20210518
+    docid:
+    - id: W3C CR-page-visibility-2-20210518
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-page-visibility-2-20210518
       format: text/plain
 - type: hasEdition
   bibitem:

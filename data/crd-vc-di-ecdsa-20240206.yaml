@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-payment-request-1.1-20240118
+id: W3CCRD-vc-di-ecdsa-20240206
 title:
-- content: Payment Request API 1.1
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-payment-request-1.1-20240118/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240206/
   type: src
-- content: https://w3c.github.io/payment-request/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-payment-request-1.1-20240118
+- id: W3C CRD-vc-di-ecdsa-20240206
   type: W3C
   primary: true
-docnumber: WD-payment-request-1.1-20240118
+docnumber: CRD-vc-di-ecdsa-20240206
 date:
 - type: published
-  value: '2024-01-18'
+  value: '2024-02-06'
 contributor:
 - person:
     name:
       completename:
-        content: Ian Jacobs
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Manu Sporny
         language:
         - en
         script:
@@ -42,39 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Rouslan Solomakhin
+        content: Martin Reed
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-18'
+- person:
+    name:
+      completename:
+        content: Sebastian Crane
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-02-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-payment-request-1.1-20240116
+    id: W3CCRD-vc-di-ecdsa-20231227
     docid:
-    - id: W3C WD-payment-request-1.1-20240116
+    - id: W3C CRD-vc-di-ecdsa-20231227
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-payment-request-1.1-20240116
+      content: W3C CRD-vc-di-ecdsa-20231227
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-payment-request-1.1-20240118
+  number: CRD-vc-di-ecdsa-20240206
 doctype: technicalReport
 editorialgroup:
-- name: Web Payments Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

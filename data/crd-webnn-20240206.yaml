@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20240202
+id: W3CCRD-webnn-20240206
 title:
-- content: WebGPU Shading Language
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20240202/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240206/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20240202
+- id: W3C CRD-webnn-20240206
   type: W3C
   primary: true
-docnumber: WD-WGSL-20240202
+docnumber: CRD-webnn-20240206
 date:
 - type: published
-  value: '2024-02-02'
+  value: '2024-02-06'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Chai Chaoweeraprasit
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-02-02'
+revdate: '2024-02-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20240131
+    id: W3CCRD-webnn-20240205
     docid:
-    - id: W3C WD-WGSL-20240131
+    - id: W3C CRD-webnn-20240205
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20240131
+      content: W3C CRD-webnn-20240205
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20240202
+  number: CRD-webnn-20240206
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

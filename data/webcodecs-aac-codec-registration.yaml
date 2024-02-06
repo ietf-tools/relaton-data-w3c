@@ -20,23 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-webcodecs-aac-codec-registration-20240201
+    id: W3CDNOTE-webcodecs-aac-codec-registration-20240206
     docid:
-    - id: W3C DNOTE-webcodecs-aac-codec-registration-20240201
+    - id: W3C DNOTE-webcodecs-aac-codec-registration-20240206
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-aac-codec-registration-20240201
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-webcodecs-aac-codec-registration-20220524
-    docid:
-    - id: W3C DNOTE-webcodecs-aac-codec-registration-20220524
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-webcodecs-aac-codec-registration-20220524
+      content: W3C DNOTE-webcodecs-aac-codec-registration-20240206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-webcodecs-aac-codec-registration-20211216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-webcodecs-aac-codec-registration-20220524
+    docid:
+    - id: W3C DNOTE-webcodecs-aac-codec-registration-20220524
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-webcodecs-aac-codec-registration-20220524
       format: text/plain
 series:
 - title:

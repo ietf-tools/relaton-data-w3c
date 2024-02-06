@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-did-use-cases-20201218
-    docid:
-    - id: W3C WD-did-use-cases-20201218
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-did-use-cases-20201218
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-did-use-cases-20191204
     docid:
     - id: W3C WD-did-use-cases-20191204
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-did-use-cases-20191204
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-did-use-cases-20201218
+    docid:
+    - id: W3C WD-did-use-cases-20201218
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-did-use-cases-20201218
       format: text/plain
 series:
 - title:

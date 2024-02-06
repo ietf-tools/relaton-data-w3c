@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-quota-api-20131105
+id: W3CWD-webrtc-svc-20240205
 title:
-- content: Quota Management API
+- content: Scalable Video Coding (SVC) Extension for WebRTC
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2013/WD-quota-api-20131105/
+- content: https://www.w3.org/TR/2024/WD-webrtc-svc-20240205/
   type: src
-- content: http://dvcs.w3.org/hg/quota/raw-file/tip/Overview.html
+- content: https://w3c.github.io/webrtc-svc/
   type: current
 type: standard
 docid:
-- id: W3C WD-quota-api-20131105
+- id: W3C WD-webrtc-svc-20240205
   type: W3C
   primary: true
-docnumber: WD-quota-api-20131105
+docnumber: WD-webrtc-svc-20240205
 date:
 - type: published
-  value: '2013-11-05'
+  value: '2024-02-05'
 contributor:
 - person:
     name:
       completename:
-        content: Kinuko Yasuda
+        content: Bernard Aboba
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2013-11-05'
+revdate: '2024-02-05'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-quota-api-20120703
+    id: W3CWD-webrtc-svc-20240124
     docid:
-    - id: W3C WD-quota-api-20120703
+    - id: W3C WD-webrtc-svc-20240124
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-quota-api-20120703
+      content: W3C WD-webrtc-svc-20240124
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-quota-api-20131105
+  number: WD-webrtc-svc-20240205
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

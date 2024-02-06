@@ -23,23 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-webnn-20240203
+    id: W3CCRD-webnn-20240206
     docid:
-    - id: W3C CRD-webnn-20240203
+    - id: W3C CRD-webnn-20240206
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240203
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webnn-20220520
-    docid:
-    - id: W3C WD-webnn-20220520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webnn-20220520
+      content: W3C CRD-webnn-20240206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webnn-20211215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webnn-20220520
+    docid:
+    - id: W3C WD-webnn-20220520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webnn-20220520
       format: text/plain
 series:
 - title:

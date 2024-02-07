@@ -26269,11 +26269,6 @@
     :date: '20231011'
   :file: data/crd-performance-timeline-20231011.yaml
 - :id:
-    :code: contact-picker
-    :stage: WD
-    :date: '20231013'
-  :file: data/wd-contact-picker-20231013.yaml
-- :id:
     :code: presentation-api
     :stage: CRD
     :date: '20231016'
@@ -26394,15 +26389,15 @@
     :date: '20231120'
   :file: data/crd-mediacapture-streams-20231120.yaml
 - :id:
-    :code: mathml-core
-    :stage: WD
-    :date: '20231127'
-  :file: data/wd-mathml-core-20231127.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20231124'
   :file: data/dnote-mlreq-20231124.yaml
+- :id:
+    :code: mathml-core
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-mathml-core-20231127.yaml
 - :id:
     :code: proximity
     :stage: WD
@@ -26428,11 +26423,6 @@
     :stage: WD
     :date: '20231130'
   :file: data/wd-sparql12-results-xml-20231130.yaml
-- :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20231204'
-  :file: data/wd-html-aam-1.0-20231204.yaml
 - :id:
     :code: uievents
     :stage: WD
@@ -26974,6 +26964,16 @@
     :date: '20240206'
   :file: data/wd-css-fonts-5-20240206.yaml
 - :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20240206'
+  :file: data/wd-html-aam-1.0-20240206.yaml
+- :id:
+    :code: contact-picker
+    :stage: WD
+    :date: '20240207'
+  :file: data/wd-contact-picker-20240207.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27090,9 +27090,6 @@
     :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :id:
-    :code: contact-picker
-  :file: data/contact-picker.yaml
-- :id:
     :code: rch-explainer
   :file: data/rch-explainer.yaml
 - :id:
@@ -27198,3 +27195,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: contact-picker
+  :file: data/contact-picker.yaml

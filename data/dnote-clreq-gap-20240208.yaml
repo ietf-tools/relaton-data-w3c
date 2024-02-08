@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240206
+id: W3CDNOTE-clreq-gap-20240208
 title:
-- content: Web Neural Network API
+- content: Chinese Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240206/
+- content: https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240208/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://www.w3.org/International/clreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240206
+- id: W3C DNOTE-clreq-gap-20240208
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240206
+docnumber: DNOTE-clreq-gap-20240208
 date:
 - type: published
-  value: '2024-02-06'
+  value: '2024-02-08'
 contributor:
 - person:
     name:
       completename:
-        content: Chai Chaoweeraprasit
+        content: Fuqiao Xue
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-06'
+revdate: '2024-02-08'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240205
+    id: W3CDNOTE-clreq-gap-20231004
     docid:
-    - id: W3C CRD-webnn-20240205
+    - id: W3C DNOTE-clreq-gap-20231004
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240205
+      content: W3C DNOTE-clreq-gap-20231004
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-webnn-20240206
-doctype: technicalReport
+  number: DNOTE-clreq-gap-20240208
+doctype: groupNote
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

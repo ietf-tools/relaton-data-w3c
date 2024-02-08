@@ -1,48 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-model-2.0-20240205
+id: W3CWD-vc-jose-cose-20240207
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240205/
+- content: https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-model-2.0-20240205
+- id: W3C WD-vc-jose-cose-20240207
   type: W3C
   primary: true
-docnumber: CRD-vc-data-model-2.0-20240205
+docnumber: WD-vc-jose-cose-20240207
 date:
 - type: published
-  value: '2024-02-05'
+  value: '2024-02-07'
 contributor:
 - person:
     name:
       completename:
         content: Gabe Cohen
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Ivan Herman
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Manu Sporny
         language:
         - en
         script:
@@ -62,37 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Ted Thibodeau Jr
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-05'
+revdate: '2024-02-07'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20240204
+    id: W3CWD-vc-jose-cose-20240126
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20240204
+    - id: W3C WD-vc-jose-cose-20240126
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20240204
+      content: W3C WD-vc-jose-cose-20240126
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-data-model-2.0-20240205
+  number: WD-vc-jose-cose-20240207
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

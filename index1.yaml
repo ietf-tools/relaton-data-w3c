@@ -26204,40 +26204,35 @@
     :date: '20231004'
   :file: data/dnote-beng-gap-20231004.yaml
 - :id:
-    :code: clreq-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-clreq-gap-20231004.yaml
-- :id:
     :code: elreq-gap
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-elreq-gap-20231004.yaml
-- :id:
-    :code: grek-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-grek-gap-20231004.yaml
 - :id:
     :code: html-aria
     :stage: REC
     :date: '20231004'
   :file: data/rec-html-aria-20231004.yaml
 - :id:
+    :code: grek-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-grek-gap-20231004.yaml
+- :id:
     :code: network-error-logging
     :stage: WD
     :date: '20231005'
   :file: data/wd-network-error-logging-20231005.yaml
 - :id:
-    :code: jpan-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-jpan-gap-20231004.yaml
-- :id:
     :code: WCAG22
     :stage: REC
     :date: '20231005'
   :file: data/rec-wcag22-20231005.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-jpan-gap-20231004.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
@@ -26794,11 +26789,6 @@
     :date: '20240125'
   :file: data/crd-generic-sensor-20240125.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240126'
-  :file: data/wd-vc-jose-cose-20240126.yaml
-- :id:
     :code: design-principles
     :type: NOTE
     :date: '20240130'
@@ -26853,11 +26843,6 @@
     :stage: WD
     :date: '20240204'
   :file: data/wd-vc-bitstring-status-list-20240204.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240205'
-  :file: data/crd-vc-data-model-2.0-20240205.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
@@ -26954,11 +26939,6 @@
     :date: '20240206'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240206.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240206'
-  :file: data/crd-webnn-20240206.yaml
-- :id:
     :code: css-fonts-5
     :stage: WD
     :date: '20240206'
@@ -26973,6 +26953,31 @@
     :stage: WD
     :date: '20240207'
   :file: data/wd-contact-picker-20240207.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240207'
+  :file: data/crd-webnn-20240207.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240207'
+  :file: data/wd-vc-jose-cose-20240207.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240207'
+  :file: data/crd-vc-data-model-2.0-20240207.yaml
+- :id:
+    :code: webxr-hand-input-1
+    :stage: WD
+    :date: '20240207'
+  :file: data/wd-webxr-hand-input-1-20240207.yaml
+- :id:
+    :code: clreq-gap
+    :type: DNOTE
+    :date: '20240208'
+  :file: data/dnote-clreq-gap-20240208.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27172,9 +27177,6 @@
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :id:
@@ -27183,9 +27185,6 @@
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
@@ -27198,3 +27197,9 @@
 - :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

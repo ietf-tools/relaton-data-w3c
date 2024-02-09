@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-screen-capture-20231214
+id: W3CWD-rdf12-turtle-20240208
 title:
-- content: Screen Capture
+- content: RDF 1.2 Turtle
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-screen-capture-20231214/
+- content: https://www.w3.org/TR/2024/WD-rdf12-turtle-20240208/
   type: src
-- content: https://w3c.github.io/mediacapture-screen-share/
+- content: https://w3c.github.io/rdf-turtle/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-screen-capture-20231214
+- id: W3C WD-rdf12-turtle-20240208
   type: W3C
   primary: true
-docnumber: WD-screen-capture-20231214
+docnumber: WD-rdf12-turtle-20240208
 date:
 - type: published
-  value: '2023-12-14'
+  value: '2024-02-08'
 contributor:
 - person:
     name:
       completename:
-        content: Elad Alon
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Jan-Ivar Bruaroey
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-14'
+revdate: '2024-02-08'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-screen-capture-20231026
+    id: W3CWD-rdf12-turtle-20231104
     docid:
-    - id: W3C WD-screen-capture-20231026
+    - id: W3C WD-rdf12-turtle-20231104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20231026
+      content: W3C WD-rdf12-turtle-20231104
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-screen-capture-20231214
+  number: WD-rdf12-turtle-20240208
 doctype: technicalReport
-editorialgroup:
-- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

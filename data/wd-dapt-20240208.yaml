@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20221117
+id: W3CWD-dapt-20240208
 title:
-- content: Media Capabilities
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/WD-media-capabilities-20221117/
+- content: https://www.w3.org/TR/2024/WD-dapt-20240208/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20221117
+- id: W3C WD-dapt-20240208
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20221117
+docnumber: WD-dapt-20240208
 date:
 - type: published
-  value: '2022-11-17'
+  value: '2024-02-08'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Will Cassella
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-11-17'
+revdate: '2024-02-08'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20220803
+    id: W3CWD-dapt-20231221
     docid:
-    - id: W3C WD-media-capabilities-20220803
+    - id: W3C WD-dapt-20231221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20220803
+      content: W3C WD-dapt-20231221
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20221117
+  number: WD-dapt-20240208
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

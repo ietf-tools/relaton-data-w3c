@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-i18n-glossary-20240123
+id: W3CCRD-resource-timing-20240208
 title:
-- content: Internationalization Glossary
+- content: Resource Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240123/
+- content: https://www.w3.org/TR/2024/CRD-resource-timing-20240208/
   type: src
-- content: https://w3c.github.io/i18n-glossary/
+- content: https://w3c.github.io/resource-timing/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-i18n-glossary-20240123
+- id: W3C CRD-resource-timing-20240208
   type: W3C
   primary: true
-docnumber: DNOTE-i18n-glossary-20240123
+docnumber: CRD-resource-timing-20240208
 date:
 - type: published
-  value: '2024-01-23'
+  value: '2024-02-08'
 contributor:
 - person:
     name:
       completename:
-        content: Addison Phillips
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,36 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Ishida
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-23'
+revdate: '2024-02-08'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20240118
+    id: W3CCRD-resource-timing-20230511
     docid:
-    - id: W3C DNOTE-i18n-glossary-20240118
+    - id: W3C CRD-resource-timing-20230511
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-i18n-glossary-20240118
+      content: W3C CRD-resource-timing-20230511
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C CR
     format: text/plain
-  number: DNOTE-i18n-glossary-20240123
-doctype: groupNote
-editorialgroup:
-- name: Internationalization Working Group
+  number: CRD-resource-timing-20240208
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

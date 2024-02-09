@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-resource-timing-20230511
+id: W3CCRD-webnn-20240208
 title:
-- content: Resource Timing
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CRD-resource-timing-20230511/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240208/
   type: src
-- content: https://w3c.github.io/resource-timing/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C CRD-resource-timing-20230511
+- id: W3C CRD-webnn-20240208
   type: W3C
   primary: true
-docnumber: CRD-resource-timing-20230511
+docnumber: CRD-webnn-20240208
 date:
 - type: published
-  value: '2023-05-11'
+  value: '2024-02-08'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-05-11'
+revdate: '2024-02-08'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-resource-timing-20230509
+    id: W3CCRD-webnn-20240207
     docid:
-    - id: W3C CRD-resource-timing-20230509
+    - id: W3C CRD-webnn-20240207
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-resource-timing-20230509
+      content: W3C CRD-webnn-20240207
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-resource-timing-20230511
+  number: CRD-webnn-20240208
 doctype: technicalReport
+editorialgroup:
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

@@ -26834,11 +26834,6 @@
     :date: '20240207'
   :file: data/wd-vc-jose-cose-20240207.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240207'
-  :file: data/crd-vc-data-model-2.0-20240207.yaml
-- :id:
     :code: webxr-hand-input-1
     :stage: WD
     :date: '20240207'
@@ -26978,6 +26973,11 @@
     :stage: WD
     :date: '20240210'
   :file: data/wd-webxrlayers-1-20240210.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240210'
+  :file: data/crd-vc-data-model-2.0-20240210.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27186,9 +27186,6 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
@@ -27203,3 +27200,6 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

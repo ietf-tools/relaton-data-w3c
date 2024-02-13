@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xmlquery-full-text-use-cases-20051103
+    docid:
+    - id: W3C WD-xmlquery-full-text-use-cases-20051103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xmlquery-full-text-use-cases-20051103
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-xmlquery-full-text-use-cases-20060501
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xmlquery-full-text-use-cases-20040709
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-xmlquery-full-text-use-cases-20051103
-    docid:
-    - id: W3C WD-xmlquery-full-text-use-cases-20051103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xmlquery-full-text-use-cases-20051103
       format: text/plain
 series:
 - title:

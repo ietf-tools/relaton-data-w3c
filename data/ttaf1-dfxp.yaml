@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cttaf1-dfxp
 title:
-- content: Timed Text (TT) Authoring Format 1.0 – Distribution Format Exchange Profile
+- content: Timed Text (TT) Authoring Format 1.0 – Distribution Format Exchange Profile
     (DFXP)
   format: text/plain
 link:
@@ -24,16 +24,6 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CCR-ttaf1-dfxp-20061116
-    docid:
-    - id: W3C CR-ttaf1-dfxp-20061116
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-ttaf1-dfxp-20061116
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-ttaf1-dfxp-20090924
     docid:
     - id: W3C CR-ttaf1-dfxp-20090924
@@ -41,6 +31,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-ttaf1-dfxp-20090924
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ttaf1-dfxp-20050321
+    docid:
+    - id: W3C WD-ttaf1-dfxp-20050321
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ttaf1-dfxp-20050321
       format: text/plain
 - type: instance
   bibitem:
@@ -54,6 +54,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-ttaf1-dfxp-20061116
+    docid:
+    - id: W3C CR-ttaf1-dfxp-20061116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-ttaf1-dfxp-20061116
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-ttaf1-dfxp-20041101
     docid:
     - id: W3C WD-ttaf1-dfxp-20041101
@@ -61,16 +71,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ttaf1-dfxp-20041101
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-ttaf1-dfxp-20050321
-    docid:
-    - id: W3C WD-ttaf1-dfxp-20050321
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ttaf1-dfxp-20050321
       format: text/plain
 series:
 - title:

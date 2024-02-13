@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jose-cose-20240207
+id: W3CWD-dpub-aria-1.1-20240213
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/
+- content: https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240213/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jose-cose-20240207
+- id: W3C WD-dpub-aria-1.1-20240213
   type: W3C
   primary: true
-docnumber: WD-vc-jose-cose-20240207
+docnumber: WD-dpub-aria-1.1-20240213
 date:
 - type: published
-  value: '2024-02-07'
+  value: '2024-02-13'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Michael Prorock
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-02-07'
+revdate: '2024-02-13'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jose-cose-20240126
+    id: W3CWD-dpub-aria-1.1-20240123
     docid:
-    - id: W3C WD-vc-jose-cose-20240126
+    - id: W3C WD-dpub-aria-1.1-20240123
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jose-cose-20240126
+      content: W3C WD-dpub-aria-1.1-20240123
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jose-cose-20240207
+  number: WD-dpub-aria-1.1-20240213
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

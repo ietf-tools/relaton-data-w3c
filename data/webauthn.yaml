@@ -34,16 +34,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webauthn-20161207
-    docid:
-    - id: W3C WD-webauthn-20161207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webauthn-20161207
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webauthn-20171205
     docid:
     - id: W3C WD-webauthn-20171205
@@ -51,6 +41,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webauthn-20171205
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webauthn-20161207
+    docid:
+    - id: W3C WD-webauthn-20161207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webauthn-20161207
       format: text/plain
 series:
 - title:

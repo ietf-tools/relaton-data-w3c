@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-web-packaging-20180130
-    docid:
-    - id: W3C NOTE-web-packaging-20180130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-web-packaging-20180130
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-web-packaging-20150115
     docid:
     - id: W3C WD-web-packaging-20150115
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-web-packaging-20150115
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-web-packaging-20180130
+    docid:
+    - id: W3C NOTE-web-packaging-20180130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-web-packaging-20180130
       format: text/plain
 series:
 - title:

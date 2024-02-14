@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240213
+id: W3CCRD-css-color-4-20240213
 title:
-- content: Web Neural Network API
+- content: CSS Color Module Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240213/
+- content: https://www.w3.org/TR/2024/CRD-css-color-4-20240213/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://drafts.csswg.org/css-color-4/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240213
+- id: W3C CRD-css-color-4-20240213
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240213
+docnumber: CRD-css-color-4-20240213
 date:
 - type: published
   value: '2024-02-13'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Dwayne Robinson
+        content: Chris Lilley
         language:
         - en
         script:
@@ -32,7 +32,17 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Lea Verou
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tab Atkins Jr.
         language:
         - en
         script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240212
+    id: W3CCRD-css-color-4-20221101
     docid:
-    - id: W3C CRD-webnn-20240212
+    - id: W3C CRD-css-color-4-20221101
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240212
+      content: W3C CRD-css-color-4-20221101
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-webnn-20240213
+  number: CRD-css-color-4-20240213
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

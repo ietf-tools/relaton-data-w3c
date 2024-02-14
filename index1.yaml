@@ -25469,11 +25469,6 @@
     :date: '20221025'
   :file: data/rec-css-contain-1-20221025.yaml
 - :id:
-    :code: css-color-4
-    :stage: CRD
-    :date: '20221101'
-  :file: data/crd-css-color-4-20221101.yaml
-- :id:
     :code: webxr-ar-module-1
     :stage: CRD
     :date: '20221102'
@@ -26764,11 +26759,6 @@
     :date: '20240201'
   :file: data/wd-navigation-timing-2-20240201.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240202'
-  :file: data/wd-orientation-event-20240202.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20240202'
@@ -26828,11 +26818,6 @@
     :stage: CRD
     :date: '20240208'
   :file: data/crd-resource-timing-20240208.yaml
-- :id:
-    :code: dapt
-    :stage: WD
-    :date: '20240208'
-  :file: data/wd-dapt-20240208.yaml
 - :id:
     :code: i18n-glossary
     :type: DNOTE
@@ -26964,11 +26949,6 @@
     :date: '20240212'
   :file: data/wd-media-capabilities-20240212.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240213'
-  :file: data/crd-webnn-20240213.yaml
-- :id:
     :code: dpub-aria-1.1
     :stage: WD
     :date: '20240213'
@@ -26978,6 +26958,26 @@
     :stage: WD
     :date: '20240213'
   :file: data/wd-dpub-aam-1.1-20240213.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20240213'
+  :file: data/wd-dapt-20240213.yaml
+- :id:
+    :code: css-color-4
+    :stage: CRD
+    :date: '20240213'
+  :file: data/crd-css-color-4-20240213.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240214'
+  :file: data/wd-orientation-event-20240214.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240214'
+  :file: data/crd-webnn-20240214.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27183,9 +27183,6 @@
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
@@ -27203,3 +27200,6 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml

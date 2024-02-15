@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-mediasession-20240122
+id: W3CWD-webdriver2-20240215
 title:
-- content: Media Session
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-mediasession-20240122/
+- content: https://www.w3.org/TR/2024/WD-webdriver2-20240215/
   type: src
-- content: https://w3c.github.io/mediasession/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-mediasession-20240122
+- id: W3C WD-webdriver2-20240215
   type: W3C
   primary: true
-docnumber: WD-mediasession-20240122
+docnumber: WD-webdriver2-20240215
 date:
 - type: published
-  value: '2024-01-22'
+  value: '2024-02-15'
 contributor:
 - person:
     name:
       completename:
-        content: Thomas Steimel
+        content: David Burns
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: youenn fablet
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-22'
+revdate: '2024-02-15'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mediasession-20240119
+    id: W3CWD-webdriver2-20240123
     docid:
-    - id: W3C WD-mediasession-20240119
+    - id: W3C WD-webdriver2-20240123
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediasession-20240119
+      content: W3C WD-webdriver2-20240123
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-mediasession-20240122
+  number: WD-webdriver2-20240215
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

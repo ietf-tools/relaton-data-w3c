@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240214
+id: W3CWD-mediasession-20240215
 title:
-- content: Web Neural Network API
+- content: Media Session
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240214/
+- content: https://www.w3.org/TR/2024/WD-mediasession-20240215/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://w3c.github.io/mediasession/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240214
+- id: W3C WD-mediasession-20240215
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240214
+docnumber: WD-mediasession-20240215
 date:
 - type: published
-  value: '2024-02-14'
+  value: '2024-02-15'
 contributor:
 - person:
     name:
       completename:
-        content: Dwayne Robinson
+        content: Thomas Steimel
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-14'
+revdate: '2024-02-15'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240213
+    id: W3CWD-mediasession-20240122
     docid:
-    - id: W3C CRD-webnn-20240213
+    - id: W3C WD-mediasession-20240122
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240213
+      content: W3C WD-mediasession-20240122
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webnn-20240214
+  number: WD-mediasession-20240215
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

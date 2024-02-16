@@ -26949,11 +26949,6 @@
     :date: '20240213'
   :file: data/wd-dpub-aam-1.1-20240213.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20240213'
-  :file: data/wd-dapt-20240213.yaml
-- :id:
     :code: css-color-4
     :stage: CRD
     :date: '20240213'
@@ -26964,11 +26959,6 @@
     :date: '20240214'
   :file: data/wd-orientation-event-20240214.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20240215'
-  :file: data/wd-mediasession-20240215.yaml
-- :id:
     :code: webdriver2
     :stage: WD
     :date: '20240215'
@@ -26978,6 +26968,31 @@
     :stage: CRD
     :date: '20240215'
   :file: data/crd-webnn-20240215.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20240215'
+  :file: data/wd-dapt-20240215.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240216'
+  :file: data/wd-wasm-web-api-2-20240216.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20240216'
+  :file: data/wd-wasm-js-api-2-20240216.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20240216'
+  :file: data/wd-mediasession-20240216.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20240216'
+  :file: data/rec-html-aria-20240216.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

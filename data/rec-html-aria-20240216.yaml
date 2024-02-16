@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dapt-20240213
+id: W3CREC-html-aria-20240216
 title:
-- content: Dubbing and Audio description Profiles of TTML2
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-dapt-20240213/
+- content: https://www.w3.org/TR/2024/REC-html-aria-20240216/
   type: src
-- content: https://w3c.github.io/dapt/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-dapt-20240213
+- id: W3C REC-html-aria-20240216
   type: W3C
   primary: true
-docnumber: WD-dapt-20240213
+docnumber: REC-html-aria-20240216
 date:
 - type: published
-  value: '2024-02-13'
+  value: '2024-02-16'
 contributor:
 - person:
     name:
       completename:
-        content: Cyril Concolato
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Nigel Megitt
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-13'
+revdate: '2024-02-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dapt-20240208
+    id: W3CREC-html-aria-20231221
     docid:
-    - id: W3C WD-dapt-20240208
+    - id: W3C REC-html-aria-20231221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dapt-20240208
+      content: W3C REC-html-aria-20231221
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-dapt-20240213
+  number: REC-html-aria-20240216
 doctype: technicalReport
 editorialgroup:
-- name: Timed Text Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-wasm-core-2-20240217
+title:
+- content: WebAssembly Core Specification
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240217/
+  type: src
+- content: https://webassembly.github.io/spec/core/bikeshed/
+  type: current
+type: standard
+docid:
+- id: W3C WD-wasm-core-2-20240217
+  type: W3C
+  primary: true
+docnumber: WD-wasm-core-2-20240217
+date:
+- type: published
+  value: '2024-02-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Andreas Rossberg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-02-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-wasm-core-2-20220419
+    docid:
+    - id: W3C WD-wasm-core-2-20220419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wasm-core-2-20220419
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-wasm-core-2-20240217
+doctype: technicalReport
+editorialgroup:
+- name: WebAssembly Working Group
+ext:
+  schema-version: v1.0.0

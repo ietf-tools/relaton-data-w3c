@@ -26709,11 +26709,6 @@
     :date: '20240125'
   :file: data/wd-rdf12-semantics-20240125.yaml
 - :id:
-    :code: generic-sensor
-    :stage: CRD
-    :date: '20240125'
-  :file: data/crd-generic-sensor-20240125.yaml
-- :id:
     :code: design-principles
     :type: NOTE
     :date: '20240130'
@@ -26723,11 +26718,6 @@
     :stage: WD
     :date: '20240131'
   :file: data/wd-miniapp-addressing-20240131.yaml
-- :id:
-    :code: longtasks-1
-    :stage: WD
-    :date: '20240131'
-  :file: data/wd-longtasks-1-20240131.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -26929,11 +26919,6 @@
     :date: '20240212'
   :file: data/wd-permissions-20240212.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240212'
-  :file: data/wd-vc-jose-cose-20240212.yaml
-- :id:
     :code: media-capabilities
     :stage: WD
     :date: '20240212'
@@ -26974,16 +26959,6 @@
     :date: '20240215'
   :file: data/wd-dapt-20240215.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240216'
-  :file: data/wd-wasm-web-api-2-20240216.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20240216'
-  :file: data/wd-wasm-js-api-2-20240216.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240216'
@@ -26993,6 +26968,41 @@
     :stage: REC
     :date: '20240216'
   :file: data/rec-html-aria-20240216.yaml
+- :id:
+    :code: performance-timeline
+    :stage: CRD
+    :date: '20240216'
+  :file: data/crd-performance-timeline-20240216.yaml
+- :id:
+    :code: longtasks-1
+    :stage: WD
+    :date: '20240216'
+  :file: data/wd-longtasks-1-20240216.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240216'
+  :file: data/wd-vc-jose-cose-20240216.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240217'
+  :file: data/wd-wasm-core-2-20240217.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20240217'
+  :file: data/wd-wasm-js-api-2-20240217.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240217'
+  :file: data/wd-wasm-web-api-2-20240217.yaml
+- :id:
+    :code: generic-sensor
+    :stage: CRD
+    :date: '20240217'
+  :file: data/crd-generic-sensor-20240217.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27213,8 +27223,8 @@
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

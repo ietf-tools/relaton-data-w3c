@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-js-api-2-20240216
+id: W3CWD-longtasks-1-20240216
 title:
-- content: WebAssembly JavaScript Interface
+- content: Long Tasks API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240216/
+- content: https://www.w3.org/TR/2024/WD-longtasks-1-20240216/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://w3c.github.io/longtasks/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-js-api-2-20240216
+- id: W3C WD-longtasks-1-20240216
   type: W3C
   primary: true
-docnumber: WD-wasm-js-api-2-20240216
+docnumber: WD-longtasks-1-20240216
 date:
 - type: published
   value: '2024-02-16'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -40,21 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20240215
+    id: W3CWD-longtasks-1-20240131
     docid:
-    - id: W3C WD-wasm-js-api-2-20240215
+    - id: W3C WD-longtasks-1-20240131
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20240215
+      content: W3C WD-longtasks-1-20240131
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-js-api-2-20240216
+  number: WD-longtasks-1-20240216
 doctype: technicalReport
-editorialgroup:
-- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

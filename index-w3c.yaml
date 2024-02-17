@@ -6060,8 +6060,8 @@
   :file: data/cr-generic-sensor-20180320.yaml
 - :code: generic-sensor
   :stage: CRD
-  :date: '20240125'
-  :file: data/crd-generic-sensor-20240125.yaml
+  :date: '20240217'
+  :file: data/crd-generic-sensor-20240217.yaml
 - :code: generic-sensor
   :stage: CRD
   :date: '20220502'
@@ -8200,8 +8200,8 @@
   :file: data/longtasks-1.yaml
 - :code: longtasks-1
   :stage: WD
-  :date: '20240131'
-  :file: data/wd-longtasks-1-20240131.yaml
+  :date: '20240216'
+  :file: data/wd-longtasks-1-20240216.yaml
 - :code: longtasks-1
   :stage: WD
   :date: '20170907'
@@ -10227,6 +10227,10 @@
   :stage: CR
   :date: '20120726'
   :file: data/cr-performance-timeline-20120726.yaml
+- :code: performance-timeline
+  :stage: CRD
+  :date: '20240216'
+  :file: data/crd-performance-timeline-20240216.yaml
 - :code: performance-timeline
   :stage: CRD
   :date: '20240202'
@@ -15063,8 +15067,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: WD
-  :date: '20240212'
-  :file: data/wd-vc-jose-cose-20240212.yaml
+  :date: '20240216'
+  :file: data/wd-vc-jose-cose-20240216.yaml
 - :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
@@ -15780,6 +15784,10 @@
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
   :stage: WD
+  :date: '20240217'
+  :file: data/wd-wasm-core-2-20240217.yaml
+- :code: wasm-core-2
+  :stage: WD
   :date: '20220419'
   :file: data/wd-wasm-core-2-20220419.yaml
 - :code: wasm-js-api-1
@@ -15796,8 +15804,8 @@
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
   :stage: WD
-  :date: '20240216'
-  :file: data/wd-wasm-js-api-2-20240216.yaml
+  :date: '20240217'
+  :file: data/wd-wasm-js-api-2-20240217.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20220419'
@@ -15816,8 +15824,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240216'
-  :file: data/wd-wasm-web-api-2-20240216.yaml
+  :date: '20240217'
+  :file: data/wd-wasm-web-api-2-20240217.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'

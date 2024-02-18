@@ -26949,11 +26949,6 @@
     :date: '20240215'
   :file: data/wd-webdriver2-20240215.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240215'
-  :file: data/crd-webnn-20240215.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240215'
@@ -26984,25 +26979,30 @@
     :date: '20240216'
   :file: data/wd-vc-jose-cose-20240216.yaml
 - :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20240217'
-  :file: data/wd-wasm-core-2-20240217.yaml
-- :id:
     :code: wasm-js-api-2
     :stage: WD
     :date: '20240217'
   :file: data/wd-wasm-js-api-2-20240217.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240217'
-  :file: data/wd-wasm-web-api-2-20240217.yaml
-- :id:
     :code: generic-sensor
     :stage: CRD
     :date: '20240217'
   :file: data/crd-generic-sensor-20240217.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240218'
+  :file: data/crd-webnn-20240218.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240218'
+  :file: data/wd-wasm-web-api-2-20240218.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240218'
+  :file: data/wd-wasm-core-2-20240218.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

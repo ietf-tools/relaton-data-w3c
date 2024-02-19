@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-privacy-principles-20240118
+id: W3CDNOTE-privacy-principles-20240218
 title:
 - content: Privacy Principles
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-privacy-principles-20240118/
+- content: https://www.w3.org/TR/2024/DNOTE-privacy-principles-20240218/
   type: src
 - content: https://w3ctag.github.io/privacy-principles/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-privacy-principles-20240118
+- id: W3C DNOTE-privacy-principles-20240218
   type: W3C
   primary: true
-docnumber: DNOTE-privacy-principles-20240118
+docnumber: DNOTE-privacy-principles-20240218
 date:
 - type: published
-  value: '2024-01-18'
+  value: '2024-02-18'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-18'
+revdate: '2024-02-18'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-privacy-principles-20230906
+    id: W3CDNOTE-privacy-principles-20240118
     docid:
-    - id: W3C DNOTE-privacy-principles-20230906
+    - id: W3C DNOTE-privacy-principles-20240118
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-privacy-principles-20230906
+      content: W3C DNOTE-privacy-principles-20240118
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-privacy-principles-20240118
+  number: DNOTE-privacy-principles-20240218
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-generic-sensor-20240217
+id: W3CCRD-generic-sensor-20240220
 title:
 - content: Generic Sensor API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-generic-sensor-20240217/
+- content: https://www.w3.org/TR/2024/CRD-generic-sensor-20240220/
   type: src
 - content: https://w3c.github.io/sensors/
   type: current
 type: standard
 docid:
-- id: W3C CRD-generic-sensor-20240217
+- id: W3C CRD-generic-sensor-20240220
   type: W3C
   primary: true
-docnumber: CRD-generic-sensor-20240217
+docnumber: CRD-generic-sensor-20240220
 date:
 - type: published
-  value: '2024-02-17'
+  value: '2024-02-20'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-17'
+revdate: '2024-02-20'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-generic-sensor-20240125
+    id: W3CCRD-generic-sensor-20240217
     docid:
-    - id: W3C CRD-generic-sensor-20240125
+    - id: W3C CRD-generic-sensor-20240217
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-generic-sensor-20240125
+      content: W3C CRD-generic-sensor-20240217
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-generic-sensor-20240217
+  number: CRD-generic-sensor-20240220
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

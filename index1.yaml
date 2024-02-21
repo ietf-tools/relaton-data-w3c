@@ -26654,11 +26654,6 @@
     :date: '20240123'
   :file: data/wd-wai-aria-1.3-20240123.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20240123'
-  :file: data/wd-csp3-20240123.yaml
-- :id:
     :code: gamepad
     :stage: WD
     :date: '20240124'
@@ -26669,15 +26664,15 @@
     :date: '20240124'
   :file: data/wd-ambient-light-20240124.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240125'
-  :file: data/dnote-typography-20240125.yaml
-- :id:
     :code: css-viewport-1
     :stage: WD
     :date: '20240125'
   :file: data/wd-css-viewport-1-20240125.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240125'
+  :file: data/dnote-typography-20240125.yaml
 - :id:
     :code: css-gcpm-3
     :stage: WD
@@ -26743,11 +26738,6 @@
     :stage: WD
     :date: '20240205'
   :file: data/wd-webrtc-svc-20240205.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240205'
-  :file: data/wd-wgsl-20240205.yaml
 - :id:
     :code: webgpu
     :stage: WD
@@ -27003,6 +26993,16 @@
     :stage: CRD
     :date: '20240220'
   :file: data/crd-generic-sensor-20240220.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240220'
+  :file: data/wd-wgsl-20240220.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20240221'
+  :file: data/wd-csp3-20240221.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

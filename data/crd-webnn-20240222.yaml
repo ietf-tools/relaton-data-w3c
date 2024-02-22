@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-uievents-20231204
+id: W3CCRD-webnn-20240222
 title:
-- content: UI Events
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-uievents-20231204/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240222/
   type: src
-- content: https://w3c.github.io/uievents/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-uievents-20231204
+- id: W3C CRD-webnn-20240222
   type: W3C
   primary: true
-docnumber: WD-uievents-20231204
+docnumber: CRD-webnn-20240222
 date:
 - type: published
-  value: '2023-12-04'
+  value: '2024-02-22'
 contributor:
 - person:
     name:
       completename:
-        content: Gary Kacmarcik
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Travis Leithead
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-04'
+revdate: '2024-02-22'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20230915
+    id: W3CCRD-webnn-20240221
     docid:
-    - id: W3C WD-uievents-20230915
+    - id: W3C CRD-webnn-20240221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20230915
+      content: W3C CRD-webnn-20240221
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-uievents-20231204
+  number: CRD-webnn-20240222
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

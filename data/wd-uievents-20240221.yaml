@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-viss2-core-20231114
+id: W3CWD-uievents-20240221
 title:
-- content: VISS version 2 - Core
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-viss2-core-20231114/
+- content: https://www.w3.org/TR/2024/WD-uievents-20240221/
   type: src
-- content: https://github.com/w3c/automotive/blob/gh-pages/spec/VISSv2_Core.html
+- content: https://w3c.github.io/uievents/
   type: current
 type: standard
 docid:
-- id: W3C WD-viss2-core-20231114
+- id: W3C WD-uievents-20240221
   type: W3C
   primary: true
-docnumber: WD-viss2-core-20231114
+docnumber: WD-uievents-20240221
 date:
 - type: published
-  value: '2023-11-14'
+  value: '2024-02-21'
 contributor:
 - person:
     name:
       completename:
-        content: Isaac Agudo
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ulf Bjorkengren
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Wonsuk Lee
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-11-14'
+revdate: '2024-02-21'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-viss2-core-20230927
+    id: W3CWD-uievents-20231204
     docid:
-    - id: W3C WD-viss2-core-20230927
+    - id: W3C WD-uievents-20231204
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20230927
+      content: W3C WD-uievents-20231204
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-viss2-core-20231114
+  number: WD-uievents-20240221
 doctype: technicalReport
 editorialgroup:
-- name: Automotive Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

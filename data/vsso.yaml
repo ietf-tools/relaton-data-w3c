@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDISC-vsso-20240222
+    docid:
+    - id: W3C DISC-vsso-20240222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DISC-vsso-20240222
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-vsso-20220303
     docid:
@@ -33,7 +40,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: vsso
 doctype: technicalReport

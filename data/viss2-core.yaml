@@ -17,19 +17,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-viss2-core-20231114
+    id: W3CDISC-viss2-core-20240221
     docid:
-    - id: W3C WD-viss2-core-20231114
+    - id: W3C DISC-viss2-core-20240221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-viss2-core-20231114
+      content: W3C DISC-viss2-core-20240221
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,7 +50,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: viss2-core
 doctype: technicalReport

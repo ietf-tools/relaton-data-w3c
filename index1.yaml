@@ -26829,11 +26829,6 @@
     :date: '20240208'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240208.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240209'
-  :file: data/crd-vc-di-ecdsa-20240209.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20240210'
@@ -26909,16 +26904,6 @@
     :date: '20240216'
   :file: data/wd-vc-jose-cose-20240216.yaml
 - :id:
-    :code: ethical-web-principles
-    :type: DNOTE
-    :date: '20240218'
-  :file: data/dnote-ethical-web-principles-20240218.yaml
-- :id:
-    :code: privacy-principles
-    :type: DNOTE
-    :date: '20240218'
-  :file: data/dnote-privacy-principles-20240218.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240219'
@@ -26993,6 +26978,21 @@
     :stage: CRD
     :date: '20240225'
   :file: data/crd-vc-data-integrity-20240225.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240225'
+  :file: data/crd-vc-di-ecdsa-20240225.yaml
+- :id:
+    :code: privacy-principles
+    :type: DNOTE
+    :date: '20240226'
+  :file: data/dnote-privacy-principles-20240226.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: DNOTE
+    :date: '20240226'
+  :file: data/dnote-ethical-web-principles-20240226.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27201,9 +27201,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
@@ -27218,3 +27215,6 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

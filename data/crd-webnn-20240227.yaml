@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aria-1.1-20240213
+id: W3CCRD-webnn-20240227
 title:
-- content: Digital Publishing WAI-ARIA Module 1.1
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240213/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240227/
   type: src
-- content: https://w3c.github.io/dpub-aria/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aria-1.1-20240213
+- id: W3C CRD-webnn-20240227
   type: W3C
   primary: true
-docnumber: WD-dpub-aria-1.1-20240213
+docnumber: CRD-webnn-20240227
 date:
 - type: published
-  value: '2024-02-13'
+  value: '2024-02-27'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-13'
+revdate: '2024-02-27'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20240123
+    id: W3CCRD-webnn-20240222
     docid:
-    - id: W3C WD-dpub-aria-1.1-20240123
+    - id: W3C CRD-webnn-20240222
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aria-1.1-20240123
+      content: W3C CRD-webnn-20240222
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-dpub-aria-1.1-20240213
+  number: CRD-webnn-20240227
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

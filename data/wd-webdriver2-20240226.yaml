@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dpub-aam-1.1-20240213
+id: W3CWD-webdriver2-20240226
 title:
-- content: Digital Publishing Accessibility API Mappings 1.1
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-dpub-aam-1.1-20240213/
+- content: https://www.w3.org/TR/2024/WD-webdriver2-20240226/
   type: src
-- content: https://w3c.github.io/dpub-aam/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-dpub-aam-1.1-20240213
+- id: W3C WD-webdriver2-20240226
   type: W3C
   primary: true
-docnumber: WD-dpub-aam-1.1-20240213
+docnumber: WD-webdriver2-20240226
 date:
 - type: published
-  value: '2024-02-13'
+  value: '2024-02-26'
 contributor:
 - person:
     name:
       completename:
-        content: Matt Garrish
+        content: David Burns
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tzviya Siegman
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-13'
+revdate: '2024-02-26'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dpub-aam-1.1-20240123
+    id: W3CWD-webdriver2-20240215
     docid:
-    - id: W3C WD-dpub-aam-1.1-20240123
+    - id: W3C WD-webdriver2-20240215
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dpub-aam-1.1-20240123
+      content: W3C WD-webdriver2-20240215
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dpub-aam-1.1-20240213
+  number: WD-webdriver2-20240226
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

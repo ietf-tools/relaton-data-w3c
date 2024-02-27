@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver2-20240215
+id: W3CCR-dpub-aria-1.1-20240227
 title:
-- content: WebDriver
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver2-20240215/
+- content: https://www.w3.org/TR/2024/CR-dpub-aria-1.1-20240227/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20240215
+- id: W3C CR-dpub-aria-1.1-20240227
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20240215
+docnumber: CR-dpub-aria-1.1-20240227
 date:
 - type: published
-  value: '2024-02-15'
+  value: '2024-02-27'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-15'
+revdate: '2024-02-27'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20240123
+    id: W3CWD-dpub-aria-1.1-20240213
     docid:
-    - id: W3C WD-webdriver2-20240123
+    - id: W3C WD-dpub-aria-1.1-20240213
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20240123
+      content: W3C WD-dpub-aria-1.1-20240213
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webdriver2-20240215
+  number: CR-dpub-aria-1.1-20240227
 doctype: technicalReport
 editorialgroup:
-- name: Browser Testing and Tools Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

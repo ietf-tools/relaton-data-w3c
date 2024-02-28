@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20240220
+id: W3CWD-accname-1.2-20240227
 title:
-- content: WebGPU Shading Language
+- content: Accessible Name and Description Computation 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20240220/
+- content: https://www.w3.org/TR/2024/WD-accname-1.2-20240227/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/accname/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20240220
+- id: W3C WD-accname-1.2-20240227
   type: W3C
   primary: true
-docnumber: WD-WGSL-20240220
+docnumber: WD-accname-1.2-20240227
 date:
 - type: published
-  value: '2024-02-20'
+  value: '2024-02-27'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Bryan Garaventa
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Melanie Sumner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-02-20'
+revdate: '2024-02-27'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20240205
+    id: W3CWD-accname-1.2-20190711
     docid:
-    - id: W3C WD-WGSL-20240205
+    - id: W3C WD-accname-1.2-20190711
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20240205
+      content: W3C WD-accname-1.2-20190711
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20240220
+  number: WD-accname-1.2-20240227
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

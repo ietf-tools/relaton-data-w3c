@@ -26714,11 +26714,6 @@
     :date: '20240206'
   :file: data/wd-css-fonts-5-20240206.yaml
 - :id:
-    :code: contact-picker
-    :stage: WD
-    :date: '20240207'
-  :file: data/wd-contact-picker-20240207.yaml
-- :id:
     :code: webxr-hand-input-1
     :stage: WD
     :date: '20240207'
@@ -26899,11 +26894,6 @@
     :date: '20240219'
   :file: data/wd-wasm-js-api-2-20240219.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240220'
-  :file: data/wd-wgsl-20240220.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20240221'
@@ -26964,11 +26954,6 @@
     :date: '20240226'
   :file: data/wd-webdriver2-20240226.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240226'
-  :file: data/crd-vc-data-model-2.0-20240226.yaml
-- :id:
     :code: vc-jose-cose
     :stage: WD
     :date: '20240226'
@@ -26979,11 +26964,6 @@
     :date: '20240226'
   :file: data/wd-html-aam-1.0-20240226.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240227'
-  :file: data/crd-webnn-20240227.yaml
-- :id:
     :code: dpub-aria-1.1
     :stage: CR
     :date: '20240227'
@@ -26993,6 +26973,31 @@
     :stage: CR
     :date: '20240227'
   :file: data/cr-dpub-aam-1.1-20240227.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240227'
+  :file: data/crd-vc-data-model-2.0-20240227.yaml
+- :id:
+    :code: accname-1.2
+    :stage: WD
+    :date: '20240227'
+  :file: data/wd-accname-1.2-20240227.yaml
+- :id:
+    :code: contact-picker
+    :stage: WD
+    :date: '20240227'
+  :file: data/wd-contact-picker-20240227.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240228'
+  :file: data/crd-webnn-20240228.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240228'
+  :file: data/wd-wgsl-20240228.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27189,9 +27194,6 @@
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
 - :id:
-    :code: contact-picker
-  :file: data/contact-picker.yaml
-- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
@@ -27213,8 +27215,11 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
+    :code: contact-picker
+  :file: data/contact-picker.yaml

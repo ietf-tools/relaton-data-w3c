@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-openscreenprotocol-20240122
+id: W3CWD-wasm-web-api-2-20240228
 title:
-- content: Open Screen Protocol
+- content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/
+- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240228/
   type: src
-- content: https://w3c.github.io/openscreenprotocol/
+- content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-openscreenprotocol-20240122
+- id: W3C WD-wasm-web-api-2-20240228
   type: W3C
   primary: true
-docnumber: WD-openscreenprotocol-20240122
+docnumber: WD-wasm-web-api-2-20240228
 date:
 - type: published
-  value: '2024-01-22'
+  value: '2024-02-28'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: ". Ms2ger"
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-22'
+revdate: '2024-02-28'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-openscreenprotocol-20231016
+    id: W3CWD-wasm-web-api-2-20240219
     docid:
-    - id: W3C WD-openscreenprotocol-20231016
+    - id: W3C WD-wasm-web-api-2-20240219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-openscreenprotocol-20231016
+      content: W3C WD-wasm-web-api-2-20240219
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-openscreenprotocol-20240122
+  number: WD-wasm-web-api-2-20240228
 doctype: technicalReport
 editorialgroup:
-- name: Second Screen Working Group
+- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

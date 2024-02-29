@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-baggage-20240119
+id: W3CWD-baggage-20240228
 title:
 - content: 'Propagation format for distributed context: Baggage'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-baggage-20240119/
+- content: https://www.w3.org/TR/2024/WD-baggage-20240228/
   type: src
 - content: https://w3c.github.io/baggage/
   type: current
 type: standard
 docid:
-- id: W3C WD-baggage-20240119
+- id: W3C WD-baggage-20240228
   type: W3C
   primary: true
-docnumber: WD-baggage-20240119
+docnumber: WD-baggage-20240228
 date:
 - type: published
-  value: '2024-01-19'
+  value: '2024-02-28'
 contributor:
 - person:
     name:
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-19'
+revdate: '2024-02-28'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-baggage-20230810
+    id: W3CWD-baggage-20240119
     docid:
-    - id: W3C WD-baggage-20230810
+    - id: W3C WD-baggage-20240119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-baggage-20230810
+      content: W3C WD-baggage-20240119
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-baggage-20240119
+  number: WD-baggage-20240228
 doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group

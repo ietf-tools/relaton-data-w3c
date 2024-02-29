@@ -1,60 +1,60 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-web-api-2-20240219
+id: W3CPR-imsc-hrm-20240229
 title:
-- content: WebAssembly Web API
+- content: IMSC Hypothetical Render Model
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240219/
+- content: https://www.w3.org/TR/2024/PR-imsc-hrm-20240229/
   type: src
-- content: https://webassembly.github.io/spec/web-api/
+- content: https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-web-api-2-20240219
+- id: W3C PR-imsc-hrm-20240229
   type: W3C
   primary: true
-docnumber: WD-wasm-web-api-2-20240219
+docnumber: PR-imsc-hrm-20240229
 date:
 - type: published
-  value: '2024-02-19'
+  value: '2024-02-29'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Pierre-Anthony Lemieux
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-19'
+revdate: '2024-02-29'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: proposedRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-web-api-2-20240218
+    id: W3CCRD-imsc-hrm-20240111
     docid:
-    - id: W3C WD-wasm-web-api-2-20240218
+    - id: W3C CRD-imsc-hrm-20240111
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-web-api-2-20240218
+      content: W3C CRD-imsc-hrm-20240111
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C PR
     format: text/plain
-  number: WD-wasm-web-api-2-20240219
+  number: PR-imsc-hrm-20240229
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

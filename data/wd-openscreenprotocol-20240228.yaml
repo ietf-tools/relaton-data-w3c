@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20240219
+id: W3CWD-openscreenprotocol-20240228
 title:
-- content: WebAssembly Core Specification
+- content: Open Screen Protocol
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240219/
+- content: https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/
   type: src
-- content: https://webassembly.github.io/spec/core/bikeshed/
+- content: https://w3c.github.io/openscreenprotocol/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20240219
+- id: W3C WD-openscreenprotocol-20240228
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20240219
+docnumber: WD-openscreenprotocol-20240228
 date:
 - type: published
-  value: '2024-02-19'
+  value: '2024-02-28'
 contributor:
 - person:
     name:
       completename:
-        content: Andreas Rossberg
+        content: Mark Foltz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-19'
+revdate: '2024-02-28'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20240218
+    id: W3CWD-openscreenprotocol-20240122
     docid:
-    - id: W3C WD-wasm-core-2-20240218
+    - id: W3C WD-openscreenprotocol-20240122
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20240218
+      content: W3C WD-openscreenprotocol-20240122
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20240219
+  number: WD-openscreenprotocol-20240228
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Second Screen Working Group
 ext:
   schema-version: v1.0.0

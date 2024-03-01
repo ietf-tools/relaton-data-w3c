@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-string-meta-20240122
+id: W3CDNOTE-string-meta-20240229
 title:
 - content: 'Strings on the Web: Language and Direction Metadata'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-string-meta-20240122/
+- content: https://www.w3.org/TR/2024/DNOTE-string-meta-20240229/
   type: src
 - content: https://w3c.github.io/string-meta/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-string-meta-20240122
+- id: W3C DNOTE-string-meta-20240229
   type: W3C
   primary: true
-docnumber: DNOTE-string-meta-20240122
+docnumber: DNOTE-string-meta-20240229
 date:
 - type: published
-  value: '2024-01-22'
+  value: '2024-02-29'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-22'
+revdate: '2024-02-29'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-string-meta-20230720
+    id: W3CDNOTE-string-meta-20240122
     docid:
-    - id: W3C DNOTE-string-meta-20230720
+    - id: W3C DNOTE-string-meta-20240122
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-string-meta-20230720
+      content: W3C DNOTE-string-meta-20240122
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-string-meta-20240122
+  number: DNOTE-string-meta-20240229
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

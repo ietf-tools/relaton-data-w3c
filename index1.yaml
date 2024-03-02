@@ -26989,11 +26989,6 @@
     :date: '20240229'
   :file: data/dnote-string-meta-20240229.yaml
 - :id:
-    :code: rdf-canon
-    :stage: CRD
-    :date: '20240229'
-  :file: data/crd-rdf-canon-20240229.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240301'
@@ -27003,6 +26998,11 @@
     :stage: WD
     :date: '20240301'
   :file: data/wd-dapt-20240301.yaml
+- :id:
+    :code: rdf-canon
+    :stage: CRD
+    :date: '20240301'
+  :file: data/crd-rdf-canon-20240301.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27223,8 +27223,8 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

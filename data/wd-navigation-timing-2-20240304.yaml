@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-bbs-20240202
+id: W3CWD-navigation-timing-2-20240304
 title:
-- content: BBS Cryptosuite v2023
+- content: Navigation Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/
+- content: https://www.w3.org/TR/2024/WD-navigation-timing-2-20240304/
   type: src
-- content: https://w3c.github.io/vc-di-bbs/
+- content: https://w3c.github.io/navigation-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-bbs-20240202
+- id: W3C WD-navigation-timing-2-20240304
   type: W3C
   primary: true
-docnumber: WD-vc-di-bbs-20240202
+docnumber: WD-navigation-timing-2-20240304
 date:
 - type: published
-  value: '2024-02-02'
+  value: '2024-03-04'
 contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-02'
+revdate: '2024-03-04'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-bbs-20231218
+    id: W3CWD-navigation-timing-2-20240201
     docid:
-    - id: W3C WD-vc-di-bbs-20231218
+    - id: W3C WD-navigation-timing-2-20240201
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-bbs-20231218
+      content: W3C WD-navigation-timing-2-20240201
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-bbs-20240202
+  number: WD-navigation-timing-2-20240304
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

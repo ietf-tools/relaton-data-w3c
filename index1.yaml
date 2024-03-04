@@ -26524,11 +26524,6 @@
     :date: '20231227'
   :file: data/note-epub-a11y-eaa-mapping-20231227.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20231227'
-  :file: data/crd-vc-di-eddsa-20231227.yaml
-- :id:
     :code: magnetometer
     :stage: WD
     :date: '20240105'
@@ -26649,25 +26644,10 @@
     :date: '20240201'
   :file: data/wd-css-fonts-4-20240201.yaml
 - :id:
-    :code: navigation-timing-2
-    :stage: WD
-    :date: '20240201'
-  :file: data/wd-navigation-timing-2-20240201.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20240202'
   :file: data/crd-performance-timeline-20240202.yaml
-- :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20240202'
-  :file: data/wd-vc-di-bbs-20240202.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240204'
-  :file: data/wd-vc-bitstring-status-list-20240204.yaml
 - :id:
     :code: webgpu
     :stage: WD
@@ -26814,16 +26794,6 @@
     :date: '20240223'
   :file: data/wd-sparql12-query-20240223.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240225'
-  :file: data/crd-vc-data-integrity-20240225.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240225'
-  :file: data/crd-vc-di-ecdsa-20240225.yaml
-- :id:
     :code: privacy-principles
     :type: DNOTE
     :date: '20240226'
@@ -26853,11 +26823,6 @@
     :stage: CR
     :date: '20240227'
   :file: data/cr-dpub-aam-1.1-20240227.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240227'
-  :file: data/crd-vc-data-model-2.0-20240227.yaml
 - :id:
     :code: accname-1.2
     :stage: WD
@@ -27003,6 +26968,41 @@
     :stage: CRD
     :date: '20240301'
   :file: data/crd-rdf-canon-20240301.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240303'
+  :file: data/crd-vc-di-ecdsa-20240303.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20240303'
+  :file: data/crd-vc-di-eddsa-20240303.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20240303'
+  :file: data/wd-vc-di-bbs-20240303.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240303'
+  :file: data/crd-vc-data-model-2.0-20240303.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20240303'
+  :file: data/crd-vc-data-integrity-20240303.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240303'
+  :file: data/wd-vc-bitstring-status-list-20240303.yaml
+- :id:
+    :code: navigation-timing-2
+    :stage: WD
+    :date: '20240304'
+  :file: data/wd-navigation-timing-2-20240304.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27166,9 +27166,6 @@
     :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
@@ -27187,12 +27184,6 @@
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
 - :id:
@@ -27204,15 +27195,6 @@
 - :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
-- :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
@@ -27228,3 +27210,21 @@
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-js-api-2-20240219
+id: W3CWD-wasm-js-api-2-20240305
 title:
 - content: WebAssembly JavaScript Interface
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240219/
+- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240305/
   type: src
 - content: https://webassembly.github.io/spec/js-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-js-api-2-20240219
+- id: W3C WD-wasm-js-api-2-20240305
   type: W3C
   primary: true
-docnumber: WD-wasm-js-api-2-20240219
+docnumber: WD-wasm-js-api-2-20240305
 date:
 - type: published
-  value: '2024-02-19'
+  value: '2024-03-05'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-19'
+revdate: '2024-03-05'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20240217
+    id: W3CWD-wasm-js-api-2-20240219
     docid:
-    - id: W3C WD-wasm-js-api-2-20240217
+    - id: W3C WD-wasm-js-api-2-20240219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20240217
+      content: W3C WD-wasm-js-api-2-20240219
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-js-api-2-20240219
+  number: WD-wasm-js-api-2-20240305
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

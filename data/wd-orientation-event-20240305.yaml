@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20231213
+id: W3CWD-orientation-event-20240305
 title:
-- content: Compute Pressure Level 1
+- content: DeviceOrientation Event Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-compute-pressure-20231213/
+- content: https://www.w3.org/TR/2024/WD-orientation-event-20240305/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20231213
+- id: W3C WD-orientation-event-20240305
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20231213
+docnumber: WD-orientation-event-20240305
 date:
 - type: published
-  value: '2023-12-13'
+  value: '2024-03-05'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: Raphael Kubo da Costa
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Reilly Grant
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-13'
+revdate: '2024-03-05'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20231110
+    id: W3CWD-orientation-event-20240214
     docid:
-    - id: W3C WD-compute-pressure-20231110
+    - id: W3C WD-orientation-event-20240214
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20231110
+      content: W3C WD-orientation-event-20240214
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-compute-pressure-20231213
+  number: WD-orientation-event-20240305
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

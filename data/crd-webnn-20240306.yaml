@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-rdf-canon-20240301
+id: W3CCRD-webnn-20240306
 title:
-- content: RDF Dataset Canonicalization
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-rdf-canon-20240301/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240306/
   type: src
-- content: https://w3c.github.io/rdf-canon/spec/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C CRD-rdf-canon-20240301
+- id: W3C CRD-webnn-20240306
   type: W3C
   primary: true
-docnumber: CRD-rdf-canon-20240301
+docnumber: CRD-webnn-20240306
 date:
 - type: published
-  value: '2024-03-01'
+  value: '2024-03-06'
 contributor:
 - person:
     name:
       completename:
-        content: Dan Yamamoto
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Gregg Kellogg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-03-01'
+revdate: '2024-03-06'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-rdf-canon-20240229
+    id: W3CCRD-webnn-20240301
     docid:
-    - id: W3C CRD-rdf-canon-20240229
+    - id: W3C CRD-webnn-20240301
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-rdf-canon-20240229
+      content: W3C CRD-webnn-20240301
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-rdf-canon-20240301
+  number: CRD-webnn-20240306
 doctype: technicalReport
+editorialgroup:
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

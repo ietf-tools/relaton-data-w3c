@@ -26404,11 +26404,6 @@
     :date: '20231213'
   :file: data/rec-html-aria-20231213.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20231213'
-  :file: data/wd-compute-pressure-20231213.yaml
-- :id:
     :code: secure-payment-confirmation
     :stage: CRD
     :date: '20231213'
@@ -26489,15 +26484,15 @@
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-multi-rend-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-multi-rend-11-20231221.yaml
-- :id:
     :code: epub-ssv-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26724,11 +26719,6 @@
     :date: '20240213'
   :file: data/crd-css-color-4-20240213.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240214'
-  :file: data/wd-orientation-event-20240214.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240216'
@@ -26934,20 +26924,10 @@
     :date: '20240229'
   :file: data/dnote-string-meta-20240229.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240301'
-  :file: data/crd-webnn-20240301.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240301'
   :file: data/wd-dapt-20240301.yaml
-- :id:
-    :code: rdf-canon
-    :stage: CRD
-    :date: '20240301'
-  :file: data/crd-rdf-canon-20240301.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: CRD
@@ -27003,6 +26983,26 @@
     :stage: WD
     :date: '20240305'
   :file: data/wd-wasm-core-2-20240305.yaml
+- :id:
+    :code: rdf-canon
+    :stage: CRD
+    :date: '20240305'
+  :file: data/crd-rdf-canon-20240305.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240305'
+  :file: data/wd-orientation-event-20240305.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240306'
+  :file: data/crd-webnn-20240306.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240306'
+  :file: data/wd-compute-pressure-20240306.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27142,9 +27142,6 @@
     :date: '2023'
   :file: data/css-2023.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :id:
@@ -27205,9 +27202,6 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -27228,3 +27222,9 @@
 - :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vocab-dcat-2-20181016
-    docid:
-    - id: W3C WD-vocab-dcat-2-20181016
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vocab-dcat-2-20181016
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-vocab-dcat-2-20191119
     docid:
     - id: W3C PR-vocab-dcat-2-20191119
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-vocab-dcat-2-20191119
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vocab-dcat-2-20181016
+    docid:
+    - id: W3C WD-vocab-dcat-2-20181016
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vocab-dcat-2-20181016
       format: text/plain
 series:
 - title:

@@ -53,6 +53,36 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webrtc-20130910
+    docid:
+    - id: W3C WD-webrtc-20130910
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20130910
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-20111027
+    docid:
+    - id: W3C WD-webrtc-20111027
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20111027
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-20161124
+    docid:
+    - id: W3C WD-webrtc-20161124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20161124
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-webrtc-20150210
     docid:
     - id: W3C WD-webrtc-20150210
@@ -63,23 +93,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-20120821
+    id: W3CCR-webrtc-20191213
     docid:
-    - id: W3C WD-webrtc-20120821
+    - id: W3C CR-webrtc-20191213
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webrtc-20120821
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-20130910
-    docid:
-    - id: W3C WD-webrtc-20130910
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-20130910
+      content: W3C CR-webrtc-20191213
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,6 +123,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webrtc-20120821
+    docid:
+    - id: W3C WD-webrtc-20120821
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-20120821
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCR-webrtc-20171102
     docid:
     - id: W3C CR-webrtc-20171102
@@ -110,36 +140,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-webrtc-20171102
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-20111027
-    docid:
-    - id: W3C WD-webrtc-20111027
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-20111027
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-webrtc-20191213
-    docid:
-    - id: W3C CR-webrtc-20191213
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webrtc-20191213
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webrtc-20161124
-    docid:
-    - id: W3C WD-webrtc-20161124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-20161124
       format: text/plain
 series:
 - title:

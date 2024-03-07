@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-string-meta-20190611
-    docid:
-    - id: W3C WD-string-meta-20190611
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-string-meta-20190611
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-string-meta-20220307
     docid:
     - id: W3C DNOTE-string-meta-20220307
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-string-meta-20220307
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-string-meta-20190611
+    docid:
+    - id: W3C WD-string-meta-20190611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-string-meta-20190611
       format: text/plain
 series:
 - title:

@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-ws-addr-wsdl-20050413
-    docid:
-    - id: W3C WD-ws-addr-wsdl-20050413
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ws-addr-wsdl-20050413
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-ws-addr-wsdl-20060529
@@ -41,9 +31,19 @@ relation:
     formattedref:
       content: W3C CR-ws-addr-wsdl-20060529
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ws-addr-wsdl-20050413
+    docid:
+    - id: W3C WD-ws-addr-wsdl-20050413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-addr-wsdl-20050413
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: ws-addr-wsdl
 doctype: technicalReport

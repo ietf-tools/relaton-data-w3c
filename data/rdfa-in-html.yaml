@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Crdfa-in-html
 title:
-- content: HTML+RDFa
+- content: HTML+RDFa 1.1
   format: text/plain
 link:
 - content: http://www.w3.org/TR/rdfa-in-html/
@@ -23,6 +23,16 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
+    id: W3CWD-rdfa-in-html-20110525
+    docid:
+    - id: W3C WD-rdfa-in-html-20110525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdfa-in-html-20110525
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-rdfa-in-html-20091015
     docid:
     - id: W3C WD-rdfa-in-html-20091015
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-rdfa-in-html-20121213
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-rdfa-in-html-20110525
-    docid:
-    - id: W3C WD-rdfa-in-html-20110525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdfa-in-html-20110525
       format: text/plain
 - type: hasEdition
   bibitem:

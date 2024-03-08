@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20240306
+id: W3CWD-navigation-timing-2-20240307
 title:
-- content: Device Posture API
+- content: Navigation Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20240306/
+- content: https://www.w3.org/TR/2024/WD-navigation-timing-2-20240307/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://w3c.github.io/navigation-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20240306
+- id: W3C WD-navigation-timing-2-20240307
   type: W3C
   primary: true
-docnumber: WD-device-posture-20240306
+docnumber: WD-navigation-timing-2-20240307
 date:
 - type: published
-  value: '2024-03-06'
+  value: '2024-03-07'
 contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-06'
+revdate: '2024-03-07'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20240108
+    id: W3CWD-navigation-timing-2-20240304
     docid:
-    - id: W3C WD-device-posture-20240108
+    - id: W3C WD-navigation-timing-2-20240304
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20240108
+      content: W3C WD-navigation-timing-2-20240304
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-posture-20240306
+  number: WD-navigation-timing-2-20240307
 doctype: technicalReport
-editorialgroup:
-- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

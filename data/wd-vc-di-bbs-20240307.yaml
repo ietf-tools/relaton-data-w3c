@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-navigation-timing-2-20240304
+id: W3CWD-vc-di-bbs-20240307
 title:
-- content: Navigation Timing Level 2
+- content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-navigation-timing-2-20240304/
+- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/
   type: src
-- content: https://w3c.github.io/navigation-timing/
+- content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C WD-navigation-timing-2-20240304
+- id: W3C WD-vc-di-bbs-20240307
   type: W3C
   primary: true
-docnumber: WD-navigation-timing-2-20240304
+docnumber: WD-vc-di-bbs-20240307
 date:
 - type: published
-  value: '2024-03-04'
+  value: '2024-03-07'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-04'
+revdate: '2024-03-07'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-navigation-timing-2-20240201
+    id: W3CWD-vc-di-bbs-20240303
     docid:
-    - id: W3C WD-navigation-timing-2-20240201
+    - id: W3C WD-vc-di-bbs-20240303
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20240201
+      content: W3C WD-vc-di-bbs-20240303
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-navigation-timing-2-20240304
+  number: WD-vc-di-bbs-20240307
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

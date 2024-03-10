@@ -26904,11 +26904,6 @@
     :date: '20240303'
   :file: data/crd-vc-di-eddsa-20240303.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240303'
-  :file: data/crd-vc-data-model-2.0-20240303.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20240303'
@@ -26974,11 +26969,6 @@
     :date: '20240307'
   :file: data/crd-mediacapture-streams-20240307.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20240307'
-  :file: data/wd-vc-di-bbs-20240307.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20240307'
@@ -27003,6 +26993,16 @@
     :stage: WD
     :date: '20240308'
   :file: data/wd-vc-jose-cose-20240308.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240309'
+  :file: data/crd-vc-data-model-2.0-20240309.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20240309'
+  :file: data/wd-vc-di-bbs-20240309.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27199,9 +27199,6 @@
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -27220,11 +27217,14 @@
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

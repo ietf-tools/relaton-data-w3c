@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20240310
+id: W3CCRD-rdf-canon-20240311
 title:
-- content: Device Posture API
+- content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20240310/
+- content: https://www.w3.org/TR/2024/CRD-rdf-canon-20240311/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20240310
+- id: W3C CRD-rdf-canon-20240311
   type: W3C
   primary: true
-docnumber: WD-device-posture-20240310
+docnumber: CRD-rdf-canon-20240311
 date:
 - type: published
-  value: '2024-03-10'
+  value: '2024-03-11'
 contributor:
 - person:
     name:
       completename:
-        content: Alexis Menard
+        content: Dan Yamamoto
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: Dave Longley
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-10'
+revdate: '2024-03-11'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20240308
+    id: W3CCRD-rdf-canon-20240305
     docid:
-    - id: W3C WD-device-posture-20240308
+    - id: W3C CRD-rdf-canon-20240305
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20240308
+      content: W3C CRD-rdf-canon-20240305
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-device-posture-20240310
+  number: CRD-rdf-canon-20240311
 doctype: technicalReport
-editorialgroup:
-- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-pointerevents3-20240201
+id: W3CWD-device-posture-20240312
 title:
-- content: Pointer Events
+- content: Device Posture API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-pointerevents3-20240201/
+- content: https://www.w3.org/TR/2024/WD-device-posture-20240312/
   type: src
-- content: https://w3c.github.io/pointerevents/
+- content: https://w3c.github.io/device-posture/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20240201
+- id: W3C WD-device-posture-20240312
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20240201
+docnumber: WD-device-posture-20240312
 date:
 - type: published
-  value: '2024-02-01'
+  value: '2024-03-12'
 contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Alexis Menard
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Robert Flack
+        content: Diego Gonzalez-Zuniga
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-01'
+- person:
+    name:
+      completename:
+        content: Kenneth Christiansen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-03-12'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20240131
+    id: W3CWD-device-posture-20240311
     docid:
-    - id: W3C WD-pointerevents3-20240131
+    - id: W3C WD-device-posture-20240311
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20240131
+      content: W3C WD-device-posture-20240311
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20240201
+  number: WD-device-posture-20240312
 doctype: technicalReport
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

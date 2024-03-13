@@ -26449,11 +26449,6 @@
     :date: '20231218'
   :file: data/crd-css-images-3-20231218.yaml
 - :id:
-    :code: css-values-4
-    :stage: WD
-    :date: '20231218'
-  :file: data/wd-css-values-4-20231218.yaml
-- :id:
     :code: webtransport
     :stage: WD
     :date: '20231220'
@@ -26479,15 +26474,15 @@
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
 - :id:
-    :code: epub-multi-rend-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-multi-rend-11-20231221.yaml
-- :id:
     :code: epub-ssv-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-ssv-11-20231221.yaml
+- :id:
+    :code: epub-multi-rend-11
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-multi-rend-11-20231221.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26608,11 +26603,6 @@
     :stage: WD
     :date: '20240131'
   :file: data/wd-miniapp-addressing-20240131.yaml
-- :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20240201'
-  :file: data/wd-pointerevents3-20240201.yaml
 - :id:
     :code: vc-specs-dir
     :type: NOTE
@@ -26889,11 +26879,6 @@
     :date: '20240308'
   :file: data/wd-permissions-20240308.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240308'
-  :file: data/crd-webnn-20240308.yaml
-- :id:
     :code: vc-jose-cose
     :stage: WD
     :date: '20240308'
@@ -26918,11 +26903,6 @@
     :stage: WD
     :date: '20240311'
   :file: data/wd-longtasks-1-20240311.yaml
-- :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240311'
-  :file: data/wd-device-posture-20240311.yaml
 - :id:
     :code: rdf-canon
     :stage: CRD
@@ -27003,6 +26983,26 @@
     :type: DNOTE
     :date: '20240312'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240312.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240312'
+  :file: data/wd-device-posture-20240312.yaml
+- :id:
+    :code: css-values-4
+    :stage: WD
+    :date: '20240312'
+  :file: data/wd-css-values-4-20240312.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240312'
+  :file: data/crd-webnn-20240312.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20240313'
+  :file: data/wd-pointerevents3-20240313.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

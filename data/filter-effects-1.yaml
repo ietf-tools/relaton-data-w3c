@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-filter-effects-1-20131126
-    docid:
-    - id: W3C WD-filter-effects-1-20131126
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-filter-effects-1-20131126
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-filter-effects-1-20141125
     docid:
     - id: W3C WD-filter-effects-1-20141125
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-filter-effects-1-20141125
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-filter-effects-1-20131126
+    docid:
+    - id: W3C WD-filter-effects-1-20131126
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-filter-effects-1-20131126
       format: text/plain
 series:
 - title:

@@ -68,106 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g6511220
-    docid:
-    - id: W3C _:g6511220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511220
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511240
-    docid:
-    - id: W3C _:g6511240
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511240
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511260
-    docid:
-    - id: W3C _:g6511260
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511260
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511280
-    docid:
-    - id: W3C _:g6511280
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511280
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511320
-    docid:
-    - id: W3C _:g6511320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511320
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511340
-    docid:
-    - id: W3C _:g6511340
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511340
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511380
-    docid:
-    - id: W3C _:g6511380
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511380
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511420
-    docid:
-    - id: W3C _:g6511420
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511420
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511460
-    docid:
-    - id: W3C _:g6511460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6511500
-    docid:
-    - id: W3C _:g6511500
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6511500
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3CWD-wsa-reqs-20021011
     docid:
     - id: W3C WD-wsa-reqs-20021011
@@ -182,5 +82,7 @@ series:
     format: text/plain
   number: WD-wsa-reqs-20021114
 doctype: technicalReport
+editorialgroup:
+- name: Web Services Architecture Working Group
 ext:
   schema-version: v1.0.0

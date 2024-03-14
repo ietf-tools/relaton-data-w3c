@@ -33,23 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-gamepad-20120529
+    id: W3CWD-gamepad-20151217
     docid:
-    - id: W3C WD-gamepad-20120529
+    - id: W3C WD-gamepad-20151217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20120529
+      content: W3C WD-gamepad-20151217
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-gamepad-20220512
+    id: W3CWD-gamepad-20191114
     docid:
-    - id: W3C WD-gamepad-20220512
+    - id: W3C WD-gamepad-20191114
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20220512
+      content: W3C WD-gamepad-20191114
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,23 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-gamepad-20151217
+    id: W3CWD-gamepad-20120529
     docid:
-    - id: W3C WD-gamepad-20151217
+    - id: W3C WD-gamepad-20120529
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gamepad-20151217
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-gamepad-20191114
-    docid:
-    - id: W3C WD-gamepad-20191114
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-gamepad-20191114
+      content: W3C WD-gamepad-20120529
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,16 +93,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-gamepad-20181214
-    docid:
-    - id: W3C WD-gamepad-20181214
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-gamepad-20181214
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-gamepad-20171027
     docid:
     - id: W3C WD-gamepad-20171027
@@ -120,6 +100,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-gamepad-20171027
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-gamepad-20220512
+    docid:
+    - id: W3C WD-gamepad-20220512
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-gamepad-20220512
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-gamepad-20181214
+    docid:
+    - id: W3C WD-gamepad-20181214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-gamepad-20181214
       format: text/plain
 - type: hasEdition
   bibitem:

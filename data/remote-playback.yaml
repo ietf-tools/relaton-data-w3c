@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-remote-playback-20220422
-    docid:
-    - id: W3C CRD-remote-playback-20220422
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-remote-playback-20220422
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-remote-playback-20171019
     docid:
     - id: W3C CR-remote-playback-20171019
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-remote-playback-20161107
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-remote-playback-20220422
+    docid:
+    - id: W3C CRD-remote-playback-20220422
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-remote-playback-20220422
       format: text/plain
 series:
 - title:

@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-DOM-Level-3-XPath-20020328
-    docid:
-    - id: W3C WD-DOM-Level-3-XPath-20020328
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-DOM-Level-3-XPath-20020328
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-DOM-Level-3-XPath-20030331
     docid:
     - id: W3C CR-DOM-Level-3-XPath-20030331
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-DOM-Level-3-XPath-20030331
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Level-3-XPath-20020328
+    docid:
+    - id: W3C WD-DOM-Level-3-XPath-20020328
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Level-3-XPath-20020328
       format: text/plain
 series:
 - title:

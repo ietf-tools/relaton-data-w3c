@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-bbs-20240309
+id: W3CWD-vc-di-bbs-20240315
 title:
 - content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/
+- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/
   type: src
 - content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-bbs-20240309
+- id: W3C WD-vc-di-bbs-20240315
   type: W3C
   primary: true
-docnumber: WD-vc-di-bbs-20240309
+docnumber: WD-vc-di-bbs-20240315
 date:
 - type: published
-  value: '2024-03-09'
+  value: '2024-03-15'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-09'
+revdate: '2024-03-15'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-bbs-20240307
+    id: W3CWD-vc-di-bbs-20240314
     docid:
-    - id: W3C WD-vc-di-bbs-20240307
+    - id: W3C WD-vc-di-bbs-20240314
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-bbs-20240307
+      content: W3C WD-vc-di-bbs-20240314
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-bbs-20240309
+  number: WD-vc-di-bbs-20240315
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

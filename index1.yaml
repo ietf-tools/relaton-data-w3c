@@ -26979,11 +26979,6 @@
     :date: '20240314'
   :file: data/dnote-khmr-gap-20240314.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: WD
-    :date: '20240315'
-  :file: data/wd-vc-di-bbs-20240315.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20240315'
@@ -26994,15 +26989,20 @@
     :date: '20240315'
   :file: data/wd-device-posture-20240315.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240315'
-  :file: data/wd-wgsl-20240315.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240316'
   :file: data/crd-webnn-20240316.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: WD
+    :date: '20240316'
+  :file: data/wd-vc-di-bbs-20240316.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240317'
+  :file: data/wd-wgsl-20240317.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27223,8 +27223,8 @@
     :code: css-anchor-position-1
   :file: data/css-anchor-position-1.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

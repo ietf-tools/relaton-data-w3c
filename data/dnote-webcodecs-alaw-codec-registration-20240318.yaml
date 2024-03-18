@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-pcm-codec-registration-20240313
+id: W3CDNOTE-webcodecs-alaw-codec-registration-20240318
 title:
-- content: Linear PCM WebCodecs Registration
+- content: A-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-pcm-codec-registration-20240313/
+- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-alaw-codec-registration-20240318/
   type: src
-- content: https://w3c.github.io/webcodecs/pcm_codec_registration.html
+- content: https://w3c.github.io/webcodecs/alaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-pcm-codec-registration-20240313
+- id: W3C DNOTE-webcodecs-alaw-codec-registration-20240318
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-pcm-codec-registration-20240313
+docnumber: DNOTE-webcodecs-alaw-codec-registration-20240318
 date:
 - type: published
-  value: '2024-03-13'
+  value: '2024-03-18'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-13'
+revdate: '2024-03-18'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-pcm-codec-registration-20240312
+    id: W3CDNOTE-webcodecs-alaw-codec-registration-20240313
     docid:
-    - id: W3C DNOTE-webcodecs-pcm-codec-registration-20240312
+    - id: W3C DNOTE-webcodecs-alaw-codec-registration-20240313
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-pcm-codec-registration-20240312
+      content: W3C DNOTE-webcodecs-alaw-codec-registration-20240313
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-pcm-codec-registration-20240313
+  number: DNOTE-webcodecs-alaw-codec-registration-20240318
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-bbs-20240316
+id: W3CWD-permissions-20240319
 title:
-- content: Data Integrity BBS Cryptosuites v1.0
+- content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/
+- content: https://www.w3.org/TR/2024/WD-permissions-20240319/
   type: src
-- content: https://w3c.github.io/vc-di-bbs/
+- content: https://w3c.github.io/permissions/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-bbs-20240316
+- id: W3C WD-permissions-20240319
   type: W3C
   primary: true
-docnumber: WD-vc-di-bbs-20240316
+docnumber: WD-permissions-20240319
 date:
 - type: published
-  value: '2024-03-16'
+  value: '2024-03-19'
 contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Mike Taylor
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-16'
+revdate: '2024-03-19'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-bbs-20240315
+    id: W3CWD-permissions-20240308
     docid:
-    - id: W3C WD-vc-di-bbs-20240315
+    - id: W3C WD-permissions-20240308
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-bbs-20240315
+      content: W3C WD-permissions-20240308
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-di-bbs-20240316
+  number: WD-permissions-20240319
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

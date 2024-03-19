@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-pointerevents3-20240314
+id: W3CWD-webcodecs-20240319
 title:
-- content: Pointer Events
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-pointerevents3-20240314/
+- content: https://www.w3.org/TR/2024/WD-webcodecs-20240319/
   type: src
-- content: https://w3c.github.io/pointerevents/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20240314
+- id: W3C WD-webcodecs-20240319
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20240314
+docnumber: WD-webcodecs-20240319
 date:
 - type: published
-  value: '2024-03-14'
+  value: '2024-03-19'
 contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Robert Flack
+        content: Eugene Zemtsov
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-14'
+- person:
+    name:
+      completename:
+        content: Paul Adenot
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-03-19'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20240313
+    id: W3CWD-webcodecs-20240318
     docid:
-    - id: W3C WD-pointerevents3-20240313
+    - id: W3C WD-webcodecs-20240318
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20240313
+      content: W3C WD-webcodecs-20240318
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-pointerevents3-20240314
+  number: WD-webcodecs-20240319
 doctype: technicalReport
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

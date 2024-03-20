@@ -26234,11 +26234,6 @@
     :date: '20231023'
   :file: data/wd-miniapp-packaging-20231023.yaml
 - :id:
-    :code: ctaur
-    :type: DNOTE
-    :date: '20231024'
-  :file: data/dnote-ctaur-20231024.yaml
-- :id:
     :code: w3c-vision
     :type: DNOTE
     :date: '20231026'
@@ -26483,11 +26478,6 @@
     :stage: WD
     :date: '20231221'
   :file: data/wd-rdf12-n-triples-20231221.yaml
-- :id:
-    :code: epub-a11y-eaa-mapping
-    :type: NOTE
-    :date: '20231227'
-  :file: data/note-epub-a11y-eaa-mapping-20231227.yaml
 - :id:
     :code: magnetometer
     :stage: WD
@@ -26809,11 +26799,6 @@
     :date: '20240305'
   :file: data/wd-wasm-core-2-20240305.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240306'
-  :file: data/wd-compute-pressure-20240306.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20240307'
@@ -26903,11 +26888,6 @@
     :stage: WD
     :date: '20240315'
   :file: data/wd-device-posture-20240315.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240316'
-  :file: data/crd-webnn-20240316.yaml
 - :id:
     :code: WGSL
     :stage: WD
@@ -27003,6 +26983,26 @@
     :stage: WD
     :date: '20240319'
   :file: data/wd-permissions-20240319.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240319'
+  :file: data/wd-compute-pressure-20240319.yaml
+- :id:
+    :code: epub-a11y-eaa-mapping
+    :type: NOTE
+    :date: '20240320'
+  :file: data/note-epub-a11y-eaa-mapping-20240320.yaml
+- :id:
+    :code: ctaur
+    :type: DNOTE
+    :date: '20240320'
+  :file: data/dnote-ctaur-20240320.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240320'
+  :file: data/crd-webnn-20240320.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27120,9 +27120,6 @@
     :code: rch-explainer
   :file: data/rch-explainer.yaml
 - :id:
-    :code: ctaur
-  :file: data/ctaur.yaml
-- :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
@@ -27199,9 +27196,6 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
@@ -27228,3 +27222,9 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml
+- :id:
+    :code: ctaur
+  :file: data/ctaur.yaml

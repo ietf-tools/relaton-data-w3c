@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-epub-a11y-eaa-mapping-20231227
+id: W3CNOTE-epub-a11y-eaa-mapping-20240320
 title:
 - content: EPUB Accessibility - EU Accessibility Act Mapping
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231227/
+- content: https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240320/
   type: src
 - content: https://w3c.github.io/epub-specs/epub33/epub-a11y-eaa-mapping/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-epub-a11y-eaa-mapping-20231227
+- id: W3C NOTE-epub-a11y-eaa-mapping-20240320
   type: W3C
   primary: true
-docnumber: NOTE-epub-a11y-eaa-mapping-20231227
+docnumber: NOTE-epub-a11y-eaa-mapping-20240320
 date:
 - type: published
-  value: '2023-12-27'
+  value: '2024-03-20'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-27'
+revdate: '2024-03-20'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-epub-a11y-eaa-mapping-20231221
+    id: W3CNOTE-epub-a11y-eaa-mapping-20231227
     docid:
-    - id: W3C NOTE-epub-a11y-eaa-mapping-20231221
+    - id: W3C NOTE-epub-a11y-eaa-mapping-20231227
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-a11y-eaa-mapping-20231221
+      content: W3C NOTE-epub-a11y-eaa-mapping-20231227
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-epub-a11y-eaa-mapping-20231227
+  number: NOTE-epub-a11y-eaa-mapping-20240320
 doctype: groupNote
 ext:
   schema-version: v1.0.0

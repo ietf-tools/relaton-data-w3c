@@ -25889,30 +25889,30 @@
     :date: '20230615'
   :file: data/wd-sparql12-entailment-20230615.yaml
 - :id:
+    :code: sparql12-graph-store-protocol
+    :stage: WD
+    :date: '20230616'
+  :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
+- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-hu-gap-20230614.yaml
-- :id:
-    :code: sparql12-federated-query
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-federated-query-20230616.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-geor-gap-20230614.yaml
 - :id:
-    :code: sparql12-graph-store-protocol
-    :stage: WD
-    :date: '20230616'
-  :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
-- :id:
     :code: laoo-gap
     :type: DNOTE
     :date: '20230615'
   :file: data/dnote-laoo-gap-20230615.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230626'
+  :file: data/rec-html-aria-20230626.yaml
 - :id:
     :code: thai-gap
     :type: DNOTE
@@ -25923,11 +25923,6 @@
     :type: DNOTE
     :date: '20230615'
   :file: data/dnote-cher-gap-20230615.yaml
-- :id:
-    :code: html-aria
-    :stage: REC
-    :date: '20230626'
-  :file: data/rec-html-aria-20230626.yaml
 - :id:
     :code: saur
     :type: NOTE
@@ -26429,25 +26424,20 @@
     :date: '20231220'
   :file: data/wd-webtransport-20231220.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20231221'
-  :file: data/wd-media-source-2-20231221.yaml
-- :id:
     :code: epub-a11y-tech-11
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-a11y-tech-11-20231221.yaml
 - :id:
-    :code: epub-tts-10
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-tts-10-20231221.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-overview-33-20231221.yaml
+- :id:
+    :code: epub-tts-10
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-tts-10-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
@@ -26463,21 +26453,6 @@
     :stage: REC
     :date: '20231221'
   :file: data/rec-html-aria-20231221.yaml
-- :id:
-    :code: international-specs
-    :type: DNOTE
-    :date: '20231221'
-  :file: data/dnote-international-specs-20231221.yaml
-- :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20231221'
-  :file: data/wd-rdf12-n-quads-20231221.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20231221'
-  :file: data/wd-rdf12-n-triples-20231221.yaml
 - :id:
     :code: magnetometer
     :stage: WD
@@ -26538,11 +26513,6 @@
     :stage: WD
     :date: '20240124'
   :file: data/wd-ambient-light-20240124.yaml
-- :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240125'
-  :file: data/dnote-typography-20240125.yaml
 - :id:
     :code: css-viewport-1
     :stage: WD
@@ -26613,11 +26583,6 @@
     :stage: CRD
     :date: '20240208'
   :file: data/crd-resource-timing-20240208.yaml
-- :id:
-    :code: i18n-glossary
-    :type: DNOTE
-    :date: '20240208'
-  :file: data/dnote-i18n-glossary-20240208.yaml
 - :id:
     :code: screen-capture
     :stage: WD
@@ -26759,11 +26724,6 @@
     :date: '20240229'
   :file: data/wd-css-color-5-20240229.yaml
 - :id:
-    :code: string-meta
-    :type: DNOTE
-    :date: '20240229'
-  :file: data/dnote-string-meta-20240229.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240301'
@@ -26798,11 +26758,6 @@
     :stage: WD
     :date: '20240305'
   :file: data/wd-wasm-core-2-20240305.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20240307'
-  :file: data/wd-sparql12-query-20240307.yaml
 - :id:
     :code: navigation-timing-2
     :stage: WD
@@ -26999,11 +26954,6 @@
     :date: '20240320'
   :file: data/dnote-ctaur-20240320.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240321'
-  :file: data/crd-webnn-20240321.yaml
-- :id:
     :code: compositing-1
     :stage: CRD
     :date: '20240321'
@@ -27013,6 +26963,56 @@
     :stage: WD
     :date: '20240321'
   :file: data/wd-css-typed-om-1-20240321.yaml
+- :id:
+    :code: i18n-glossary
+    :type: DNOTE
+    :date: '20240321'
+  :file: data/dnote-i18n-glossary-20240321.yaml
+- :id:
+    :code: international-specs
+    :type: DNOTE
+    :date: '20240321'
+  :file: data/dnote-international-specs-20240321.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20240321'
+  :file: data/wd-sparql12-query-20240321.yaml
+- :id:
+    :code: sparql12-federated-query
+    :stage: WD
+    :date: '20240321'
+  :file: data/wd-sparql12-federated-query-20240321.yaml
+- :id:
+    :code: string-meta
+    :type: DNOTE
+    :date: '20240321'
+  :file: data/dnote-string-meta-20240321.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20240321'
+  :file: data/wd-media-source-2-20240321.yaml
+- :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20240321'
+  :file: data/wd-rdf12-n-triples-20240321.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20240321'
+  :file: data/wd-rdf12-n-quads-20240321.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240322'
+  :file: data/crd-webnn-20240322.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240322'
+  :file: data/dnote-typography-20240322.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27080,9 +27080,6 @@
 - :id:
     :code: sparql12-entailment
   :file: data/sparql12-entailment.yaml
-- :id:
-    :code: sparql12-federated-query
-  :file: data/sparql12-federated-query.yaml
 - :id:
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
@@ -27161,12 +27158,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
@@ -27206,9 +27197,6 @@
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -27238,3 +27226,15 @@
 - :id:
     :code: ctaur
   :file: data/ctaur.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
+- :id:
+    :code: sparql12-federated-query
+  :file: data/sparql12-federated-query.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-string-meta-20240229
+id: W3CWD-rdf12-n-triples-20240321
 title:
-- content: 'Strings on the Web: Language and Direction Metadata'
+- content: RDF 1.2 N-Triples
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-string-meta-20240229/
+- content: https://www.w3.org/TR/2024/WD-rdf12-n-triples-20240321/
   type: src
-- content: https://w3c.github.io/string-meta/
+- content: https://w3c.github.io/rdf-n-triples/spec/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-string-meta-20240229
+- id: W3C WD-rdf12-n-triples-20240321
   type: W3C
   primary: true
-docnumber: DNOTE-string-meta-20240229
+docnumber: WD-rdf12-n-triples-20240321
 date:
 - type: published
-  value: '2024-02-29'
+  value: '2024-03-21'
 contributor:
 - person:
     name:
       completename:
-        content: Addison Phillips
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,36 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Ishida
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-29'
+revdate: '2024-03-21'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-string-meta-20240122
+    id: W3CWD-rdf12-n-triples-20231221
     docid:
-    - id: W3C DNOTE-string-meta-20240122
+    - id: W3C WD-rdf12-n-triples-20231221
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-string-meta-20240122
+      content: W3C WD-rdf12-n-triples-20231221
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-string-meta-20240229
-doctype: groupNote
-editorialgroup:
-- name: Internationalization Working Group
+  number: WD-rdf12-n-triples-20240321
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-international-specs-20231221
+id: W3CDNOTE-i18n-glossary-20240321
 title:
-- content: Internationalization Best Practices for Spec Developers
+- content: Internationalization Glossary
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-international-specs-20231221/
+- content: https://www.w3.org/TR/2024/DNOTE-i18n-glossary-20240321/
   type: src
-- content: https://w3c.github.io/bp-i18n-specdev/
+- content: https://w3c.github.io/i18n-glossary/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-international-specs-20231221
+- id: W3C DNOTE-i18n-glossary-20240321
   type: W3C
   primary: true
-docnumber: DNOTE-international-specs-20231221
+docnumber: DNOTE-i18n-glossary-20240321
 date:
 - type: published
-  value: '2023-12-21'
+  value: '2024-03-21'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-21'
+revdate: '2024-03-21'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-international-specs-20231110
+    id: W3CDNOTE-i18n-glossary-20240208
     docid:
-    - id: W3C DNOTE-international-specs-20231110
+    - id: W3C DNOTE-i18n-glossary-20240208
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-international-specs-20231110
+      content: W3C DNOTE-i18n-glossary-20240208
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-international-specs-20231221
+  number: DNOTE-i18n-glossary-20240321
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

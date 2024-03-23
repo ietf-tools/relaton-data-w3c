@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20240315
+id: W3CWD-WGSL-20240322
 title:
-- content: Device Posture API
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20240315/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240322/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20240315
+- id: W3C WD-WGSL-20240322
   type: W3C
   primary: true
-docnumber: WD-device-posture-20240315
+docnumber: WD-WGSL-20240322
 date:
 - type: published
-  value: '2024-03-15'
+  value: '2024-03-22'
 contributor:
 - person:
     name:
       completename:
-        content: Alexis Menard
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-15'
+revdate: '2024-03-22'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20240314
+    id: W3CWD-WGSL-20240317
     docid:
-    - id: W3C WD-device-posture-20240314
+    - id: W3C WD-WGSL-20240317
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20240314
+      content: W3C WD-WGSL-20240317
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-posture-20240315
+  number: WD-WGSL-20240322
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

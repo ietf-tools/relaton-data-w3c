@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-css-values-3-20221201
+id: W3CWD-webgpu-20240323
 title:
-- content: CSS Values and Units Module Level 3
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2022/CR-css-values-3-20221201/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240323/
   type: src
-- content: https://drafts.csswg.org/css-values-3/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CR-css-values-3-20221201
+- id: W3C WD-webgpu-20240323
   type: W3C
   primary: true
-docnumber: CR-css-values-3-20221201
+docnumber: WD-webgpu-20240323
 date:
 - type: published
-  value: '2022-12-01'
+  value: '2024-03-23'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Tab Atkins Jr.
+        content: Jim Blandy
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2022-12-01'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-03-23'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-css-values-3-20190606
+    id: W3CWD-webgpu-20240313
     docid:
-    - id: W3C CR-css-values-3-20190606
+    - id: W3C WD-webgpu-20240313
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-css-values-3-20190606
+      content: W3C WD-webgpu-20240313
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-css-values-3-20221201
+  number: WD-webgpu-20240323
 doctype: technicalReport
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

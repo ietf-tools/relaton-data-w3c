@@ -25439,11 +25439,6 @@
     :date: '20220927'
   :file: data/rec-html-aria-20220927.yaml
 - :id:
-    :code: remote-playback
-    :stage: CRD
-    :date: '20220929'
-  :file: data/crd-remote-playback-20220929.yaml
-- :id:
     :code: dapt-reqs
     :type: DNOTE
     :date: '20221012'
@@ -25508,11 +25503,6 @@
     :type: DNOTE
     :date: '20221122'
   :file: data/dnote-css-2022-20221122.yaml
-- :id:
-    :code: css-values-3
-    :stage: CR
-    :date: '20221201'
-  :file: data/cr-css-values-3-20221201.yaml
 - :id:
     :code: htr
     :type: NOTE
@@ -26809,11 +26799,6 @@
     :date: '20240313'
   :file: data/crd-vc-data-model-2.0-20240313.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240313'
-  :file: data/wd-webgpu-20240313.yaml
-- :id:
     :code: arab-ks-gap
     :type: DNOTE
     :date: '20240314'
@@ -26838,16 +26823,6 @@
     :stage: CRD
     :date: '20240315'
   :file: data/crd-vc-data-integrity-20240315.yaml
-- :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240315'
-  :file: data/wd-device-posture-20240315.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240317'
-  :file: data/wd-wgsl-20240317.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -27009,10 +26984,35 @@
     :date: '20240322'
   :file: data/crd-webnn-20240322.yaml
 - :id:
+    :code: remote-playback
+    :stage: CRD
+    :date: '20240322'
+  :file: data/crd-remote-playback-20240322.yaml
+- :id:
     :code: typography
     :type: DNOTE
     :date: '20240322'
   :file: data/dnote-typography-20240322.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240322'
+  :file: data/wd-wgsl-20240322.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240322'
+  :file: data/wd-device-posture-20240322.yaml
+- :id:
+    :code: css-values-3
+    :stage: CRD
+    :date: '20240322'
+  :file: data/crd-css-values-3-20240322.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240323'
+  :file: data/wd-webgpu-20240323.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

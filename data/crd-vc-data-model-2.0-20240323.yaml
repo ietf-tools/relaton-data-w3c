@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-model-2.0-20240313
+id: W3CCRD-vc-data-model-2.0-20240323
 title:
 - content: Verifiable Credentials Data Model v2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240313/
+- content: https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240323/
   type: src
 - content: https://w3c.github.io/vc-data-model/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-model-2.0-20240313
+- id: W3C CRD-vc-data-model-2.0-20240323
   type: W3C
   primary: true
-docnumber: CRD-vc-data-model-2.0-20240313
+docnumber: CRD-vc-data-model-2.0-20240323
 date:
 - type: published
-  value: '2024-03-13'
+  value: '2024-03-23'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-13'
+revdate: '2024-03-23'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20240309
+    id: W3CCRD-vc-data-model-2.0-20240313
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20240309
+    - id: W3C CRD-vc-data-model-2.0-20240313
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20240309
+      content: W3C CRD-vc-data-model-2.0-20240313
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-model-2.0-20240313
+  number: CRD-vc-data-model-2.0-20240323
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

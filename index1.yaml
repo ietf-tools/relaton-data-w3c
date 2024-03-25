@@ -26974,30 +26974,20 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
+    :code: typography
+    :type: DNOTE
     :date: '20240322'
-  :file: data/crd-webnn-20240322.yaml
+  :file: data/dnote-typography-20240322.yaml
 - :id:
     :code: remote-playback
     :stage: CRD
     :date: '20240322'
   :file: data/crd-remote-playback-20240322.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240322'
-  :file: data/dnote-typography-20240322.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240322'
   :file: data/wd-wgsl-20240322.yaml
-- :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240322'
-  :file: data/wd-device-posture-20240322.yaml
 - :id:
     :code: css-values-3
     :stage: CRD
@@ -27013,6 +27003,16 @@
     :stage: CRD
     :date: '20240323'
   :file: data/crd-vc-data-model-2.0-20240323.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240325'
+  :file: data/crd-webnn-20240325.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240325'
+  :file: data/wd-device-posture-20240325.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

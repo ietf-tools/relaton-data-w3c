@@ -26779,11 +26779,6 @@
     :date: '20240311'
   :file: data/wd-longtasks-1-20240311.yaml
 - :id:
-    :code: rdf-canon
-    :stage: CRD
-    :date: '20240311'
-  :file: data/crd-rdf-canon-20240311.yaml
-- :id:
     :code: css-backgrounds-3
     :stage: CRD
     :date: '20240311'
@@ -26804,25 +26799,15 @@
     :date: '20240314'
   :file: data/dnote-alreq-gap-20240314.yaml
 - :id:
-    :code: css-anchor-position-1
-    :stage: WD
-    :date: '20240314'
-  :file: data/wd-css-anchor-position-1-20240314.yaml
-- :id:
-    :code: khmr-gap
-    :type: DNOTE
-    :date: '20240314'
-  :file: data/dnote-khmr-gap-20240314.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20240315'
   :file: data/crd-vc-data-integrity-20240315.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20240318'
-  :file: data/wd-pointerevents3-20240318.yaml
+    :code: khmr-gap
+    :type: DNOTE
+    :date: '20240314'
+  :file: data/dnote-khmr-gap-20240314.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
@@ -26974,15 +26959,15 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240322'
-  :file: data/dnote-typography-20240322.yaml
-- :id:
     :code: remote-playback
     :stage: CRD
     :date: '20240322'
   :file: data/crd-remote-playback-20240322.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240322'
+  :file: data/dnote-typography-20240322.yaml
 - :id:
     :code: WGSL
     :stage: WD
@@ -27014,8 +26999,31 @@
     :date: '20240325'
   :file: data/wd-device-posture-20240325.yaml
 - :id:
+    :code: css-anchor-position-1
+    :stage: WD
+    :date: '20240326'
+  :file: data/wd-css-anchor-position-1-20240326.yaml
+- :id:
+    :code: rdf-canon
+    :stage: PR
+    :date: '20240326'
+  :file: data/pr-rdf-canon-20240326.yaml
+- :id:
+    :code: css-properties-values-api-1
+    :stage: WD
+    :date: '20240326'
+  :file: data/wd-css-properties-values-api-1-20240326.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20240326'
+  :file: data/wd-pointerevents3-20240326.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
+- :id:
+    :code: xpath-10
+  :file: data/xpath-10.yaml
 - :id:
     :code: xslt-10
   :file: data/xslt-10.yaml
@@ -27203,12 +27211,6 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
-    :code: css-anchor-position-1
-  :file: data/css-anchor-position-1.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
@@ -27238,3 +27240,9 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: css-anchor-position-1
+  :file: data/css-anchor-position-1.yaml
+- :id:
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

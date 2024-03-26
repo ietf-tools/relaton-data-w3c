@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-anchor-position-1-20240314
+id: W3CWD-css-properties-values-api-1-20240326
 title:
-- content: CSS Anchor Positioning
+- content: CSS Properties and Values API Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240314/
+- content: https://www.w3.org/TR/2024/WD-css-properties-values-api-1-20240326/
   type: src
-- content: https://drafts.csswg.org/css-anchor-position-1/
+- content: https://drafts.css-houdini.org/css-properties-values-api-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-anchor-position-1-20240314
+- id: W3C WD-css-properties-values-api-1-20240326
   type: W3C
   primary: true
-docnumber: WD-css-anchor-position-1-20240314
+docnumber: WD-css-properties-values-api-1-20240326
 date:
 - type: published
-  value: '2024-03-14'
+  value: '2024-03-26'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Alan Stearns
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Kilpatrick
+        content: Greg Whitworth
         language:
         - en
         script:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-14'
+revdate: '2024-03-26'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-anchor-position-1-20230629
+    id: W3CWD-css-properties-values-api-1-20201013
     docid:
-    - id: W3C WD-css-anchor-position-1-20230629
+    - id: W3C WD-css-properties-values-api-1-20201013
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-anchor-position-1-20230629
+      content: W3C WD-css-properties-values-api-1-20201013
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-anchor-position-1-20240314
+  number: WD-css-properties-values-api-1-20240326
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

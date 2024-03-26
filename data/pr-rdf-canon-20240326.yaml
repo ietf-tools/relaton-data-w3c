@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-rdf-canon-20240311
+id: W3CPR-rdf-canon-20240326
 title:
 - content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-rdf-canon-20240311/
+- content: https://www.w3.org/TR/2024/PR-rdf-canon-20240326/
   type: src
 - content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-rdf-canon-20240311
+- id: W3C PR-rdf-canon-20240326
   type: W3C
   primary: true
-docnumber: CRD-rdf-canon-20240311
+docnumber: PR-rdf-canon-20240326
 date:
 - type: published
-  value: '2024-03-11'
+  value: '2024-03-26'
 contributor:
 - person:
     name:
@@ -49,30 +49,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-11'
+revdate: '2024-03-26'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: proposedRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-rdf-canon-20240305
+    id: W3CCRD-rdf-canon-20240311
     docid:
-    - id: W3C CRD-rdf-canon-20240305
+    - id: W3C CRD-rdf-canon-20240311
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-rdf-canon-20240305
+      content: W3C CRD-rdf-canon-20240311
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C PR
     format: text/plain
-  number: CRD-rdf-canon-20240311
+  number: PR-rdf-canon-20240326
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -1,41 +1,41 @@
 ---
 schema-version: v1.2.3
-id: W3Crdf-canon
+id: W3Cxpath-10
 title:
-- content: RDF Dataset Canonicalization
+- content: XML Path Language (XPath) Version 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/rdf-canon/
+- content: https://www.w3.org/TR/xpath-10/
   type: src
 type: standard
 docid:
-- id: W3C rdf-canon
+- id: W3C xpath-10
   type: W3C
   primary: true
-docnumber: rdf-canon
+docnumber: xpath-10
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-rdf-canon-20240326
+    id: W3CREC-xpath-19991116
     docid:
-    - id: W3C PR-rdf-canon-20240326
+    - id: W3C REC-xpath-19991116
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-rdf-canon-20240326
+      content: W3C REC-xpath-19991116
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: rdf-canon
+  number: xpath-10
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

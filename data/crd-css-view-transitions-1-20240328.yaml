@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-css-view-transitions-1-20230905
+id: W3CCRD-css-view-transitions-1-20240328
 title:
 - content: CSS View Transitions Module Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/
+- content: https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/
   type: src
 - content: https://drafts.csswg.org/css-view-transitions-1/
   type: current
 type: standard
 docid:
-- id: W3C CR-css-view-transitions-1-20230905
+- id: W3C CRD-css-view-transitions-1-20240328
   type: W3C
   primary: true
-docnumber: CR-css-view-transitions-1-20230905
+docnumber: CRD-css-view-transitions-1-20240328
 date:
 - type: published
-  value: '2023-09-05'
+  value: '2024-03-28'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-09-05'
+revdate: '2024-03-28'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-view-transitions-1-20230803
+    id: W3CCR-css-view-transitions-1-20230905
     docid:
-    - id: W3C WD-css-view-transitions-1-20230803
+    - id: W3C CR-css-view-transitions-1-20230905
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-view-transitions-1-20230803
+      content: W3C CR-css-view-transitions-1-20230905
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-css-view-transitions-1-20230905
+  number: CRD-css-view-transitions-1-20240328
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

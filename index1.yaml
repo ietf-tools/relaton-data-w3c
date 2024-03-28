@@ -26039,11 +26039,6 @@
     :date: '20230905'
   :file: data/wd-css-transitions-2-20230905.yaml
 - :id:
-    :code: css-view-transitions-1
-    :stage: CR
-    :date: '20230905'
-  :file: data/cr-css-view-transitions-1-20230905.yaml
-- :id:
     :code: window-management
     :stage: WD
     :date: '20230906'
@@ -26969,11 +26964,6 @@
     :date: '20240322'
   :file: data/crd-css-values-3-20240322.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240323'
-  :file: data/wd-webgpu-20240323.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: CRD
     :date: '20240323'
@@ -27014,10 +27004,20 @@
     :date: '20240326'
   :file: data/wd-wgsl-20240326.yaml
 - :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240327'
+  :file: data/wd-webgpu-20240327.yaml
+- :id:
     :code: webnn
     :stage: CRD
-    :date: '20240327'
-  :file: data/crd-webnn-20240327.yaml
+    :date: '20240328'
+  :file: data/crd-webnn-20240328.yaml
+- :id:
+    :code: css-view-transitions-1
+    :stage: CRD
+    :date: '20240328'
+  :file: data/crd-css-view-transitions-1-20240328.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27107,9 +27107,6 @@
 - :id:
     :code: css-transitions-2
   :file: data/css-transitions-2.yaml
-- :id:
-    :code: css-view-transitions-1
-  :file: data/css-view-transitions-1.yaml
 - :id:
     :code: window-management
   :file: data/window-management.yaml
@@ -27246,3 +27243,6 @@
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
+- :id:
+    :code: css-view-transitions-1
+  :file: data/css-view-transitions-1.yaml

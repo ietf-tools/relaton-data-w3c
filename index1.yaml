@@ -25724,11 +25724,6 @@
     :date: '20230411'
   :file: data/wd-server-timing-20230411.yaml
 - :id:
-    :code: trace-context-2
-    :stage: CR
-    :date: '20230418'
-  :file: data/cr-trace-context-2-20230418.yaml
-- :id:
     :code: user-timing
     :stage: CRD
     :date: '20230426'
@@ -26704,11 +26699,6 @@
     :date: '20240229'
   :file: data/wd-css-color-5-20240229.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20240301'
-  :file: data/wd-dapt-20240301.yaml
-- :id:
     :code: vc-di-eddsa
     :stage: CRD
     :date: '20240303'
@@ -26754,11 +26744,6 @@
     :date: '20240307'
   :file: data/wd-rdf12-concepts-20240307.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240308'
-  :file: data/wd-vc-jose-cose-20240308.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20240311'
@@ -26784,15 +26769,15 @@
     :date: '20240314'
   :file: data/dnote-arab-ks-gap-20240314.yaml
 - :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20240314'
-  :file: data/dnote-alreq-gap-20240314.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20240315'
   :file: data/crd-vc-data-integrity-20240315.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20240314'
+  :file: data/dnote-alreq-gap-20240314.yaml
 - :id:
     :code: khmr-gap
     :type: DNOTE
@@ -26949,15 +26934,15 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: remote-playback
-    :stage: CRD
-    :date: '20240322'
-  :file: data/crd-remote-playback-20240322.yaml
-- :id:
     :code: typography
     :type: DNOTE
     :date: '20240322'
   :file: data/dnote-typography-20240322.yaml
+- :id:
+    :code: remote-playback
+    :stage: CRD
+    :date: '20240322'
+  :file: data/crd-remote-playback-20240322.yaml
 - :id:
     :code: css-values-3
     :stage: CRD
@@ -27019,6 +27004,21 @@
     :date: '20240328'
   :file: data/crd-css-view-transitions-1-20240328.yaml
 - :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240328'
+  :file: data/wd-vc-jose-cose-20240328.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20240328'
+  :file: data/wd-dapt-20240328.yaml
+- :id:
+    :code: trace-context-2
+    :stage: CRD
+    :date: '20240328'
+  :file: data/crd-trace-context-2-20240328.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27070,9 +27070,6 @@
 - :id:
     :code: epub-aria-authoring-11
   :file: data/epub-aria-authoring-11.yaml
-- :id:
-    :code: trace-context-2
-  :file: data/trace-context-2.yaml
 - :id:
     :code: badging
   :file: data/badging.yaml
@@ -27190,9 +27187,6 @@
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -27204,9 +27198,6 @@
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
-- :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
@@ -27246,3 +27237,12 @@
 - :id:
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml
+- :id:
+    :code: trace-context-2
+  :file: data/trace-context-2.yaml

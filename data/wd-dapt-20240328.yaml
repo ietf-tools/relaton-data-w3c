@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-jose-cose-20240308
+id: W3CWD-dapt-20240328
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/
+- content: https://www.w3.org/TR/2024/WD-dapt-20240328/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-jose-cose-20240308
+- id: W3C WD-dapt-20240328
   type: W3C
   primary: true
-docnumber: WD-vc-jose-cose-20240308
+docnumber: WD-dapt-20240328
 date:
 - type: published
-  value: '2024-03-08'
+  value: '2024-03-28'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Michael Prorock
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-03-08'
+revdate: '2024-03-28'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-jose-cose-20240307
+    id: W3CWD-dapt-20240301
     docid:
-    - id: W3C WD-vc-jose-cose-20240307
+    - id: W3C WD-dapt-20240301
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jose-cose-20240307
+      content: W3C WD-dapt-20240301
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-jose-cose-20240308
+  number: WD-dapt-20240328
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

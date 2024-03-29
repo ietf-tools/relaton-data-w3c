@@ -1,28 +1,48 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-trace-context-2-20230418
+id: W3CCRD-trace-context-2-20240328
 title:
 - content: Trace Context Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/CR-trace-context-2-20230418/
+- content: https://www.w3.org/TR/2024/CRD-trace-context-2-20240328/
   type: src
 - content: https://w3c.github.io/trace-context/
   type: current
 type: standard
 docid:
-- id: W3C CR-trace-context-2-20230418
+- id: W3C CRD-trace-context-2-20240328
   type: W3C
   primary: true
-docnumber: CR-trace-context-2-20230418
+docnumber: CRD-trace-context-2-20240328
 date:
 - type: published
-  value: '2023-04-18'
+  value: '2024-03-28'
 contributor:
 - person:
     name:
       completename:
+        content: Bastian Krol
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
         content: Daniel Dyla
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: J. Kalyana Sundaram
         language:
         - en
         script:
@@ -49,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-18'
+revdate: '2024-03-28'
 language:
 - en
 script:
@@ -60,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-trace-context-2-20230406
+    id: W3CCR-trace-context-2-20230418
     docid:
-    - id: W3C WD-trace-context-2-20230406
+    - id: W3C CR-trace-context-2-20230418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trace-context-2-20230406
+      content: W3C CR-trace-context-2-20230418
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-trace-context-2-20230418
+  number: CRD-trace-context-2-20240328
 doctype: technicalReport
 editorialgroup:
 - name: Distributed Tracing Working Group

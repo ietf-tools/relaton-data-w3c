@@ -26629,11 +26629,6 @@
     :date: '20240221'
   :file: data/wd-uievents-20240221.yaml
 - :id:
-    :code: gamepad
-    :stage: WD
-    :date: '20240222'
-  :file: data/wd-gamepad-20240222.yaml
-- :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240222'
@@ -27004,11 +26999,6 @@
     :date: '20240328'
   :file: data/crd-css-view-transitions-1-20240328.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240328'
-  :file: data/wd-vc-jose-cose-20240328.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240328'
@@ -27018,6 +27008,21 @@
     :stage: CRD
     :date: '20240328'
   :file: data/crd-trace-context-2-20240328.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: WD
+    :date: '20240329'
+  :file: data/wd-vc-jose-cose-20240329.yaml
+- :id:
+    :code: gamepad
+    :stage: WD
+    :date: '20240329'
+  :file: data/wd-gamepad-20240329.yaml
+- :id:
+    :code: gamepad
+    :stage: WD
+    :date: '20240330'
+  :file: data/wd-gamepad-20240330.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27238,11 +27243,11 @@
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
     :code: trace-context-2
   :file: data/trace-context-2.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

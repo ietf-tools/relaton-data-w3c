@@ -25464,11 +25464,6 @@
     :date: '20221102'
   :file: data/crd-webxr-ar-module-1-20221102.yaml
 - :id:
-    :code: css-box-4
-    :stage: WD
-    :date: '20221103'
-  :file: data/wd-css-box-4-20221103.yaml
-- :id:
     :code: performance-timeline
     :stage: CRD
     :date: '20221110'
@@ -26699,11 +26694,6 @@
     :date: '20240303'
   :file: data/crd-vc-di-eddsa-20240303.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240305'
-  :file: data/crd-vc-di-ecdsa-20240305.yaml
-- :id:
     :code: wasm-js-api-2
     :stage: WD
     :date: '20240305'
@@ -26909,11 +26899,6 @@
     :date: '20240321'
   :file: data/dnote-string-meta-20240321.yaml
 - :id:
-    :code: media-source-2
-    :stage: WD
-    :date: '20240321'
-  :file: data/wd-media-source-2-20240321.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20240321'
@@ -26924,15 +26909,15 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240322'
-  :file: data/dnote-typography-20240322.yaml
-- :id:
     :code: remote-playback
     :stage: CRD
     :date: '20240322'
   :file: data/crd-remote-playback-20240322.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240322'
+  :file: data/dnote-typography-20240322.yaml
 - :id:
     :code: css-values-3
     :stage: CRD
@@ -26969,11 +26954,6 @@
     :date: '20240326'
   :file: data/wd-baggage-20240326.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240326'
-  :file: data/wd-wgsl-20240326.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20240327'
@@ -27009,11 +26989,6 @@
     :date: '20240329'
   :file: data/wd-gamepad-20240329.yaml
 - :id:
-    :code: gamepad
-    :stage: WD
-    :date: '20240330'
-  :file: data/wd-gamepad-20240330.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: WD
     :date: '20240330'
@@ -27023,6 +26998,31 @@
     :stage: CRD
     :date: '20240330'
   :file: data/crd-vc-data-model-2.0-20240330.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240331'
+  :file: data/crd-vc-di-ecdsa-20240331.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240331'
+  :file: data/wd-wgsl-20240331.yaml
+- :id:
+    :code: gamepad
+    :stage: WD
+    :date: '20240401'
+  :file: data/wd-gamepad-20240401.yaml
+- :id:
+    :code: css-box-4
+    :stage: WD
+    :date: '20240401'
+  :file: data/wd-css-box-4-20240401.yaml
+- :id:
+    :code: media-source-2
+    :stage: WD
+    :date: '20240401'
+  :file: data/wd-media-source-2-20240401.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27195,9 +27195,6 @@
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -27251,3 +27248,6 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml

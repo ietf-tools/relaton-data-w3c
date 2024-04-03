@@ -132,8 +132,8 @@
   :file: data/accname-1.2.yaml
 - :code: accname-1.2
   :stage: WD
-  :date: '20240227'
-  :file: data/wd-accname-1.2-20240227.yaml
+  :date: '20240403'
+  :file: data/wd-accname-1.2-20240403.yaml
 - :code: accname-1.2
   :stage: WD
   :date: '20190711'
@@ -14301,6 +14301,10 @@
 - :code: tlreq
   :file: data/tlreq.yaml
 - :code: tlreq
+  :type: DNOTE
+  :date: '20240402'
+  :file: data/dnote-tlreq-20240402.yaml
+- :code: tlreq
   :stage: WD
   :date: '20200616'
   :file: data/wd-tlreq-20200616.yaml
@@ -15553,9 +15557,9 @@
 - :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :code: w3c-vision
-  :type: DNOTE
-  :date: '20231026'
-  :file: data/dnote-w3c-vision-20231026.yaml
+  :type: NOTE
+  :date: '20240403'
+  :file: data/note-w3c-vision-20240403.yaml
 - :code: WAET
   :file: data/waet.yaml
 - :code: WAET
@@ -15800,8 +15804,8 @@
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
   :stage: WD
-  :date: '20240305'
-  :file: data/wd-wasm-core-2-20240305.yaml
+  :date: '20240403'
+  :file: data/wd-wasm-core-2-20240403.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20220419'
@@ -15820,8 +15824,8 @@
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
   :stage: WD
-  :date: '20240305'
-  :file: data/wd-wasm-js-api-2-20240305.yaml
+  :date: '20240402'
+  :file: data/wd-wasm-js-api-2-20240402.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20220419'
@@ -15840,8 +15844,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240305'
-  :file: data/wd-wasm-web-api-2-20240305.yaml
+  :date: '20240403'
+  :file: data/wd-wasm-web-api-2-20240403.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-XMLHttpRequest-20140130
+id: W3CWD-vc-jose-cose-20240403
 title:
-- content: XMLHttpRequest Level 1
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2014/WD-XMLHttpRequest-20140130/
+- content: https://www.w3.org/TR/2024/WD-vc-jose-cose-20240403/
   type: src
-- content: http://dvcs.w3.org/hg/xhr/xhr-1/raw-file/tip/Overview.html
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C WD-XMLHttpRequest-20140130
+- id: W3C WD-vc-jose-cose-20240403
   type: W3C
   primary: true
-docnumber: WD-XMLHttpRequest-20140130
+docnumber: WD-vc-jose-cose-20240403
 date:
 - type: published
-  value: '2014-01-30'
+  value: '2024-04-03'
 contributor:
 - person:
     name:
       completename:
-        content: Anne van Kesteren
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Hallvord Steen
+        content: Michael Jones
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Julian Aubourg
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Jungkee Song
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2014-01-30'
+revdate: '2024-04-03'
 language:
 - en
 script:
@@ -70,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-XMLHttpRequest-20121206
+    id: W3CWD-vc-jose-cose-20240329
     docid:
-    - id: W3C WD-XMLHttpRequest-20121206
+    - id: W3C WD-vc-jose-cose-20240329
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-XMLHttpRequest-20121206
+      content: W3C WD-vc-jose-cose-20240329
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-XMLHttpRequest-20140130
+  number: WD-vc-jose-cose-20240403
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

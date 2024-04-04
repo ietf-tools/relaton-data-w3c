@@ -41,15 +41,15 @@ relation:
     formattedref:
       content: W3C CR-css3-text-20030514
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-css3-text-20101005
+    id: W3CWD-css3-text-20121113
     docid:
-    - id: W3C WD-css3-text-20101005
+    - id: W3C WD-css3-text-20121113
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-text-20101005
+      content: W3C WD-css3-text-20121113
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -71,15 +71,15 @@ relation:
     formattedref:
       content: W3C WD-css3-text-20050627
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-css3-text-20121113
+    id: W3CWD-css3-text-20101005
     docid:
-    - id: W3C WD-css3-text-20121113
+    - id: W3C WD-css3-text-20101005
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-text-20121113
+      content: W3C WD-css3-text-20101005
       format: text/plain
 - type: hasEdition
   bibitem:

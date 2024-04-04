@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-di-bbs-20240401
+id: W3CCRD-webnn-20240404
 title:
-- content: Data Integrity BBS Cryptosuites v1.0
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240404/
   type: src
-- content: https://w3c.github.io/vc-di-bbs/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-di-bbs-20240401
+- id: W3C CRD-webnn-20240404
   type: W3C
   primary: true
-docnumber: WD-vc-di-bbs-20240401
+docnumber: CRD-webnn-20240404
 date:
 - type: published
-  value: '2024-04-01'
+  value: '2024-04-04'
 contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-01'
+revdate: '2024-04-04'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-di-bbs-20240318
+    id: W3CCRD-webnn-20240403
     docid:
-    - id: W3C WD-vc-di-bbs-20240318
+    - id: W3C CRD-webnn-20240403
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-di-bbs-20240318
+      content: W3C CRD-webnn-20240403
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-vc-di-bbs-20240401
+  number: CRD-webnn-20240404
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

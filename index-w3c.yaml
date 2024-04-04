@@ -3313,12 +3313,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -15070,9 +15070,9 @@
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
-  :stage: WD
-  :date: '20240401'
-  :file: data/wd-vc-di-bbs-20240401.yaml
+  :stage: CR
+  :date: '20240404'
+  :file: data/cr-vc-di-bbs-20240404.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
@@ -15095,8 +15095,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: WD
-  :date: '20240329'
-  :file: data/wd-vc-jose-cose-20240329.yaml
+  :date: '20240403'
+  :file: data/wd-vc-jose-cose-20240403.yaml
 - :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
@@ -16816,8 +16816,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240328'
-  :file: data/crd-webnn-20240328.yaml
+  :date: '20240404'
+  :file: data/crd-webnn-20240404.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: recommendation
+    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CREC-vocab-dcat-20140116
-    docid:
-    - id: W3C REC-vocab-dcat-20140116
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-vocab-dcat-20140116
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-vocab-dcat-20120405
@@ -43,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-vocab-dcat-20131217
+    id: W3CREC-vocab-dcat-20140116
     docid:
-    - id: W3C PR-vocab-dcat-20131217
+    - id: W3C REC-vocab-dcat-20140116
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-vocab-dcat-20131217
+      content: W3C REC-vocab-dcat-20140116
       format: text/plain
 - type: instance
   bibitem:
@@ -61,9 +51,19 @@ relation:
     formattedref:
       content: W3C SPSD-vocab-dcat-20200204
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-vocab-dcat-20131217
+    docid:
+    - id: W3C PR-vocab-dcat-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vocab-dcat-20131217
+      format: text/plain
 series:
 - title:
-    content: W3C REC
+    content: W3C WD
     format: text/plain
   number: vocab-dcat
 doctype: technicalReport

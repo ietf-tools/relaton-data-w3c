@@ -26814,11 +26814,6 @@
     :date: '20240319'
   :file: data/wd-permissions-20240319.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240319'
-  :file: data/wd-compute-pressure-20240319.yaml
-- :id:
     :code: epub-a11y-eaa-mapping
     :type: NOTE
     :date: '20240320'
@@ -26874,15 +26869,15 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240322'
-  :file: data/dnote-typography-20240322.yaml
-- :id:
     :code: remote-playback
     :stage: CRD
     :date: '20240322'
   :file: data/crd-remote-playback-20240322.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240322'
+  :file: data/dnote-typography-20240322.yaml
 - :id:
     :code: css-values-3
     :stage: CRD
@@ -27028,6 +27023,11 @@
     :stage: CR
     :date: '20240404'
   :file: data/cr-vc-di-bbs-20240404.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240405'
+  :file: data/wd-compute-pressure-20240405.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27203,9 +27203,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: ctaur
   :file: data/ctaur.yaml
 - :id:
@@ -27256,3 +27253,6 @@
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

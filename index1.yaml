@@ -26934,11 +26934,6 @@
     :date: '20240329'
   :file: data/wd-gamepad-20240329.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240330'
-  :file: data/wd-vc-bitstring-status-list-20240330.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: CRD
     :date: '20240331'
@@ -27028,6 +27023,11 @@
     :stage: WD
     :date: '20240405'
   :file: data/wd-compute-pressure-20240405.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240406'
+  :file: data/wd-vc-bitstring-status-list-20240406.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27233,9 +27233,6 @@
     :code: trace-context-2
   :file: data/trace-context-2.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
@@ -27256,3 +27253,6 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

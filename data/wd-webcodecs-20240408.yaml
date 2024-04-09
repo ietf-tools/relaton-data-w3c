@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20240325
+id: W3CWD-webcodecs-20240408
 title:
-- content: Device Posture API
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20240325/
+- content: https://www.w3.org/TR/2024/WD-webcodecs-20240408/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20240325
+- id: W3C WD-webcodecs-20240408
   type: W3C
   primary: true
-docnumber: WD-device-posture-20240325
+docnumber: WD-webcodecs-20240408
 date:
 - type: published
-  value: '2024-03-25'
+  value: '2024-04-08'
 contributor:
 - person:
     name:
       completename:
-        content: Alexis Menard
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Paul Adenot
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-25'
+revdate: '2024-04-08'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20240322
+    id: W3CWD-webcodecs-20240319
     docid:
-    - id: W3C WD-device-posture-20240322
+    - id: W3C WD-webcodecs-20240319
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20240322
+      content: W3C WD-webcodecs-20240319
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-posture-20240325
+  number: WD-webcodecs-20240408
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

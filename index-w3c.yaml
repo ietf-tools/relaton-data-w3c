@@ -1870,6 +1870,10 @@
   :file: data/css-box-3.yaml
 - :code: css-box-3
   :stage: REC
+  :date: '20240411'
+  :file: data/rec-css-box-3-20240411.yaml
+- :code: css-box-3
+  :stage: REC
   :date: '20230406'
   :file: data/rec-css-box-3-20230406.yaml
 - :code: css-box-3
@@ -7965,6 +7969,12 @@
   :stage: WD
   :date: '20200616'
   :file: data/wd-khmr-gap-20200616.yaml
+- :code: khmr-lreq
+  :file: data/khmr-lreq.yaml
+- :code: khmr-lreq
+  :type: DNOTE
+  :date: '20240411'
+  :file: data/dnote-khmr-lreq-20240411.yaml
 - :code: klreq
   :file: data/klreq.yaml
 - :code: klreq
@@ -9639,8 +9649,8 @@
   :file: data/cr-orientation-event-20160818.yaml
 - :code: orientation-event
   :stage: WD
-  :date: '20240311'
-  :file: data/wd-orientation-event-20240311.yaml
+  :date: '20240411'
+  :file: data/wd-orientation-event-20240411.yaml
 - :code: orientation-event
   :stage: WD
   :date: '20190416'
@@ -12546,8 +12556,8 @@
   :file: data/screen-wake-lock.yaml
 - :code: screen-wake-lock
   :stage: WD
-  :date: '20231107'
-  :file: data/wd-screen-wake-lock-20231107.yaml
+  :date: '20240411'
+  :file: data/wd-screen-wake-lock-20240411.yaml
 - :code: screen-wake-lock
   :stage: WD
   :date: '20211207'
@@ -15808,8 +15818,8 @@
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
   :stage: WD
-  :date: '20240403'
-  :file: data/wd-wasm-core-2-20240403.yaml
+  :date: '20240410'
+  :file: data/wd-wasm-core-2-20240410.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20220419'
@@ -15848,8 +15858,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240403'
-  :file: data/wd-wasm-web-api-2-20240403.yaml
+  :date: '20240410'
+  :file: data/wd-wasm-web-api-2-20240410.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'
@@ -16819,9 +16829,9 @@
 - :code: webnn
   :file: data/webnn.yaml
 - :code: webnn
-  :stage: CRD
-  :date: '20240404'
-  :file: data/crd-webnn-20240404.yaml
+  :stage: CR
+  :date: '20240411'
+  :file: data/cr-webnn-20240411.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -17159,8 +17169,8 @@
   :file: data/webxr.yaml
 - :code: webxr
   :stage: CRD
-  :date: '20240210'
-  :file: data/crd-webxr-20240210.yaml
+  :date: '20240410'
+  :file: data/crd-webxr-20240410.yaml
 - :code: webxr
   :stage: CRD
   :date: '20220526'

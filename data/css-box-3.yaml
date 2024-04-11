@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-css-box-3-20230406
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-css-box-3-20230406
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-css-box-3-20240411
+    docid:
+    - id: W3C REC-css-box-3-20240411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-css-box-3-20240411
       format: text/plain
 - type: hasEdition
   bibitem:

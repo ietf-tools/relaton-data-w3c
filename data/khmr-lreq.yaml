@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Ckhmr-lreq
+title:
+- content: Khmer Layout Requirements (Draft)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/khmr-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C khmr-lreq
+  type: W3C
+  primary: true
+docnumber: khmr-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-khmr-lreq-20240411
+    docid:
+    - id: W3C DNOTE-khmr-lreq-20240411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-khmr-lreq-20240411
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: khmr-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

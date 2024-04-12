@@ -26379,11 +26379,6 @@
     :date: '20231220'
   :file: data/wd-webtransport-20231220.yaml
 - :id:
-    :code: epub-a11y-tech-11
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-a11y-tech-11-20231221.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
@@ -26583,11 +26578,6 @@
     :stage: WD
     :date: '20240219'
   :file: data/wd-css-text-4-20240219.yaml
-- :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20240221'
-  :file: data/wd-csp3-20240221.yaml
 - :id:
     :code: uievents
     :stage: WD
@@ -26814,11 +26804,6 @@
     :date: '20240328'
   :file: data/crd-css-view-transitions-1-20240328.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20240328'
-  :file: data/wd-dapt-20240328.yaml
-- :id:
     :code: trace-context-2
     :stage: CRD
     :date: '20240328'
@@ -26864,11 +26849,6 @@
     :date: '20240402'
   :file: data/wd-wasm-js-api-2-20240402.yaml
 - :id:
-    :code: tlreq
-    :type: DNOTE
-    :date: '20240402'
-  :file: data/dnote-tlreq-20240402.yaml
-- :id:
     :code: w3c-vision
     :type: NOTE
     :date: '20240403'
@@ -26878,6 +26858,11 @@
     :stage: WD
     :date: '20240403'
   :file: data/wd-accname-1.2-20240403.yaml
+- :id:
+    :code: tlreq
+    :type: DNOTE
+    :date: '20240402'
+  :file: data/dnote-tlreq-20240402.yaml
 - :id:
     :code: vc-jose-cose
     :stage: WD
@@ -27009,20 +26994,15 @@
     :date: '20240410'
   :file: data/wd-appmanifest-20240410.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240410'
-  :file: data/wd-wasm-web-api-2-20240410.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20240410'
-  :file: data/wd-wasm-core-2-20240410.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20240410'
   :file: data/crd-webxr-20240410.yaml
+- :id:
+    :code: khmr-lreq
+    :type: DNOTE
+    :date: '20240411'
+  :file: data/dnote-khmr-lreq-20240411.yaml
 - :id:
     :code: css-box-3
     :stage: REC
@@ -27034,11 +27014,6 @@
     :date: '20240411'
   :file: data/wd-orientation-event-20240411.yaml
 - :id:
-    :code: khmr-lreq
-    :type: DNOTE
-    :date: '20240411'
-  :file: data/dnote-khmr-lreq-20240411.yaml
-- :id:
     :code: screen-wake-lock
     :stage: WD
     :date: '20240411'
@@ -27048,6 +27023,31 @@
     :stage: CR
     :date: '20240411'
   :file: data/cr-webnn-20240411.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20240412'
+  :file: data/wd-dapt-20240412.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20240412'
+  :file: data/wd-csp3-20240412.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240412'
+  :file: data/wd-wasm-web-api-2-20240412.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240412'
+  :file: data/wd-wasm-core-2-20240412.yaml
+- :id:
+    :code: epub-a11y-tech-11
+    :type: NOTE
+    :date: '20240412'
+  :file: data/note-epub-a11y-tech-11-20240412.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27244,9 +27244,6 @@
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
-    :code: dapt
-  :file: data/dapt.yaml
-- :id:
     :code: trace-context-2
   :file: data/trace-context-2.yaml
 - :id:
@@ -27279,3 +27276,6 @@
 - :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml

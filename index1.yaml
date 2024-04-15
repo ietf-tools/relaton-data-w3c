@@ -26759,11 +26759,6 @@
     :date: '20240321'
   :file: data/wd-rdf12-n-quads-20240321.yaml
 - :id:
-    :code: remote-playback
-    :stage: CRD
-    :date: '20240322'
-  :file: data/crd-remote-playback-20240322.yaml
-- :id:
     :code: typography
     :type: DNOTE
     :date: '20240322'
@@ -26849,6 +26844,11 @@
     :date: '20240402'
   :file: data/wd-wasm-js-api-2-20240402.yaml
 - :id:
+    :code: tlreq
+    :type: DNOTE
+    :date: '20240402'
+  :file: data/dnote-tlreq-20240402.yaml
+- :id:
     :code: w3c-vision
     :type: NOTE
     :date: '20240403'
@@ -26858,11 +26858,6 @@
     :stage: WD
     :date: '20240403'
   :file: data/wd-accname-1.2-20240403.yaml
-- :id:
-    :code: tlreq
-    :type: DNOTE
-    :date: '20240402'
-  :file: data/dnote-tlreq-20240402.yaml
 - :id:
     :code: vc-jose-cose
     :stage: WD
@@ -26984,11 +26979,6 @@
     :date: '20240409'
   :file: data/wd-webgpu-20240409.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20240410'
-  :file: data/wd-mediasession-20240410.yaml
-- :id:
     :code: appmanifest
     :stage: WD
     :date: '20240410'
@@ -26999,11 +26989,6 @@
     :date: '20240410'
   :file: data/crd-webxr-20240410.yaml
 - :id:
-    :code: khmr-lreq
-    :type: DNOTE
-    :date: '20240411'
-  :file: data/dnote-khmr-lreq-20240411.yaml
-- :id:
     :code: css-box-3
     :stage: REC
     :date: '20240411'
@@ -27013,6 +26998,11 @@
     :stage: WD
     :date: '20240411'
   :file: data/wd-orientation-event-20240411.yaml
+- :id:
+    :code: khmr-lreq
+    :type: DNOTE
+    :date: '20240411'
+  :file: data/dnote-khmr-lreq-20240411.yaml
 - :id:
     :code: screen-wake-lock
     :stage: WD
@@ -27048,6 +27038,16 @@
     :type: NOTE
     :date: '20240412'
   :file: data/note-epub-a11y-tech-11-20240412.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20240414'
+  :file: data/wd-mediasession-20240414.yaml
+- :id:
+    :code: remote-playback
+    :stage: CRD
+    :date: '20240415'
+  :file: data/crd-remote-playback-20240415.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

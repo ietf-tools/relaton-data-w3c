@@ -301,7 +301,7 @@ relation:
     formattedref:
       content: W3C REC-html-aria-20240216
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-html-aria-20240409
     docid:
@@ -311,25 +311,15 @@ relation:
     formattedref:
       content: W3C REC-html-aria-20240409
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-html-aria-20181214
+    id: W3CREC-html-aria-20240415
     docid:
-    - id: W3C WD-html-aria-20181214
+    - id: W3C REC-html-aria-20240415
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aria-20181214
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-html-aria-20191206
-    docid:
-    - id: W3C WD-html-aria-20191206
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-html-aria-20191206
+      content: W3C REC-html-aria-20240415
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -353,13 +343,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-html-aria-20151216
+    id: W3CWD-html-aria-20181214
     docid:
-    - id: W3C WD-html-aria-20151216
+    - id: W3C WD-html-aria-20181214
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aria-20151216
+      content: W3C WD-html-aria-20181214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -370,6 +360,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-html-aria-20171013
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aria-20151216
+    docid:
+    - id: W3C WD-html-aria-20151216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aria-20151216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-html-aria-20191206
+    docid:
+    - id: W3C WD-html-aria-20191206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-aria-20191206
       format: text/plain
 series:
 - title:

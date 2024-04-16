@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-battery-status-20160707
+id: W3CCRD-webnn-20240416
 title:
-- content: Battery Status API
+- content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2016/CR-battery-status-20160707/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240416/
   type: src
-- content: https://w3c.github.io/battery/
+- content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C CR-battery-status-20160707
+- id: W3C CRD-webnn-20240416
   type: W3C
   primary: true
-docnumber: CR-battery-status-20160707
+docnumber: CRD-webnn-20240416
 date:
 - type: published
-  value: '2016-07-07'
+  value: '2024-04-16'
 contributor:
 - person:
     name:
       completename:
-        content: Anssi Kostiainen
+        content: Dwayne Robinson
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mounir Lamouri
+        content: Ningxin Hu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2016-07-07'
+revdate: '2024-04-16'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CPR-battery-status-20160329
+    id: W3CCRD-webnn-20240415
     docid:
-    - id: W3C PR-battery-status-20160329
+    - id: W3C CRD-webnn-20240415
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-battery-status-20160329
+      content: W3C CRD-webnn-20240415
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-battery-status-20160707
+  number: CRD-webnn-20240416
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Web Machine Learning Working Group
 ext:
   schema-version: v1.0.0

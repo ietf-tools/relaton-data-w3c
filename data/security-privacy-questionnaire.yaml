@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CNOTE-security-privacy-questionnaire-20200508
+    docid:
+    - id: W3C NOTE-security-privacy-questionnaire-20200508
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-security-privacy-questionnaire-20200508
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-security-privacy-questionnaire-20151210
     docid:
     - id: W3C NOTE-security-privacy-questionnaire-20151210
@@ -47,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-security-privacy-questionnaire-20190910
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CNOTE-security-privacy-questionnaire-20200508
-    docid:
-    - id: W3C NOTE-security-privacy-questionnaire-20200508
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-security-privacy-questionnaire-20200508
       format: text/plain
 series:
 - title:

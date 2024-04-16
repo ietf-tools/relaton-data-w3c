@@ -3317,12 +3317,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -6623,6 +6623,10 @@
   :file: data/wd-html-alt-techniques-20101019.yaml
 - :code: html-aria
   :file: data/html-aria.yaml
+- :code: html-aria
+  :stage: REC
+  :date: '20240415'
+  :file: data/rec-html-aria-20240415.yaml
 - :code: html-aria
   :stage: REC
   :date: '20240409'
@@ -11727,8 +11731,8 @@
   :file: data/rdf12-concepts.yaml
 - :code: rdf12-concepts
   :stage: WD
-  :date: '20240307'
-  :file: data/wd-rdf12-concepts-20240307.yaml
+  :date: '20240416'
+  :file: data/wd-rdf12-concepts-20240416.yaml
 - :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
 - :code: rdf12-n-quads
@@ -16829,9 +16833,9 @@
 - :code: webnn
   :file: data/webnn.yaml
 - :code: webnn
-  :stage: CR
-  :date: '20240411'
-  :file: data/cr-webnn-20240411.yaml
+  :stage: CRD
+  :date: '20240416'
+  :file: data/crd-webnn-20240416.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

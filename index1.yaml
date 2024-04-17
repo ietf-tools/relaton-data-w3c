@@ -26829,11 +26829,6 @@
     :date: '20240401'
   :file: data/wd-window-management-20240401.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240402'
-  :file: data/crd-vc-data-model-2.0-20240402.yaml
-- :id:
     :code: wasm-js-api-2
     :stage: WD
     :date: '20240402'
@@ -26863,11 +26858,6 @@
     :stage: CR
     :date: '20240404'
   :file: data/cr-vc-di-bbs-20240404.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240406'
-  :file: data/wd-vc-bitstring-status-list-20240406.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -26954,11 +26944,6 @@
     :date: '20240409'
   :file: data/wd-compute-pressure-20240409.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240409'
-  :file: data/wd-wgsl-20240409.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20240409'
@@ -26969,20 +26954,15 @@
     :date: '20240409'
   :file: data/wd-webxr-gamepads-module-1-20240409.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240409'
-  :file: data/wd-webgpu-20240409.yaml
-- :id:
     :code: appmanifest
     :stage: WD
     :date: '20240410'
   :file: data/wd-appmanifest-20240410.yaml
 - :id:
-    :code: webxr
-    :stage: CRD
-    :date: '20240410'
-  :file: data/crd-webxr-20240410.yaml
+    :code: khmr-lreq
+    :type: DNOTE
+    :date: '20240411'
+  :file: data/dnote-khmr-lreq-20240411.yaml
 - :id:
     :code: css-box-3
     :stage: REC
@@ -26993,11 +26973,6 @@
     :stage: WD
     :date: '20240411'
   :file: data/wd-orientation-event-20240411.yaml
-- :id:
-    :code: khmr-lreq
-    :type: DNOTE
-    :date: '20240411'
-  :file: data/dnote-khmr-lreq-20240411.yaml
 - :id:
     :code: screen-wake-lock
     :stage: WD
@@ -27053,6 +27028,31 @@
     :stage: WD
     :date: '20240416'
   :file: data/wd-rdf12-concepts-20240416.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240416'
+  :file: data/crd-vc-data-model-2.0-20240416.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240416'
+  :file: data/wd-wgsl-20240416.yaml
+- :id:
+    :code: webxr
+    :stage: CRD
+    :date: '20240416'
+  :file: data/crd-webxr-20240416.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240416'
+  :file: data/wd-vc-bitstring-status-list-20240416.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240416'
+  :file: data/wd-webgpu-20240416.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27255,9 +27255,6 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
@@ -27266,9 +27263,6 @@
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
-- :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
@@ -27284,3 +27278,9 @@
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webxr-20240410
+id: W3CWD-WGSL-20240416
 title:
-- content: WebXR Device API
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webxr-20240410/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240416/
   type: src
-- content: https://immersive-web.github.io/webxr/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webxr-20240410
+- id: W3C WD-WGSL-20240416
   type: W3C
   primary: true
-docnumber: CRD-webxr-20240410
+docnumber: WD-WGSL-20240416
 date:
 - type: published
-  value: '2024-04-10'
+  value: '2024-04-16'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manish Goregaokar
+        content: David Neto
         language:
         - en
         script:
@@ -42,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Rik Cabanier
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-10'
+revdate: '2024-04-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webxr-20240210
+    id: W3CWD-WGSL-20240409
     docid:
-    - id: W3C CRD-webxr-20240210
+    - id: W3C WD-WGSL-20240409
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20240210
+      content: W3C WD-WGSL-20240409
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webxr-20240410
+  number: WD-WGSL-20240416
 doctype: technicalReport
 editorialgroup:
-- name: Immersive Web Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

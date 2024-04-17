@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-model-2.0-20240402
+id: W3CWD-vc-bitstring-status-list-20240416
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: Bitstring Status List v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240402/
+- content: https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240416/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/vc-bitstring-status-list/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-model-2.0-20240402
+- id: W3C WD-vc-bitstring-status-list-20240416
   type: W3C
   primary: true
-docnumber: CRD-vc-data-model-2.0-20240402
+docnumber: WD-vc-bitstring-status-list-20240416
 date:
 - type: published
-  value: '2024-04-02'
+  value: '2024-04-16'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Dave Longley
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Mahmoud Alkhraishi
         language:
         - en
         script:
@@ -52,47 +52,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Ted Thibodeau Jr
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-04-02'
+revdate: '2024-04-16'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20240330
+    id: W3CWD-vc-bitstring-status-list-20240406
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20240330
+    - id: W3C WD-vc-bitstring-status-list-20240406
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20240330
+      content: W3C WD-vc-bitstring-status-list-20240406
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-data-model-2.0-20240402
+  number: WD-vc-bitstring-status-list-20240416
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

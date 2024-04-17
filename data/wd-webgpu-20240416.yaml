@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-bitstring-status-list-20240406
+id: W3CWD-webgpu-20240416
 title:
-- content: Bitstring Status List v1.0
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240416/
   type: src
-- content: https://w3c.github.io/vc-bitstring-status-list/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-bitstring-status-list-20240406
+- id: W3C WD-webgpu-20240416
   type: W3C
   primary: true
-docnumber: WD-vc-bitstring-status-list-20240406
+docnumber: WD-webgpu-20240416
 date:
 - type: published
-  value: '2024-04-06'
+  value: '2024-04-16'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mahmoud Alkhraishi
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Michael Prorock
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-04-06'
+revdate: '2024-04-16'
 language:
 - en
 script:
@@ -70,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-bitstring-status-list-20240330
+    id: W3CWD-webgpu-20240409
     docid:
-    - id: W3C WD-vc-bitstring-status-list-20240330
+    - id: W3C WD-webgpu-20240409
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-bitstring-status-list-20240330
+      content: W3C WD-webgpu-20240409
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-bitstring-status-list-20240406
+  number: WD-webgpu-20240416
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

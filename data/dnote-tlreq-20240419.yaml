@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-tlreq-20240402
+id: W3CDNOTE-tlreq-20240419
 title:
 - content: Requirements for Tibetan Text Layout and Typography
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-tlreq-20240402/
+- content: https://www.w3.org/TR/2024/DNOTE-tlreq-20240419/
   type: src
 - content: https://w3c.github.io/tlreq/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-tlreq-20240402
+- id: W3C DNOTE-tlreq-20240419
   type: W3C
   primary: true
-docnumber: DNOTE-tlreq-20240402
+docnumber: DNOTE-tlreq-20240419
 date:
 - type: published
-  value: '2024-04-02'
+  value: '2024-04-19'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-02'
+revdate: '2024-04-19'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-tlreq-20200616
+    id: W3CDNOTE-tlreq-20240402
     docid:
-    - id: W3C WD-tlreq-20200616
+    - id: W3C DNOTE-tlreq-20240402
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-tlreq-20200616
+      content: W3C DNOTE-tlreq-20240402
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-tlreq-20240402
+  number: DNOTE-tlreq-20240419
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

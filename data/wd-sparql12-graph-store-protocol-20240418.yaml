@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-federated-query-20240321
+id: W3CWD-sparql12-graph-store-protocol-20240418
 title:
-- content: SPARQL 1.2 Federated Query
+- content: SPARQL 1.2 Graph Store Protocol
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240321/
+- content: https://www.w3.org/TR/2024/WD-sparql12-graph-store-protocol-20240418/
   type: src
-- content: https://w3c.github.io/sparql-federated-query/spec/
+- content: https://w3c.github.io/sparql-graph-store-protocol/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-federated-query-20240321
+- id: W3C WD-sparql12-graph-store-protocol-20240418
   type: W3C
   primary: true
-docnumber: WD-sparql12-federated-query-20240321
+docnumber: WD-sparql12-graph-store-protocol-20240418
 date:
 - type: published
-  value: '2024-03-21'
+  value: '2024-04-18'
 contributor:
 - person:
     name:
       completename:
-        content: Gregory Williams
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Thomas Pellissier Tanon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-21'
+revdate: '2024-04-18'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-federated-query-20230616
+    id: W3CWD-sparql12-graph-store-protocol-20230616
     docid:
-    - id: W3C WD-sparql12-federated-query-20230616
+    - id: W3C WD-sparql12-graph-store-protocol-20230616
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-federated-query-20230616
+      content: W3C WD-sparql12-graph-store-protocol-20230616
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-federated-query-20240321
+  number: WD-sparql12-graph-store-protocol-20240418
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

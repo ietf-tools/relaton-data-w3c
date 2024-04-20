@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-flac-codec-registration-20240408
+id: W3CDNOTE-webcodecs-hevc-codec-registration-20240419
 title:
-- content: FLAC WebCodecs Registration
+- content: HEVC (H.265) WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-flac-codec-registration-20240408/
+- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240419/
   type: src
-- content: https://w3c.github.io/webcodecs/flac_codec_registration.html
+- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-flac-codec-registration-20240408
+- id: W3C DNOTE-webcodecs-hevc-codec-registration-20240419
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-flac-codec-registration-20240408
+docnumber: DNOTE-webcodecs-hevc-codec-registration-20240419
 date:
 - type: published
-  value: '2024-04-08'
+  value: '2024-04-19'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-08'
+revdate: '2024-04-19'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-flac-codec-registration-20240319
+    id: W3CDNOTE-webcodecs-hevc-codec-registration-20240408
     docid:
-    - id: W3C DNOTE-webcodecs-flac-codec-registration-20240319
+    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20240408
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-flac-codec-registration-20240319
+      content: W3C DNOTE-webcodecs-hevc-codec-registration-20240408
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-flac-codec-registration-20240408
+  number: DNOTE-webcodecs-hevc-codec-registration-20240419
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

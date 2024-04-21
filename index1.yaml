@@ -26969,11 +26969,6 @@
     :date: '20240419'
   :file: data/crd-webnn-20240419.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240419'
-  :file: data/wd-vc-bitstring-status-list-20240419.yaml
-- :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240419'
@@ -27053,6 +27048,11 @@
     :type: DNOTE
     :date: '20240419'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240419.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240420'
+  :file: data/wd-vc-bitstring-status-list-20240420.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27276,11 +27276,11 @@
     :code: sparql12-service-description
   :file: data/sparql12-service-description.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

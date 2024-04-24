@@ -26679,11 +26679,6 @@
     :date: '20240326'
   :file: data/wd-pointerevents3-20240326.yaml
 - :id:
-    :code: baggage
-    :stage: WD
-    :date: '20240326'
-  :file: data/wd-baggage-20240326.yaml
-- :id:
     :code: css-view-transitions-1
     :stage: CRD
     :date: '20240328'
@@ -26794,11 +26789,6 @@
     :date: '20240412'
   :file: data/wd-dapt-20240412.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20240412'
-  :file: data/wd-csp3-20240412.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240412'
@@ -26848,11 +26838,6 @@
     :stage: CRD
     :date: '20240416'
   :file: data/crd-webxr-20240416.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-webgpu-20240418.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -26954,20 +26939,15 @@
     :date: '20240419'
   :file: data/wd-webrtc-encoded-transform-20240419.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
+    :code: webcodecs
+    :stage: WD
     :date: '20240419'
-  :file: data/crd-webnn-20240419.yaml
+  :file: data/wd-webcodecs-20240419.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240419'
   :file: data/dnote-tlreq-20240419.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20240419'
-  :file: data/wd-webcodecs-20240419.yaml
 - :id:
     :code: khmr-lreq
     :type: DNOTE
@@ -27053,6 +27033,26 @@
     :stage: WD
     :date: '20240422'
   :file: data/wd-webxrlayers-1-20240422.yaml
+- :id:
+    :code: baggage
+    :stage: WD
+    :date: '20240423'
+  :file: data/wd-baggage-20240423.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240424'
+  :file: data/crd-webnn-20240424.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240424'
+  :file: data/wd-webgpu-20240424.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20240424'
+  :file: data/wd-csp3-20240424.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

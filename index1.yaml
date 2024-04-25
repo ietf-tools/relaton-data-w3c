@@ -26544,20 +26544,10 @@
     :date: '20240227'
   :file: data/wd-contact-picker-20240227.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20240228'
-  :file: data/wd-openscreenprotocol-20240228.yaml
-- :id:
     :code: credential-management-1
     :stage: WD
     :date: '20240228'
   :file: data/wd-credential-management-1-20240228.yaml
-- :id:
-    :code: imsc-hrm
-    :stage: PR
-    :date: '20240229'
-  :file: data/pr-imsc-hrm-20240229.yaml
 - :id:
     :code: css-color-5
     :stage: WD
@@ -26733,11 +26723,6 @@
     :stage: WD
     :date: '20240403'
   :file: data/wd-accname-1.2-20240403.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: WD
-    :date: '20240403'
-  :file: data/wd-vc-jose-cose-20240403.yaml
 - :id:
     :code: vc-di-bbs
     :stage: CR
@@ -27039,11 +27024,6 @@
     :date: '20240423'
   :file: data/wd-baggage-20240423.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240424'
-  :file: data/crd-webnn-20240424.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20240424'
@@ -27053,6 +27033,26 @@
     :stage: WD
     :date: '20240424'
   :file: data/wd-csp3-20240424.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240425'
+  :file: data/crd-webnn-20240425.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20240425'
+  :file: data/wd-openscreenprotocol-20240425.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CR
+    :date: '20240425'
+  :file: data/cr-vc-jose-cose-20240425.yaml
+- :id:
+    :code: imsc-hrm
+    :stage: REC
+    :date: '20240425'
+  :file: data/rec-imsc-hrm-20240425.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27207,9 +27207,6 @@
     :code: w3c-vision
   :file: data/w3c-vision.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -27284,3 +27281,6 @@
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

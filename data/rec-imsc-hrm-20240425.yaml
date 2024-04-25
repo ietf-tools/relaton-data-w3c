@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-imsc-hrm-20240229
+id: W3CREC-imsc-hrm-20240425
 title:
 - content: IMSC Hypothetical Render Model
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/PR-imsc-hrm-20240229/
+- content: https://www.w3.org/TR/2024/REC-imsc-hrm-20240425/
   type: src
 - content: https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html
   type: current
 type: standard
 docid:
-- id: W3C PR-imsc-hrm-20240229
+- id: W3C REC-imsc-hrm-20240425
   type: W3C
   primary: true
-docnumber: PR-imsc-hrm-20240229
+docnumber: REC-imsc-hrm-20240425
 date:
 - type: published
-  value: '2024-02-29'
+  value: '2024-04-25'
 contributor:
 - person:
     name:
@@ -29,30 +29,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-29'
+revdate: '2024-04-25'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-imsc-hrm-20240111
+    id: W3CPR-imsc-hrm-20240229
     docid:
-    - id: W3C CRD-imsc-hrm-20240111
+    - id: W3C PR-imsc-hrm-20240229
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-imsc-hrm-20240111
+      content: W3C PR-imsc-hrm-20240229
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-imsc-hrm-20240229
+  number: REC-imsc-hrm-20240425
 doctype: technicalReport
 editorialgroup:
 - name: Timed Text Working Group

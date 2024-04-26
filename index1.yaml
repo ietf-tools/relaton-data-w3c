@@ -26564,11 +26564,6 @@
     :date: '20240307'
   :file: data/wd-navigation-timing-2-20240307.yaml
 - :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20240307'
-  :file: data/crd-mediacapture-streams-20240307.yaml
-- :id:
     :code: longtasks-1
     :stage: WD
     :date: '20240311'
@@ -27024,11 +27019,6 @@
     :date: '20240423'
   :file: data/wd-baggage-20240423.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240424'
-  :file: data/wd-webgpu-20240424.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20240424'
@@ -27044,15 +27034,25 @@
     :date: '20240425'
   :file: data/wd-openscreenprotocol-20240425.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CR
-    :date: '20240425'
-  :file: data/cr-vc-jose-cose-20240425.yaml
-- :id:
     :code: imsc-hrm
     :stage: REC
     :date: '20240425'
   :file: data/rec-imsc-hrm-20240425.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20240425'
+  :file: data/crd-mediacapture-streams-20240425.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240425'
+  :file: data/crd-vc-jose-cose-20240425.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240425'
+  :file: data/wd-webgpu-20240425.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

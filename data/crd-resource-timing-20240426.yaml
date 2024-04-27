@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-resource-timing-20240208
+id: W3CCRD-resource-timing-20240426
 title:
 - content: Resource Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-resource-timing-20240208/
+- content: https://www.w3.org/TR/2024/CRD-resource-timing-20240426/
   type: src
 - content: https://w3c.github.io/resource-timing/
   type: current
 type: standard
 docid:
-- id: W3C CRD-resource-timing-20240208
+- id: W3C CRD-resource-timing-20240426
   type: W3C
   primary: true
-docnumber: CRD-resource-timing-20240208
+docnumber: CRD-resource-timing-20240426
 date:
 - type: published
-  value: '2024-02-08'
+  value: '2024-04-26'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-08'
+revdate: '2024-04-26'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-resource-timing-20230511
+    id: W3CCRD-resource-timing-20240208
     docid:
-    - id: W3C CRD-resource-timing-20230511
+    - id: W3C CRD-resource-timing-20240208
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-resource-timing-20230511
+      content: W3C CRD-resource-timing-20240208
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-resource-timing-20240208
+  number: CRD-resource-timing-20240426
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -26469,11 +26469,6 @@
     :date: '20240208'
   :file: data/dnote-clreq-gap-20240208.yaml
 - :id:
-    :code: resource-timing
-    :stage: CRD
-    :date: '20240208'
-  :file: data/crd-resource-timing-20240208.yaml
-- :id:
     :code: screen-capture
     :stage: WD
     :date: '20240208'
@@ -27024,11 +27019,6 @@
     :date: '20240424'
   :file: data/wd-csp3-20240424.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240425'
-  :file: data/crd-webnn-20240425.yaml
-- :id:
     :code: openscreenprotocol
     :stage: WD
     :date: '20240425'
@@ -27053,6 +27043,16 @@
     :stage: WD
     :date: '20240425'
   :file: data/wd-webgpu-20240425.yaml
+- :id:
+    :code: resource-timing
+    :stage: CRD
+    :date: '20240426'
+  :file: data/crd-resource-timing-20240426.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240427'
+  :file: data/crd-webnn-20240427.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

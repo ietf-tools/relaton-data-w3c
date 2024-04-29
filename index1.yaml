@@ -26669,11 +26669,6 @@
     :date: '20240329'
   :file: data/wd-gamepad-20240329.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240331'
-  :file: data/crd-vc-di-ecdsa-20240331.yaml
-- :id:
     :code: gamepad
     :stage: WD
     :date: '20240401'
@@ -26709,20 +26704,10 @@
     :date: '20240403'
   :file: data/wd-accname-1.2-20240403.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: CR
-    :date: '20240404'
-  :file: data/cr-vc-di-bbs-20240404.yaml
-- :id:
     :code: device-posture
     :stage: WD
     :date: '20240408'
   :file: data/wd-device-posture-20240408.yaml
-- :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240409'
-  :file: data/wd-compute-pressure-20240409.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -27054,6 +27039,21 @@
     :date: '20240428'
   :file: data/crd-vc-data-integrity-20240428.yaml
 - :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240428'
+  :file: data/crd-vc-di-ecdsa-20240428.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20240428'
+  :file: data/crd-vc-di-bbs-20240428.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240429'
+  :file: data/wd-compute-pressure-20240429.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27195,20 +27195,11 @@
     :code: trace-context-2
   :file: data/trace-context-2.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: window-management
   :file: data/window-management.yaml
 - :id:
     :code: w3c-vision
   :file: data/w3c-vision.yaml
-- :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
 - :id:
     :code: dapt
   :file: data/dapt.yaml
@@ -27284,3 +27275,12 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

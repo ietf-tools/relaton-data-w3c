@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20240409
+id: W3CWD-compute-pressure-20240429
 title:
 - content: Compute Pressure Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-compute-pressure-20240409/
+- content: https://www.w3.org/TR/2024/WD-compute-pressure-20240429/
   type: src
 - content: https://w3c.github.io/compute-pressure/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20240409
+- id: W3C WD-compute-pressure-20240429
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20240409
+docnumber: WD-compute-pressure-20240429
 date:
 - type: published
-  value: '2024-04-09'
+  value: '2024-04-29'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-09'
+revdate: '2024-04-29'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20240405
+    id: W3CWD-compute-pressure-20240409
     docid:
-    - id: W3C WD-compute-pressure-20240405
+    - id: W3C WD-compute-pressure-20240409
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20240405
+      content: W3C WD-compute-pressure-20240409
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-compute-pressure-20240409
+  number: WD-compute-pressure-20240429
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

@@ -26019,11 +26019,6 @@
     :date: '20230905'
   :file: data/wd-css-transitions-2-20230905.yaml
 - :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20230911'
-  :file: data/note-did-spec-registries-20230911.yaml
-- :id:
     :code: css-page-3
     :stage: WD
     :date: '20230914'
@@ -26094,30 +26089,35 @@
     :date: '20231004'
   :file: data/dnote-adlm-gap-20231004.yaml
 - :id:
-    :code: gujr-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-gujr-gap-20231004.yaml
-- :id:
     :code: beng-gap
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-beng-gap-20231004.yaml
+- :id:
+    :code: gujr-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-gujr-gap-20231004.yaml
 - :id:
     :code: elreq-gap
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-elreq-gap-20231004.yaml
 - :id:
+    :code: grek-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-grek-gap-20231004.yaml
+- :id:
     :code: html-aria
     :stage: REC
     :date: '20231004'
   :file: data/rec-html-aria-20231004.yaml
 - :id:
-    :code: grek-gap
+    :code: jpan-gap
     :type: DNOTE
     :date: '20231004'
-  :file: data/dnote-grek-gap-20231004.yaml
+  :file: data/dnote-jpan-gap-20231004.yaml
 - :id:
     :code: network-error-logging
     :stage: WD
@@ -26128,11 +26128,6 @@
     :stage: REC
     :date: '20231005'
   :file: data/rec-wcag22-20231005.yaml
-- :id:
-    :code: jpan-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-jpan-gap-20231004.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
@@ -26219,15 +26214,15 @@
     :date: '20231114'
   :file: data/crd-user-timing-20231114.yaml
 - :id:
-    :code: mathml-core
-    :stage: WD
-    :date: '20231127'
-  :file: data/wd-mathml-core-20231127.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20231124'
   :file: data/dnote-mlreq-20231124.yaml
+- :id:
+    :code: mathml-core
+    :stage: WD
+    :date: '20231127'
+  :file: data/wd-mathml-core-20231127.yaml
 - :id:
     :code: proximity
     :stage: WD
@@ -26268,11 +26263,6 @@
     :stage: WD
     :date: '20231212'
   :file: data/wd-mediacapture-fromelement-20231212.yaml
-- :id:
-    :code: alreq
-    :type: DNOTE
-    :date: '20231212'
-  :file: data/dnote-alreq-20231212.yaml
 - :id:
     :code: IndexedDB-3
     :stage: WD
@@ -26599,11 +26589,6 @@
     :date: '20240319'
   :file: data/wd-permissions-20240319.yaml
 - :id:
-    :code: epub-a11y-eaa-mapping
-    :type: NOTE
-    :date: '20240320'
-  :file: data/note-epub-a11y-eaa-mapping-20240320.yaml
-- :id:
     :code: ctaur
     :type: DNOTE
     :date: '20240320'
@@ -26698,11 +26683,6 @@
     :type: NOTE
     :date: '20240403'
   :file: data/note-w3c-vision-20240403.yaml
-- :id:
-    :code: accname-1.2
-    :stage: WD
-    :date: '20240403'
-  :file: data/wd-accname-1.2-20240403.yaml
 - :id:
     :code: device-posture
     :stage: WD
@@ -26884,11 +26864,6 @@
     :date: '20240419'
   :file: data/wd-webrtc-encoded-transform-20240419.yaml
 - :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20240419'
-  :file: data/wd-webcodecs-20240419.yaml
-- :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240419'
@@ -26898,6 +26873,11 @@
     :type: DNOTE
     :date: '20240419'
   :file: data/dnote-khmr-lreq-20240419.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20240419'
+  :file: data/wd-webcodecs-20240419.yaml
 - :id:
     :code: webcodecs-avc-codec-registration
     :type: DNOTE
@@ -27009,11 +26989,6 @@
     :date: '20240425'
   :file: data/crd-vc-jose-cose-20240425.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240427'
-  :file: data/crd-webnn-20240427.yaml
-- :id:
     :code: resource-timing
     :stage: CRD
     :date: '20240427'
@@ -27053,6 +27028,41 @@
     :stage: WD
     :date: '20240429'
   :file: data/wd-compute-pressure-20240429.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20240429'
+  :file: data/note-did-spec-registries-20240429.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240429'
+  :file: data/crd-webnn-20240429.yaml
+- :id:
+    :code: accname-1.2
+    :stage: WD
+    :date: '20240429'
+  :file: data/wd-accname-1.2-20240429.yaml
+- :id:
+    :code: epub-a11y-eaa-mapping
+    :type: NOTE
+    :date: '20240430'
+  :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
+- :id:
+    :code: thai-lreq
+    :type: DNOTE
+    :date: '20240430'
+  :file: data/dnote-thai-lreq-20240430.yaml
+- :id:
+    :code: laoo-lreq
+    :type: DNOTE
+    :date: '20240430'
+  :file: data/dnote-laoo-lreq-20240430.yaml
+- :id:
+    :code: alreq
+    :type: DNOTE
+    :date: '20240430'
+  :file: data/dnote-alreq-20240430.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27284,3 +27294,9 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: thai-lreq
+  :file: data/thai-lreq.yaml
+- :id:
+    :code: laoo-lreq
+  :file: data/laoo-lreq.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-alreq-20231212
+id: W3CDNOTE-alreq-20240430
 title:
 - content: Arabic & Persian Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-alreq-20231212/
+- content: https://www.w3.org/TR/2024/DNOTE-alreq-20240430/
   type: src
 - content: https://w3c.github.io/alreq/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-alreq-20231212
+- id: W3C DNOTE-alreq-20240430
   type: W3C
   primary: true
-docnumber: DNOTE-alreq-20231212
+docnumber: DNOTE-alreq-20240430
 date:
 - type: published
-  value: '2023-12-12'
+  value: '2024-04-30'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-12'
+revdate: '2024-04-30'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-alreq-20211026
+    id: W3CDNOTE-alreq-20231212
     docid:
-    - id: W3C WD-alreq-20211026
+    - id: W3C DNOTE-alreq-20231212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-alreq-20211026
+      content: W3C DNOTE-alreq-20231212
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-alreq-20231212
+  number: DNOTE-alreq-20240430
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

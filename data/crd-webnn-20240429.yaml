@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240427
+id: W3CCRD-webnn-20240429
 title:
 - content: Web Neural Network API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240427/
+- content: https://www.w3.org/TR/2024/CRD-webnn-20240429/
   type: src
 - content: https://webmachinelearning.github.io/webnn/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240427
+- id: W3C CRD-webnn-20240429
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240427
+docnumber: CRD-webnn-20240429
 date:
 - type: published
-  value: '2024-04-27'
+  value: '2024-04-29'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-27'
+revdate: '2024-04-29'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240426
+    id: W3CCRD-webnn-20240427
     docid:
-    - id: W3C CRD-webnn-20240426
+    - id: W3C CRD-webnn-20240427
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240426
+      content: W3C CRD-webnn-20240427
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-webnn-20240427
+  number: CRD-webnn-20240429
 doctype: technicalReport
 editorialgroup:
 - name: Web Machine Learning Working Group

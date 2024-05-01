@@ -501,8 +501,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20240410'
-  :file: data/wd-appmanifest-20240410.yaml
+  :date: '20240501'
+  :file: data/wd-appmanifest-20240501.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -1388,14 +1388,14 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20240429'
-  :file: data/wd-compute-pressure-20240429.yaml
+  :date: '20240501'
+  :file: data/wd-compute-pressure-20240501.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
   :stage: WD
-  :date: '20240227'
-  :file: data/wd-contact-picker-20240227.yaml
+  :date: '20240430'
+  :file: data/wd-contact-picker-20240430.yaml
 - :code: contacts-api
   :file: data/contacts-api.yaml
 - :code: contacts-api
@@ -6625,6 +6625,10 @@
   :file: data/html-aria.yaml
 - :code: html-aria
   :stage: REC
+  :date: '20240430'
+  :file: data/rec-html-aria-20240430.yaml
+- :code: html-aria
+  :stage: REC
   :date: '20240415'
   :file: data/rec-html-aria-20240415.yaml
 - :code: html-aria
@@ -9038,8 +9042,8 @@
   :file: data/mlreq.yaml
 - :code: mlreq
   :type: DNOTE
-  :date: '20231124'
-  :file: data/dnote-mlreq-20231124.yaml
+  :date: '20240501'
+  :file: data/dnote-mlreq-20240501.yaml
 - :code: mlreq
   :stage: WD
   :date: '20200616'
@@ -11950,8 +11954,8 @@
   :file: data/cr-remote-playback-20171019.yaml
 - :code: remote-playback
   :stage: CRD
-  :date: '20240415'
-  :file: data/crd-remote-playback-20240415.yaml
+  :date: '20240430'
+  :file: data/crd-remote-playback-20240430.yaml
 - :code: remote-playback
   :stage: CRD
   :date: '20220422'
@@ -16846,8 +16850,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240429'
-  :file: data/crd-webnn-20240429.yaml
+  :date: '20240501'
+  :file: data/crd-webnn-20240501.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -17319,8 +17323,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20240416'
-  :file: data/wd-wgsl-20240416.yaml
+  :date: '20240430'
+  :file: data/wd-wgsl-20240430.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

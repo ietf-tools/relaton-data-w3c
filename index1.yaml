@@ -26214,11 +26214,6 @@
     :date: '20231114'
   :file: data/crd-user-timing-20231114.yaml
 - :id:
-    :code: mlreq
-    :type: DNOTE
-    :date: '20231124'
-  :file: data/dnote-mlreq-20231124.yaml
-- :id:
     :code: mathml-core
     :stage: WD
     :date: '20231127'
@@ -26314,15 +26309,15 @@
     :date: '20231220'
   :file: data/wd-webtransport-20231220.yaml
 - :id:
-    :code: epub-tts-10
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-tts-10-20231221.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-overview-33-20231221.yaml
+- :id:
+    :code: epub-tts-10
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-tts-10-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
@@ -26524,11 +26519,6 @@
     :date: '20240227'
   :file: data/cr-dpub-aam-1.1-20240227.yaml
 - :id:
-    :code: contact-picker
-    :stage: WD
-    :date: '20240227'
-  :file: data/wd-contact-picker-20240227.yaml
-- :id:
     :code: credential-management-1
     :stage: WD
     :date: '20240228'
@@ -26699,11 +26689,6 @@
     :date: '20240409'
   :file: data/wd-webxr-gamepads-module-1-20240409.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20240410'
-  :file: data/wd-appmanifest-20240410.yaml
-- :id:
     :code: css-box-3
     :stage: REC
     :date: '20240411'
@@ -26734,11 +26719,6 @@
     :date: '20240414'
   :file: data/wd-mediasession-20240414.yaml
 - :id:
-    :code: remote-playback
-    :stage: CRD
-    :date: '20240415'
-  :file: data/crd-remote-playback-20240415.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20240415'
@@ -26753,11 +26733,6 @@
     :stage: CRD
     :date: '20240416'
   :file: data/crd-vc-data-model-2.0-20240416.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240416'
-  :file: data/wd-wgsl-20240416.yaml
 - :id:
     :code: webxr
     :stage: CRD
@@ -27024,20 +26999,10 @@
     :date: '20240428'
   :file: data/crd-vc-di-bbs-20240428.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240429'
-  :file: data/wd-compute-pressure-20240429.yaml
-- :id:
     :code: did-spec-registries
     :type: NOTE
     :date: '20240429'
   :file: data/note-did-spec-registries-20240429.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240429'
-  :file: data/crd-webnn-20240429.yaml
 - :id:
     :code: accname-1.2
     :stage: WD
@@ -27063,6 +27028,46 @@
     :type: DNOTE
     :date: '20240430'
   :file: data/dnote-alreq-20240430.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20240430'
+  :file: data/rec-html-aria-20240430.yaml
+- :id:
+    :code: remote-playback
+    :stage: CRD
+    :date: '20240430'
+  :file: data/crd-remote-playback-20240430.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240430'
+  :file: data/wd-wgsl-20240430.yaml
+- :id:
+    :code: contact-picker
+    :stage: WD
+    :date: '20240430'
+  :file: data/wd-contact-picker-20240430.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20240501'
+  :file: data/wd-appmanifest-20240501.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240501'
+  :file: data/crd-webnn-20240501.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240501'
+  :file: data/wd-compute-pressure-20240501.yaml
+- :id:
+    :code: mlreq
+    :type: DNOTE
+    :date: '20240501'
+  :file: data/dnote-mlreq-20240501.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27184,9 +27189,6 @@
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
 - :id:
-    :code: contact-picker
-  :file: data/contact-picker.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -27292,11 +27294,14 @@
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: thai-lreq
   :file: data/thai-lreq.yaml
 - :id:
     :code: laoo-lreq
   :file: data/laoo-lreq.yaml
+- :id:
+    :code: contact-picker
+  :file: data/contact-picker.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

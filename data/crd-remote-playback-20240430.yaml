@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-remote-playback-20240415
+id: W3CCRD-remote-playback-20240430
 title:
 - content: Remote Playback API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-remote-playback-20240415/
+- content: https://www.w3.org/TR/2024/CRD-remote-playback-20240430/
   type: src
 - content: https://w3c.github.io/remote-playback/
   type: current
 type: standard
 docid:
-- id: W3C CRD-remote-playback-20240415
+- id: W3C CRD-remote-playback-20240430
   type: W3C
   primary: true
-docnumber: CRD-remote-playback-20240415
+docnumber: CRD-remote-playback-20240430
 date:
 - type: published
-  value: '2024-04-15'
+  value: '2024-04-30'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-15'
+revdate: '2024-04-30'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-remote-playback-20240322
+    id: W3CCRD-remote-playback-20240415
     docid:
-    - id: W3C CRD-remote-playback-20240322
+    - id: W3C CRD-remote-playback-20240415
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-remote-playback-20240322
+      content: W3C CRD-remote-playback-20240415
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-remote-playback-20240415
+  number: CRD-remote-playback-20240430
 doctype: technicalReport
 editorialgroup:
 - name: Second Screen Working Group

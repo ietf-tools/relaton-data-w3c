@@ -25504,11 +25504,6 @@
     :date: '20221213'
   :file: data/note-htr-20221213.yaml
 - :id:
-    :code: picture-in-picture
-    :stage: WD
-    :date: '20221219'
-  :file: data/wd-picture-in-picture-20221219.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20221221'
@@ -26694,11 +26689,6 @@
     :date: '20240411'
   :file: data/rec-css-box-3-20240411.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240411'
-  :file: data/wd-orientation-event-20240411.yaml
-- :id:
     :code: screen-wake-lock
     :stage: WD
     :date: '20240411'
@@ -26969,11 +26959,6 @@
     :date: '20240427'
   :file: data/crd-resource-timing-20240427.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240427'
-  :file: data/wd-webgpu-20240427.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240428'
@@ -27009,15 +26994,15 @@
     :date: '20240429'
   :file: data/wd-accname-1.2-20240429.yaml
 - :id:
-    :code: epub-a11y-eaa-mapping
-    :type: NOTE
-    :date: '20240430'
-  :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
-- :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20240430'
   :file: data/dnote-thai-lreq-20240430.yaml
+- :id:
+    :code: epub-a11y-eaa-mapping
+    :type: NOTE
+    :date: '20240430'
+  :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -27039,11 +27024,6 @@
     :date: '20240430'
   :file: data/crd-remote-playback-20240430.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240430'
-  :file: data/wd-wgsl-20240430.yaml
-- :id:
     :code: contact-picker
     :stage: WD
     :date: '20240430'
@@ -27054,11 +27034,6 @@
     :date: '20240501'
   :file: data/wd-appmanifest-20240501.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240501'
-  :file: data/crd-webnn-20240501.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20240501'
@@ -27068,6 +27043,31 @@
     :type: DNOTE
     :date: '20240501'
   :file: data/dnote-mlreq-20240501.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240501'
+  :file: data/wd-wgsl-20240501.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240501'
+  :file: data/wd-webgpu-20240501.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240502'
+  :file: data/crd-webnn-20240502.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-orientation-event-20240502.yaml
+- :id:
+    :code: picture-in-picture
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-picture-in-picture-20240502.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

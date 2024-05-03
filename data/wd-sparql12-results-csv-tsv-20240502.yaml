@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-results-csv-tsv-20240418
+id: W3CWD-sparql12-results-csv-tsv-20240502
 title:
 - content: SPARQL 1.2 Query Results CSV and TSV Formats
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240418/
+- content: https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240502/
   type: src
 - content: https://w3c.github.io/sparql-results-csv-tsv/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-results-csv-tsv-20240418
+- id: W3C WD-sparql12-results-csv-tsv-20240502
   type: W3C
   primary: true
-docnumber: WD-sparql12-results-csv-tsv-20240418
+docnumber: WD-sparql12-results-csv-tsv-20240502
 date:
 - type: published
-  value: '2024-04-18'
+  value: '2024-05-02'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-18'
+revdate: '2024-05-02'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-results-csv-tsv-20231110
+    id: W3CWD-sparql12-results-csv-tsv-20240418
     docid:
-    - id: W3C WD-sparql12-results-csv-tsv-20231110
+    - id: W3C WD-sparql12-results-csv-tsv-20240418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-results-csv-tsv-20231110
+      content: W3C WD-sparql12-results-csv-tsv-20240418
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-results-csv-tsv-20240418
+  number: WD-sparql12-results-csv-tsv-20240502
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

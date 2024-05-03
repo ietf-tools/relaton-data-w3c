@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-protocol-20240418
+id: W3CCRD-mediacapture-streams-20240502
 title:
-- content: SPARQL 1.2 Protocol
+- content: Media Capture and Streams
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-protocol-20240418/
+- content: https://www.w3.org/TR/2024/CRD-mediacapture-streams-20240502/
   type: src
-- content: https://w3c.github.io/sparql-protocol/spec/
+- content: https://w3c.github.io/mediacapture-main/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-protocol-20240418
+- id: W3C CRD-mediacapture-streams-20240502
   type: W3C
   primary: true
-docnumber: WD-sparql12-protocol-20240418
+docnumber: CRD-mediacapture-streams-20240502
 date:
 - type: published
-  value: '2024-04-18'
+  value: '2024-05-02'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregory Williams
+        content: Cullen Jennings
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Henrik Boström
         language:
         - en
         script:
@@ -52,37 +52,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Thomas Pellissier Tanon
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-18'
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-02'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-protocol-20231214
+    id: W3CCRD-mediacapture-streams-20240425
     docid:
-    - id: W3C WD-sparql12-protocol-20231214
+    - id: W3C CRD-mediacapture-streams-20240425
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-protocol-20231214
+      content: W3C CRD-mediacapture-streams-20240425
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-sparql12-protocol-20240418
+  number: CRD-mediacapture-streams-20240502
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

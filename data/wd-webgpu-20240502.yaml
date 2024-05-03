@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20240416
+id: W3CWD-webgpu-20240502
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-rdf12-concepts-20240416/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240502/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20240416
+- id: W3C WD-webgpu-20240502
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20240416
+docnumber: WD-webgpu-20240502
 date:
 - type: published
-  value: '2024-04-16'
+  value: '2024-05-02'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Pierre-Antoine Champin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-04-16'
+revdate: '2024-05-02'
 language:
 - en
 script:
@@ -70,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20240307
+    id: W3CWD-webgpu-20240501
     docid:
-    - id: W3C WD-rdf12-concepts-20240307
+    - id: W3C WD-webgpu-20240501
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20240307
+      content: W3C WD-webgpu-20240501
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20240416
+  number: WD-webgpu-20240502
 doctype: technicalReport
+editorialgroup:
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

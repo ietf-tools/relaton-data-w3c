@@ -1,28 +1,38 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-alaw-codec-registration-20240419
+id: W3CWD-webcodecs-20240503
 title:
-- content: A-law PCM WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-alaw-codec-registration-20240419/
+- content: https://www.w3.org/TR/2024/WD-webcodecs-20240503/
   type: src
-- content: https://w3c.github.io/webcodecs/alaw_codec_registration.html
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-alaw-codec-registration-20240419
+- id: W3C WD-webcodecs-20240503
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-alaw-codec-registration-20240419
+docnumber: WD-webcodecs-20240503
 date:
 - type: published
-  value: '2024-04-19'
+  value: '2024-05-03'
 contributor:
 - person:
     name:
       completename:
         content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -39,28 +49,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-19'
+revdate: '2024-05-03'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-alaw-codec-registration-20240408
+    id: W3CWD-webcodecs-20240419
     docid:
-    - id: W3C DNOTE-webcodecs-alaw-codec-registration-20240408
+    - id: W3C WD-webcodecs-20240419
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-alaw-codec-registration-20240408
+      content: W3C WD-webcodecs-20240419
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-alaw-codec-registration-20240419
-doctype: groupNote
+  number: WD-webcodecs-20240503
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group
 ext:

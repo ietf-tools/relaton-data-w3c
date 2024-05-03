@@ -26714,11 +26714,6 @@
     :date: '20240415'
   :file: data/rec-html-aria-20240415.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20240416'
-  :file: data/wd-rdf12-concepts-20240416.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: CRD
     :date: '20240416'
@@ -26789,41 +26784,6 @@
     :date: '20240418'
   :file: data/wd-sparql12-graph-store-protocol-20240418.yaml
 - :id:
-    :code: sparql12-protocol
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-protocol-20240418.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-query-20240418.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-results-csv-tsv-20240418.yaml
-- :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-results-json-20240418.yaml
-- :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-results-xml-20240418.yaml
-- :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-update-20240418.yaml
-- :id:
-    :code: sparql12-service-description
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-service-description-20240418.yaml
-- :id:
     :code: webrtc-encoded-transform
     :stage: WD
     :date: '20240419'
@@ -26838,76 +26798,6 @@
     :type: DNOTE
     :date: '20240419'
   :file: data/dnote-khmr-lreq-20240419.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20240419'
-  :file: data/wd-webcodecs-20240419.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-avc-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-aac-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-flac-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-opus-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-opus-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-av1-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20240419.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20240419'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20240419.yaml
 - :id:
     :code: vc-bitstring-status-list
     :stage: WD
@@ -26943,11 +26833,6 @@
     :stage: REC
     :date: '20240425'
   :file: data/rec-imsc-hrm-20240425.yaml
-- :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20240425'
-  :file: data/crd-mediacapture-streams-20240425.yaml
 - :id:
     :code: vc-jose-cose
     :stage: CRD
@@ -26999,15 +26884,15 @@
     :date: '20240430'
   :file: data/dnote-thai-lreq-20240430.yaml
 - :id:
-    :code: epub-a11y-eaa-mapping
-    :type: NOTE
-    :date: '20240430'
-  :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
-- :id:
     :code: laoo-lreq
     :type: DNOTE
     :date: '20240430'
   :file: data/dnote-laoo-lreq-20240430.yaml
+- :id:
+    :code: epub-a11y-eaa-mapping
+    :type: NOTE
+    :date: '20240430'
+  :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
 - :id:
     :code: alreq
     :type: DNOTE
@@ -27029,45 +26914,160 @@
     :date: '20240430'
   :file: data/wd-contact-picker-20240430.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
+    :code: mlreq
+    :type: DNOTE
     :date: '20240501'
-  :file: data/wd-appmanifest-20240501.yaml
+  :file: data/dnote-mlreq-20240501.yaml
 - :id:
     :code: compute-pressure
     :stage: WD
     :date: '20240501'
   :file: data/wd-compute-pressure-20240501.yaml
 - :id:
-    :code: mlreq
-    :type: DNOTE
-    :date: '20240501'
-  :file: data/dnote-mlreq-20240501.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240501'
   :file: data/wd-wgsl-20240501.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240501'
-  :file: data/wd-webgpu-20240501.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240502'
-  :file: data/crd-webnn-20240502.yaml
-- :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240502'
-  :file: data/wd-orientation-event-20240502.yaml
-- :id:
     :code: picture-in-picture
     :stage: WD
     :date: '20240502'
   :file: data/wd-picture-in-picture-20240502.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20240502'
+  :file: data/crd-mediacapture-streams-20240502.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-query-20240502.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-update-20240502.yaml
+- :id:
+    :code: sparql12-service-description
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-service-description-20240502.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-results-csv-tsv-20240502.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-results-json-20240502.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-results-xml-20240502.yaml
+- :id:
+    :code: sparql12-protocol
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-sparql12-protocol-20240502.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-rdf12-concepts-20240502.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-webgpu-20240502.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20240502'
+  :file: data/wd-appmanifest-20240502.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240503'
+  :file: data/crd-webnn-20240503.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240503'
+  :file: data/wd-orientation-event-20240503.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20240503'
+  :file: data/wd-webcodecs-20240503.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-avc-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-aac-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-flac-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-opus-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-opus-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-av1-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20240503.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20240503'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20240503.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27216,9 +27216,6 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
@@ -27252,32 +27249,8 @@
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
-    :code: sparql12-protocol
-  :file: data/sparql12-protocol.yaml
-- :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
-    :code: sparql12-results-csv-tsv
-  :file: data/sparql12-results-csv-tsv.yaml
-- :id:
-    :code: sparql12-results-json
-  :file: data/sparql12-results-json.yaml
-- :id:
-    :code: sparql12-results-xml
-  :file: data/sparql12-results-xml.yaml
-- :id:
-    :code: sparql12-update
-  :file: data/sparql12-update.yaml
-- :id:
-    :code: sparql12-service-description
-  :file: data/sparql12-service-description.yaml
-- :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
@@ -27305,3 +27278,30 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
+- :id:
+    :code: sparql12-update
+  :file: data/sparql12-update.yaml
+- :id:
+    :code: sparql12-service-description
+  :file: data/sparql12-service-description.yaml
+- :id:
+    :code: sparql12-results-csv-tsv
+  :file: data/sparql12-results-csv-tsv.yaml
+- :id:
+    :code: sparql12-results-json
+  :file: data/sparql12-results-json.yaml
+- :id:
+    :code: sparql12-results-xml
+  :file: data/sparql12-results-xml.yaml
+- :id:
+    :code: sparql12-protocol
+  :file: data/sparql12-protocol.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml

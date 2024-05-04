@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-orientation-event-20240503
+id: W3CWD-orientation-event-20240504
 title:
 - content: DeviceOrientation Event Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-orientation-event-20240503/
+- content: https://www.w3.org/TR/2024/WD-orientation-event-20240504/
   type: src
 - content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C WD-orientation-event-20240503
+- id: W3C WD-orientation-event-20240504
   type: W3C
   primary: true
-docnumber: WD-orientation-event-20240503
+docnumber: WD-orientation-event-20240504
 date:
 - type: published
-  value: '2024-05-03'
+  value: '2024-05-04'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-05-03'
+revdate: '2024-05-04'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-orientation-event-20240502
+    id: W3CWD-orientation-event-20240503
     docid:
-    - id: W3C WD-orientation-event-20240502
+    - id: W3C WD-orientation-event-20240503
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20240502
+      content: W3C WD-orientation-event-20240503
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-orientation-event-20240503
+  number: WD-orientation-event-20240504
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

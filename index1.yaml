@@ -26799,11 +26799,6 @@
     :date: '20240419'
   :file: data/dnote-khmr-lreq-20240419.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240420'
-  :file: data/wd-vc-bitstring-status-list-20240420.yaml
-- :id:
     :code: i18n-glossary
     :type: DNOTE
     :date: '20240422'
@@ -26994,11 +26989,6 @@
     :date: '20240503'
   :file: data/crd-webnn-20240503.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240503'
-  :file: data/wd-orientation-event-20240503.yaml
-- :id:
     :code: webcodecs
     :stage: WD
     :date: '20240503'
@@ -27068,6 +27058,16 @@
     :type: DNOTE
     :date: '20240503'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240503.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240504'
+  :file: data/wd-orientation-event-20240504.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240504'
+  :file: data/wd-vc-bitstring-status-list-20240504.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27252,9 +27252,6 @@
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
@@ -27305,3 +27302,6 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

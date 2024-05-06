@@ -26714,11 +26714,6 @@
     :date: '20240415'
   :file: data/rec-html-aria-20240415.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240416'
-  :file: data/crd-vc-data-model-2.0-20240416.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20240416'
@@ -27069,6 +27064,11 @@
     :date: '20240505'
   :file: data/crd-webnn-20240505.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240505'
+  :file: data/crd-vc-data-model-2.0-20240505.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27216,9 +27216,6 @@
     :code: dapt
   :file: data/dapt.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
 - :id:
@@ -27305,3 +27302,6 @@
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

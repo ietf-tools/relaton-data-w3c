@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-orientation-event-20240507
+id: W3CWD-pointerlock-2-20240508
 title:
-- content: Device Orientation and Motion
+- content: Pointer Lock 2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-orientation-event-20240507/
+- content: https://www.w3.org/TR/2024/WD-pointerlock-2-20240508/
   type: src
-- content: https://w3c.github.io/deviceorientation/
+- content: https://w3c.github.io/pointerlock/
   type: current
 type: standard
 docid:
-- id: W3C WD-orientation-event-20240507
+- id: W3C WD-pointerlock-2-20240508
   type: W3C
   primary: true
-docnumber: WD-orientation-event-20240507
+docnumber: WD-pointerlock-2-20240508
 date:
 - type: published
-  value: '2024-05-07'
+  value: '2024-05-08'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Mustaq Ahmed
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Raphael Kubo da Costa
+        content: Vincent Scheib
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Reilly Grant
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-05-07'
+revdate: '2024-05-08'
 language:
 - en
 script:
@@ -60,22 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-orientation-event-20240504
+    id: W3CWD-pointerlock-2-20220708
     docid:
-    - id: W3C WD-orientation-event-20240504
+    - id: W3C WD-pointerlock-2-20220708
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20240504
+      content: W3C WD-pointerlock-2-20220708
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-orientation-event-20240507
+  number: WD-pointerlock-2-20240508
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
 - name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

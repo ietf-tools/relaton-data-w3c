@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Chtml-ruby-extensions
 title:
-- content: W3C HTML Ruby Markup Extensions
+- content: HTML Ruby Markup Extensions
   format: text/plain
 link:
 - content: https://www.w3.org/TR/html-ruby-extensions/
@@ -17,8 +17,21 @@ language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CWD-html-ruby-extensions-20240507
+    docid:
+    - id: W3C WD-html-ruby-extensions-20240507
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-html-ruby-extensions-20240507
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CNOTE-html-ruby-extensions-20140204
     docid:
@@ -40,9 +53,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
   number: html-ruby-extensions
-doctype: groupNote
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

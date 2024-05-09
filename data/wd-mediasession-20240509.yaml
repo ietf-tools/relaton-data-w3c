@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-mediasession-20240414
+id: W3CWD-mediasession-20240509
 title:
 - content: Media Session
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-mediasession-20240414/
+- content: https://www.w3.org/TR/2024/WD-mediasession-20240509/
   type: src
 - content: https://w3c.github.io/mediasession/
   type: current
 type: standard
 docid:
-- id: W3C WD-mediasession-20240414
+- id: W3C WD-mediasession-20240509
   type: W3C
   primary: true
-docnumber: WD-mediasession-20240414
+docnumber: WD-mediasession-20240509
 date:
 - type: published
-  value: '2024-04-14'
+  value: '2024-05-09'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-14'
+revdate: '2024-05-09'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mediasession-20240410
+    id: W3CWD-mediasession-20240414
     docid:
-    - id: W3C WD-mediasession-20240410
+    - id: W3C WD-mediasession-20240414
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediasession-20240410
+      content: W3C WD-mediasession-20240414
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-mediasession-20240414
+  number: WD-mediasession-20240509
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

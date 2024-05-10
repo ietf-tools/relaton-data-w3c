@@ -26299,15 +26299,15 @@
     :date: '20231220'
   :file: data/wd-webtransport-20231220.yaml
 - :id:
-    :code: epub-overview-33
-    :type: NOTE
-    :date: '20231221'
-  :file: data/note-epub-overview-33-20231221.yaml
-- :id:
     :code: epub-tts-10
     :type: NOTE
     :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
+- :id:
+    :code: epub-overview-33
+    :type: NOTE
+    :date: '20231221'
+  :file: data/note-epub-overview-33-20231221.yaml
 - :id:
     :code: epub-ssv-11
     :type: NOTE
@@ -26959,11 +26959,6 @@
     :date: '20240504'
   :file: data/wd-vc-bitstring-status-list-20240504.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240507'
-  :file: data/crd-webnn-20240507.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20240507'
@@ -26978,16 +26973,6 @@
     :stage: CRD
     :date: '20240507'
   :file: data/crd-vc-data-model-2.0-20240507.yaml
-- :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240508'
-  :file: data/wd-orientation-event-20240508.yaml
-- :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240508'
-  :file: data/wd-webrtc-svc-20240508.yaml
 - :id:
     :code: html-ruby-extensions
     :stage: WD
@@ -27078,6 +27063,21 @@
     :stage: WD
     :date: '20240509'
   :file: data/wd-mediasession-20240509.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240509'
+  :file: data/wd-orientation-event-20240509.yaml
+- :id:
+    :code: webrtc-svc
+    :stage: WD
+    :date: '20240509'
+  :file: data/wd-webrtc-svc-20240509.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240510'
+  :file: data/crd-webnn-20240510.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

@@ -25819,50 +25819,45 @@
     :date: '20230612'
   :file: data/rec-html-aria-20230612.yaml
 - :id:
-    :code: nkoo-lreq
-    :type: DNOTE
-    :date: '20230613'
-  :file: data/dnote-nkoo-lreq-20230613.yaml
-- :id:
     :code: cans-iu-cr-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-cans-iu-cr-gap-20230614.yaml
-- :id:
-    :code: latn-nl-gap
-    :type: DNOTE
-    :date: '20230614'
-  :file: data/dnote-latn-nl-gap-20230614.yaml
 - :id:
     :code: osge-osa-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-osge-osa-gap-20230614.yaml
 - :id:
-    :code: html-aria
-    :stage: REC
+    :code: latn-nl-gap
+    :type: DNOTE
     :date: '20230614'
-  :file: data/rec-html-aria-20230614.yaml
+  :file: data/dnote-latn-nl-gap-20230614.yaml
 - :id:
     :code: latn-de-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-de-gap-20230614.yaml
 - :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230614'
+  :file: data/rec-html-aria-20230614.yaml
+- :id:
     :code: latn-fr-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-fr-gap-20230614.yaml
 - :id:
-    :code: html-aria
-    :stage: REC
-    :date: '20230626'
-  :file: data/rec-html-aria-20230626.yaml
-- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20230614'
   :file: data/dnote-latn-hu-gap-20230614.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20230626'
+  :file: data/rec-html-aria-20230626.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -25899,15 +25894,15 @@
     :date: '20230629'
   :file: data/rec-html-aria-20230629.yaml
 - :id:
-    :code: predefined-counter-styles
-    :type: NOTE
-    :date: '20230630'
-  :file: data/note-predefined-counter-styles-20230630.yaml
-- :id:
     :code: event-timing
     :stage: WD
     :date: '20230703'
   :file: data/wd-event-timing-20230703.yaml
+- :id:
+    :code: predefined-counter-styles
+    :type: NOTE
+    :date: '20230630'
+  :file: data/note-predefined-counter-styles-20230630.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -25934,30 +25929,30 @@
     :date: '20230719'
   :file: data/wd-hr-time-3-20230719.yaml
 - :id:
-    :code: kore-gap
-    :type: DNOTE
-    :date: '20230720'
-  :file: data/dnote-kore-gap-20230720.yaml
-- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20230720'
   :file: data/dnote-mong-gap-20230720.yaml
+- :id:
+    :code: kore-gap
+    :type: DNOTE
+    :date: '20230720'
+  :file: data/dnote-kore-gap-20230720.yaml
 - :id:
     :code: wcag-3.0
     :stage: WD
     :date: '20230724'
   :file: data/wd-wcag-3.0-20230724.yaml
 - :id:
-    :code: screen-orientation
-    :stage: WD
-    :date: '20230809'
-  :file: data/wd-screen-orientation-20230809.yaml
-- :id:
     :code: java-gap
     :type: DNOTE
     :date: '20230807'
   :file: data/dnote-java-gap-20230807.yaml
+- :id:
+    :code: screen-orientation
+    :stage: WD
+    :date: '20230809'
+  :file: data/wd-screen-orientation-20230809.yaml
 - :id:
     :code: wcag2ict
     :type: DNOTE
@@ -26484,11 +26479,6 @@
     :date: '20240222'
   :file: data/crd-generic-sensor-20240222.yaml
 - :id:
-    :code: privacy-principles
-    :type: DNOTE
-    :date: '20240226'
-  :file: data/dnote-privacy-principles-20240226.yaml
-- :id:
     :code: webdriver2
     :stage: WD
     :date: '20240226'
@@ -26779,11 +26769,6 @@
     :date: '20240419'
   :file: data/dnote-khmr-lreq-20240419.yaml
 - :id:
-    :code: webxrlayers-1
-    :stage: WD
-    :date: '20240422'
-  :file: data/wd-webxrlayers-1-20240422.yaml
-- :id:
     :code: baggage
     :stage: WD
     :date: '20240423'
@@ -26954,11 +26939,6 @@
     :date: '20240502'
   :file: data/wd-appmanifest-20240502.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240504'
-  :file: data/wd-vc-bitstring-status-list-20240504.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20240507'
@@ -27074,10 +27054,30 @@
     :date: '20240509'
   :file: data/wd-webrtc-svc-20240509.yaml
 - :id:
+    :code: webxrlayers-1
+    :stage: WD
+    :date: '20240510'
+  :file: data/wd-webxrlayers-1-20240510.yaml
+- :id:
+    :code: nkoo-lreq
+    :type: DNOTE
+    :date: '20240510'
+  :file: data/dnote-nkoo-lreq-20240510.yaml
+- :id:
     :code: webnn
     :stage: CRD
-    :date: '20240510'
-  :file: data/crd-webnn-20240510.yaml
+    :date: '20240511'
+  :file: data/crd-webnn-20240511.yaml
+- :id:
+    :code: privacy-principles
+    :type: DNOTE
+    :date: '20240511'
+  :file: data/dnote-privacy-principles-20240511.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240511'
+  :file: data/wd-vc-bitstring-status-list-20240511.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27139,9 +27139,6 @@
 - :id:
     :code: scroll-animations-1
   :file: data/scroll-animations-1.yaml
-- :id:
-    :code: nkoo-lreq
-  :file: data/nkoo-lreq.yaml
 - :id:
     :code: vc-jws
     :date: '2020'
@@ -27307,11 +27304,14 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: nkoo-lreq
+  :file: data/nkoo-lreq.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml

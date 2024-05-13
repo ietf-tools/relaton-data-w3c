@@ -27039,11 +27039,6 @@
     :date: '20240508'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240508.yaml
 - :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20240509'
-  :file: data/wd-mediasession-20240509.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20240509'
@@ -27059,15 +27054,15 @@
     :date: '20240510'
   :file: data/wd-webxrlayers-1-20240510.yaml
 - :id:
-    :code: nkoo-lreq
-    :type: DNOTE
-    :date: '20240510'
-  :file: data/dnote-nkoo-lreq-20240510.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240511'
   :file: data/crd-webnn-20240511.yaml
+- :id:
+    :code: nkoo-lreq
+    :type: DNOTE
+    :date: '20240510'
+  :file: data/dnote-nkoo-lreq-20240510.yaml
 - :id:
     :code: privacy-principles
     :type: DNOTE
@@ -27078,6 +27073,11 @@
     :stage: WD
     :date: '20240511'
   :file: data/wd-vc-bitstring-status-list-20240511.yaml
+- :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20240513'
+  :file: data/wd-mediasession-20240513.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

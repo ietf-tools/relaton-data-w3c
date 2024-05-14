@@ -26949,11 +26949,6 @@
     :date: '20240507'
   :file: data/wd-wgsl-20240507.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240507'
-  :file: data/crd-vc-data-model-2.0-20240507.yaml
-- :id:
     :code: html-ruby-extensions
     :stage: WD
     :date: '20240507'
@@ -26963,11 +26958,6 @@
     :stage: WD
     :date: '20240508'
   :file: data/wd-pointerlock-2-20240508.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240508'
-  :file: data/wd-webgpu-20240508.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -27039,11 +27029,6 @@
     :date: '20240508'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240508.yaml
 - :id:
-    :code: orientation-event
-    :stage: WD
-    :date: '20240509'
-  :file: data/wd-orientation-event-20240509.yaml
-- :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240509'
@@ -27054,30 +27039,45 @@
     :date: '20240510'
   :file: data/wd-webxrlayers-1-20240510.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240511'
-  :file: data/crd-webnn-20240511.yaml
-- :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20240510'
   :file: data/dnote-nkoo-lreq-20240510.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240511'
+  :file: data/crd-webnn-20240511.yaml
 - :id:
     :code: privacy-principles
     :type: DNOTE
     :date: '20240511'
   :file: data/dnote-privacy-principles-20240511.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240511'
-  :file: data/wd-vc-bitstring-status-list-20240511.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240513'
   :file: data/wd-mediasession-20240513.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240513'
+  :file: data/crd-vc-data-model-2.0-20240513.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240514'
+  :file: data/wd-webgpu-20240514.yaml
+- :id:
+    :code: orientation-event
+    :stage: WD
+    :date: '20240514'
+  :file: data/wd-orientation-event-20240514.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: WD
+    :date: '20240514'
+  :file: data/wd-vc-bitstring-status-list-20240514.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27304,14 +27304,14 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml

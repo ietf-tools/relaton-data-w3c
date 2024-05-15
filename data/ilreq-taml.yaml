@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-ilreq-taml-20240515
+    docid:
+    - id: W3C DNOTE-ilreq-taml-20240515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-ilreq-taml-20240515
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-ilreq-taml-20200616
     docid:
@@ -33,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: ilreq-taml
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-alreq-20240430
+id: W3CDNOTE-ilreq-taml-20240515
 title:
-- content: Arabic & Persian Layout Requirements
+- content: Tamil Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-alreq-20240430/
+- content: https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240515/
   type: src
-- content: https://w3c.github.io/alreq/
+- content: https://w3c.github.io/iip/tamil/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-alreq-20240430
+- id: W3C DNOTE-ilreq-taml-20240515
   type: W3C
   primary: true
-docnumber: DNOTE-alreq-20240430
+docnumber: DNOTE-ilreq-taml-20240515
 date:
 - type: published
-  value: '2024-04-30'
+  value: '2024-05-15'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-30'
+revdate: '2024-05-15'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-alreq-20231212
+    id: W3CWD-ilreq-taml-20200616
     docid:
-    - id: W3C DNOTE-alreq-20231212
+    - id: W3C WD-ilreq-taml-20200616
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-alreq-20231212
+      content: W3C WD-ilreq-taml-20200616
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-alreq-20240430
+  number: DNOTE-ilreq-taml-20240515
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

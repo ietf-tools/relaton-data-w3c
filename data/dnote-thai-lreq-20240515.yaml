@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-thai-lreq-20240430
+id: W3CDNOTE-thai-lreq-20240515
 title:
 - content: Thai Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/
+- content: https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/
   type: src
 - content: https://w3c.github.io/sealreq/thai/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-thai-lreq-20240430
+- id: W3C DNOTE-thai-lreq-20240515
   type: W3C
   primary: true
-docnumber: DNOTE-thai-lreq-20240430
+docnumber: DNOTE-thai-lreq-20240515
 date:
 - type: published
-  value: '2024-04-30'
+  value: '2024-05-15'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-30'
+revdate: '2024-05-15'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-thai-lreq-20240430
+    docid:
+    - id: W3C DNOTE-thai-lreq-20240430
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-thai-lreq-20240430
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-thai-lreq-20240430
+  number: DNOTE-thai-lreq-20240515
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

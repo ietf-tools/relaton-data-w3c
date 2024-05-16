@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-vc-bitstring-status-list-20240514
+id: W3CWD-wcag-3.0-20240516
 title:
-- content: Bitstring Status List v1.0
+- content: W3C Accessibility Guidelines (WCAG) 3.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240514/
+- content: https://www.w3.org/TR/2024/WD-wcag-3.0-20240516/
   type: src
-- content: https://w3c.github.io/vc-bitstring-status-list/
+- content: https://w3c.github.io/wcag3/guidelines/
   type: current
 type: standard
 docid:
-- id: W3C WD-vc-bitstring-status-list-20240514
+- id: W3C WD-wcag-3.0-20240516
   type: W3C
   primary: true
-docnumber: WD-vc-bitstring-status-list-20240514
+docnumber: WD-wcag-3.0-20240516
 date:
 - type: published
-  value: '2024-05-14'
+  value: '2024-05-16'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Alastair Campbell
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mahmoud Alkhraishi
+        content: Charles Adams
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Jeanne F Spellman
         language:
         - en
         script:
@@ -52,14 +52,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Kevin White
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-05-14'
+- person:
+    name:
+      completename:
+        content: Rachael Bradley Montgomery
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-16'
 language:
 - en
 script:
@@ -70,21 +80,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-vc-bitstring-status-list-20240511
+    id: W3CWD-wcag-3.0-20230724
     docid:
-    - id: W3C WD-vc-bitstring-status-list-20240511
+    - id: W3C WD-wcag-3.0-20230724
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-bitstring-status-list-20240511
+      content: W3C WD-wcag-3.0-20230724
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-vc-bitstring-status-list-20240514
+  number: WD-wcag-3.0-20240516
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessibility Guidelines Working Group
 ext:
   schema-version: v1.0.0

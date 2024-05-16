@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-adlm-gap-20211202
-    docid:
-    - id: W3C DNOTE-adlm-gap-20211202
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-adlm-gap-20211202
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-adlm-gap-20220203
     docid:
     - id: W3C DNOTE-adlm-gap-20220203
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-adlm-gap-20220203
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-adlm-gap-20211202
+    docid:
+    - id: W3C DNOTE-adlm-gap-20211202
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-adlm-gap-20211202
       format: text/plain
 series:
 - title:

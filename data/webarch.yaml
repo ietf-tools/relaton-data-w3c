@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webarch-20021115
+    docid:
+    - id: W3C WD-webarch-20021115
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webarch-20021115
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CPR-webarch-20041105
     docid:
     - id: W3C PR-webarch-20041105
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webarch-20031209
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webarch-20021115
-    docid:
-    - id: W3C WD-webarch-20021115
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webarch-20021115
       format: text/plain
 series:
 - title:

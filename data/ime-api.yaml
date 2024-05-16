@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ime-api-20131217
-    docid:
-    - id: W3C WD-ime-api-20131217
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ime-api-20131217
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ime-api-20151215
     docid:
     - id: W3C WD-ime-api-20151215
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ime-api-20151215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ime-api-20131217
+    docid:
+    - id: W3C WD-ime-api-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ime-api-20131217
       format: text/plain
 - type: hasEdition
   bibitem:

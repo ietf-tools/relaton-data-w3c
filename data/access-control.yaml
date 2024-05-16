@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Caccess-control
 title:
-- content: Access Control for Cross-Site Requests
+- content: Access Control for Cross-site Requests
   format: text/plain
 link:
 - content: http://www.w3.org/TR/access-control/
@@ -21,15 +21,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-access-control-20080912
+    id: W3CWD-access-control-20071126
     docid:
-    - id: W3C WD-access-control-20080912
+    - id: W3C WD-access-control-20071126
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-access-control-20080912
+      content: W3C WD-access-control-20071126
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -51,15 +51,15 @@ relation:
     formattedref:
       content: W3C NOTE-access-control-20050613
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-access-control-20071126
+    id: W3CWD-access-control-20080912
     docid:
-    - id: W3C WD-access-control-20071126
+    - id: W3C WD-access-control-20080912
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-access-control-20071126
+      content: W3C WD-access-control-20080912
       format: text/plain
 series:
 - title:

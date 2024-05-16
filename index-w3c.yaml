@@ -501,8 +501,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20240502'
-  :file: data/wd-appmanifest-20240502.yaml
+  :date: '20240516'
+  :file: data/wd-appmanifest-20240516.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -2520,6 +2520,10 @@
   :file: data/css-multicol-1.yaml
 - :code: css-multicol-1
   :stage: CR
+  :date: '20240516'
+  :file: data/cr-css-multicol-1-20240516.yaml
+- :code: css-multicol-1
+  :stage: CR
   :date: '20211012'
   :file: data/cr-css-multicol-1-20211012.yaml
 - :code: css-multicol-1
@@ -3216,6 +3220,12 @@
   :stage: CRD
   :date: '20240328'
   :file: data/crd-css-view-transitions-1-20240328.yaml
+- :code: css-view-transitions-2
+  :file: data/css-view-transitions-2.yaml
+- :code: css-view-transitions-2
+  :stage: WD
+  :date: '20240516'
+  :file: data/wd-css-view-transitions-2-20240516.yaml
 - :code: css-viewport-1
   :file: data/css-viewport-1.yaml
 - :code: css-viewport-1
@@ -4552,8 +4562,8 @@
   :file: data/did-spec-registries.yaml
 - :code: did-spec-registries
   :type: NOTE
-  :date: '20240514'
-  :file: data/note-did-spec-registries-20240514.yaml
+  :date: '20240515'
+  :file: data/note-did-spec-registries-20240515.yaml
 - :code: did-spec-registries
   :type: NOTE
   :date: '20211102'
@@ -9054,8 +9064,8 @@
   :file: data/mlreq.yaml
 - :code: mlreq
   :type: DNOTE
-  :date: '20240501'
-  :file: data/dnote-mlreq-20240501.yaml
+  :date: '20240515'
+  :file: data/dnote-mlreq-20240515.yaml
 - :code: mlreq
   :stage: WD
   :date: '20200616'
@@ -10655,8 +10665,8 @@
   :file: data/pointerlock-2.yaml
 - :code: pointerlock-2
   :stage: WD
-  :date: '20240508'
-  :file: data/wd-pointerlock-2-20240508.yaml
+  :date: '20240516'
+  :file: data/wd-pointerlock-2-20240516.yaml
 - :code: pointerlock-2
   :stage: WD
   :date: '20211117'
@@ -14348,8 +14358,8 @@
   :file: data/tlreq.yaml
 - :code: tlreq
   :type: DNOTE
-  :date: '20240419'
-  :file: data/dnote-tlreq-20240419.yaml
+  :date: '20240515'
+  :file: data/dnote-tlreq-20240515.yaml
 - :code: tlreq
   :stage: WD
   :date: '20200616'
@@ -15085,8 +15095,8 @@
   :file: data/vc-bitstring-status-list.yaml
 - :code: vc-bitstring-status-list
   :stage: WD
-  :date: '20240514'
-  :file: data/wd-vc-bitstring-status-list-20240514.yaml
+  :date: '20240516'
+  :file: data/wd-vc-bitstring-status-list-20240516.yaml
 - :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
@@ -15918,8 +15928,8 @@
   :file: data/wcag-3.0.yaml
 - :code: wcag-3.0
   :stage: WD
-  :date: '20230724'
-  :file: data/wd-wcag-3.0-20230724.yaml
+  :date: '20240516'
+  :file: data/wd-wcag-3.0-20240516.yaml
 - :code: wcag-3.0
   :stage: WD
   :date: '20211207'
@@ -16744,8 +16754,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20240514'
-  :file: data/wd-webgpu-20240514.yaml
+  :date: '20240515'
+  :file: data/wd-webgpu-20240515.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16862,8 +16872,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240514'
-  :file: data/crd-webnn-20240514.yaml
+  :date: '20240515'
+  :file: data/crd-webnn-20240515.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

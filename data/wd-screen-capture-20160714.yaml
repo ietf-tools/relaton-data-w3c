@@ -18,6 +18,27 @@ docnumber: WD-screen-capture-20160714
 date:
 - type: published
   value: '2016-07-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Keith Griffin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Martin Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 revdate: '2016-07-14'
 language:
 - en
@@ -44,7 +65,7 @@ series:
   number: WD-screen-capture-20160714
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
 - name: Web Real-Time Communications Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

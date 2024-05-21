@@ -8802,6 +8802,10 @@
   :file: data/mediaqueries-3.yaml
 - :code: mediaqueries-3
   :stage: REC
+  :date: '20240521'
+  :file: data/rec-mediaqueries-3-20240521.yaml
+- :code: mediaqueries-3
+  :stage: REC
   :date: '20220405'
   :file: data/rec-mediaqueries-3-20220405.yaml
 - :code: mediaqueries-4
@@ -11451,9 +11455,9 @@
 - :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :code: rdf-canon
-  :stage: PR
-  :date: '20240326'
-  :file: data/pr-rdf-canon-20240326.yaml
+  :stage: REC
+  :date: '20240521'
+  :file: data/rec-rdf-canon-20240521.yaml
 - :code: rdf-concepts
   :file: data/rdf-concepts.yaml
 - :code: rdf-concepts
@@ -15094,9 +15098,9 @@
 - :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :code: vc-bitstring-status-list
-  :stage: WD
-  :date: '20240516'
-  :file: data/wd-vc-bitstring-status-list-20240516.yaml
+  :stage: CR
+  :date: '20240521'
+  :file: data/cr-vc-bitstring-status-list-20240521.yaml
 - :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
@@ -16754,8 +16758,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20240518'
-  :file: data/wd-webgpu-20240518.yaml
+  :date: '20240521'
+  :file: data/wd-webgpu-20240521.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'

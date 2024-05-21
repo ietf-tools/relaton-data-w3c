@@ -1,0 +1,73 @@
+---
+schema-version: v1.2.3
+id: W3CREC-mediaqueries-3-20240521
+title:
+- content: Media Queries Level 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/REC-mediaqueries-3-20240521/
+  type: src
+- content: https://drafts.csswg.org/mediaqueries-3/
+  type: current
+type: standard
+docid:
+- id: W3C REC-mediaqueries-3-20240521
+  type: W3C
+  primary: true
+docnumber: REC-mediaqueries-3-20240521
+date:
+- type: published
+  value: '2024-05-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Florian Rivoal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CREC-mediaqueries-3-20220405
+    docid:
+    - id: W3C REC-mediaqueries-3-20220405
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-mediaqueries-3-20220405
+      format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3CREC-mediaqueries-3-20220405-errata.html
+    docid:
+    - id: W3C REC-mediaqueries-3-20220405-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-mediaqueries-3-20220405-errata.html
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-mediaqueries-3-20240521
+doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
+ext:
+  schema-version: v1.0.0

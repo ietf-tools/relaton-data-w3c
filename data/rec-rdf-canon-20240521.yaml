@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CPR-rdf-canon-20240326
+id: W3CREC-rdf-canon-20240521
 title:
 - content: RDF Dataset Canonicalization
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/PR-rdf-canon-20240326/
+- content: https://www.w3.org/TR/2024/REC-rdf-canon-20240521/
   type: src
 - content: https://w3c.github.io/rdf-canon/spec/
   type: current
 type: standard
 docid:
-- id: W3C PR-rdf-canon-20240326
+- id: W3C REC-rdf-canon-20240521
   type: W3C
   primary: true
-docnumber: PR-rdf-canon-20240326
+docnumber: REC-rdf-canon-20240521
 date:
 - type: published
-  value: '2024-03-26'
+  value: '2024-05-21'
 contributor:
 - person:
     name:
@@ -49,30 +49,43 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-26'
+revdate: '2024-05-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-rdf-canon-20240311
+    id: W3CPR-rdf-canon-20240326
     docid:
-    - id: W3C CRD-rdf-canon-20240311
+    - id: W3C PR-rdf-canon-20240326
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-rdf-canon-20240311
+      content: W3C PR-rdf-canon-20240326
       format: text/plain
+- type: updatedBy
+  bibitem:
+    id: W3Crdf-canon-errata
+    docid:
+    - id: W3C rdf-canon/errata
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C rdf-canon/errata
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
-  number: PR-rdf-canon-20240326
+  number: REC-rdf-canon-20240521
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

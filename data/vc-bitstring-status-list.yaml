@@ -19,21 +19,21 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-bitstring-status-list-20240516
+    id: W3CCR-vc-bitstring-status-list-20240521
     docid:
-    - id: W3C WD-vc-bitstring-status-list-20240516
+    - id: W3C CR-vc-bitstring-status-list-20240521
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-bitstring-status-list-20240516
+      content: W3C CR-vc-bitstring-status-list-20240521
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: vc-bitstring-status-list
 doctype: technicalReport

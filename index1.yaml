@@ -26579,11 +26579,6 @@
     :date: '20240326'
   :file: data/wd-css-anchor-position-1-20240326.yaml
 - :id:
-    :code: rdf-canon
-    :stage: PR
-    :date: '20240326'
-  :file: data/pr-rdf-canon-20240326.yaml
-- :id:
     :code: css-properties-values-api-1
     :stage: WD
     :date: '20240326'
@@ -26934,30 +26929,30 @@
     :date: '20240515'
   :file: data/wd-magnetometer-20240515.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240515'
-  :file: data/crd-webnn-20240515.yaml
-- :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-nkoo-lreq-20240515.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240515'
+  :file: data/crd-webnn-20240515.yaml
 - :id:
     :code: khmr-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-khmr-lreq-20240515.yaml
 - :id:
-    :code: wcag-3.0
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-wcag-3.0-20240516.yaml
-- :id:
     :code: laoo-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-laoo-lreq-20240515.yaml
+- :id:
+    :code: wcag-3.0
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-wcag-3.0-20240516.yaml
 - :id:
     :code: thai-lreq
     :type: DNOTE
@@ -26979,15 +26974,15 @@
     :date: '20240515'
   :file: data/dnote-tlreq-20240515.yaml
 - :id:
-    :code: css-multicol-1
-    :stage: CR
-    :date: '20240516'
-  :file: data/cr-css-multicol-1-20240516.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-mlreq-20240515.yaml
+- :id:
+    :code: css-multicol-1
+    :stage: CR
+    :date: '20240516'
+  :file: data/cr-css-multicol-1-20240516.yaml
 - :id:
     :code: css-view-transitions-2
     :stage: WD
@@ -26998,11 +26993,6 @@
     :stage: WD
     :date: '20240516'
   :file: data/wd-pointerlock-2-20240516.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-vc-bitstring-status-list-20240516.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
@@ -27018,11 +27008,6 @@
     :stage: WD
     :date: '20240517'
   :file: data/wd-appmanifest-20240517.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240518'
-  :file: data/wd-webgpu-20240518.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -27093,6 +27078,26 @@
     :type: DNOTE
     :date: '20240520'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240520.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240521'
+  :file: data/wd-webgpu-20240521.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CR
+    :date: '20240521'
+  :file: data/cr-vc-bitstring-status-list-20240521.yaml
+- :id:
+    :code: rdf-canon
+    :stage: REC
+    :date: '20240521'
+  :file: data/rec-rdf-canon-20240521.yaml
+- :id:
+    :code: mediaqueries-3
+    :stage: REC
+    :date: '20240521'
+  :file: data/rec-mediaqueries-3-20240521.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27220,9 +27225,6 @@
     :code: css-anchor-position-1
   :file: data/css-anchor-position-1.yaml
 - :id:
-    :code: rdf-canon
-  :file: data/rdf-canon.yaml
-- :id:
     :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :id:
@@ -27328,8 +27330,11 @@
     :code: css-view-transitions-2
   :file: data/css-view-transitions-2.yaml
 - :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
+    :code: rdf-canon
+  :file: data/rdf-canon.yaml

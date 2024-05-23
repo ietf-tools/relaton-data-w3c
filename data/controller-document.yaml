@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Ccontroller-document
+title:
+- content: Controller Documents 1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/controller-document/
+  type: src
+type: standard
+docid:
+- id: W3C controller-document
+  type: W3C
+  primary: true
+docnumber: controller-document
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-controller-document-20240523
+    docid:
+    - id: W3C WD-controller-document-20240523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-controller-document-20240523
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: controller-document
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

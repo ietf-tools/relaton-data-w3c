@@ -26874,11 +26874,6 @@
     :date: '20240507'
   :file: data/rec-html-aria-20240507.yaml
 - :id:
-    :code: html-ruby-extensions
-    :stage: WD
-    :date: '20240507'
-  :file: data/wd-html-ruby-extensions-20240507.yaml
-- :id:
     :code: webxrlayers-1
     :stage: WD
     :date: '20240510'
@@ -26909,10 +26904,10 @@
     :date: '20240515'
   :file: data/wd-magnetometer-20240515.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240515'
-  :file: data/crd-webnn-20240515.yaml
+    :code: wcag-3.0
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-wcag-3.0-20240516.yaml
 - :id:
     :code: nkoo-lreq
     :type: DNOTE
@@ -26923,11 +26918,6 @@
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-khmr-lreq-20240515.yaml
-- :id:
-    :code: wcag-3.0
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-wcag-3.0-20240516.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -26944,30 +26934,30 @@
     :date: '20240515'
   :file: data/dnote-ilreq-taml-20240515.yaml
 - :id:
+    :code: css-multicol-1
+    :stage: CR
+    :date: '20240516'
+  :file: data/cr-css-multicol-1-20240516.yaml
+- :id:
     :code: alreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-alreq-20240515.yaml
+- :id:
+    :code: css-view-transitions-2
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-css-view-transitions-2-20240516.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-tlreq-20240515.yaml
 - :id:
-    :code: css-multicol-1
-    :stage: CR
-    :date: '20240516'
-  :file: data/cr-css-multicol-1-20240516.yaml
-- :id:
     :code: mlreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-mlreq-20240515.yaml
-- :id:
-    :code: css-view-transitions-2
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-css-view-transitions-2-20240516.yaml
 - :id:
     :code: pointerlock-2
     :stage: WD
@@ -27089,15 +27079,30 @@
     :date: '20240521'
   :file: data/wd-webdriver2-20240521.yaml
 - :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240522'
-  :file: data/wd-credential-management-1-20240522.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240522'
   :file: data/wd-wgsl-20240522.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240523'
+  :file: data/crd-webnn-20240523.yaml
+- :id:
+    :code: html-ruby-extensions
+    :stage: WD
+    :date: '20240523'
+  :file: data/wd-html-ruby-extensions-20240523.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20240523'
+  :file: data/wd-controller-document-20240523.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240523'
+  :file: data/wd-credential-management-1-20240523.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27338,3 +27343,6 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: controller-document
+  :file: data/controller-document.yaml

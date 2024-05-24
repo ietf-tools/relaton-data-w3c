@@ -27079,11 +27079,6 @@
     :date: '20240521'
   :file: data/wd-webdriver2-20240521.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240522'
-  :file: data/wd-wgsl-20240522.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240523'
@@ -27103,6 +27098,16 @@
     :stage: WD
     :date: '20240523'
   :file: data/wd-credential-management-1-20240523.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240523'
+  :file: data/wd-wgsl-20240523.yaml
+- :id:
+    :code: battery-status
+    :stage: WD
+    :date: '20240523'
+  :file: data/wd-battery-status-20240523.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

@@ -25549,11 +25549,6 @@
     :date: '20230203'
   :file: data/rec-html-aria-20230203.yaml
 - :id:
-    :code: FileAPI
-    :stage: WD
-    :date: '20230206'
-  :file: data/wd-fileapi-20230206.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230207'
@@ -26494,11 +26489,6 @@
     :date: '20240307'
   :file: data/wd-navigation-timing-2-20240307.yaml
 - :id:
-    :code: longtasks-1
-    :stage: WD
-    :date: '20240311'
-  :file: data/wd-longtasks-1-20240311.yaml
-- :id:
     :code: css-backgrounds-3
     :stage: CRD
     :date: '20240311'
@@ -26514,15 +26504,15 @@
     :date: '20240314'
   :file: data/dnote-arab-ks-gap-20240314.yaml
 - :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20240314'
-  :file: data/dnote-alreq-gap-20240314.yaml
-- :id:
     :code: ethical-web-principles
     :type: DNOTE
     :date: '20240319'
   :file: data/dnote-ethical-web-principles-20240319.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20240314'
+  :file: data/dnote-alreq-gap-20240314.yaml
 - :id:
     :code: khmr-gap
     :type: DNOTE
@@ -26554,15 +26544,15 @@
     :date: '20240321'
   :file: data/dnote-international-specs-20240321.yaml
 - :id:
-    :code: css-values-3
-    :stage: CRD
-    :date: '20240322'
-  :file: data/crd-css-values-3-20240322.yaml
-- :id:
     :code: typography
     :type: DNOTE
     :date: '20240322'
   :file: data/dnote-typography-20240322.yaml
+- :id:
+    :code: css-values-3
+    :stage: CRD
+    :date: '20240322'
+  :file: data/crd-css-values-3-20240322.yaml
 - :id:
     :code: css-anchor-position-1
     :stage: WD
@@ -26758,11 +26748,6 @@
     :stage: REC
     :date: '20240425'
   :file: data/rec-imsc-hrm-20240425.yaml
-- :id:
-    :code: resource-timing
-    :stage: CRD
-    :date: '20240427'
-  :file: data/crd-resource-timing-20240427.yaml
 - :id:
     :code: wasm-web-api-2
     :stage: WD
@@ -27049,11 +27034,6 @@
     :date: '20240520'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240520.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240521'
-  :file: data/wd-webgpu-20240521.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CR
     :date: '20240521'
@@ -27108,6 +27088,26 @@
     :stage: WD
     :date: '20240523'
   :file: data/wd-battery-status-20240523.yaml
+- :id:
+    :code: FileAPI
+    :stage: WD
+    :date: '20240524'
+  :file: data/wd-fileapi-20240524.yaml
+- :id:
+    :code: resource-timing
+    :stage: CRD
+    :date: '20240524'
+  :file: data/crd-resource-timing-20240524.yaml
+- :id:
+    :code: longtasks-1
+    :stage: WD
+    :date: '20240524'
+  :file: data/wd-longtasks-1-20240524.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240524'
+  :file: data/wd-webgpu-20240524.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

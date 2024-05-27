@@ -26634,11 +26634,6 @@
     :date: '20240411'
   :file: data/rec-css-box-3-20240411.yaml
 - :id:
-    :code: screen-wake-lock
-    :stage: WD
-    :date: '20240411'
-  :file: data/wd-screen-wake-lock-20240411.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240412'
@@ -27109,6 +27104,11 @@
     :date: '20240524'
   :file: data/wd-webgpu-20240524.yaml
 - :id:
+    :code: screen-wake-lock
+    :stage: WD
+    :date: '20240527'
+  :file: data/wd-screen-wake-lock-20240527.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27117,6 +27117,9 @@
 - :id:
     :code: xslt-10
   :file: data/xslt-10.yaml
+- :id:
+    :code: xquery-10
+  :file: data/xquery-10.yaml
 - :id:
     :code: adapt-requirements
   :file: data/adapt-requirements.yaml

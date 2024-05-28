@@ -26034,11 +26034,6 @@
     :date: '20230927'
   :file: data/wd-webauthn-3-20230927.yaml
 - :id:
-    :code: wot-binding-templates
-    :type: NOTE
-    :date: '20230928'
-  :file: data/note-wot-binding-templates-20230928.yaml
-- :id:
     :code: dx-prof-conneg
     :stage: WD
     :date: '20231002'
@@ -26064,35 +26059,30 @@
     :date: '20231004'
   :file: data/dnote-adlm-gap-20231004.yaml
 - :id:
-    :code: beng-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-beng-gap-20231004.yaml
-- :id:
     :code: gujr-gap
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-gujr-gap-20231004.yaml
+- :id:
+    :code: beng-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-beng-gap-20231004.yaml
 - :id:
     :code: elreq-gap
     :type: DNOTE
     :date: '20231004'
   :file: data/dnote-elreq-gap-20231004.yaml
 - :id:
-    :code: grek-gap
-    :type: DNOTE
-    :date: '20231004'
-  :file: data/dnote-grek-gap-20231004.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20231004'
   :file: data/rec-html-aria-20231004.yaml
 - :id:
-    :code: jpan-gap
+    :code: grek-gap
     :type: DNOTE
     :date: '20231004'
-  :file: data/dnote-jpan-gap-20231004.yaml
+  :file: data/dnote-grek-gap-20231004.yaml
 - :id:
     :code: network-error-logging
     :stage: WD
@@ -26103,6 +26093,11 @@
     :stage: REC
     :date: '20231005'
   :file: data/rec-wcag22-20231005.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20231004'
+  :file: data/dnote-jpan-gap-20231004.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
@@ -26389,11 +26384,6 @@
     :date: '20240131'
   :file: data/wd-miniapp-addressing-20240131.yaml
 - :id:
-    :code: vc-specs-dir
-    :type: NOTE
-    :date: '20240201'
-  :file: data/note-vc-specs-dir-20240201.yaml
-- :id:
     :code: css-fonts-4
     :stage: WD
     :date: '20240201'
@@ -26613,11 +26603,6 @@
     :type: NOTE
     :date: '20240403'
   :file: data/note-w3c-vision-20240403.yaml
-- :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240408'
-  :file: data/wd-device-posture-20240408.yaml
 - :id:
     :code: html-aria
     :stage: REC
@@ -26884,15 +26869,20 @@
     :date: '20240515'
   :file: data/wd-magnetometer-20240515.yaml
 - :id:
-    :code: wcag-3.0
-    :stage: WD
+    :code: css-multicol-1
+    :stage: CR
     :date: '20240516'
-  :file: data/wd-wcag-3.0-20240516.yaml
+  :file: data/cr-css-multicol-1-20240516.yaml
 - :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-nkoo-lreq-20240515.yaml
+- :id:
+    :code: css-view-transitions-2
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-css-view-transitions-2-20240516.yaml
 - :id:
     :code: khmr-lreq
     :type: DNOTE
@@ -26909,55 +26899,45 @@
     :date: '20240515'
   :file: data/dnote-thai-lreq-20240515.yaml
 - :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-ilreq-taml-20240515.yaml
-- :id:
-    :code: css-multicol-1
-    :stage: CR
-    :date: '20240516'
-  :file: data/cr-css-multicol-1-20240516.yaml
-- :id:
-    :code: alreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-alreq-20240515.yaml
-- :id:
-    :code: css-view-transitions-2
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-css-view-transitions-2-20240516.yaml
-- :id:
-    :code: tlreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-tlreq-20240515.yaml
-- :id:
-    :code: mlreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-mlreq-20240515.yaml
-- :id:
     :code: pointerlock-2
     :stage: WD
     :date: '20240516'
   :file: data/wd-pointerlock-2-20240516.yaml
+- :id:
+    :code: ilreq-taml
+    :type: DNOTE
+    :date: '20240515'
+  :file: data/dnote-ilreq-taml-20240515.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240516'
   :file: data/wd-webrtc-svc-20240516.yaml
 - :id:
+    :code: alreq
+    :type: DNOTE
+    :date: '20240515'
+  :file: data/dnote-alreq-20240515.yaml
+- :id:
     :code: did-spec-registries
     :type: NOTE
     :date: '20240516'
   :file: data/note-did-spec-registries-20240516.yaml
 - :id:
+    :code: tlreq
+    :type: DNOTE
+    :date: '20240515'
+  :file: data/dnote-tlreq-20240515.yaml
+- :id:
     :code: appmanifest
     :stage: WD
     :date: '20240517'
   :file: data/wd-appmanifest-20240517.yaml
+- :id:
+    :code: mlreq
+    :type: DNOTE
+    :date: '20240515'
+  :file: data/dnote-mlreq-20240515.yaml
 - :id:
     :code: webcodecs
     :stage: WD
@@ -27109,6 +27089,26 @@
     :date: '20240527'
   :file: data/wd-screen-wake-lock-20240527.yaml
 - :id:
+    :code: vc-specs-dir
+    :type: NOTE
+    :date: '20240527'
+  :file: data/note-vc-specs-dir-20240527.yaml
+- :id:
+    :code: wot-binding-templates
+    :type: NOTE
+    :date: '20240528'
+  :file: data/note-wot-binding-templates-20240528.yaml
+- :id:
+    :code: wcag-3.0
+    :stage: WD
+    :date: '20240528'
+  :file: data/wd-wcag-3.0-20240528.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240528'
+  :file: data/wd-device-posture-20240528.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27223,9 +27223,6 @@
     :code: css-viewport-1
   :file: data/css-viewport-1.yaml
 - :id:
-    :code: vc-specs-dir
-  :file: data/vc-specs-dir.yaml
-- :id:
     :code: payment-request-1.1
   :file: data/payment-request-1.1.yaml
 - :id:
@@ -27328,6 +27325,9 @@
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
+    :code: css-view-transitions-2
+  :file: data/css-view-transitions-2.yaml
+- :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
 - :id:
@@ -27336,9 +27336,6 @@
 - :id:
     :code: thai-lreq
   :file: data/thai-lreq.yaml
-- :id:
-    :code: css-view-transitions-2
-  :file: data/css-view-transitions-2.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
@@ -27354,3 +27351,6 @@
 - :id:
     :code: controller-document
   :file: data/controller-document.yaml
+- :id:
+    :code: vc-specs-dir
+  :file: data/vc-specs-dir.yaml

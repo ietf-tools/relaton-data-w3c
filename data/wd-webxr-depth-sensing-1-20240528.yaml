@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-html-ruby-extensions-20240523
+id: W3CWD-webxr-depth-sensing-1-20240528
 title:
-- content: HTML Ruby Markup Extensions
+- content: WebXR Depth Sensing Module
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-html-ruby-extensions-20240523/
+- content: https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/
   type: src
-- content: https://w3c.github.io/html-ruby/
+- content: https://immersive-web.github.io/depth-sensing/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-ruby-extensions-20240523
+- id: W3C WD-webxr-depth-sensing-1-20240528
   type: W3C
   primary: true
-docnumber: WD-html-ruby-extensions-20240523
+docnumber: WD-webxr-depth-sensing-1-20240528
 date:
 - type: published
-  value: '2024-05-23'
+  value: '2024-05-28'
 contributor:
 - person:
     name:
       completename:
-        content: Florian Rivoal
+        content: Piotr Bialecki
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-05-23'
+revdate: '2024-05-28'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-ruby-extensions-20240507
+    id: W3CWD-webxr-depth-sensing-1-20220419
     docid:
-    - id: W3C WD-html-ruby-extensions-20240507
+    - id: W3C WD-webxr-depth-sensing-1-20220419
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-ruby-extensions-20240507
+      content: W3C WD-webxr-depth-sensing-1-20220419
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-ruby-extensions-20240523
+  number: WD-webxr-depth-sensing-1-20240528
 doctype: technicalReport
 editorialgroup:
-- name: HTML Working Group
+- name: Immersive Web Working Group
 ext:
   schema-version: v1.0.0

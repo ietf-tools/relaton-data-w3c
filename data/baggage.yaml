@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-baggage-20240423
+    id: W3CCR-baggage-20240530
     docid:
-    - id: W3C WD-baggage-20240423
+    - id: W3C CR-baggage-20240530
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-baggage-20240423
+      content: W3C CR-baggage-20240530
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +63,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: baggage
 doctype: technicalReport

@@ -287,6 +287,12 @@
   :type: DNOTE
   :date: '20211202'
   :file: data/dnote-adlm-gap-20211202.yaml
+- :code: adlm-lreq
+  :file: data/adlm-lreq.yaml
+- :code: adlm-lreq
+  :type: DNOTE
+  :date: '20240530'
+  :file: data/dnote-adlm-lreq-20240530.yaml
 - :code: AERT
   :file: data/aert.yaml
 - :code: AERT
@@ -778,9 +784,9 @@
 - :code: baggage
   :file: data/baggage.yaml
 - :code: baggage
-  :stage: WD
-  :date: '20240423'
-  :file: data/wd-baggage-20240423.yaml
+  :stage: CR
+  :date: '20240530'
+  :file: data/cr-baggage-20240530.yaml
 - :code: baggage
   :stage: WD
   :date: '20220524'
@@ -1548,8 +1554,8 @@
   :file: data/credential-management-1.yaml
 - :code: credential-management-1
   :stage: WD
-  :date: '20240523'
-  :file: data/wd-credential-management-1-20240523.yaml
+  :date: '20240529'
+  :file: data/wd-credential-management-1-20240529.yaml
 - :code: credential-management-1
   :stage: WD
   :date: '20190117'
@@ -5540,6 +5546,12 @@
   :type: NOTE
   :date: '20230314'
   :file: data/note-epub-aria-authoring-11-20230314.yaml
+- :code: epub-fxl-a11y
+  :file: data/epub-fxl-a11y.yaml
+- :code: epub-fxl-a11y
+  :type: NOTE
+  :date: '20240530'
+  :file: data/note-epub-fxl-a11y-20240530.yaml
 - :code: epub-multi-rend-11
   :file: data/epub-multi-rend-11.yaml
 - :code: epub-multi-rend-11
@@ -11202,8 +11214,8 @@
   :file: data/push-api.yaml
 - :code: push-api
   :stage: WD
-  :date: '20231211'
-  :file: data/wd-push-api-20231211.yaml
+  :date: '20240530'
+  :file: data/wd-push-api-20240530.yaml
 - :code: push-api
   :stage: WD
   :date: '20220323'

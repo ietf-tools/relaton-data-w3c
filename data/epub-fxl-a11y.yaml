@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cepub-fxl-a11y
+title:
+- content: EPUB Fixed Layout Accessibility
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/epub-fxl-a11y/
+  type: src
+type: standard
+docid:
+- id: W3C epub-fxl-a11y
+  type: W3C
+  primary: true
+docnumber: epub-fxl-a11y
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-epub-fxl-a11y-20240530
+    docid:
+    - id: W3C NOTE-epub-fxl-a11y-20240530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-epub-fxl-a11y-20240530
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: epub-fxl-a11y
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

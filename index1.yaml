@@ -26219,11 +26219,6 @@
     :date: '20231207'
   :file: data/note-css-2023-20231207.yaml
 - :id:
-    :code: push-api
-    :stage: WD
-    :date: '20231211'
-  :file: data/wd-push-api-20231211.yaml
-- :id:
     :code: mediacapture-fromelement
     :stage: WD
     :date: '20231212'
@@ -26704,11 +26699,6 @@
     :date: '20240422'
   :file: data/dnote-i18n-glossary-20240422.yaml
 - :id:
-    :code: baggage
-    :stage: WD
-    :date: '20240423'
-  :file: data/wd-baggage-20240423.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20240424'
@@ -27039,11 +27029,6 @@
     :date: '20240523'
   :file: data/wd-controller-document-20240523.yaml
 - :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240523'
-  :file: data/wd-credential-management-1-20240523.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240523'
@@ -27113,6 +27098,31 @@
     :stage: WD
     :date: '20240529'
   :file: data/wd-html-ruby-extensions-20240529.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240529'
+  :file: data/wd-credential-management-1-20240529.yaml
+- :id:
+    :code: push-api
+    :stage: WD
+    :date: '20240530'
+  :file: data/wd-push-api-20240530.yaml
+- :id:
+    :code: epub-fxl-a11y
+    :type: NOTE
+    :date: '20240530'
+  :file: data/note-epub-fxl-a11y-20240530.yaml
+- :id:
+    :code: baggage
+    :stage: CR
+    :date: '20240530'
+  :file: data/cr-baggage-20240530.yaml
+- :id:
+    :code: adlm-lreq
+    :type: DNOTE
+    :date: '20240530'
+  :file: data/dnote-adlm-lreq-20240530.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27359,3 +27369,9 @@
 - :id:
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
+- :id:
+    :code: epub-fxl-a11y
+  :file: data/epub-fxl-a11y.yaml
+- :id:
+    :code: adlm-lreq
+  :file: data/adlm-lreq.yaml

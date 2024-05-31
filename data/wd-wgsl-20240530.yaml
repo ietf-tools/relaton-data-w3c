@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webtransport-20231220
+id: W3CWD-WGSL-20240530
 title:
-- content: WebTransport
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-webtransport-20231220/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240530/
   type: src
-- content: https://w3c.github.io/webtransport/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-webtransport-20231220
+- id: W3C WD-WGSL-20240530
   type: W3C
   primary: true
-docnumber: WD-webtransport-20231220
+docnumber: WD-WGSL-20240530
 date:
 - type: published
-  value: '2023-12-20'
+  value: '2024-05-30'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Nidhi Jaju
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Victor Vasiliev
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-20'
+revdate: '2024-05-30'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webtransport-20230712
+    id: W3CWD-WGSL-20240523
     docid:
-    - id: W3C WD-webtransport-20230712
+    - id: W3C WD-WGSL-20240523
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20230712
+      content: W3C WD-WGSL-20240523
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webtransport-20231220
+  number: WD-WGSL-20240530
 doctype: technicalReport
 editorialgroup:
-- name: WebTransport Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

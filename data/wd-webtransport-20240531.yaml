@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-ethical-web-principles-20240319
+id: W3CWD-webtransport-20240531
 title:
-- content: Ethical Web Principles
+- content: WebTransport
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-ethical-web-principles-20240319/
+- content: https://www.w3.org/TR/2024/WD-webtransport-20240531/
   type: src
-- content: https://w3ctag.github.io/ethical-web-principles/
+- content: https://w3c.github.io/webtransport/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-ethical-web-principles-20240319
+- id: W3C WD-webtransport-20240531
   type: W3C
   primary: true
-docnumber: DNOTE-ethical-web-principles-20240319
+docnumber: WD-webtransport-20240531
 date:
 - type: published
-  value: '2024-03-19'
+  value: '2024-05-31'
 contributor:
 - person:
     name:
       completename:
-        content: Amy Guy
+        content: Bernard Aboba
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Daniel Appelquist
+        content: Nidhi Jaju
         language:
         - en
         script:
@@ -42,36 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Hadley Beeman
+        content: Victor Vasiliev
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-19'
+revdate: '2024-05-31'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-ethical-web-principles-20240226
+    id: W3CWD-webtransport-20231220
     docid:
-    - id: W3C DNOTE-ethical-web-principles-20240226
+    - id: W3C WD-webtransport-20231220
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-ethical-web-principles-20240226
+      content: W3C WD-webtransport-20231220
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-ethical-web-principles-20240319
-doctype: groupNote
+  number: WD-webtransport-20240531
+doctype: technicalReport
 editorialgroup:
-- name: Technical Architecture Group
+- name: WebTransport Working Group
 ext:
   schema-version: v1.0.0

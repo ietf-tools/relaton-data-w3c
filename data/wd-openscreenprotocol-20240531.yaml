@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webxr-depth-sensing-1-20240528
+id: W3CWD-openscreenprotocol-20240531
 title:
-- content: WebXR Depth Sensing Module
+- content: Open Screen Protocol
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/
+- content: https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/
   type: src
-- content: https://immersive-web.github.io/depth-sensing/
+- content: https://w3c.github.io/openscreenprotocol/
   type: current
 type: standard
 docid:
-- id: W3C WD-webxr-depth-sensing-1-20240528
+- id: W3C WD-openscreenprotocol-20240531
   type: W3C
   primary: true
-docnumber: WD-webxr-depth-sensing-1-20240528
+docnumber: WD-openscreenprotocol-20240531
 date:
 - type: published
-  value: '2024-05-28'
+  value: '2024-05-31'
 contributor:
 - person:
     name:
       completename:
-        content: Piotr Bialecki
+        content: Mark Foltz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-05-28'
+revdate: '2024-05-31'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webxr-depth-sensing-1-20220419
+    id: W3CWD-openscreenprotocol-20240425
     docid:
-    - id: W3C WD-webxr-depth-sensing-1-20220419
+    - id: W3C WD-openscreenprotocol-20240425
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webxr-depth-sensing-1-20220419
+      content: W3C WD-openscreenprotocol-20240425
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxr-depth-sensing-1-20240528
+  number: WD-openscreenprotocol-20240531
 doctype: technicalReport
 editorialgroup:
-- name: Immersive Web Working Group
+- name: Second Screen Working Group
 ext:
   schema-version: v1.0.0

@@ -26804,11 +26804,6 @@
     :date: '20240511'
   :file: data/dnote-privacy-principles-20240511.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240513'
-  :file: data/crd-vc-data-model-2.0-20240513.yaml
-- :id:
     :code: orientation-event
     :stage: WD
     :date: '20240514'
@@ -27014,11 +27009,6 @@
     :date: '20240527'
   :file: data/wd-screen-wake-lock-20240527.yaml
 - :id:
-    :code: vc-specs-dir
-    :type: NOTE
-    :date: '20240527'
-  :file: data/note-vc-specs-dir-20240527.yaml
-- :id:
     :code: wot-binding-templates
     :type: NOTE
     :date: '20240528'
@@ -27123,6 +27113,16 @@
     :stage: CRD
     :date: '20240601'
   :file: data/crd-webnn-20240601.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240601'
+  :file: data/crd-vc-data-model-2.0-20240601.yaml
+- :id:
+    :code: vc-specs-dir
+    :type: NOTE
+    :date: '20240601'
+  :file: data/note-vc-specs-dir-20240601.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27331,9 +27331,6 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
@@ -27364,9 +27361,6 @@
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
-    :code: vc-specs-dir
-  :file: data/vc-specs-dir.yaml
-- :id:
     :code: epub-fxl-a11y
   :file: data/epub-fxl-a11y.yaml
 - :id:
@@ -27375,3 +27369,9 @@
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-specs-dir
+  :file: data/vc-specs-dir.yaml

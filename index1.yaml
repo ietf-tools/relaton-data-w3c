@@ -25419,11 +25419,6 @@
     :date: '20220917'
   :file: data/wd-css-contain-2-20220917.yaml
 - :id:
-    :code: change-password-url
-    :stage: WD
-    :date: '20220927'
-  :file: data/wd-change-password-url-20220927.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20220927'
@@ -26739,11 +26734,6 @@
     :date: '20240430'
   :file: data/wd-contact-picker-20240430.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240501'
-  :file: data/wd-compute-pressure-20240501.yaml
-- :id:
     :code: picture-in-picture
     :stage: WD
     :date: '20240502'
@@ -27089,11 +27079,6 @@
     :date: '20240531'
   :file: data/dnote-ethical-web-principles-20240531.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240531'
-  :file: data/wd-webgpu-20240531.yaml
-- :id:
     :code: trusted-types
     :stage: WD
     :date: '20240531'
@@ -27104,16 +27089,6 @@
     :date: '20240531'
   :file: data/wd-webxr-depth-sensing-1-20240531.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20240531'
-  :file: data/wd-openscreenprotocol-20240531.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240601'
-  :file: data/crd-webnn-20240601.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: CRD
     :date: '20240601'
@@ -27123,6 +27098,31 @@
     :type: NOTE
     :date: '20240601'
   :file: data/note-vc-specs-dir-20240601.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20240603'
+  :file: data/wd-openscreenprotocol-20240603.yaml
+- :id:
+    :code: change-password-url
+    :stage: WD
+    :date: '20240603'
+  :file: data/wd-change-password-url-20240603.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240604'
+  :file: data/wd-webgpu-20240604.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240604'
+  :file: data/crd-webnn-20240604.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240604'
+  :file: data/wd-compute-pressure-20240604.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27150,9 +27150,6 @@
 - :id:
     :code: mathml4
   :file: data/mathml4.yaml
-- :id:
-    :code: change-password-url
-  :file: data/change-password-url.yaml
 - :id:
     :code: css
     :date: '2022'
@@ -27304,9 +27301,6 @@
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :id:
@@ -27375,3 +27369,9 @@
 - :id:
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
+- :id:
+    :code: change-password-url
+  :file: data/change-password-url.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

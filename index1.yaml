@@ -25334,11 +25334,6 @@
     :date: '20220701'
   :file: data/dnote-mini-app-white-paper-20220701.yaml
 - :id:
-    :code: capture-handle-identity
-    :stage: WD
-    :date: '20220706'
-  :file: data/wd-capture-handle-identity-20220706.yaml
-- :id:
     :code: service-workers
     :stage: CRD
     :date: '20220712'
@@ -26694,11 +26689,6 @@
     :date: '20240428'
   :file: data/wd-wasm-core-2-20240428.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240428'
-  :file: data/crd-vc-data-integrity-20240428.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: CRD
     :date: '20240428'
@@ -27114,15 +27104,25 @@
     :date: '20240604'
   :file: data/wd-webgpu-20240604.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240604'
-  :file: data/crd-webnn-20240604.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20240604'
   :file: data/wd-compute-pressure-20240604.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20240605'
+  :file: data/crd-vc-data-integrity-20240605.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240605'
+  :file: data/crd-webnn-20240605.yaml
+- :id:
+    :code: capture-handle-identity
+    :stage: WD
+    :date: '20240605'
+  :file: data/wd-capture-handle-identity-20240605.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27289,9 +27289,6 @@
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
@@ -27375,3 +27372,6 @@
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml

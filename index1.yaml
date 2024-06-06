@@ -26374,11 +26374,6 @@
     :date: '20240206'
   :file: data/wd-css-fonts-5-20240206.yaml
 - :id:
-    :code: webxr-hand-input-1
-    :stage: WD
-    :date: '20240207'
-  :file: data/wd-webxr-hand-input-1-20240207.yaml
-- :id:
     :code: clreq-gap
     :type: DNOTE
     :date: '20240208'
@@ -26999,11 +26994,6 @@
     :date: '20240528'
   :file: data/wd-wcag-3.0-20240528.yaml
 - :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240528'
-  :file: data/wd-device-posture-20240528.yaml
-- :id:
     :code: css-text-4
     :stage: WD
     :date: '20240529'
@@ -27024,15 +27014,15 @@
     :date: '20240530'
   :file: data/note-epub-fxl-a11y-20240530.yaml
 - :id:
-    :code: adlm-lreq
-    :type: DNOTE
-    :date: '20240530'
-  :file: data/dnote-adlm-lreq-20240530.yaml
-- :id:
     :code: baggage
     :stage: CR
     :date: '20240530'
   :file: data/cr-baggage-20240530.yaml
+- :id:
+    :code: adlm-lreq
+    :type: DNOTE
+    :date: '20240530'
+  :file: data/dnote-adlm-lreq-20240530.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -27123,6 +27113,16 @@
     :stage: WD
     :date: '20240605'
   :file: data/wd-capture-handle-identity-20240605.yaml
+- :id:
+    :code: webxr-hand-input-1
+    :stage: WD
+    :date: '20240605'
+  :file: data/wd-webxr-hand-input-1-20240605.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240605'
+  :file: data/wd-device-posture-20240605.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

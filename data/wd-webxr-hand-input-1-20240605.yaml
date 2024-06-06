@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webxr-hand-input-1-20240207
+id: W3CWD-webxr-hand-input-1-20240605
 title:
 - content: WebXR Hand Input Module - Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240207/
+- content: https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240605/
   type: src
 - content: https://immersive-web.github.io/webxr-hand-input/
   type: current
 type: standard
 docid:
-- id: W3C WD-webxr-hand-input-1-20240207
+- id: W3C WD-webxr-hand-input-1-20240605
   type: W3C
   primary: true
-docnumber: WD-webxr-hand-input-1-20240207
+docnumber: WD-webxr-hand-input-1-20240605
 date:
 - type: published
-  value: '2024-02-07'
+  value: '2024-06-05'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-07'
+revdate: '2024-06-05'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webxr-hand-input-1-20220419
+    id: W3CWD-webxr-hand-input-1-20240207
     docid:
-    - id: W3C WD-webxr-hand-input-1-20220419
+    - id: W3C WD-webxr-hand-input-1-20240207
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webxr-hand-input-1-20220419
+      content: W3C WD-webxr-hand-input-1-20240207
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webxr-hand-input-1-20240207
+  number: WD-webxr-hand-input-1-20240605
 doctype: technicalReport
 editorialgroup:
 - name: Immersive Web Working Group

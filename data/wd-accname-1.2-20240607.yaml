@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-accname-1.2-20240429
+id: W3CWD-accname-1.2-20240607
 title:
 - content: Accessible Name and Description Computation 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-accname-1.2-20240429/
+- content: https://www.w3.org/TR/2024/WD-accname-1.2-20240607/
   type: src
 - content: https://w3c.github.io/accname/
   type: current
 type: standard
 docid:
-- id: W3C WD-accname-1.2-20240429
+- id: W3C WD-accname-1.2-20240607
   type: W3C
   primary: true
-docnumber: WD-accname-1.2-20240429
+docnumber: WD-accname-1.2-20240607
 date:
 - type: published
-  value: '2024-04-29'
+  value: '2024-06-07'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-29'
+revdate: '2024-06-07'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-accname-1.2-20240403
+    id: W3CWD-accname-1.2-20240429
     docid:
-    - id: W3C WD-accname-1.2-20240403
+    - id: W3C WD-accname-1.2-20240429
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-accname-1.2-20240403
+      content: W3C WD-accname-1.2-20240429
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-accname-1.2-20240429
+  number: WD-accname-1.2-20240607
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

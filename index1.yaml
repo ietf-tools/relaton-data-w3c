@@ -26904,11 +26904,6 @@
     :date: '20240520'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240520.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: CR
-    :date: '20240521'
-  :file: data/cr-vc-bitstring-status-list-20240521.yaml
-- :id:
     :code: rdf-canon
     :stage: REC
     :date: '20240521'
@@ -27119,10 +27114,15 @@
     :date: '20240608'
   :file: data/crd-webnn-20240608.yaml
 - :id:
-    :code: vc-data-model-2.0
+    :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20240608'
-  :file: data/crd-vc-data-model-2.0-20240608.yaml
+  :file: data/crd-vc-bitstring-status-list-20240608.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240609'
+  :file: data/crd-vc-data-model-2.0-20240609.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27337,9 +27337,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-bitstring-status-list
-  :file: data/vc-bitstring-status-list.yaml
-- :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
@@ -27372,6 +27369,9 @@
 - :id:
     :code: window-management
   :file: data/window-management.yaml
+- :id:
+    :code: vc-bitstring-status-list
+  :file: data/vc-bitstring-status-list.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml

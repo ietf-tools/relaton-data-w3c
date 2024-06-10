@@ -1,44 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20240605
+id: W3CCRD-vc-di-ecdsa-20240609
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240605/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240609/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20240605
+- id: W3C CRD-vc-di-ecdsa-20240609
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20240605
+docnumber: CRD-vc-di-ecdsa-20240609
 date:
 - type: published
-  value: '2024-06-05'
+  value: '2024-06-09'
 contributor:
-- person:
-    name:
-      completename:
-        content: Dave Longley
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Dmitri Zagidulin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -62,6 +42,16 @@ contributor:
 - person:
     name:
       completename:
+        content: Martin Reed
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
         content: Sebastian Crane
         language:
         - en
@@ -69,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-05'
+revdate: '2024-06-09'
 language:
 - en
 script:
@@ -80,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-integrity-20240428
+    id: W3CCRD-vc-di-ecdsa-20240428
     docid:
-    - id: W3C CRD-vc-data-integrity-20240428
+    - id: W3C CRD-vc-di-ecdsa-20240428
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-integrity-20240428
+      content: W3C CRD-vc-di-ecdsa-20240428
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20240605
+  number: CRD-vc-di-ecdsa-20240609
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

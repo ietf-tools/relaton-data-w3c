@@ -26834,11 +26834,6 @@
     :date: '20240521'
   :file: data/crd-vc-jose-cose-20240521.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20240523'
-  :file: data/wd-controller-document-20240523.yaml
-- :id:
     :code: battery-status
     :stage: WD
     :date: '20240523'
@@ -26923,11 +26918,6 @@
     :stage: WD
     :date: '20240531'
   :file: data/wd-webtransport-20240531.yaml
-- :id:
-    :code: trusted-types
-    :stage: WD
-    :date: '20240531'
-  :file: data/wd-trusted-types-20240531.yaml
 - :id:
     :code: webxr-depth-sensing-1
     :stage: WD
@@ -27114,15 +27104,30 @@
     :date: '20240610'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240610.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240610'
-  :file: data/wd-webgpu-20240610.yaml
-- :id:
     :code: did-spec-registries
     :type: NOTE
     :date: '20240611'
   :file: data/note-did-spec-registries-20240611.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20240611'
+  :file: data/wd-controller-document-20240611.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240611'
+  :file: data/wd-webgpu-20240611.yaml
+- :id:
+    :code: webxr-hit-test-1
+    :stage: WD
+    :date: '20240611'
+  :file: data/wd-webxr-hit-test-1-20240611.yaml
+- :id:
+    :code: trusted-types
+    :stage: WD
+    :date: '20240612'
+  :file: data/wd-trusted-types-20240612.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27334,17 +27339,11 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: controller-document
-  :file: data/controller-document.yaml
-- :id:
     :code: epub-fxl-a11y
   :file: data/epub-fxl-a11y.yaml
 - :id:
     :code: adlm-lreq
   :file: data/adlm-lreq.yaml
-- :id:
-    :code: trusted-types
-  :file: data/trusted-types.yaml
 - :id:
     :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
@@ -27375,3 +27374,9 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: controller-document
+  :file: data/controller-document.yaml
+- :id:
+    :code: trusted-types
+  :file: data/trusted-types.yaml

@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-trusted-types-20240612
+title:
+- content: Trusted Types
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-trusted-types-20240612/
+  type: src
+- content: https://w3c.github.io/trusted-types/dist/spec/
+  type: current
+type: standard
+docid:
+- id: W3C WD-trusted-types-20240612
+  type: W3C
+  primary: true
+docnumber: WD-trusted-types-20240612
+date:
+- type: published
+  value: '2024-06-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Krzysztof Kotowicz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-06-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-trusted-types-20240531
+    docid:
+    - id: W3C WD-trusted-types-20240531
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trusted-types-20240531
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-trusted-types-20240612
+doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
+ext:
+  schema-version: v1.0.0

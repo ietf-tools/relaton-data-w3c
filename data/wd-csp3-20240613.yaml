@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-credential-management-1-20240610
+id: W3CWD-CSP3-20240613
 title:
-- content: Credential Management Level 1
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-credential-management-1-20240610/
+- content: https://www.w3.org/TR/2024/WD-CSP3-20240613/
   type: src
-- content: https://w3c.github.io/webappsec-credential-management/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-credential-management-1-20240610
+- id: W3C WD-CSP3-20240613
   type: W3C
   primary: true
-docnumber: WD-credential-management-1-20240610
+docnumber: WD-CSP3-20240613
 date:
 - type: published
-  value: '2024-06-10'
+  value: '2024-06-13'
 contributor:
 - person:
     name:
       completename:
-        content: Nina Satragno
+        content: Antonio Sartori
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-10'
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-06-13'
 language:
 - en
 script:
@@ -40,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-credential-management-1-20240530
+    id: W3CWD-CSP3-20240424
     docid:
-    - id: W3C WD-credential-management-1-20240530
+    - id: W3C WD-CSP3-20240424
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-credential-management-1-20240530
+      content: W3C WD-CSP3-20240424
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-credential-management-1-20240610
+  number: WD-CSP3-20240613
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

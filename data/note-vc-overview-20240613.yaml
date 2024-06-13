@@ -1,33 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-html5-pubnotes-20080610
+id: W3CNOTE-vc-overview-20240613
 title:
-- content: HTML 5 Publication Notes
+- content: Verifiable Credentials Overview
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2008/NOTE-html5-pubnotes-20080610/
+- content: https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/
   type: src
+- content: https://w3c.github.io/vc-overview/
+  type: current
 type: standard
 docid:
-- id: W3C NOTE-html5-pubnotes-20080610
+- id: W3C NOTE-vc-overview-20240613
   type: W3C
   primary: true
-docnumber: NOTE-html5-pubnotes-20080610
+docnumber: NOTE-vc-overview-20240613
 date:
 - type: published
-  value: '2008-06-10'
+  value: '2024-06-13'
 contributor:
 - person:
     name:
       completename:
-        content: Michael[tm] Smith (sideshowbarker)
+        content: Ivan Herman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2008-06-10'
+revdate: '2024-06-13'
 language:
 - en
 script:
@@ -36,9 +38,9 @@ series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-html5-pubnotes-20080610
+  number: NOTE-vc-overview-20240613
 doctype: groupNote
 editorialgroup:
-- name: HTML Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

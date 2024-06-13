@@ -26309,11 +26309,6 @@
     :date: '20240115'
   :file: data/wd-largest-contentful-paint-20240115.yaml
 - :id:
-    :code: vocab-dcat-3
-    :stage: CR
-    :date: '20240118'
-  :file: data/cr-vocab-dcat-3-20240118.yaml
-- :id:
     :code: wai-aria-1.3
     :stage: WD
     :date: '20240123'
@@ -26644,11 +26639,6 @@
     :date: '20240422'
   :file: data/dnote-i18n-glossary-20240422.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20240424'
-  :file: data/wd-csp3-20240424.yaml
-- :id:
     :code: imsc-hrm
     :stage: REC
     :date: '20240425'
@@ -26959,11 +26949,6 @@
     :date: '20240606'
   :file: data/wd-wgsl-20240606.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20240606'
-  :file: data/wd-appmanifest-20240606.yaml
-- :id:
     :code: accelerometer
     :stage: CRD
     :date: '20240607'
@@ -26974,16 +26959,6 @@
     :date: '20240607'
   :file: data/wd-webdriver2-20240607.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240607'
-  :file: data/wd-compute-pressure-20240607.yaml
-- :id:
-    :code: uievents
-    :stage: WD
-    :date: '20240607'
-  :file: data/wd-uievents-20240607.yaml
-- :id:
     :code: window-management
     :stage: WD
     :date: '20240607'
@@ -26993,11 +26968,6 @@
     :stage: WD
     :date: '20240607'
   :file: data/wd-accname-1.2-20240607.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240608'
-  :file: data/crd-webnn-20240608.yaml
 - :id:
     :code: vc-data-model-2.0
     :stage: CRD
@@ -27023,11 +26993,6 @@
     :type: DNOTE
     :date: '20240610'
   :file: data/dnote-ethical-web-principles-20240610.yaml
-- :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240610'
-  :file: data/wd-credential-management-1-20240610.yaml
 - :id:
     :code: vc-bitstring-status-list
     :stage: CRD
@@ -27128,6 +27093,51 @@
     :stage: WD
     :date: '20240612'
   :file: data/wd-trusted-types-20240612.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20240612'
+  :file: data/wd-appmanifest-20240612.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240613'
+  :file: data/crd-webnn-20240613.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240613'
+  :file: data/wd-credential-management-1-20240613.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20240613'
+  :file: data/note-vc-overview-20240613.yaml
+- :id:
+    :code: vocab-dcat-3
+    :stage: PR
+    :date: '20240613'
+  :file: data/pr-vocab-dcat-3-20240613.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240613'
+  :file: data/rec-geolocation-20240613.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240613'
+  :file: data/wd-compute-pressure-20240613.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20240613'
+  :file: data/wd-csp3-20240613.yaml
+- :id:
+    :code: uievents
+    :stage: WD
+    :date: '20240613'
+  :file: data/wd-uievents-20240613.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27351,9 +27361,6 @@
     :code: change-password-url
   :file: data/change-password-url.yaml
 - :id:
-    :code: compute-pressure
-  :file: data/compute-pressure.yaml
-- :id:
     :code: window-management
   :file: data/window-management.yaml
 - :id:
@@ -27380,3 +27387,9 @@
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
+- :id:
+    :code: vc-overview
+  :file: data/vc-overview.yaml
+- :id:
+    :code: compute-pressure
+  :file: data/compute-pressure.yaml

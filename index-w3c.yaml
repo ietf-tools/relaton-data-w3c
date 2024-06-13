@@ -507,8 +507,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20240606'
-  :file: data/wd-appmanifest-20240606.yaml
+  :date: '20240612'
+  :file: data/wd-appmanifest-20240612.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -1398,8 +1398,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20240607'
-  :file: data/wd-compute-pressure-20240607.yaml
+  :date: '20240613'
+  :file: data/wd-compute-pressure-20240613.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -1554,8 +1554,8 @@
   :file: data/credential-management-1.yaml
 - :code: credential-management-1
   :stage: WD
-  :date: '20240610'
-  :file: data/wd-credential-management-1-20240610.yaml
+  :date: '20240613'
+  :file: data/wd-credential-management-1-20240613.yaml
 - :code: credential-management-1
   :stage: WD
   :date: '20190117'
@@ -1696,8 +1696,8 @@
   :file: data/csp3.yaml
 - :code: CSP3
   :stage: WD
-  :date: '20240424'
-  :file: data/wd-csp3-20240424.yaml
+  :date: '20240613'
+  :file: data/wd-csp3-20240613.yaml
 - :code: CSP3
   :stage: WD
   :date: '20210629'
@@ -6154,6 +6154,10 @@
   :file: data/wd-geofencing-20150604.yaml
 - :code: geolocation
   :file: data/geolocation.yaml
+- :code: geolocation
+  :stage: REC
+  :date: '20240613'
+  :file: data/rec-geolocation-20240613.yaml
 - :code: geolocation
   :stage: REC
   :date: '20220901'
@@ -14823,8 +14827,8 @@
   :file: data/uievents.yaml
 - :code: uievents
   :stage: WD
-  :date: '20240607'
-  :file: data/wd-uievents-20240607.yaml
+  :date: '20240613'
+  :file: data/wd-uievents-20240613.yaml
 - :code: uievents
   :stage: WD
   :date: '20211020'
@@ -15192,6 +15196,12 @@
   :stage: WD
   :date: '20230629'
   :file: data/wd-vc-jws-2020-20230629.yaml
+- :code: vc-overview
+  :file: data/vc-overview.yaml
+- :code: vc-overview
+  :type: NOTE
+  :date: '20240613'
+  :file: data/note-vc-overview-20240613.yaml
 - :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :code: vc-specs-dir
@@ -15422,9 +15432,9 @@
 - :code: vocab-dcat-3
   :file: data/vocab-dcat-3.yaml
 - :code: vocab-dcat-3
-  :stage: CR
-  :date: '20240118'
-  :file: data/cr-vocab-dcat-3-20240118.yaml
+  :stage: PR
+  :date: '20240613'
+  :file: data/pr-vocab-dcat-3-20240613.yaml
 - :code: vocab-dcat-3
   :stage: WD
   :date: '20220510'
@@ -16898,8 +16908,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240608'
-  :file: data/crd-webnn-20240608.yaml
+  :date: '20240613'
+  :file: data/crd-webnn-20240613.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

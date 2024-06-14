@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-trig-20240418
+id: W3CWD-compute-pressure-20240614
 title:
-- content: RDF 1.2 TriG
+- content: Compute Pressure Level 1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-rdf12-trig-20240418/
+- content: https://www.w3.org/TR/2024/WD-compute-pressure-20240614/
   type: src
-- content: https://w3c.github.io/rdf-trig/spec/
+- content: https://w3c.github.io/compute-pressure/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-trig-20240418
+- id: W3C WD-compute-pressure-20240614
   type: W3C
   primary: true
-docnumber: WD-rdf12-trig-20240418
+docnumber: WD-compute-pressure-20240614
 date:
 - type: published
-  value: '2024-04-18'
+  value: '2024-06-14'
 contributor:
 - person:
     name:
       completename:
-        content: Dominik Tomaszuk
+        content: Arnaud Mandy
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-18'
+revdate: '2024-06-14'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-trig-20231104
+    id: W3CWD-compute-pressure-20240613
     docid:
-    - id: W3C WD-rdf12-trig-20231104
+    - id: W3C WD-compute-pressure-20240613
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-trig-20231104
+      content: W3C WD-compute-pressure-20240613
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-trig-20240418
+  number: WD-compute-pressure-20240614
 doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

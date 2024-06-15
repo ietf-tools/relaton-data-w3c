@@ -6156,6 +6156,10 @@
   :file: data/geolocation.yaml
 - :code: geolocation
   :stage: REC
+  :date: '20240615'
+  :file: data/rec-geolocation-20240615.yaml
+- :code: geolocation
+  :stage: REC
   :date: '20240614'
   :file: data/rec-geolocation-20240614.yaml
 - :code: geolocation
@@ -15135,8 +15139,8 @@
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
   :stage: CRD
-  :date: '20240609'
-  :file: data/crd-vc-data-integrity-20240609.yaml
+  :date: '20240614'
+  :file: data/crd-vc-data-integrity-20240614.yaml
 - :code: vc-data-model
   :file: data/vc-data-model.yaml
 - :code: vc-data-model
@@ -15155,14 +15159,14 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240609'
-  :file: data/crd-vc-data-model-2.0-20240609.yaml
+  :date: '20240614'
+  :file: data/crd-vc-data-model-2.0-20240614.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
   :stage: CRD
-  :date: '20240428'
-  :file: data/crd-vc-di-bbs-20240428.yaml
+  :date: '20240614'
+  :file: data/crd-vc-di-bbs-20240614.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa

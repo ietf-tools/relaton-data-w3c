@@ -26644,11 +26644,6 @@
     :date: '20240428'
   :file: data/wd-wasm-core-2-20240428.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: CRD
-    :date: '20240428'
-  :file: data/crd-vc-di-bbs-20240428.yaml
-- :id:
     :code: epub-a11y-eaa-mapping
     :type: NOTE
     :date: '20240430'
@@ -26959,16 +26954,6 @@
     :date: '20240607'
   :file: data/wd-accname-1.2-20240607.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240609'
-  :file: data/crd-vc-data-model-2.0-20240609.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240609'
-  :file: data/crd-vc-data-integrity-20240609.yaml
-- :id:
     :code: vc-di-eddsa
     :stage: CRD
     :date: '20240609'
@@ -27024,15 +27009,15 @@
     :date: '20240613'
   :file: data/wd-credential-management-1-20240613.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20240613'
-  :file: data/note-vc-overview-20240613.yaml
-- :id:
     :code: vocab-dcat-3
     :stage: PR
     :date: '20240613'
   :file: data/pr-vocab-dcat-3-20240613.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20240613'
+  :file: data/note-vc-overview-20240613.yaml
 - :id:
     :code: geolocation
     :stage: REC
@@ -27143,6 +27128,26 @@
     :type: DNOTE
     :date: '20240614'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240614.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240614'
+  :file: data/crd-vc-data-model-2.0-20240614.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20240614'
+  :file: data/crd-vc-di-bbs-20240614.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20240614'
+  :file: data/crd-vc-data-integrity-20240614.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240615'
+  :file: data/rec-geolocation-20240615.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27297,9 +27302,6 @@
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
@@ -27363,12 +27365,6 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
@@ -27398,3 +27394,12 @@
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml

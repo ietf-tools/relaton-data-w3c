@@ -26769,30 +26769,25 @@
     :date: '20240515'
   :file: data/dnote-ilreq-taml-20240515.yaml
 - :id:
-    :code: pointerlock-2
+    :code: webrtc-svc
     :stage: WD
     :date: '20240516'
-  :file: data/wd-pointerlock-2-20240516.yaml
+  :file: data/wd-webrtc-svc-20240516.yaml
 - :id:
     :code: alreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-alreq-20240515.yaml
 - :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-webrtc-svc-20240516.yaml
+    :code: rdf-canon
+    :stage: REC
+    :date: '20240521'
+  :file: data/rec-rdf-canon-20240521.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-tlreq-20240515.yaml
-- :id:
-    :code: rdf-canon
-    :stage: REC
-    :date: '20240521'
-  :file: data/rec-rdf-canon-20240521.yaml
 - :id:
     :code: mlreq
     :type: DNOTE
@@ -27148,6 +27143,11 @@
     :stage: REC
     :date: '20240615'
   :file: data/rec-geolocation-20240615.yaml
+- :id:
+    :code: pointerlock-2
+    :stage: WD
+    :date: '20240617'
+  :file: data/wd-pointerlock-2-20240617.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml

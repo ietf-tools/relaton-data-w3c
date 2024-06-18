@@ -193,6 +193,12 @@
   :stage: WD
   :date: '20170912'
   :file: data/wd-act-rules-format-1.0-20170912.yaml
+- :code: act-rules-format-1.1
+  :file: data/act-rules-format-1.1.yaml
+- :code: act-rules-format-1.1
+  :stage: WD
+  :date: '20240618'
+  :file: data/wd-act-rules-format-1.1-20240618.yaml
 - :code: activitypub
   :file: data/activitypub.yaml
 - :code: activitypub
@@ -555,6 +561,12 @@
   :type: DNOTE
   :date: '20220407'
   :file: data/dnote-arab-ks-gap-20220407.yaml
+- :code: arab-ks-lreq
+  :file: data/arab-ks-lreq.yaml
+- :code: arab-ks-lreq
+  :type: DNOTE
+  :date: '20240618'
+  :file: data/dnote-arab-ks-lreq-20240618.yaml
 - :code: arab-ug-gap
   :file: data/arab-ug-gap.yaml
 - :code: arab-ug-gap
@@ -565,6 +577,18 @@
   :type: DNOTE
   :date: '20220407'
   :file: data/dnote-arab-ug-gap-20220407.yaml
+- :code: arab-ug-lreq
+  :file: data/arab-ug-lreq.yaml
+- :code: arab-ug-lreq
+  :type: DNOTE
+  :date: '20240618'
+  :file: data/dnote-arab-ug-lreq-20240618.yaml
+- :code: arab-ur-lreq
+  :file: data/arab-ur-lreq.yaml
+- :code: arab-ur-lreq
+  :type: DNOTE
+  :date: '20240618'
+  :file: data/dnote-arab-ur-lreq-20240618.yaml
 - :code: arabic-math
   :file: data/arabic-math.yaml
 - :code: arabic-math
@@ -1398,8 +1422,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20240614'
-  :file: data/wd-compute-pressure-20240614.yaml
+  :date: '20240617'
+  :file: data/wd-compute-pressure-20240617.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
@@ -1458,8 +1482,8 @@
   :file: data/controller-document.yaml
 - :code: controller-document
   :stage: WD
-  :date: '20240611'
-  :file: data/wd-controller-document-20240611.yaml
+  :date: '20240617'
+  :file: data/wd-controller-document-20240617.yaml
 - :code: cooluris
   :file: data/cooluris.yaml
 - :code: cooluris
@@ -6222,8 +6246,8 @@
   :file: data/geolocation-sensor.yaml
 - :code: geolocation-sensor
   :stage: WD
-  :date: '20240105'
-  :file: data/wd-geolocation-sensor-20240105.yaml
+  :date: '20240617'
+  :file: data/wd-geolocation-sensor-20240617.yaml
 - :code: geolocation-sensor
   :stage: WD
   :date: '20220316'
@@ -7006,8 +7030,8 @@
   :file: data/note-html-ruby-extensions-20140204.yaml
 - :code: html-ruby-extensions
   :stage: WD
-  :date: '20240529'
-  :file: data/wd-html-ruby-extensions-20240529.yaml
+  :date: '20240618'
+  :file: data/wd-html-ruby-extensions-20240618.yaml
 - :code: html-ruby-extensions
   :stage: WD
   :date: '20131022'
@@ -8511,8 +8535,8 @@
   :file: data/maturity-model.yaml
 - :code: maturity-model
   :type: DNOTE
-  :date: '20231215'
-  :file: data/dnote-maturity-model-20231215.yaml
+  :date: '20240618'
+  :file: data/dnote-maturity-model-20240618.yaml
 - :code: mbui-glossary
   :file: data/mbui-glossary.yaml
 - :code: mbui-glossary
@@ -14528,8 +14552,8 @@
   :file: data/trusted-types.yaml
 - :code: trusted-types
   :stage: WD
-  :date: '20240612'
-  :file: data/wd-trusted-types-20240612.yaml
+  :date: '20240618'
+  :file: data/wd-trusted-types-20240618.yaml
 - :code: tt-af-1-0-req
   :file: data/tt-af-1-0-req.yaml
 - :code: tt-af-1-0-req
@@ -15159,14 +15183,14 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240614'
-  :file: data/crd-vc-data-model-2.0-20240614.yaml
+  :date: '20240618'
+  :file: data/crd-vc-data-model-2.0-20240618.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
   :stage: CRD
-  :date: '20240614'
-  :file: data/crd-vc-di-bbs-20240614.yaml
+  :date: '20240617'
+  :file: data/crd-vc-di-bbs-20240617.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
@@ -16776,8 +16800,8 @@
   :file: data/webdriver2.yaml
 - :code: webdriver2
   :stage: WD
-  :date: '20240607'
-  :file: data/wd-webdriver2-20240607.yaml
+  :date: '20240618'
+  :file: data/wd-webdriver2-20240618.yaml
 - :code: webdriver2
   :stage: WD
   :date: '20220525'
@@ -16916,8 +16940,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240613'
-  :file: data/crd-webnn-20240613.yaml
+  :date: '20240618'
+  :file: data/crd-webnn-20240618.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

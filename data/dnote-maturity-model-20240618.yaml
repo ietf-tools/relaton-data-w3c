@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-maturity-model-20231215
+id: W3CDNOTE-maturity-model-20240618
 title:
 - content: Accessibility Maturity Model
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-maturity-model-20231215/
+- content: https://www.w3.org/TR/2024/DNOTE-maturity-model-20240618/
   type: src
 - content: https://w3c.github.io/maturity-model/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-maturity-model-20231215
+- id: W3C DNOTE-maturity-model-20240618
   type: W3C
   primary: true
-docnumber: DNOTE-maturity-model-20231215
+docnumber: DNOTE-maturity-model-20240618
 date:
 - type: published
-  value: '2023-12-15'
+  value: '2024-06-18'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-12-15'
+revdate: '2024-06-18'
 language:
 - en
 script:
@@ -57,19 +57,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-maturity-model-20230824
+    id: W3CDNOTE-maturity-model-20231215
     docid:
-    - id: W3C DNOTE-maturity-model-20230824
+    - id: W3C DNOTE-maturity-model-20231215
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-maturity-model-20230824
+      content: W3C DNOTE-maturity-model-20231215
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-maturity-model-20231215
+  number: DNOTE-maturity-model-20240618
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

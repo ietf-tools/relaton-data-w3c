@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Ctrusted-types
+id: W3Cact-rules-format-1.1
 title:
-- content: Trusted Types
+- content: Accessibility Conformance Testing (ACT) Rules Format 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/trusted-types/
+- content: https://www.w3.org/TR/act-rules-format-1.1/
   type: src
 type: standard
 docid:
-- id: W3C trusted-types
+- id: W3C act-rules-format-1.1
   type: W3C
   primary: true
-docnumber: trusted-types
+docnumber: act-rules-format-1.1
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-trusted-types-20240618
+    id: W3CWD-act-rules-format-1.1-20240618
     docid:
-    - id: W3C WD-trusted-types-20240618
+    - id: W3C WD-act-rules-format-1.1-20240618
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trusted-types-20240618
+      content: W3C WD-act-rules-format-1.1-20240618
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: trusted-types
+  number: act-rules-format-1.1
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

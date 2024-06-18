@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20240611
+id: W3CCRD-vc-di-bbs-20240617
 title:
-- content: Controller Documents 1.0
+- content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-controller-document-20240611/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240617/
   type: src
-- content: https://w3c.github.io/controller-document/
+- content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20240611
+- id: W3C CRD-vc-di-bbs-20240617
   type: W3C
   primary: true
-docnumber: WD-controller-document-20240611
+docnumber: CRD-vc-di-bbs-20240617
 date:
 - type: published
-  value: '2024-06-11'
+  value: '2024-06-17'
 contributor:
+- person:
+    name:
+      completename:
+        content: Greg Bernstein
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,40 +39,30 @@ contributor:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Michael Jones
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-06-11'
+revdate: '2024-06-17'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20240523
+    id: W3CCRD-vc-di-bbs-20240614
     docid:
-    - id: W3C WD-controller-document-20240523
+    - id: W3C CRD-vc-di-bbs-20240614
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20240523
+      content: W3C CRD-vc-di-bbs-20240614
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-controller-document-20240611
+  number: CRD-vc-di-bbs-20240617
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

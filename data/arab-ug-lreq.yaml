@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cmaturity-model
+id: W3Carab-ug-lreq
 title:
-- content: Accessibility Maturity Model
+- content: Uighur Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/maturity-model/
+- content: https://www.w3.org/TR/arab-ug-lreq/
   type: src
 type: standard
 docid:
-- id: W3C maturity-model
+- id: W3C arab-ug-lreq
   type: W3C
   primary: true
-docnumber: maturity-model
+docnumber: arab-ug-lreq
 language:
 - en
 script:
@@ -20,19 +20,19 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-maturity-model-20240618
+    id: W3CDNOTE-arab-ug-lreq-20240618
     docid:
-    - id: W3C DNOTE-maturity-model-20240618
+    - id: W3C DNOTE-arab-ug-lreq-20240618
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-maturity-model-20240618
+      content: W3C DNOTE-arab-ug-lreq-20240618
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: maturity-model
+  number: arab-ug-lreq
 doctype: groupNote
 ext:
   schema-version: v1.0.0

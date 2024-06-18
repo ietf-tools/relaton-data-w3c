@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20240614
+id: W3CWD-webdriver2-20240618
 title:
-- content: Compute Pressure Level 1
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-compute-pressure-20240614/
+- content: https://www.w3.org/TR/2024/WD-webdriver2-20240618/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20240614
+- id: W3C WD-webdriver2-20240618
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20240614
+docnumber: WD-webdriver2-20240618
 date:
 - type: published
-  value: '2024-06-14'
+  value: '2024-06-18'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: David Burns
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-14'
+revdate: '2024-06-18'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20240613
+    id: W3CWD-webdriver2-20240607
     docid:
-    - id: W3C WD-compute-pressure-20240613
+    - id: W3C WD-webdriver2-20240607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20240613
+      content: W3C WD-webdriver2-20240607
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-compute-pressure-20240614
+  number: WD-webdriver2-20240618
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-contact-picker-20240430
+id: W3CWD-CSP3-20240618
 title:
-- content: Contact Picker API
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-contact-picker-20240430/
+- content: https://www.w3.org/TR/2024/WD-CSP3-20240618/
   type: src
-- content: https://w3c.github.io/contact-picker/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-contact-picker-20240430
+- id: W3C WD-CSP3-20240618
   type: W3C
   primary: true
-docnumber: WD-contact-picker-20240430
+docnumber: WD-CSP3-20240618
 date:
 - type: published
-  value: '2024-04-30'
+  value: '2024-06-18'
 contributor:
 - person:
     name:
       completename:
-        content: Peter Beverloo
+        content: Antonio Sartori
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-30'
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-06-18'
 language:
 - en
 script:
@@ -40,22 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-contact-picker-20240227
+    id: W3CWD-CSP3-20240613
     docid:
-    - id: W3C WD-contact-picker-20240227
+    - id: W3C WD-CSP3-20240613
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-contact-picker-20240227
+      content: W3C WD-CSP3-20240613
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-contact-picker-20240430
+  number: WD-CSP3-20240618
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
-- name: Web Applications Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

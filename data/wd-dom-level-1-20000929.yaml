@@ -135,11 +135,37 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: updatedBy
+  bibitem:
+    id: W3CREC-DOM-Level-1-19981001-errata.html
+    docid:
+    - id: W3C REC-DOM-Level-1-19981001-errata.html
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-DOM-Level-1-19981001-errata.html
+      format: text/plain
+  description:
+    content: errata
+    format: text/plain
+- type: editionOf
+  bibitem:
+    id: W3CREC-DOM-Level-1-19981001
+    docid:
+    - id: W3C REC-DOM-Level-1-19981001
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-DOM-Level-1-19981001
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
   number: WD-DOM-Level-1-20000929
 doctype: technicalReport
+editorialgroup:
+- name: Web Hypertext Application Technology Working Group
 ext:
   schema-version: v1.0.0

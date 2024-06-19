@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20220211
-    docid:
-    - id: W3C DNOTE-i18n-glossary-20220211
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-i18n-glossary-20220211
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-i18n-glossary-20210730
     docid:
     - id: W3C WD-i18n-glossary-20210730
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-i18n-glossary-20210730
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-i18n-glossary-20220211
+    docid:
+    - id: W3C DNOTE-i18n-glossary-20220211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-i18n-glossary-20220211
       format: text/plain
 series:
 - title:

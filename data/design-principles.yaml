@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-design-principles-20201110
-    docid:
-    - id: W3C NOTE-design-principles-20201110
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-design-principles-20201110
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-design-principles-20211216
     docid:
     - id: W3C NOTE-design-principles-20211216
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-design-principles-20211216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-design-principles-20201110
+    docid:
+    - id: W3C NOTE-design-principles-20201110
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-design-principles-20201110
       format: text/plain
 series:
 - title:

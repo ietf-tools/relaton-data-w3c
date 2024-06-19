@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-tv-20020807
-    docid:
-    - id: W3C CR-css-tv-20020807
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-tv-20020807
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-tv-20030514
     docid:
     - id: W3C CR-css-tv-20030514
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-tv-20030514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-tv-20020807
+    docid:
+    - id: W3C CR-css-tv-20020807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-tv-20020807
       format: text/plain
 series:
 - title:

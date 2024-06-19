@@ -48,66 +48,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g6200100
-    docid:
-    - id: W3C _:g6200100
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200100
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6200120
-    docid:
-    - id: W3C _:g6200120
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200120
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6200140
-    docid:
-    - id: W3C _:g6200140
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200140
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6200160
-    docid:
-    - id: W3C _:g6200160
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200160
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6200200
-    docid:
-    - id: W3C _:g6200200
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200200
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6200240
-    docid:
-    - id: W3C _:g6200240
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6200240
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3CWD-css3-lists-20020220
     docid:
     - id: W3C WD-css3-lists-20020220
@@ -122,5 +62,7 @@ series:
     format: text/plain
   number: WD-css3-lists-20021107
 doctype: technicalReport
+editorialgroup:
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

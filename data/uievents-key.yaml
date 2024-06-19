@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-uievents-key-20151215
-    docid:
-    - id: W3C WD-uievents-key-20151215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-uievents-key-20151215
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-uievents-key-20161024
     docid:
     - id: W3C WD-uievents-key-20161024
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-uievents-key-20161024
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-uievents-key-20151215
+    docid:
+    - id: W3C WD-uievents-key-20151215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-uievents-key-20151215
       format: text/plain
 series:
 - title:

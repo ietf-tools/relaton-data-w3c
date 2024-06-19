@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-trusted-types-20240618
+id: W3CWD-permissions-policy-1-20240619
 title:
-- content: Trusted Types
+- content: Permissions Policy
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-trusted-types-20240618/
+- content: https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/
   type: src
-- content: https://w3c.github.io/trusted-types/dist/spec/
+- content: https://w3c.github.io/webappsec-permissions-policy/
   type: current
 type: standard
 docid:
-- id: W3C WD-trusted-types-20240618
+- id: W3C WD-permissions-policy-1-20240619
   type: W3C
   primary: true
-docnumber: WD-trusted-types-20240618
+docnumber: WD-permissions-policy-1-20240619
 date:
 - type: published
-  value: '2024-06-18'
+  value: '2024-06-19'
 contributor:
 - person:
     name:
       completename:
-        content: Krzysztof Kotowicz
+        content: Ian Clelland
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-18'
+revdate: '2024-06-19'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-trusted-types-20240612
+    id: W3CWD-permissions-policy-1-20231218
     docid:
-    - id: W3C WD-trusted-types-20240612
+    - id: W3C WD-permissions-policy-1-20231218
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trusted-types-20240612
+      content: W3C WD-permissions-policy-1-20231218
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-trusted-types-20240618
+  number: WD-permissions-policy-1-20240619
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-text
 title:
-- content: 'CSS3 module: text'
+- content: CSS Text Level 3
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-text
@@ -21,36 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20021024
-    docid:
-    - id: W3C WD-css3-text-20021024
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20021024
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20101005
-    docid:
-    - id: W3C WD-css3-text-20101005
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20101005
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20110901
-    docid:
-    - id: W3C WD-css3-text-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20110901
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-text-20070306
@@ -81,6 +51,16 @@ relation:
     formattedref:
       content: W3C WD-css3-text-20050627
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20110901
+    docid:
+    - id: W3C WD-css3-text-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20110901
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-css3-text-20121113
@@ -90,6 +70,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-text-20121113
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20101005
+    docid:
+    - id: W3C WD-css3-text-20101005
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20101005
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20021024
+    docid:
+    - id: W3C WD-css3-text-20021024
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20021024
       format: text/plain
 series:
 - title:

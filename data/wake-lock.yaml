@@ -19,8 +19,18 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wake-lock-20161220
+    docid:
+    - id: W3C WD-wake-lock-20161220
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wake-lock-20161220
+      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-wake-lock-20171214
@@ -41,19 +51,9 @@ relation:
     formattedref:
       content: W3C WD-wake-lock-20150904
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-wake-lock-20161220
-    docid:
-    - id: W3C WD-wake-lock-20161220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wake-lock-20161220
-      format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: wake-lock
 doctype: technicalReport

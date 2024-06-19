@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webxr-depth-sensing-1-20220419
-    docid:
-    - id: W3C WD-webxr-depth-sensing-1-20220419
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webxr-depth-sensing-1-20220419
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-webxr-depth-sensing-1-20210831
     docid:
     - id: W3C WD-webxr-depth-sensing-1-20210831
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webxr-depth-sensing-1-20210831
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webxr-depth-sensing-1-20220419
+    docid:
+    - id: W3C WD-webxr-depth-sensing-1-20220419
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-depth-sensing-1-20220419
       format: text/plain
 series:
 - title:

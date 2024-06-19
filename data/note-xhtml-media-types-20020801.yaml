@@ -35,66 +35,6 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g6188520
-    docid:
-    - id: W3C _:g6188520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188520
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6188540
-    docid:
-    - id: W3C _:g6188540
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188540
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6188560
-    docid:
-    - id: W3C _:g6188560
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188560
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6188580
-    docid:
-    - id: W3C _:g6188580
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188580
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6188600
-    docid:
-    - id: W3C _:g6188600
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188600
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6188640
-    docid:
-    - id: W3C _:g6188640
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6188640
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3CNOTE-xhtml-media-types-20020430
     docid:
     - id: W3C NOTE-xhtml-media-types-20020430
@@ -109,5 +49,7 @@ series:
     format: text/plain
   number: NOTE-xhtml-media-types-20020801
 doctype: groupNote
+editorialgroup:
+- name: XHTML2 Working Group
 ext:
   schema-version: v1.0.0

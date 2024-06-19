@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-mobile-20020725
-    docid:
-    - id: W3C CR-css-mobile-20020725
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-mobile-20020725
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-mobile-20081210
     docid:
     - id: W3C CR-css-mobile-20081210
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-mobile-20081210
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-mobile-20020725
+    docid:
+    - id: W3C CR-css-mobile-20020725
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-mobile-20020725
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -26134,11 +26134,6 @@
     :date: '20231101'
   :file: data/dnote-clreq-20231101.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20231102'
-  :file: data/crd-core-aam-1.2-20231102.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20231103'
@@ -26273,11 +26268,6 @@
     :type: DNOTE
     :date: '20240108'
   :file: data/dnote-webmachinelearning-ethics-20240108.yaml
-- :id:
-    :code: input-events-2
-    :stage: WD
-    :date: '20240109'
-  :file: data/wd-input-events-2-20240109.yaml
 - :id:
     :code: orientation-sensor
     :stage: WD
@@ -26779,11 +26769,6 @@
     :date: '20240521'
   :file: data/rec-mediaqueries-3-20240521.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240521'
-  :file: data/crd-vc-jose-cose-20240521.yaml
-- :id:
     :code: battery-status
     :stage: WD
     :date: '20240523'
@@ -27094,11 +27079,6 @@
     :date: '20240617'
   :file: data/wd-compute-pressure-20240617.yaml
 - :id:
-    :code: html-ruby-extensions
-    :stage: WD
-    :date: '20240618'
-  :file: data/wd-html-ruby-extensions-20240618.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240618'
@@ -27168,6 +27148,31 @@
     :stage: WD
     :date: '20240619'
   :file: data/wd-permissions-policy-1-20240619.yaml
+- :id:
+    :code: input-events-2
+    :stage: WD
+    :date: '20240619'
+  :file: data/wd-input-events-2-20240619.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240619'
+  :file: data/rec-geolocation-20240619.yaml
+- :id:
+    :code: html-ruby-extensions
+    :stage: WD
+    :date: '20240619'
+  :file: data/wd-html-ruby-extensions-20240619.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240620'
+  :file: data/crd-vc-jose-cose-20240620.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20240620'
+  :file: data/crd-core-aam-1.2-20240620.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27361,9 +27366,6 @@
     :code: rdf-canon
   :file: data/rdf-canon.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: epub-fxl-a11y
   :file: data/epub-fxl-a11y.yaml
 - :id:
@@ -27435,3 +27437,6 @@
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

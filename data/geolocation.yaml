@@ -51,7 +51,7 @@ relation:
     formattedref:
       content: W3C REC-geolocation-20240614
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-geolocation-20240615
     docid:
@@ -60,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-geolocation-20240615
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-geolocation-20240619
+    docid:
+    - id: W3C REC-geolocation-20240619
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-geolocation-20240619
       format: text/plain
 - type: hasEdition
   bibitem:

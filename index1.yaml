@@ -26829,11 +26829,6 @@
     :date: '20240530'
   :file: data/cr-baggage-20240530.yaml
 - :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20240530'
-  :file: data/crd-mediacapture-streams-20240530.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240531'
@@ -27044,11 +27039,6 @@
     :date: '20240614'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240614.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240614'
-  :file: data/crd-vc-data-integrity-20240614.yaml
-- :id:
     :code: geolocation
     :stage: REC
     :date: '20240615'
@@ -27084,15 +27074,15 @@
     :date: '20240618'
   :file: data/crd-webnn-20240618.yaml
 - :id:
-    :code: arab-ug-lreq
-    :type: DNOTE
-    :date: '20240618'
-  :file: data/dnote-arab-ug-lreq-20240618.yaml
-- :id:
     :code: arab-ks-lreq
     :type: DNOTE
     :date: '20240618'
   :file: data/dnote-arab-ks-lreq-20240618.yaml
+- :id:
+    :code: arab-ug-lreq
+    :type: DNOTE
+    :date: '20240618'
+  :file: data/dnote-arab-ug-lreq-20240618.yaml
 - :id:
     :code: arab-ur-lreq
     :type: DNOTE
@@ -27134,11 +27124,6 @@
     :date: '20240618'
   :file: data/wd-wgsl-20240618.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240618'
-  :file: data/wd-webgpu-20240618.yaml
-- :id:
     :code: trusted-types
     :stage: WD
     :date: '20240619'
@@ -27169,10 +27154,25 @@
     :date: '20240620'
   :file: data/crd-vc-jose-cose-20240620.yaml
 - :id:
-    :code: core-aam-1.2
+    :code: mediacapture-streams
     :stage: CRD
     :date: '20240620'
-  :file: data/crd-core-aam-1.2-20240620.yaml
+  :file: data/crd-mediacapture-streams-20240620.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20240620'
+  :file: data/crd-vc-data-integrity-20240620.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240621'
+  :file: data/wd-webgpu-20240621.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20240621'
+  :file: data/crd-core-aam-1.2-20240621.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27402,9 +27402,6 @@
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
@@ -27414,11 +27411,11 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: arab-ug-lreq
-  :file: data/arab-ug-lreq.yaml
-- :id:
     :code: arab-ks-lreq
   :file: data/arab-ks-lreq.yaml
+- :id:
+    :code: arab-ug-lreq
+  :file: data/arab-ug-lreq.yaml
 - :id:
     :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
@@ -27440,3 +27437,6 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml

@@ -26374,16 +26374,6 @@
     :date: '20240222'
   :file: data/crd-generic-sensor-20240222.yaml
 - :id:
-    :code: dpub-aria-1.1
-    :stage: CR
-    :date: '20240227'
-  :file: data/cr-dpub-aria-1.1-20240227.yaml
-- :id:
-    :code: dpub-aam-1.1
-    :stage: CR
-    :date: '20240227'
-  :file: data/cr-dpub-aam-1.1-20240227.yaml
-- :id:
     :code: css-color-5
     :stage: WD
     :date: '20240229'
@@ -26543,11 +26533,6 @@
     :stage: CRD
     :date: '20240416'
   :file: data/crd-webxr-20240416.yaml
-- :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-html-aam-1.0-20240418.yaml
 - :id:
     :code: string-meta
     :type: DNOTE
@@ -26889,21 +26874,6 @@
     :date: '20240607'
   :file: data/wd-window-management-20240607.yaml
 - :id:
-    :code: accname-1.2
-    :stage: WD
-    :date: '20240607'
-  :file: data/wd-accname-1.2-20240607.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240609'
-  :file: data/crd-vc-di-eddsa-20240609.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240609'
-  :file: data/crd-vc-di-ecdsa-20240609.yaml
-- :id:
     :code: ethical-web-principles
     :type: DNOTE
     :date: '20240610'
@@ -26934,25 +26904,20 @@
     :date: '20240613'
   :file: data/wd-credential-management-1-20240613.yaml
 - :id:
-    :code: vocab-dcat-3
-    :stage: PR
-    :date: '20240613'
-  :file: data/pr-vocab-dcat-3-20240613.yaml
-- :id:
     :code: vc-overview
     :type: NOTE
     :date: '20240613'
   :file: data/note-vc-overview-20240613.yaml
 - :id:
+    :code: vocab-dcat-3
+    :stage: PR
+    :date: '20240613'
+  :file: data/pr-vocab-dcat-3-20240613.yaml
+- :id:
     :code: geolocation
     :stage: REC
     :date: '20240613'
   :file: data/rec-geolocation-20240613.yaml
-- :id:
-    :code: uievents
-    :stage: WD
-    :date: '20240613'
-  :file: data/wd-uievents-20240613.yaml
 - :id:
     :code: rdf12-turtle
     :stage: WD
@@ -27174,6 +27139,41 @@
     :date: '20240621'
   :file: data/crd-core-aam-1.2-20240621.yaml
 - :id:
+    :code: accname-1.2
+    :stage: WD
+    :date: '20240621'
+  :file: data/wd-accname-1.2-20240621.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240621'
+  :file: data/crd-vc-di-ecdsa-20240621.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20240621'
+  :file: data/crd-vc-di-eddsa-20240621.yaml
+- :id:
+    :code: dpub-aam-1.1
+    :stage: CRD
+    :date: '20240621'
+  :file: data/crd-dpub-aam-1.1-20240621.yaml
+- :id:
+    :code: dpub-aria-1.1
+    :stage: CRD
+    :date: '20240621'
+  :file: data/crd-dpub-aria-1.1-20240621.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20240621'
+  :file: data/wd-html-aam-1.0-20240621.yaml
+- :id:
+    :code: uievents
+    :stage: WD
+    :date: '20240622'
+  :file: data/wd-uievents-20240622.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27381,12 +27381,6 @@
     :code: window-management
   :file: data/window-management.yaml
 - :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :id:
@@ -27440,3 +27434,9 @@
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml

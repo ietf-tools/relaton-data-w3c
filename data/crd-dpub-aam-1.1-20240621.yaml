@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-uievents-20240613
+id: W3CCRD-dpub-aam-1.1-20240621
 title:
-- content: UI Events
+- content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-uievents-20240613/
+- content: https://www.w3.org/TR/2024/CRD-dpub-aam-1.1-20240621/
   type: src
-- content: https://w3c.github.io/uievents/
+- content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-uievents-20240613
+- id: W3C CRD-dpub-aam-1.1-20240621
   type: W3C
   primary: true
-docnumber: WD-uievents-20240613
+docnumber: CRD-dpub-aam-1.1-20240621
 date:
 - type: published
-  value: '2024-06-13'
+  value: '2024-06-21'
 contributor:
 - person:
     name:
       completename:
-        content: Gary Kacmarcik
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Travis Leithead
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-13'
+revdate: '2024-06-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-uievents-20240607
+    id: W3CCR-dpub-aam-1.1-20240227
     docid:
-    - id: W3C WD-uievents-20240607
+    - id: W3C CR-dpub-aam-1.1-20240227
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20240607
+      content: W3C CR-dpub-aam-1.1-20240227
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-uievents-20240613
+  number: CRD-dpub-aam-1.1-20240621
 doctype: technicalReport
 editorialgroup:
-- name: Web Applications Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

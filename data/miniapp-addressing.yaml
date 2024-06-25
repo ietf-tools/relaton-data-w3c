@@ -17,19 +17,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-miniapp-addressing-20240131
+    id: W3CDNOTE-miniapp-addressing-20240625
     docid:
-    - id: W3C WD-miniapp-addressing-20240131
+    - id: W3C DNOTE-miniapp-addressing-20240625
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-miniapp-addressing-20240131
+      content: W3C DNOTE-miniapp-addressing-20240625
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -43,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: miniapp-addressing
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

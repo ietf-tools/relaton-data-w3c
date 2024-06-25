@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-miniapp-addressing-20240131
+id: W3CDNOTE-miniapp-addressing-20240625
 title:
 - content: MiniApp Addressing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-miniapp-addressing-20240131/
+- content: https://www.w3.org/TR/2024/DNOTE-miniapp-addressing-20240625/
   type: src
 - content: https://w3c.github.io/miniapp-addressing/
   type: current
 type: standard
 docid:
-- id: W3C WD-miniapp-addressing-20240131
+- id: W3C DNOTE-miniapp-addressing-20240625
   type: W3C
   primary: true
-docnumber: WD-miniapp-addressing-20240131
+docnumber: DNOTE-miniapp-addressing-20240625
 date:
 - type: published
-  value: '2024-01-31'
+  value: '2024-06-25'
 contributor:
 - person:
     name:
@@ -59,31 +59,28 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-01-31'
+revdate: '2024-06-25'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-miniapp-addressing-20220627
+    id: W3CWD-miniapp-addressing-20240131
     docid:
-    - id: W3C DNOTE-miniapp-addressing-20220627
+    - id: W3C WD-miniapp-addressing-20240131
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-miniapp-addressing-20220627
+      content: W3C WD-miniapp-addressing-20240131
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-miniapp-addressing-20240131
-doctype: technicalReport
+  number: DNOTE-miniapp-addressing-20240625
+doctype: groupNote
 editorialgroup:
 - name: MiniApps Working Group
 ext:

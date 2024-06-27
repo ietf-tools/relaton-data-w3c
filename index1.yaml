@@ -26484,11 +26484,6 @@
     :date: '20240401'
   :file: data/wd-media-source-2-20240401.yaml
 - :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20240402'
-  :file: data/wd-wasm-js-api-2-20240402.yaml
-- :id:
     :code: w3c-vision
     :type: NOTE
     :date: '20240403'
@@ -26588,16 +26583,6 @@
     :stage: REC
     :date: '20240425'
   :file: data/rec-imsc-hrm-20240425.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240428'
-  :file: data/wd-wasm-web-api-2-20240428.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20240428'
-  :file: data/wd-wasm-core-2-20240428.yaml
 - :id:
     :code: epub-a11y-eaa-mapping
     :type: NOTE
@@ -27014,11 +26999,6 @@
     :date: '20240617'
   :file: data/wd-controller-document-20240617.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: CRD
-    :date: '20240617'
-  :file: data/crd-vc-di-bbs-20240617.yaml
-- :id:
     :code: geolocation-sensor
     :stage: WD
     :date: '20240617'
@@ -27029,15 +27009,15 @@
     :date: '20240617'
   :file: data/wd-compute-pressure-20240617.yaml
 - :id:
-    :code: arab-ug-lreq
-    :type: DNOTE
-    :date: '20240618'
-  :file: data/dnote-arab-ug-lreq-20240618.yaml
-- :id:
     :code: arab-ks-lreq
     :type: DNOTE
     :date: '20240618'
   :file: data/dnote-arab-ks-lreq-20240618.yaml
+- :id:
+    :code: arab-ug-lreq
+    :type: DNOTE
+    :date: '20240618'
+  :file: data/dnote-arab-ug-lreq-20240618.yaml
 - :id:
     :code: arab-ur-lreq
     :type: DNOTE
@@ -27059,11 +27039,6 @@
     :date: '20240618'
   :file: data/wd-webdriver2-20240618.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240618'
-  :file: data/crd-vc-data-model-2.0-20240618.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20240618'
@@ -27084,11 +27059,6 @@
     :date: '20240619'
   :file: data/rec-geolocation-20240619.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240620'
-  :file: data/crd-vc-jose-cose-20240620.yaml
-- :id:
     :code: mediacapture-streams
     :stage: CRD
     :date: '20240620'
@@ -27098,11 +27068,6 @@
     :stage: CRD
     :date: '20240620'
   :file: data/crd-vc-data-integrity-20240620.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240621'
-  :file: data/wd-webgpu-20240621.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
@@ -27134,20 +27099,10 @@
     :date: '20240621'
   :file: data/crd-dpub-aria-1.1-20240621.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20240621'
-  :file: data/wd-html-aam-1.0-20240621.yaml
-- :id:
     :code: uievents
     :stage: WD
     :date: '20240622'
   :file: data/wd-uievents-20240622.yaml
-- :id:
-    :code: html-ruby-extensions
-    :stage: WD
-    :date: '20240624'
-  :file: data/wd-html-ruby-extensions-20240624.yaml
 - :id:
     :code: input-events-2
     :stage: WD
@@ -27164,20 +27119,65 @@
     :date: '20240625'
   :file: data/dnote-miniapp-addressing-20240625.yaml
 - :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240626'
+  :file: data/crd-vc-jose-cose-20240626.yaml
+- :id:
     :code: WGSL
     :stage: WD
-    :date: '20240625'
-  :file: data/wd-wgsl-20240625.yaml
+    :date: '20240626'
+  :file: data/wd-wgsl-20240626.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240626'
+  :file: data/wd-webgpu-20240626.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20240626'
+  :file: data/wd-wasm-js-api-2-20240626.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240626'
+  :file: data/wd-wasm-web-api-2-20240626.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240626'
+  :file: data/wd-wasm-core-2-20240626.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20240626'
+  :file: data/crd-vc-di-bbs-20240626.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20240626'
+  :file: data/wd-html-aam-1.0-20240626.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240626'
+  :file: data/crd-vc-data-model-2.0-20240626.yaml
+- :id:
+    :code: html-ruby-extensions
+    :stage: WD
+    :date: '20240627'
+  :file: data/wd-html-ruby-extensions-20240627.yaml
 - :id:
     :code: webnn
     :stage: CRD
-    :date: '20240626'
-  :file: data/crd-webnn-20240626.yaml
+    :date: '20240627'
+  :file: data/crd-webnn-20240627.yaml
 - :id:
     :code: permissions-policy-1
     :stage: WD
-    :date: '20240626'
-  :file: data/wd-permissions-policy-1-20240626.yaml
+    :date: '20240627'
+  :file: data/wd-permissions-policy-1-20240627.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27404,17 +27404,14 @@
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: arab-ug-lreq
-  :file: data/arab-ug-lreq.yaml
-- :id:
     :code: arab-ks-lreq
   :file: data/arab-ks-lreq.yaml
+- :id:
+    :code: arab-ug-lreq
+  :file: data/arab-ug-lreq.yaml
 - :id:
     :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
@@ -27425,17 +27422,11 @@
     :code: maturity-model
   :file: data/maturity-model.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: contact-picker
   :file: data/contact-picker.yaml
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
-- :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
 - :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
@@ -27445,3 +27436,12 @@
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-web-api-2-20240428
+id: W3CWD-permissions-policy-1-20240627
 title:
-- content: WebAssembly Web API
+- content: Permissions Policy
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240428/
+- content: https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/
   type: src
-- content: https://webassembly.github.io/spec/web-api/
+- content: https://w3c.github.io/webappsec-permissions-policy/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-web-api-2-20240428
+- id: W3C WD-permissions-policy-1-20240627
   type: W3C
   primary: true
-docnumber: WD-wasm-web-api-2-20240428
+docnumber: WD-permissions-policy-1-20240627
 date:
 - type: published
-  value: '2024-04-28'
+  value: '2024-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Ian Clelland
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-28'
+revdate: '2024-06-27'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-web-api-2-20240412
+    id: W3CWD-permissions-policy-1-20240626
     docid:
-    - id: W3C WD-wasm-web-api-2-20240412
+    - id: W3C WD-permissions-policy-1-20240626
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-web-api-2-20240412
+      content: W3C WD-permissions-policy-1-20240626
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-web-api-2-20240428
+  number: WD-permissions-policy-1-20240627
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

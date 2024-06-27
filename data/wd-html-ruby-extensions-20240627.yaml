@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20240428
+id: W3CWD-html-ruby-extensions-20240627
 title:
-- content: WebAssembly Core Specification
+- content: HTML Ruby Markup Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240428/
+- content: https://www.w3.org/TR/2024/WD-html-ruby-extensions-20240627/
   type: src
-- content: https://webassembly.github.io/spec/core/bikeshed/
+- content: https://w3c.github.io/html-ruby/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20240428
+- id: W3C WD-html-ruby-extensions-20240627
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20240428
+docnumber: WD-html-ruby-extensions-20240627
 date:
 - type: published
-  value: '2024-04-28'
+  value: '2024-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: Andreas Rossberg
+        content: Florian Rivoal
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-28'
+revdate: '2024-06-27'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20240412
+    id: W3CWD-html-ruby-extensions-20240624
     docid:
-    - id: W3C WD-wasm-core-2-20240412
+    - id: W3C WD-html-ruby-extensions-20240624
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20240412
+      content: W3C WD-html-ruby-extensions-20240624
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20240428
+  number: WD-html-ruby-extensions-20240627
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: HTML Working Group
 ext:
   schema-version: v1.0.0

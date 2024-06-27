@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-html-ruby-extensions-20240624
+id: W3CWD-wasm-web-api-2-20240626
 title:
-- content: HTML Ruby Markup Extensions
+- content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-html-ruby-extensions-20240624/
+- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240626/
   type: src
-- content: https://w3c.github.io/html-ruby/
+- content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-ruby-extensions-20240624
+- id: W3C WD-wasm-web-api-2-20240626
   type: W3C
   primary: true
-docnumber: WD-html-ruby-extensions-20240624
+docnumber: WD-wasm-web-api-2-20240626
 date:
 - type: published
-  value: '2024-06-24'
+  value: '2024-06-26'
 contributor:
 - person:
     name:
       completename:
-        content: Florian Rivoal
+        content: ". Ms2ger"
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-24'
+revdate: '2024-06-26'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-ruby-extensions-20240619
+    id: W3CWD-wasm-web-api-2-20240428
     docid:
-    - id: W3C WD-html-ruby-extensions-20240619
+    - id: W3C WD-wasm-web-api-2-20240428
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-ruby-extensions-20240619
+      content: W3C WD-wasm-web-api-2-20240428
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-ruby-extensions-20240624
+  number: WD-wasm-web-api-2-20240626
 doctype: technicalReport
 editorialgroup:
-- name: HTML Working Group
+- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

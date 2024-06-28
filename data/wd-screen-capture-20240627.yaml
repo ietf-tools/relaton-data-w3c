@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webtransport-20240531
+id: W3CWD-screen-capture-20240627
 title:
-- content: WebTransport
+- content: Screen Capture
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webtransport-20240531/
+- content: https://www.w3.org/TR/2024/WD-screen-capture-20240627/
   type: src
-- content: https://w3c.github.io/webtransport/
+- content: https://w3c.github.io/mediacapture-screen-share/
   type: current
 type: standard
 docid:
-- id: W3C WD-webtransport-20240531
+- id: W3C WD-screen-capture-20240627
   type: W3C
   primary: true
-docnumber: WD-webtransport-20240531
+docnumber: WD-screen-capture-20240627
 date:
 - type: published
-  value: '2024-05-31'
+  value: '2024-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Elad Alon
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Nidhi Jaju
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Victor Vasiliev
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-05-31'
+revdate: '2024-06-27'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webtransport-20231220
+    id: W3CWD-screen-capture-20240208
     docid:
-    - id: W3C WD-webtransport-20231220
+    - id: W3C WD-screen-capture-20240208
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20231220
+      content: W3C WD-screen-capture-20240208
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webtransport-20240531
+  number: WD-screen-capture-20240627
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

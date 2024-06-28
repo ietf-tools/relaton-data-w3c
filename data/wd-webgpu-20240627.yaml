@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver2-20240618
+id: W3CWD-webgpu-20240627
 title:
-- content: WebDriver
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver2-20240618/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240627/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20240618
+- id: W3C WD-webgpu-20240627
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20240618
+docnumber: WD-webgpu-20240627
 date:
 - type: published
-  value: '2024-06-18'
+  value: '2024-06-27'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Jim Blandy
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-18'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-06-27'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20240607
+    id: W3CWD-webgpu-20240626
     docid:
-    - id: W3C WD-webdriver2-20240607
+    - id: W3C WD-webgpu-20240626
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20240607
+      content: W3C WD-webgpu-20240626
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver2-20240618
+  number: WD-webgpu-20240627
 doctype: technicalReport
 editorialgroup:
-- name: Browser Testing and Tools Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

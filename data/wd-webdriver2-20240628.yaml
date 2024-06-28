@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-screen-capture-20240208
+id: W3CWD-webdriver2-20240628
 title:
-- content: Screen Capture
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-screen-capture-20240208/
+- content: https://www.w3.org/TR/2024/WD-webdriver2-20240628/
   type: src
-- content: https://w3c.github.io/mediacapture-screen-share/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-screen-capture-20240208
+- id: W3C WD-webdriver2-20240628
   type: W3C
   primary: true
-docnumber: WD-screen-capture-20240208
+docnumber: WD-webdriver2-20240628
 date:
 - type: published
-  value: '2024-02-08'
+  value: '2024-06-28'
 contributor:
 - person:
     name:
       completename:
-        content: Elad Alon
+        content: David Burns
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Jan-Ivar Bruaroey
+        content: Simon Stewart
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-02-08'
+revdate: '2024-06-28'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-screen-capture-20231214
+    id: W3CWD-webdriver2-20240618
     docid:
-    - id: W3C WD-screen-capture-20231214
+    - id: W3C WD-webdriver2-20240618
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-capture-20231214
+      content: W3C WD-webdriver2-20240618
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-screen-capture-20240208
+  number: WD-webdriver2-20240628
 doctype: technicalReport
 editorialgroup:
-- name: Web Real-Time Communications Working Group
+- name: Browser Testing and Tools Working Group
 ext:
   schema-version: v1.0.0

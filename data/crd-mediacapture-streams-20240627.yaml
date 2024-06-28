@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-mediacapture-streams-20240620
+id: W3CCRD-mediacapture-streams-20240627
 title:
 - content: Media Capture and Streams
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-mediacapture-streams-20240620/
+- content: https://www.w3.org/TR/2024/CRD-mediacapture-streams-20240627/
   type: src
 - content: https://w3c.github.io/mediacapture-main/
   type: current
 type: standard
 docid:
-- id: W3C CRD-mediacapture-streams-20240620
+- id: W3C CRD-mediacapture-streams-20240627
   type: W3C
   primary: true
-docnumber: CRD-mediacapture-streams-20240620
+docnumber: CRD-mediacapture-streams-20240627
 date:
 - type: published
-  value: '2024-06-20'
+  value: '2024-06-27'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-20'
+revdate: '2024-06-27'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-mediacapture-streams-20240530
+    id: W3CCRD-mediacapture-streams-20240620
     docid:
-    - id: W3C CRD-mediacapture-streams-20240530
+    - id: W3C CRD-mediacapture-streams-20240620
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-mediacapture-streams-20240530
+      content: W3C CRD-mediacapture-streams-20240620
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-mediacapture-streams-20240620
+  number: CRD-mediacapture-streams-20240627
 doctype: technicalReport
 editorialgroup:
 - name: Web Real-Time Communications Working Group

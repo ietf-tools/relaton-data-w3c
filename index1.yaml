@@ -26339,11 +26339,6 @@
     :date: '20240208'
   :file: data/dnote-clreq-gap-20240208.yaml
 - :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20240208'
-  :file: data/wd-screen-capture-20240208.yaml
-- :id:
     :code: media-capabilities
     :stage: WD
     :date: '20240212'
@@ -26544,11 +26539,6 @@
     :date: '20240418'
   :file: data/wd-rdf12-schema-20240418.yaml
 - :id:
-    :code: rdf12-semantics
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-rdf12-semantics-20240418.yaml
-- :id:
     :code: rdf12-xml
     :stage: WD
     :date: '20240418'
@@ -26639,11 +26629,6 @@
     :date: '20240502'
   :file: data/wd-sparql12-protocol-20240502.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20240502'
-  :file: data/wd-rdf12-concepts-20240502.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20240507'
@@ -26684,40 +26669,40 @@
     :date: '20240515'
   :file: data/dnote-khmr-lreq-20240515.yaml
 - :id:
-    :code: css-view-transitions-2
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-css-view-transitions-2-20240516.yaml
-- :id:
     :code: laoo-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-laoo-lreq-20240515.yaml
+- :id:
+    :code: css-view-transitions-2
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-css-view-transitions-2-20240516.yaml
 - :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-thai-lreq-20240515.yaml
 - :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240516'
-  :file: data/wd-webrtc-svc-20240516.yaml
-- :id:
     :code: ilreq-taml
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-ilreq-taml-20240515.yaml
 - :id:
-    :code: rdf-canon
-    :stage: REC
-    :date: '20240521'
-  :file: data/rec-rdf-canon-20240521.yaml
+    :code: webrtc-svc
+    :stage: WD
+    :date: '20240516'
+  :file: data/wd-webrtc-svc-20240516.yaml
 - :id:
     :code: alreq
     :type: DNOTE
     :date: '20240515'
   :file: data/dnote-alreq-20240515.yaml
+- :id:
+    :code: rdf-canon
+    :stage: REC
+    :date: '20240521'
+  :file: data/rec-rdf-canon-20240521.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
@@ -27034,11 +27019,6 @@
     :date: '20240618'
   :file: data/dnote-maturity-model-20240618.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20240618'
-  :file: data/wd-webdriver2-20240618.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20240618'
@@ -27058,11 +27038,6 @@
     :stage: REC
     :date: '20240619'
   :file: data/rec-geolocation-20240619.yaml
-- :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20240620'
-  :file: data/crd-mediacapture-streams-20240620.yaml
 - :id:
     :code: vc-data-integrity
     :stage: CRD
@@ -27129,11 +27104,6 @@
     :date: '20240626'
   :file: data/wd-wgsl-20240626.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240626'
-  :file: data/wd-webgpu-20240626.yaml
-- :id:
     :code: wasm-js-api-2
     :stage: WD
     :date: '20240626'
@@ -27178,6 +27148,36 @@
     :stage: WD
     :date: '20240627'
   :file: data/wd-permissions-policy-1-20240627.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20240627'
+  :file: data/wd-screen-capture-20240627.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20240627'
+  :file: data/wd-rdf12-concepts-20240627.yaml
+- :id:
+    :code: rdf12-semantics
+    :stage: WD
+    :date: '20240627'
+  :file: data/wd-rdf12-semantics-20240627.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20240627'
+  :file: data/crd-mediacapture-streams-20240627.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240627'
+  :file: data/wd-webgpu-20240627.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20240628'
+  :file: data/wd-webdriver2-20240628.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27314,9 +27314,6 @@
     :code: rdf12-schema
   :file: data/rdf12-schema.yaml
 - :id:
-    :code: rdf12-semantics
-  :file: data/rdf12-semantics.yaml
-- :id:
     :code: rdf12-xml
   :file: data/rdf12-xml.yaml
 - :id:
@@ -27350,20 +27347,17 @@
     :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :id:
-    :code: rdf12-concepts
-  :file: data/rdf12-concepts.yaml
-- :id:
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
 - :id:
-    :code: css-view-transitions-2
-  :file: data/css-view-transitions-2.yaml
-- :id:
     :code: laoo-lreq
   :file: data/laoo-lreq.yaml
+- :id:
+    :code: css-view-transitions-2
+  :file: data/css-view-transitions-2.yaml
 - :id:
     :code: thai-lreq
   :file: data/thai-lreq.yaml
@@ -27445,3 +27439,9 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: rdf12-concepts
+  :file: data/rdf12-concepts.yaml
+- :id:
+    :code: rdf12-semantics
+  :file: data/rdf12-semantics.yaml

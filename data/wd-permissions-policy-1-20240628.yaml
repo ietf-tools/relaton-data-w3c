@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-permissions-policy-1-20240627
+id: W3CWD-permissions-policy-1-20240628
 title:
 - content: Permissions Policy
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/
+- content: https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/
   type: src
 - content: https://w3c.github.io/webappsec-permissions-policy/
   type: current
 type: standard
 docid:
-- id: W3C WD-permissions-policy-1-20240627
+- id: W3C WD-permissions-policy-1-20240628
   type: W3C
   primary: true
-docnumber: WD-permissions-policy-1-20240627
+docnumber: WD-permissions-policy-1-20240628
 date:
 - type: published
-  value: '2024-06-27'
+  value: '2024-06-28'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-27'
+revdate: '2024-06-28'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-permissions-policy-1-20240626
+    id: W3CWD-permissions-policy-1-20240627
     docid:
-    - id: W3C WD-permissions-policy-1-20240626
+    - id: W3C WD-permissions-policy-1-20240627
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-permissions-policy-1-20240626
+      content: W3C WD-permissions-policy-1-20240627
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-permissions-policy-1-20240627
+  number: WD-permissions-policy-1-20240628
 doctype: technicalReport
 editorialgroup:
 - name: Web Application Security Working Group

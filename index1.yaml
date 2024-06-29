@@ -27094,11 +27094,6 @@
     :date: '20240625'
   :file: data/dnote-miniapp-addressing-20240625.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240626'
-  :file: data/crd-vc-jose-cose-20240626.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240626'
@@ -27144,11 +27139,6 @@
     :date: '20240627'
   :file: data/crd-webnn-20240627.yaml
 - :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20240627'
-  :file: data/wd-permissions-policy-1-20240627.yaml
-- :id:
     :code: screen-capture
     :stage: WD
     :date: '20240627'
@@ -27178,6 +27168,16 @@
     :stage: WD
     :date: '20240628'
   :file: data/wd-webdriver2-20240628.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20240628'
+  :file: data/wd-permissions-policy-1-20240628.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240628'
+  :file: data/crd-vc-jose-cose-20240628.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27431,9 +27431,6 @@
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
@@ -27445,3 +27442,6 @@
 - :id:
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

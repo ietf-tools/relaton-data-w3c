@@ -25839,25 +25839,10 @@
     :date: '20230614'
   :file: data/dnote-geor-gap-20230614.yaml
 - :id:
-    :code: laoo-gap
-    :type: DNOTE
-    :date: '20230615'
-  :file: data/dnote-laoo-gap-20230615.yaml
-- :id:
-    :code: thai-gap
-    :type: DNOTE
-    :date: '20230615'
-  :file: data/dnote-thai-gap-20230615.yaml
-- :id:
     :code: saur
     :type: NOTE
     :date: '20230628'
   :file: data/note-saur-20230628.yaml
-- :id:
-    :code: cher-gap
-    :type: DNOTE
-    :date: '20230615'
-  :file: data/dnote-cher-gap-20230615.yaml
 - :id:
     :code: vc-jws-2020
     :stage: WD
@@ -25908,11 +25893,6 @@
     :type: DNOTE
     :date: '20230720'
   :file: data/dnote-kore-gap-20230720.yaml
-- :id:
-    :code: mong-gap
-    :type: DNOTE
-    :date: '20230720'
-  :file: data/dnote-mong-gap-20230720.yaml
 - :id:
     :code: screen-orientation
     :stage: WD
@@ -26394,16 +26374,6 @@
     :date: '20240319'
   :file: data/wd-permissions-20240319.yaml
 - :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20240314'
-  :file: data/dnote-alreq-gap-20240314.yaml
-- :id:
-    :code: khmr-gap
-    :type: DNOTE
-    :date: '20240314'
-  :file: data/dnote-khmr-gap-20240314.yaml
-- :id:
     :code: ctaur
     :type: DNOTE
     :date: '20240320'
@@ -26664,55 +26634,30 @@
     :date: '20240516'
   :file: data/cr-css-multicol-1-20240516.yaml
 - :id:
-    :code: khmr-lreq
+    :code: ilreq-taml
     :type: DNOTE
     :date: '20240515'
-  :file: data/dnote-khmr-lreq-20240515.yaml
-- :id:
-    :code: laoo-lreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-laoo-lreq-20240515.yaml
+  :file: data/dnote-ilreq-taml-20240515.yaml
 - :id:
     :code: css-view-transitions-2
     :stage: WD
     :date: '20240516'
   :file: data/wd-css-view-transitions-2-20240516.yaml
 - :id:
-    :code: thai-lreq
+    :code: tlreq
     :type: DNOTE
     :date: '20240515'
-  :file: data/dnote-thai-lreq-20240515.yaml
-- :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-ilreq-taml-20240515.yaml
+  :file: data/dnote-tlreq-20240515.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240516'
   :file: data/wd-webrtc-svc-20240516.yaml
 - :id:
-    :code: alreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-alreq-20240515.yaml
-- :id:
     :code: rdf-canon
     :stage: REC
     :date: '20240521'
   :file: data/rec-rdf-canon-20240521.yaml
-- :id:
-    :code: tlreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-tlreq-20240515.yaml
-- :id:
-    :code: mlreq
-    :type: DNOTE
-    :date: '20240515'
-  :file: data/dnote-mlreq-20240515.yaml
 - :id:
     :code: mediaqueries-3
     :stage: REC
@@ -26869,15 +26814,15 @@
     :date: '20240613'
   :file: data/wd-credential-management-1-20240613.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20240613'
-  :file: data/note-vc-overview-20240613.yaml
-- :id:
     :code: vocab-dcat-3
     :stage: PR
     :date: '20240613'
   :file: data/pr-vocab-dcat-3-20240613.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20240613'
+  :file: data/note-vc-overview-20240613.yaml
 - :id:
     :code: geolocation
     :stage: REC
@@ -26994,20 +26939,15 @@
     :date: '20240617'
   :file: data/wd-compute-pressure-20240617.yaml
 - :id:
-    :code: arab-ks-lreq
-    :type: DNOTE
-    :date: '20240618'
-  :file: data/dnote-arab-ks-lreq-20240618.yaml
-- :id:
     :code: arab-ug-lreq
     :type: DNOTE
     :date: '20240618'
   :file: data/dnote-arab-ug-lreq-20240618.yaml
 - :id:
-    :code: arab-ur-lreq
+    :code: arab-ks-lreq
     :type: DNOTE
     :date: '20240618'
-  :file: data/dnote-arab-ur-lreq-20240618.yaml
+  :file: data/dnote-arab-ks-lreq-20240618.yaml
 - :id:
     :code: act-rules-format-1.1
     :stage: WD
@@ -27178,6 +27118,66 @@
     :stage: CRD
     :date: '20240628'
   :file: data/crd-vc-jose-cose-20240628.yaml
+- :id:
+    :code: khmr-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-khmr-gap-20240630.yaml
+- :id:
+    :code: khmr-lreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-khmr-lreq-20240630.yaml
+- :id:
+    :code: thai-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-thai-gap-20240630.yaml
+- :id:
+    :code: thai-lreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-thai-lreq-20240630.yaml
+- :id:
+    :code: laoo-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-laoo-gap-20240630.yaml
+- :id:
+    :code: laoo-lreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-laoo-lreq-20240630.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-alreq-gap-20240630.yaml
+- :id:
+    :code: alreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-alreq-20240630.yaml
+- :id:
+    :code: arab-ur-lreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-arab-ur-lreq-20240630.yaml
+- :id:
+    :code: mong-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-mong-gap-20240630.yaml
+- :id:
+    :code: mlreq
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-mlreq-20240630.yaml
+- :id:
+    :code: cher-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-cher-gap-20240630.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27350,17 +27350,8 @@
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
-    :code: khmr-lreq
-  :file: data/khmr-lreq.yaml
-- :id:
-    :code: laoo-lreq
-  :file: data/laoo-lreq.yaml
-- :id:
     :code: css-view-transitions-2
   :file: data/css-view-transitions-2.yaml
-- :id:
-    :code: thai-lreq
-  :file: data/thai-lreq.yaml
 - :id:
     :code: rdf-canon
   :file: data/rdf-canon.yaml
@@ -27401,14 +27392,11 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: arab-ks-lreq
-  :file: data/arab-ks-lreq.yaml
-- :id:
     :code: arab-ug-lreq
   :file: data/arab-ug-lreq.yaml
 - :id:
-    :code: arab-ur-lreq
-  :file: data/arab-ur-lreq.yaml
+    :code: arab-ks-lreq
+  :file: data/arab-ks-lreq.yaml
 - :id:
     :code: act-rules-format-1.1
   :file: data/act-rules-format-1.1.yaml
@@ -27445,3 +27433,15 @@
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: khmr-lreq
+  :file: data/khmr-lreq.yaml
+- :id:
+    :code: thai-lreq
+  :file: data/thai-lreq.yaml
+- :id:
+    :code: laoo-lreq
+  :file: data/laoo-lreq.yaml
+- :id:
+    :code: arab-ur-lreq
+  :file: data/arab-ur-lreq.yaml

@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-deva-gap-20231004
+id: W3CDNOTE-elreq-gap-20240701
 title:
-- content: Devanagari Gap Analysis
+- content: Ethiopic Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-deva-gap-20231004/
+- content: https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240701/
   type: src
-- content: https://w3c.github.io/iip/gap-analysis/deva-gap
+- content: https://w3c.github.io/elreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-deva-gap-20231004
+- id: W3C DNOTE-elreq-gap-20240701
   type: W3C
   primary: true
-docnumber: DNOTE-deva-gap-20231004
+docnumber: DNOTE-elreq-gap-20240701
 date:
 - type: published
-  value: '2023-10-04'
+  value: '2024-07-01'
 contributor:
-- person:
-    name:
-      completename:
-        content: Akshat Joshi
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-10-04'
+revdate: '2024-07-01'
 language:
 - en
 script:
@@ -47,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-deva-gap-20230830
+    id: W3CDNOTE-elreq-gap-20231004
     docid:
-    - id: W3C DNOTE-deva-gap-20230830
+    - id: W3C DNOTE-elreq-gap-20231004
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-deva-gap-20230830
+      content: W3C DNOTE-elreq-gap-20231004
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-deva-gap-20231004
+  number: DNOTE-elreq-gap-20240701
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-ecdsa-20240621
+id: W3CCRD-vc-di-eddsa-20240630
 title:
-- content: Data Integrity ECDSA Cryptosuites v1.0
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240621/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20240630/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-ecdsa-20240621
+- id: W3C CRD-vc-di-eddsa-20240630
   type: W3C
   primary: true
-docnumber: CRD-vc-di-ecdsa-20240621
+docnumber: CRD-vc-di-eddsa-20240630
 date:
 - type: published
-  value: '2024-06-21'
+  value: '2024-06-30'
 contributor:
+- person:
+    name:
+      completename:
+        content: Dmitri Zagidulin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -42,16 +52,6 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Reed
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
         content: Sebastian Crane
         language:
         - en
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-21'
+revdate: '2024-06-30'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-ecdsa-20240609
+    id: W3CCRD-vc-di-eddsa-20240621
     docid:
-    - id: W3C CRD-vc-di-ecdsa-20240609
+    - id: W3C CRD-vc-di-eddsa-20240621
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-ecdsa-20240609
+      content: W3C CRD-vc-di-eddsa-20240621
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-ecdsa-20240621
+  number: CRD-vc-di-eddsa-20240630
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

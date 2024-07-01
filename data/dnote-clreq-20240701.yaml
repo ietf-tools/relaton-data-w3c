@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-bbs-20240626
+id: W3CDNOTE-clreq-20240701
 title:
-- content: Data Integrity BBS Cryptosuites v1.0
+- content: Requirements for Chinese Text Layout - 中文排版需求
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240626/
+- content: https://www.w3.org/TR/2024/DNOTE-clreq-20240701/
   type: src
-- content: https://w3c.github.io/vc-di-bbs/
+- content: https://www.w3.org/International/clreq/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-bbs-20240626
+- id: W3C DNOTE-clreq-20240701
   type: W3C
   primary: true
-docnumber: CRD-vc-di-bbs-20240626
+docnumber: DNOTE-clreq-20240701
 date:
 - type: published
-  value: '2024-06-26'
+  value: '2024-07-01'
 contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Fuqiao Xue
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-26'
+revdate: '2024-07-01'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-bbs-20240617
+    id: W3CDNOTE-clreq-20231101
     docid:
-    - id: W3C CRD-vc-di-bbs-20240617
+    - id: W3C DNOTE-clreq-20231101
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-bbs-20240617
+      content: W3C DNOTE-clreq-20231101
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-vc-di-bbs-20240626
-doctype: technicalReport
+  number: DNOTE-clreq-20240701
+doctype: groupNote
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cwebcodecs-video-frame-metadata-registry
+title:
+- content: WebCodecs VideoFrame Metadata Registry
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/
+  type: src
+type: standard
+docid:
+- id: W3C webcodecs-video-frame-metadata-registry
+  type: W3C
+  primary: true
+docnumber: webcodecs-video-frame-metadata-registry
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDRY-webcodecs-video-frame-metadata-registry-20240702
+    docid:
+    - id: W3C DRY-webcodecs-video-frame-metadata-registry-20240702
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DRY-webcodecs-video-frame-metadata-registry-20240702
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: webcodecs-video-frame-metadata-registry
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -513,8 +513,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20240612'
-  :file: data/wd-appmanifest-20240612.yaml
+  :date: '20240702'
+  :file: data/wd-appmanifest-20240702.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20220217'
@@ -555,8 +555,8 @@
   :file: data/arab-ks-gap.yaml
 - :code: arab-ks-gap
   :type: DNOTE
-  :date: '20240314'
-  :file: data/dnote-arab-ks-gap-20240314.yaml
+  :date: '20240702'
+  :file: data/dnote-arab-ks-gap-20240702.yaml
 - :code: arab-ks-gap
   :type: DNOTE
   :date: '20220407'
@@ -565,14 +565,14 @@
   :file: data/arab-ks-lreq.yaml
 - :code: arab-ks-lreq
   :type: DNOTE
-  :date: '20240618'
-  :file: data/dnote-arab-ks-lreq-20240618.yaml
+  :date: '20240702'
+  :file: data/dnote-arab-ks-lreq-20240702.yaml
 - :code: arab-ug-gap
   :file: data/arab-ug-gap.yaml
 - :code: arab-ug-gap
   :type: DNOTE
-  :date: '20231004'
-  :file: data/dnote-arab-ug-gap-20231004.yaml
+  :date: '20240702'
+  :file: data/dnote-arab-ug-gap-20240702.yaml
 - :code: arab-ug-gap
   :type: DNOTE
   :date: '20220407'
@@ -583,6 +583,12 @@
   :type: DNOTE
   :date: '20240618'
   :file: data/dnote-arab-ug-lreq-20240618.yaml
+- :code: arab-ur-gap
+  :file: data/arab-ur-gap.yaml
+- :code: arab-ur-gap
+  :type: DNOTE
+  :date: '20240702'
+  :file: data/dnote-arab-ur-gap-20240702.yaml
 - :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
 - :code: arab-ur-lreq
@@ -4606,8 +4612,8 @@
   :file: data/did-spec-registries.yaml
 - :code: did-spec-registries
   :type: NOTE
-  :date: '20240611'
-  :file: data/note-did-spec-registries-20240611.yaml
+  :date: '20240701'
+  :file: data/note-did-spec-registries-20240701.yaml
 - :code: did-spec-registries
   :type: NOTE
   :date: '20211102'
@@ -6184,6 +6190,10 @@
   :file: data/geolocation.yaml
 - :code: geolocation
   :stage: REC
+  :date: '20240702'
+  :file: data/rec-geolocation-20240702.yaml
+- :code: geolocation
+  :stage: REC
   :date: '20240619'
   :file: data/rec-geolocation-20240619.yaml
 - :code: geolocation
@@ -6388,8 +6398,8 @@
   :file: data/gujr-gap.yaml
 - :code: gujr-gap
   :type: DNOTE
-  :date: '20231004'
-  :file: data/dnote-gujr-gap-20231004.yaml
+  :date: '20240702'
+  :file: data/dnote-gujr-gap-20240702.yaml
 - :code: gujr-gap
   :type: DNOTE
   :date: '20220119'
@@ -6406,8 +6416,8 @@
   :file: data/guru-gap.yaml
 - :code: guru-gap
   :type: DNOTE
-  :date: '20230830'
-  :file: data/dnote-guru-gap-20230830.yaml
+  :date: '20240702'
+  :file: data/dnote-guru-gap-20240702.yaml
 - :code: guru-gap
   :stage: WD
   :date: '20210525'
@@ -6504,8 +6514,8 @@
   :file: data/hebr-gap.yaml
 - :code: hebr-gap
   :type: DNOTE
-  :date: '20230807'
-  :file: data/dnote-hebr-gap-20230807.yaml
+  :date: '20240701'
+  :file: data/dnote-hebr-gap-20240701.yaml
 - :code: hebr-gap
   :stage: WD
   :date: '20210525'
@@ -7476,8 +7486,8 @@
   :file: data/ilreq-taml.yaml
 - :code: ilreq-taml
   :type: DNOTE
-  :date: '20240515'
-  :file: data/dnote-ilreq-taml-20240515.yaml
+  :date: '20240702'
+  :file: data/dnote-ilreq-taml-20240702.yaml
 - :code: ilreq-taml
   :stage: WD
   :date: '20200616'
@@ -15232,10 +15242,6 @@
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml
-- :code: vc-jws-2020
-  :stage: WD
-  :date: '20230629'
-  :file: data/wd-vc-jws-2020-20230629.yaml
 - :code: vc-overview
   :file: data/vc-overview.yaml
 - :code: vc-overview
@@ -15936,8 +15942,8 @@
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
   :stage: WD
-  :date: '20240626'
-  :file: data/wd-wasm-core-2-20240626.yaml
+  :date: '20240702'
+  :file: data/wd-wasm-core-2-20240702.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20220419'
@@ -15976,8 +15982,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240626'
-  :file: data/wd-wasm-web-api-2-20240626.yaml
+  :date: '20240702'
+  :file: data/wd-wasm-web-api-2-20240702.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'
@@ -16225,10 +16231,6 @@
 - :code: wcag2ict
   :file: data/wcag2ict.yaml
 - :code: wcag2ict
-  :type: DNOTE
-  :date: '20230815'
-  :file: data/dnote-wcag2ict-20230815.yaml
-- :code: wcag2ict
   :type: NOTE
   :date: '20130905'
   :file: data/note-wcag2ict-20130905.yaml
@@ -16238,6 +16240,10 @@
   :file: data/wd-wcag2ict-20121213.yaml
 - :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml
+- :code: wcag2ict-22
+  :type: DNOTE
+  :date: '20240702'
+  :file: data/dnote-wcag2ict-22-20240702.yaml
 - :code: web-alarms
   :file: data/web-alarms.yaml
 - :code: web-alarms
@@ -16680,6 +16686,8 @@
   :type: DNOTE
   :date: '20211216'
   :file: data/dnote-webcodecs-ulaw-codec-registration-20211216.yaml
+- :code: webcodecs-video-frame-metadata-registry
+  :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :code: webcodecs-vorbis-codec-registration
   :file: data/webcodecs-vorbis-codec-registration.yaml
 - :code: webcodecs-vorbis-codec-registration
@@ -16830,8 +16838,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20240627'
-  :file: data/wd-webgpu-20240627.yaml
+  :date: '20240701'
+  :file: data/wd-webgpu-20240701.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -17287,8 +17295,8 @@
   :file: data/webxr.yaml
 - :code: webxr
   :stage: CRD
-  :date: '20240416'
-  :file: data/crd-webxr-20240416.yaml
+  :date: '20240701'
+  :file: data/crd-webxr-20240701.yaml
 - :code: webxr
   :stage: CRD
   :date: '20220526'

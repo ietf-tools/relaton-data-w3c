@@ -17,23 +17,20 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-vc-jws-2020-20230629
+    id: W3CDISC-vc-jws-2020-20240702
     docid:
-    - id: W3C WD-vc-jws-2020-20230629
+    - id: W3C DISC-vc-jws-2020-20240702
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jws-2020-20230629
+      content: W3C DISC-vc-jws-2020-20240702
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: vc-jws-2020
 doctype: technicalReport

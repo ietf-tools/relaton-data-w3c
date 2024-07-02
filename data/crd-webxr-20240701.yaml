@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webxr-20240416
+id: W3CCRD-webxr-20240701
 title:
 - content: WebXR Device API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webxr-20240416/
+- content: https://www.w3.org/TR/2024/CRD-webxr-20240701/
   type: src
 - content: https://immersive-web.github.io/webxr/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webxr-20240416
+- id: W3C CRD-webxr-20240701
   type: W3C
   primary: true
-docnumber: CRD-webxr-20240416
+docnumber: CRD-webxr-20240701
 date:
 - type: published
-  value: '2024-04-16'
+  value: '2024-07-01'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-04-16'
+revdate: '2024-07-01'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webxr-20240410
+    id: W3CCRD-webxr-20240416
     docid:
-    - id: W3C CRD-webxr-20240410
+    - id: W3C CRD-webxr-20240416
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20240410
+      content: W3C CRD-webxr-20240416
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-webxr-20240416
+  number: CRD-webxr-20240701
 doctype: technicalReport
 editorialgroup:
 - name: Immersive Web Working Group

@@ -1,24 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-wcag2ict-20230815
+id: W3CDNOTE-wcag2ict-22-20240702
 title:
-- content: Guidance on Applying WCAG 2.2 to Non-Web Information and Communications
-    Technologies (WCAG2ICT)
+- content: Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies
+    (WCAG2ICT)
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-wcag2ict-20230815/
+- content: https://www.w3.org/TR/2024/DNOTE-wcag2ict-22-20240702/
   type: src
 - content: https://w3c.github.io/wcag2ict/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-wcag2ict-20230815
+- id: W3C DNOTE-wcag2ict-22-20240702
   type: W3C
   primary: true
-docnumber: DNOTE-wcag2ict-20230815
+docnumber: DNOTE-wcag2ict-22-20240702
 date:
 - type: published
-  value: '2023-08-15'
+  value: '2024-07-02'
 contributor:
 - person:
     name:
@@ -50,16 +50,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-08-15'
+revdate: '2024-07-02'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-wcag2ict-20230815
+    docid:
+    - id: W3C DNOTE-wcag2ict-20230815
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-wcag2ict-20230815
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-wcag2ict-20230815
+  number: DNOTE-wcag2ict-22-20240702
 doctype: groupNote
 editorialgroup:
 - name: Accessibility Guidelines Working Group

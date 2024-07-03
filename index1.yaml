@@ -26919,11 +26919,6 @@
     :date: '20240626'
   :file: data/wd-html-aam-1.0-20240626.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240626'
-  :file: data/crd-vc-data-model-2.0-20240626.yaml
-- :id:
     :code: html-ruby-extensions
     :stage: WD
     :date: '20240627'
@@ -27184,6 +27179,11 @@
     :date: '20240702'
   :file: data/dnote-arab-ks-lreq-20240702.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240703'
+  :file: data/crd-vc-data-model-2.0-20240703.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27399,9 +27399,6 @@
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
@@ -27456,3 +27453,6 @@
 - :id:
     :code: arab-ks-lreq
   :file: data/arab-ks-lreq.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-picture-in-picture-20240502
+id: W3CWD-autoplay-detection-20240704
 title:
-- content: Picture-in-Picture
+- content: Autoplay Policy Detection
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-picture-in-picture-20240502/
+- content: https://www.w3.org/TR/2024/WD-autoplay-detection-20240704/
   type: src
-- content: https://w3c.github.io/picture-in-picture/
+- content: https://w3c.github.io/autoplay/
   type: current
 type: standard
 docid:
-- id: W3C WD-picture-in-picture-20240502
+- id: W3C WD-autoplay-detection-20240704
   type: W3C
   primary: true
-docnumber: WD-picture-in-picture-20240502
+docnumber: WD-autoplay-detection-20240704
 date:
 - type: published
-  value: '2024-05-02'
+  value: '2024-07-04'
 contributor:
 - person:
     name:
       completename:
-        content: Francois Beaufort
+        content: Alastor Wu
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-05-02'
+revdate: '2024-07-04'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-picture-in-picture-20221219
+    id: W3CWD-autoplay-detection-20230210
     docid:
-    - id: W3C WD-picture-in-picture-20221219
+    - id: W3C WD-autoplay-detection-20230210
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-picture-in-picture-20221219
+      content: W3C WD-autoplay-detection-20230210
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-picture-in-picture-20240502
+  number: WD-autoplay-detection-20240704
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

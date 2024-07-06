@@ -26279,11 +26279,6 @@
     :date: '20240322'
   :file: data/crd-css-values-3-20240322.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240322'
-  :file: data/dnote-typography-20240322.yaml
-- :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20240326'
@@ -26639,11 +26634,6 @@
     :date: '20240613'
   :file: data/wd-credential-management-1-20240613.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20240613'
-  :file: data/note-vc-overview-20240613.yaml
-- :id:
     :code: vocab-dcat-3
     :stage: PR
     :date: '20240613'
@@ -26809,20 +26799,15 @@
     :date: '20240628'
   :file: data/wd-permissions-policy-1-20240628.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240628'
-  :file: data/crd-vc-jose-cose-20240628.yaml
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20240630'
+  :file: data/dnote-alreq-gap-20240630.yaml
 - :id:
     :code: vc-di-ecdsa
     :stage: CRD
     :date: '20240630'
   :file: data/crd-vc-di-ecdsa-20240630.yaml
-- :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20240630'
-  :file: data/dnote-alreq-gap-20240630.yaml
 - :id:
     :code: alreq
     :type: DNOTE
@@ -26879,15 +26864,15 @@
     :date: '20240702'
   :file: data/dnote-wcag2ict-22-20240702.yaml
 - :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-ilreq-taml-20240702.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240702'
   :file: data/wd-wasm-web-api-2-20240702.yaml
+- :id:
+    :code: ilreq-taml
+    :type: DNOTE
+    :date: '20240702'
+  :file: data/dnote-ilreq-taml-20240702.yaml
 - :id:
     :code: wasm-core-2
     :stage: WD
@@ -26913,11 +26898,6 @@
     :type: DNOTE
     :date: '20240702'
   :file: data/dnote-arab-ks-lreq-20240702.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240703'
-  :file: data/crd-vc-data-model-2.0-20240703.yaml
 - :id:
     :code: webgpu
     :stage: WD
@@ -27089,6 +27069,11 @@
     :date: '20240704'
   :file: data/dnote-elreq-gap-20240704.yaml
 - :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240705'
+  :file: data/crd-vc-jose-cose-20240705.yaml
+- :id:
     :code: geor-gap
     :type: DNOTE
     :date: '20240704'
@@ -27104,6 +27089,11 @@
     :date: '20240704'
   :file: data/dnote-hebr-gap-20240704.yaml
 - :id:
+    :code: webmidi
+    :stage: WD
+    :date: '20240706'
+  :file: data/wd-webmidi-20240706.yaml
+- :id:
     :code: beng-gap
     :type: DNOTE
     :date: '20240704'
@@ -27113,6 +27103,11 @@
     :type: DNOTE
     :date: '20240704'
   :file: data/dnote-deva-gap-20240704.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240706'
+  :file: data/crd-vc-data-model-2.0-20240706.yaml
 - :id:
     :code: gujr-gap
     :type: DNOTE
@@ -27188,6 +27183,16 @@
     :type: DNOTE
     :date: '20240705'
   :file: data/dnote-tlreq-20240705.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240705'
+  :file: data/dnote-typography-20240705.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20240706'
+  :file: data/note-vc-overview-20240706.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27368,9 +27373,6 @@
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :id:
-    :code: vc-overview
-  :file: data/vc-overview.yaml
-- :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
@@ -27401,9 +27403,6 @@
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :id:
@@ -27419,21 +27418,18 @@
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
-    :code: arab-ur-gap
-  :file: data/arab-ur-gap.yaml
-- :id:
     :code: vc-jws
     :date: '2020'
   :file: data/vc-jws-2020.yaml
+- :id:
+    :code: arab-ur-gap
+  :file: data/arab-ur-gap.yaml
 - :id:
     :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml
 - :id:
     :code: arab-ks-lreq
   :file: data/arab-ks-lreq.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: webcodecs-hevc-codec-registration
   :file: data/webcodecs-hevc-codec-registration.yaml
@@ -27453,6 +27449,12 @@
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
     :code: thai-lreq
   :file: data/thai-lreq.yaml
 - :id:
@@ -27461,3 +27463,6 @@
 - :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
+- :id:
+    :code: vc-overview
+  :file: data/vc-overview.yaml

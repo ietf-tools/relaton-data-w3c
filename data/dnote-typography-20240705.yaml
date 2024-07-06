@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-typography-20240322
+id: W3CDNOTE-typography-20240705
 title:
 - content: Language enablement index
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-typography-20240322/
+- content: https://www.w3.org/TR/2024/DNOTE-typography-20240705/
   type: src
 - content: https://w3c.github.io/typography/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-typography-20240322
+- id: W3C DNOTE-typography-20240705
   type: W3C
   primary: true
-docnumber: DNOTE-typography-20240322
+docnumber: DNOTE-typography-20240705
 date:
 - type: published
-  value: '2024-03-22'
+  value: '2024-07-05'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-22'
+revdate: '2024-07-05'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-typography-20240321
+    id: W3CDNOTE-typography-20240322
     docid:
-    - id: W3C DNOTE-typography-20240321
+    - id: W3C DNOTE-typography-20240322
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-typography-20240321
+      content: W3C DNOTE-typography-20240322
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-typography-20240322
+  number: DNOTE-typography-20240705
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

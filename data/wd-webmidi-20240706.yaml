@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-webmidi-20240706
+title:
+- content: Web MIDI API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-webmidi-20240706/
+  type: src
+- content: https://webaudio.github.io/web-midi-api/
+  type: current
+type: standard
+docid:
+- id: W3C WD-webmidi-20240706
+  type: W3C
+  primary: true
+docnumber: WD-webmidi-20240706
+date:
+- type: published
+  value: '2024-07-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Chris Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webmidi-20150317
+    docid:
+    - id: W3C WD-webmidi-20150317
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webmidi-20150317
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webmidi-20240706
+doctype: technicalReport
+editorialgroup:
+- name: Audio Working Group
+ext:
+  schema-version: v1.0.0

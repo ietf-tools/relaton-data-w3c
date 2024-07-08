@@ -26539,11 +26539,6 @@
     :date: '20240529'
   :file: data/wd-css-text-4-20240529.yaml
 - :id:
-    :code: push-api
-    :stage: WD
-    :date: '20240530'
-  :file: data/wd-push-api-20240530.yaml
-- :id:
     :code: epub-fxl-a11y
     :type: NOTE
     :date: '20240530'
@@ -26889,20 +26884,15 @@
     :date: '20240702'
   :file: data/dnote-arab-ug-gap-20240702.yaml
 - :id:
-    :code: arab-ks-lreq
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-arab-ks-lreq-20240702.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240703'
-  :file: data/wd-webgpu-20240703.yaml
-- :id:
     :code: media-capabilities
     :stage: WD
     :date: '20240704'
   :file: data/wd-media-capabilities-20240704.yaml
+- :id:
+    :code: arab-ks-lreq
+    :type: DNOTE
+    :date: '20240702'
+  :file: data/dnote-arab-ks-lreq-20240702.yaml
 - :id:
     :code: picture-in-picture
     :stage: WD
@@ -27004,16 +26994,6 @@
     :date: '20240704'
   :file: data/dnote-adlm-gap-20240704.yaml
 - :id:
-    :code: adlm-lreq
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-adlm-lreq-20240704.yaml
-- :id:
-    :code: nkoo-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-nkoo-gap-20240704.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20240704'
@@ -27024,30 +27004,40 @@
     :date: '20240704'
   :file: data/dnote-clreq-gap-20240704.yaml
 - :id:
+    :code: adlm-lreq
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-adlm-lreq-20240704.yaml
+- :id:
+    :code: nkoo-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-nkoo-gap-20240704.yaml
+- :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20240704'
   :file: data/dnote-nkoo-lreq-20240704.yaml
-- :id:
-    :code: cher-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-cher-gap-20240704.yaml
 - :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20240704'
   :file: data/wd-rdf12-concepts-20240704.yaml
 - :id:
-    :code: cans-iu-cr-gap
+    :code: cher-gap
     :type: DNOTE
     :date: '20240704'
-  :file: data/dnote-cans-iu-cr-gap-20240704.yaml
+  :file: data/dnote-cher-gap-20240704.yaml
 - :id:
     :code: webnn
     :stage: CRD
     :date: '20240705'
   :file: data/crd-webnn-20240705.yaml
+- :id:
+    :code: cans-iu-cr-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-cans-iu-cr-gap-20240704.yaml
 - :id:
     :code: osge-osa-gap
     :type: DNOTE
@@ -27059,15 +27049,15 @@
     :date: '20240705'
   :file: data/dnote-kore-gap-20240705.yaml
 - :id:
-    :code: elreq-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-elreq-gap-20240704.yaml
-- :id:
     :code: vc-jose-cose
     :stage: CRD
     :date: '20240705'
   :file: data/crd-vc-jose-cose-20240705.yaml
+- :id:
+    :code: elreq-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-elreq-gap-20240704.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -27079,30 +27069,30 @@
     :date: '20240704'
   :file: data/dnote-grek-gap-20240704.yaml
 - :id:
-    :code: hebr-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-hebr-gap-20240704.yaml
-- :id:
     :code: webmidi
     :stage: WD
     :date: '20240706'
   :file: data/wd-webmidi-20240706.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-hebr-gap-20240704.yaml
 - :id:
     :code: beng-gap
     :type: DNOTE
     :date: '20240704'
   :file: data/dnote-beng-gap-20240704.yaml
 - :id:
-    :code: deva-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-deva-gap-20240704.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: CRD
     :date: '20240706'
   :file: data/crd-vc-data-model-2.0-20240706.yaml
+- :id:
+    :code: deva-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-deva-gap-20240704.yaml
 - :id:
     :code: gujr-gap
     :type: DNOTE
@@ -27114,25 +27104,35 @@
     :date: '20240704'
   :file: data/dnote-guru-gap-20240704.yaml
 - :id:
-    :code: taml-gap
-    :type: DNOTE
-    :date: '20240705'
-  :file: data/dnote-taml-gap-20240705.yaml
-- :id:
     :code: privacy-principles
     :type: DNOTE
     :date: '20240706'
   :file: data/dnote-privacy-principles-20240706.yaml
+- :id:
+    :code: taml-gap
+    :type: DNOTE
+    :date: '20240705'
+  :file: data/dnote-taml-gap-20240705.yaml
 - :id:
     :code: jpan-gap
     :type: DNOTE
     :date: '20240705'
   :file: data/dnote-jpan-gap-20240705.yaml
 - :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240708'
+  :file: data/wd-webgpu-20240708.yaml
+- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20240705'
   :file: data/dnote-mong-gap-20240705.yaml
+- :id:
+    :code: push-api
+    :stage: WD
+    :date: '20240708'
+  :file: data/wd-push-api-20240708.yaml
 - :id:
     :code: mlreq
     :type: DNOTE

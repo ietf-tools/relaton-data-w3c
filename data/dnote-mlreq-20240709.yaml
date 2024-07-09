@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-mlreq-20240705
+id: W3CDNOTE-mlreq-20240709
 title:
 - content: Mongolian Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-mlreq-20240705/
+- content: https://www.w3.org/TR/2024/DNOTE-mlreq-20240709/
   type: src
 - content: https://w3c.github.io/mlreq/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-mlreq-20240705
+- id: W3C DNOTE-mlreq-20240709
   type: W3C
   primary: true
-docnumber: DNOTE-mlreq-20240705
+docnumber: DNOTE-mlreq-20240709
 date:
 - type: published
-  value: '2024-07-05'
+  value: '2024-07-09'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-05'
+revdate: '2024-07-09'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-mlreq-20240630
+    id: W3CDNOTE-mlreq-20240705
     docid:
-    - id: W3C DNOTE-mlreq-20240630
+    - id: W3C DNOTE-mlreq-20240705
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-mlreq-20240630
+      content: W3C DNOTE-mlreq-20240705
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-mlreq-20240705
+  number: DNOTE-mlreq-20240709
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

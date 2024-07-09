@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Calreq-gap
 title:
-- content: Arabic and Persian Gap Analysis
+- content: Arabic Script Gap Analysis
   format: text/plain
 link:
 - content: https://www.w3.org/TR/alreq-gap/
@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-alreq-gap-20240630
+    id: W3CDNOTE-alreq-gap-20240709
     docid:
-    - id: W3C DNOTE-alreq-gap-20240630
+    - id: W3C DNOTE-alreq-gap-20240709
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-alreq-gap-20240630
+      content: W3C DNOTE-alreq-gap-20240709
       format: text/plain
 - type: hasEdition
   bibitem:

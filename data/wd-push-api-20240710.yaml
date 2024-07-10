@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-ctaur-20240320
+id: W3CWD-push-api-20240710
 title:
-- content: Collaboration Tools Accessibility User Requirements
+- content: Push API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-ctaur-20240320/
+- content: https://www.w3.org/TR/2024/WD-push-api-20240710/
   type: src
-- content: https://w3c.github.io/ctaur/
+- content: https://w3c.github.io/push-api/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-ctaur-20240320
+- id: W3C WD-push-api-20240710
   type: W3C
   primary: true
-docnumber: DNOTE-ctaur-20240320
+docnumber: WD-push-api-20240710
 date:
 - type: published
-  value: '2024-03-20'
+  value: '2024-07-10'
 contributor:
 - person:
     name:
       completename:
-        content: Janina Sajka
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jason White
+        content: Martin Thomson
         language:
         - en
         script:
@@ -42,36 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Scott Hollier
+        content: Peter Beverloo
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-03-20'
+revdate: '2024-07-10'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-ctaur-20231024
+    id: W3CWD-push-api-20240708
     docid:
-    - id: W3C DNOTE-ctaur-20231024
+    - id: W3C WD-push-api-20240708
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-ctaur-20231024
+      content: W3C WD-push-api-20240708
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-ctaur-20240320
-doctype: groupNote
+  number: WD-push-api-20240710
+doctype: technicalReport
 editorialgroup:
-- name: Accessible Platform Architectures
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

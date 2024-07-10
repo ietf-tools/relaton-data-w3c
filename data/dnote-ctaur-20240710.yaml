@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-push-api-20240708
+id: W3CDNOTE-ctaur-20240710
 title:
-- content: Push API
+- content: Collaboration Tools Accessibility User Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-push-api-20240708/
+- content: https://www.w3.org/TR/2024/DNOTE-ctaur-20240710/
   type: src
-- content: https://w3c.github.io/push-api/
+- content: https://w3c.github.io/ctaur/
   type: current
 type: standard
 docid:
-- id: W3C WD-push-api-20240708
+- id: W3C DNOTE-ctaur-20240710
   type: W3C
   primary: true
-docnumber: WD-push-api-20240708
+docnumber: DNOTE-ctaur-20240710
 date:
 - type: published
-  value: '2024-07-08'
+  value: '2024-07-10'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Janina Sajka
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Martin Thomson
+        content: Jason White
         language:
         - en
         script:
@@ -42,39 +42,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Beverloo
+        content: Scott Hollier
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-08'
+revdate: '2024-07-10'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-push-api-20240530
+    id: W3CDNOTE-ctaur-20240320
     docid:
-    - id: W3C WD-push-api-20240530
+    - id: W3C DNOTE-ctaur-20240320
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20240530
+      content: W3C DNOTE-ctaur-20240320
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-push-api-20240708
-doctype: technicalReport
+  number: DNOTE-ctaur-20240710
+doctype: groupNote
 editorialgroup:
-- name: Web Applications Working Group
+- name: Accessible Platform Architectures
 ext:
   schema-version: v1.0.0

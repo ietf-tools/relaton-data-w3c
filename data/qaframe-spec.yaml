@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-qaframe-spec-20041122
-    docid:
-    - id: W3C WD-qaframe-spec-20041122
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-qaframe-spec-20041122
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-qaframe-spec-20021108
     docid:
     - id: W3C WD-qaframe-spec-20021108
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-qaframe-spec-20021108
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-qaframe-spec-20041122
+    docid:
+    - id: W3C WD-qaframe-spec-20041122
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-qaframe-spec-20041122
       format: text/plain
 series:
 - title:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-kore-gap-20240705
+id: W3CDNOTE-clreq-gap-20240709
 title:
-- content: Korean Layout Gap Analysis
+- content: Chinese Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-kore-gap-20240705/
+- content: https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240709/
   type: src
-- content: https://w3c.github.io/klreq/gap-analysis/
+- content: https://www.w3.org/International/clreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-kore-gap-20240705
+- id: W3C DNOTE-clreq-gap-20240709
   type: W3C
   primary: true
-docnumber: DNOTE-kore-gap-20240705
+docnumber: DNOTE-clreq-gap-20240709
 date:
 - type: published
-  value: '2024-07-05'
+  value: '2024-07-09'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-05'
+revdate: '2024-07-09'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-kore-gap-20230720
+    id: W3CDNOTE-clreq-gap-20240704
     docid:
-    - id: W3C DNOTE-kore-gap-20230720
+    - id: W3C DNOTE-clreq-gap-20240704
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-kore-gap-20230720
+      content: W3C DNOTE-clreq-gap-20240704
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-kore-gap-20240705
+  number: DNOTE-clreq-gap-20240709
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

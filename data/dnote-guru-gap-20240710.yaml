@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-gujr-gap-20240704
+id: W3CDNOTE-guru-gap-20240710
 title:
-- content: Gujarati Gap Analysis
+- content: Gurmukhi Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/
+- content: https://www.w3.org/TR/2024/DNOTE-guru-gap-20240710/
   type: src
-- content: https://w3c.github.io/iip/gap-analysis/gujr-gap
+- content: https://w3c.github.io/iip/gap-analysis/guru-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-gujr-gap-20240704
+- id: W3C DNOTE-guru-gap-20240710
   type: W3C
   primary: true
-docnumber: DNOTE-gujr-gap-20240704
+docnumber: DNOTE-guru-gap-20240710
 date:
 - type: published
-  value: '2024-07-04'
+  value: '2024-07-10'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-04'
+revdate: '2024-07-10'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-gujr-gap-20240702
+    id: W3CDNOTE-guru-gap-20240704
     docid:
-    - id: W3C DNOTE-gujr-gap-20240702
+    - id: W3C DNOTE-guru-gap-20240704
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-gujr-gap-20240702
+      content: W3C DNOTE-guru-gap-20240704
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-gujr-gap-20240704
+  number: DNOTE-guru-gap-20240710
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

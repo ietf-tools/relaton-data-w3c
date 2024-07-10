@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-values-3-20160929
-    docid:
-    - id: W3C CR-css-values-3-20160929
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-values-3-20160929
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-values-3-20180814
     docid:
     - id: W3C CR-css-values-3-20180814
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-css-values-3-20180814
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-values-3-20160929
+    docid:
+    - id: W3C CR-css-values-3-20160929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-values-3-20160929
       format: text/plain
 series:
 - title:

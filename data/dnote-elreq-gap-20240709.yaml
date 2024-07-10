@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-elreq-gap-20240704
+id: W3CDNOTE-elreq-gap-20240709
 title:
 - content: Ethiopic Layout Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240704/
+- content: https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240709/
   type: src
 - content: https://w3c.github.io/elreq/gap-analysis/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-elreq-gap-20240704
+- id: W3C DNOTE-elreq-gap-20240709
   type: W3C
   primary: true
-docnumber: DNOTE-elreq-gap-20240704
+docnumber: DNOTE-elreq-gap-20240709
 date:
 - type: published
-  value: '2024-07-04'
+  value: '2024-07-09'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-04'
+revdate: '2024-07-09'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-elreq-gap-20240701
+    id: W3CDNOTE-elreq-gap-20240704
     docid:
-    - id: W3C DNOTE-elreq-gap-20240701
+    - id: W3C DNOTE-elreq-gap-20240704
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-elreq-gap-20240701
+      content: W3C DNOTE-elreq-gap-20240704
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-elreq-gap-20240704
+  number: DNOTE-elreq-gap-20240709
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

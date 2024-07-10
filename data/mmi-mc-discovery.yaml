@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mmi-mc-discovery-20160411
-    docid:
-    - id: W3C WD-mmi-mc-discovery-20160411
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mmi-mc-discovery-20160411
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mmi-mc-discovery-20150611
     docid:
     - id: W3C WD-mmi-mc-discovery-20150611
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mmi-mc-discovery-20150611
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mmi-mc-discovery-20160411
+    docid:
+    - id: W3C WD-mmi-mc-discovery-20160411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mmi-mc-discovery-20160411
       format: text/plain
 series:
 - title:

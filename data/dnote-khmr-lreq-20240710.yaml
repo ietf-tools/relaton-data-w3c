@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-khmr-lreq-20240705
+id: W3CDNOTE-khmr-lreq-20240710
 title:
-- content: Khmer Layout Requirements (Draft)
+- content: Khmer Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/
+- content: https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/
   type: src
 - content: https://w3c.github.io/sealreq/khmer/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-khmr-lreq-20240705
+- id: W3C DNOTE-khmr-lreq-20240710
   type: W3C
   primary: true
-docnumber: DNOTE-khmr-lreq-20240705
+docnumber: DNOTE-khmr-lreq-20240710
 date:
 - type: published
-  value: '2024-07-05'
+  value: '2024-07-10'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-05'
+revdate: '2024-07-10'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-khmr-lreq-20240630
+    id: W3CDNOTE-khmr-lreq-20240705
     docid:
-    - id: W3C DNOTE-khmr-lreq-20240630
+    - id: W3C DNOTE-khmr-lreq-20240705
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-khmr-lreq-20240630
+      content: W3C DNOTE-khmr-lreq-20240705
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-khmr-lreq-20240705
+  number: DNOTE-khmr-lreq-20240710
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

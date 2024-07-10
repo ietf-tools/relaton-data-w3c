@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wai-aria-primer-20080204
-    docid:
-    - id: W3C WD-wai-aria-primer-20080204
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wai-aria-primer-20080204
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-wai-aria-primer-20100916
     docid:
     - id: W3C WD-wai-aria-primer-20100916
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-wai-aria-primer-20100916
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wai-aria-primer-20080204
+    docid:
+    - id: W3C WD-wai-aria-primer-20080204
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wai-aria-primer-20080204
       format: text/plain
 series:
 - title:

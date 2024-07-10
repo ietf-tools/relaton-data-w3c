@@ -31,16 +31,6 @@ relation:
     formattedref:
       content: W3C WD-SVGMobile12-20031209
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-SVGMobile12-20050413
-    docid:
-    - id: W3C WD-SVGMobile12-20050413
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-SVGMobile12-20050413
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-SVGMobile12-20060810
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-SVGMobile12-20060810
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-SVGMobile12-20050413
+    docid:
+    - id: W3C WD-SVGMobile12-20050413
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-SVGMobile12-20050413
       format: text/plain
 - type: hasEdition
   bibitem:

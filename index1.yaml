@@ -26764,20 +26764,15 @@
     :date: '20240628'
   :file: data/wd-permissions-policy-1-20240628.yaml
 - :id:
-    :code: vc-di-ecdsa
+    :code: vc-di-eddsa
     :stage: CRD
     :date: '20240630'
-  :file: data/crd-vc-di-ecdsa-20240630.yaml
+  :file: data/crd-vc-di-eddsa-20240630.yaml
 - :id:
     :code: arab-ur-lreq
     :type: DNOTE
     :date: '20240630'
   :file: data/dnote-arab-ur-lreq-20240630.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240630'
-  :file: data/crd-vc-di-eddsa-20240630.yaml
 - :id:
     :code: vc-di-bbs
     :stage: CRD
@@ -26849,105 +26844,35 @@
     :date: '20240702'
   :file: data/dnote-arab-ug-gap-20240702.yaml
 - :id:
-    :code: media-capabilities
+    :code: picture-in-picture
     :stage: WD
     :date: '20240704'
-  :file: data/wd-media-capabilities-20240704.yaml
+  :file: data/wd-picture-in-picture-20240704.yaml
 - :id:
     :code: arab-ks-lreq
     :type: DNOTE
     :date: '20240702'
   :file: data/dnote-arab-ks-lreq-20240702.yaml
 - :id:
-    :code: picture-in-picture
-    :stage: WD
-    :date: '20240704'
-  :file: data/wd-picture-in-picture-20240704.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20240704'
-  :file: data/wd-webcodecs-20240704.yaml
-- :id:
     :code: media-source-2
     :stage: WD
     :date: '20240704'
   :file: data/wd-media-source-2-20240704.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-avc-codec-registration-20240704.yaml
 - :id:
     :code: autoplay-detection
     :stage: WD
     :date: '20240704'
   :file: data/wd-autoplay-detection-20240704.yaml
 - :id:
-    :code: webcodecs-vorbis-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-vorbis-codec-registration-20240704.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240704'
   :file: data/wd-mediasession-20240704.yaml
 - :id:
-    :code: webcodecs-mp3-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-mp3-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-aac-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-aac-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-flac-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-flac-codec-registration-20240704.yaml
-- :id:
     :code: webcodecs-opus-codec-registration
     :type: DNOTE
     :date: '20240704'
   :file: data/dnote-webcodecs-opus-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-av1-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-av1-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-vp9-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-vp8-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-vp8-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-pcm-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-pcm-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-alaw-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-alaw-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-ulaw-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20240704.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20240704.yaml
 - :id:
     :code: epub-a11y-tech-11
     :type: NOTE
@@ -26974,10 +26899,10 @@
     :date: '20240704'
   :file: data/wd-rdf12-concepts-20240704.yaml
 - :id:
-    :code: webnn
+    :code: vc-jose-cose
     :stage: CRD
     :date: '20240705'
-  :file: data/crd-webnn-20240705.yaml
+  :file: data/crd-vc-jose-cose-20240705.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
@@ -26989,25 +26914,20 @@
     :date: '20240705'
   :file: data/dnote-typography-20240705.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240705'
-  :file: data/crd-vc-jose-cose-20240705.yaml
-- :id:
     :code: webmidi
     :stage: WD
     :date: '20240706'
   :file: data/wd-webmidi-20240706.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20240706'
-  :file: data/note-vc-overview-20240706.yaml
-- :id:
     :code: privacy-principles
     :type: DNOTE
     :date: '20240706'
   :file: data/dnote-privacy-principles-20240706.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20240706'
+  :file: data/note-vc-overview-20240706.yaml
 - :id:
     :code: contact-picker
     :stage: WD
@@ -27084,65 +27004,65 @@
     :date: '20240709'
   :file: data/dnote-clreq-gap-20240709.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240709'
-  :file: data/wd-webgpu-20240709.yaml
-- :id:
     :code: elreq-gap
     :type: DNOTE
     :date: '20240709'
   :file: data/dnote-elreq-gap-20240709.yaml
-- :id:
-    :code: taml-gap
-    :type: DNOTE
-    :date: '20240709'
-  :file: data/dnote-taml-gap-20240709.yaml
 - :id:
     :code: ctaur
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-ctaur-20240710.yaml
 - :id:
-    :code: beng-gap
+    :code: taml-gap
     :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-beng-gap-20240710.yaml
-- :id:
-    :code: deva-gap
-    :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-deva-gap-20240710.yaml
+    :date: '20240709'
+  :file: data/dnote-taml-gap-20240709.yaml
 - :id:
     :code: kore-gap
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-kore-gap-20240710.yaml
 - :id:
-    :code: gujr-gap
+    :code: beng-gap
     :type: DNOTE
     :date: '20240710'
-  :file: data/dnote-gujr-gap-20240710.yaml
+  :file: data/dnote-beng-gap-20240710.yaml
 - :id:
     :code: accname-1.2
     :stage: WD
     :date: '20240710'
   :file: data/wd-accname-1.2-20240710.yaml
 - :id:
-    :code: guru-gap
+    :code: deva-gap
     :type: DNOTE
     :date: '20240710'
-  :file: data/dnote-guru-gap-20240710.yaml
+  :file: data/dnote-deva-gap-20240710.yaml
 - :id:
-    :code: jpan-gap
+    :code: gujr-gap
     :type: DNOTE
     :date: '20240710'
-  :file: data/dnote-jpan-gap-20240710.yaml
+  :file: data/dnote-gujr-gap-20240710.yaml
 - :id:
     :code: push-api
     :stage: WD
     :date: '20240710'
   :file: data/wd-push-api-20240710.yaml
+- :id:
+    :code: guru-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-guru-gap-20240710.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240710'
+  :file: data/crd-vc-di-ecdsa-20240710.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-jpan-gap-20240710.yaml
 - :id:
     :code: mong-gap
     :type: DNOTE
@@ -27154,10 +27074,20 @@
     :date: '20240710'
   :file: data/dnote-java-gap-20240710.yaml
 - :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240710'
+  :file: data/wd-webgpu-20240710.yaml
+- :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-thai-lreq-20240710.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240711'
+  :file: data/crd-webnn-20240711.yaml
 - :id:
     :code: thai-gap
     :type: DNOTE
@@ -27168,6 +27098,11 @@
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-laoo-lreq-20240710.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20240711'
+  :file: data/wd-webcodecs-20240711.yaml
 - :id:
     :code: laoo-gap
     :type: DNOTE
@@ -27193,6 +27128,71 @@
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-geor-gap-20240710.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-avc-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-vorbis-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-mp3-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-aac-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-aac-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-flac-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-flac-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-av1-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-av1-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-vp9-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-vp8-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-pcm-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-alaw-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-ulaw-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20240711.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20240711.yaml
+- :id:
+    :code: media-capabilities
+    :stage: WD
+    :date: '20240711'
+  :file: data/wd-media-capabilities-20240711.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27394,14 +27394,11 @@
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
 - :id:
     :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
-- :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
 - :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
@@ -27421,12 +27418,6 @@
 - :id:
     :code: arab-ks-lreq
   :file: data/arab-ks-lreq.yaml
-- :id:
-    :code: webcodecs-hevc-codec-registration
-  :file: data/webcodecs-hevc-codec-registration.yaml
-- :id:
-    :code: webcodecs-video-frame-metadata-registry
-  :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
@@ -27458,6 +27449,9 @@
     :code: kore-gap
   :file: data/kore-gap.yaml
 - :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
     :code: thai-lreq
   :file: data/thai-lreq.yaml
 - :id:
@@ -27466,3 +27460,9 @@
 - :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
+- :id:
+    :code: webcodecs-hevc-codec-registration
+  :file: data/webcodecs-hevc-codec-registration.yaml
+- :id:
+    :code: webcodecs-video-frame-metadata-registry
+  :file: data/webcodecs-video-frame-metadata-registry.yaml

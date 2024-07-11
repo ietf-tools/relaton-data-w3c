@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-ecdsa-20240630
+id: W3CCRD-vc-di-ecdsa-20240710
 title:
 - content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240630/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240710/
   type: src
 - content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-ecdsa-20240630
+- id: W3C CRD-vc-di-ecdsa-20240710
   type: W3C
   primary: true
-docnumber: CRD-vc-di-ecdsa-20240630
+docnumber: CRD-vc-di-ecdsa-20240710
 date:
 - type: published
-  value: '2024-06-30'
+  value: '2024-07-10'
 contributor:
 - person:
     name:
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-30'
+revdate: '2024-07-10'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-ecdsa-20240621
+    id: W3CCRD-vc-di-ecdsa-20240630
     docid:
-    - id: W3C CRD-vc-di-ecdsa-20240621
+    - id: W3C CRD-vc-di-ecdsa-20240630
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-ecdsa-20240621
+      content: W3C CRD-vc-di-ecdsa-20240630
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-ecdsa-20240630
+  number: CRD-vc-di-ecdsa-20240710
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

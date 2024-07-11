@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20240704
+id: W3CWD-media-capabilities-20240711
 title:
 - content: Media Capabilities
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240704/
+- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240711/
   type: src
 - content: https://w3c.github.io/media-capabilities/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20240704
+- id: W3C WD-media-capabilities-20240711
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20240704
+docnumber: WD-media-capabilities-20240711
 date:
 - type: published
-  value: '2024-07-04'
+  value: '2024-07-11'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-04'
+revdate: '2024-07-11'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240212
+    id: W3CWD-media-capabilities-20240704
     docid:
-    - id: W3C WD-media-capabilities-20240212
+    - id: W3C WD-media-capabilities-20240704
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240212
+      content: W3C WD-media-capabilities-20240704
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20240704
+  number: WD-media-capabilities-20240711
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

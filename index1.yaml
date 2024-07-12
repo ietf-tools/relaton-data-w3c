@@ -26729,11 +26729,6 @@
     :date: '20240626'
   :file: data/wd-wasm-js-api-2-20240626.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20240626'
-  :file: data/wd-html-aam-1.0-20240626.yaml
-- :id:
     :code: html-ruby-extensions
     :stage: WD
     :date: '20240627'
@@ -26814,15 +26809,15 @@
     :date: '20240702'
   :file: data/dnote-wcag2ict-22-20240702.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240702'
-  :file: data/wd-wasm-web-api-2-20240702.yaml
-- :id:
     :code: ilreq-taml
     :type: DNOTE
     :date: '20240702'
   :file: data/dnote-ilreq-taml-20240702.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240702'
+  :file: data/wd-wasm-web-api-2-20240702.yaml
 - :id:
     :code: wasm-core-2
     :stage: WD
@@ -27074,20 +27069,15 @@
     :date: '20240710'
   :file: data/dnote-java-gap-20240710.yaml
 - :id:
-    :code: webgpu
+    :code: webcodecs
     :stage: WD
-    :date: '20240710'
-  :file: data/wd-webgpu-20240710.yaml
+    :date: '20240711'
+  :file: data/wd-webcodecs-20240711.yaml
 - :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-thai-lreq-20240710.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240711'
-  :file: data/crd-webnn-20240711.yaml
 - :id:
     :code: thai-gap
     :type: DNOTE
@@ -27099,11 +27089,6 @@
     :date: '20240710'
   :file: data/dnote-laoo-lreq-20240710.yaml
 - :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20240711'
-  :file: data/wd-webcodecs-20240711.yaml
-- :id:
     :code: laoo-gap
     :type: DNOTE
     :date: '20240710'
@@ -27113,6 +27098,11 @@
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-khmr-lreq-20240710.yaml
+- :id:
+    :code: webcodecs-avc-codec-registration
+    :type: DNOTE
+    :date: '20240711'
+  :file: data/dnote-webcodecs-avc-codec-registration-20240711.yaml
 - :id:
     :code: khmr-gap
     :type: DNOTE
@@ -27124,20 +27114,15 @@
     :date: '20240710'
   :file: data/dnote-tibt-gap-20240710.yaml
 - :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-geor-gap-20240710.yaml
-- :id:
-    :code: webcodecs-avc-codec-registration
-    :type: DNOTE
-    :date: '20240711'
-  :file: data/dnote-webcodecs-avc-codec-registration-20240711.yaml
-- :id:
     :code: webcodecs-vorbis-codec-registration
     :type: DNOTE
     :date: '20240711'
   :file: data/dnote-webcodecs-vorbis-codec-registration-20240711.yaml
+- :id:
+    :code: geor-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-geor-gap-20240710.yaml
 - :id:
     :code: webcodecs-mp3-codec-registration
     :type: DNOTE
@@ -27193,6 +27178,21 @@
     :stage: WD
     :date: '20240711'
   :file: data/wd-media-capabilities-20240711.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20240711'
+  :file: data/wd-html-aam-1.0-20240711.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240712'
+  :file: data/wd-webgpu-20240712.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240712'
+  :file: data/crd-webnn-20240712.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27406,12 +27406,12 @@
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
+    :code: arab-ur-gap
+  :file: data/arab-ur-gap.yaml
+- :id:
     :code: vc-jws
     :date: '2020'
   :file: data/vc-jws-2020.yaml
-- :id:
-    :code: arab-ur-gap
-  :file: data/arab-ur-gap.yaml
 - :id:
     :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml

@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Chani-lreq
+title:
+- content: Chinese Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/hani-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C hani-lreq
+  type: W3C
+  primary: true
+docnumber: hani-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-hani-lreq-20240716
+    docid:
+    - id: W3C DNOTE-hani-lreq-20240716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-hani-lreq-20240716
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: hani-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

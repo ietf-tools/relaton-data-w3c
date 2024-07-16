@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Clatn-gap
+title:
+- content: Latin Script Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/latn-gap/
+  type: src
+type: standard
+docid:
+- id: W3C latn-gap
+  type: W3C
+  primary: true
+docnumber: latn-gap
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-latn-gap-20240716
+    docid:
+    - id: W3C DNOTE-latn-gap-20240716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-latn-gap-20240716
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: latn-gap
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

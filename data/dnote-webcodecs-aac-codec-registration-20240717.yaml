@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-hevc-codec-registration-20240711
+id: W3CDNOTE-webcodecs-aac-codec-registration-20240717
 title:
-- content: HEVC (H.265) WebCodecs Registration
+- content: AAC WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240711/
+- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-aac-codec-registration-20240717/
   type: src
-- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
+- content: https://w3c.github.io/webcodecs/aac_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-hevc-codec-registration-20240711
+- id: W3C DNOTE-webcodecs-aac-codec-registration-20240717
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-hevc-codec-registration-20240711
+docnumber: DNOTE-webcodecs-aac-codec-registration-20240717
 date:
 - type: published
-  value: '2024-07-11'
+  value: '2024-07-17'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-11'
+revdate: '2024-07-17'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-hevc-codec-registration-20240704
+    id: W3CDNOTE-webcodecs-aac-codec-registration-20240711
     docid:
-    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20240704
+    - id: W3C DNOTE-webcodecs-aac-codec-registration-20240711
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-hevc-codec-registration-20240704
+      content: W3C DNOTE-webcodecs-aac-codec-registration-20240711
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-hevc-codec-registration-20240711
+  number: DNOTE-webcodecs-aac-codec-registration-20240717
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

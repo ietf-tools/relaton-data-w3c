@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-mse-byte-stream-format-mp2t-20240718
+title:
+- content: MPEG-2 TS Byte Stream Format
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/NOTE-mse-byte-stream-format-mp2t-20240718/
+  type: src
+- content: https://w3c.github.io/mse-byte-stream-format-mp2t/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-mse-byte-stream-format-mp2t-20240718
+  type: W3C
+  primary: true
+docnumber: NOTE-mse-byte-stream-format-mp2t-20240718
+date:
+- type: published
+  value: '2024-07-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-18'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-mse-byte-stream-format-mp2t-20161004
+    docid:
+    - id: W3C NOTE-mse-byte-stream-format-mp2t-20161004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-mse-byte-stream-format-mp2t-20161004
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-mse-byte-stream-format-mp2t-20240718
+doctype: groupNote
+editorialgroup:
+- name: Media Working Group
+ext:
+  schema-version: v1.0.0

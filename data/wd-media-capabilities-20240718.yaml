@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20240702
+id: W3CWD-media-capabilities-20240718
 title:
-- content: WebAssembly Core Specification
+- content: Media Capabilities
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240702/
+- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240718/
   type: src
-- content: https://webassembly.github.io/spec/core/bikeshed/
+- content: https://w3c.github.io/media-capabilities/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20240702
+- id: W3C WD-media-capabilities-20240718
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20240702
+docnumber: WD-media-capabilities-20240718
 date:
 - type: published
-  value: '2024-07-02'
+  value: '2024-07-18'
 contributor:
 - person:
     name:
       completename:
-        content: Andreas Rossberg
+        content: Jean-Yves Avenard
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-02'
+revdate: '2024-07-18'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20240626
+    id: W3CWD-media-capabilities-20240711
     docid:
-    - id: W3C WD-wasm-core-2-20240626
+    - id: W3C WD-media-capabilities-20240711
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20240626
+      content: W3C WD-media-capabilities-20240711
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20240702
+  number: WD-media-capabilities-20240718
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

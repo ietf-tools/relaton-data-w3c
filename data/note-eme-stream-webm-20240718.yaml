@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240717
+id: W3CNOTE-eme-stream-webm-20240718
 title:
-- content: Web Neural Network API
+- content: WebM Stream Format
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240717/
+- content: https://www.w3.org/TR/2024/NOTE-eme-stream-webm-20240718/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://w3c.github.io/encrypted-media/format-registry/stream/webm.html
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240717
+- id: W3C NOTE-eme-stream-webm-20240718
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240717
+docnumber: NOTE-eme-stream-webm-20240718
 date:
 - type: published
-  value: '2024-07-17'
+  value: '2024-07-18'
 contributor:
 - person:
     name:
       completename:
-        content: Dwayne Robinson
+        content: Greg Freedman
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Joey Parrish
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-17'
+revdate: '2024-07-18'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240712
+    id: W3CNOTE-eme-stream-webm-20160915
     docid:
-    - id: W3C CRD-webnn-20240712
+    - id: W3C NOTE-eme-stream-webm-20160915
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240712
+      content: W3C NOTE-eme-stream-webm-20160915
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C NOTE
     format: text/plain
-  number: CRD-webnn-20240717
-doctype: technicalReport
+  number: NOTE-eme-stream-webm-20240718
+doctype: groupNote
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: Media Working Group
 ext:
   schema-version: v1.0.0

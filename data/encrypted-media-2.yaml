@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Ctrusted-types
+id: W3Cencrypted-media-2
 title:
-- content: Trusted Types
+- content: Encrypted Media Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/trusted-types/
+- content: https://www.w3.org/TR/encrypted-media-2/
   type: src
 type: standard
 docid:
-- id: W3C trusted-types
+- id: W3C encrypted-media-2
   type: W3C
   primary: true
-docnumber: trusted-types
+docnumber: encrypted-media-2
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-trusted-types-20240718
+    id: W3CWD-encrypted-media-2-20240718
     docid:
-    - id: W3C WD-trusted-types-20240718
+    - id: W3C WD-encrypted-media-2-20240718
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trusted-types-20240718
+      content: W3C WD-encrypted-media-2-20240718
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: trusted-types
+  number: encrypted-media-2
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

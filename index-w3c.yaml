@@ -5314,14 +5314,24 @@
   :stage: WD
   :date: '20200611'
   :file: data/wd-elreq-gap-20200611.yaml
+- :code: eme-hdcp-version-registry
+  :file: data/eme-hdcp-version-registry.yaml
 - :code: eme-initdata-cenc
   :file: data/eme-initdata-cenc.yaml
+- :code: eme-initdata-cenc
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-eme-initdata-cenc-20240718.yaml
 - :code: eme-initdata-cenc
   :type: NOTE
   :date: '20160915'
   :file: data/note-eme-initdata-cenc-20160915.yaml
 - :code: eme-initdata-keyids
   :file: data/eme-initdata-keyids.yaml
+- :code: eme-initdata-keyids
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-eme-initdata-keyids-20240718.yaml
 - :code: eme-initdata-keyids
   :type: NOTE
   :date: '20160915'
@@ -5336,10 +5346,18 @@
   :file: data/eme-initdata-webm.yaml
 - :code: eme-initdata-webm
   :type: NOTE
+  :date: '20240718'
+  :file: data/note-eme-initdata-webm-20240718.yaml
+- :code: eme-initdata-webm
+  :type: NOTE
   :date: '20160915'
   :file: data/note-eme-initdata-webm-20160915.yaml
 - :code: eme-stream-mp4
   :file: data/eme-stream-mp4.yaml
+- :code: eme-stream-mp4
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-eme-stream-mp4-20240718.yaml
 - :code: eme-stream-mp4
   :type: NOTE
   :date: '20160915'
@@ -5352,6 +5370,10 @@
   :file: data/note-eme-stream-registry-20160915.yaml
 - :code: eme-stream-webm
   :file: data/eme-stream-webm.yaml
+- :code: eme-stream-webm
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-eme-stream-webm-20240718.yaml
 - :code: eme-stream-webm
   :type: NOTE
   :date: '20160915'
@@ -5502,6 +5524,14 @@
   :stage: WD
   :date: '20131022'
   :file: data/wd-encrypted-media-20131022.yaml
+- :code: encrypted-media-1
+  :file: data/encrypted-media-1.yaml
+- :code: encrypted-media-2
+  :file: data/encrypted-media-2.yaml
+- :code: encrypted-media-2
+  :stage: WD
+  :date: '20240718'
+  :file: data/wd-encrypted-media-2-20240718.yaml
 - :code: eo-qb
   :file: data/eo-qb.yaml
 - :code: eo-qb
@@ -8638,8 +8668,8 @@
   :file: data/media-capabilities.yaml
 - :code: media-capabilities
   :stage: WD
-  :date: '20240711'
-  :file: data/wd-media-capabilities-20240711.yaml
+  :date: '20240718'
+  :file: data/wd-media-capabilities-20240718.yaml
 - :code: media-capabilities
   :stage: WD
   :date: '20220420'
@@ -9409,16 +9439,28 @@
   :file: data/mse-byte-stream-format-isobmff.yaml
 - :code: mse-byte-stream-format-isobmff
   :type: NOTE
+  :date: '20240718'
+  :file: data/note-mse-byte-stream-format-isobmff-20240718.yaml
+- :code: mse-byte-stream-format-isobmff
+  :type: NOTE
   :date: '20161004'
   :file: data/note-mse-byte-stream-format-isobmff-20161004.yaml
 - :code: mse-byte-stream-format-mp2t
   :file: data/mse-byte-stream-format-mp2t.yaml
 - :code: mse-byte-stream-format-mp2t
   :type: NOTE
+  :date: '20240718'
+  :file: data/note-mse-byte-stream-format-mp2t-20240718.yaml
+- :code: mse-byte-stream-format-mp2t
+  :type: NOTE
   :date: '20161004'
   :file: data/note-mse-byte-stream-format-mp2t-20161004.yaml
 - :code: mse-byte-stream-format-mpeg-audio
   :file: data/mse-byte-stream-format-mpeg-audio.yaml
+- :code: mse-byte-stream-format-mpeg-audio
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-mse-byte-stream-format-mpeg-audio-20240718.yaml
 - :code: mse-byte-stream-format-mpeg-audio
   :type: NOTE
   :date: '20161004'
@@ -9431,6 +9473,10 @@
   :file: data/note-mse-byte-stream-format-registry-20161004.yaml
 - :code: mse-byte-stream-format-webm
   :file: data/mse-byte-stream-format-webm.yaml
+- :code: mse-byte-stream-format-webm
+  :type: NOTE
+  :date: '20240718'
+  :file: data/note-mse-byte-stream-format-webm-20240718.yaml
 - :code: mse-byte-stream-format-webm
   :type: NOTE
   :date: '20161004'
@@ -10674,9 +10720,9 @@
 - :code: png-3
   :file: data/png-3.yaml
 - :code: png-3
-  :stage: CR
-  :date: '20230921'
-  :file: data/cr-png-3-20230921.yaml
+  :stage: CRD
+  :date: '20240718'
+  :file: data/crd-png-3-20240718.yaml
 - :code: png-hdr-pq
   :file: data/png-hdr-pq.yaml
 - :code: png-hdr-pq
@@ -14604,8 +14650,8 @@
   :file: data/trusted-types.yaml
 - :code: trusted-types
   :stage: WD
-  :date: '20240619'
-  :file: data/wd-trusted-types-20240619.yaml
+  :date: '20240718'
+  :file: data/wd-trusted-types-20240718.yaml
 - :code: tt-af-1-0-req
   :file: data/tt-af-1-0-req.yaml
 - :code: tt-af-1-0-req
@@ -15235,8 +15281,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240709'
-  :file: data/crd-vc-data-model-2.0-20240709.yaml
+  :date: '20240717'
+  :file: data/crd-vc-data-model-2.0-20240717.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
@@ -15976,8 +16022,8 @@
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
   :stage: WD
-  :date: '20240702'
-  :file: data/wd-wasm-core-2-20240702.yaml
+  :date: '20240718'
+  :file: data/wd-wasm-core-2-20240718.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20220419'
@@ -16016,8 +16062,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240702'
-  :file: data/wd-wasm-web-api-2-20240702.yaml
+  :date: '20240718'
+  :file: data/wd-wasm-web-api-2-20240718.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'
@@ -16872,8 +16918,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20240712'
-  :file: data/wd-webgpu-20240712.yaml
+  :date: '20240718'
+  :file: data/wd-webgpu-20240718.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -16994,8 +17040,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240717'
-  :file: data/crd-webnn-20240717.yaml
+  :date: '20240718'
+  :file: data/crd-webnn-20240718.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'

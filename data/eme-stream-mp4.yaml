@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: W3Ceme-stream-mp4
 title:
-- content: ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File
-    Format Stream Format
+- content: ISO Common Encryption Protection Scheme for ISO Base Media File Format
+    Stream Format
   format: text/plain
 link:
 - content: https://www.w3.org/TR/eme-stream-mp4/
@@ -20,6 +20,16 @@ script:
 - Latn
 relation:
 - type: instance
+  bibitem:
+    id: W3CNOTE-eme-stream-mp4-20240718
+    docid:
+    - id: W3C NOTE-eme-stream-mp4-20240718
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-eme-stream-mp4-20240718
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CNOTE-eme-stream-mp4-20160915
     docid:

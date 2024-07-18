@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Ceme-hdcp-version-registry
+title:
+- content: Encrypted Media Extensions HDCP Version Registry
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/eme-hdcp-version-registry/
+  type: src
+type: standard
+docid:
+- id: W3C eme-hdcp-version-registry
+  type: W3C
+  primary: true
+docnumber: eme-hdcp-version-registry
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDRY-eme-hdcp-version-registry-20240718
+    docid:
+    - id: W3C DRY-eme-hdcp-version-registry-20240718
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DRY-eme-hdcp-version-registry-20240718
+      format: text/plain
+series:
+- title:
+    content: W3C technicalReport
+    format: text/plain
+  number: eme-hdcp-version-registry
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

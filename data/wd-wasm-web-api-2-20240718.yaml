@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20240711
+id: W3CWD-wasm-web-api-2-20240718
 title:
-- content: Media Capabilities
+- content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240711/
+- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240718/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20240711
+- id: W3C WD-wasm-web-api-2-20240718
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20240711
+docnumber: WD-wasm-web-api-2-20240718
 date:
 - type: published
-  value: '2024-07-11'
+  value: '2024-07-18'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: ". Ms2ger"
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-11'
+revdate: '2024-07-18'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240704
+    id: W3CWD-wasm-web-api-2-20240702
     docid:
-    - id: W3C WD-media-capabilities-20240704
+    - id: W3C WD-wasm-web-api-2-20240702
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240704
+      content: W3C WD-wasm-web-api-2-20240702
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20240711
+  number: WD-wasm-web-api-2-20240718
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

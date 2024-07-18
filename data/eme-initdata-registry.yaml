@@ -20,6 +20,16 @@ script:
 relation:
 - type: instance
   bibitem:
+    id: W3CDRY-eme-initdata-registry-20240718
+    docid:
+    - id: W3C DRY-eme-initdata-registry-20240718
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DRY-eme-initdata-registry-20240718
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CNOTE-eme-initdata-registry-20160915
     docid:
     - id: W3C NOTE-eme-initdata-registry-20160915
@@ -30,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C technicalReport
     format: text/plain
   number: eme-initdata-registry
-doctype: groupNote
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

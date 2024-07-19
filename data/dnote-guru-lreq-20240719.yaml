@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-arab-ur-lreq-20240630
+id: W3CDNOTE-guru-lreq-20240719
 title:
-- content: Urdu Layout Requirements
+- content: Gurmukhi Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-arab-ur-lreq-20240630/
+- content: https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240719/
   type: src
-- content: https://w3c.github.io/alreq/arab-ur/
+- content: https://w3c.github.io/iip/guru/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-arab-ur-lreq-20240630
+- id: W3C DNOTE-guru-lreq-20240719
   type: W3C
   primary: true
-docnumber: DNOTE-arab-ur-lreq-20240630
+docnumber: DNOTE-guru-lreq-20240719
 date:
 - type: published
-  value: '2024-06-30'
+  value: '2024-07-19'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-30'
+revdate: '2024-07-19'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-arab-ur-lreq-20240618
+    id: W3CDNOTE-guru-lreq-20230214
     docid:
-    - id: W3C DNOTE-arab-ur-lreq-20240618
+    - id: W3C DNOTE-guru-lreq-20230214
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-arab-ur-lreq-20240618
+      content: W3C DNOTE-guru-lreq-20230214
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-arab-ur-lreq-20240630
+  number: DNOTE-guru-lreq-20240719
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

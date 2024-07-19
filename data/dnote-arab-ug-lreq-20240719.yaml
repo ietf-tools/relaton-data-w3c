@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-arab-ug-lreq-20240618
+id: W3CDNOTE-arab-ug-lreq-20240719
 title:
 - content: Uighur Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-arab-ug-lreq-20240618/
+- content: https://www.w3.org/TR/2024/DNOTE-arab-ug-lreq-20240719/
   type: src
 - content: https://w3c.github.io/alreq/arab-ug/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-arab-ug-lreq-20240618
+- id: W3C DNOTE-arab-ug-lreq-20240719
   type: W3C
   primary: true
-docnumber: DNOTE-arab-ug-lreq-20240618
+docnumber: DNOTE-arab-ug-lreq-20240719
 date:
 - type: published
-  value: '2024-06-18'
+  value: '2024-07-19'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-18'
+revdate: '2024-07-19'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-arab-ug-lreq-20240618
+    docid:
+    - id: W3C DNOTE-arab-ug-lreq-20240618
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-arab-ug-lreq-20240618
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-arab-ug-lreq-20240618
+  number: DNOTE-arab-ug-lreq-20240719
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

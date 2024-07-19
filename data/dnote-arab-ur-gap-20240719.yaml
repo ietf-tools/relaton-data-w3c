@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-arab-ur-gap-20240702
+id: W3CDNOTE-arab-ur-gap-20240719
 title:
 - content: Urdu Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-arab-ur-gap-20240702/
+- content: https://www.w3.org/TR/2024/DNOTE-arab-ur-gap-20240719/
   type: src
 - content: https://w3c.github.io/alreq/gap-analysis/arab-ur-gap.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-arab-ur-gap-20240702
+- id: W3C DNOTE-arab-ur-gap-20240719
   type: W3C
   primary: true
-docnumber: DNOTE-arab-ur-gap-20240702
+docnumber: DNOTE-arab-ur-gap-20240719
 date:
 - type: published
-  value: '2024-07-02'
+  value: '2024-07-19'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-02'
+revdate: '2024-07-19'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-arab-ur-gap-20240702
+    docid:
+    - id: W3C DNOTE-arab-ur-gap-20240702
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-arab-ur-gap-20240702
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-arab-ur-gap-20240702
+  number: DNOTE-arab-ur-gap-20240719
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

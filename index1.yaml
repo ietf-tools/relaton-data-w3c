@@ -25554,11 +25554,6 @@
     :date: '20230214'
   :file: data/wd-css-nesting-1-20230214.yaml
 - :id:
-    :code: guru-lreq
-    :type: DNOTE
-    :date: '20230214'
-  :file: data/dnote-guru-lreq-20230214.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230215'
@@ -26169,16 +26164,6 @@
     :date: '20240125'
   :file: data/wd-css-gcpm-3-20240125.yaml
 - :id:
-    :code: webrtc-stats
-    :stage: CRD
-    :date: '20240125'
-  :file: data/crd-webrtc-stats-20240125.yaml
-- :id:
-    :code: design-principles
-    :type: NOTE
-    :date: '20240130'
-  :file: data/note-design-principles-20240130.yaml
-- :id:
     :code: css-fonts-4
     :stage: WD
     :date: '20240201'
@@ -26333,11 +26318,6 @@
     :stage: REC
     :date: '20240415'
   :file: data/rec-html-aria-20240415.yaml
-- :id:
-    :code: string-meta
-    :type: DNOTE
-    :date: '20240418'
-  :file: data/dnote-string-meta-20240418.yaml
 - :id:
     :code: rdf12-n-quads
     :stage: WD
@@ -26589,11 +26569,6 @@
     :date: '20240607'
   :file: data/wd-window-management-20240607.yaml
 - :id:
-    :code: ethical-web-principles
-    :type: DNOTE
-    :date: '20240610'
-  :file: data/dnote-ethical-web-principles-20240610.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20240610'
@@ -26653,11 +26628,6 @@
     :stage: WD
     :date: '20240617'
   :file: data/wd-compute-pressure-20240617.yaml
-- :id:
-    :code: arab-ug-lreq
-    :type: DNOTE
-    :date: '20240618'
-  :file: data/dnote-arab-ug-lreq-20240618.yaml
 - :id:
     :code: act-rules-format-1.1
     :stage: WD
@@ -26744,11 +26714,6 @@
     :date: '20240628'
   :file: data/wd-permissions-policy-1-20240628.yaml
 - :id:
-    :code: arab-ur-lreq
-    :type: DNOTE
-    :date: '20240630'
-  :file: data/dnote-arab-ur-lreq-20240630.yaml
-- :id:
     :code: vc-di-eddsa
     :stage: CRD
     :date: '20240630'
@@ -26784,40 +26749,20 @@
     :date: '20240702'
   :file: data/rec-geolocation-20240702.yaml
 - :id:
-    :code: arab-ur-gap
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-arab-ur-gap-20240702.yaml
-- :id:
     :code: wcag2ict-22
     :type: DNOTE
     :date: '20240702'
   :file: data/dnote-wcag2ict-22-20240702.yaml
-- :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20240702'
-  :file: data/wd-appmanifest-20240702.yaml
 - :id:
     :code: ilreq-taml
     :type: DNOTE
     :date: '20240702'
   :file: data/dnote-ilreq-taml-20240702.yaml
 - :id:
-    :code: arab-ks-gap
-    :type: DNOTE
+    :code: appmanifest
+    :stage: WD
     :date: '20240702'
-  :file: data/dnote-arab-ks-gap-20240702.yaml
-- :id:
-    :code: arab-ug-gap
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-arab-ug-gap-20240702.yaml
-- :id:
-    :code: arab-ks-lreq
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-arab-ks-lreq-20240702.yaml
+  :file: data/wd-appmanifest-20240702.yaml
 - :id:
     :code: picture-in-picture
     :stage: WD
@@ -26833,11 +26778,6 @@
     :stage: WD
     :date: '20240704'
   :file: data/wd-autoplay-detection-20240704.yaml
-- :id:
-    :code: mediasession
-    :stage: WD
-    :date: '20240704'
-  :file: data/wd-mediasession-20240704.yaml
 - :id:
     :code: epub-a11y-tech-11
     :type: NOTE
@@ -27269,6 +27209,66 @@
     :date: '20240718'
   :file: data/wd-wasm-core-2-20240718.yaml
 - :id:
+    :code: mediasession
+    :stage: WD
+    :date: '20240718'
+  :file: data/wd-mediasession-20240718.yaml
+- :id:
+    :code: webrtc-stats
+    :stage: CRD
+    :date: '20240718'
+  :file: data/crd-webrtc-stats-20240718.yaml
+- :id:
+    :code: string-meta
+    :type: DNOTE
+    :date: '20240718'
+  :file: data/dnote-string-meta-20240718.yaml
+- :id:
+    :code: design-principles
+    :type: NOTE
+    :date: '20240718'
+  :file: data/note-design-principles-20240718.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: DNOTE
+    :date: '20240718'
+  :file: data/dnote-ethical-web-principles-20240718.yaml
+- :id:
+    :code: guru-lreq
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-guru-lreq-20240719.yaml
+- :id:
+    :code: arab-ks-gap
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ks-gap-20240719.yaml
+- :id:
+    :code: arab-ks-lreq
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ks-lreq-20240719.yaml
+- :id:
+    :code: arab-ug-gap
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ug-gap-20240719.yaml
+- :id:
+    :code: arab-ur-lreq
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ur-lreq-20240719.yaml
+- :id:
+    :code: arab-ur-gap
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ur-gap-20240719.yaml
+- :id:
+    :code: arab-ug-lreq
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ug-lreq-20240719.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27311,9 +27311,6 @@
 - :id:
     :code: web-locks
   :file: data/web-locks.yaml
-- :id:
-    :code: guru-lreq
-  :file: data/guru-lreq.yaml
 - :id:
     :code: web-animations-2
   :file: data/web-animations-2.yaml
@@ -27454,9 +27451,6 @@
     :code: compute-pressure
   :file: data/compute-pressure.yaml
 - :id:
-    :code: arab-ug-lreq
-  :file: data/arab-ug-lreq.yaml
-- :id:
     :code: act-rules-format-1.1
   :file: data/act-rules-format-1.1.yaml
 - :id:
@@ -27465,9 +27459,6 @@
 - :id:
     :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
-- :id:
-    :code: arab-ur-lreq
-  :file: data/arab-ur-lreq.yaml
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
@@ -27482,14 +27473,8 @@
     :date: '2020'
   :file: data/vc-jws-2020.yaml
 - :id:
-    :code: arab-ur-gap
-  :file: data/arab-ur-gap.yaml
-- :id:
     :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml
-- :id:
-    :code: arab-ks-lreq
-  :file: data/arab-ks-lreq.yaml
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
@@ -27565,3 +27550,18 @@
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
+- :id:
+    :code: guru-lreq
+  :file: data/guru-lreq.yaml
+- :id:
+    :code: arab-ks-lreq
+  :file: data/arab-ks-lreq.yaml
+- :id:
+    :code: arab-ur-lreq
+  :file: data/arab-ur-lreq.yaml
+- :id:
+    :code: arab-ur-gap
+  :file: data/arab-ur-gap.yaml
+- :id:
+    :code: arab-ug-lreq
+  :file: data/arab-ug-lreq.yaml

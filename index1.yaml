@@ -26734,11 +26734,6 @@
     :date: '20240701'
   :file: data/dnote-clreq-20240701.yaml
 - :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20240701'
-  :file: data/note-did-spec-registries-20240701.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20240701'
@@ -26754,15 +26749,15 @@
     :date: '20240702'
   :file: data/dnote-wcag2ict-22-20240702.yaml
 - :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240702'
-  :file: data/dnote-ilreq-taml-20240702.yaml
-- :id:
     :code: appmanifest
     :stage: WD
     :date: '20240702'
   :file: data/wd-appmanifest-20240702.yaml
+- :id:
+    :code: ilreq-taml
+    :type: DNOTE
+    :date: '20240702'
+  :file: data/dnote-ilreq-taml-20240702.yaml
 - :id:
     :code: picture-in-picture
     :stage: WD
@@ -26794,40 +26789,40 @@
     :date: '20240704'
   :file: data/dnote-grek-gap-20240704.yaml
 - :id:
-    :code: hebr-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-hebr-gap-20240704.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20240704'
   :file: data/wd-rdf12-concepts-20240704.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-hebr-gap-20240704.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240705'
   :file: data/dnote-tlreq-20240705.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240705'
-  :file: data/dnote-typography-20240705.yaml
-- :id:
     :code: vc-jose-cose
     :stage: CRD
     :date: '20240705'
   :file: data/crd-vc-jose-cose-20240705.yaml
 - :id:
-    :code: privacy-principles
+    :code: typography
     :type: DNOTE
-    :date: '20240706'
-  :file: data/dnote-privacy-principles-20240706.yaml
+    :date: '20240705'
+  :file: data/dnote-typography-20240705.yaml
 - :id:
     :code: vc-overview
     :type: NOTE
     :date: '20240706'
   :file: data/note-vc-overview-20240706.yaml
+- :id:
+    :code: privacy-principles
+    :type: DNOTE
+    :date: '20240706'
+  :file: data/dnote-privacy-principles-20240706.yaml
 - :id:
     :code: contact-picker
     :stage: WD
@@ -27119,11 +27114,6 @@
     :date: '20240717'
   :file: data/wd-webdriver2-20240717.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240717'
-  :file: data/crd-vc-data-model-2.0-20240717.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20240718'
@@ -27259,6 +27249,11 @@
     :date: '20240719'
   :file: data/dnote-arab-ur-lreq-20240719.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240720'
+  :file: data/crd-vc-data-model-2.0-20240720.yaml
+- :id:
     :code: arab-ur-gap
     :type: DNOTE
     :date: '20240719'
@@ -27268,6 +27263,11 @@
     :type: DNOTE
     :date: '20240719'
   :file: data/dnote-arab-ug-lreq-20240719.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20240720'
+  :file: data/note-did-spec-registries-20240720.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27536,9 +27536,6 @@
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: png-3
   :file: data/png-3.yaml
 - :id:
@@ -27559,6 +27556,9 @@
 - :id:
     :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: arab-ur-gap
   :file: data/arab-ur-gap.yaml

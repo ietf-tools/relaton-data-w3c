@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cbeng-lreq
+title:
+- content: Bengali Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/beng-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C beng-lreq
+  type: W3C
+  primary: true
+docnumber: beng-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-beng-lreq-20240723
+    docid:
+    - id: W3C DNOTE-beng-lreq-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-beng-lreq-20240723
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: beng-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20240605
+id: W3CWD-css-conditional-5-20240723
 title:
-- content: Device Posture API
+- content: CSS Conditional Rules Module Level 5
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20240605/
+- content: https://www.w3.org/TR/2024/WD-css-conditional-5-20240723/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://drafts.csswg.org/css-conditional-5/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20240605
+- id: W3C WD-css-conditional-5-20240723
   type: W3C
   primary: true
-docnumber: WD-device-posture-20240605
+docnumber: WD-css-conditional-5-20240723
 date:
 - type: published
-  value: '2024-06-05'
+  value: '2024-07-23'
 contributor:
 - person:
     name:
       completename:
-        content: Alexis Menard
+        content: Chris Lilley
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: David Baron
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Elika Etemad
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-05'
+revdate: '2024-07-23'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20240528
+    id: W3CWD-css-conditional-5-20211221
     docid:
-    - id: W3C WD-device-posture-20240528
+    - id: W3C WD-css-conditional-5-20211221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20240528
+      content: W3C WD-css-conditional-5-20211221
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-posture-20240605
+  number: WD-css-conditional-5-20240723
 doctype: technicalReport
 editorialgroup:
-- name: Devices and Sensors Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

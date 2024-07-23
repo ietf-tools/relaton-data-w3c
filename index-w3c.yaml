@@ -919,6 +919,12 @@
   :stage: WD
   :date: '20200616'
   :file: data/wd-beng-gap-20200616.yaml
+- :code: beng-lreq
+  :file: data/beng-lreq.yaml
+- :code: beng-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-beng-lreq-20240723.yaml
 - :code: C14N-issues
   :file: data/c14n-issues.yaml
 - :code: C14N-issues
@@ -2154,6 +2160,10 @@
   :file: data/css-conditional-5.yaml
 - :code: css-conditional-5
   :stage: WD
+  :date: '20240723'
+  :file: data/wd-css-conditional-5-20240723.yaml
+- :code: css-conditional-5
+  :stage: WD
   :date: '20211221'
   :file: data/wd-css-conditional-5-20211221.yaml
 - :code: css-contain-1
@@ -2849,6 +2859,12 @@
   :stage: CR
   :date: '20161020'
   :file: data/cr-css-scroll-snap-1-20161020.yaml
+- :code: css-scroll-snap-2
+  :file: data/css-scroll-snap-2.yaml
+- :code: css-scroll-snap-2
+  :stage: WD
+  :date: '20240723'
+  :file: data/wd-css-scroll-snap-2-20240723.yaml
 - :code: css-scrollbars-1
   :file: data/css-scrollbars-1.yaml
 - :code: css-scrollbars-1
@@ -4253,6 +4269,18 @@
   :type: NOTE
   :date: '20011211'
   :file: data/note-cx-20011211.yaml
+- :code: cyrl-gap
+  :file: data/cyrl-gap.yaml
+- :code: cyrl-gap
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-cyrl-gap-20240723.yaml
+- :code: cyrl-lreq
+  :file: data/cyrl-lreq.yaml
+- :code: cyrl-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-cyrl-lreq-20240723.yaml
 - :code: daml+oil-axioms
   :file: data/daml_oil-axioms.yaml
 - :code: daml+oil-axioms
@@ -4468,6 +4496,12 @@
   :stage: WD
   :date: '20200616'
   :file: data/wd-deva-gap-20200616.yaml
+- :code: deva-lreq
+  :file: data/deva-lreq.yaml
+- :code: deva-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-deva-lreq-20240723.yaml
 - :code: device-memory-1
   :file: data/device-memory-1.yaml
 - :code: device-memory-1
@@ -4482,8 +4516,8 @@
   :file: data/device-posture.yaml
 - :code: device-posture
   :stage: WD
-  :date: '20240605'
-  :file: data/wd-device-posture-20240605.yaml
+  :date: '20240722'
+  :file: data/wd-device-posture-20240722.yaml
 - :code: device-posture
   :stage: WD
   :date: '20211104'
@@ -5704,6 +5738,12 @@
   :type: NOTE
   :date: '20010804'
   :file: data/note-esi-lang-20010804.yaml
+- :code: ethi-lreq
+  :file: data/ethi-lreq.yaml
+- :code: ethi-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-ethi-lreq-20240723.yaml
 - :code: ethical-web-principles
   :file: data/ethical-web-principles.yaml
 - :code: ethical-web-principles
@@ -6342,6 +6382,12 @@
   :stage: WD
   :date: '20200715'
   :file: data/wd-geor-gap-20200715.yaml
+- :code: geor-lreq
+  :file: data/geor-lreq.yaml
+- :code: geor-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-geor-lreq-20240723.yaml
 - :code: gov-data
   :file: data/gov-data.yaml
 - :code: gov-data
@@ -8149,6 +8195,12 @@
   :type: DNOTE
   :date: '20240710'
   :file: data/dnote-kore-gap-20240710.yaml
+- :code: kore-lreq
+  :file: data/kore-lreq.yaml
+- :code: kore-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-kore-lreq-20240723.yaml
 - :code: laoo-gap
   :file: data/laoo-gap.yaml
 - :code: laoo-gap
@@ -9408,6 +9460,12 @@
   :stage: WD
   :date: '20200616'
   :file: data/wd-mong-gap-20200616.yaml
+- :code: mong-lreq
+  :file: data/mong-lreq.yaml
+- :code: mong-lreq
+  :type: DNOTE
+  :date: '20240723'
+  :file: data/dnote-mong-lreq-20240723.yaml
 - :code: motion-1
   :file: data/motion-1.yaml
 - :code: motion-1
@@ -9439,8 +9497,8 @@
   :file: data/mse-byte-stream-format-isobmff.yaml
 - :code: mse-byte-stream-format-isobmff
   :type: NOTE
-  :date: '20240718'
-  :file: data/note-mse-byte-stream-format-isobmff-20240718.yaml
+  :date: '20240723'
+  :file: data/note-mse-byte-stream-format-isobmff-20240723.yaml
 - :code: mse-byte-stream-format-isobmff
   :type: NOTE
   :date: '20161004'
@@ -9449,8 +9507,8 @@
   :file: data/mse-byte-stream-format-mp2t.yaml
 - :code: mse-byte-stream-format-mp2t
   :type: NOTE
-  :date: '20240718'
-  :file: data/note-mse-byte-stream-format-mp2t-20240718.yaml
+  :date: '20240723'
+  :file: data/note-mse-byte-stream-format-mp2t-20240723.yaml
 - :code: mse-byte-stream-format-mp2t
   :type: NOTE
   :date: '20161004'
@@ -9459,8 +9517,8 @@
   :file: data/mse-byte-stream-format-mpeg-audio.yaml
 - :code: mse-byte-stream-format-mpeg-audio
   :type: NOTE
-  :date: '20240718'
-  :file: data/note-mse-byte-stream-format-mpeg-audio-20240718.yaml
+  :date: '20240723'
+  :file: data/note-mse-byte-stream-format-mpeg-audio-20240723.yaml
 - :code: mse-byte-stream-format-mpeg-audio
   :type: NOTE
   :date: '20161004'
@@ -9475,8 +9533,8 @@
   :file: data/mse-byte-stream-format-webm.yaml
 - :code: mse-byte-stream-format-webm
   :type: NOTE
-  :date: '20240718'
-  :file: data/note-mse-byte-stream-format-webm-20240718.yaml
+  :date: '20240723'
+  :file: data/note-mse-byte-stream-format-webm-20240723.yaml
 - :code: mse-byte-stream-format-webm
   :type: NOTE
   :date: '20161004'
@@ -16896,8 +16954,8 @@
   :file: data/webdriver2.yaml
 - :code: webdriver2
   :stage: WD
-  :date: '20240717'
-  :file: data/wd-webdriver2-20240717.yaml
+  :date: '20240723'
+  :file: data/wd-webdriver2-20240723.yaml
 - :code: webdriver2
   :stage: WD
   :date: '20220525'
@@ -17040,8 +17098,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20240719'
-  :file: data/crd-webnn-20240719.yaml
+  :date: '20240723'
+  :file: data/crd-webnn-20240723.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -17521,8 +17579,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20240704'
-  :file: data/wd-wgsl-20240704.yaml
+  :date: '20240723'
+  :file: data/wd-wgsl-20240723.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

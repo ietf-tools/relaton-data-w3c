@@ -1,0 +1,46 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-ethi-lreq-20240723
+title:
+- content: Ethiopic Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240723/
+  type: src
+- content: https://w3c.github.io/elreq/ethi/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-ethi-lreq-20240723
+  type: W3C
+  primary: true
+docnumber: DNOTE-ethi-lreq-20240723
+date:
+- type: published
+  value: '2024-07-23'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-23'
+language:
+- en
+script:
+- Latn
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-ethi-lreq-20240723
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

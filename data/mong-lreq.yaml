@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cmong-lreq
+title:
+- content: Mongolian Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/mong-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C mong-lreq
+  type: W3C
+  primary: true
+docnumber: mong-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-mong-lreq-20240723
+    docid:
+    - id: W3C DNOTE-mong-lreq-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-mong-lreq-20240723
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: mong-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

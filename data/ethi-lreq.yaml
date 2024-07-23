@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cethi-lreq
+title:
+- content: Ethiopic Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/ethi-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C ethi-lreq
+  type: W3C
+  primary: true
+docnumber: ethi-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-ethi-lreq-20240723
+    docid:
+    - id: W3C DNOTE-ethi-lreq-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-ethi-lreq-20240723
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: ethi-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

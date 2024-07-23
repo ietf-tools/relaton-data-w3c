@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Ccyrl-gap
+title:
+- content: Cyrillic Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/cyrl-gap/
+  type: src
+type: standard
+docid:
+- id: W3C cyrl-gap
+  type: W3C
+  primary: true
+docnumber: cyrl-gap
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-cyrl-gap-20240723
+    docid:
+    - id: W3C DNOTE-cyrl-gap-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-cyrl-gap-20240723
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: cyrl-gap
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

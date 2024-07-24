@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-HTTP-in-RDF-20070323
-    docid:
-    - id: W3C WD-HTTP-in-RDF-20070323
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-HTTP-in-RDF-20070323
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-HTTP-in-RDF-20080908
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-HTTP-in-RDF-20080908
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-HTTP-in-RDF-20070323
+    docid:
+    - id: W3C WD-HTTP-in-RDF-20070323
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-HTTP-in-RDF-20070323
       format: text/plain
 series:
 - title:

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-turingtest-20031105
-    docid:
-    - id: W3C WD-turingtest-20031105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-turingtest-20031105
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-turingtest-20051123
     docid:
     - id: W3C NOTE-turingtest-20051123
@@ -50,13 +40,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-turingtest-20191209
+    id: W3CWD-turingtest-20031105
     docid:
-    - id: W3C NOTE-turingtest-20191209
+    - id: W3C WD-turingtest-20031105
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-turingtest-20191209
+      content: W3C WD-turingtest-20031105
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-turingtest-20180703
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-turingtest-20191209
+    docid:
+    - id: W3C NOTE-turingtest-20191209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-turingtest-20191209
       format: text/plain
 series:
 - title:

@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-generic-sensor-20171018
+    docid:
+    - id: W3C WD-generic-sensor-20171018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-generic-sensor-20171018
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-generic-sensor-20211215
     docid:
     - id: W3C CRD-generic-sensor-20211215
@@ -40,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-generic-sensor-20211215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-generic-sensor-20180320
+    docid:
+    - id: W3C CR-generic-sensor-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-generic-sensor-20180320
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,36 +83,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-generic-sensor-20151015
-    docid:
-    - id: W3C WD-generic-sensor-20151015
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-generic-sensor-20151015
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-generic-sensor-20180320
-    docid:
-    - id: W3C CR-generic-sensor-20180320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-generic-sensor-20180320
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-generic-sensor-20171018
-    docid:
-    - id: W3C WD-generic-sensor-20171018
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-generic-sensor-20171018
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-generic-sensor-20160830
     docid:
     - id: W3C WD-generic-sensor-20160830
@@ -100,6 +90,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-generic-sensor-20160830
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-generic-sensor-20151015
+    docid:
+    - id: W3C WD-generic-sensor-20151015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-generic-sensor-20151015
       format: text/plain
 series:
 - title:

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-xhtml-rdfa-primer-20071026
-    docid:
-    - id: W3C WD-xhtml-rdfa-primer-20071026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-xhtml-rdfa-primer-20071026
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xhtml-rdfa-primer-20060516
     docid:
     - id: W3C WD-xhtml-rdfa-primer-20060516
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xhtml-rdfa-primer-20060516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-xhtml-rdfa-primer-20071026
+    docid:
+    - id: W3C WD-xhtml-rdfa-primer-20071026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-xhtml-rdfa-primer-20071026
       format: text/plain
 series:
 - title:

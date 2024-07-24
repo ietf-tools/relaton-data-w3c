@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-mobileOK-basic10-tests-20071130
-    docid:
-    - id: W3C CR-mobileOK-basic10-tests-20071130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-mobileOK-basic10-tests-20071130
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mobileOK-basic10-tests-20061113
     docid:
     - id: W3C WD-mobileOK-basic10-tests-20061113
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mobileOK-basic10-tests-20061113
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-mobileOK-basic10-tests-20071130
+    docid:
+    - id: W3C CR-mobileOK-basic10-tests-20071130
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-mobileOK-basic10-tests-20071130
       format: text/plain
 series:
 - title:

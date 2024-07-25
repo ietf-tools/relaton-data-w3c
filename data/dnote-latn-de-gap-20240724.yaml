@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-ilreq-taml-20240702
+id: W3CDNOTE-latn-de-gap-20240724
 title:
-- content: Tamil Layout Requirements
+- content: German Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240702/
+- content: https://www.w3.org/TR/2024/DNOTE-latn-de-gap-20240724/
   type: src
-- content: https://w3c.github.io/iip/tamil/
+- content: https://w3c.github.io/eurlreq/gap-analysis/latn-de-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-ilreq-taml-20240702
+- id: W3C DNOTE-latn-de-gap-20240724
   type: W3C
   primary: true
-docnumber: DNOTE-ilreq-taml-20240702
+docnumber: DNOTE-latn-de-gap-20240724
 date:
 - type: published
-  value: '2024-07-02'
+  value: '2024-07-24'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-02'
+revdate: '2024-07-24'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-ilreq-taml-20240515
+    id: W3CDNOTE-latn-de-gap-20230614
     docid:
-    - id: W3C DNOTE-ilreq-taml-20240515
+    - id: W3C DNOTE-latn-de-gap-20230614
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-ilreq-taml-20240515
+      content: W3C DNOTE-latn-de-gap-20230614
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-ilreq-taml-20240702
+  number: DNOTE-latn-de-gap-20240724
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

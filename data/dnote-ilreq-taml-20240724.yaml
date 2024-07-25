@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-latn-nl-gap-20230614
+id: W3CDNOTE-ilreq-taml-20240724
 title:
-- content: Dutch Gap Analysis
+- content: Tamil Layout Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/DNOTE-latn-nl-gap-20230614/
+- content: https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240724/
   type: src
-- content: https://w3c.github.io/eurlreq/gap-analysis/latn-nl-gap
+- content: https://w3c.github.io/iip/tamil/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-latn-nl-gap-20230614
+- id: W3C DNOTE-ilreq-taml-20240724
   type: W3C
   primary: true
-docnumber: DNOTE-latn-nl-gap-20230614
+docnumber: DNOTE-ilreq-taml-20240724
 date:
 - type: published
-  value: '2023-06-14'
+  value: '2024-07-24'
 contributor:
-- person:
-    name:
-      completename:
-        content: Bert Bos
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-06-14'
+revdate: '2024-07-24'
 language:
 - en
 script:
@@ -47,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-latn-nl-gap-20230530
+    id: W3CDNOTE-ilreq-taml-20240702
     docid:
-    - id: W3C DNOTE-latn-nl-gap-20230530
+    - id: W3C DNOTE-ilreq-taml-20240702
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-latn-nl-gap-20230530
+      content: W3C DNOTE-ilreq-taml-20240702
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-latn-nl-gap-20230614
+  number: DNOTE-ilreq-taml-20240724
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

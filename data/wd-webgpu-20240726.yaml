@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webnn-20240724
+id: W3CWD-webgpu-20240726
 title:
-- content: Web Neural Network API
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webnn-20240724/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240726/
   type: src
-- content: https://webmachinelearning.github.io/webnn/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webnn-20240724
+- id: W3C WD-webgpu-20240726
   type: W3C
   primary: true
-docnumber: CRD-webnn-20240724
+docnumber: WD-webgpu-20240726
 date:
 - type: published
-  value: '2024-07-24'
+  value: '2024-07-26'
 contributor:
 - person:
     name:
       completename:
-        content: Dwayne Robinson
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,39 +32,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Ningxin Hu
+        content: Jim Blandy
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-24'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-26'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webnn-20240723
+    id: W3CWD-webgpu-20240725
     docid:
-    - id: W3C CRD-webnn-20240723
+    - id: W3C WD-webgpu-20240725
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20240723
+      content: W3C WD-webgpu-20240725
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webnn-20240724
+  number: WD-webgpu-20240726
 doctype: technicalReport
 editorialgroup:
-- name: Web Machine Learning Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

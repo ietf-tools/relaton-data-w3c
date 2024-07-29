@@ -26194,11 +26194,6 @@
     :date: '20240229'
   :file: data/wd-css-color-5-20240229.yaml
 - :id:
-    :code: navigation-timing-2
-    :stage: WD
-    :date: '20240307'
-  :file: data/wd-navigation-timing-2-20240307.yaml
-- :id:
     :code: css-backgrounds-3
     :stage: CRD
     :date: '20240311'
@@ -27279,35 +27274,25 @@
     :date: '20240724'
   :file: data/dnote-latn-fr-gap-20240724.yaml
 - :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240726'
-  :file: data/wd-credential-management-1-20240726.yaml
+    :code: webnn
+    :stage: CRD
+    :date: '20240727'
+  :file: data/crd-webnn-20240727.yaml
 - :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-hu-gap-20240724.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
+    :code: vc-data-integrity
+    :stage: CRD
     :date: '20240727'
-  :file: data/wd-webgpu-20240727.yaml
+  :file: data/crd-vc-data-integrity-20240727.yaml
 - :id:
     :code: latn-ca-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-ca-gap-20240724.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240727'
-  :file: data/crd-webnn-20240727.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240727'
-  :file: data/crd-vc-data-integrity-20240727.yaml
 - :id:
     :code: vc-data-model-2.0
     :stage: CRD
@@ -27318,6 +27303,21 @@
     :stage: WD
     :date: '20240727'
   :file: data/wd-controller-document-20240727.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240729'
+  :file: data/wd-credential-management-1-20240729.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240729'
+  :file: data/wd-webgpu-20240729.yaml
+- :id:
+    :code: navigation-timing-2
+    :stage: WD
+    :date: '20240729'
+  :file: data/wd-navigation-timing-2-20240729.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27631,11 +27631,11 @@
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
-    :code: latn-ca-gap
-  :file: data/latn-ca-gap.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
+- :id:
+    :code: latn-ca-gap
+  :file: data/latn-ca-gap.yaml
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml

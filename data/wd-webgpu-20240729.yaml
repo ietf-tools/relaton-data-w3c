@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-credential-management-1-20240726
+id: W3CWD-webgpu-20240729
 title:
-- content: Credential Management Level 1
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-credential-management-1-20240726/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240729/
   type: src
-- content: https://w3c.github.io/webappsec-credential-management/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-credential-management-1-20240726
+- id: W3C WD-webgpu-20240729
   type: W3C
   primary: true
-docnumber: WD-credential-management-1-20240726
+docnumber: WD-webgpu-20240729
 date:
 - type: published
-  value: '2024-07-26'
+  value: '2024-07-29'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Nina Satragno
+        content: Jim Blandy
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-26'
+- person:
+    name:
+      completename:
+        content: Kai Ninomiya
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-29'
 language:
 - en
 script:
@@ -50,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-credential-management-1-20240724
+    id: W3CWD-webgpu-20240727
     docid:
-    - id: W3C WD-credential-management-1-20240724
+    - id: W3C WD-webgpu-20240727
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-credential-management-1-20240724
+      content: W3C WD-webgpu-20240727
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-credential-management-1-20240726
+  number: WD-webgpu-20240729
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: GPU for the Web Working Group
 ext:
   schema-version: v1.0.0

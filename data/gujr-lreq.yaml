@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cgujr-lreq
+title:
+- content: Gujarati Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/gujr-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C gujr-lreq
+  type: W3C
+  primary: true
+docnumber: gujr-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-gujr-lreq-20240730
+    docid:
+    - id: W3C DNOTE-gujr-lreq-20240730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-gujr-lreq-20240730
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: gujr-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

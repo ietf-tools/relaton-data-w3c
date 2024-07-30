@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cgrek-lreq
+title:
+- content: Greek Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/grek-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C grek-lreq
+  type: W3C
+  primary: true
+docnumber: grek-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-grek-lreq-20240730
+    docid:
+    - id: W3C DNOTE-grek-lreq-20240730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-grek-lreq-20240730
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: grek-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

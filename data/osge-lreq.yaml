@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cosge-lreq
+title:
+- content: Osage Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/osge-lreq/
+  type: src
+type: standard
+docid:
+- id: W3C osge-lreq
+  type: W3C
+  primary: true
+docnumber: osge-lreq
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CDNOTE-osge-lreq-20240730
+    docid:
+    - id: W3C DNOTE-osge-lreq-20240730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-osge-lreq-20240730
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: osge-lreq
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

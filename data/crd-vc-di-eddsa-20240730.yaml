@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20240724
+id: W3CCRD-vc-di-eddsa-20240730
 title:
-- content: WebGPU Shading Language
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20240724/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20240730/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20240724
+- id: W3C CRD-vc-di-eddsa-20240730
   type: W3C
   primary: true
-docnumber: WD-WGSL-20240724
+docnumber: CRD-vc-di-eddsa-20240730
 date:
 - type: published
-  value: '2024-07-24'
+  value: '2024-07-30'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -42,39 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-24'
+- person:
+    name:
+      completename:
+        content: Sebastian Crane
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-07-30'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20240723
+    id: W3CCRD-vc-di-eddsa-20240630
     docid:
-    - id: W3C WD-WGSL-20240723
+    - id: W3C CRD-vc-di-eddsa-20240630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20240723
+      content: W3C CRD-vc-di-eddsa-20240630
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20240724
+  number: CRD-vc-di-eddsa-20240730
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

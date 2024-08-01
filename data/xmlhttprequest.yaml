@@ -30,26 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-XMLHttpRequest-20100803
-    docid:
-    - id: W3C CR-XMLHttpRequest-20100803
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-XMLHttpRequest-20100803
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-XMLHttpRequest-20080415
-    docid:
-    - id: W3C WD-XMLHttpRequest-20080415
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-XMLHttpRequest-20080415
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-XMLHttpRequest-20121206
     docid:
     - id: W3C WD-XMLHttpRequest-20121206
@@ -60,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-XMLHttpRequest-20100803
+    docid:
+    - id: W3C CR-XMLHttpRequest-20100803
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-XMLHttpRequest-20100803
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-XMLHttpRequest-20060927
     docid:
     - id: W3C WD-XMLHttpRequest-20060927
@@ -67,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-XMLHttpRequest-20060927
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-XMLHttpRequest-20071026
-    docid:
-    - id: W3C WD-XMLHttpRequest-20071026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-XMLHttpRequest-20071026
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -97,6 +77,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-XMLHttpRequest-20140130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-XMLHttpRequest-20080415
+    docid:
+    - id: W3C WD-XMLHttpRequest-20080415
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-XMLHttpRequest-20080415
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-XMLHttpRequest-20071026
+    docid:
+    - id: W3C WD-XMLHttpRequest-20071026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-XMLHttpRequest-20071026
       format: text/plain
 series:
 - title:

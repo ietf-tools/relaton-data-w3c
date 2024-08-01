@@ -32,16 +32,6 @@ relation:
     formattedref:
       content: W3C WD-webauthn-20171205
       format: text/plain
-- type: instance
-  bibitem:
-    id: W3CCR-webauthn-20180807
-    docid:
-    - id: W3C CR-webauthn-20180807
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webauthn-20180807
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-webauthn-20161207
@@ -51,6 +41,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webauthn-20161207
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-webauthn-20180807
+    docid:
+    - id: W3C CR-webauthn-20180807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webauthn-20180807
       format: text/plain
 series:
 - title:

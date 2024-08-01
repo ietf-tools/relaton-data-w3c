@@ -5,7 +5,7 @@ title:
 - content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/webdriver/
+- content: http://www.w3.org/TR/webdriver/
   type: src
 type: standard
 docid:
@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CCR-webdriver-20170330
-    docid:
-    - id: W3C CR-webdriver-20170330
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-webdriver-20170330
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-webdriver-20120710
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webdriver-20120710
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-webdriver-20170330
+    docid:
+    - id: W3C CR-webdriver-20170330
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-webdriver-20170330
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,7 +73,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
   number: webdriver
 doctype: technicalReport

@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-rif-owl-rl-20100622
-    docid:
-    - id: W3C NOTE-rif-owl-rl-20100622
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-rif-owl-rl-20100622
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-rif-owl-rl-20121211
     docid:
     - id: W3C NOTE-rif-owl-rl-20121211
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-rif-owl-rl-20121211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-rif-owl-rl-20100622
+    docid:
+    - id: W3C NOTE-rif-owl-rl-20100622
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-rif-owl-rl-20100622
       format: text/plain
 - type: hasEdition
   bibitem:

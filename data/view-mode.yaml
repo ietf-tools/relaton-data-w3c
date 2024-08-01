@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-view-mode-20110811
-    docid:
-    - id: W3C PR-view-mode-20110811
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-view-mode-20110811
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-view-mode-20100624
     docid:
     - id: W3C CR-view-mode-20100624
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-view-mode-20100624
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-view-mode-20110811
+    docid:
+    - id: W3C PR-view-mode-20110811
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-view-mode-20110811
       format: text/plain
 series:
 - title:

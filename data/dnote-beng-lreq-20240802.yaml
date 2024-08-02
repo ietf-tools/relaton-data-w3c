@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-beng-lreq-20240723
+id: W3CDNOTE-beng-lreq-20240802
 title:
 - content: Bengali Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240723/
+- content: https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240802/
   type: src
 - content: https://w3c.github.io/iip/beng/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-beng-lreq-20240723
+- id: W3C DNOTE-beng-lreq-20240802
   type: W3C
   primary: true
-docnumber: DNOTE-beng-lreq-20240723
+docnumber: DNOTE-beng-lreq-20240802
 date:
 - type: published
-  value: '2024-07-23'
+  value: '2024-08-02'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-23'
+revdate: '2024-08-02'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-beng-lreq-20240723
+    docid:
+    - id: W3C DNOTE-beng-lreq-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-beng-lreq-20240723
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-beng-lreq-20240723
+  number: DNOTE-beng-lreq-20240802
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

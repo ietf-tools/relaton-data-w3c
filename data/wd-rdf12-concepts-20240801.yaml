@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20240704
+id: W3CWD-rdf12-concepts-20240801
 title:
 - content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-rdf12-concepts-20240704/
+- content: https://www.w3.org/TR/2024/WD-rdf12-concepts-20240801/
   type: src
 - content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20240704
+- id: W3C WD-rdf12-concepts-20240801
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20240704
+docnumber: WD-rdf12-concepts-20240801
 date:
 - type: published
-  value: '2024-07-04'
+  value: '2024-08-01'
 contributor:
 - person:
     name:
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-04'
+revdate: '2024-08-01'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20240627
+    id: W3CWD-rdf12-concepts-20240704
     docid:
-    - id: W3C WD-rdf12-concepts-20240627
+    - id: W3C WD-rdf12-concepts-20240704
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20240627
+      content: W3C WD-rdf12-concepts-20240704
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20240704
+  number: WD-rdf12-concepts-20240801
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20240727
+id: W3CWD-accname-1.2-20240802
 title:
-- content: Controller Documents 1.0
+- content: Accessible Name and Description Computation 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-controller-document-20240727/
+- content: https://www.w3.org/TR/2024/WD-accname-1.2-20240802/
   type: src
-- content: https://w3c.github.io/controller-document/
+- content: https://w3c.github.io/accname/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20240727
+- id: W3C WD-accname-1.2-20240802
   type: W3C
   primary: true
-docnumber: WD-controller-document-20240727
+docnumber: WD-accname-1.2-20240802
 date:
 - type: published
-  value: '2024-07-27'
+  value: '2024-08-02'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Bryan Garaventa
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Melanie Sumner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-27'
+revdate: '2024-08-02'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20240630
+    id: W3CWD-accname-1.2-20240710
     docid:
-    - id: W3C WD-controller-document-20240630
+    - id: W3C WD-accname-1.2-20240710
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20240630
+      content: W3C WD-accname-1.2-20240710
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-controller-document-20240727
+  number: WD-accname-1.2-20240802
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

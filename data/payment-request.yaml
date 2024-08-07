@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-payment-request-20220908
     docid:
@@ -30,6 +30,36 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-payment-request-20220908
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-payment-request-20240807
+    docid:
+    - id: W3C CRD-payment-request-20240807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-payment-request-20240807
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-payment-request-20191212
+    docid:
+    - id: W3C CR-payment-request-20191212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-payment-request-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-payment-request-20210930
+    docid:
+    - id: W3C PR-payment-request-20210930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-payment-request-20210930
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,16 +83,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-payment-request-20210930
-    docid:
-    - id: W3C PR-payment-request-20210930
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-payment-request-20210930
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-payment-request-20161214
     docid:
     - id: W3C WD-payment-request-20161214
@@ -80,16 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-payment-request-20180830
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-payment-request-20191212
-    docid:
-    - id: W3C CR-payment-request-20191212
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-payment-request-20191212
       format: text/plain
 series:
 - title:

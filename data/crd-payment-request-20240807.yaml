@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-HTTP-in-RDF10-20110510
+id: W3CCRD-payment-request-20240807
 title:
-- content: HTTP Vocabulary in RDF 1.0
+- content: Payment Request API
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2011/WD-HTTP-in-RDF10-20110510/
+- content: https://www.w3.org/TR/2024/CRD-payment-request-20240807/
   type: src
+- content: https://w3c.github.io/payment-request/
+  type: current
 type: standard
 docid:
-- id: W3C WD-HTTP-in-RDF10-20110510
+- id: W3C CRD-payment-request-20240807
   type: W3C
   primary: true
-docnumber: WD-HTTP-in-RDF10-20110510
+docnumber: CRD-payment-request-20240807
 date:
 - type: published
-  value: '2011-05-10'
+  value: '2024-08-07'
 contributor:
 - person:
     name:
       completename:
-        content: Carlos A. Velasco
+        content: Ian Jacobs
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Johannes Koch
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -40,39 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Philip Ackermann
+        content: Rouslan Solomakhin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2011-05-10'
+revdate: '2024-08-07'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-HTTP-in-RDF10-20091029
+    id: W3CCR-payment-request-20240806
     docid:
-    - id: W3C WD-HTTP-in-RDF10-20091029
+    - id: W3C CR-payment-request-20240806
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-HTTP-in-RDF10-20091029
+      content: W3C CR-payment-request-20240806
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-HTTP-in-RDF10-20110510
+  number: CRD-payment-request-20240807
 doctype: technicalReport
 editorialgroup:
-- name: Evaluation and Repair Tools Working Group
+- name: Web Payments Working Group
 ext:
   schema-version: v1.0.0

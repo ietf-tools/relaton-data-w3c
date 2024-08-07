@@ -2,7 +2,9 @@
 schema-version: v1.2.3
 id: W3Cwsdl12-bindings
 title:
-- content: 'Web Services Description Language (WSDL) Version 1.2 Part 3: Bindings'
+- content: |-
+    Web Services Description Language (WSDL) Version 1.2:
+    Bindings
   format: text/plain
 link:
 - content: http://www.w3.org/TR/wsdl12-bindings
@@ -21,16 +23,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-wsdl12-bindings-20030611
-    docid:
-    - id: W3C WD-wsdl12-bindings-20030611
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wsdl12-bindings-20030611
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-wsdl12-bindings-20020709
@@ -40,6 +32,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-wsdl12-bindings-20020709
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CWD-wsdl12-bindings-20030611
+    docid:
+    - id: W3C WD-wsdl12-bindings-20030611
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wsdl12-bindings-20030611
       format: text/plain
 series:
 - title:

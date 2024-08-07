@@ -21,6 +21,16 @@ docstatus:
   stage:
     value: workingDraft
 relation:
+- type: instance
+  bibitem:
+    id: W3CWD-selectors4-20130502
+    docid:
+    - id: W3C WD-selectors4-20130502
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selectors4-20130502
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-selectors4-20120823
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-selectors4-20110929
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CWD-selectors4-20130502
-    docid:
-    - id: W3C WD-selectors4-20130502
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selectors4-20130502
       format: text/plain
 series:
 - title:

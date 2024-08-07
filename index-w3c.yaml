@@ -3411,12 +3411,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -10536,6 +10536,10 @@
   :date: '20170921'
   :file: data/cr-payment-request-20170921.yaml
 - :code: payment-request
+  :stage: CRD
+  :date: '20240807'
+  :file: data/crd-payment-request-20240807.yaml
+- :code: payment-request
   :stage: WD
   :date: '20161214'
   :file: data/wd-payment-request-20161214.yaml
@@ -15397,8 +15401,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240805'
-  :file: data/crd-vc-data-model-2.0-20240805.yaml
+  :date: '20240806'
+  :file: data/crd-vc-data-model-2.0-20240806.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs

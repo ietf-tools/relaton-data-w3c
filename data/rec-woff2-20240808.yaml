@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CREC-WOFF2-20240808
+title:
+- content: WOFF File Format 2.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/REC-WOFF2-20240808/
+  type: src
+- content: https://w3c.github.io/woff/woff2/
+  type: current
+type: standard
+docid:
+- id: W3C REC-WOFF2-20240808
+  type: W3C
+  primary: true
+docnumber: REC-WOFF2-20240808
+date:
+- type: published
+  value: '2024-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Vladimir Levantovsky
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-08-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CREC-WOFF2-20220310
+    docid:
+    - id: W3C REC-WOFF2-20220310
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-WOFF2-20220310
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-WOFF2-20240808
+doctype: technicalReport
+editorialgroup:
+- name: Web Fonts Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-cher-lreq-20240730
+id: W3CDNOTE-cher-lreq-20240808
 title:
 - content: Cherokee Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240730/
+- content: https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240808/
   type: src
 - content: https://w3c.github.io/amlreq/cher/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-cher-lreq-20240730
+- id: W3C DNOTE-cher-lreq-20240808
   type: W3C
   primary: true
-docnumber: DNOTE-cher-lreq-20240730
+docnumber: DNOTE-cher-lreq-20240808
 date:
 - type: published
-  value: '2024-07-30'
+  value: '2024-08-08'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-30'
+revdate: '2024-08-08'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-cher-lreq-20240730
+    docid:
+    - id: W3C DNOTE-cher-lreq-20240730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-cher-lreq-20240730
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-cher-lreq-20240730
+  number: DNOTE-cher-lreq-20240808
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

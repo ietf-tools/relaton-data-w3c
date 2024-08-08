@@ -41,7 +41,7 @@ relation:
     formattedref:
       content: W3C REC-WOFF2-20210706
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-WOFF2-20220310
     docid:
@@ -50,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-WOFF2-20220310
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-WOFF2-20240808
+    docid:
+    - id: W3C REC-WOFF2-20240808
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-WOFF2-20240808
       format: text/plain
 - type: hasEdition
   bibitem:

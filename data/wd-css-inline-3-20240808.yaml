@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-inline-3-20230401
+id: W3CWD-css-inline-3-20240808
 title:
 - content: CSS Inline Layout Module Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-css-inline-3-20230401/
+- content: https://www.w3.org/TR/2024/WD-css-inline-3-20240808/
   type: src
 - content: https://drafts.csswg.org/css-inline-3/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-inline-3-20230401
+- id: W3C WD-css-inline-3-20240808
   type: W3C
   primary: true
-docnumber: WD-css-inline-3-20230401
+docnumber: WD-css-inline-3-20240808
 date:
 - type: published
-  value: '2023-04-01'
+  value: '2024-08-08'
 contributor:
-- person:
-    name:
-      completename:
-        content: Dave Cramer
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2023-04-01'
+revdate: '2024-08-08'
 language:
 - en
 script:
@@ -50,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-inline-3-20221114
+    id: W3CWD-css-inline-3-20230401
     docid:
-    - id: W3C WD-css-inline-3-20221114
+    - id: W3C WD-css-inline-3-20230401
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-inline-3-20221114
+      content: W3C WD-css-inline-3-20230401
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-inline-3-20230401
+  number: WD-css-inline-3-20240808
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

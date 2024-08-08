@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-hani-lreq-20240716
+id: W3CDNOTE-hani-lreq-20240808
 title:
 - content: Chinese Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240716/
+- content: https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240808/
   type: src
 - content: https://www.w3.org/International/clreq/resources/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-hani-lreq-20240716
+- id: W3C DNOTE-hani-lreq-20240808
   type: W3C
   primary: true
-docnumber: DNOTE-hani-lreq-20240716
+docnumber: DNOTE-hani-lreq-20240808
 date:
 - type: published
-  value: '2024-07-16'
+  value: '2024-08-08'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-16'
+revdate: '2024-08-08'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-hani-lreq-20240716
+    docid:
+    - id: W3C DNOTE-hani-lreq-20240716
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-hani-lreq-20240716
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-hani-lreq-20240716
+  number: DNOTE-hani-lreq-20240808
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

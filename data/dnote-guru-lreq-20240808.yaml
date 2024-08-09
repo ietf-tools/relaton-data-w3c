@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-beng-lreq-20240802
+id: W3CDNOTE-guru-lreq-20240808
 title:
-- content: Bengali Script Resources
+- content: Gurmukhi Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240802/
+- content: https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240808/
   type: src
-- content: https://w3c.github.io/iip/beng/
+- content: https://w3c.github.io/iip/guru/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-beng-lreq-20240802
+- id: W3C DNOTE-guru-lreq-20240808
   type: W3C
   primary: true
-docnumber: DNOTE-beng-lreq-20240802
+docnumber: DNOTE-guru-lreq-20240808
 date:
 - type: published
-  value: '2024-08-02'
+  value: '2024-08-08'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-02'
+revdate: '2024-08-08'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-beng-lreq-20240723
+    id: W3CDNOTE-guru-lreq-20240719
     docid:
-    - id: W3C DNOTE-beng-lreq-20240723
+    - id: W3C DNOTE-guru-lreq-20240719
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-beng-lreq-20240723
+      content: W3C DNOTE-guru-lreq-20240719
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-beng-lreq-20240802
+  number: DNOTE-guru-lreq-20240808
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

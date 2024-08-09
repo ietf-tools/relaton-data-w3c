@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-kore-lreq-20240723
+id: W3CDNOTE-kore-lreq-20240808
 title:
 - content: Korean Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240723/
+- content: https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240808/
   type: src
 - content: https://w3c.github.io/klreq/kore/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-kore-lreq-20240723
+- id: W3C DNOTE-kore-lreq-20240808
   type: W3C
   primary: true
-docnumber: DNOTE-kore-lreq-20240723
+docnumber: DNOTE-kore-lreq-20240808
 date:
 - type: published
-  value: '2024-07-23'
+  value: '2024-08-08'
 contributor:
 - person:
     name:
@@ -29,16 +29,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-23'
+revdate: '2024-08-08'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-kore-lreq-20240723
+    docid:
+    - id: W3C DNOTE-kore-lreq-20240723
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-kore-lreq-20240723
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-kore-lreq-20240723
+  number: DNOTE-kore-lreq-20240808
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

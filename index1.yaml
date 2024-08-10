@@ -25654,11 +25654,6 @@
     :date: '20230330'
   :file: data/cr-css-display-3-20230330.yaml
 - :id:
-    :code: css-position-3
-    :stage: WD
-    :date: '20230403'
-  :file: data/wd-css-position-3-20230403.yaml
-- :id:
     :code: css-box-3
     :stage: REC
     :date: '20230406'
@@ -25978,11 +25973,6 @@
     :stage: CRD
     :date: '20231106'
   :file: data/crd-user-timing-20231106.yaml
-- :id:
-    :code: reporting-1
-    :stage: WD
-    :date: '20231110'
-  :file: data/wd-reporting-1-20231110.yaml
 - :id:
     :code: secure-contexts
     :stage: CRD
@@ -27229,10 +27219,10 @@
     :date: '20240808'
   :file: data/wd-media-capabilities-20240808.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
+    :code: rdf12-n-quads
+    :stage: WD
     :date: '20240808'
-  :file: data/crd-vc-data-model-2.0-20240808.yaml
+  :file: data/wd-rdf12-n-quads-20240808.yaml
 - :id:
     :code: cans-lreq
     :type: DNOTE
@@ -27244,60 +27234,40 @@
     :date: '20240808'
   :file: data/dnote-cher-lreq-20240808.yaml
 - :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20240808'
+  :file: data/wd-rdf12-n-triples-20240808.yaml
+- :id:
     :code: osge-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-osge-lreq-20240808.yaml
-- :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-quads-20240808.yaml
 - :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-hani-lreq-20240808.yaml
 - :id:
-    :code: ethi-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-ethi-lreq-20240808.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-triples-20240808.yaml
-- :id:
-    :code: cyrl-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-cyrl-lreq-20240808.yaml
-- :id:
-    :code: geor-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-geor-lreq-20240808.yaml
-- :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20240808'
   :file: data/wd-rdf12-turtle-20240808.yaml
 - :id:
-    :code: grek-lreq
+    :code: ethi-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-grek-lreq-20240808.yaml
+  :file: data/dnote-ethi-lreq-20240808.yaml
 - :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
 - :id:
-    :code: latn-lreq
+    :code: cyrl-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-latn-lreq-20240808.yaml
+  :file: data/dnote-cyrl-lreq-20240808.yaml
 - :id:
     :code: wasm-web-api-2
     :stage: WD
@@ -27308,6 +27278,31 @@
     :stage: WD
     :date: '20240809'
   :file: data/wd-wasm-core-2-20240809.yaml
+- :id:
+    :code: geor-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-geor-lreq-20240808.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-grek-lreq-20240808.yaml
+- :id:
+    :code: reporting-1
+    :stage: WD
+    :date: '20240809'
+  :file: data/wd-reporting-1-20240809.yaml
+- :id:
+    :code: latn-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-latn-lreq-20240808.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240809'
+  :file: data/crd-vc-data-model-2.0-20240809.yaml
 - :id:
     :code: hebr-lreq
     :type: DNOTE
@@ -27324,6 +27319,11 @@
     :date: '20240808'
   :file: data/dnote-deva-lreq-20240808.yaml
 - :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240809'
+  :file: data/rec-geolocation-20240809.yaml
+- :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20240808'
@@ -27333,6 +27333,11 @@
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-guru-lreq-20240808.yaml
+- :id:
+    :code: css-position-3
+    :stage: WD
+    :date: '20240810'
+  :file: data/wd-css-position-3-20240810.yaml
 - :id:
     :code: taml-lreq
     :type: DNOTE
@@ -27649,8 +27654,8 @@
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
 - :id:
     :code: cans-lreq
   :file: data/cans-lreq.yaml
@@ -27658,20 +27663,20 @@
     :code: cher-lreq
   :file: data/cher-lreq.yaml
 - :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
+- :id:
     :code: osge-lreq
   :file: data/osge-lreq.yaml
-- :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
 - :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml
 - :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
     :code: ethi-lreq
   :file: data/ethi-lreq.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: cyrl-lreq
   :file: data/cyrl-lreq.yaml
@@ -27679,14 +27684,14 @@
     :code: geor-lreq
   :file: data/geor-lreq.yaml
 - :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
-- :id:
     :code: grek-lreq
   :file: data/grek-lreq.yaml
 - :id:
     :code: latn-lreq
   :file: data/latn-lreq.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: hebr-lreq
   :file: data/hebr-lreq.yaml

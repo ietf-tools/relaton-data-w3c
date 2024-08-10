@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-reporting-1-20231110
+id: W3CREC-geolocation-20240809
 title:
-- content: Reporting API
+- content: Geolocation
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-reporting-1-20231110/
+- content: https://www.w3.org/TR/2024/REC-geolocation-20240809/
   type: src
-- content: https://w3c.github.io/reporting/
+- content: https://w3c.github.io/geolocation/
   type: current
 type: standard
 docid:
-- id: W3C WD-reporting-1-20231110
+- id: W3C REC-geolocation-20240809
   type: W3C
   primary: true
-docnumber: WD-reporting-1-20231110
+docnumber: REC-geolocation-20240809
 date:
 - type: published
-  value: '2023-11-10'
+  value: '2024-08-09'
 contributor:
 - person:
     name:
       completename:
-        content: Douglas Creager
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,47 +32,40 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Clelland
+        content: Reilly Grant
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mike West
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-11-10'
+revdate: '2024-08-09'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-reporting-1-20230512
+    id: W3CREC-geolocation-20240702
     docid:
-    - id: W3C WD-reporting-1-20230512
+    - id: W3C REC-geolocation-20240702
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-reporting-1-20230512
+      content: W3C REC-geolocation-20240702
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-reporting-1-20231110
+  number: REC-geolocation-20240809
 doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

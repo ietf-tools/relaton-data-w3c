@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-reporting-1-20240809
+id: W3CWD-reporting-1-20240813
 title:
 - content: Reporting API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-reporting-1-20240809/
+- content: https://www.w3.org/TR/2024/WD-reporting-1-20240813/
   type: src
 - content: https://w3c.github.io/reporting/
   type: current
 type: standard
 docid:
-- id: W3C WD-reporting-1-20240809
+- id: W3C WD-reporting-1-20240813
   type: W3C
   primary: true
-docnumber: WD-reporting-1-20240809
+docnumber: WD-reporting-1-20240813
 date:
 - type: published
-  value: '2024-08-09'
+  value: '2024-08-13'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-09'
+revdate: '2024-08-13'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-reporting-1-20231110
+    id: W3CWD-reporting-1-20240809
     docid:
-    - id: W3C WD-reporting-1-20231110
+    - id: W3C WD-reporting-1-20240809
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-reporting-1-20231110
+      content: W3C WD-reporting-1-20240809
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-reporting-1-20240809
+  number: WD-reporting-1-20240813
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

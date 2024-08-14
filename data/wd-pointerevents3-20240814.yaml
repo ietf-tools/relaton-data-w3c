@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-credential-management-1-20240729
+id: W3CWD-pointerevents3-20240814
 title:
-- content: Credential Management Level 1
+- content: Pointer Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-credential-management-1-20240729/
+- content: https://www.w3.org/TR/2024/WD-pointerevents3-20240814/
   type: src
-- content: https://w3c.github.io/webappsec-credential-management/
+- content: https://w3c.github.io/pointerevents/
   type: current
 type: standard
 docid:
-- id: W3C WD-credential-management-1-20240729
+- id: W3C WD-pointerevents3-20240814
   type: W3C
   primary: true
-docnumber: WD-credential-management-1-20240729
+docnumber: WD-pointerevents3-20240814
 date:
 - type: published
-  value: '2024-07-29'
+  value: '2024-08-14'
 contributor:
 - person:
     name:
       completename:
-        content: Marcos Caceres
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Nina Satragno
+        content: Robert Flack
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-29'
+revdate: '2024-08-14'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-credential-management-1-20240726
+    id: W3CWD-pointerevents3-20240326
     docid:
-    - id: W3C WD-credential-management-1-20240726
+    - id: W3C WD-pointerevents3-20240326
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-credential-management-1-20240726
+      content: W3C WD-pointerevents3-20240326
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-credential-management-1-20240729
+  number: WD-pointerevents3-20240814
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Pointer Events Working Group
 ext:
   schema-version: v1.0.0

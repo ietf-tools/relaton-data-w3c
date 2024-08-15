@@ -27114,20 +27114,10 @@
     :date: '20240803'
   :file: data/wd-controller-document-20240803.yaml
 - :id:
-    :code: nkoo-lreq
-    :type: DNOTE
-    :date: '20240802'
-  :file: data/dnote-nkoo-lreq-20240802.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20240803'
   :file: data/crd-vc-data-integrity-20240803.yaml
-- :id:
-    :code: arab-lreq
-    :type: DNOTE
-    :date: '20240802'
-  :file: data/dnote-arab-lreq-20240802.yaml
 - :id:
     :code: css-box-4
     :stage: WD
@@ -27174,6 +27164,11 @@
     :date: '20240808'
   :file: data/dnote-cans-lreq-20240808.yaml
 - :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20240808'
+  :file: data/wd-rdf12-n-quads-20240808.yaml
+- :id:
     :code: cher-lreq
     :type: DNOTE
     :date: '20240808'
@@ -27184,65 +27179,35 @@
     :date: '20240808'
   :file: data/dnote-osge-lreq-20240808.yaml
 - :id:
-    :code: rdf12-n-quads
+    :code: rdf12-n-triples
     :stage: WD
     :date: '20240808'
-  :file: data/wd-rdf12-n-quads-20240808.yaml
+  :file: data/wd-rdf12-n-triples-20240808.yaml
 - :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-hani-lreq-20240808.yaml
 - :id:
-    :code: ethi-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-ethi-lreq-20240808.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-triples-20240808.yaml
-- :id:
     :code: cyrl-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cyrl-lreq-20240808.yaml
-- :id:
-    :code: geor-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-geor-lreq-20240808.yaml
 - :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20240808'
   :file: data/wd-rdf12-turtle-20240808.yaml
 - :id:
-    :code: grek-lreq
+    :code: geor-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-grek-lreq-20240808.yaml
+  :file: data/dnote-geor-lreq-20240808.yaml
 - :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
-- :id:
-    :code: latn-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-latn-lreq-20240808.yaml
-- :id:
-    :code: hebr-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-hebr-lreq-20240808.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240809'
-  :file: data/crd-vc-data-model-2.0-20240809.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
@@ -27254,15 +27219,15 @@
     :date: '20240808'
   :file: data/dnote-deva-lreq-20240808.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240809'
+  :file: data/crd-vc-data-model-2.0-20240809.yaml
+- :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-gujr-lreq-20240808.yaml
-- :id:
-    :code: geolocation
-    :stage: REC
-    :date: '20240809'
-  :file: data/rec-geolocation-20240809.yaml
 - :id:
     :code: guru-lreq
     :type: DNOTE
@@ -27274,15 +27239,30 @@
     :date: '20240808'
   :file: data/dnote-taml-lreq-20240808.yaml
 - :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240809'
+  :file: data/rec-geolocation-20240809.yaml
+- :id:
+    :code: kore-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-kore-lreq-20240808.yaml
+- :id:
+    :code: mong-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-mong-lreq-20240808.yaml
+- :id:
     :code: css-position-3
     :stage: WD
     :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
 - :id:
-    :code: jpan-lreq
+    :code: java-lreq
     :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-jpan-lreq-20240808.yaml
+    :date: '20240809'
+  :file: data/dnote-java-lreq-20240809.yaml
 - :id:
     :code: wasm-web-api-2
     :stage: WD
@@ -27294,10 +27274,10 @@
     :date: '20240811'
   :file: data/wd-wasm-core-2-20240811.yaml
 - :id:
-    :code: kore-lreq
+    :code: khmr-lreq
     :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-kore-lreq-20240808.yaml
+    :date: '20240809'
+  :file: data/dnote-khmr-lreq-20240809.yaml
 - :id:
     :code: css-inline-3
     :stage: WD
@@ -27309,45 +27289,25 @@
     :date: '20240813'
   :file: data/crd-vc-jose-cose-20240813.yaml
 - :id:
-    :code: mong-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-mong-lreq-20240808.yaml
-- :id:
-    :code: java-lreq
+    :code: laoo-lreq
     :type: DNOTE
     :date: '20240809'
-  :file: data/dnote-java-lreq-20240809.yaml
+  :file: data/dnote-laoo-lreq-20240809.yaml
 - :id:
-    :code: khmr-lreq
+    :code: tibt-lreq
     :type: DNOTE
     :date: '20240809'
-  :file: data/dnote-khmr-lreq-20240809.yaml
+  :file: data/dnote-tibt-lreq-20240809.yaml
 - :id:
     :code: privacy-principles
     :type: NOTE
     :date: '20240813'
   :file: data/note-privacy-principles-20240813.yaml
 - :id:
-    :code: laoo-lreq
-    :type: DNOTE
-    :date: '20240809'
-  :file: data/dnote-laoo-lreq-20240809.yaml
-- :id:
-    :code: thai-lreq
-    :type: DNOTE
-    :date: '20240809'
-  :file: data/dnote-thai-lreq-20240809.yaml
-- :id:
     :code: ethical-web-principles
     :type: NOTE
     :date: '20240813'
   :file: data/note-ethical-web-principles-20240813.yaml
-- :id:
-    :code: tibt-lreq
-    :type: DNOTE
-    :date: '20240809'
-  :file: data/dnote-tibt-lreq-20240809.yaml
 - :id:
     :code: credential-management-1
     :stage: WD
@@ -27383,6 +27343,61 @@
     :stage: CRD
     :date: '20240814'
   :file: data/crd-payment-request-20240814.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240814'
+  :file: data/rec-geolocation-20240814.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240815'
+  :file: data/rec-geolocation-20240815.yaml
+- :id:
+    :code: css-conditional-3
+    :stage: CRD
+    :date: '20240815'
+  :file: data/crd-css-conditional-3-20240815.yaml
+- :id:
+    :code: nkoo-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-nkoo-lreq-20240815.yaml
+- :id:
+    :code: arab-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-arab-lreq-20240815.yaml
+- :id:
+    :code: ethi-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-ethi-lreq-20240815.yaml
+- :id:
+    :code: latn-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-latn-lreq-20240815.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-grek-lreq-20240815.yaml
+- :id:
+    :code: hebr-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-hebr-lreq-20240815.yaml
+- :id:
+    :code: jpan-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-jpan-lreq-20240815.yaml
+- :id:
+    :code: thai-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-thai-lreq-20240815.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27633,14 +27648,8 @@
     :code: controller-document
   :file: data/controller-document.yaml
 - :id:
-    :code: nkoo-lreq
-  :file: data/nkoo-lreq.yaml
-- :id:
     :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
-- :id:
-    :code: arab-lreq
-  :file: data/arab-lreq.yaml
 - :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
@@ -27654,50 +27663,38 @@
     :code: cans-lreq
   :file: data/cans-lreq.yaml
 - :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
+- :id:
     :code: cher-lreq
   :file: data/cher-lreq.yaml
 - :id:
     :code: osge-lreq
   :file: data/osge-lreq.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml
 - :id:
-    :code: ethi-lreq
-  :file: data/ethi-lreq.yaml
-- :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: cyrl-lreq
   :file: data/cyrl-lreq.yaml
-- :id:
-    :code: geor-lreq
-  :file: data/geor-lreq.yaml
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :id:
-    :code: grek-lreq
-  :file: data/grek-lreq.yaml
-- :id:
-    :code: latn-lreq
-  :file: data/latn-lreq.yaml
-- :id:
-    :code: hebr-lreq
-  :file: data/hebr-lreq.yaml
-- :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
+    :code: geor-lreq
+  :file: data/geor-lreq.yaml
 - :id:
     :code: beng-lreq
   :file: data/beng-lreq.yaml
 - :id:
     :code: deva-lreq
   :file: data/deva-lreq.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
 - :id:
     :code: gujr-lreq
   :file: data/gujr-lreq.yaml
@@ -27708,14 +27705,8 @@
     :code: taml-lreq
   :file: data/taml-lreq.yaml
 - :id:
-    :code: jpan-lreq
-  :file: data/jpan-lreq.yaml
-- :id:
     :code: kore-lreq
   :file: data/kore-lreq.yaml
-- :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
 - :id:
     :code: mong-lreq
   :file: data/mong-lreq.yaml
@@ -27726,11 +27717,35 @@
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
     :code: laoo-lreq
   :file: data/laoo-lreq.yaml
 - :id:
-    :code: thai-lreq
-  :file: data/thai-lreq.yaml
-- :id:
     :code: tibt-lreq
   :file: data/tibt-lreq.yaml
+- :id:
+    :code: nkoo-lreq
+  :file: data/nkoo-lreq.yaml
+- :id:
+    :code: arab-lreq
+  :file: data/arab-lreq.yaml
+- :id:
+    :code: ethi-lreq
+  :file: data/ethi-lreq.yaml
+- :id:
+    :code: latn-lreq
+  :file: data/latn-lreq.yaml
+- :id:
+    :code: grek-lreq
+  :file: data/grek-lreq.yaml
+- :id:
+    :code: hebr-lreq
+  :file: data/hebr-lreq.yaml
+- :id:
+    :code: jpan-lreq
+  :file: data/jpan-lreq.yaml
+- :id:
+    :code: thai-lreq
+  :file: data/thai-lreq.yaml

@@ -81,7 +81,7 @@ relation:
     formattedref:
       content: W3C REC-geolocation-20240702
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-geolocation-20240809
     docid:
@@ -90,6 +90,26 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-geolocation-20240809
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-geolocation-20240814
+    docid:
+    - id: W3C REC-geolocation-20240814
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-geolocation-20240814
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-geolocation-20240815
+    docid:
+    - id: W3C REC-geolocation-20240815
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-geolocation-20240815
       format: text/plain
 - type: hasEdition
   bibitem:

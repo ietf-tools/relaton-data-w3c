@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-thai-lreq-20240809
+id: W3CDNOTE-thai-lreq-20240815
 title:
 - content: Thai Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240809/
+- content: https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240815/
   type: src
 - content: https://w3c.github.io/sealreq/thai/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-thai-lreq-20240809
+- id: W3C DNOTE-thai-lreq-20240815
   type: W3C
   primary: true
-docnumber: DNOTE-thai-lreq-20240809
+docnumber: DNOTE-thai-lreq-20240815
 date:
 - type: published
-  value: '2024-08-09'
+  value: '2024-08-15'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-09'
+revdate: '2024-08-15'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-thai-lreq-20240710
+    id: W3CDNOTE-thai-lreq-20240809
     docid:
-    - id: W3C DNOTE-thai-lreq-20240710
+    - id: W3C DNOTE-thai-lreq-20240809
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-thai-lreq-20240710
+      content: W3C DNOTE-thai-lreq-20240809
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-thai-lreq-20240809
+  number: DNOTE-thai-lreq-20240815
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

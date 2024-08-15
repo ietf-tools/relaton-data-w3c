@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-latn-lreq-20240808
+id: W3CDNOTE-nkoo-lreq-20240815
 title:
-- content: Latin Script Resources
+- content: N’Ko Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240808/
+- content: https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240815/
   type: src
-- content: https://w3c.github.io/eurlreq/latn/
+- content: https://w3c.github.io/afrlreq/nko/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-latn-lreq-20240808
+- id: W3C DNOTE-nkoo-lreq-20240815
   type: W3C
   primary: true
-docnumber: DNOTE-latn-lreq-20240808
+docnumber: DNOTE-nkoo-lreq-20240815
 date:
 - type: published
-  value: '2024-08-08'
+  value: '2024-08-15'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-08'
+revdate: '2024-08-15'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-latn-lreq-20240716
+    id: W3CDNOTE-nkoo-lreq-20240802
     docid:
-    - id: W3C DNOTE-latn-lreq-20240716
+    - id: W3C DNOTE-nkoo-lreq-20240802
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-latn-lreq-20240716
+      content: W3C DNOTE-nkoo-lreq-20240802
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-latn-lreq-20240808
+  number: DNOTE-nkoo-lreq-20240815
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

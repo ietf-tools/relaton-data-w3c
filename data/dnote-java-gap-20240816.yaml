@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-java-gap-20240710
+id: W3CDNOTE-java-gap-20240816
 title:
 - content: Javanese Script Gap Analysis
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-java-gap-20240710/
+- content: https://www.w3.org/TR/2024/DNOTE-java-gap-20240816/
   type: src
 - content: https://w3c.github.io/sealreq/gap-analysis/java-gap
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-java-gap-20240710
+- id: W3C DNOTE-java-gap-20240816
   type: W3C
   primary: true
-docnumber: DNOTE-java-gap-20240710
+docnumber: DNOTE-java-gap-20240816
 date:
 - type: published
-  value: '2024-07-10'
+  value: '2024-08-16'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-10'
+revdate: '2024-08-16'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-java-gap-20240705
+    id: W3CDNOTE-java-gap-20240710
     docid:
-    - id: W3C DNOTE-java-gap-20240705
+    - id: W3C DNOTE-java-gap-20240710
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-java-gap-20240705
+      content: W3C DNOTE-java-gap-20240710
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-java-gap-20240710
+  number: DNOTE-java-gap-20240816
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-web-api-2-20240811
+id: W3CWD-webrtc-svc-20240817
 title:
-- content: WebAssembly Web API
+- content: Scalable Video Coding (SVC) Extension for WebRTC
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240811/
+- content: https://www.w3.org/TR/2024/WD-webrtc-svc-20240817/
   type: src
-- content: https://webassembly.github.io/spec/web-api/
+- content: https://w3c.github.io/webrtc-svc/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-web-api-2-20240811
+- id: W3C WD-webrtc-svc-20240817
   type: W3C
   primary: true
-docnumber: WD-wasm-web-api-2-20240811
+docnumber: WD-webrtc-svc-20240817
 date:
 - type: published
-  value: '2024-08-11'
+  value: '2024-08-17'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Bernard Aboba
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-11'
+revdate: '2024-08-17'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-web-api-2-20240809
+    id: W3CWD-webrtc-svc-20240516
     docid:
-    - id: W3C WD-wasm-web-api-2-20240809
+    - id: W3C WD-webrtc-svc-20240516
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-web-api-2-20240809
+      content: W3C WD-webrtc-svc-20240516
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-web-api-2-20240811
+  number: WD-webrtc-svc-20240817
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

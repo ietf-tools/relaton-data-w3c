@@ -27094,11 +27094,6 @@
     :date: '20240804'
   :file: data/wd-css-box-4-20240804.yaml
 - :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240805'
-  :file: data/crd-vc-di-ecdsa-20240805.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240805'
@@ -27174,55 +27169,30 @@
     :date: '20240808'
   :file: data/dnote-beng-lreq-20240808.yaml
 - :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240809'
+  :file: data/rec-geolocation-20240809.yaml
+- :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-deva-lreq-20240808.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240809'
-  :file: data/crd-vc-data-model-2.0-20240809.yaml
 - :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-gujr-lreq-20240808.yaml
 - :id:
-    :code: guru-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-guru-lreq-20240808.yaml
-- :id:
-    :code: taml-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-taml-lreq-20240808.yaml
-- :id:
-    :code: geolocation
-    :stage: REC
-    :date: '20240809'
-  :file: data/rec-geolocation-20240809.yaml
-- :id:
-    :code: kore-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-kore-lreq-20240808.yaml
-- :id:
-    :code: mong-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-mong-lreq-20240808.yaml
-- :id:
     :code: css-position-3
     :stage: WD
     :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
 - :id:
-    :code: java-lreq
+    :code: guru-lreq
     :type: DNOTE
-    :date: '20240809'
-  :file: data/dnote-java-lreq-20240809.yaml
+    :date: '20240808'
+  :file: data/dnote-guru-lreq-20240808.yaml
 - :id:
     :code: css-inline-3
     :stage: WD
@@ -27234,10 +27204,40 @@
     :date: '20240813'
   :file: data/crd-vc-jose-cose-20240813.yaml
 - :id:
+    :code: taml-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-taml-lreq-20240808.yaml
+- :id:
+    :code: kore-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-kore-lreq-20240808.yaml
+- :id:
+    :code: mong-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-mong-lreq-20240808.yaml
+- :id:
+    :code: privacy-principles
+    :type: NOTE
+    :date: '20240813'
+  :file: data/note-privacy-principles-20240813.yaml
+- :id:
+    :code: java-lreq
+    :type: DNOTE
+    :date: '20240809'
+  :file: data/dnote-java-lreq-20240809.yaml
+- :id:
     :code: khmr-lreq
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-khmr-lreq-20240809.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: NOTE
+    :date: '20240813'
+  :file: data/note-ethical-web-principles-20240813.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -27248,16 +27248,6 @@
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-tibt-lreq-20240809.yaml
-- :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-privacy-principles-20240813.yaml
-- :id:
-    :code: ethical-web-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-ethical-web-principles-20240813.yaml
 - :id:
     :code: credential-management-1
     :stage: WD
@@ -27398,6 +27388,16 @@
     :stage: WD
     :date: '20240817'
   :file: data/wd-controller-document-20240817.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240818'
+  :file: data/crd-vc-di-ecdsa-20240818.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240818'
+  :file: data/crd-vc-data-model-2.0-20240818.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27648,9 +27648,6 @@
     :code: adlm-lreq
   :file: data/adlm-lreq.yaml
 - :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
     :code: encrypted-media-2
   :file: data/encrypted-media-2.yaml
 - :id:
@@ -27684,14 +27681,14 @@
     :code: deva-lreq
   :file: data/deva-lreq.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
     :code: gujr-lreq
   :file: data/gujr-lreq.yaml
 - :id:
     :code: guru-lreq
   :file: data/guru-lreq.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
 - :id:
     :code: taml-lreq
   :file: data/taml-lreq.yaml
@@ -27704,9 +27701,6 @@
 - :id:
     :code: java-lreq
   :file: data/java-lreq.yaml
-- :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
 - :id:
     :code: khmr-lreq
   :file: data/khmr-lreq.yaml
@@ -27749,3 +27743,9 @@
 - :id:
     :code: controller-document
   :file: data/controller-document.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml

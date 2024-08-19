@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cjson-ld
+id: W3Cjson-ld1
 title:
 - content: JSON-LD 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/json-ld/
+- content: https://www.w3.org/TR/json-ld1/
   type: src
 type: standard
 docid:
-- id: W3C json-ld
+- id: W3C json-ld1
   type: W3C
   primary: true
-docnumber: json-ld
+docnumber: json-ld1
 language:
 - en
 script:
@@ -23,16 +23,6 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CSPSD-json-ld-20201103
-    docid:
-    - id: W3C SPSD-json-ld-20201103
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C SPSD-json-ld-20201103
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CREC-json-ld-20140116
     docid:
     - id: W3C REC-json-ld-20140116
@@ -41,21 +31,11 @@ relation:
     formattedref:
       content: W3C REC-json-ld-20140116
       format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPR-json-ld-20131105
-    docid:
-    - id: W3C PR-json-ld-20131105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-json-ld-20131105
-      format: text/plain
 series:
 - title:
     content: W3C REC
     format: text/plain
-  number: json-ld
+  number: json-ld1
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CREC-json-ld-api-20140116
-    docid:
-    - id: W3C REC-json-ld-api-20140116
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-json-ld-api-20140116
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CSPSD-json-ld-api-20201103
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C SPSD-json-ld-api-20201103
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CREC-json-ld-api-20140116
+    docid:
+    - id: W3C REC-json-ld-api-20140116
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-json-ld-api-20140116
       format: text/plain
 - type: hasEdition
   bibitem:

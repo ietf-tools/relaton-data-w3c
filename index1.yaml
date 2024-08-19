@@ -25794,11 +25794,6 @@
     :date: '20230629'
   :file: data/rec-html-aria-20230629.yaml
 - :id:
-    :code: event-timing
-    :stage: WD
-    :date: '20230703'
-  :file: data/wd-event-timing-20230703.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20230705'
@@ -27329,20 +27324,15 @@
     :date: '20240815'
   :file: data/dnote-grek-lreq-20240815.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20240815'
-  :file: data/wd-html-aam-1.0-20240815.yaml
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20240816'
+  :file: data/crd-vc-di-eddsa-20240816.yaml
 - :id:
     :code: hebr-lreq
     :type: DNOTE
     :date: '20240815'
   :file: data/dnote-hebr-lreq-20240815.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240816'
-  :file: data/crd-vc-di-eddsa-20240816.yaml
 - :id:
     :code: jpan-lreq
     :type: DNOTE
@@ -27359,11 +27349,6 @@
     :date: '20240815'
   :file: data/note-predefined-counter-styles-20240815.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240815'
-  :file: data/dnote-typography-20240815.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240816'
@@ -27374,15 +27359,20 @@
     :date: '20240816'
   :file: data/wd-wasm-core-2-20240816.yaml
 - :id:
-    :code: java-gap
+    :code: typography
     :type: DNOTE
-    :date: '20240816'
-  :file: data/dnote-java-gap-20240816.yaml
+    :date: '20240815'
+  :file: data/dnote-typography-20240815.yaml
 - :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240817'
   :file: data/wd-webrtc-svc-20240817.yaml
+- :id:
+    :code: java-gap
+    :type: DNOTE
+    :date: '20240816'
+  :file: data/dnote-java-gap-20240816.yaml
 - :id:
     :code: controller-document
     :stage: WD
@@ -27399,6 +27389,16 @@
     :date: '20240818'
   :file: data/crd-vc-data-model-2.0-20240818.yaml
 - :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20240819'
+  :file: data/wd-html-aam-1.0-20240819.yaml
+- :id:
+    :code: event-timing
+    :stage: WD
+    :date: '20240819'
+  :file: data/wd-event-timing-20240819.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27413,6 +27413,12 @@
 - :id:
     :code: xquery-10
   :file: data/xquery-10.yaml
+- :id:
+    :code: json-ld1
+  :file: data/json-ld1.yaml
+- :id:
+    :code: json-ld-api1
+  :file: data/json-ld-api1.yaml
 - :id:
     :code: encrypted-media-1
   :file: data/encrypted-media-1.yaml
@@ -27729,11 +27735,11 @@
     :code: grek-lreq
   :file: data/grek-lreq.yaml
 - :id:
-    :code: hebr-lreq
-  :file: data/hebr-lreq.yaml
-- :id:
     :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: hebr-lreq
+  :file: data/hebr-lreq.yaml
 - :id:
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml

@@ -5952,6 +5952,12 @@
   :stage: WD
   :date: '20190416'
   :file: data/wd-feature-policy-1-20190416.yaml
+- :code: fedcm-1
+  :file: data/fedcm-1.yaml
+- :code: fedcm-1
+  :stage: WD
+  :date: '20240820'
+  :file: data/wd-fedcm-1-20240820.yaml
 - :code: fetch-metadata
   :file: data/fetch-metadata.yaml
 - :code: fetch-metadata
@@ -15421,14 +15427,14 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240818'
-  :file: data/crd-vc-data-model-2.0-20240818.yaml
+  :date: '20240819'
+  :file: data/crd-vc-data-model-2.0-20240819.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
   :stage: CRD
-  :date: '20240630'
-  :file: data/crd-vc-di-bbs-20240630.yaml
+  :date: '20240819'
+  :file: data/crd-vc-di-bbs-20240819.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
@@ -17661,8 +17667,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20240731'
-  :file: data/wd-wgsl-20240731.yaml
+  :date: '20240820'
+  :file: data/wd-wgsl-20240820.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

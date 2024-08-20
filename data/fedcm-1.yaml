@@ -1,41 +1,41 @@
 ---
 schema-version: v1.2.3
-id: W3Cvc-di-bbs
+id: W3Cfedcm-1
 title:
-- content: Data Integrity BBS Cryptosuites v1.0
+- content: Federated Credential Management API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/vc-di-bbs/
+- content: https://www.w3.org/TR/fedcm-1/
   type: src
 type: standard
 docid:
-- id: W3C vc-di-bbs
+- id: W3C fedcm-1
   type: W3C
   primary: true
-docnumber: vc-di-bbs
+docnumber: fedcm-1
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-vc-di-bbs-20240819
+    id: W3CWD-fedcm-1-20240820
     docid:
-    - id: W3C CRD-vc-di-bbs-20240819
+    - id: W3C WD-fedcm-1-20240820
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-bbs-20240819
+      content: W3C WD-fedcm-1-20240820
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: vc-di-bbs
+  number: fedcm-1
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20240731
+id: W3CCRD-vc-di-bbs-20240819
 title:
-- content: WebGPU Shading Language
+- content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20240731/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240819/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20240731
+- id: W3C CRD-vc-di-bbs-20240819
   type: W3C
   primary: true
-docnumber: WD-WGSL-20240731
+docnumber: CRD-vc-di-bbs-20240819
 date:
 - type: published
-  value: '2024-07-31'
+  value: '2024-08-19'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-07-31'
+revdate: '2024-08-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20240730
+    id: W3CCRD-vc-di-bbs-20240630
     docid:
-    - id: W3C WD-WGSL-20240730
+    - id: W3C CRD-vc-di-bbs-20240630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20240730
+      content: W3C CRD-vc-di-bbs-20240630
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-WGSL-20240731
+  number: CRD-vc-di-bbs-20240819
 doctype: technicalReport
 editorialgroup:
-- name: GPU for the Web Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

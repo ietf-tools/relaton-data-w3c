@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20240816
+id: W3CWD-wasm-core-2-20240821
 title:
 - content: WebAssembly Core Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240816/
+- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240821/
   type: src
 - content: https://webassembly.github.io/spec/core/bikeshed/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20240816
+- id: W3C WD-wasm-core-2-20240821
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20240816
+docnumber: WD-wasm-core-2-20240821
 date:
 - type: published
-  value: '2024-08-16'
+  value: '2024-08-21'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-16'
+revdate: '2024-08-21'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20240811
+    id: W3CWD-wasm-core-2-20240816
     docid:
-    - id: W3C WD-wasm-core-2-20240811
+    - id: W3C WD-wasm-core-2-20240816
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20240811
+      content: W3C WD-wasm-core-2-20240816
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20240816
+  number: WD-wasm-core-2-20240821
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: proposedRecommendation
+    value: recommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CPR-vocab-dcat-3-20240613
+    id: W3CREC-vocab-dcat-3-20240822
     docid:
-    - id: W3C PR-vocab-dcat-3-20240613
+    - id: W3C REC-vocab-dcat-3-20240822
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-vocab-dcat-3-20240613
+      content: W3C REC-vocab-dcat-3-20240822
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +63,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C PR
+    content: W3C REC
     format: text/plain
   number: vocab-dcat-3
 doctype: technicalReport

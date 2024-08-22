@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webxr-20240805
+id: W3CWD-WGSL-20240821
 title:
-- content: WebXR Device API
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webxr-20240805/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240821/
   type: src
-- content: https://immersive-web.github.io/webxr/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webxr-20240805
+- id: W3C WD-WGSL-20240821
   type: W3C
   primary: true
-docnumber: CRD-webxr-20240805
+docnumber: WD-WGSL-20240821
 date:
 - type: published
-  value: '2024-08-05'
+  value: '2024-08-21'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manish Goregaokar
+        content: David Neto
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Rik Cabanier
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-05'
+revdate: '2024-08-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webxr-20240701
+    id: W3CWD-WGSL-20240820
     docid:
-    - id: W3C CRD-webxr-20240701
+    - id: W3C WD-WGSL-20240820
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20240701
+      content: W3C WD-WGSL-20240820
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webxr-20240805
+  number: WD-WGSL-20240821
 doctype: technicalReport
-editorialgroup:
-- name: Immersive Web Working Group
 ext:
   schema-version: v1.0.0

@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.3
+id: W3CREC-vocab-dcat-3-20240822
+title:
+- content: Data Catalog Vocabulary (DCAT) - Version 3
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/REC-vocab-dcat-3-20240822/
+  type: src
+- content: https://w3c.github.io/dxwg/dcat/
+  type: current
+type: standard
+docid:
+- id: W3C REC-vocab-dcat-3-20240822
+  type: W3C
+  primary: true
+docnumber: REC-vocab-dcat-3-20240822
+date:
+- type: published
+  value: '2024-08-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alejandra Gonzalez Beltran
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Andrea Perego
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: David Browning
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Peter Winstanley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Riccardo Albertoni
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Simon Cox
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-08-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CPR-vocab-dcat-3-20240613
+    docid:
+    - id: W3C PR-vocab-dcat-3-20240613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-vocab-dcat-3-20240613
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-vocab-dcat-3-20240822
+doctype: technicalReport
+editorialgroup:
+- name: Dataset Exchange Working Group
+ext:
+  schema-version: v1.0.0

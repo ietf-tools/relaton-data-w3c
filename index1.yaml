@@ -26484,11 +26484,6 @@
     :date: '20240611'
   :file: data/wd-webxr-hit-test-1-20240611.yaml
 - :id:
-    :code: vocab-dcat-3
-    :stage: PR
-    :date: '20240613'
-  :file: data/pr-vocab-dcat-3-20240613.yaml
-- :id:
     :code: geolocation
     :stage: REC
     :date: '20240613'
@@ -26634,25 +26629,25 @@
     :date: '20240704'
   :file: data/note-epub-a11y-tech-11-20240704.yaml
 - :id:
-    :code: grek-gap
-    :type: DNOTE
-    :date: '20240704'
-  :file: data/dnote-grek-gap-20240704.yaml
-- :id:
     :code: contact-picker
     :stage: WD
     :date: '20240708'
   :file: data/wd-contact-picker-20240708.yaml
 - :id:
-    :code: hebr-gap
+    :code: grek-gap
     :type: DNOTE
     :date: '20240704'
-  :file: data/dnote-hebr-gap-20240704.yaml
+  :file: data/dnote-grek-gap-20240704.yaml
 - :id:
     :code: IFT
     :stage: WD
     :date: '20240709'
   :file: data/wd-ift-20240709.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240704'
+  :file: data/dnote-hebr-gap-20240704.yaml
 - :id:
     :code: vc-overview
     :type: NOTE
@@ -27074,11 +27069,6 @@
     :date: '20240805'
   :file: data/crd-webnn-20240805.yaml
 - :id:
-    :code: webxr
-    :stage: CRD
-    :date: '20240805'
-  :file: data/crd-webxr-20240805.yaml
-- :id:
     :code: encrypted-media-2
     :stage: WD
     :date: '20240807'
@@ -27094,75 +27084,75 @@
     :date: '20240808'
   :file: data/wd-media-capabilities-20240808.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-quads-20240808.yaml
-- :id:
     :code: cans-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cans-lreq-20240808.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20240808'
+  :file: data/wd-rdf12-n-quads-20240808.yaml
 - :id:
     :code: cher-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cher-lreq-20240808.yaml
 - :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-triples-20240808.yaml
-- :id:
     :code: osge-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-osge-lreq-20240808.yaml
 - :id:
-    :code: gamepad
+    :code: rdf12-n-triples
     :stage: WD
-    :date: '20240809'
-  :file: data/wd-gamepad-20240809.yaml
+    :date: '20240808'
+  :file: data/wd-rdf12-n-triples-20240808.yaml
 - :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-hani-lreq-20240808.yaml
 - :id:
-    :code: geolocation
-    :stage: REC
+    :code: gamepad
+    :stage: WD
     :date: '20240809'
-  :file: data/rec-geolocation-20240809.yaml
+  :file: data/wd-gamepad-20240809.yaml
 - :id:
     :code: cyrl-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cyrl-lreq-20240808.yaml
 - :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240809'
+  :file: data/rec-geolocation-20240809.yaml
+- :id:
     :code: geor-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-geor-lreq-20240808.yaml
-- :id:
-    :code: css-position-3
-    :stage: WD
-    :date: '20240810'
-  :file: data/wd-css-position-3-20240810.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-beng-lreq-20240808.yaml
 - :id:
-    :code: css-inline-3
+    :code: css-position-3
     :stage: WD
-    :date: '20240812'
-  :file: data/wd-css-inline-3-20240812.yaml
+    :date: '20240810'
+  :file: data/wd-css-position-3-20240810.yaml
 - :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-deva-lreq-20240808.yaml
+- :id:
+    :code: css-inline-3
+    :stage: WD
+    :date: '20240812'
+  :file: data/wd-css-inline-3-20240812.yaml
 - :id:
     :code: vc-jose-cose
     :stage: CRD
@@ -27369,40 +27359,50 @@
     :date: '20240820'
   :file: data/wd-fedcm-1-20240820.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240820'
-  :file: data/wd-wgsl-20240820.yaml
-- :id:
     :code: eme-initdata-keyids
     :type: NOTE
     :date: '20240820'
   :file: data/note-eme-initdata-keyids-20240820.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20240821'
-  :file: data/wd-wasm-js-api-2-20240821.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240821'
-  :file: data/wd-wasm-web-api-2-20240821.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20240821'
-  :file: data/wd-wasm-core-2-20240821.yaml
 - :id:
     :code: webgpu
     :stage: WD
     :date: '20240821'
   :file: data/wd-webgpu-20240821.yaml
 - :id:
-    :code: vc-data-model-2.0
+    :code: WGSL
+    :stage: WD
+    :date: '20240821'
+  :file: data/wd-wgsl-20240821.yaml
+- :id:
+    :code: webxr
     :stage: CRD
     :date: '20240821'
-  :file: data/crd-vc-data-model-2.0-20240821.yaml
+  :file: data/crd-webxr-20240821.yaml
+- :id:
+    :code: vocab-dcat-3
+    :stage: REC
+    :date: '20240822'
+  :file: data/rec-vocab-dcat-3-20240822.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20240822'
+  :file: data/wd-wasm-js-api-2-20240822.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240822'
+  :file: data/wd-wasm-web-api-2-20240822.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240822'
+  :file: data/wd-wasm-core-2-20240822.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240822'
+  :file: data/crd-vc-data-model-2.0-20240822.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27659,20 +27659,20 @@
     :code: encrypted-media-2
   :file: data/encrypted-media-2.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
     :code: cans-lreq
   :file: data/cans-lreq.yaml
+- :id:
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
 - :id:
     :code: cher-lreq
   :file: data/cher-lreq.yaml
 - :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
-- :id:
     :code: osge-lreq
   :file: data/osge-lreq.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml

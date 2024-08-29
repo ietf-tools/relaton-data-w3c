@@ -1,41 +1,41 @@
 ---
 schema-version: v1.2.3
-id: W3Cvc-di-ecdsa
+id: W3Ccss-easing-2
 title:
-- content: Data Integrity ECDSA Cryptosuites v1.0
+- content: CSS Easing Functions Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/vc-di-ecdsa/
+- content: https://www.w3.org/TR/css-easing-2/
   type: src
 type: standard
 docid:
-- id: W3C vc-di-ecdsa
+- id: W3C css-easing-2
   type: W3C
   primary: true
-docnumber: vc-di-ecdsa
+docnumber: css-easing-2
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-vc-di-ecdsa-20240828
+    id: W3CWD-css-easing-2-20240829
     docid:
-    - id: W3C CRD-vc-di-ecdsa-20240828
+    - id: W3C WD-css-easing-2-20240829
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-ecdsa-20240828
+      content: W3C WD-css-easing-2-20240829
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: vc-di-ecdsa
+  number: css-easing-2
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

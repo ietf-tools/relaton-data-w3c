@@ -25294,6 +25294,11 @@
     :date: '20240723'
   :file: data/dnote-cyrl-gap-20240723.yaml
 - :id:
+    :code: css-easing-2
+    :stage: WD
+    :date: '20240829'
+  :file: data/wd-css-easing-2-20240829.yaml
+- :id:
     :code: webxr-lighting-estimation-1
     :stage: WD
     :date: '20220603'
@@ -27259,80 +27264,45 @@
     :date: '20240815'
   :file: data/dnote-ethi-lreq-20240815.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240816'
-  :file: data/crd-vc-di-eddsa-20240816.yaml
+    :code: webrtc-svc
+    :stage: WD
+    :date: '20240817'
+  :file: data/wd-webrtc-svc-20240817.yaml
 - :id:
     :code: latn-lreq
     :type: DNOTE
     :date: '20240815'
   :file: data/dnote-latn-lreq-20240815.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20240815'
-  :file: data/dnote-grek-lreq-20240815.yaml
-- :id:
-    :code: hebr-lreq
-    :type: DNOTE
-    :date: '20240815'
-  :file: data/dnote-hebr-lreq-20240815.yaml
-- :id:
-    :code: jpan-lreq
-    :type: DNOTE
-    :date: '20240815'
-  :file: data/dnote-jpan-lreq-20240815.yaml
-- :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240817'
-  :file: data/wd-webrtc-svc-20240817.yaml
-- :id:
-    :code: thai-lreq
-    :type: DNOTE
-    :date: '20240815'
-  :file: data/dnote-thai-lreq-20240815.yaml
-- :id:
     :code: controller-document
     :stage: WD
     :date: '20240817'
   :file: data/wd-controller-document-20240817.yaml
 - :id:
-    :code: predefined-counter-styles
-    :type: NOTE
-    :date: '20240815'
-  :file: data/note-predefined-counter-styles-20240815.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240818'
-  :file: data/crd-vc-di-ecdsa-20240818.yaml
-- :id:
-    :code: typography
+    :code: grek-lreq
     :type: DNOTE
     :date: '20240815'
-  :file: data/dnote-typography-20240815.yaml
-- :id:
-    :code: java-gap
-    :type: DNOTE
-    :date: '20240816'
-  :file: data/dnote-java-gap-20240816.yaml
+  :file: data/dnote-grek-lreq-20240815.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20240819'
   :file: data/wd-html-aam-1.0-20240819.yaml
 - :id:
+    :code: hebr-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-hebr-lreq-20240815.yaml
+- :id:
     :code: event-timing
     :stage: WD
     :date: '20240819'
   :file: data/wd-event-timing-20240819.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: CRD
-    :date: '20240819'
-  :file: data/crd-vc-di-bbs-20240819.yaml
+    :code: jpan-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-jpan-lreq-20240815.yaml
 - :id:
     :code: fedcm-1
     :stage: WD
@@ -27344,15 +27314,30 @@
     :date: '20240820'
   :file: data/note-eme-initdata-keyids-20240820.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240821'
-  :file: data/wd-webgpu-20240821.yaml
+    :code: thai-lreq
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-thai-lreq-20240815.yaml
+- :id:
+    :code: predefined-counter-styles
+    :type: NOTE
+    :date: '20240815'
+  :file: data/note-predefined-counter-styles-20240815.yaml
 - :id:
     :code: webxr
     :stage: CRD
     :date: '20240821'
   :file: data/crd-webxr-20240821.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240815'
+  :file: data/dnote-typography-20240815.yaml
+- :id:
+    :code: java-gap
+    :type: DNOTE
+    :date: '20240816'
+  :file: data/dnote-java-gap-20240816.yaml
 - :id:
     :code: vocab-dcat-3
     :stage: REC
@@ -27389,26 +27374,49 @@
     :date: '20240822'
   :file: data/wd-rdf12-turtle-20240822.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240823'
-  :file: data/crd-vc-data-model-2.0-20240823.yaml
-- :id:
     :code: presentation-api
     :stage: CRD
     :date: '20240823'
   :file: data/crd-presentation-api-20240823.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240828'
+  :file: data/crd-vc-data-model-2.0-20240828.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240828'
+  :file: data/crd-vc-di-ecdsa-20240828.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20240828'
+  :file: data/crd-vc-di-eddsa-20240828.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20240828'
+  :file: data/crd-vc-di-bbs-20240828.yaml
+- :id:
     :code: WGSL
     :stage: WD
-    :date: '20240827'
-  :file: data/wd-wgsl-20240827.yaml
+    :date: '20240828'
+  :file: data/wd-wgsl-20240828.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240829'
+  :file: data/wd-webgpu-20240829.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
+- :id:
+    :code: css-easing-2
+  :file: data/css-easing-2.yaml
 - :id:
     :code: xpath-10
   :file: data/xpath-10.yaml
@@ -27725,11 +27733,11 @@
     :code: ethi-lreq
   :file: data/ethi-lreq.yaml
 - :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: latn-lreq
   :file: data/latn-lreq.yaml
+- :id:
+    :code: controller-document
+  :file: data/controller-document.yaml
 - :id:
     :code: grek-lreq
   :file: data/grek-lreq.yaml
@@ -27740,20 +27748,11 @@
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
 - :id:
-    :code: thai-lreq
-  :file: data/thai-lreq.yaml
-- :id:
-    :code: controller-document
-  :file: data/controller-document.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
-    :code: vc-di-bbs
-  :file: data/vc-di-bbs.yaml
-- :id:
     :code: fedcm-1
   :file: data/fedcm-1.yaml
+- :id:
+    :code: thai-lreq
+  :file: data/thai-lreq.yaml
 - :id:
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
@@ -27763,3 +27762,12 @@
 - :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: vc-di-bbs
+  :file: data/vc-di-bbs.yaml

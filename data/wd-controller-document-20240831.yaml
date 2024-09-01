@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20240829
+id: W3CWD-controller-document-20240831
 title:
 - content: Controller Documents 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-controller-document-20240829/
+- content: https://www.w3.org/TR/2024/WD-controller-document-20240831/
   type: src
 - content: https://w3c.github.io/controller-document/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20240829
+- id: W3C WD-controller-document-20240831
   type: W3C
   primary: true
-docnumber: WD-controller-document-20240829
+docnumber: WD-controller-document-20240831
 date:
 - type: published
-  value: '2024-08-29'
+  value: '2024-08-31'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-29'
+revdate: '2024-08-31'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20240817
+    id: W3CWD-controller-document-20240829
     docid:
-    - id: W3C WD-controller-document-20240817
+    - id: W3C WD-controller-document-20240829
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20240817
+      content: W3C WD-controller-document-20240829
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-controller-document-20240829
+  number: WD-controller-document-20240831
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

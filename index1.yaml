@@ -27344,11 +27344,6 @@
     :date: '20240828'
   :file: data/wd-wgsl-20240828.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20240829'
-  :file: data/wd-controller-document-20240829.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20240829'
@@ -27394,11 +27389,6 @@
     :date: '20240829'
   :file: data/wd-rdf12-turtle-20240829.yaml
 - :id:
-    :code: did-spec-registries
-    :type: NOTE
-    :date: '20240830'
-  :file: data/note-did-spec-registries-20240830.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20240830'
@@ -27408,6 +27398,16 @@
     :stage: CRD
     :date: '20240830'
   :file: data/crd-webnn-20240830.yaml
+- :id:
+    :code: did-spec-registries
+    :type: NOTE
+    :date: '20240831'
+  :file: data/note-did-spec-registries-20240831.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20240831'
+  :file: data/wd-controller-document-20240831.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27742,9 +27742,6 @@
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :id:
-    :code: controller-document
-  :file: data/controller-document.yaml
-- :id:
     :code: dapt
   :file: data/dapt.yaml
 - :id:
@@ -27771,3 +27768,6 @@
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
+- :id:
+    :code: controller-document
+  :file: data/controller-document.yaml

@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CPR-json-ld-api-20131105
-    docid:
-    - id: W3C PR-json-ld-api-20131105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-json-ld-api-20131105
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-json-ld-api-20120712
     docid:
     - id: W3C WD-json-ld-api-20120712
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-json-ld-api-20120712
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CPR-json-ld-api-20131105
+    docid:
+    - id: W3C PR-json-ld-api-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C PR-json-ld-api-20131105
       format: text/plain
 series:
 - title:

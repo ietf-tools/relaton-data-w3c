@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-ws-arch-scenarios-20020730
-    docid:
-    - id: W3C WD-ws-arch-scenarios-20020730
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-ws-arch-scenarios-20020730
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-ws-arch-scenarios-20030514
     docid:
     - id: W3C WD-ws-arch-scenarios-20030514
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-ws-arch-scenarios-20030514
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-ws-arch-scenarios-20020730
+    docid:
+    - id: W3C WD-ws-arch-scenarios-20020730
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ws-arch-scenarios-20020730
       format: text/plain
 series:
 - title:

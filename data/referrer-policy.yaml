@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-referrer-policy-20161222
-    docid:
-    - id: W3C WD-referrer-policy-20161222
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-referrer-policy-20161222
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-referrer-policy-20140807
     docid:
     - id: W3C WD-referrer-policy-20140807
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-referrer-policy-20140807
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-referrer-policy-20161222
+    docid:
+    - id: W3C WD-referrer-policy-20161222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-referrer-policy-20161222
       format: text/plain
 series:
 - title:

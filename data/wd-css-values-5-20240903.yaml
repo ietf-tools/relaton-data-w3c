@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-css3-background-20120724
+id: W3CWD-css-values-5-20240903
 title:
-- content: CSS Backgrounds and Borders Module Level 3
+- content: CSS Values and Units Module Level 5
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2012/CR-css3-background-20120724/
+- content: https://www.w3.org/TR/2024/WD-css-values-5-20240903/
   type: src
+- content: https://drafts.csswg.org/css-values-5/
+  type: current
 type: standard
 docid:
-- id: W3C CR-css3-background-20120724
+- id: W3C WD-css-values-5-20240903
   type: W3C
   primary: true
-docnumber: CR-css3-background-20120724
+docnumber: WD-css-values-5-20240903
 date:
 - type: published
-  value: '2012-07-24'
+  value: '2024-09-03'
 contributor:
 - person:
     name:
       completename:
-        content: Bert Bos
+        content: Elika Etemad
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Brad Kemper
+        content: Miriam Suzanne
         language:
         - en
         script:
@@ -40,37 +42,26 @@ contributor:
 - person:
     name:
       completename:
-        content: Elika J. Etemad
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2012-07-24'
+revdate: '2024-09-03'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CCR-css3-background-20120417
-    docid:
-    - id: W3C CR-css3-background-20120417
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css3-background-20120417
-      format: text/plain
+    value: workingDraft
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-css3-background-20120724
+  number: WD-css-values-5-20240903
 doctype: technicalReport
 editorialgroup:
 - name: Cascading Style Sheets Working Group

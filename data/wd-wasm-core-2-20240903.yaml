@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-js-api-2-20240822
+id: W3CWD-wasm-core-2-20240903
 title:
-- content: WebAssembly JavaScript Interface
+- content: WebAssembly Core Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240822/
+- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240903/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://webassembly.github.io/spec/core/bikeshed/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-js-api-2-20240822
+- id: W3C WD-wasm-core-2-20240903
   type: W3C
   primary: true
-docnumber: WD-wasm-js-api-2-20240822
+docnumber: WD-wasm-core-2-20240903
 date:
 - type: published
-  value: '2024-08-22'
+  value: '2024-09-03'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Andreas Rossberg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-22'
+revdate: '2024-09-03'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20240821
+    id: W3CWD-wasm-core-2-20240822
     docid:
-    - id: W3C WD-wasm-js-api-2-20240821
+    - id: W3C WD-wasm-core-2-20240822
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20240821
+      content: W3C WD-wasm-core-2-20240822
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-js-api-2-20240822
+  number: WD-wasm-core-2-20240903
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

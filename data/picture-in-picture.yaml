@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-picture-in-picture-20220428
-    docid:
-    - id: W3C WD-picture-in-picture-20220428
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-picture-in-picture-20220428
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-picture-in-picture-20200130
     docid:
     - id: W3C WD-picture-in-picture-20200130
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-picture-in-picture-20200130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-picture-in-picture-20220428
+    docid:
+    - id: W3C WD-picture-in-picture-20220428
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-picture-in-picture-20220428
       format: text/plain
 series:
 - title:

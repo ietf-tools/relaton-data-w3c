@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-audio-output-20220210
-    docid:
-    - id: W3C CRD-audio-output-20220210
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-audio-output-20220210
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-audio-output-20201127
     docid:
     - id: W3C CRD-audio-output-20201127
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-audio-output-20161215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-audio-output-20220210
+    docid:
+    - id: W3C CRD-audio-output-20220210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-audio-output-20220210
       format: text/plain
 - type: hasEdition
   bibitem:

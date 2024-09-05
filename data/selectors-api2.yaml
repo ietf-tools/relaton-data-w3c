@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-selectors-api2-20100119
-    docid:
-    - id: W3C WD-selectors-api2-20100119
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-selectors-api2-20100119
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-selectors-api2-20120628
     docid:
     - id: W3C WD-selectors-api2-20120628
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-selectors-api2-20120628
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-selectors-api2-20100119
+    docid:
+    - id: W3C WD-selectors-api2-20100119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-selectors-api2-20100119
       format: text/plain
 series:
 - title:

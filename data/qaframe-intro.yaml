@@ -17,20 +17,7 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-qaframe-intro-20021108
-    docid:
-    - id: W3C WD-qaframe-intro-20021108
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-qaframe-intro-20021108
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CNOTE-qaframe-intro-20030912
@@ -41,11 +28,21 @@ relation:
     formattedref:
       content: W3C NOTE-qaframe-intro-20030912
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-qaframe-intro-20021108
+    docid:
+    - id: W3C WD-qaframe-intro-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-qaframe-intro-20021108
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: qaframe-intro
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

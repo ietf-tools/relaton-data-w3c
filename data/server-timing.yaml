@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-server-timing-20181019
+    docid:
+    - id: W3C WD-server-timing-20181019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20181019
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-server-timing-20190307
     docid:
     - id: W3C WD-server-timing-20190307
@@ -40,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-server-timing-20190307
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-server-timing-20171229
+    docid:
+    - id: W3C WD-server-timing-20171229
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20171229
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-server-timing-20171229
+    id: W3CWD-server-timing-20220421
     docid:
-    - id: W3C WD-server-timing-20171229
+    - id: W3C WD-server-timing-20220421
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-server-timing-20171229
+      content: W3C WD-server-timing-20220421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,16 +103,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-server-timing-20220421
-    docid:
-    - id: W3C WD-server-timing-20220421
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-server-timing-20220421
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-server-timing-20150717
     docid:
     - id: W3C WD-server-timing-20150717
@@ -100,16 +110,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-server-timing-20150717
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-server-timing-20181019
-    docid:
-    - id: W3C WD-server-timing-20181019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-server-timing-20181019
       format: text/plain
 series:
 - title:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-grek-lreq-20240815
+id: W3CDNOTE-jpan-lreq-20240905
 title:
-- content: Greek Script Resources
+- content: Japanese Script Resources
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240815/
+- content: https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240905/
   type: src
-- content: https://w3c.github.io/eurlreq/grek/
+- content: https://w3c.github.io/jlreq/jpan/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-grek-lreq-20240815
+- id: W3C DNOTE-jpan-lreq-20240905
   type: W3C
   primary: true
-docnumber: DNOTE-grek-lreq-20240815
+docnumber: DNOTE-jpan-lreq-20240905
 date:
 - type: published
-  value: '2024-08-15'
+  value: '2024-09-05'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-15'
+revdate: '2024-09-05'
 language:
 - en
 script:
@@ -37,19 +37,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-grek-lreq-20240808
+    id: W3CDNOTE-jpan-lreq-20240815
     docid:
-    - id: W3C DNOTE-grek-lreq-20240808
+    - id: W3C DNOTE-jpan-lreq-20240815
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-grek-lreq-20240808
+      content: W3C DNOTE-jpan-lreq-20240815
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-grek-lreq-20240815
+  number: DNOTE-jpan-lreq-20240905
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

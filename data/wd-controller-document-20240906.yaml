@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-cascade-6-20230321
+id: W3CWD-controller-document-20240906
 title:
-- content: CSS Cascading and Inheritance Level 6
+- content: Controller Documents 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2023/WD-css-cascade-6-20230321/
+- content: https://www.w3.org/TR/2024/WD-controller-document-20240906/
   type: src
-- content: https://drafts.csswg.org/css-cascade-6/
+- content: https://w3c.github.io/controller-document/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-cascade-6-20230321
+- id: W3C WD-controller-document-20240906
   type: W3C
   primary: true
-docnumber: WD-css-cascade-6-20230321
+docnumber: WD-controller-document-20240906
 date:
 - type: published
-  value: '2023-03-21'
+  value: '2024-09-06'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Manu Sporny
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Miriam Suzanne
+        content: Michael Jones
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Tab Atkins Jr.
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2023-03-21'
+revdate: '2024-09-06'
 language:
 - en
 script:
@@ -60,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-cascade-6-20211221
+    id: W3CWD-controller-document-20240902
     docid:
-    - id: W3C WD-css-cascade-6-20211221
+    - id: W3C WD-controller-document-20240902
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-cascade-6-20211221
+      content: W3C WD-controller-document-20240902
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-cascade-6-20230321
+  number: WD-controller-document-20240906
 doctype: technicalReport
 editorialgroup:
-- name: Cascading Style Sheets Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

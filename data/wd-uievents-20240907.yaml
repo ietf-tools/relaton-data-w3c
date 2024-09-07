@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20240902
+id: W3CWD-uievents-20240907
 title:
-- content: Controller Documents 1.0
+- content: UI Events
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-controller-document-20240902/
+- content: https://www.w3.org/TR/2024/WD-uievents-20240907/
   type: src
-- content: https://w3c.github.io/controller-document/
+- content: https://w3c.github.io/uievents/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20240902
+- id: W3C WD-uievents-20240907
   type: W3C
   primary: true
-docnumber: WD-controller-document-20240902
+docnumber: WD-uievents-20240907
 date:
 - type: published
-  value: '2024-09-02'
+  value: '2024-09-07'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Gary Kacmarcik
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Travis Leithead
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-02'
+revdate: '2024-09-07'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20240831
+    id: W3CWD-uievents-20240906
     docid:
-    - id: W3C WD-controller-document-20240831
+    - id: W3C WD-uievents-20240906
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20240831
+      content: W3C WD-uievents-20240906
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-controller-document-20240902
+  number: WD-uievents-20240907
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

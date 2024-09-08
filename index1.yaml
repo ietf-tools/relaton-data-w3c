@@ -27069,10 +27069,10 @@
     :date: '20240812'
   :file: data/wd-css-inline-3-20240812.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
+    :code: privacy-principles
+    :type: NOTE
     :date: '20240813'
-  :file: data/crd-vc-jose-cose-20240813.yaml
+  :file: data/note-privacy-principles-20240813.yaml
 - :id:
     :code: guru-lreq
     :type: DNOTE
@@ -27084,15 +27084,15 @@
     :date: '20240808'
   :file: data/dnote-taml-lreq-20240808.yaml
 - :id:
+    :code: ethical-web-principles
+    :type: NOTE
+    :date: '20240813'
+  :file: data/note-ethical-web-principles-20240813.yaml
+- :id:
     :code: kore-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-kore-lreq-20240808.yaml
-- :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-privacy-principles-20240813.yaml
 - :id:
     :code: mong-lreq
     :type: DNOTE
@@ -27104,15 +27104,15 @@
     :date: '20240809'
   :file: data/dnote-java-lreq-20240809.yaml
 - :id:
-    :code: ethical-web-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-ethical-web-principles-20240813.yaml
-- :id:
     :code: khmr-lreq
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-khmr-lreq-20240809.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240813'
+  :file: data/wd-credential-management-1-20240813.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -27123,11 +27123,6 @@
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-tibt-lreq-20240809.yaml
-- :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240813'
-  :file: data/wd-credential-management-1-20240813.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
@@ -27414,6 +27409,11 @@
     :date: '20240907'
   :file: data/wd-uievents-20240907.yaml
 - :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240907'
+  :file: data/crd-vc-jose-cose-20240907.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27675,9 +27675,6 @@
     :code: gujr-lreq
   :file: data/gujr-lreq.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: guru-lreq
   :file: data/guru-lreq.yaml
 - :id:
@@ -27779,3 +27776,6 @@
 - :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
+- :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml

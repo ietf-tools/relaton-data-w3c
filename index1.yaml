@@ -27389,11 +27389,6 @@
     :date: '20240906'
   :file: data/wd-webgpu-20240906.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20240906'
-  :file: data/wd-controller-document-20240906.yaml
-- :id:
     :code: epub-a11y-exemption
     :type: NOTE
     :date: '20240906'
@@ -27413,6 +27408,11 @@
     :stage: CRD
     :date: '20240907'
   :file: data/crd-vc-jose-cose-20240907.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20240908'
+  :file: data/wd-controller-document-20240908.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27771,11 +27771,11 @@
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
 - :id:
-    :code: controller-document
-  :file: data/controller-document.yaml
-- :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
+- :id:
+    :code: controller-document
+  :file: data/controller-document.yaml

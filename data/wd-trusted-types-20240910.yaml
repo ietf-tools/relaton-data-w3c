@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20240808
+id: W3CWD-trusted-types-20240910
 title:
-- content: Media Capabilities
+- content: Trusted Types
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240808/
+- content: https://www.w3.org/TR/2024/WD-trusted-types-20240910/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://w3c.github.io/trusted-types/dist/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20240808
+- id: W3C WD-trusted-types-20240910
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20240808
+docnumber: WD-trusted-types-20240910
 date:
 - type: published
-  value: '2024-08-08'
+  value: '2024-09-10'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Krzysztof Kotowicz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-08'
+revdate: '2024-09-10'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240724
+    id: W3CWD-trusted-types-20240909
     docid:
-    - id: W3C WD-media-capabilities-20240724
+    - id: W3C WD-trusted-types-20240909
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240724
+      content: W3C WD-trusted-types-20240909
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20240808
+  number: WD-trusted-types-20240910
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

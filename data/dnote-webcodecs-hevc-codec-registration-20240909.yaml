@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-opus-codec-registration-20240717
+id: W3CDNOTE-webcodecs-hevc-codec-registration-20240909
 title:
-- content: Opus WebCodecs Registration
+- content: HEVC (H.265) WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-opus-codec-registration-20240717/
+- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240909/
   type: src
-- content: https://w3c.github.io/webcodecs/opus_codec_registration.html
+- content: https://w3c.github.io/webcodecs/hevc_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-opus-codec-registration-20240717
+- id: W3C DNOTE-webcodecs-hevc-codec-registration-20240909
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-opus-codec-registration-20240717
+docnumber: DNOTE-webcodecs-hevc-codec-registration-20240909
 date:
 - type: published
-  value: '2024-07-17'
+  value: '2024-09-09'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-17'
+revdate: '2024-09-09'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-opus-codec-registration-20240704
+    id: W3CDNOTE-webcodecs-hevc-codec-registration-20240717
     docid:
-    - id: W3C DNOTE-webcodecs-opus-codec-registration-20240704
+    - id: W3C DNOTE-webcodecs-hevc-codec-registration-20240717
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-opus-codec-registration-20240704
+      content: W3C DNOTE-webcodecs-hevc-codec-registration-20240717
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-opus-codec-registration-20240717
+  number: DNOTE-webcodecs-hevc-codec-registration-20240909
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-vp8-codec-registration-20240717
+id: W3CDNOTE-webcodecs-ulaw-codec-registration-20240909
 title:
-- content: VP8 WebCodecs Registration
+- content: u-law PCM WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-vp8-codec-registration-20240717/
+- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-ulaw-codec-registration-20240909/
   type: src
-- content: https://w3c.github.io/webcodecs/vp8_codec_registration.html
+- content: https://w3c.github.io/webcodecs/ulaw_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-vp8-codec-registration-20240717
+- id: W3C DNOTE-webcodecs-ulaw-codec-registration-20240909
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-vp8-codec-registration-20240717
+docnumber: DNOTE-webcodecs-ulaw-codec-registration-20240909
 date:
 - type: published
-  value: '2024-07-17'
+  value: '2024-09-09'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-17'
+revdate: '2024-09-09'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-vp8-codec-registration-20240711
+    id: W3CDNOTE-webcodecs-ulaw-codec-registration-20240717
     docid:
-    - id: W3C DNOTE-webcodecs-vp8-codec-registration-20240711
+    - id: W3C DNOTE-webcodecs-ulaw-codec-registration-20240717
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-vp8-codec-registration-20240711
+      content: W3C DNOTE-webcodecs-ulaw-codec-registration-20240717
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-vp8-codec-registration-20240717
+  number: DNOTE-webcodecs-ulaw-codec-registration-20240909
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20240906
+id: W3CCRD-payment-request-20240909
 title:
-- content: WebGPU
+- content: Payment Request API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webgpu-20240906/
+- content: https://www.w3.org/TR/2024/CRD-payment-request-20240909/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/payment-request/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20240906
+- id: W3C CRD-payment-request-20240909
   type: W3C
   primary: true
-docnumber: WD-webgpu-20240906
+docnumber: CRD-payment-request-20240909
 date:
 - type: published
-  value: '2024-09-06'
+  value: '2024-09-09'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Ian Jacobs
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -42,37 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Rouslan Solomakhin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-06'
+revdate: '2024-09-09'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20240905
+    id: W3CCRD-payment-request-20240814
     docid:
-    - id: W3C WD-webgpu-20240905
+    - id: W3C CRD-payment-request-20240814
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20240905
+      content: W3C CRD-payment-request-20240814
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webgpu-20240906
+  number: CRD-payment-request-20240909
 doctype: technicalReport
+editorialgroup:
+- name: Web Payments Working Group
 ext:
   schema-version: v1.0.0

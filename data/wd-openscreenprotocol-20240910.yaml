@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-trusted-types-20240718
+id: W3CWD-openscreenprotocol-20240910
 title:
-- content: Trusted Types
+- content: Open Screen Protocol
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-trusted-types-20240718/
+- content: https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/
   type: src
-- content: https://w3c.github.io/trusted-types/dist/spec/
+- content: https://w3c.github.io/openscreenprotocol/
   type: current
 type: standard
 docid:
-- id: W3C WD-trusted-types-20240718
+- id: W3C WD-openscreenprotocol-20240910
   type: W3C
   primary: true
-docnumber: WD-trusted-types-20240718
+docnumber: WD-openscreenprotocol-20240910
 date:
 - type: published
-  value: '2024-07-18'
+  value: '2024-09-10'
 contributor:
 - person:
     name:
       completename:
-        content: Krzysztof Kotowicz
+        content: Mark Foltz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-18'
+revdate: '2024-09-10'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-trusted-types-20240619
+    id: W3CWD-openscreenprotocol-20240801
     docid:
-    - id: W3C WD-trusted-types-20240619
+    - id: W3C WD-openscreenprotocol-20240801
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-trusted-types-20240619
+      content: W3C WD-openscreenprotocol-20240801
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-trusted-types-20240718
+  number: WD-openscreenprotocol-20240910
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Second Screen Working Group
 ext:
   schema-version: v1.0.0

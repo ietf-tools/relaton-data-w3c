@@ -27244,21 +27244,6 @@
     :date: '20240903'
   :file: data/wd-push-api-20240903.yaml
 - :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20240903'
-  :file: data/wd-wasm-js-api-2-20240903.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20240903'
-  :file: data/wd-wasm-web-api-2-20240903.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20240903'
-  :file: data/wd-wasm-core-2-20240903.yaml
-- :id:
     :code: webmidi
     :stage: WD
     :date: '20240905'
@@ -27269,25 +27254,25 @@
     :date: '20240905'
   :file: data/wd-appmanifest-20240905.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20240905'
-  :file: data/dnote-grek-lreq-20240905.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240905'
   :file: data/crd-webnn-20240905.yaml
 - :id:
-    :code: jpan-lreq
+    :code: grek-lreq
     :type: DNOTE
     :date: '20240905'
-  :file: data/dnote-jpan-lreq-20240905.yaml
+  :file: data/dnote-grek-lreq-20240905.yaml
 - :id:
     :code: epub-a11y-exemption
     :type: NOTE
     :date: '20240906'
   :file: data/note-epub-a11y-exemption-20240906.yaml
+- :id:
+    :code: jpan-lreq
+    :type: DNOTE
+    :date: '20240905'
+  :file: data/dnote-jpan-lreq-20240905.yaml
 - :id:
     :code: css-cascade-6
     :stage: WD
@@ -27313,11 +27298,6 @@
     :stage: WD
     :date: '20240909'
   :file: data/wd-csp3-20240909.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240909'
-  :file: data/wd-webgpu-20240909.yaml
 - :id:
     :code: WGSL
     :stage: WD
@@ -27418,6 +27398,26 @@
     :stage: WD
     :date: '20240910'
   :file: data/wd-trusted-types-20240910.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240911'
+  :file: data/wd-webgpu-20240911.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20240911'
+  :file: data/wd-wasm-web-api-2-20240911.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20240911'
+  :file: data/wd-wasm-core-2-20240911.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20240911'
+  :file: data/wd-wasm-js-api-2-20240911.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27764,11 +27764,11 @@
     :code: grek-lreq
   :file: data/grek-lreq.yaml
 - :id:
-    :code: jpan-lreq
-  :file: data/jpan-lreq.yaml
-- :id:
     :code: epub-a11y-exemption
   :file: data/epub-a11y-exemption.yaml
+- :id:
+    :code: jpan-lreq
+  :file: data/jpan-lreq.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml

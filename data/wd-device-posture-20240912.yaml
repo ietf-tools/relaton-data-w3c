@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webgpu-20240911
+id: W3CWD-device-posture-20240912
 title:
-- content: WebGPU
+- content: Device Posture API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webgpu-20240911/
+- content: https://www.w3.org/TR/2024/WD-device-posture-20240912/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/device-posture/
   type: current
 type: standard
 docid:
-- id: W3C WD-webgpu-20240911
+- id: W3C WD-device-posture-20240912
   type: W3C
   primary: true
-docnumber: WD-webgpu-20240911
+docnumber: WD-device-posture-20240912
 date:
 - type: published
-  value: '2024-09-11'
+  value: '2024-09-12'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Alexis Menard
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Diego Gonzalez-Zuniga
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Kenneth Christiansen
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-11'
+revdate: '2024-09-12'
 language:
 - en
 script:
@@ -60,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webgpu-20240910
+    id: W3CWD-device-posture-20240723
     docid:
-    - id: W3C WD-webgpu-20240910
+    - id: W3C WD-device-posture-20240723
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webgpu-20240910
+      content: W3C WD-device-posture-20240723
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webgpu-20240911
+  number: WD-device-posture-20240912
 doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

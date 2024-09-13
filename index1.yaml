@@ -26024,11 +26024,6 @@
     :date: '20231214'
   :file: data/dnote-webrtc-nv-use-cases-20231214.yaml
 - :id:
-    :code: vc-json-schema
-    :stage: CRD
-    :date: '20231218'
-  :file: data/crd-vc-json-schema-20231218.yaml
-- :id:
     :code: css-images-3
     :stage: CRD
     :date: '20231218'
@@ -26249,11 +26244,6 @@
     :date: '20240418'
   :file: data/wd-sparql12-entailment-20240418.yaml
 - :id:
-    :code: sparql12-federated-query
-    :stage: WD
-    :date: '20240418'
-  :file: data/wd-sparql12-federated-query-20240418.yaml
-- :id:
     :code: sparql12-graph-store-protocol
     :stage: WD
     :date: '20240418'
@@ -26439,11 +26429,6 @@
     :date: '20240613'
   :file: data/rec-geolocation-20240613.yaml
 - :id:
-    :code: rdf12-trig
-    :stage: WD
-    :date: '20240613'
-  :file: data/wd-rdf12-trig-20240613.yaml
-- :id:
     :code: geolocation
     :stage: REC
     :date: '20240614'
@@ -26564,35 +26549,35 @@
     :date: '20240704'
   :file: data/dnote-grek-gap-20240704.yaml
 - :id:
-    :code: contact-picker
-    :stage: WD
-    :date: '20240708'
-  :file: data/wd-contact-picker-20240708.yaml
-- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20240704'
   :file: data/dnote-hebr-gap-20240704.yaml
 - :id:
-    :code: IFT
+    :code: contact-picker
     :stage: WD
-    :date: '20240709'
-  :file: data/wd-ift-20240709.yaml
+    :date: '20240708'
+  :file: data/wd-contact-picker-20240708.yaml
 - :id:
     :code: vc-overview
     :type: NOTE
     :date: '20240706'
   :file: data/note-vc-overview-20240706.yaml
 - :id:
-    :code: mlreq
-    :type: DNOTE
+    :code: IFT
+    :stage: WD
     :date: '20240709'
-  :file: data/dnote-mlreq-20240709.yaml
+  :file: data/wd-ift-20240709.yaml
 - :id:
     :code: clreq-gap
     :type: DNOTE
     :date: '20240709'
   :file: data/dnote-clreq-gap-20240709.yaml
+- :id:
+    :code: mlreq
+    :type: DNOTE
+    :date: '20240709'
+  :file: data/dnote-mlreq-20240709.yaml
 - :id:
     :code: alreq
     :type: DNOTE
@@ -26604,85 +26589,85 @@
     :date: '20240709'
   :file: data/dnote-alreq-gap-20240709.yaml
 - :id:
-    :code: adlm-gap
-    :type: DNOTE
-    :date: '20240709'
-  :file: data/dnote-adlm-gap-20240709.yaml
-- :id:
     :code: ctaur
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-ctaur-20240710.yaml
 - :id:
-    :code: nkoo-gap
+    :code: adlm-gap
     :type: DNOTE
     :date: '20240709'
-  :file: data/dnote-nkoo-gap-20240709.yaml
+  :file: data/dnote-adlm-gap-20240709.yaml
 - :id:
     :code: kore-gap
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-kore-gap-20240710.yaml
 - :id:
-    :code: cher-gap
+    :code: nkoo-gap
     :type: DNOTE
     :date: '20240709'
-  :file: data/dnote-cher-gap-20240709.yaml
+  :file: data/dnote-nkoo-gap-20240709.yaml
 - :id:
     :code: eme-initdata-cenc
     :type: NOTE
     :date: '20240718'
   :file: data/note-eme-initdata-cenc-20240718.yaml
 - :id:
+    :code: cher-gap
+    :type: DNOTE
+    :date: '20240709'
+  :file: data/dnote-cher-gap-20240709.yaml
+- :id:
     :code: cans-iu-cr-gap
     :type: DNOTE
     :date: '20240709'
   :file: data/dnote-cans-iu-cr-gap-20240709.yaml
-- :id:
-    :code: osge-osa-gap
-    :type: DNOTE
-    :date: '20240709'
-  :file: data/dnote-osge-osa-gap-20240709.yaml
 - :id:
     :code: eme-initdata-webm
     :type: NOTE
     :date: '20240718'
   :file: data/note-eme-initdata-webm-20240718.yaml
 - :id:
-    :code: elreq-gap
+    :code: osge-osa-gap
     :type: DNOTE
     :date: '20240709'
-  :file: data/dnote-elreq-gap-20240709.yaml
+  :file: data/dnote-osge-osa-gap-20240709.yaml
 - :id:
     :code: eme-stream-mp4
     :type: NOTE
     :date: '20240718'
   :file: data/note-eme-stream-mp4-20240718.yaml
 - :id:
+    :code: elreq-gap
+    :type: DNOTE
+    :date: '20240709'
+  :file: data/dnote-elreq-gap-20240709.yaml
+- :id:
     :code: taml-gap
     :type: DNOTE
     :date: '20240709'
   :file: data/dnote-taml-gap-20240709.yaml
-- :id:
-    :code: beng-gap
-    :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-beng-gap-20240710.yaml
 - :id:
     :code: eme-stream-webm
     :type: NOTE
     :date: '20240718'
   :file: data/note-eme-stream-webm-20240718.yaml
 - :id:
-    :code: deva-gap
+    :code: beng-gap
     :type: DNOTE
     :date: '20240710'
-  :file: data/dnote-deva-gap-20240710.yaml
+  :file: data/dnote-beng-gap-20240710.yaml
 - :id:
     :code: png-3
     :stage: CRD
     :date: '20240718'
   :file: data/crd-png-3-20240718.yaml
+- :id:
+    :code: deva-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-deva-gap-20240710.yaml
 - :id:
     :code: gujr-gap
     :type: DNOTE
@@ -26719,15 +26704,15 @@
     :date: '20240710'
   :file: data/dnote-khmr-gap-20240710.yaml
 - :id:
-    :code: tibt-gap
-    :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-tibt-gap-20240710.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20240718'
   :file: data/wd-mediasession-20240718.yaml
+- :id:
+    :code: tibt-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-tibt-gap-20240710.yaml
 - :id:
     :code: webrtc-stats
     :stage: CRD
@@ -26819,20 +26804,15 @@
     :date: '20240723'
   :file: data/wd-webdriver2-20240723.yaml
 - :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20240723'
-  :file: data/wd-device-posture-20240723.yaml
+    :code: ilreq-taml
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-ilreq-taml-20240724.yaml
 - :id:
     :code: permissions-policy-1
     :stage: WD
     :date: '20240724'
   :file: data/wd-permissions-policy-1-20240724.yaml
-- :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-ilreq-taml-20240724.yaml
 - :id:
     :code: latn-nl-gap
     :type: DNOTE
@@ -27219,11 +27199,6 @@
     :date: '20240829'
   :file: data/wd-sparql12-results-xml-20240829.yaml
 - :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20240829'
-  :file: data/wd-rdf12-turtle-20240829.yaml
-- :id:
     :code: did-spec-registries
     :type: NOTE
     :date: '20240831'
@@ -27264,15 +27239,15 @@
     :date: '20240905'
   :file: data/dnote-grek-lreq-20240905.yaml
 - :id:
-    :code: epub-a11y-exemption
-    :type: NOTE
-    :date: '20240906'
-  :file: data/note-epub-a11y-exemption-20240906.yaml
-- :id:
     :code: jpan-lreq
     :type: DNOTE
     :date: '20240905'
   :file: data/dnote-jpan-lreq-20240905.yaml
+- :id:
+    :code: epub-a11y-exemption
+    :type: NOTE
+    :date: '20240906'
+  :file: data/note-epub-a11y-exemption-20240906.yaml
 - :id:
     :code: css-cascade-6
     :stage: WD
@@ -27399,11 +27374,6 @@
     :date: '20240910'
   :file: data/wd-trusted-types-20240910.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240911'
-  :file: data/wd-webgpu-20240911.yaml
-- :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20240911'
@@ -27418,6 +27388,36 @@
     :stage: WD
     :date: '20240911'
   :file: data/wd-wasm-js-api-2-20240911.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240912'
+  :file: data/wd-device-posture-20240912.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20240912'
+  :file: data/wd-rdf12-turtle-20240912.yaml
+- :id:
+    :code: sparql12-federated-query
+    :stage: WD
+    :date: '20240912'
+  :file: data/wd-sparql12-federated-query-20240912.yaml
+- :id:
+    :code: rdf12-trig
+    :stage: WD
+    :date: '20240912'
+  :file: data/wd-rdf12-trig-20240912.yaml
+- :id:
+    :code: vc-json-schema
+    :stage: CRD
+    :date: '20240912'
+  :file: data/crd-vc-json-schema-20240912.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240912'
+  :file: data/wd-webgpu-20240912.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27505,9 +27505,6 @@
     :date: '2023'
   :file: data/css-2023.yaml
 - :id:
-    :code: vc-json-schema
-  :file: data/vc-json-schema.yaml
-- :id:
     :code: webmachinelearning-ethics
   :file: data/webmachinelearning-ethics.yaml
 - :id:
@@ -27541,9 +27538,6 @@
     :code: sparql12-entailment
   :file: data/sparql12-entailment.yaml
 - :id:
-    :code: sparql12-federated-query
-  :file: data/sparql12-federated-query.yaml
-- :id:
     :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :id:
@@ -27567,9 +27561,6 @@
 - :id:
     :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
-- :id:
-    :code: rdf12-trig
-  :file: data/rdf12-trig.yaml
 - :id:
     :code: compute-pressure
   :file: data/compute-pressure.yaml
@@ -27755,20 +27746,17 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
-    :code: rdf12-turtle
-  :file: data/rdf12-turtle.yaml
-- :id:
     :code: css-values-5
   :file: data/css-values-5.yaml
 - :id:
     :code: grek-lreq
   :file: data/grek-lreq.yaml
 - :id:
-    :code: epub-a11y-exemption
-  :file: data/epub-a11y-exemption.yaml
-- :id:
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
+- :id:
+    :code: epub-a11y-exemption
+  :file: data/epub-a11y-exemption.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
@@ -27784,3 +27772,15 @@
 - :id:
     :code: trusted-types
   :file: data/trusted-types.yaml
+- :id:
+    :code: rdf12-turtle
+  :file: data/rdf12-turtle.yaml
+- :id:
+    :code: sparql12-federated-query
+  :file: data/sparql12-federated-query.yaml
+- :id:
+    :code: rdf12-trig
+  :file: data/rdf12-trig.yaml
+- :id:
+    :code: vc-json-schema
+  :file: data/vc-json-schema.yaml

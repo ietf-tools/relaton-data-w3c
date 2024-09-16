@@ -26384,11 +26384,6 @@
     :date: '20240531'
   :file: data/wd-webxr-depth-sensing-1-20240531.yaml
 - :id:
-    :code: vc-specs-dir
-    :type: NOTE
-    :date: '20240601'
-  :file: data/note-vc-specs-dir-20240601.yaml
-- :id:
     :code: change-password-url
     :stage: WD
     :date: '20240603'
@@ -26854,10 +26849,15 @@
     :date: '20240724'
   :file: data/dnote-latn-ca-gap-20240724.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20240803'
-  :file: data/crd-vc-data-integrity-20240803.yaml
+    :code: css-box-4
+    :stage: WD
+    :date: '20240804'
+  :file: data/wd-css-box-4-20240804.yaml
+- :id:
+    :code: encrypted-media-2
+    :stage: WD
+    :date: '20240807'
+  :file: data/wd-encrypted-media-2-20240807.yaml
 - :id:
     :code: tlreq
     :type: DNOTE
@@ -26869,25 +26869,10 @@
     :date: '20240802'
   :file: data/dnote-adlm-lreq-20240802.yaml
 - :id:
-    :code: css-box-4
-    :stage: WD
-    :date: '20240804'
-  :file: data/wd-css-box-4-20240804.yaml
-- :id:
-    :code: encrypted-media-2
-    :stage: WD
-    :date: '20240807'
-  :file: data/wd-encrypted-media-2-20240807.yaml
-- :id:
     :code: WOFF2
     :stage: REC
     :date: '20240808'
   :file: data/rec-woff2-20240808.yaml
-- :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20240808'
-  :file: data/wd-rdf12-n-quads-20240808.yaml
 - :id:
     :code: cans-lreq
     :type: DNOTE
@@ -26899,85 +26884,90 @@
     :date: '20240808'
   :file: data/dnote-cher-lreq-20240808.yaml
 - :id:
-    :code: rdf12-n-triples
+    :code: rdf12-n-quads
     :stage: WD
     :date: '20240808'
-  :file: data/wd-rdf12-n-triples-20240808.yaml
+  :file: data/wd-rdf12-n-quads-20240808.yaml
 - :id:
     :code: osge-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-osge-lreq-20240808.yaml
 - :id:
-    :code: gamepad
-    :stage: WD
-    :date: '20240809'
-  :file: data/wd-gamepad-20240809.yaml
-- :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-hani-lreq-20240808.yaml
 - :id:
-    :code: geolocation
-    :stage: REC
-    :date: '20240809'
-  :file: data/rec-geolocation-20240809.yaml
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20240808'
+  :file: data/wd-rdf12-n-triples-20240808.yaml
 - :id:
     :code: cyrl-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cyrl-lreq-20240808.yaml
 - :id:
+    :code: gamepad
+    :stage: WD
+    :date: '20240809'
+  :file: data/wd-gamepad-20240809.yaml
+- :id:
     :code: geor-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-geor-lreq-20240808.yaml
 - :id:
-    :code: css-position-3
-    :stage: WD
-    :date: '20240810'
-  :file: data/wd-css-position-3-20240810.yaml
+    :code: geolocation
+    :stage: REC
+    :date: '20240809'
+  :file: data/rec-geolocation-20240809.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-beng-lreq-20240808.yaml
 - :id:
-    :code: css-inline-3
-    :stage: WD
-    :date: '20240812'
-  :file: data/wd-css-inline-3-20240812.yaml
-- :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-deva-lreq-20240808.yaml
 - :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-privacy-principles-20240813.yaml
+    :code: css-position-3
+    :stage: WD
+    :date: '20240810'
+  :file: data/wd-css-position-3-20240810.yaml
 - :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-gujr-lreq-20240808.yaml
 - :id:
+    :code: css-inline-3
+    :stage: WD
+    :date: '20240812'
+  :file: data/wd-css-inline-3-20240812.yaml
+- :id:
+    :code: privacy-principles
+    :type: NOTE
+    :date: '20240813'
+  :file: data/note-privacy-principles-20240813.yaml
+- :id:
     :code: guru-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-guru-lreq-20240808.yaml
 - :id:
-    :code: ethical-web-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-ethical-web-principles-20240813.yaml
-- :id:
     :code: taml-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-taml-lreq-20240808.yaml
+- :id:
+    :code: ethical-web-principles
+    :type: NOTE
+    :date: '20240813'
+  :file: data/note-ethical-web-principles-20240813.yaml
 - :id:
     :code: kore-lreq
     :type: DNOTE
@@ -26994,30 +26984,30 @@
     :date: '20240809'
   :file: data/dnote-java-lreq-20240809.yaml
 - :id:
-    :code: credential-management-1
-    :stage: WD
-    :date: '20240813'
-  :file: data/wd-credential-management-1-20240813.yaml
-- :id:
     :code: khmr-lreq
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-khmr-lreq-20240809.yaml
+- :id:
+    :code: credential-management-1
+    :stage: WD
+    :date: '20240813'
+  :file: data/wd-credential-management-1-20240813.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-laoo-lreq-20240809.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20240813'
-  :file: data/crd-core-aam-1.2-20240813.yaml
-- :id:
     :code: tibt-lreq
     :type: DNOTE
     :date: '20240809'
   :file: data/dnote-tibt-lreq-20240809.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20240813'
+  :file: data/crd-core-aam-1.2-20240813.yaml
 - :id:
     :code: reporting-1
     :stage: WD
@@ -27139,30 +27129,10 @@
     :date: '20240823'
   :file: data/crd-presentation-api-20240823.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20240828'
-  :file: data/crd-vc-data-model-2.0-20240828.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240828'
-  :file: data/crd-vc-di-ecdsa-20240828.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240828'
-  :file: data/crd-vc-di-eddsa-20240828.yaml
-- :id:
     :code: vc-di-bbs
     :stage: CRD
     :date: '20240828'
   :file: data/crd-vc-di-bbs-20240828.yaml
-- :id:
-    :code: dapt
-    :stage: WD
-    :date: '20240829'
-  :file: data/wd-dapt-20240829.yaml
 - :id:
     :code: sparql12-update
     :stage: WD
@@ -27224,15 +27194,15 @@
     :date: '20240905'
   :file: data/wd-appmanifest-20240905.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20240905'
-  :file: data/dnote-grek-lreq-20240905.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20240905'
   :file: data/crd-webnn-20240905.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20240905'
+  :file: data/dnote-grek-lreq-20240905.yaml
 - :id:
     :code: jpan-lreq
     :type: DNOTE
@@ -27419,6 +27389,36 @@
     :date: '20240914'
   :file: data/wd-openscreenprotocol-20240914.yaml
 - :id:
+    :code: vc-specs-dir
+    :type: NOTE
+    :date: '20240915'
+  :file: data/note-vc-specs-dir-20240915.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20240915'
+  :file: data/crd-vc-data-model-2.0-20240915.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20240916'
+  :file: data/crd-vc-data-integrity-20240916.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20240916'
+  :file: data/crd-vc-di-ecdsa-20240916.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20240916'
+  :file: data/crd-vc-di-eddsa-20240916.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20240916'
+  :file: data/wd-dapt-20240916.yaml
+- :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
 - :id:
@@ -27550,9 +27550,6 @@
     :code: epub-fxl-a11y
   :file: data/epub-fxl-a11y.yaml
 - :id:
-    :code: vc-specs-dir
-  :file: data/vc-specs-dir.yaml
-- :id:
     :code: change-password-url
   :file: data/change-password-url.yaml
 - :id:
@@ -27620,17 +27617,11 @@
     :code: latn-ca-gap
   :file: data/latn-ca-gap.yaml
 - :id:
-    :code: vc-data-integrity
-  :file: data/vc-data-integrity.yaml
-- :id:
-    :code: adlm-lreq
-  :file: data/adlm-lreq.yaml
-- :id:
     :code: encrypted-media-2
   :file: data/encrypted-media-2.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
+    :code: adlm-lreq
+  :file: data/adlm-lreq.yaml
 - :id:
     :code: cans-lreq
   :file: data/cans-lreq.yaml
@@ -27638,14 +27629,17 @@
     :code: cher-lreq
   :file: data/cher-lreq.yaml
 - :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
 - :id:
     :code: osge-lreq
   :file: data/osge-lreq.yaml
 - :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml
+- :id:
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: cyrl-lreq
   :file: data/cyrl-lreq.yaml
@@ -27710,20 +27704,8 @@
     :code: rdf12-concepts
   :file: data/rdf12-concepts.yaml
 - :id:
-    :code: vc-data-model-2.0
-  :file: data/vc-data-model-2.0.yaml
-- :id:
-    :code: vc-di-ecdsa
-  :file: data/vc-di-ecdsa.yaml
-- :id:
-    :code: vc-di-eddsa
-  :file: data/vc-di-eddsa.yaml
-- :id:
     :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
-- :id:
-    :code: dapt
-  :file: data/dapt.yaml
 - :id:
     :code: sparql12-update
   :file: data/sparql12-update.yaml
@@ -27784,3 +27766,21 @@
 - :id:
     :code: css-values-5
   :file: data/css-values-5.yaml
+- :id:
+    :code: vc-specs-dir
+  :file: data/vc-specs-dir.yaml
+- :id:
+    :code: vc-data-model-2.0
+  :file: data/vc-data-model-2.0.yaml
+- :id:
+    :code: vc-data-integrity
+  :file: data/vc-data-integrity.yaml
+- :id:
+    :code: vc-di-ecdsa
+  :file: data/vc-di-ecdsa.yaml
+- :id:
+    :code: vc-di-eddsa
+  :file: data/vc-di-eddsa.yaml
+- :id:
+    :code: dapt
+  :file: data/dapt.yaml

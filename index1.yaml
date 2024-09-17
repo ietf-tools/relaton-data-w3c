@@ -27239,11 +27239,6 @@
     :date: '20240909'
   :file: data/wd-csp3-20240909.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240909'
-  :file: data/wd-wgsl-20240909.yaml
-- :id:
     :code: payment-request
     :stage: CRD
     :date: '20240909'
@@ -27379,20 +27374,10 @@
     :date: '20240912'
   :file: data/wd-webgpu-20240912.yaml
 - :id:
-    :code: css-values-5
-    :stage: WD
-    :date: '20240913'
-  :file: data/wd-css-values-5-20240913.yaml
-- :id:
     :code: openscreenprotocol
     :stage: WD
     :date: '20240914'
   :file: data/wd-openscreenprotocol-20240914.yaml
-- :id:
-    :code: vc-specs-dir
-    :type: NOTE
-    :date: '20240915'
-  :file: data/note-vc-specs-dir-20240915.yaml
 - :id:
     :code: vc-data-model-2.0
     :stage: CRD
@@ -27418,6 +27403,26 @@
     :stage: WD
     :date: '20240916'
   :file: data/wd-dapt-20240916.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240916'
+  :file: data/wd-wgsl-20240916.yaml
+- :id:
+    :code: geolocation
+    :stage: REC
+    :date: '20240916'
+  :file: data/rec-geolocation-20240916.yaml
+- :id:
+    :code: vc-extensions
+    :type: NOTE
+    :date: '20240917'
+  :file: data/note-vc-extensions-20240917.yaml
+- :id:
+    :code: css-values-5
+    :stage: WD
+    :date: '20240917'
+  :file: data/wd-css-values-5-20240917.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27764,12 +27769,6 @@
     :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :id:
-    :code: css-values-5
-  :file: data/css-values-5.yaml
-- :id:
-    :code: vc-specs-dir
-  :file: data/vc-specs-dir.yaml
-- :id:
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
@@ -27784,3 +27783,9 @@
 - :id:
     :code: dapt
   :file: data/dapt.yaml
+- :id:
+    :code: vc-extensions
+  :file: data/vc-extensions.yaml
+- :id:
+    :code: css-values-5
+  :file: data/css-values-5.yaml

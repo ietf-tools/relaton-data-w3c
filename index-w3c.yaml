@@ -3284,8 +3284,8 @@
   :file: data/css-values-5.yaml
 - :code: css-values-5
   :stage: WD
-  :date: '20240913'
-  :file: data/wd-css-values-5-20240913.yaml
+  :date: '20240917'
+  :file: data/wd-css-values-5-20240917.yaml
 - :code: css-variables
   :file: data/css-variables.yaml
 - :code: css-variables
@@ -6298,6 +6298,10 @@
   :file: data/wd-geofencing-20150604.yaml
 - :code: geolocation
   :file: data/geolocation.yaml
+- :code: geolocation
+  :stage: REC
+  :date: '20240916'
+  :file: data/rec-geolocation-20240916.yaml
 - :code: geolocation
   :stage: REC
   :date: '20240815'
@@ -15459,6 +15463,12 @@
   :stage: CRD
   :date: '20240916'
   :file: data/crd-vc-di-eddsa-20240916.yaml
+- :code: vc-extensions
+  :file: data/vc-extensions.yaml
+- :code: vc-extensions
+  :type: NOTE
+  :date: '20240917'
+  :file: data/note-vc-extensions-20240917.yaml
 - :code: vc-imp-guide
   :file: data/vc-imp-guide.yaml
 - :code: vc-imp-guide
@@ -15486,12 +15496,6 @@
   :type: NOTE
   :date: '20240706'
   :file: data/note-vc-overview-20240706.yaml
-- :code: vc-specs-dir
-  :file: data/vc-specs-dir.yaml
-- :code: vc-specs-dir
-  :type: NOTE
-  :date: '20240915'
-  :file: data/note-vc-specs-dir-20240915.yaml
 - :code: vc-use-cases
   :file: data/vc-use-cases.yaml
 - :code: vc-use-cases
@@ -17683,8 +17687,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20240909'
-  :file: data/wd-wgsl-20240909.yaml
+  :date: '20240916'
+  :file: data/wd-wgsl-20240916.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'

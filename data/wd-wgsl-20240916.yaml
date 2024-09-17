@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-css-values-5-20240913
+id: W3CWD-WGSL-20240916
 title:
-- content: CSS Values and Units Module Level 5
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-css-values-5-20240913/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240916/
   type: src
-- content: https://drafts.csswg.org/css-values-5/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-css-values-5-20240913
+- id: W3C WD-WGSL-20240916
   type: W3C
   primary: true
-docnumber: WD-css-values-5-20240913
+docnumber: WD-WGSL-20240916
 date:
 - type: published
-  value: '2024-09-13'
+  value: '2024-09-16'
 contributor:
 - person:
     name:
       completename:
-        content: Elika Etemad
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Miriam Suzanne
+        content: David Neto
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Tab Atkins Jr.
+        content: Mehmet Oguz Derin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-13'
+revdate: '2024-09-16'
 language:
 - en
 script:
@@ -60,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-css-values-5-20240903
+    id: W3CWD-WGSL-20240909
     docid:
-    - id: W3C WD-css-values-5-20240903
+    - id: W3C WD-WGSL-20240909
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-values-5-20240903
+      content: W3C WD-WGSL-20240909
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-css-values-5-20240913
+  number: WD-WGSL-20240916
 doctype: technicalReport
-editorialgroup:
-- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

@@ -27194,10 +27194,10 @@
     :date: '20240905'
   :file: data/wd-appmanifest-20240905.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20240905'
-  :file: data/crd-webnn-20240905.yaml
+    :code: epub-a11y-exemption
+    :type: NOTE
+    :date: '20240906'
+  :file: data/note-epub-a11y-exemption-20240906.yaml
 - :id:
     :code: grek-lreq
     :type: DNOTE
@@ -27208,11 +27208,6 @@
     :type: DNOTE
     :date: '20240905'
   :file: data/dnote-jpan-lreq-20240905.yaml
-- :id:
-    :code: epub-a11y-exemption
-    :type: NOTE
-    :date: '20240906'
-  :file: data/note-epub-a11y-exemption-20240906.yaml
 - :id:
     :code: css-cascade-6
     :stage: WD
@@ -27314,11 +27309,6 @@
     :date: '20240909'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240909.yaml
 - :id:
-    :code: media-capabilities
-    :stage: WD
-    :date: '20240910'
-  :file: data/wd-media-capabilities-20240910.yaml
-- :id:
     :code: vocab-dcat-2
     :stage: SPSD
     :date: '20240822'
@@ -27404,11 +27394,6 @@
     :date: '20240916'
   :file: data/wd-dapt-20240916.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20240916'
-  :file: data/wd-wgsl-20240916.yaml
-- :id:
     :code: geolocation
     :stage: REC
     :date: '20240916'
@@ -27423,6 +27408,21 @@
     :stage: WD
     :date: '20240917'
   :file: data/wd-css-values-5-20240917.yaml
+- :id:
+    :code: media-capabilities
+    :stage: WD
+    :date: '20240917'
+  :file: data/wd-media-capabilities-20240917.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20240918'
+  :file: data/crd-webnn-20240918.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20240918'
+  :file: data/wd-wgsl-20240918.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27733,14 +27733,14 @@
     :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :id:
+    :code: epub-a11y-exemption
+  :file: data/epub-a11y-exemption.yaml
+- :id:
     :code: grek-lreq
   :file: data/grek-lreq.yaml
 - :id:
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
-- :id:
-    :code: epub-a11y-exemption
-  :file: data/epub-a11y-exemption.yaml
 - :id:
     :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml

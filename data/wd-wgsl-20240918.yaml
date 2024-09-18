@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20240910
+id: W3CWD-WGSL-20240918
 title:
-- content: Media Capabilities
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240910/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20240918/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20240910
+- id: W3C WD-WGSL-20240918
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20240910
+docnumber: WD-WGSL-20240918
 date:
 - type: published
-  value: '2024-09-10'
+  value: '2024-09-18'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: David Neto
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-10'
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-09-18'
 language:
 - en
 script:
@@ -50,21 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240808
+    id: W3CWD-WGSL-20240916
     docid:
-    - id: W3C WD-media-capabilities-20240808
+    - id: W3C WD-WGSL-20240916
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240808
+      content: W3C WD-WGSL-20240916
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20240910
+  number: WD-WGSL-20240918
 doctype: technicalReport
-editorialgroup:
-- name: Media Working Group
 ext:
   schema-version: v1.0.0

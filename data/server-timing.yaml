@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-server-timing-20200728
+    docid:
+    - id: W3C WD-server-timing-20200728
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20200728
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-server-timing-20181019
     docid:
     - id: W3C WD-server-timing-20181019
@@ -40,26 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-server-timing-20181019
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-server-timing-20190307
-    docid:
-    - id: W3C WD-server-timing-20190307
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-server-timing-20190307
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-server-timing-20171229
-    docid:
-    - id: W3C WD-server-timing-20171229
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-server-timing-20171229
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,23 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-server-timing-20220421
+    id: W3CWD-server-timing-20171229
     docid:
-    - id: W3C WD-server-timing-20220421
+    - id: W3C WD-server-timing-20171229
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-server-timing-20220421
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-server-timing-20200728
-    docid:
-    - id: W3C WD-server-timing-20200728
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-server-timing-20200728
+      content: W3C WD-server-timing-20171229
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -100,6 +80,26 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-server-timing-20160523
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-server-timing-20190307
+    docid:
+    - id: W3C WD-server-timing-20190307
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20190307
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-server-timing-20220421
+    docid:
+    - id: W3C WD-server-timing-20220421
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-server-timing-20220421
       format: text/plain
 - type: hasEdition
   bibitem:

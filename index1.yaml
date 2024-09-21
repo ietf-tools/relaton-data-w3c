@@ -26999,11 +26999,6 @@
     :date: '20240829'
   :file: data/wd-sparql12-results-json-20240829.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20240829'
-  :file: data/wd-sparql12-query-20240829.yaml
-- :id:
     :code: sparql12-results-csv-tsv
     :stage: WD
     :date: '20240829'
@@ -27174,11 +27169,6 @@
     :date: '20240912'
   :file: data/crd-vc-json-schema-20240912.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240912'
-  :file: data/wd-webgpu-20240912.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: CRD
     :date: '20240916'
@@ -27224,11 +27214,6 @@
     :date: '20240918'
   :file: data/crd-vc-data-model-2.0-20240918.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240918'
-  :file: data/crd-vc-jose-cose-20240918.yaml
-- :id:
     :code: css-grid-3
     :stage: WD
     :date: '20240919'
@@ -27254,55 +27239,50 @@
     :date: '20240919'
   :file: data/dnote-clreq-gap-20240919.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20240919'
-  :file: data/wd-openscreenprotocol-20240919.yaml
-- :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-hani-lreq-20240919.yaml
-- :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20240919'
-  :file: data/wd-rdf12-n-quads-20240919.yaml
 - :id:
     :code: jpan-lreq
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-jpan-lreq-20240919.yaml
 - :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20240919'
+  :file: data/wd-rdf12-n-quads-20240919.yaml
+- :id:
     :code: jpan-gap
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-jpan-gap-20240919.yaml
-- :id:
-    :code: rdf12-n-triples
-    :stage: WD
-    :date: '20240919'
-  :file: data/wd-rdf12-n-triples-20240919.yaml
 - :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-mong-lreq-20240919.yaml
 - :id:
+    :code: rdf12-n-triples
+    :stage: WD
+    :date: '20240919'
+  :file: data/wd-rdf12-n-triples-20240919.yaml
+- :id:
     :code: mong-gap
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-mong-gap-20240919.yaml
 - :id:
-    :code: rdf12-trig
-    :stage: WD
-    :date: '20240919'
-  :file: data/wd-rdf12-trig-20240919.yaml
-- :id:
     :code: arab-lreq
     :type: DNOTE
     :date: '20240919'
   :file: data/dnote-arab-lreq-20240919.yaml
+- :id:
+    :code: rdf12-trig
+    :stage: WD
+    :date: '20240919'
+  :file: data/wd-rdf12-trig-20240919.yaml
 - :id:
     :code: alreq-gap
     :type: DNOTE
@@ -27324,20 +27304,35 @@
     :date: '20240920'
   :file: data/dnote-alreq-20240920.yaml
 - :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20240920'
+  :file: data/wd-device-posture-20240920.yaml
+- :id:
     :code: adlm-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-adlm-gap-20240920.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20240920'
+  :file: data/wd-webgpu-20240920.yaml
 - :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-nkoo-lreq-20240920.yaml
 - :id:
-    :code: device-posture
+    :code: openscreenprotocol
     :stage: WD
     :date: '20240920'
-  :file: data/wd-device-posture-20240920.yaml
+  :file: data/wd-openscreenprotocol-20240920.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240920'
+  :file: data/crd-vc-jose-cose-20240920.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
@@ -27373,6 +27368,11 @@
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-elreq-gap-20240920.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20240921'
+  :file: data/wd-sparql12-query-20240921.yaml
 - :id:
     :code: latn-gap
     :type: DNOTE
@@ -27687,9 +27687,6 @@
     :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
 - :id:
-    :code: sparql12-query
-  :file: data/sparql12-query.yaml
-- :id:
     :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
 - :id:
@@ -27735,9 +27732,6 @@
     :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :id:
-    :code: vc-jose-cose
-  :file: data/vc-jose-cose.yaml
-- :id:
     :code: css-grid-3
   :file: data/css-grid-3.yaml
 - :id:
@@ -27750,23 +27744,23 @@
     :code: hani-lreq
   :file: data/hani-lreq.yaml
 - :id:
-    :code: rdf12-n-quads
-  :file: data/rdf12-n-quads.yaml
-- :id:
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
 - :id:
-    :code: rdf12-n-triples
-  :file: data/rdf12-n-triples.yaml
+    :code: rdf12-n-quads
+  :file: data/rdf12-n-quads.yaml
 - :id:
     :code: mong-lreq
   :file: data/mong-lreq.yaml
 - :id:
-    :code: rdf12-trig
-  :file: data/rdf12-trig.yaml
+    :code: rdf12-n-triples
+  :file: data/rdf12-n-triples.yaml
 - :id:
     :code: arab-lreq
   :file: data/arab-lreq.yaml
+- :id:
+    :code: rdf12-trig
+  :file: data/rdf12-trig.yaml
 - :id:
     :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
@@ -27777,8 +27771,14 @@
     :code: nkoo-lreq
   :file: data/nkoo-lreq.yaml
 - :id:
+    :code: vc-jose-cose
+  :file: data/vc-jose-cose.yaml
+- :id:
     :code: cans-lreq
   :file: data/cans-lreq.yaml
+- :id:
+    :code: sparql12-query
+  :file: data/sparql12-query.yaml
 - :id:
     :code: latn-gap
   :file: data/latn-gap.yaml

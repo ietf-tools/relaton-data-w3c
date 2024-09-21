@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-jose-cose-20240918
+id: W3CWD-webgpu-20240920
 title:
-- content: Securing Verifiable Credentials using JOSE and COSE
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240918/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20240920/
   type: src
-- content: https://w3c.github.io/vc-jose-cose/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-jose-cose-20240918
+- id: W3C WD-webgpu-20240920
   type: W3C
   primary: true
-docnumber: CRD-vc-jose-cose-20240918
+docnumber: WD-webgpu-20240920
 date:
 - type: published
-  value: '2024-09-18'
+  value: '2024-09-20'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-18'
+revdate: '2024-09-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-jose-cose-20240907
+    id: W3CWD-webgpu-20240912
     docid:
-    - id: W3C CRD-vc-jose-cose-20240907
+    - id: W3C WD-webgpu-20240912
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-jose-cose-20240907
+      content: W3C WD-webgpu-20240912
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-jose-cose-20240918
+  number: WD-webgpu-20240920
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

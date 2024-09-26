@@ -27284,25 +27284,20 @@
     :date: '20240920'
   :file: data/wd-device-posture-20240920.yaml
 - :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20240920'
+  :file: data/crd-vc-jose-cose-20240920.yaml
+- :id:
     :code: nkoo-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-nkoo-gap-20240920.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20240920'
-  :file: data/wd-webgpu-20240920.yaml
-- :id:
     :code: cher-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-cher-gap-20240920.yaml
-- :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20240920'
-  :file: data/crd-vc-jose-cose-20240920.yaml
 - :id:
     :code: typography
     :type: DNOTE
@@ -27329,40 +27324,25 @@
     :date: '20240920'
   :file: data/dnote-elreq-gap-20240920.yaml
 - :id:
-    :code: latn-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-latn-gap-20240920.yaml
-- :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-geor-gap-20240920.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20240921'
   :file: data/wd-sparql12-query-20240921.yaml
 - :id:
-    :code: geor-lreq
+    :code: latn-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-geor-lreq-20240920.yaml
-- :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20240922'
-  :file: data/wd-permissions-policy-1-20240922.yaml
+  :file: data/dnote-latn-gap-20240920.yaml
 - :id:
     :code: webxr-depth-sensing-1
     :stage: WD
     :date: '20240923'
   :file: data/wd-webxr-depth-sensing-1-20240923.yaml
 - :id:
-    :code: grek-lreq
+    :code: geor-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-grek-lreq-20240920.yaml
+  :file: data/dnote-geor-gap-20240920.yaml
 - :id:
     :code: openscreenprotocol
     :stage: WD
@@ -27374,35 +27354,50 @@
     :date: '20240924'
   :file: data/crd-webxr-20240924.yaml
 - :id:
+    :code: geor-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-geor-lreq-20240920.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-grek-lreq-20240920.yaml
+- :id:
     :code: grek-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-grek-gap-20240920.yaml
-- :id:
-    :code: cyrl-lreq
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-cyrl-lreq-20240920.yaml
-- :id:
-    :code: hebr-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-hebr-gap-20240920.yaml
 - :id:
     :code: webxr-dom-overlays-1
     :stage: WD
     :date: '20240924'
   :file: data/wd-webxr-dom-overlays-1-20240924.yaml
 - :id:
-    :code: beng-lreq
+    :code: cyrl-lreq
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-beng-lreq-20240920.yaml
+  :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
     :code: webnn
     :stage: CRD
     :date: '20240925'
   :file: data/crd-webnn-20240925.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-hebr-gap-20240920.yaml
+- :id:
+    :code: beng-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-beng-lreq-20240920.yaml
+- :id:
+    :code: input-events-2
+    :stage: WD
+    :date: '20240925'
+  :file: data/wd-input-events-2-20240925.yaml
 - :id:
     :code: beng-gap
     :type: DNOTE
@@ -27414,20 +27409,25 @@
     :date: '20240920'
   :file: data/dnote-deva-lreq-20240920.yaml
 - :id:
-    :code: input-events-2
+    :code: WGSL
     :stage: WD
     :date: '20240925'
-  :file: data/wd-input-events-2-20240925.yaml
+  :file: data/wd-wgsl-20240925.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20240925'
+  :file: data/wd-permissions-policy-1-20240925.yaml
 - :id:
     :code: deva-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-deva-gap-20240920.yaml
 - :id:
-    :code: WGSL
+    :code: webgpu
     :stage: WD
-    :date: '20240925'
-  :file: data/wd-wgsl-20240925.yaml
+    :date: '20240926'
+  :file: data/wd-webgpu-20240926.yaml
 - :id:
     :code: aac-registry
   :file: data/aac-registry.yaml
@@ -27777,11 +27777,11 @@
     :code: cans-lreq
   :file: data/cans-lreq.yaml
 - :id:
-    :code: latn-gap
-  :file: data/latn-gap.yaml
-- :id:
     :code: sparql12-query
   :file: data/sparql12-query.yaml
+- :id:
+    :code: latn-gap
+  :file: data/latn-gap.yaml
 - :id:
     :code: geor-lreq
   :file: data/geor-lreq.yaml

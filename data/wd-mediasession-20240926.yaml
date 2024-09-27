@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20240917
+id: W3CWD-mediasession-20240926
 title:
-- content: Media Capabilities
+- content: Media Session
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20240917/
+- content: https://www.w3.org/TR/2024/WD-mediasession-20240926/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://w3c.github.io/mediasession/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20240917
+- id: W3C WD-mediasession-20240926
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20240917
+docnumber: WD-mediasession-20240926
 date:
 - type: published
-  value: '2024-09-17'
+  value: '2024-09-26'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Thomas Steimel
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: youenn fablet
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-17'
+revdate: '2024-09-26'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240910
+    id: W3CWD-mediasession-20240718
     docid:
-    - id: W3C WD-media-capabilities-20240910
+    - id: W3C WD-mediasession-20240718
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240910
+      content: W3C WD-mediasession-20240718
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-media-capabilities-20240917
+  number: WD-mediasession-20240926
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

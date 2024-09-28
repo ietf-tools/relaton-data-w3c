@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webxr-20240924
+id: W3CWD-dapt-20240928
 title:
-- content: WebXR Device API
+- content: Dubbing and Audio description Profiles of TTML2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webxr-20240924/
+- content: https://www.w3.org/TR/2024/WD-dapt-20240928/
   type: src
-- content: https://immersive-web.github.io/webxr/
+- content: https://w3c.github.io/dapt/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webxr-20240924
+- id: W3C WD-dapt-20240928
   type: W3C
   primary: true
-docnumber: CRD-webxr-20240924
+docnumber: WD-dapt-20240928
 date:
 - type: published
-  value: '2024-09-24'
+  value: '2024-09-28'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Cyril Concolato
         language:
         - en
         script:
@@ -32,49 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Manish Goregaokar
+        content: Nigel Megitt
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Rik Cabanier
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-09-24'
+revdate: '2024-09-28'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webxr-20240821
+    id: W3CWD-dapt-20240916
     docid:
-    - id: W3C CRD-webxr-20240821
+    - id: W3C WD-dapt-20240916
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20240821
+      content: W3C WD-dapt-20240916
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webxr-20240924
+  number: WD-dapt-20240928
 doctype: technicalReport
 editorialgroup:
-- name: Immersive Web Working Group
+- name: Timed Text Working Group
 ext:
   schema-version: v1.0.0

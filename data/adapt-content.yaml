@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cadapt-content
+title:
+- content: 'WAI-Adapt: Content Module'
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/adapt-content/
+  type: src
+type: standard
+docid:
+- id: W3C adapt-content
+  type: W3C
+  primary: true
+docnumber: adapt-content
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-adapt-content-20220609
+    docid:
+    - id: W3C WD-adapt-content-20220609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-adapt-content-20220609
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: adapt-content
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

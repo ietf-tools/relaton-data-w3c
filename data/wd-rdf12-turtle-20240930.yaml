@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.3
+id: W3CWD-rdf12-turtle-20240930
+title:
+- content: RDF 1.2 Turtle
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-rdf12-turtle-20240930/
+  type: src
+- content: https://w3c.github.io/rdf-turtle/spec/
+  type: current
+type: standard
+docid:
+- id: W3C WD-rdf12-turtle-20240930
+  type: W3C
+  primary: true
+docnumber: WD-rdf12-turtle-20240930
+date:
+- type: published
+  value: '2024-09-30'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dominik Tomaszuk
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-09-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf12-turtle-20240919
+    docid:
+    - id: W3C WD-rdf12-turtle-20240919
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-turtle-20240919
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdf12-turtle-20240930
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-hebr-gap-20230807
+title:
+- content: Hebrew Gap Analysis
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-hebr-gap-20230807/
+  type: src
+- content: https://w3c.github.io/hlreq/gap-analysis/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-hebr-gap-20230807
+  type: W3C
+  primary: true
+docnumber: DNOTE-hebr-gap-20230807
+date:
+- type: published
+  value: '2023-08-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-08-07'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-hebr-gap-20220713
+    docid:
+    - id: W3C DNOTE-hebr-gap-20220713
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-hebr-gap-20220713
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-hebr-gap-20230807
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

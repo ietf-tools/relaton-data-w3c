@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-uievents-20230509
+title:
+- content: UI Events
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-uievents-20230509/
+  type: src
+- content: https://w3c.github.io/uievents/
+  type: current
+type: standard
+docid:
+- id: W3C WD-uievents-20230509
+  type: W3C
+  primary: true
+docnumber: WD-uievents-20230509
+date:
+- type: published
+  value: '2023-05-09'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gary Kacmarcik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Travis Leithead
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-uievents-20220913
+    docid:
+    - id: W3C WD-uievents-20220913
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-uievents-20220913
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-uievents-20230509
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

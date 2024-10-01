@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-webrtc-svc-20230417
+title:
+- content: Scalable Video Coding (SVC) Extension for WebRTC
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-webrtc-svc-20230417/
+  type: src
+- content: https://w3c.github.io/webrtc-svc/
+  type: current
+type: standard
+docid:
+- id: W3C WD-webrtc-svc-20230417
+  type: W3C
+  primary: true
+docnumber: WD-webrtc-svc-20230417
+date:
+- type: published
+  value: '2023-04-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webrtc-svc-20230415
+    docid:
+    - id: W3C WD-webrtc-svc-20230415
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-svc-20230415
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webrtc-svc-20230417
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

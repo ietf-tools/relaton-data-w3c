@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-design-principles-20230907
+title:
+- content: Web Platform Design Principles
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/NOTE-design-principles-20230907/
+  type: src
+- content: https://w3ctag.github.io/design-principles/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-design-principles-20230907
+  type: W3C
+  primary: true
+docnumber: NOTE-design-principles-20230907
+date:
+- type: published
+  value: '2023-09-07'
+contributor:
+- person:
+    name:
+      completename:
+        content: Sangwhan Moon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-09-07'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-design-principles-20230426
+    docid:
+    - id: W3C NOTE-design-principles-20230426
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-design-principles-20230426
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-design-principles-20230907
+doctype: groupNote
+editorialgroup:
+- name: Technical Architecture Group
+ext:
+  schema-version: v1.0.0

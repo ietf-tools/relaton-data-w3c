@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-ilreq-taml-20240515
+title:
+- content: Tamil Layout Requirements
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/DNOTE-ilreq-taml-20240515/
+  type: src
+- content: https://w3c.github.io/iip/tamil/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-ilreq-taml-20240515
+  type: W3C
+  primary: true
+docnumber: DNOTE-ilreq-taml-20240515
+date:
+- type: published
+  value: '2024-05-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-15'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-ilreq-taml-20200616
+    docid:
+    - id: W3C WD-ilreq-taml-20200616
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-ilreq-taml-20200616
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-ilreq-taml-20240515
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

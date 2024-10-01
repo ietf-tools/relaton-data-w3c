@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CWD-webtransport-20230405
+title:
+- content: WebTransport
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-webtransport-20230405/
+  type: src
+- content: https://w3c.github.io/webtransport/
+  type: current
+type: standard
+docid:
+- id: W3C WD-webtransport-20230405
+  type: W3C
+  primary: true
+docnumber: WD-webtransport-20230405
+date:
+- type: published
+  value: '2023-04-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Bernard Aboba
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Nidhi Jaju
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Victor Vasiliev
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webtransport-20230118
+    docid:
+    - id: W3C WD-webtransport-20230118
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webtransport-20230118
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webtransport-20230405
+doctype: technicalReport
+editorialgroup:
+- name: WebTransport Working Group
+ext:
+  schema-version: v1.0.0

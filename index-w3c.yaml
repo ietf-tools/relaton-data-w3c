@@ -82,6 +82,18 @@
   :file: data/crd-accelerometer-20240607.yaml
 - :code: accelerometer
   :stage: CRD
+  :date: '20240108'
+  :file: data/crd-accelerometer-20240108.yaml
+- :code: accelerometer
+  :stage: CRD
+  :date: '20230130'
+  :file: data/crd-accelerometer-20230130.yaml
+- :code: accelerometer
+  :stage: CRD
+  :date: '20221018'
+  :file: data/crd-accelerometer-20221018.yaml
+- :code: accelerometer
+  :stage: CRD
   :date: '20211208'
   :file: data/crd-accelerometer-20211208.yaml
 - :code: accelerometer
@@ -134,6 +146,14 @@
   :stage: WD
   :date: '20240802'
   :file: data/wd-accname-1.2-20240802.yaml
+- :code: accname-1.2
+  :stage: WD
+  :date: '20240607'
+  :file: data/wd-accname-1.2-20240607.yaml
+- :code: accname-1.2
+  :stage: WD
+  :date: '20240429'
+  :file: data/wd-accname-1.2-20240429.yaml
 - :code: accname-1.2
   :stage: WD
   :date: '20190711'
@@ -255,6 +275,16 @@
   :type: DNOTE
   :date: '20230103'
   :file: data/dnote-adapt-20230103.yaml
+- :code: adapt
+  :type: DNOTE
+  :date: '20220609'
+  :file: data/dnote-adapt-20220609.yaml
+- :code: adapt-content
+  :file: data/adapt-content.yaml
+- :code: adapt-content
+  :stage: WD
+  :date: '20220609'
+  :file: data/wd-adapt-content-20220609.yaml
 - :code: adapt-help
   :file: data/adapt-help.yaml
 - :code: adapt-help
@@ -287,6 +317,22 @@
   :file: data/dnote-adlm-gap-20240920.yaml
 - :code: adlm-gap
   :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-adlm-gap-20231004.yaml
+- :code: adlm-gap
+  :type: DNOTE
+  :date: '20230616'
+  :file: data/dnote-adlm-gap-20230616.yaml
+- :code: adlm-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-adlm-gap-20230614.yaml
+- :code: adlm-gap
+  :type: DNOTE
+  :date: '20220712'
+  :file: data/dnote-adlm-gap-20220712.yaml
+- :code: adlm-gap
+  :type: DNOTE
   :date: '20220203'
   :file: data/dnote-adlm-gap-20220203.yaml
 - :code: adlm-gap
@@ -299,6 +345,10 @@
   :type: DNOTE
   :date: '20240802'
   :file: data/dnote-adlm-lreq-20240802.yaml
+- :code: adlm-lreq
+  :type: DNOTE
+  :date: '20240530'
+  :file: data/dnote-adlm-lreq-20240530.yaml
 - :code: AERT
   :file: data/aert.yaml
 - :code: AERT
@@ -319,6 +369,10 @@
   :date: '20240920'
   :file: data/dnote-alreq-20240920.yaml
 - :code: alreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-alreq-20240515.yaml
+- :code: alreq
   :stage: WD
   :date: '20211026'
   :file: data/wd-alreq-20211026.yaml
@@ -336,6 +390,22 @@
   :type: DNOTE
   :date: '20240919'
   :file: data/dnote-alreq-gap-20240919.yaml
+- :code: alreq-gap
+  :type: DNOTE
+  :date: '20240314'
+  :file: data/dnote-alreq-gap-20240314.yaml
+- :code: alreq-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-alreq-gap-20231004.yaml
+- :code: alreq-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-alreq-gap-20230614.yaml
+- :code: alreq-gap
+  :type: DNOTE
+  :date: '20220713'
+  :file: data/dnote-alreq-gap-20220713.yaml
 - :code: alreq-gap
   :type: DNOTE
   :date: '20211125'
@@ -365,6 +435,18 @@
   :stage: WD
   :date: '20240124'
   :file: data/wd-ambient-light-20240124.yaml
+- :code: ambient-light
+  :stage: WD
+  :date: '20231020'
+  :file: data/wd-ambient-light-20231020.yaml
+- :code: ambient-light
+  :stage: WD
+  :date: '20230130'
+  :file: data/wd-ambient-light-20230130.yaml
+- :code: ambient-light
+  :stage: WD
+  :date: '20221018'
+  :file: data/wd-ambient-light-20221018.yaml
 - :code: ambient-light
   :stage: WD
   :date: '20220527'
@@ -517,6 +599,26 @@
   :file: data/wd-appmanifest-20240905.yaml
 - :code: appmanifest
   :stage: WD
+  :date: '20240606'
+  :file: data/wd-appmanifest-20240606.yaml
+- :code: appmanifest
+  :stage: WD
+  :date: '20240517'
+  :file: data/wd-appmanifest-20240517.yaml
+- :code: appmanifest
+  :stage: WD
+  :date: '20231012'
+  :file: data/wd-appmanifest-20231012.yaml
+- :code: appmanifest
+  :stage: WD
+  :date: '20230502'
+  :file: data/wd-appmanifest-20230502.yaml
+- :code: appmanifest
+  :stage: WD
+  :date: '20221220'
+  :file: data/wd-appmanifest-20221220.yaml
+- :code: appmanifest
+  :stage: WD
   :date: '20220217'
   :file: data/wd-appmanifest-20220217.yaml
 - :code: appmanifest
@@ -559,6 +661,22 @@
   :file: data/dnote-arab-ks-gap-20240719.yaml
 - :code: arab-ks-gap
   :type: DNOTE
+  :date: '20240314'
+  :file: data/dnote-arab-ks-gap-20240314.yaml
+- :code: arab-ks-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-arab-ks-gap-20231004.yaml
+- :code: arab-ks-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-arab-ks-gap-20230614.yaml
+- :code: arab-ks-gap
+  :type: DNOTE
+  :date: '20220712'
+  :file: data/dnote-arab-ks-gap-20220712.yaml
+- :code: arab-ks-gap
+  :type: DNOTE
   :date: '20220407'
   :file: data/dnote-arab-ks-gap-20220407.yaml
 - :code: arab-ks-lreq
@@ -579,6 +697,18 @@
   :type: DNOTE
   :date: '20240719'
   :file: data/dnote-arab-ug-gap-20240719.yaml
+- :code: arab-ug-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-arab-ug-gap-20231004.yaml
+- :code: arab-ug-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-arab-ug-gap-20230614.yaml
+- :code: arab-ug-gap
+  :type: DNOTE
+  :date: '20220712'
+  :file: data/dnote-arab-ug-gap-20220712.yaml
 - :code: arab-ug-gap
   :type: DNOTE
   :date: '20220407'
@@ -754,6 +884,10 @@
   :file: data/crd-audio-output-20230831.yaml
 - :code: audio-output
   :stage: CRD
+  :date: '20230504'
+  :file: data/crd-audio-output-20230504.yaml
+- :code: audio-output
+  :stage: CRD
   :date: '20220210'
   :file: data/crd-audio-output-20220210.yaml
 - :code: audio-output
@@ -803,6 +937,14 @@
   :file: data/wd-autoplay-detection-20240704.yaml
 - :code: autoplay-detection
   :stage: WD
+  :date: '20230210'
+  :file: data/wd-autoplay-detection-20230210.yaml
+- :code: autoplay-detection
+  :stage: WD
+  :date: '20220915'
+  :file: data/wd-autoplay-detection-20220915.yaml
+- :code: autoplay-detection
+  :stage: WD
   :date: '20220407'
   :file: data/wd-autoplay-detection-20220407.yaml
 - :code: backplane
@@ -823,6 +965,22 @@
   :stage: CR
   :date: '20240530'
   :file: data/cr-baggage-20240530.yaml
+- :code: baggage
+  :stage: WD
+  :date: '20240423'
+  :file: data/wd-baggage-20240423.yaml
+- :code: baggage
+  :stage: WD
+  :date: '20230810'
+  :file: data/wd-baggage-20230810.yaml
+- :code: baggage
+  :stage: WD
+  :date: '20230523'
+  :file: data/wd-baggage-20230523.yaml
+- :code: baggage
+  :stage: WD
+  :date: '20220928'
+  :file: data/wd-baggage-20220928.yaml
 - :code: baggage
   :stage: WD
   :date: '20220524'
@@ -913,6 +1071,14 @@
   :file: data/dnote-beng-gap-20240920.yaml
 - :code: beng-gap
   :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-beng-gap-20231004.yaml
+- :code: beng-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-beng-gap-20230614.yaml
+- :code: beng-gap
+  :type: DNOTE
   :date: '20211215'
   :file: data/dnote-beng-gap-20211215.yaml
 - :code: beng-gap
@@ -958,6 +1124,10 @@
   :date: '20240920'
   :file: data/dnote-cans-iu-cr-gap-20240920.yaml
 - :code: cans-iu-cr-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-cans-iu-cr-gap-20230614.yaml
+- :code: cans-iu-cr-gap
   :stage: WD
   :date: '20210521'
   :file: data/wd-cans-iu-cr-gap-20210521.yaml
@@ -983,6 +1153,10 @@
   :stage: WD
   :date: '20240605'
   :file: data/wd-capture-handle-identity-20240605.yaml
+- :code: capture-handle-identity
+  :stage: WD
+  :date: '20220706'
+  :file: data/wd-capture-handle-identity-20220706.yaml
 - :code: capture-handle-identity
   :stage: WD
   :date: '20220519'
@@ -1139,6 +1313,10 @@
   :stage: WD
   :date: '20240603'
   :file: data/wd-change-password-url-20240603.yaml
+- :code: change-password-url
+  :stage: WD
+  :date: '20220927'
+  :file: data/wd-change-password-url-20220927.yaml
 - :code: charcol
   :file: data/charcol.yaml
 - :code: charcol
@@ -1232,6 +1410,14 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-cher-gap-20240920.yaml
+- :code: cher-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-cher-gap-20230615.yaml
+- :code: cher-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-cher-gap-20230614.yaml
 - :code: cher-gap
   :type: DNOTE
   :date: '20220119'
@@ -1332,6 +1518,22 @@
   :file: data/dnote-clreq-20240701.yaml
 - :code: clreq
   :type: DNOTE
+  :date: '20231101'
+  :file: data/dnote-clreq-20231101.yaml
+- :code: clreq
+  :type: DNOTE
+  :date: '20230901'
+  :file: data/dnote-clreq-20230901.yaml
+- :code: clreq
+  :type: DNOTE
+  :date: '20230501'
+  :file: data/dnote-clreq-20230501.yaml
+- :code: clreq
+  :type: DNOTE
+  :date: '20221009'
+  :file: data/dnote-clreq-20221009.yaml
+- :code: clreq
+  :type: DNOTE
   :date: '20220501'
   :file: data/dnote-clreq-20220501.yaml
 - :code: clreq
@@ -1364,6 +1566,22 @@
   :type: DNOTE
   :date: '20240919'
   :file: data/dnote-clreq-gap-20240919.yaml
+- :code: clreq-gap
+  :type: DNOTE
+  :date: '20240208'
+  :file: data/dnote-clreq-gap-20240208.yaml
+- :code: clreq-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-clreq-gap-20231004.yaml
+- :code: clreq-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-clreq-gap-20230615.yaml
+- :code: clreq-gap
+  :type: DNOTE
+  :date: '20220923'
+  :file: data/dnote-clreq-gap-20220923.yaml
 - :code: clreq-gap
   :stage: WD
   :date: '20211119'
@@ -1454,12 +1672,58 @@
   :stage: WD
   :date: '20240930'
   :file: data/wd-compute-pressure-20240930.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20240607'
+  :file: data/wd-compute-pressure-20240607.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20240501'
+  :file: data/wd-compute-pressure-20240501.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20231019'
+  :file: data/wd-compute-pressure-20231019.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20230613'
+  :file: data/wd-compute-pressure-20230613.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20230605'
+  :file: data/wd-compute-pressure-20230605.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20230525'
+  :file: data/wd-compute-pressure-20230525.yaml
+- :code: compute-pressure
+  :stage: WD
+  :date: '20221220'
+  :file: data/wd-compute-pressure-20221220.yaml
 - :code: contact-picker
   :file: data/contact-picker.yaml
 - :code: contact-picker
   :stage: WD
   :date: '20240708'
   :file: data/wd-contact-picker-20240708.yaml
+- :code: contact-picker
+  :stage: WD
+  :date: '20240430'
+  :file: data/wd-contact-picker-20240430.yaml
+- :code: contact-picker
+  :stage: WD
+  :date: '20231013'
+  :file: data/wd-contact-picker-20231013.yaml
+- :code: contact-picker
+  :stage: WD
+  :date: '20230308'
+  :file: data/wd-contact-picker-20230308.yaml
+- :code: contact-picker-1
+  :file: data/contact-picker-1.yaml
+- :code: contact-picker-1
+  :stage: WD
+  :date: '20221220'
+  :file: data/wd-contact-picker-1-20221220.yaml
 - :code: contacts-api
   :file: data/contacts-api.yaml
 - :code: contacts-api
@@ -1514,6 +1778,10 @@
   :stage: WD
   :date: '20240927'
   :file: data/wd-controller-document-20240927.yaml
+- :code: controller-document
+  :stage: WD
+  :date: '20240523'
+  :file: data/wd-controller-document-20240523.yaml
 - :code: cooluris
   :file: data/cooluris.yaml
 - :code: cooluris
@@ -1545,9 +1813,25 @@
 - :code: core-aam-1.2
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
+  :stage: CR
+  :date: '20221122'
+  :file: data/cr-core-aam-1.2-20221122.yaml
+- :code: core-aam-1.2
   :stage: CRD
   :date: '20240813'
   :file: data/crd-core-aam-1.2-20240813.yaml
+- :code: core-aam-1.2
+  :stage: CRD
+  :date: '20231102'
+  :file: data/crd-core-aam-1.2-20231102.yaml
+- :code: core-aam-1.2
+  :stage: CRD
+  :date: '20231012'
+  :file: data/crd-core-aam-1.2-20231012.yaml
+- :code: core-aam-1.2
+  :stage: CRD
+  :date: '20230518'
+  :file: data/crd-core-aam-1.2-20230518.yaml
 - :code: core-aam-1.2
   :stage: WD
   :date: '20220526'
@@ -1610,6 +1894,14 @@
   :stage: WD
   :date: '20240813'
   :file: data/wd-credential-management-1-20240813.yaml
+- :code: credential-management-1
+  :stage: WD
+  :date: '20240530'
+  :file: data/wd-credential-management-1-20240530.yaml
+- :code: credential-management-1
+  :stage: WD
+  :date: '20240523'
+  :file: data/wd-credential-management-1-20240523.yaml
 - :code: credential-management-1
   :stage: WD
   :date: '20190117'
@@ -1754,6 +2046,26 @@
   :file: data/wd-csp3-20240909.yaml
 - :code: CSP3
   :stage: WD
+  :date: '20240424'
+  :file: data/wd-csp3-20240424.yaml
+- :code: CSP3
+  :stage: WD
+  :date: '20230920'
+  :file: data/wd-csp3-20230920.yaml
+- :code: CSP3
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-csp3-20230615.yaml
+- :code: CSP3
+  :stage: WD
+  :date: '20230503'
+  :file: data/wd-csp3-20230503.yaml
+- :code: CSP3
+  :stage: WD
+  :date: '20221201'
+  :file: data/wd-csp3-20221201.yaml
+- :code: CSP3
+  :stage: WD
   :date: '20210629'
   :file: data/wd-csp3-20210629.yaml
 - :code: CSP3
@@ -1832,6 +2144,10 @@
   :type: NOTE
   :date: '20231207'
   :file: data/note-css-2023-20231207.yaml
+- :code: css-2023
+  :type: DNOTE
+  :date: '20230214'
+  :file: data/dnote-css-2023-20230214.yaml
 - :code: CSS-access
   :file: data/css-access.yaml
 - :code: CSS-access
@@ -1874,6 +2190,10 @@
   :stage: WD
   :date: '20240326'
   :file: data/wd-css-anchor-position-1-20240326.yaml
+- :code: css-anchor-position-1
+  :stage: WD
+  :date: '20230629'
+  :file: data/wd-css-anchor-position-1-20230629.yaml
 - :code: css-animation-worklet-1
   :file: data/css-animation-worklet-1.yaml
 - :code: css-animation-worklet-1
@@ -1900,6 +2220,10 @@
   :stage: WD
   :date: '20230602'
   :file: data/wd-css-animations-2-20230602.yaml
+- :code: css-animations-2
+  :stage: WD
+  :date: '20230302'
+  :file: data/wd-css-animations-2-20230302.yaml
 - :code: css-backgrounds-3
   :file: data/css-backgrounds-3.yaml
 - :code: css-backgrounds-3
@@ -1914,6 +2238,10 @@
   :stage: CRD
   :date: '20240311'
   :file: data/crd-css-backgrounds-3-20240311.yaml
+- :code: css-backgrounds-3
+  :stage: CRD
+  :date: '20230214'
+  :file: data/crd-css-backgrounds-3-20230214.yaml
 - :code: css-backgrounds-3
   :stage: CRD
   :date: '20210726'
@@ -1951,6 +2279,10 @@
   :date: '20201222'
   :file: data/cr-css-box-3-20201222.yaml
 - :code: css-box-3
+  :stage: CRD
+  :date: '20221103'
+  :file: data/crd-css-box-3-20221103.yaml
+- :code: css-box-3
   :stage: WD
   :date: '20181218'
   :file: data/wd-css-box-3-20181218.yaml
@@ -1960,6 +2292,14 @@
   :stage: WD
   :date: '20240804'
   :file: data/wd-css-box-4-20240804.yaml
+- :code: css-box-4
+  :stage: WD
+  :date: '20240401'
+  :file: data/wd-css-box-4-20240401.yaml
+- :code: css-box-4
+  :stage: WD
+  :date: '20221103'
+  :file: data/wd-css-box-4-20221103.yaml
 - :code: css-box-4
   :stage: WD
   :date: '20200421'
@@ -2054,6 +2394,10 @@
   :file: data/wd-css-cascade-6-20240906.yaml
 - :code: css-cascade-6
   :stage: WD
+  :date: '20230321'
+  :file: data/wd-css-cascade-6-20230321.yaml
+- :code: css-cascade-6
+  :stage: WD
   :date: '20211221'
   :file: data/wd-css-cascade-6-20211221.yaml
 - :code: css-color-3
@@ -2081,6 +2425,10 @@
   :date: '20240213'
   :file: data/crd-css-color-4-20240213.yaml
 - :code: css-color-4
+  :stage: CRD
+  :date: '20221101'
+  :file: data/crd-css-color-4-20221101.yaml
+- :code: css-color-4
   :stage: WD
   :date: '20220428'
   :file: data/wd-css-color-4-20220428.yaml
@@ -2106,6 +2454,10 @@
   :stage: WD
   :date: '20240229'
   :file: data/wd-css-color-5-20240229.yaml
+- :code: css-color-5
+  :stage: WD
+  :date: '20220628'
+  :file: data/wd-css-color-5-20220628.yaml
 - :code: css-color-5
   :stage: WD
   :date: '20220428'
@@ -2298,6 +2650,10 @@
   :stage: CR
   :date: '20180828'
   :file: data/cr-css-display-3-20180828.yaml
+- :code: css-display-3
+  :stage: CRD
+  :date: '20221118'
+  :file: data/crd-css-display-3-20221118.yaml
 - :code: css-display-3
   :stage: CRD
   :date: '20210903'
@@ -2512,6 +2868,14 @@
   :stage: WD
   :date: '20240812'
   :file: data/wd-css-inline-3-20240812.yaml
+- :code: css-inline-3
+  :stage: WD
+  :date: '20230401'
+  :file: data/wd-css-inline-3-20230401.yaml
+- :code: css-inline-3
+  :stage: WD
+  :date: '20221114'
+  :file: data/wd-css-inline-3-20221114.yaml
 - :code: css-inline-3
   :stage: WD
   :date: '20200827'
@@ -2732,6 +3096,14 @@
   :stage: WD
   :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
+- :code: css-position-3
+  :stage: WD
+  :date: '20230403'
+  :file: data/wd-css-position-3-20230403.yaml
+- :code: css-position-3
+  :stage: WD
+  :date: '20220901'
+  :file: data/wd-css-position-3-20220901.yaml
 - :code: css-position-3
   :stage: WD
   :date: '20211216'
@@ -3042,8 +3414,16 @@
   :file: data/cr-css-text-3-20201222.yaml
 - :code: css-text-3
   :stage: CRD
+  :date: '20240930'
+  :file: data/crd-css-text-3-20240930.yaml
+- :code: css-text-3
+  :stage: CRD
   :date: '20230903'
   :file: data/crd-css-text-3-20230903.yaml
+- :code: css-text-3
+  :stage: CRD
+  :date: '20230213'
+  :file: data/crd-css-text-3-20230213.yaml
 - :code: css-text-3
   :stage: CRD
   :date: '20220505'
@@ -3074,6 +3454,18 @@
   :stage: WD
   :date: '20240529'
   :file: data/wd-css-text-4-20240529.yaml
+- :code: css-text-4
+  :stage: WD
+  :date: '20240219'
+  :file: data/wd-css-text-4-20240219.yaml
+- :code: css-text-4
+  :stage: WD
+  :date: '20231020'
+  :file: data/wd-css-text-4-20231020.yaml
+- :code: css-text-4
+  :stage: WD
+  :date: '20230329'
+  :file: data/wd-css-text-4-20230329.yaml
 - :code: css-text-4
   :stage: WD
   :date: '20220505'
@@ -3246,6 +3638,10 @@
   :file: data/css-values-3.yaml
 - :code: css-values-3
   :stage: CR
+  :date: '20221201'
+  :file: data/cr-css-values-3-20221201.yaml
+- :code: css-values-3
+  :stage: CR
   :date: '20190606'
   :file: data/cr-css-values-3-20190606.yaml
 - :code: css-values-3
@@ -3270,6 +3666,14 @@
   :stage: WD
   :date: '20240312'
   :file: data/wd-css-values-4-20240312.yaml
+- :code: css-values-4
+  :stage: WD
+  :date: '20230406'
+  :file: data/wd-css-values-4-20230406.yaml
+- :code: css-values-4
+  :stage: WD
+  :date: '20221019'
+  :file: data/wd-css-values-4-20221019.yaml
 - :code: css-values-4
   :stage: WD
   :date: '20211216'
@@ -3323,9 +3727,21 @@
 - :code: css-view-transitions-1
   :file: data/css-view-transitions-1.yaml
 - :code: css-view-transitions-1
+  :stage: CR
+  :date: '20230905'
+  :file: data/cr-css-view-transitions-1-20230905.yaml
+- :code: css-view-transitions-1
   :stage: CRD
   :date: '20240328'
   :file: data/crd-css-view-transitions-1-20240328.yaml
+- :code: css-view-transitions-1
+  :stage: WD
+  :date: '20230530'
+  :file: data/wd-css-view-transitions-1-20230530.yaml
+- :code: css-view-transitions-1
+  :stage: WD
+  :date: '20221124'
+  :file: data/wd-css-view-transitions-1-20221124.yaml
 - :code: css-view-transitions-2
   :file: data/css-view-transitions-2.yaml
 - :code: css-view-transitions-2
@@ -4255,6 +4671,14 @@
   :type: DNOTE
   :date: '20240710'
   :file: data/dnote-ctaur-20240710.yaml
+- :code: ctaur
+  :type: DNOTE
+  :date: '20240320'
+  :file: data/dnote-ctaur-20240320.yaml
+- :code: ctaur
+  :type: DNOTE
+  :date: '20221108'
+  :file: data/dnote-ctaur-20221108.yaml
 - :code: cuap
   :file: data/cuap.yaml
 - :code: cuap
@@ -4367,6 +4791,26 @@
   :stage: WD
   :date: '20240928'
   :file: data/wd-dapt-20240928.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20240412'
+  :file: data/wd-dapt-20240412.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20231019'
+  :file: data/wd-dapt-20231019.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20230619'
+  :file: data/wd-dapt-20230619.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-dapt-20230606.yaml
+- :code: dapt
+  :stage: WD
+  :date: '20230505'
+  :file: data/wd-dapt-20230505.yaml
 - :code: dapt-reqs
   :file: data/dapt-reqs.yaml
 - :code: dapt-reqs
@@ -4506,6 +4950,22 @@
   :file: data/note-design-principles-20240718.yaml
 - :code: design-principles
   :type: NOTE
+  :date: '20240130'
+  :file: data/note-design-principles-20240130.yaml
+- :code: design-principles
+  :type: NOTE
+  :date: '20230907'
+  :file: data/note-design-principles-20230907.yaml
+- :code: design-principles
+  :type: NOTE
+  :date: '20230426'
+  :file: data/note-design-principles-20230426.yaml
+- :code: design-principles
+  :type: NOTE
+  :date: '20220824'
+  :file: data/note-design-principles-20220824.yaml
+- :code: design-principles
+  :type: NOTE
   :date: '20211216'
   :file: data/note-design-principles-20211216.yaml
 - :code: design-principles
@@ -4518,6 +4978,14 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-deva-gap-20240920.yaml
+- :code: deva-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-deva-gap-20231004.yaml
+- :code: deva-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-deva-gap-20230614.yaml
 - :code: deva-gap
   :type: DNOTE
   :date: '20220119'
@@ -4552,6 +5020,22 @@
   :stage: WD
   :date: '20240920'
   :file: data/wd-device-posture-20240920.yaml
+- :code: device-posture
+  :stage: WD
+  :date: '20240605'
+  :file: data/wd-device-posture-20240605.yaml
+- :code: device-posture
+  :stage: WD
+  :date: '20240528'
+  :file: data/wd-device-posture-20240528.yaml
+- :code: device-posture
+  :stage: WD
+  :date: '20240408'
+  :file: data/wd-device-posture-20240408.yaml
+- :code: device-posture
+  :stage: WD
+  :date: '20230404'
+  :file: data/wd-device-posture-20230404.yaml
 - :code: device-posture
   :stage: WD
   :date: '20211104'
@@ -4688,6 +5172,22 @@
   :type: NOTE
   :date: '20240831'
   :file: data/note-did-spec-registries-20240831.yaml
+- :code: did-spec-registries
+  :type: NOTE
+  :date: '20240516'
+  :file: data/note-did-spec-registries-20240516.yaml
+- :code: did-spec-registries
+  :type: NOTE
+  :date: '20230911'
+  :file: data/note-did-spec-registries-20230911.yaml
+- :code: did-spec-registries
+  :type: NOTE
+  :date: '20230514'
+  :file: data/note-did-spec-registries-20230514.yaml
+- :code: did-spec-registries
+  :type: NOTE
+  :date: '20220809'
+  :file: data/note-did-spec-registries-20220809.yaml
 - :code: did-spec-registries
   :type: NOTE
   :date: '20211102'
@@ -5087,9 +5587,29 @@
 - :code: dpub-aam-1.1
   :file: data/dpub-aam-1.1.yaml
 - :code: dpub-aam-1.1
+  :stage: CR
+  :date: '20240227'
+  :file: data/cr-dpub-aam-1.1-20240227.yaml
+- :code: dpub-aam-1.1
   :stage: CRD
   :date: '20240621'
   :file: data/crd-dpub-aam-1.1-20240621.yaml
+- :code: dpub-aam-1.1
+  :stage: WD
+  :date: '20230902'
+  :file: data/wd-dpub-aam-1.1-20230902.yaml
+- :code: dpub-aam-1.1
+  :stage: WD
+  :date: '20230619'
+  :file: data/wd-dpub-aam-1.1-20230619.yaml
+- :code: dpub-aam-1.1
+  :stage: WD
+  :date: '20230613'
+  :file: data/wd-dpub-aam-1.1-20230613.yaml
+- :code: dpub-aam-1.1
+  :stage: WD
+  :date: '20230308'
+  :file: data/wd-dpub-aam-1.1-20230308.yaml
 - :code: dpub-aam-1.1
   :stage: WD
   :date: '20211130'
@@ -5123,9 +5643,25 @@
 - :code: dpub-aria-1.1
   :file: data/dpub-aria-1.1.yaml
 - :code: dpub-aria-1.1
+  :stage: CR
+  :date: '20240227'
+  :file: data/cr-dpub-aria-1.1-20240227.yaml
+- :code: dpub-aria-1.1
   :stage: CRD
   :date: '20240621'
   :file: data/crd-dpub-aria-1.1-20240621.yaml
+- :code: dpub-aria-1.1
+  :stage: WD
+  :date: '20230902'
+  :file: data/wd-dpub-aria-1.1-20230902.yaml
+- :code: dpub-aria-1.1
+  :stage: WD
+  :date: '20230620'
+  :file: data/wd-dpub-aria-1.1-20230620.yaml
+- :code: dpub-aria-1.1
+  :stage: WD
+  :date: '20230515'
+  :file: data/wd-dpub-aria-1.1-20230515.yaml
 - :code: dpub-aria-1.1
   :stage: WD
   :date: '20220530'
@@ -5374,6 +5910,14 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-elreq-gap-20240920.yaml
+- :code: elreq-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-elreq-gap-20231004.yaml
+- :code: elreq-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-elreq-gap-20230614.yaml
 - :code: elreq-gap
   :stage: WD
   :date: '20210524'
@@ -5624,6 +6168,10 @@
   :file: data/rec-epub-33-20230525.yaml
 - :code: epub-33
   :stage: CRD
+  :date: '20221214'
+  :file: data/crd-epub-33-20221214.yaml
+- :code: epub-33
+  :stage: CRD
   :date: '20220527'
   :file: data/crd-epub-33-20220527.yaml
 - :code: epub-33
@@ -5636,6 +6184,10 @@
   :stage: REC
   :date: '20230525'
   :file: data/rec-epub-a11y-11-20230525.yaml
+- :code: epub-a11y-11
+  :stage: CRD
+  :date: '20221216'
+  :file: data/crd-epub-a11y-11-20221216.yaml
 - :code: epub-a11y-11
   :stage: CRD
   :date: '20220522'
@@ -5652,6 +6204,14 @@
   :file: data/note-epub-a11y-eaa-mapping-20240430.yaml
 - :code: epub-a11y-eaa-mapping
   :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-a11y-eaa-mapping-20230519.yaml
+- :code: epub-a11y-eaa-mapping
+  :type: NOTE
+  :date: '20220810'
+  :file: data/note-epub-a11y-eaa-mapping-20220810.yaml
+- :code: epub-a11y-eaa-mapping
+  :type: NOTE
   :date: '20220519'
   :file: data/note-epub-a11y-eaa-mapping-20220519.yaml
 - :code: epub-a11y-eaa-mapping
@@ -5664,12 +6224,32 @@
   :type: NOTE
   :date: '20240906'
   :file: data/note-epub-a11y-exemption-20240906.yaml
+- :code: epub-a11y-exemption
+  :type: NOTE
+  :date: '20231215'
+  :file: data/note-epub-a11y-exemption-20231215.yaml
+- :code: epub-a11y-exemption
+  :type: NOTE
+  :date: '20231003'
+  :file: data/note-epub-a11y-exemption-20231003.yaml
 - :code: epub-a11y-tech-11
   :file: data/epub-a11y-tech-11.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
   :date: '20240704'
   :file: data/note-epub-a11y-tech-11-20240704.yaml
+- :code: epub-a11y-tech-11
+  :type: NOTE
+  :date: '20240412'
+  :file: data/note-epub-a11y-tech-11-20240412.yaml
+- :code: epub-a11y-tech-11
+  :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-a11y-tech-11-20230519.yaml
+- :code: epub-a11y-tech-11
+  :type: NOTE
+  :date: '20220913'
+  :file: data/note-epub-a11y-tech-11-20220913.yaml
 - :code: epub-a11y-tech-11
   :type: NOTE
   :date: '20220520'
@@ -5698,6 +6278,14 @@
   :file: data/note-epub-multi-rend-11-20231221.yaml
 - :code: epub-multi-rend-11
   :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-multi-rend-11-20230519.yaml
+- :code: epub-multi-rend-11
+  :type: NOTE
+  :date: '20220810'
+  :file: data/note-epub-multi-rend-11-20220810.yaml
+- :code: epub-multi-rend-11
+  :type: NOTE
   :date: '20220519'
   :file: data/note-epub-multi-rend-11-20220519.yaml
 - :code: epub-multi-rend-11
@@ -5710,6 +6298,14 @@
   :type: NOTE
   :date: '20231221'
   :file: data/note-epub-overview-33-20231221.yaml
+- :code: epub-overview-33
+  :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-overview-33-20230519.yaml
+- :code: epub-overview-33
+  :type: NOTE
+  :date: '20220810'
+  :file: data/note-epub-overview-33-20220810.yaml
 - :code: epub-overview-33
   :type: NOTE
   :date: '20220519'
@@ -5726,6 +6322,10 @@
   :file: data/rec-epub-rs-33-20230525.yaml
 - :code: epub-rs-33
   :stage: CRD
+  :date: '20221206'
+  :file: data/crd-epub-rs-33-20221206.yaml
+- :code: epub-rs-33
+  :stage: CRD
   :date: '20220527'
   :file: data/crd-epub-rs-33-20220527.yaml
 - :code: epub-rs-33
@@ -5740,6 +6340,14 @@
   :file: data/note-epub-ssv-11-20231221.yaml
 - :code: epub-ssv-11
   :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-ssv-11-20230519.yaml
+- :code: epub-ssv-11
+  :type: NOTE
+  :date: '20220810'
+  :file: data/note-epub-ssv-11-20220810.yaml
+- :code: epub-ssv-11
+  :type: NOTE
   :date: '20220519'
   :file: data/note-epub-ssv-11-20220519.yaml
 - :code: epub-ssv-11
@@ -5752,6 +6360,14 @@
   :type: NOTE
   :date: '20231221'
   :file: data/note-epub-tts-10-20231221.yaml
+- :code: epub-tts-10
+  :type: NOTE
+  :date: '20230519'
+  :file: data/note-epub-tts-10-20230519.yaml
+- :code: epub-tts-10
+  :type: NOTE
+  :date: '20220810'
+  :file: data/note-epub-tts-10-20220810.yaml
 - :code: epub-tts-10
   :type: NOTE
   :date: '20220519'
@@ -5786,6 +6402,22 @@
   :file: data/note-ethical-web-principles-20240813.yaml
 - :code: ethical-web-principles
   :type: DNOTE
+  :date: '20240531'
+  :file: data/dnote-ethical-web-principles-20240531.yaml
+- :code: ethical-web-principles
+  :type: DNOTE
+  :date: '20240319'
+  :file: data/dnote-ethical-web-principles-20240319.yaml
+- :code: ethical-web-principles
+  :type: DNOTE
+  :date: '20230906'
+  :file: data/dnote-ethical-web-principles-20230906.yaml
+- :code: ethical-web-principles
+  :type: DNOTE
+  :date: '20221207'
+  :file: data/dnote-ethical-web-principles-20221207.yaml
+- :code: ethical-web-principles
+  :type: DNOTE
   :date: '20220512'
   :file: data/dnote-ethical-web-principles-20220512.yaml
 - :code: eu-conf
@@ -5801,6 +6433,10 @@
   :stage: WD
   :date: '20240819'
   :file: data/wd-event-timing-20240819.yaml
+- :code: event-timing
+  :stage: WD
+  :date: '20230703'
+  :file: data/wd-event-timing-20230703.yaml
 - :code: event-timing
   :stage: WD
   :date: '20220524'
@@ -6044,6 +6680,14 @@
   :file: data/wd-fileapi-20240524.yaml
 - :code: FileAPI
   :stage: WD
+  :date: '20230206'
+  :file: data/wd-fileapi-20230206.yaml
+- :code: FileAPI
+  :stage: WD
+  :date: '20221130'
+  :file: data/wd-fileapi-20221130.yaml
+- :code: FileAPI
+  :stage: WD
   :date: '20210604'
   :file: data/wd-fileapi-20210604.yaml
 - :code: FileAPI
@@ -6212,8 +6856,24 @@
   :file: data/wd-gamepad-20240809.yaml
 - :code: gamepad
   :stage: WD
+  :date: '20240401'
+  :file: data/wd-gamepad-20240401.yaml
+- :code: gamepad
+  :stage: WD
   :date: '20240329'
   :file: data/wd-gamepad-20240329.yaml
+- :code: gamepad
+  :stage: WD
+  :date: '20231005'
+  :file: data/wd-gamepad-20231005.yaml
+- :code: gamepad
+  :stage: WD
+  :date: '20230413'
+  :file: data/wd-gamepad-20230413.yaml
+- :code: gamepad
+  :stage: WD
+  :date: '20221209'
+  :file: data/wd-gamepad-20221209.yaml
 - :code: gamepad
   :stage: WD
   :date: '20220512'
@@ -6272,6 +6932,18 @@
   :stage: CRD
   :date: '20240222'
   :file: data/crd-generic-sensor-20240222.yaml
+- :code: generic-sensor
+  :stage: CRD
+  :date: '20231006'
+  :file: data/crd-generic-sensor-20231006.yaml
+- :code: generic-sensor
+  :stage: CRD
+  :date: '20230127'
+  :file: data/crd-generic-sensor-20230127.yaml
+- :code: generic-sensor
+  :stage: CRD
+  :date: '20221210'
+  :file: data/crd-generic-sensor-20221210.yaml
 - :code: generic-sensor
   :stage: CRD
   :date: '20220502'
@@ -6400,6 +7072,10 @@
   :file: data/wd-geolocation-sensor-20240617.yaml
 - :code: geolocation-sensor
   :stage: WD
+  :date: '20240105'
+  :file: data/wd-geolocation-sensor-20240105.yaml
+- :code: geolocation-sensor
+  :stage: WD
   :date: '20220316'
   :file: data/wd-geolocation-sensor-20220316.yaml
 - :code: geolocation-sensor
@@ -6426,6 +7102,10 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-geor-gap-20240920.yaml
+- :code: geor-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-geor-gap-20230614.yaml
 - :code: geor-gap
   :type: DNOTE
   :date: '20220325'
@@ -6522,6 +7202,14 @@
   :file: data/dnote-grek-gap-20240920.yaml
 - :code: grek-gap
   :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-grek-gap-20231004.yaml
+- :code: grek-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-grek-gap-20230614.yaml
+- :code: grek-gap
+  :type: DNOTE
   :date: '20220316'
   :file: data/dnote-grek-gap-20220316.yaml
 - :code: grek-gap
@@ -6544,6 +7232,14 @@
   :type: DNOTE
   :date: '20240710'
   :file: data/dnote-gujr-gap-20240710.yaml
+- :code: gujr-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-gujr-gap-20231004.yaml
+- :code: gujr-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-gujr-gap-20230614.yaml
 - :code: gujr-gap
   :type: DNOTE
   :date: '20220119'
@@ -6569,6 +7265,14 @@
   :date: '20240710'
   :file: data/dnote-guru-gap-20240710.yaml
 - :code: guru-gap
+  :type: DNOTE
+  :date: '20230830'
+  :file: data/dnote-guru-gap-20230830.yaml
+- :code: guru-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-guru-gap-20230614.yaml
+- :code: guru-gap
   :stage: WD
   :date: '20210525'
   :file: data/wd-guru-gap-20210525.yaml
@@ -6582,6 +7286,10 @@
   :type: DNOTE
   :date: '20240808'
   :file: data/dnote-guru-lreq-20240808.yaml
+- :code: guru-lreq
+  :type: DNOTE
+  :date: '20230214'
+  :file: data/dnote-guru-lreq-20230214.yaml
 - :code: gyroscope
   :file: data/gyroscope.yaml
 - :code: gyroscope
@@ -6596,6 +7304,14 @@
   :stage: CRD
   :date: '20240108'
   :file: data/crd-gyroscope-20240108.yaml
+- :code: gyroscope
+  :stage: CRD
+  :date: '20231020'
+  :file: data/crd-gyroscope-20231020.yaml
+- :code: gyroscope
+  :stage: CRD
+  :date: '20230130'
+  :file: data/crd-gyroscope-20230130.yaml
 - :code: gyroscope
   :stage: CRD
   :date: '20211207'
@@ -6672,6 +7388,14 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-hebr-gap-20240920.yaml
+- :code: hebr-gap
+  :type: DNOTE
+  :date: '20230807'
+  :file: data/dnote-hebr-gap-20230807.yaml
+- :code: hebr-gap
+  :type: DNOTE
+  :date: '20220713'
+  :file: data/dnote-hebr-gap-20220713.yaml
 - :code: hebr-gap
   :stage: WD
   :date: '20210525'
@@ -6755,6 +7479,14 @@
   :file: data/wd-hr-time-3-20230719.yaml
 - :code: hr-time-3
   :stage: WD
+  :date: '20230425'
+  :file: data/wd-hr-time-3-20230425.yaml
+- :code: hr-time-3
+  :stage: WD
+  :date: '20220920'
+  :file: data/wd-hr-time-3-20220920.yaml
+- :code: hr-time-3
+  :stage: WD
   :date: '20220128'
   :file: data/wd-hr-time-3-20220128.yaml
 - :code: hr-time-3
@@ -6789,6 +7521,34 @@
   :stage: WD
   :date: '20240819'
   :file: data/wd-html-aam-1.0-20240819.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-html-aam-1.0-20240418.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20231016'
+  :file: data/wd-html-aam-1.0-20231016.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20230617'
+  :file: data/wd-html-aam-1.0-20230617.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20230609'
+  :file: data/wd-html-aam-1.0-20230609.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-html-aam-1.0-20230606.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20230519'
+  :file: data/wd-html-aam-1.0-20230519.yaml
+- :code: html-aam-1.0
+  :stage: WD
+  :date: '20221212'
+  :file: data/wd-html-aam-1.0-20221212.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20220526'
@@ -7214,6 +7974,14 @@
   :file: data/wd-html-ruby-extensions-20240627.yaml
 - :code: html-ruby-extensions
   :stage: WD
+  :date: '20240529'
+  :file: data/wd-html-ruby-extensions-20240529.yaml
+- :code: html-ruby-extensions
+  :stage: WD
+  :date: '20240523'
+  :file: data/wd-html-ruby-extensions-20240523.yaml
+- :code: html-ruby-extensions
+  :stage: WD
   :date: '20131022'
   :file: data/wd-html-ruby-extensions-20131022.yaml
 - :code: html-srcset
@@ -7541,6 +8309,14 @@
   :file: data/dnote-i18n-glossary-20240422.yaml
 - :code: i18n-glossary
   :type: DNOTE
+  :date: '20231014'
+  :file: data/dnote-i18n-glossary-20231014.yaml
+- :code: i18n-glossary
+  :type: DNOTE
+  :date: '20230424'
+  :file: data/dnote-i18n-glossary-20230424.yaml
+- :code: i18n-glossary
+  :type: DNOTE
   :date: '20220211'
   :file: data/dnote-i18n-glossary-20220211.yaml
 - :code: i18n-glossary
@@ -7624,6 +8400,14 @@
   :file: data/wd-ift-20240709.yaml
 - :code: IFT
   :stage: WD
+  :date: '20230530'
+  :file: data/wd-ift-20230530.yaml
+- :code: IFT
+  :stage: WD
+  :date: '20220628'
+  :file: data/wd-ift-20220628.yaml
+- :code: IFT
+  :stage: WD
   :date: '20210907'
   :file: data/wd-ift-20210907.yaml
 - :code: ilreq
@@ -7651,6 +8435,10 @@
   :date: '20240724'
   :file: data/dnote-ilreq-taml-20240724.yaml
 - :code: ilreq-taml
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-ilreq-taml-20240515.yaml
+- :code: ilreq-taml
   :stage: WD
   :date: '20200616'
   :file: data/wd-ilreq-taml-20200616.yaml
@@ -7667,6 +8455,18 @@
   :stage: WD
   :date: '20231026'
   :file: data/wd-image-capture-20231026.yaml
+- :code: image-capture
+  :stage: WD
+  :date: '20231010'
+  :file: data/wd-image-capture-20231010.yaml
+- :code: image-capture
+  :stage: WD
+  :date: '20230316'
+  :file: data/wd-image-capture-20230316.yaml
+- :code: image-capture
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-image-capture-20221208.yaml
 - :code: image-capture
   :stage: WD
   :date: '20210406'
@@ -7775,6 +8575,18 @@
   :date: '20240425'
   :file: data/rec-imsc-hrm-20240425.yaml
 - :code: imsc-hrm
+  :stage: CR
+  :date: '20230622'
+  :file: data/cr-imsc-hrm-20230622.yaml
+- :code: imsc-hrm
+  :stage: WD
+  :date: '20230227'
+  :file: data/wd-imsc-hrm-20230227.yaml
+- :code: imsc-hrm
+  :stage: WD
+  :date: '20221107'
+  :file: data/wd-imsc-hrm-20221107.yaml
+- :code: imsc-hrm
   :stage: WD
   :date: '20220322'
   :file: data/wd-imsc-hrm-20220322.yaml
@@ -7828,6 +8640,22 @@
   :stage: WD
   :date: '20231212'
   :file: data/wd-indexeddb-3-20231212.yaml
+- :code: IndexedDB-3
+  :stage: WD
+  :date: '20230808'
+  :file: data/wd-indexeddb-3-20230808.yaml
+- :code: IndexedDB-3
+  :stage: WD
+  :date: '20230613'
+  :file: data/wd-indexeddb-3-20230613.yaml
+- :code: IndexedDB-3
+  :stage: WD
+  :date: '20230413'
+  :file: data/wd-indexeddb-3-20230413.yaml
+- :code: IndexedDB-3
+  :stage: WD
+  :date: '20220915'
+  :file: data/wd-indexeddb-3-20220915.yaml
 - :code: IndexedDB-3
   :stage: WD
   :date: '20211006'
@@ -7924,6 +8752,14 @@
   :file: data/wd-input-events-2-20240925.yaml
 - :code: input-events-2
   :stage: WD
+  :date: '20240109'
+  :file: data/wd-input-events-2-20240109.yaml
+- :code: input-events-2
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-input-events-2-20230516.yaml
+- :code: input-events-2
+  :stage: WD
   :date: '20190530'
   :file: data/wd-input-events-2-20190530.yaml
 - :code: input-events-2
@@ -7940,6 +8776,18 @@
   :type: DNOTE
   :date: '20240321'
   :file: data/dnote-international-specs-20240321.yaml
+- :code: international-specs
+  :type: DNOTE
+  :date: '20231019'
+  :file: data/dnote-international-specs-20231019.yaml
+- :code: international-specs
+  :type: DNOTE
+  :date: '20230427'
+  :file: data/dnote-international-specs-20230427.yaml
+- :code: international-specs
+  :type: DNOTE
+  :date: '20220923'
+  :file: data/dnote-international-specs-20220923.yaml
 - :code: international-specs
   :type: DNOTE
   :date: '20220501'
@@ -7966,6 +8814,10 @@
   :stage: WD
   :date: '20231018'
   :file: data/wd-intersection-observer-20231018.yaml
+- :code: intersection-observer
+  :stage: WD
+  :date: '20220706'
+  :file: data/wd-intersection-observer-20220706.yaml
 - :code: intersection-observer
   :stage: WD
   :date: '20210624'
@@ -8047,6 +8899,14 @@
   :file: data/dnote-java-gap-20240816.yaml
 - :code: java-gap
   :type: DNOTE
+  :date: '20230807'
+  :file: data/dnote-java-gap-20230807.yaml
+- :code: java-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-java-gap-20230615.yaml
+- :code: java-gap
+  :type: DNOTE
   :date: '20220119'
   :file: data/dnote-java-gap-20220119.yaml
 - :code: java-gap
@@ -8119,6 +8979,22 @@
   :type: DNOTE
   :date: '20240919'
   :file: data/dnote-jpan-gap-20240919.yaml
+- :code: jpan-gap
+  :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-jpan-gap-20231004.yaml
+- :code: jpan-gap
+  :type: DNOTE
+  :date: '20230617'
+  :file: data/dnote-jpan-gap-20230617.yaml
+- :code: jpan-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-jpan-gap-20230615.yaml
+- :code: jpan-gap
+  :type: DNOTE
+  :date: '20220923'
+  :file: data/dnote-jpan-gap-20220923.yaml
 - :code: jpan-gap
   :type: DNOTE
   :date: '20211122'
@@ -8243,6 +9119,14 @@
   :file: data/dnote-khmr-gap-20240710.yaml
 - :code: khmr-gap
   :type: DNOTE
+  :date: '20240314'
+  :file: data/dnote-khmr-gap-20240314.yaml
+- :code: khmr-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-khmr-gap-20230615.yaml
+- :code: khmr-gap
+  :type: DNOTE
   :date: '20220119'
   :file: data/dnote-khmr-gap-20220119.yaml
 - :code: khmr-gap
@@ -8259,6 +9143,10 @@
   :type: DNOTE
   :date: '20240809'
   :file: data/dnote-khmr-lreq-20240809.yaml
+- :code: khmr-lreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-khmr-lreq-20240515.yaml
 - :code: klreq
   :file: data/klreq.yaml
 - :code: klreq
@@ -8279,6 +9167,10 @@
   :type: DNOTE
   :date: '20240710'
   :file: data/dnote-kore-gap-20240710.yaml
+- :code: kore-gap
+  :type: DNOTE
+  :date: '20230720'
+  :file: data/dnote-kore-gap-20230720.yaml
 - :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :code: kore-lreq
@@ -8291,6 +9183,10 @@
   :type: DNOTE
   :date: '20240710'
   :file: data/dnote-laoo-gap-20240710.yaml
+- :code: laoo-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-laoo-gap-20230615.yaml
 - :code: laoo-gap
   :type: DNOTE
   :date: '20220119'
@@ -8309,12 +9205,20 @@
   :type: DNOTE
   :date: '20240809'
   :file: data/dnote-laoo-lreq-20240809.yaml
+- :code: laoo-lreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-laoo-lreq-20240515.yaml
 - :code: largest-contentful-paint
   :file: data/largest-contentful-paint.yaml
 - :code: largest-contentful-paint
   :stage: WD
   :date: '20240115'
   :file: data/wd-largest-contentful-paint-20240115.yaml
+- :code: largest-contentful-paint
+  :stage: WD
+  :date: '20230906'
+  :file: data/wd-largest-contentful-paint-20230906.yaml
 - :code: largest-contentful-paint
   :stage: WD
   :date: '20220524'
@@ -8325,12 +9229,20 @@
   :type: DNOTE
   :date: '20240724'
   :file: data/dnote-latn-ca-gap-20240724.yaml
+- :code: latn-ca-gap
+  :type: DNOTE
+  :date: '20230822'
+  :file: data/dnote-latn-ca-gap-20230822.yaml
 - :code: latn-de-gap
   :file: data/latn-de-gap.yaml
 - :code: latn-de-gap
   :type: DNOTE
   :date: '20240724'
   :file: data/dnote-latn-de-gap-20240724.yaml
+- :code: latn-de-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-latn-de-gap-20230614.yaml
 - :code: latn-de-gap
   :type: DNOTE
   :date: '20220119'
@@ -8345,6 +9257,10 @@
   :type: DNOTE
   :date: '20240724'
   :file: data/dnote-latn-fr-gap-20240724.yaml
+- :code: latn-fr-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-latn-fr-gap-20230614.yaml
 - :code: latn-fr-gap
   :type: DNOTE
   :date: '20220119'
@@ -8365,6 +9281,10 @@
   :type: DNOTE
   :date: '20240724'
   :file: data/dnote-latn-hu-gap-20240724.yaml
+- :code: latn-hu-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-latn-hu-gap-20230614.yaml
 - :code: latn-hu-gap
   :type: DNOTE
   :date: '20220119'
@@ -8389,6 +9309,14 @@
   :type: DNOTE
   :date: '20240724'
   :file: data/dnote-latn-nl-gap-20240724.yaml
+- :code: latn-nl-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-latn-nl-gap-20230614.yaml
+- :code: latn-nl-gap
+  :type: DNOTE
+  :date: '20230530'
+  :file: data/dnote-latn-nl-gap-20230530.yaml
 - :code: latn-nl-gap
   :type: DNOTE
   :date: '20220126'
@@ -8550,6 +9478,14 @@
   :file: data/wd-longtasks-1-20240524.yaml
 - :code: longtasks-1
   :stage: WD
+  :date: '20240311'
+  :file: data/wd-longtasks-1-20240311.yaml
+- :code: longtasks-1
+  :stage: WD
+  :date: '20230719'
+  :file: data/wd-longtasks-1-20230719.yaml
+- :code: longtasks-1
+  :stage: WD
   :date: '20170907'
   :file: data/wd-longtasks-1-20170907.yaml
 - :code: low-vision-needs
@@ -8594,6 +9530,10 @@
   :file: data/wd-magnetometer-20240515.yaml
 - :code: magnetometer
   :stage: WD
+  :date: '20230130'
+  :file: data/wd-magnetometer-20230130.yaml
+- :code: magnetometer
+  :stage: WD
   :date: '20211207'
   :file: data/wd-magnetometer-20211207.yaml
 - :code: magnetometer
@@ -8614,6 +9554,14 @@
   :type: NOTE
   :date: '20230821'
   :file: data/note-manifest-app-info-20230821.yaml
+- :code: manifest-app-info
+  :type: NOTE
+  :date: '20230420'
+  :file: data/note-manifest-app-info-20230420.yaml
+- :code: manifest-app-info
+  :type: NOTE
+  :date: '20221025'
+  :file: data/note-manifest-app-info-20221025.yaml
 - :code: manifest-app-info
   :type: NOTE
   :date: '20210930'
@@ -8751,6 +9699,18 @@
   :type: DNOTE
   :date: '20240618'
   :file: data/dnote-maturity-model-20240618.yaml
+- :code: maturity-model
+  :type: DNOTE
+  :date: '20231215'
+  :file: data/dnote-maturity-model-20231215.yaml
+- :code: maturity-model
+  :type: DNOTE
+  :date: '20230824'
+  :file: data/dnote-maturity-model-20230824.yaml
+- :code: maturity-model
+  :type: DNOTE
+  :date: '20220906'
+  :file: data/dnote-maturity-model-20220906.yaml
 - :code: mbui-glossary
   :file: data/mbui-glossary.yaml
 - :code: mbui-glossary
@@ -8806,6 +9766,14 @@
   :stage: WD
   :date: '20240926'
   :file: data/wd-media-capabilities-20240926.yaml
+- :code: media-capabilities
+  :stage: WD
+  :date: '20240212'
+  :file: data/wd-media-capabilities-20240212.yaml
+- :code: media-capabilities
+  :stage: WD
+  :date: '20221117'
+  :file: data/wd-media-capabilities-20221117.yaml
 - :code: media-capabilities
   :stage: WD
   :date: '20220420'
@@ -8882,6 +9850,18 @@
   :stage: WD
   :date: '20240704'
   :file: data/wd-media-source-2-20240704.yaml
+- :code: media-source-2
+  :stage: WD
+  :date: '20240401'
+  :file: data/wd-media-source-2-20240401.yaml
+- :code: media-source-2
+  :stage: WD
+  :date: '20231010'
+  :file: data/wd-media-source-2-20231010.yaml
+- :code: media-source-2
+  :stage: WD
+  :date: '20220921'
+  :file: data/wd-media-source-2-20220921.yaml
 - :code: media-source-2
   :stage: WD
   :date: '20220519'
@@ -8962,6 +9942,14 @@
   :file: data/wd-mediacapture-region-20230712.yaml
 - :code: mediacapture-region
   :stage: WD
+  :date: '20230308'
+  :file: data/wd-mediacapture-region-20230308.yaml
+- :code: mediacapture-region
+  :stage: WD
+  :date: '20221020'
+  :file: data/wd-mediacapture-region-20221020.yaml
+- :code: mediacapture-region
+  :stage: WD
   :date: '20220520'
   :file: data/wd-mediacapture-region-20220520.yaml
 - :code: mediacapture-streams
@@ -8982,6 +9970,30 @@
   :stage: CRD
   :date: '20240627'
   :file: data/crd-mediacapture-streams-20240627.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20240530'
+  :file: data/crd-mediacapture-streams-20240530.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20240502'
+  :file: data/crd-mediacapture-streams-20240502.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20230921'
+  :file: data/crd-mediacapture-streams-20230921.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20230619'
+  :file: data/crd-mediacapture-streams-20230619.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20230504'
+  :file: data/crd-mediacapture-streams-20230504.yaml
+- :code: mediacapture-streams
+  :stage: CRD
+  :date: '20221215'
+  :file: data/crd-mediacapture-streams-20221215.yaml
 - :code: mediacapture-streams
   :stage: CRD
   :date: '20220505'
@@ -9014,6 +10026,10 @@
   :file: data/wd-mediacapture-transform-20240531.yaml
 - :code: mediacapture-transform
   :stage: WD
+  :date: '20221020'
+  :file: data/wd-mediacapture-transform-20221020.yaml
+- :code: mediacapture-transform
+  :stage: WD
   :date: '20220210'
   :file: data/wd-mediacapture-transform-20220210.yaml
 - :code: mediacapture-viewport
@@ -9022,6 +10038,10 @@
   :stage: WD
   :date: '20240926'
   :file: data/wd-mediacapture-viewport-20240926.yaml
+- :code: mediacapture-viewport
+  :stage: WD
+  :date: '20220621'
+  :file: data/wd-mediacapture-viewport-20220621.yaml
 - :code: mediacapture-viewport
   :stage: WD
   :date: '20220524'
@@ -9116,8 +10136,24 @@
   :file: data/mediasession.yaml
 - :code: mediasession
   :stage: WD
-  :date: '20240926'
-  :file: data/wd-mediasession-20240926.yaml
+  :date: '20240930'
+  :file: data/wd-mediasession-20240930.yaml
+- :code: mediasession
+  :stage: WD
+  :date: '20240531'
+  :file: data/wd-mediasession-20240531.yaml
+- :code: mediasession
+  :stage: WD
+  :date: '20240513'
+  :file: data/wd-mediasession-20240513.yaml
+- :code: mediasession
+  :stage: WD
+  :date: '20231011'
+  :file: data/wd-mediasession-20231011.yaml
+- :code: mediasession
+  :stage: WD
+  :date: '20220920'
+  :file: data/wd-mediasession-20220920.yaml
 - :code: mediasession
   :stage: WD
   :date: '20210604'
@@ -9132,6 +10168,10 @@
   :stage: WD
   :date: '20230511'
   :file: data/wd-mediastream-recording-20230511.yaml
+- :code: mediastream-recording
+  :stage: WD
+  :date: '20220607'
+  :file: data/wd-mediastream-recording-20220607.yaml
 - :code: mediastream-recording
   :stage: WD
   :date: '20210604'
@@ -9264,14 +10304,26 @@
   :file: data/dnote-miniapp-addressing-20240625.yaml
 - :code: miniapp-addressing
   :type: DNOTE
+  :date: '20220627'
+  :file: data/dnote-miniapp-addressing-20220627.yaml
+- :code: miniapp-addressing
+  :type: DNOTE
   :date: '20220311'
   :file: data/dnote-miniapp-addressing-20220311.yaml
+- :code: miniapp-addressing
+  :stage: WD
+  :date: '20240131'
+  :file: data/wd-miniapp-addressing-20240131.yaml
 - :code: miniapp-lifecycle
   :file: data/miniapp-lifecycle.yaml
 - :code: miniapp-lifecycle
   :stage: WD
   :date: '20230529'
   :file: data/wd-miniapp-lifecycle-20230529.yaml
+- :code: miniapp-lifecycle
+  :stage: WD
+  :date: '20221124'
+  :file: data/wd-miniapp-lifecycle-20221124.yaml
 - :code: miniapp-lifecycle
   :stage: WD
   :date: '20220528'
@@ -9288,6 +10340,10 @@
   :file: data/wd-miniapp-manifest-20230530.yaml
 - :code: miniapp-manifest
   :stage: WD
+  :date: '20221125'
+  :file: data/wd-miniapp-manifest-20221125.yaml
+- :code: miniapp-manifest
+  :stage: WD
   :date: '20220517'
   :file: data/wd-miniapp-manifest-20220517.yaml
 - :code: miniapp-manifest
@@ -9300,6 +10356,14 @@
   :stage: WD
   :date: '20231023'
   :file: data/wd-miniapp-packaging-20231023.yaml
+- :code: miniapp-packaging
+  :stage: WD
+  :date: '20230530'
+  :file: data/wd-miniapp-packaging-20230530.yaml
+- :code: miniapp-packaging
+  :stage: WD
+  :date: '20221027'
+  :file: data/wd-miniapp-packaging-20221027.yaml
 - :code: miniapp-packaging
   :stage: WD
   :date: '20220428'
@@ -9342,6 +10406,10 @@
   :type: DNOTE
   :date: '20240709'
   :file: data/dnote-mlreq-20240709.yaml
+- :code: mlreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-mlreq-20240515.yaml
 - :code: mlreq
   :stage: WD
   :date: '20200616'
@@ -9532,6 +10600,14 @@
   :type: DNOTE
   :date: '20240919'
   :file: data/dnote-mong-gap-20240919.yaml
+- :code: mong-gap
+  :type: DNOTE
+  :date: '20230720'
+  :file: data/dnote-mong-gap-20230720.yaml
+- :code: mong-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-mong-gap-20230614.yaml
 - :code: mong-gap
   :type: DNOTE
   :date: '20220125'
@@ -9762,6 +10838,22 @@
   :file: data/wd-navigation-timing-2-20240729.yaml
 - :code: navigation-timing-2
   :stage: WD
+  :date: '20240307'
+  :file: data/wd-navigation-timing-2-20240307.yaml
+- :code: navigation-timing-2
+  :stage: WD
+  :date: '20230607'
+  :file: data/wd-navigation-timing-2-20230607.yaml
+- :code: navigation-timing-2
+  :stage: WD
+  :date: '20230206'
+  :file: data/wd-navigation-timing-2-20230206.yaml
+- :code: navigation-timing-2
+  :stage: WD
+  :date: '20220907'
+  :file: data/wd-navigation-timing-2-20220907.yaml
+- :code: navigation-timing-2
+  :stage: WD
   :date: '20220310'
   :file: data/wd-navigation-timing-2-20220310.yaml
 - :code: navigation-timing-2
@@ -9870,6 +10962,22 @@
   :file: data/dnote-nkoo-gap-20240920.yaml
 - :code: nkoo-gap
   :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-nkoo-gap-20231004.yaml
+- :code: nkoo-gap
+  :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-nkoo-gap-20230615.yaml
+- :code: nkoo-gap
+  :type: DNOTE
+  :date: '20230608'
+  :file: data/dnote-nkoo-gap-20230608.yaml
+- :code: nkoo-gap
+  :type: DNOTE
+  :date: '20220712'
+  :file: data/dnote-nkoo-gap-20220712.yaml
+- :code: nkoo-gap
+  :type: DNOTE
   :date: '20220128'
   :file: data/dnote-nkoo-gap-20220128.yaml
 - :code: nkoo-gap
@@ -9882,6 +10990,14 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-nkoo-lreq-20240920.yaml
+- :code: nkoo-lreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-nkoo-lreq-20240515.yaml
+- :code: nkoo-lreq
+  :type: DNOTE
+  :date: '20230613'
+  :file: data/dnote-nkoo-lreq-20230613.yaml
 - :code: nl-spec
   :file: data/nl-spec.yaml
 - :code: nl-spec
@@ -9960,6 +11076,30 @@
   :file: data/wd-openscreenprotocol-20240923.yaml
 - :code: openscreenprotocol
   :stage: WD
+  :date: '20240603'
+  :file: data/wd-openscreenprotocol-20240603.yaml
+- :code: openscreenprotocol
+  :stage: WD
+  :date: '20240531'
+  :file: data/wd-openscreenprotocol-20240531.yaml
+- :code: openscreenprotocol
+  :stage: WD
+  :date: '20240425'
+  :file: data/wd-openscreenprotocol-20240425.yaml
+- :code: openscreenprotocol
+  :stage: WD
+  :date: '20231016'
+  :file: data/wd-openscreenprotocol-20231016.yaml
+- :code: openscreenprotocol
+  :stage: WD
+  :date: '20230305'
+  :file: data/wd-openscreenprotocol-20230305.yaml
+- :code: openscreenprotocol
+  :stage: WD
+  :date: '20221212'
+  :file: data/wd-openscreenprotocol-20221212.yaml
+- :code: openscreenprotocol
+  :stage: WD
   :date: '20220422'
   :file: data/wd-openscreenprotocol-20220422.yaml
 - :code: openscreenprotocol
@@ -9991,6 +11131,14 @@
   :file: data/wd-orientation-event-20240514.yaml
 - :code: orientation-event
   :stage: WD
+  :date: '20230421'
+  :file: data/wd-orientation-event-20230421.yaml
+- :code: orientation-event
+  :stage: WD
+  :date: '20220919'
+  :file: data/wd-orientation-event-20220919.yaml
+- :code: orientation-event
+  :stage: WD
   :date: '20190416'
   :file: data/wd-orientation-event-20190416.yaml
 - :code: orientation-event
@@ -10011,6 +11159,10 @@
   :stage: WD
   :date: '20240110'
   :file: data/wd-orientation-sensor-20240110.yaml
+- :code: orientation-sensor
+  :stage: WD
+  :date: '20230801'
+  :file: data/wd-orientation-sensor-20230801.yaml
 - :code: orientation-sensor
   :stage: WD
   :date: '20210902'
@@ -10034,6 +11186,10 @@
   :type: DNOTE
   :date: '20240920'
   :file: data/dnote-osge-osa-gap-20240920.yaml
+- :code: osge-osa-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-osge-osa-gap-20230614.yaml
 - :code: osge-osa-gap
   :stage: WD
   :date: '20210524'
@@ -10467,6 +11623,10 @@
   :file: data/wd-paint-timing-20240112.yaml
 - :code: paint-timing
   :stage: WD
+  :date: '20230703'
+  :file: data/wd-paint-timing-20230703.yaml
+- :code: paint-timing
+  :stage: WD
   :date: '20170907'
   :file: data/wd-paint-timing-20170907.yaml
 - :code: patent-policy
@@ -10487,6 +11647,10 @@
   :stage: WD
   :date: '20230125'
   :file: data/wd-payment-handler-20230125.yaml
+- :code: payment-handler
+  :stage: WD
+  :date: '20221214'
+  :file: data/wd-payment-handler-20221214.yaml
 - :code: payment-handler
   :stage: WD
   :date: '20211004'
@@ -10597,6 +11761,14 @@
   :stage: WD
   :date: '20240205'
   :file: data/wd-payment-request-1.1-20240205.yaml
+- :code: payment-request-1.1
+  :stage: WD
+  :date: '20230628'
+  :file: data/wd-payment-request-1.1-20230628.yaml
+- :code: payment-request-1.1
+  :stage: WD
+  :date: '20220726'
+  :file: data/wd-payment-request-1.1-20220726.yaml
 - :code: performance
   :file: data/performance.yaml
 - :code: performance-timeline
@@ -10663,6 +11835,14 @@
   :file: data/wd-permissions-20240319.yaml
 - :code: permissions
   :stage: WD
+  :date: '20230613'
+  :file: data/wd-permissions-20230613.yaml
+- :code: permissions
+  :stage: WD
+  :date: '20221220'
+  :file: data/wd-permissions-20221220.yaml
+- :code: permissions
+  :stage: WD
   :date: '20220527'
   :file: data/wd-permissions-20220527.yaml
 - :code: permissions
@@ -10687,6 +11867,26 @@
   :stage: WD
   :date: '20240925'
   :file: data/wd-permissions-policy-1-20240925.yaml
+- :code: permissions-policy-1
+  :stage: WD
+  :date: '20231218'
+  :file: data/wd-permissions-policy-1-20231218.yaml
+- :code: permissions-policy-1
+  :stage: WD
+  :date: '20231017'
+  :file: data/wd-permissions-policy-1-20231017.yaml
+- :code: permissions-policy-1
+  :stage: WD
+  :date: '20230607'
+  :file: data/wd-permissions-policy-1-20230607.yaml
+- :code: permissions-policy-1
+  :stage: WD
+  :date: '20230322'
+  :file: data/wd-permissions-policy-1-20230322.yaml
+- :code: permissions-policy-1
+  :stage: WD
+  :date: '20221207'
+  :file: data/wd-permissions-policy-1-20221207.yaml
 - :code: permissions-policy-1
   :stage: WD
   :date: '20200716'
@@ -10841,6 +12041,14 @@
   :file: data/wd-picture-in-picture-20240902.yaml
 - :code: picture-in-picture
   :stage: WD
+  :date: '20240502'
+  :file: data/wd-picture-in-picture-20240502.yaml
+- :code: picture-in-picture
+  :stage: WD
+  :date: '20221219'
+  :file: data/wd-picture-in-picture-20221219.yaml
+- :code: picture-in-picture
+  :stage: WD
   :date: '20220428'
   :file: data/wd-picture-in-picture-20220428.yaml
 - :code: picture-in-picture
@@ -10876,9 +12084,17 @@
 - :code: png-3
   :file: data/png-3.yaml
 - :code: png-3
+  :stage: CR
+  :date: '20230921'
+  :file: data/cr-png-3-20230921.yaml
+- :code: png-3
   :stage: CRD
   :date: '20240718'
   :file: data/crd-png-3-20240718.yaml
+- :code: png-3
+  :stage: WD
+  :date: '20221025'
+  :file: data/wd-png-3-20221025.yaml
 - :code: png-hdr-pq
   :file: data/png-hdr-pq.yaml
 - :code: png-hdr-pq
@@ -10945,6 +12161,22 @@
   :file: data/wd-pointerevents3-20240814.yaml
 - :code: pointerevents3
   :stage: WD
+  :date: '20240326'
+  :file: data/wd-pointerevents3-20240326.yaml
+- :code: pointerevents3
+  :stage: WD
+  :date: '20231002'
+  :file: data/wd-pointerevents3-20231002.yaml
+- :code: pointerevents3
+  :stage: WD
+  :date: '20230302'
+  :file: data/wd-pointerevents3-20230302.yaml
+- :code: pointerevents3
+  :stage: WD
+  :date: '20221223'
+  :file: data/wd-pointerevents3-20221223.yaml
+- :code: pointerevents3
+  :stage: WD
   :date: '20220525'
   :file: data/wd-pointerevents3-20220525.yaml
 - :code: pointerevents3
@@ -10979,6 +12211,14 @@
   :stage: WD
   :date: '20240617'
   :file: data/wd-pointerlock-2-20240617.yaml
+- :code: pointerlock-2
+  :stage: WD
+  :date: '20240516'
+  :file: data/wd-pointerlock-2-20240516.yaml
+- :code: pointerlock-2
+  :stage: WD
+  :date: '20220708'
+  :file: data/wd-pointerlock-2-20220708.yaml
 - :code: pointerlock-2
   :stage: WD
   :date: '20211117'
@@ -11136,6 +12376,14 @@
   :file: data/note-predefined-counter-styles-20240815.yaml
 - :code: predefined-counter-styles
   :type: NOTE
+  :date: '20230630'
+  :file: data/note-predefined-counter-styles-20230630.yaml
+- :code: predefined-counter-styles
+  :type: NOTE
+  :date: '20230620'
+  :file: data/note-predefined-counter-styles-20230620.yaml
+- :code: predefined-counter-styles
+  :type: NOTE
   :date: '20210609'
   :file: data/note-predefined-counter-styles-20210609.yaml
 - :code: predefined-counter-styles
@@ -11192,6 +12440,18 @@
   :file: data/crd-presentation-api-20240823.yaml
 - :code: presentation-api
   :stage: CRD
+  :date: '20231016'
+  :file: data/crd-presentation-api-20231016.yaml
+- :code: presentation-api
+  :stage: CRD
+  :date: '20230123'
+  :file: data/crd-presentation-api-20230123.yaml
+- :code: presentation-api
+  :stage: CRD
+  :date: '20220602'
+  :file: data/crd-presentation-api-20220602.yaml
+- :code: presentation-api
+  :stage: CRD
   :date: '20220422'
   :file: data/crd-presentation-api-20220422.yaml
 - :code: presentation-api
@@ -11215,6 +12475,22 @@
   :type: NOTE
   :date: '20240813'
   :file: data/note-privacy-principles-20240813.yaml
+- :code: privacy-principles
+  :type: DNOTE
+  :date: '20240511'
+  :file: data/dnote-privacy-principles-20240511.yaml
+- :code: privacy-principles
+  :type: DNOTE
+  :date: '20230906'
+  :file: data/dnote-privacy-principles-20230906.yaml
+- :code: privacy-principles
+  :type: DNOTE
+  :date: '20230223'
+  :file: data/dnote-privacy-principles-20230223.yaml
+- :code: privacy-principles
+  :type: DNOTE
+  :date: '20221214'
+  :file: data/dnote-privacy-principles-20221214.yaml
 - :code: privacy-principles
   :type: DNOTE
   :date: '20220512'
@@ -11451,6 +12727,10 @@
   :file: data/wd-proximity-20231127.yaml
 - :code: proximity
   :stage: WD
+  :date: '20230130'
+  :file: data/wd-proximity-20230130.yaml
+- :code: proximity
+  :stage: WD
   :date: '20210903'
   :file: data/wd-proximity-20210903.yaml
 - :code: proximity
@@ -11502,6 +12782,22 @@
   :stage: WD
   :date: '20240903'
   :file: data/wd-push-api-20240903.yaml
+- :code: push-api
+  :stage: WD
+  :date: '20240530'
+  :file: data/wd-push-api-20240530.yaml
+- :code: push-api
+  :stage: WD
+  :date: '20231211'
+  :file: data/wd-push-api-20231211.yaml
+- :code: push-api
+  :stage: WD
+  :date: '20231010'
+  :file: data/wd-push-api-20231010.yaml
+- :code: push-api
+  :stage: WD
+  :date: '20220630'
+  :file: data/wd-push-api-20220630.yaml
 - :code: push-api
   :stage: WD
   :date: '20220323'
@@ -11766,6 +13062,34 @@
   :stage: REC
   :date: '20240521'
   :file: data/rec-rdf-canon-20240521.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20231004'
+  :file: data/wd-rdf-canon-20231004.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20230619'
+  :file: data/wd-rdf-canon-20230619.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20230614'
+  :file: data/wd-rdf-canon-20230614.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20230609'
+  :file: data/wd-rdf-canon-20230609.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20230607'
+  :file: data/wd-rdf-canon-20230607.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20230524'
+  :file: data/wd-rdf-canon-20230524.yaml
+- :code: rdf-canon
+  :stage: WD
+  :date: '20221219'
+  :file: data/wd-rdf-canon-20221219.yaml
 - :code: rdf-concepts
   :file: data/rdf-concepts.yaml
 - :code: rdf-concepts
@@ -12077,48 +13401,168 @@
   :stage: WD
   :date: '20240822'
   :file: data/wd-rdf12-concepts-20240822.yaml
+- :code: rdf12-concepts
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-rdf12-concepts-20240502.yaml
+- :code: rdf12-concepts
+  :stage: WD
+  :date: '20231013'
+  :file: data/wd-rdf12-concepts-20231013.yaml
+- :code: rdf12-concepts
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-concepts-20230615.yaml
+- :code: rdf12-concepts
+  :stage: WD
+  :date: '20230612'
+  :file: data/wd-rdf12-concepts-20230612.yaml
+- :code: rdf12-concepts
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-concepts-20230516.yaml
 - :code: rdf12-n-quads
   :file: data/rdf12-n-quads.yaml
 - :code: rdf12-n-quads
   :stage: WD
   :date: '20240919'
   :file: data/wd-rdf12-n-quads-20240919.yaml
+- :code: rdf12-n-quads
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-rdf12-n-quads-20240418.yaml
+- :code: rdf12-n-quads
+  :stage: WD
+  :date: '20231019'
+  :file: data/wd-rdf12-n-quads-20231019.yaml
+- :code: rdf12-n-quads
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-n-quads-20230615.yaml
+- :code: rdf12-n-quads
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-n-quads-20230516.yaml
 - :code: rdf12-n-triples
   :file: data/rdf12-n-triples.yaml
 - :code: rdf12-n-triples
   :stage: WD
   :date: '20240919'
   :file: data/wd-rdf12-n-triples-20240919.yaml
+- :code: rdf12-n-triples
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-rdf12-n-triples-20240418.yaml
+- :code: rdf12-n-triples
+  :stage: WD
+  :date: '20231019'
+  :file: data/wd-rdf12-n-triples-20231019.yaml
+- :code: rdf12-n-triples
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-n-triples-20230615.yaml
+- :code: rdf12-n-triples
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-n-triples-20230516.yaml
 - :code: rdf12-schema
   :file: data/rdf12-schema.yaml
 - :code: rdf12-schema
   :stage: WD
   :date: '20240418'
   :file: data/wd-rdf12-schema-20240418.yaml
+- :code: rdf12-schema
+  :stage: WD
+  :date: '20230928'
+  :file: data/wd-rdf12-schema-20230928.yaml
+- :code: rdf12-schema
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-schema-20230615.yaml
+- :code: rdf12-schema
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-schema-20230516.yaml
 - :code: rdf12-semantics
   :file: data/rdf12-semantics.yaml
 - :code: rdf12-semantics
   :stage: WD
   :date: '20240627'
   :file: data/wd-rdf12-semantics-20240627.yaml
+- :code: rdf12-semantics
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-rdf12-semantics-20240418.yaml
+- :code: rdf12-semantics
+  :stage: WD
+  :date: '20230922'
+  :file: data/wd-rdf12-semantics-20230922.yaml
+- :code: rdf12-semantics
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-semantics-20230615.yaml
+- :code: rdf12-semantics
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-rdf12-semantics-20230606.yaml
 - :code: rdf12-trig
   :file: data/rdf12-trig.yaml
 - :code: rdf12-trig
   :stage: WD
   :date: '20240919'
   :file: data/wd-rdf12-trig-20240919.yaml
+- :code: rdf12-trig
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-rdf12-trig-20240418.yaml
+- :code: rdf12-trig
+  :stage: WD
+  :date: '20231013'
+  :file: data/wd-rdf12-trig-20231013.yaml
+- :code: rdf12-trig
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-trig-20230516.yaml
 - :code: rdf12-turtle
   :file: data/rdf12-turtle.yaml
 - :code: rdf12-turtle
   :stage: WD
-  :date: '20240919'
-  :file: data/wd-rdf12-turtle-20240919.yaml
+  :date: '20240930'
+  :file: data/wd-rdf12-turtle-20240930.yaml
+- :code: rdf12-turtle
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-rdf12-turtle-20240418.yaml
+- :code: rdf12-turtle
+  :stage: WD
+  :date: '20231013'
+  :file: data/wd-rdf12-turtle-20231013.yaml
+- :code: rdf12-turtle
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-turtle-20230615.yaml
+- :code: rdf12-turtle
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-turtle-20230516.yaml
 - :code: rdf12-xml
   :file: data/rdf12-xml.yaml
 - :code: rdf12-xml
   :stage: WD
   :date: '20240418'
   :file: data/wd-rdf12-xml-20240418.yaml
+- :code: rdf12-xml
+  :stage: WD
+  :date: '20230921'
+  :file: data/wd-rdf12-xml-20230921.yaml
+- :code: rdf12-xml
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-rdf12-xml-20230615.yaml
+- :code: rdf12-xml
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-rdf12-xml-20230516.yaml
 - :code: rdfa-api
   :file: data/rdfa-api.yaml
 - :code: rdfa-api
@@ -12292,6 +13736,10 @@
   :file: data/crd-remote-playback-20240430.yaml
 - :code: remote-playback
   :stage: CRD
+  :date: '20220929'
+  :file: data/crd-remote-playback-20220929.yaml
+- :code: remote-playback
+  :stage: CRD
   :date: '20220422'
   :file: data/crd-remote-playback-20220422.yaml
 - :code: remote-playback
@@ -12308,6 +13756,18 @@
   :stage: WD
   :date: '20240813'
   :file: data/wd-reporting-1-20240813.yaml
+- :code: reporting-1
+  :stage: WD
+  :date: '20231110'
+  :file: data/wd-reporting-1-20231110.yaml
+- :code: reporting-1
+  :stage: WD
+  :date: '20230512'
+  :file: data/wd-reporting-1-20230512.yaml
+- :code: reporting-1
+  :stage: WD
+  :date: '20220917'
+  :file: data/wd-reporting-1-20220917.yaml
 - :code: reporting-1
   :stage: WD
   :date: '20220405'
@@ -12390,6 +13850,30 @@
   :stage: CRD
   :date: '20240524'
   :file: data/crd-resource-timing-20240524.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20240427'
+  :file: data/crd-resource-timing-20240427.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20230511'
+  :file: data/crd-resource-timing-20230511.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20230509'
+  :file: data/crd-resource-timing-20230509.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20230313'
+  :file: data/crd-resource-timing-20230313.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20230303'
+  :file: data/crd-resource-timing-20230303.yaml
+- :code: resource-timing
+  :stage: CRD
+  :date: '20221110'
+  :file: data/crd-resource-timing-20221110.yaml
 - :code: resource-timing
   :stage: WD
   :date: '20151125'
@@ -12789,6 +14273,10 @@
   :date: '20230628'
   :file: data/note-saur-20230628.yaml
 - :code: saur
+  :type: NOTE
+  :date: '20220705'
+  :file: data/note-saur-20220705.yaml
+- :code: saur
   :type: DNOTE
   :date: '20220413'
   :file: data/dnote-saur-20220413.yaml
@@ -12830,6 +14318,22 @@
   :file: data/wd-screen-capture-20240627.yaml
 - :code: screen-capture
   :stage: WD
+  :date: '20240208'
+  :file: data/wd-screen-capture-20240208.yaml
+- :code: screen-capture
+  :stage: WD
+  :date: '20230831'
+  :file: data/wd-screen-capture-20230831.yaml
+- :code: screen-capture
+  :stage: WD
+  :date: '20230413'
+  :file: data/wd-screen-capture-20230413.yaml
+- :code: screen-capture
+  :stage: WD
+  :date: '20221201'
+  :file: data/wd-screen-capture-20221201.yaml
+- :code: screen-capture
+  :stage: WD
   :date: '20220519'
   :file: data/wd-screen-capture-20220519.yaml
 - :code: screen-capture
@@ -12860,6 +14364,14 @@
   :stage: WD
   :date: '20230809'
   :file: data/wd-screen-orientation-20230809.yaml
+- :code: screen-orientation
+  :stage: WD
+  :date: '20230504'
+  :file: data/wd-screen-orientation-20230504.yaml
+- :code: screen-orientation
+  :stage: WD
+  :date: '20221216'
+  :file: data/wd-screen-orientation-20221216.yaml
 - :code: screen-orientation
   :stage: WD
   :date: '20221023'
@@ -12908,6 +14420,22 @@
   :file: data/wd-screen-wake-lock-20240527.yaml
 - :code: screen-wake-lock
   :stage: WD
+  :date: '20240411'
+  :file: data/wd-screen-wake-lock-20240411.yaml
+- :code: screen-wake-lock
+  :stage: WD
+  :date: '20230719'
+  :file: data/wd-screen-wake-lock-20230719.yaml
+- :code: screen-wake-lock
+  :stage: WD
+  :date: '20230406'
+  :file: data/wd-screen-wake-lock-20230406.yaml
+- :code: screen-wake-lock
+  :stage: WD
+  :date: '20221123'
+  :file: data/wd-screen-wake-lock-20221123.yaml
+- :code: screen-wake-lock
+  :stage: WD
   :date: '20211207'
   :file: data/wd-screen-wake-lock-20211207.yaml
 - :code: screen-wake-lock
@@ -12920,6 +14448,14 @@
   :stage: WD
   :date: '20230606'
   :file: data/wd-scroll-animations-1-20230606.yaml
+- :code: scroll-animations-1
+  :stage: WD
+  :date: '20230428'
+  :file: data/wd-scroll-animations-1-20230428.yaml
+- :code: scroll-animations-1
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-scroll-animations-1-20221208.yaml
 - :code: scxml
   :file: data/scxml.yaml
 - :code: scxml
@@ -13026,9 +14562,33 @@
 - :code: secure-payment-confirmation
   :file: data/secure-payment-confirmation.yaml
 - :code: secure-payment-confirmation
+  :stage: CR
+  :date: '20230615'
+  :file: data/cr-secure-payment-confirmation-20230615.yaml
+- :code: secure-payment-confirmation
   :stage: CRD
   :date: '20240813'
   :file: data/crd-secure-payment-confirmation-20240813.yaml
+- :code: secure-payment-confirmation
+  :stage: CRD
+  :date: '20231213'
+  :file: data/crd-secure-payment-confirmation-20231213.yaml
+- :code: secure-payment-confirmation
+  :stage: CRD
+  :date: '20231018'
+  :file: data/crd-secure-payment-confirmation-20231018.yaml
+- :code: secure-payment-confirmation
+  :stage: CRD
+  :date: '20230621'
+  :file: data/crd-secure-payment-confirmation-20230621.yaml
+- :code: secure-payment-confirmation
+  :stage: WD
+  :date: '20230530'
+  :file: data/wd-secure-payment-confirmation-20230530.yaml
+- :code: secure-payment-confirmation
+  :stage: WD
+  :date: '20221209'
+  :file: data/wd-secure-payment-confirmation-20221209.yaml
 - :code: secure-payment-confirmation
   :stage: WD
   :date: '20210831'
@@ -13055,8 +14615,16 @@
   :file: data/selection-api.yaml
 - :code: selection-api
   :stage: WD
-  :date: '20240927'
-  :file: data/wd-selection-api-20240927.yaml
+  :date: '20240930'
+  :file: data/wd-selection-api-20240930.yaml
+- :code: selection-api
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-selection-api-20230516.yaml
+- :code: selection-api
+  :stage: WD
+  :date: '20221217'
+  :file: data/wd-selection-api-20221217.yaml
 - :code: selection-api
   :stage: WD
   :date: '20210724'
@@ -13912,60 +15480,192 @@
   :stage: WD
   :date: '20240418'
   :file: data/wd-sparql12-entailment-20240418.yaml
+- :code: sparql12-entailment
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-sparql12-entailment-20230615.yaml
+- :code: sparql12-entailment
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-sparql12-entailment-20230606.yaml
 - :code: sparql12-federated-query
   :file: data/sparql12-federated-query.yaml
 - :code: sparql12-federated-query
   :stage: WD
   :date: '20240912'
   :file: data/wd-sparql12-federated-query-20240912.yaml
+- :code: sparql12-federated-query
+  :stage: WD
+  :date: '20240418'
+  :file: data/wd-sparql12-federated-query-20240418.yaml
+- :code: sparql12-federated-query
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-federated-query-20230616.yaml
+- :code: sparql12-federated-query
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-federated-query-20230516.yaml
 - :code: sparql12-graph-store-protocol
   :file: data/sparql12-graph-store-protocol.yaml
 - :code: sparql12-graph-store-protocol
   :stage: WD
   :date: '20240418'
   :file: data/wd-sparql12-graph-store-protocol-20240418.yaml
+- :code: sparql12-graph-store-protocol
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-graph-store-protocol-20230616.yaml
+- :code: sparql12-graph-store-protocol
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-graph-store-protocol-20230516.yaml
 - :code: sparql12-protocol
   :file: data/sparql12-protocol.yaml
 - :code: sparql12-protocol
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-protocol-20240829.yaml
+- :code: sparql12-protocol
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-protocol-20240502.yaml
+- :code: sparql12-protocol
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-protocol-20230616.yaml
+- :code: sparql12-protocol
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-protocol-20230516.yaml
 - :code: sparql12-query
   :file: data/sparql12-query.yaml
 - :code: sparql12-query
   :stage: WD
   :date: '20240921'
   :file: data/wd-sparql12-query-20240921.yaml
+- :code: sparql12-query
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-query-20240502.yaml
+- :code: sparql12-query
+  :stage: WD
+  :date: '20231020'
+  :file: data/wd-sparql12-query-20231020.yaml
+- :code: sparql12-query
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-query-20230616.yaml
+- :code: sparql12-query
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-query-20230516.yaml
 - :code: sparql12-results-csv-tsv
   :file: data/sparql12-results-csv-tsv.yaml
 - :code: sparql12-results-csv-tsv
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-results-csv-tsv-20240829.yaml
+- :code: sparql12-results-csv-tsv
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-results-csv-tsv-20240502.yaml
+- :code: sparql12-results-csv-tsv
+  :stage: WD
+  :date: '20230629'
+  :file: data/wd-sparql12-results-csv-tsv-20230629.yaml
+- :code: sparql12-results-csv-tsv
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-results-csv-tsv-20230616.yaml
+- :code: sparql12-results-csv-tsv
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-results-csv-tsv-20230516.yaml
 - :code: sparql12-results-json
   :file: data/sparql12-results-json.yaml
 - :code: sparql12-results-json
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-results-json-20240829.yaml
+- :code: sparql12-results-json
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-results-json-20240502.yaml
+- :code: sparql12-results-json
+  :stage: WD
+  :date: '20230728'
+  :file: data/wd-sparql12-results-json-20230728.yaml
+- :code: sparql12-results-json
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-results-json-20230616.yaml
+- :code: sparql12-results-json
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-results-json-20230516.yaml
 - :code: sparql12-results-xml
   :file: data/sparql12-results-xml.yaml
 - :code: sparql12-results-xml
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-results-xml-20240829.yaml
+- :code: sparql12-results-xml
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-results-xml-20240502.yaml
+- :code: sparql12-results-xml
+  :stage: WD
+  :date: '20230728'
+  :file: data/wd-sparql12-results-xml-20230728.yaml
+- :code: sparql12-results-xml
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-results-xml-20230616.yaml
+- :code: sparql12-results-xml
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-results-xml-20230516.yaml
 - :code: sparql12-service-description
   :file: data/sparql12-service-description.yaml
 - :code: sparql12-service-description
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-service-description-20240829.yaml
+- :code: sparql12-service-description
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-service-description-20240502.yaml
+- :code: sparql12-service-description
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-service-description-20230616.yaml
+- :code: sparql12-service-description
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-service-description-20230516.yaml
 - :code: sparql12-update
   :file: data/sparql12-update.yaml
 - :code: sparql12-update
   :stage: WD
   :date: '20240829'
   :file: data/wd-sparql12-update-20240829.yaml
+- :code: sparql12-update
+  :stage: WD
+  :date: '20240502'
+  :file: data/wd-sparql12-update-20240502.yaml
+- :code: sparql12-update
+  :stage: WD
+  :date: '20230928'
+  :file: data/wd-sparql12-update-20230928.yaml
+- :code: sparql12-update
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-sparql12-update-20230616.yaml
+- :code: sparql12-update
+  :stage: WD
+  :date: '20230516'
+  :file: data/wd-sparql12-update-20230516.yaml
 - :code: spec-variability
   :file: data/spec-variability.yaml
 - :code: spec-variability
@@ -14090,6 +15790,18 @@
   :type: DNOTE
   :date: '20240718'
   :file: data/dnote-string-meta-20240718.yaml
+- :code: string-meta
+  :type: DNOTE
+  :date: '20240418'
+  :file: data/dnote-string-meta-20240418.yaml
+- :code: string-meta
+  :type: DNOTE
+  :date: '20230720'
+  :file: data/dnote-string-meta-20230720.yaml
+- :code: string-meta
+  :type: DNOTE
+  :date: '20220804'
+  :file: data/dnote-string-meta-20220804.yaml
 - :code: string-meta
   :type: DNOTE
   :date: '20220307'
@@ -14524,6 +16236,14 @@
   :file: data/dnote-taml-gap-20240709.yaml
 - :code: taml-gap
   :type: DNOTE
+  :date: '20231004'
+  :file: data/dnote-taml-gap-20231004.yaml
+- :code: taml-gap
+  :type: DNOTE
+  :date: '20230614'
+  :file: data/dnote-taml-gap-20230614.yaml
+- :code: taml-gap
+  :type: DNOTE
   :date: '20220121'
   :file: data/dnote-taml-gap-20220121.yaml
 - :code: taml-gap
@@ -14616,6 +16336,10 @@
   :file: data/dnote-thai-gap-20240710.yaml
 - :code: thai-gap
   :type: DNOTE
+  :date: '20230615'
+  :file: data/dnote-thai-gap-20230615.yaml
+- :code: thai-gap
+  :type: DNOTE
   :date: '20220119'
   :file: data/dnote-thai-gap-20220119.yaml
 - :code: thai-gap
@@ -14632,6 +16356,10 @@
   :type: DNOTE
   :date: '20240815'
   :file: data/dnote-thai-lreq-20240815.yaml
+- :code: thai-lreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-thai-lreq-20240515.yaml
 - :code: tibt-gap
   :file: data/tibt-gap.yaml
 - :code: tibt-gap
@@ -14689,6 +16417,10 @@
   :date: '20240730'
   :file: data/dnote-tlreq-20240730.yaml
 - :code: tlreq
+  :type: DNOTE
+  :date: '20240515'
+  :file: data/dnote-tlreq-20240515.yaml
+- :code: tlreq
   :stage: WD
   :date: '20200616'
   :file: data/wd-tlreq-20200616.yaml
@@ -14735,9 +16467,17 @@
 - :code: trace-context-2
   :file: data/trace-context-2.yaml
 - :code: trace-context-2
+  :stage: CR
+  :date: '20230418'
+  :file: data/cr-trace-context-2-20230418.yaml
+- :code: trace-context-2
   :stage: CRD
   :date: '20240328'
   :file: data/crd-trace-context-2-20240328.yaml
+- :code: trace-context-2
+  :stage: WD
+  :date: '20220929'
+  :file: data/wd-trace-context-2-20220929.yaml
 - :code: trace-context-protocols-registry
   :file: data/trace-context-protocols-registry.yaml
 - :code: trace-context-protocols-registry
@@ -14820,6 +16560,14 @@
   :stage: WD
   :date: '20240910'
   :file: data/wd-trusted-types-20240910.yaml
+- :code: trusted-types
+  :stage: WD
+  :date: '20240531'
+  :file: data/wd-trusted-types-20240531.yaml
+- :code: trusted-types
+  :stage: WD
+  :date: '20220927'
+  :file: data/wd-trusted-types-20220927.yaml
 - :code: tt-af-1-0-req
   :file: data/tt-af-1-0-req.yaml
 - :code: tt-af-1-0-req
@@ -15029,6 +16777,14 @@
   :date: '20240920'
   :file: data/dnote-typography-20240920.yaml
 - :code: typography
+  :type: DNOTE
+  :date: '20240322'
+  :file: data/dnote-typography-20240322.yaml
+- :code: typography
+  :type: DNOTE
+  :date: '20221101'
+  :file: data/dnote-typography-20221101.yaml
+- :code: typography
   :stage: WD
   :date: '20200520'
   :file: data/wd-typography-20200520.yaml
@@ -15127,6 +16883,26 @@
   :stage: WD
   :date: '20240907'
   :file: data/wd-uievents-20240907.yaml
+- :code: uievents
+  :stage: WD
+  :date: '20240607'
+  :file: data/wd-uievents-20240607.yaml
+- :code: uievents
+  :stage: WD
+  :date: '20240221'
+  :file: data/wd-uievents-20240221.yaml
+- :code: uievents
+  :stage: WD
+  :date: '20230915'
+  :file: data/wd-uievents-20230915.yaml
+- :code: uievents
+  :stage: WD
+  :date: '20230509'
+  :file: data/wd-uievents-20230509.yaml
+- :code: uievents
+  :stage: WD
+  :date: '20220913'
+  :file: data/wd-uievents-20220913.yaml
 - :code: uievents
   :stage: WD
   :date: '20211020'
@@ -15422,15 +17198,43 @@
 - :code: vc-bitstring-status-list
   :file: data/vc-bitstring-status-list.yaml
 - :code: vc-bitstring-status-list
+  :stage: CR
+  :date: '20240521'
+  :file: data/cr-vc-bitstring-status-list-20240521.yaml
+- :code: vc-bitstring-status-list
   :stage: CRD
   :date: '20240610'
   :file: data/crd-vc-bitstring-status-list-20240610.yaml
+- :code: vc-bitstring-status-list
+  :stage: CRD
+  :date: '20240608'
+  :file: data/crd-vc-bitstring-status-list-20240608.yaml
 - :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
   :stage: CRD
-  :date: '20240919'
-  :file: data/crd-vc-data-integrity-20240919.yaml
+  :date: '20240930'
+  :file: data/crd-vc-data-integrity-20240930.yaml
+- :code: vc-data-integrity
+  :stage: CRD
+  :date: '20240605'
+  :file: data/crd-vc-data-integrity-20240605.yaml
+- :code: vc-data-integrity
+  :stage: CRD
+  :date: '20240428'
+  :file: data/crd-vc-data-integrity-20240428.yaml
+- :code: vc-data-integrity
+  :stage: WD
+  :date: '20231021'
+  :file: data/wd-vc-data-integrity-20231021.yaml
+- :code: vc-data-integrity
+  :stage: WD
+  :date: '20230528'
+  :file: data/wd-vc-data-integrity-20230528.yaml
+- :code: vc-data-integrity
+  :stage: WD
+  :date: '20221110'
+  :file: data/wd-vc-data-integrity-20221110.yaml
 - :code: vc-data-model
   :file: data/vc-data-model.yaml
 - :code: vc-data-model
@@ -15449,26 +17253,110 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20240926'
-  :file: data/crd-vc-data-model-2.0-20240926.yaml
+  :date: '20241001'
+  :file: data/crd-vc-data-model-2.0-20241001.yaml
+- :code: vc-data-model-2.0
+  :stage: CRD
+  :date: '20240608'
+  :file: data/crd-vc-data-model-2.0-20240608.yaml
+- :code: vc-data-model-2.0
+  :stage: CRD
+  :date: '20240601'
+  :file: data/crd-vc-data-model-2.0-20240601.yaml
+- :code: vc-data-model-2.0
+  :stage: CRD
+  :date: '20240513'
+  :file: data/crd-vc-data-model-2.0-20240513.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20231021'
+  :file: data/wd-vc-data-model-2.0-20231021.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20230617'
+  :file: data/wd-vc-data-model-2.0-20230617.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20230612'
+  :file: data/wd-vc-data-model-2.0-20230612.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20230611'
+  :file: data/wd-vc-data-model-2.0-20230611.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20230520'
+  :file: data/wd-vc-data-model-2.0-20230520.yaml
+- :code: vc-data-model-2.0
+  :stage: WD
+  :date: '20221218'
+  :file: data/wd-vc-data-model-2.0-20221218.yaml
 - :code: vc-di-bbs
   :file: data/vc-di-bbs.yaml
 - :code: vc-di-bbs
   :stage: CRD
   :date: '20240828'
   :file: data/crd-vc-di-bbs-20240828.yaml
+- :code: vc-di-bbs
+  :stage: CRD
+  :date: '20240428'
+  :file: data/crd-vc-di-bbs-20240428.yaml
+- :code: vc-di-bbs
+  :stage: WD
+  :date: '20231016'
+  :file: data/wd-vc-di-bbs-20231016.yaml
+- :code: vc-di-bbs
+  :stage: WD
+  :date: '20230524'
+  :file: data/wd-vc-di-bbs-20230524.yaml
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
   :stage: CRD
   :date: '20240930'
   :file: data/crd-vc-di-ecdsa-20240930.yaml
+- :code: vc-di-ecdsa
+  :stage: CRD
+  :date: '20240428'
+  :file: data/crd-vc-di-ecdsa-20240428.yaml
+- :code: vc-di-ecdsa
+  :stage: WD
+  :date: '20231021'
+  :file: data/wd-vc-di-ecdsa-20231021.yaml
+- :code: vc-di-ecdsa
+  :stage: WD
+  :date: '20230616'
+  :file: data/wd-vc-di-ecdsa-20230616.yaml
+- :code: vc-di-ecdsa
+  :stage: WD
+  :date: '20230603'
+  :file: data/wd-vc-di-ecdsa-20230603.yaml
+- :code: vc-di-ecdsa
+  :stage: WD
+  :date: '20230518'
+  :file: data/wd-vc-di-ecdsa-20230518.yaml
 - :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :code: vc-di-eddsa
   :stage: CRD
   :date: '20240930'
   :file: data/crd-vc-di-eddsa-20240930.yaml
+- :code: vc-di-eddsa
+  :stage: CRD
+  :date: '20240303'
+  :file: data/crd-vc-di-eddsa-20240303.yaml
+- :code: vc-di-eddsa
+  :stage: WD
+  :date: '20231021'
+  :file: data/wd-vc-di-eddsa-20231021.yaml
+- :code: vc-di-eddsa
+  :stage: WD
+  :date: '20230603'
+  :file: data/wd-vc-di-eddsa-20230603.yaml
+- :code: vc-di-eddsa
+  :stage: WD
+  :date: '20230518'
+  :file: data/wd-vc-di-eddsa-20230518.yaml
 - :code: vc-extensions
   :file: data/vc-extensions.yaml
 - :code: vc-extensions
@@ -15485,23 +17373,101 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: CRD
-  :date: '20240927'
-  :file: data/crd-vc-jose-cose-20240927.yaml
+  :date: '20240930'
+  :file: data/crd-vc-jose-cose-20240930.yaml
+- :code: vc-jose-cose
+  :stage: CRD
+  :date: '20240521'
+  :file: data/crd-vc-jose-cose-20240521.yaml
+- :code: vc-jose-cose
+  :stage: WD
+  :date: '20231016'
+  :file: data/wd-vc-jose-cose-20231016.yaml
 - :code: vc-json-schema
   :file: data/vc-json-schema.yaml
 - :code: vc-json-schema
   :stage: CRD
   :date: '20240912'
   :file: data/crd-vc-json-schema-20240912.yaml
+- :code: vc-json-schema
+  :stage: CRD
+  :date: '20231218'
+  :file: data/crd-vc-json-schema-20231218.yaml
+- :code: vc-json-schema
+  :stage: WD
+  :date: '20231014'
+  :file: data/wd-vc-json-schema-20231014.yaml
+- :code: vc-json-schema
+  :stage: WD
+  :date: '20230613'
+  :file: data/wd-vc-json-schema-20230613.yaml
+- :code: vc-json-schema
+  :stage: WD
+  :date: '20230612'
+  :file: data/wd-vc-json-schema-20230612.yaml
+- :code: vc-json-schema
+  :stage: WD
+  :date: '20230530'
+  :file: data/wd-vc-json-schema-20230530.yaml
 - :code: vc-jws
   :date: '2020'
   :file: data/vc-jws-2020.yaml
+- :code: vc-jws-2020
+  :stage: WD
+  :date: '20230629'
+  :file: data/wd-vc-jws-2020-20230629.yaml
+- :code: vc-jws-2020
+  :stage: WD
+  :date: '20230127'
+  :file: data/wd-vc-jws-2020-20230127.yaml
+- :code: vc-jws-2020
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-vc-jws-2020-20221208.yaml
+- :code: vc-jwt
+  :file: data/vc-jwt.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230615'
+  :file: data/wd-vc-jwt-20230615.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230607'
+  :file: data/wd-vc-jwt-20230607.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-vc-jwt-20230606.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230601'
+  :file: data/wd-vc-jwt-20230601.yaml
+- :code: vc-jwt
+  :stage: WD
+  :date: '20230525'
+  :file: data/wd-vc-jwt-20230525.yaml
 - :code: vc-overview
   :file: data/vc-overview.yaml
 - :code: vc-overview
   :type: NOTE
   :date: '20240919'
   :file: data/note-vc-overview-20240919.yaml
+- :code: vc-specs-dir
+  :file: data/vc-specs-dir.yaml
+- :code: vc-specs-dir
+  :type: NOTE
+  :date: '20240601'
+  :file: data/note-vc-specs-dir-20240601.yaml
+- :code: vc-specs-dir
+  :type: NOTE
+  :date: '20240201'
+  :file: data/note-vc-specs-dir-20240201.yaml
+- :code: vc-status-list
+  :file: data/vc-status-list.yaml
+- :code: vc-status-list
+  :stage: WD
+  :date: '20230427'
+  :file: data/wd-vc-status-list-20230427.yaml
 - :code: vc-use-cases
   :file: data/vc-use-cases.yaml
 - :code: vc-use-cases
@@ -15634,6 +17600,18 @@
   :file: data/viss2-core.yaml
 - :code: viss2-core
   :stage: WD
+  :date: '20230927'
+  :file: data/wd-viss2-core-20230927.yaml
+- :code: viss2-core
+  :stage: WD
+  :date: '20230418'
+  :file: data/wd-viss2-core-20230418.yaml
+- :code: viss2-core
+  :stage: WD
+  :date: '20221129'
+  :file: data/wd-viss2-core-20221129.yaml
+- :code: viss2-core
+  :stage: WD
   :date: '20220503'
   :file: data/wd-viss2-core-20220503.yaml
 - :code: viss2-core
@@ -15642,6 +17620,18 @@
   :file: data/wd-viss2-core-20210729.yaml
 - :code: viss2-transport
   :file: data/viss2-transport.yaml
+- :code: viss2-transport
+  :stage: WD
+  :date: '20230908'
+  :file: data/wd-viss2-transport-20230908.yaml
+- :code: viss2-transport
+  :stage: WD
+  :date: '20230418'
+  :file: data/wd-viss2-transport-20230418.yaml
+- :code: viss2-transport
+  :stage: WD
+  :date: '20221129'
+  :file: data/wd-viss2-transport-20221129.yaml
 - :code: viss2-transport
   :stage: WD
   :date: '20220503'
@@ -15733,6 +17723,14 @@
   :stage: REC
   :date: '20240822'
   :file: data/rec-vocab-dcat-3-20240822.yaml
+- :code: vocab-dcat-3
+  :stage: CR
+  :date: '20240118'
+  :file: data/cr-vocab-dcat-3-20240118.yaml
+- :code: vocab-dcat-3
+  :stage: WD
+  :date: '20230307'
+  :file: data/wd-vocab-dcat-3-20230307.yaml
 - :code: vocab-dcat-3
   :stage: WD
   :date: '20220510'
@@ -15950,6 +17948,10 @@
   :type: NOTE
   :date: '20240403'
   :file: data/note-w3c-vision-20240403.yaml
+- :code: w3c-vision
+  :type: DNOTE
+  :date: '20230725'
+  :file: data/dnote-w3c-vision-20230725.yaml
 - :code: WAET
   :file: data/waet.yaml
 - :code: WAET
@@ -16016,6 +18018,10 @@
   :stage: REC
   :date: '20230606'
   :file: data/rec-wai-aria-1.2-20230606.yaml
+- :code: wai-aria-1.2
+  :stage: PR
+  :date: '20230328'
+  :file: data/pr-wai-aria-1.2-20230328.yaml
 - :code: wai-aria-1.2
   :stage: CRD
   :date: '20211208'
@@ -16198,6 +18204,10 @@
   :file: data/wd-wasm-core-2-20240911.yaml
 - :code: wasm-core-2
   :stage: WD
+  :date: '20240428'
+  :file: data/wd-wasm-core-2-20240428.yaml
+- :code: wasm-core-2
+  :stage: WD
   :date: '20220419'
   :file: data/wd-wasm-core-2-20220419.yaml
 - :code: wasm-js-api-1
@@ -16214,8 +18224,12 @@
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
   :stage: WD
-  :date: '20240911'
-  :file: data/wd-wasm-js-api-2-20240911.yaml
+  :date: '20240930'
+  :file: data/wd-wasm-js-api-2-20240930.yaml
+- :code: wasm-js-api-2
+  :stage: WD
+  :date: '20240402'
+  :file: data/wd-wasm-js-api-2-20240402.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20220419'
@@ -16234,8 +18248,12 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20240911'
-  :file: data/wd-wasm-web-api-2-20240911.yaml
+  :date: '20240930'
+  :file: data/wd-wasm-web-api-2-20240930.yaml
+- :code: wasm-web-api-2
+  :stage: WD
+  :date: '20240428'
+  :file: data/wd-wasm-web-api-2-20240428.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20220419'
@@ -16264,6 +18282,14 @@
   :stage: WD
   :date: '20240528'
   :file: data/wd-wcag-3.0-20240528.yaml
+- :code: wcag-3.0
+  :stage: WD
+  :date: '20240516'
+  :file: data/wd-wcag-3.0-20240516.yaml
+- :code: wcag-3.0
+  :stage: WD
+  :date: '20230724'
+  :file: data/wd-wcag-3.0-20230724.yaml
 - :code: wcag-3.0
   :stage: WD
   :date: '20211207'
@@ -16473,6 +18499,14 @@
   :date: '20231005'
   :file: data/rec-wcag22-20231005.yaml
 - :code: WCAG22
+  :stage: CR
+  :date: '20220906'
+  :file: data/cr-wcag22-20220906.yaml
+- :code: WCAG22
+  :stage: CRD
+  :date: '20230517'
+  :file: data/crd-wcag22-20230517.yaml
+- :code: WCAG22
   :stage: WD
   :date: '20210521'
   :file: data/wd-wcag22-20210521.yaml
@@ -16482,6 +18516,10 @@
   :file: data/wd-wcag22-20200811.yaml
 - :code: wcag2ict
   :file: data/wcag2ict.yaml
+- :code: wcag2ict
+  :type: DNOTE
+  :date: '20230815'
+  :file: data/dnote-wcag2ict-20230815.yaml
 - :code: wcag2ict
   :type: NOTE
   :date: '20130905'
@@ -16518,6 +18556,10 @@
   :stage: WD
   :date: '20230605'
   :file: data/wd-web-animations-1-20230605.yaml
+- :code: web-animations-1
+  :stage: WD
+  :date: '20220908'
+  :file: data/wd-web-animations-1-20220908.yaml
 - :code: web-animations-1
   :stage: WD
   :date: '20210518'
@@ -16599,6 +18641,10 @@
   :stage: REC
   :date: '20230530'
   :file: data/rec-web-share-20230530.yaml
+- :code: web-share
+  :stage: PR
+  :date: '20221215'
+  :file: data/pr-web-share-20221215.yaml
 - :code: web-share
   :stage: CR
   :date: '20220830'
@@ -16786,6 +18832,22 @@
   :file: data/wd-webcodecs-20240909.yaml
 - :code: webcodecs
   :stage: WD
+  :date: '20240520'
+  :file: data/wd-webcodecs-20240520.yaml
+- :code: webcodecs
+  :stage: WD
+  :date: '20231012'
+  :file: data/wd-webcodecs-20231012.yaml
+- :code: webcodecs
+  :stage: WD
+  :date: '20230511'
+  :file: data/wd-webcodecs-20230511.yaml
+- :code: webcodecs
+  :stage: WD
+  :date: '20221212'
+  :file: data/wd-webcodecs-20221212.yaml
+- :code: webcodecs
+  :stage: WD
   :date: '20220524'
   :file: data/wd-webcodecs-20220524.yaml
 - :code: webcodecs
@@ -16804,6 +18866,22 @@
   :file: data/dnote-webcodecs-aac-codec-registration-20240909.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-aac-codec-registration-20240520.yaml
+- :code: webcodecs-aac-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-aac-codec-registration-20231012.yaml
+- :code: webcodecs-aac-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-aac-codec-registration-20230511.yaml
+- :code: webcodecs-aac-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-aac-codec-registration-20221212.yaml
+- :code: webcodecs-aac-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-aac-codec-registration-20220524.yaml
 - :code: webcodecs-aac-codec-registration
@@ -16816,6 +18894,22 @@
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-alaw-codec-registration-20240909.yaml
+- :code: webcodecs-alaw-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20240520.yaml
+- :code: webcodecs-alaw-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20231012.yaml
+- :code: webcodecs-alaw-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20230511.yaml
+- :code: webcodecs-alaw-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-alaw-codec-registration-20221212.yaml
 - :code: webcodecs-alaw-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16832,6 +18926,22 @@
   :file: data/dnote-webcodecs-av1-codec-registration-20240909.yaml
 - :code: webcodecs-av1-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-av1-codec-registration-20240520.yaml
+- :code: webcodecs-av1-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-av1-codec-registration-20231012.yaml
+- :code: webcodecs-av1-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-av1-codec-registration-20230511.yaml
+- :code: webcodecs-av1-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-av1-codec-registration-20221212.yaml
+- :code: webcodecs-av1-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-av1-codec-registration-20220524.yaml
 - :code: webcodecs-av1-codec-registration
@@ -16844,6 +18954,22 @@
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-avc-codec-registration-20240909.yaml
+- :code: webcodecs-avc-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-avc-codec-registration-20240520.yaml
+- :code: webcodecs-avc-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-avc-codec-registration-20231012.yaml
+- :code: webcodecs-avc-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-avc-codec-registration-20230511.yaml
+- :code: webcodecs-avc-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-avc-codec-registration-20221212.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16870,6 +18996,22 @@
   :file: data/dnote-webcodecs-flac-codec-registration-20240909.yaml
 - :code: webcodecs-flac-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-flac-codec-registration-20240520.yaml
+- :code: webcodecs-flac-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-flac-codec-registration-20231012.yaml
+- :code: webcodecs-flac-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-flac-codec-registration-20230511.yaml
+- :code: webcodecs-flac-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-flac-codec-registration-20221212.yaml
+- :code: webcodecs-flac-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-flac-codec-registration-20220524.yaml
 - :code: webcodecs-flac-codec-registration
@@ -16882,12 +19024,44 @@
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-hevc-codec-registration-20240909.yaml
+- :code: webcodecs-hevc-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20240520.yaml
+- :code: webcodecs-hevc-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20231012.yaml
+- :code: webcodecs-hevc-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20230511.yaml
+- :code: webcodecs-hevc-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20221212.yaml
 - :code: webcodecs-mp3-codec-registration
   :file: data/webcodecs-mp3-codec-registration.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-mp3-codec-registration-20240909.yaml
+- :code: webcodecs-mp3-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20240520.yaml
+- :code: webcodecs-mp3-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20231012.yaml
+- :code: webcodecs-mp3-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20230511.yaml
+- :code: webcodecs-mp3-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-mp3-codec-registration-20221212.yaml
 - :code: webcodecs-mp3-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16904,6 +19078,22 @@
   :file: data/dnote-webcodecs-opus-codec-registration-20240909.yaml
 - :code: webcodecs-opus-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-opus-codec-registration-20240520.yaml
+- :code: webcodecs-opus-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-opus-codec-registration-20231012.yaml
+- :code: webcodecs-opus-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-opus-codec-registration-20230511.yaml
+- :code: webcodecs-opus-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-opus-codec-registration-20221212.yaml
+- :code: webcodecs-opus-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-opus-codec-registration-20220524.yaml
 - :code: webcodecs-opus-codec-registration
@@ -16918,6 +19108,22 @@
   :file: data/dnote-webcodecs-pcm-codec-registration-20240909.yaml
 - :code: webcodecs-pcm-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20240520.yaml
+- :code: webcodecs-pcm-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20231012.yaml
+- :code: webcodecs-pcm-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20230511.yaml
+- :code: webcodecs-pcm-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-pcm-codec-registration-20221212.yaml
+- :code: webcodecs-pcm-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-pcm-codec-registration-20220524.yaml
 - :code: webcodecs-pcm-codec-registration
@@ -16930,6 +19136,22 @@
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-ulaw-codec-registration-20240909.yaml
+- :code: webcodecs-ulaw-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20240520.yaml
+- :code: webcodecs-ulaw-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20231012.yaml
+- :code: webcodecs-ulaw-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20230511.yaml
+- :code: webcodecs-ulaw-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20221212.yaml
 - :code: webcodecs-ulaw-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -16948,6 +19170,22 @@
   :file: data/dnote-webcodecs-vorbis-codec-registration-20240909.yaml
 - :code: webcodecs-vorbis-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20240520.yaml
+- :code: webcodecs-vorbis-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20231012.yaml
+- :code: webcodecs-vorbis-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20230511.yaml
+- :code: webcodecs-vorbis-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-vorbis-codec-registration-20221212.yaml
+- :code: webcodecs-vorbis-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-vorbis-codec-registration-20220524.yaml
 - :code: webcodecs-vorbis-codec-registration
@@ -16962,6 +19200,22 @@
   :file: data/dnote-webcodecs-vp8-codec-registration-20240909.yaml
 - :code: webcodecs-vp8-codec-registration
   :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20240520.yaml
+- :code: webcodecs-vp8-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20231012.yaml
+- :code: webcodecs-vp8-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20230511.yaml
+- :code: webcodecs-vp8-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-vp8-codec-registration-20221212.yaml
+- :code: webcodecs-vp8-codec-registration
+  :type: DNOTE
   :date: '20220524'
   :file: data/dnote-webcodecs-vp8-codec-registration-20220524.yaml
 - :code: webcodecs-vp8-codec-registration
@@ -16974,6 +19228,22 @@
   :type: DNOTE
   :date: '20240909'
   :file: data/dnote-webcodecs-vp9-codec-registration-20240909.yaml
+- :code: webcodecs-vp9-codec-registration
+  :type: DNOTE
+  :date: '20240520'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20240520.yaml
+- :code: webcodecs-vp9-codec-registration
+  :type: DNOTE
+  :date: '20231012'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20231012.yaml
+- :code: webcodecs-vp9-codec-registration
+  :type: DNOTE
+  :date: '20230511'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20230511.yaml
+- :code: webcodecs-vp9-codec-registration
+  :type: DNOTE
+  :date: '20221212'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20221212.yaml
 - :code: webcodecs-vp9-codec-registration
   :type: DNOTE
   :date: '20220524'
@@ -17072,6 +19342,30 @@
   :file: data/wd-webdriver2-20240723.yaml
 - :code: webdriver2
   :stage: WD
+  :date: '20240607'
+  :file: data/wd-webdriver2-20240607.yaml
+- :code: webdriver2
+  :stage: WD
+  :date: '20240521'
+  :file: data/wd-webdriver2-20240521.yaml
+- :code: webdriver2
+  :stage: WD
+  :date: '20230807'
+  :file: data/wd-webdriver2-20230807.yaml
+- :code: webdriver2
+  :stage: WD
+  :date: '20230607'
+  :file: data/wd-webdriver2-20230607.yaml
+- :code: webdriver2
+  :stage: WD
+  :date: '20230321'
+  :file: data/wd-webdriver2-20230321.yaml
+- :code: webdriver2
+  :stage: WD
+  :date: '20221216'
+  :file: data/wd-webdriver2-20221216.yaml
+- :code: webdriver2
+  :stage: WD
   :date: '20220525'
   :file: data/wd-webdriver2-20220525.yaml
 - :code: webdriver2
@@ -17090,8 +19384,48 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20240927'
-  :file: data/wd-webgpu-20240927.yaml
+  :date: '20240930'
+  :file: data/wd-webgpu-20240930.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20240608'
+  :file: data/wd-webgpu-20240608.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20240531'
+  :file: data/wd-webgpu-20240531.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20240521'
+  :file: data/wd-webgpu-20240521.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20231020'
+  :file: data/wd-webgpu-20231020.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20230621'
+  :file: data/wd-webgpu-20230621.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20230614'
+  :file: data/wd-webgpu-20230614.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-webgpu-20230606.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20230601'
+  :file: data/wd-webgpu-20230601.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20230529'
+  :file: data/wd-webgpu-20230529.yaml
+- :code: webgpu
+  :stage: WD
+  :date: '20221223'
+  :file: data/wd-webgpu-20221223.yaml
 - :code: webgpu
   :stage: WD
   :date: '20220527'
@@ -17158,6 +19492,14 @@
   :type: DNOTE
   :date: '20240108'
   :file: data/dnote-webmachinelearning-ethics-20240108.yaml
+- :code: webmachinelearning-ethics
+  :type: DNOTE
+  :date: '20230811'
+  :file: data/dnote-webmachinelearning-ethics-20230811.yaml
+- :code: webmachinelearning-ethics
+  :type: DNOTE
+  :date: '20221129'
+  :file: data/dnote-webmachinelearning-ethics-20221129.yaml
 - :code: webmention
   :file: data/webmention.yaml
 - :code: webmention
@@ -17214,6 +19556,38 @@
   :stage: CRD
   :date: '20240925'
   :file: data/crd-webnn-20240925.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20240608'
+  :file: data/crd-webnn-20240608.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20240601'
+  :file: data/crd-webnn-20240601.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20240523'
+  :file: data/crd-webnn-20240523.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20230830'
+  :file: data/crd-webnn-20230830.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20230620'
+  :file: data/crd-webnn-20230620.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20230606'
+  :file: data/crd-webnn-20230606.yaml
+- :code: webnn
+  :stage: CRD
+  :date: '20230519'
+  :file: data/crd-webnn-20230519.yaml
+- :code: webnn
+  :stage: WD
+  :date: '20221220'
+  :file: data/wd-webnn-20221220.yaml
 - :code: webnn
   :stage: WD
   :date: '20220520'
@@ -17326,6 +19700,22 @@
   :file: data/wd-webrtc-encoded-transform-20240419.yaml
 - :code: webrtc-encoded-transform
   :stage: WD
+  :date: '20231012'
+  :file: data/wd-webrtc-encoded-transform-20231012.yaml
+- :code: webrtc-encoded-transform
+  :stage: WD
+  :date: '20230602'
+  :file: data/wd-webrtc-encoded-transform-20230602.yaml
+- :code: webrtc-encoded-transform
+  :stage: WD
+  :date: '20230428'
+  :file: data/wd-webrtc-encoded-transform-20230428.yaml
+- :code: webrtc-encoded-transform
+  :stage: WD
+  :date: '20221208'
+  :file: data/wd-webrtc-encoded-transform-20221208.yaml
+- :code: webrtc-encoded-transform
+  :stage: WD
   :date: '20220519'
   :file: data/wd-webrtc-encoded-transform-20220519.yaml
 - :code: webrtc-encoded-transform
@@ -17344,6 +19734,22 @@
   :type: DNOTE
   :date: '20231214'
   :file: data/dnote-webrtc-nv-use-cases-20231214.yaml
+- :code: webrtc-nv-use-cases
+  :type: DNOTE
+  :date: '20231019'
+  :file: data/dnote-webrtc-nv-use-cases-20231019.yaml
+- :code: webrtc-nv-use-cases
+  :type: DNOTE
+  :date: '20230606'
+  :file: data/dnote-webrtc-nv-use-cases-20230606.yaml
+- :code: webrtc-nv-use-cases
+  :type: DNOTE
+  :date: '20230405'
+  :file: data/dnote-webrtc-nv-use-cases-20230405.yaml
+- :code: webrtc-nv-use-cases
+  :type: DNOTE
+  :date: '20221206'
+  :file: data/dnote-webrtc-nv-use-cases-20221206.yaml
 - :code: webrtc-nv-use-cases
   :type: DNOTE
   :date: '20211123'
@@ -17378,6 +19784,26 @@
   :file: data/crd-webrtc-stats-20240718.yaml
 - :code: webrtc-stats
   :stage: CRD
+  :date: '20240125'
+  :file: data/crd-webrtc-stats-20240125.yaml
+- :code: webrtc-stats
+  :stage: CRD
+  :date: '20230804'
+  :file: data/crd-webrtc-stats-20230804.yaml
+- :code: webrtc-stats
+  :stage: CRD
+  :date: '20230615'
+  :file: data/crd-webrtc-stats-20230615.yaml
+- :code: webrtc-stats
+  :stage: CRD
+  :date: '20230511'
+  :file: data/crd-webrtc-stats-20230511.yaml
+- :code: webrtc-stats
+  :stage: CRD
+  :date: '20221216'
+  :file: data/crd-webrtc-stats-20221216.yaml
+- :code: webrtc-stats
+  :stage: CRD
   :date: '20220517'
   :file: data/crd-webrtc-stats-20220517.yaml
 - :code: webrtc-stats
@@ -17406,6 +19832,18 @@
   :stage: WD
   :date: '20240817'
   :file: data/wd-webrtc-svc-20240817.yaml
+- :code: webrtc-svc
+  :stage: WD
+  :date: '20240516'
+  :file: data/wd-webrtc-svc-20240516.yaml
+- :code: webrtc-svc
+  :stage: WD
+  :date: '20230417'
+  :file: data/wd-webrtc-svc-20230417.yaml
+- :code: webrtc-svc
+  :stage: WD
+  :date: '20220829'
+  :file: data/wd-webrtc-svc-20220829.yaml
 - :code: webrtc-svc
   :stage: WD
   :date: '20220303'
@@ -17513,6 +19951,22 @@
   :file: data/wd-webtransport-20240531.yaml
 - :code: webtransport
   :stage: WD
+  :date: '20231220'
+  :file: data/wd-webtransport-20231220.yaml
+- :code: webtransport
+  :stage: WD
+  :date: '20230712'
+  :file: data/wd-webtransport-20230712.yaml
+- :code: webtransport
+  :stage: WD
+  :date: '20230405'
+  :file: data/wd-webtransport-20230405.yaml
+- :code: webtransport
+  :stage: WD
+  :date: '20220623'
+  :file: data/wd-webtransport-20220623.yaml
+- :code: webtransport
+  :stage: WD
   :date: '20220311'
   :file: data/wd-webtransport-20220311.yaml
 - :code: webtransport
@@ -17555,6 +20009,26 @@
   :file: data/crd-webxr-20240927.yaml
 - :code: webxr
   :stage: CRD
+  :date: '20240416'
+  :file: data/crd-webxr-20240416.yaml
+- :code: webxr
+  :stage: CRD
+  :date: '20231005'
+  :file: data/crd-webxr-20231005.yaml
+- :code: webxr
+  :stage: CRD
+  :date: '20230621'
+  :file: data/crd-webxr-20230621.yaml
+- :code: webxr
+  :stage: CRD
+  :date: '20230303'
+  :file: data/crd-webxr-20230303.yaml
+- :code: webxr
+  :stage: CRD
+  :date: '20220824'
+  :file: data/crd-webxr-20220824.yaml
+- :code: webxr
+  :stage: CRD
   :date: '20220526'
   :file: data/crd-webxr-20220526.yaml
 - :code: webxr
@@ -17595,6 +20069,10 @@
   :file: data/wd-webxr-depth-sensing-1-20240923.yaml
 - :code: webxr-depth-sensing-1
   :stage: WD
+  :date: '20240531'
+  :file: data/wd-webxr-depth-sensing-1-20240531.yaml
+- :code: webxr-depth-sensing-1
+  :stage: WD
   :date: '20220419'
   :file: data/wd-webxr-depth-sensing-1-20220419.yaml
 - :code: webxr-depth-sensing-1
@@ -17607,6 +20085,10 @@
   :stage: WD
   :date: '20240924'
   :file: data/wd-webxr-dom-overlays-1-20240924.yaml
+- :code: webxr-dom-overlays-1
+  :stage: WD
+  :date: '20221117'
+  :file: data/wd-webxr-dom-overlays-1-20221117.yaml
 - :code: webxr-dom-overlays-1
   :stage: WD
   :date: '20210831'
@@ -17635,6 +20117,10 @@
   :stage: WD
   :date: '20240605'
   :file: data/wd-webxr-hand-input-1-20240605.yaml
+- :code: webxr-hand-input-1
+  :stage: WD
+  :date: '20240207'
+  :file: data/wd-webxr-hand-input-1-20240207.yaml
 - :code: webxr-hand-input-1
   :stage: WD
   :date: '20220419'
@@ -17679,6 +20165,14 @@
   :file: data/wd-webxrlayers-1-20240510.yaml
 - :code: webxrlayers-1
   :stage: WD
+  :date: '20230502'
+  :file: data/wd-webxrlayers-1-20230502.yaml
+- :code: webxrlayers-1
+  :stage: WD
+  :date: '20220922'
+  :file: data/wd-webxrlayers-1-20220922.yaml
+- :code: webxrlayers-1
+  :stage: WD
   :date: '20220426'
   :file: data/wd-webxrlayers-1-20220426.yaml
 - :code: webxrlayers-1
@@ -17695,6 +20189,42 @@
   :stage: WD
   :date: '20240925'
   :file: data/wd-wgsl-20240925.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20240606'
+  :file: data/wd-wgsl-20240606.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20240530'
+  :file: data/wd-wgsl-20240530.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20240523'
+  :file: data/wd-wgsl-20240523.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20231020'
+  :file: data/wd-wgsl-20231020.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20230608'
+  :file: data/wd-wgsl-20230608.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-wgsl-20230606.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20230605'
+  :file: data/wd-wgsl-20230605.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20230531'
+  :file: data/wd-wgsl-20230531.yaml
+- :code: WGSL
+  :stage: WD
+  :date: '20221223'
+  :file: data/wd-wgsl-20221223.yaml
 - :code: WGSL
   :stage: WD
   :date: '20220527'
@@ -17942,6 +20472,32 @@
   :stage: WD
   :date: '20240607'
   :file: data/wd-window-management-20240607.yaml
+- :code: window-management
+  :stage: WD
+  :date: '20240401'
+  :file: data/wd-window-management-20240401.yaml
+- :code: window-management
+  :stage: WD
+  :date: '20230906'
+  :file: data/wd-window-management-20230906.yaml
+- :code: window-management
+  :stage: WD
+  :date: '20230614'
+  :file: data/wd-window-management-20230614.yaml
+- :code: window-management
+  :stage: WD
+  :date: '20230606'
+  :file: data/wd-window-management-20230606.yaml
+- :code: window-management
+  :stage: WD
+  :date: '20230405'
+  :file: data/wd-window-management-20230405.yaml
+- :code: window-placement
+  :file: data/window-placement.yaml
+- :code: window-placement
+  :stage: WD
+  :date: '20221216'
+  :file: data/wd-window-placement-20221216.yaml
 - :code: WOFF
   :file: data/woff.yaml
 - :code: WOFF
@@ -18069,6 +20625,18 @@
   :date: '20231205'
   :file: data/rec-wot-architecture11-20231205.yaml
 - :code: wot-architecture11
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-architecture11-20230711.yaml
+- :code: wot-architecture11
+  :stage: CR
+  :date: '20230119'
+  :file: data/cr-wot-architecture11-20230119.yaml
+- :code: wot-architecture11
+  :stage: WD
+  :date: '20220907'
+  :file: data/wd-wot-architecture11-20220907.yaml
+- :code: wot-architecture11
   :stage: WD
   :date: '20201124'
   :file: data/wd-wot-architecture11-20201124.yaml
@@ -18078,6 +20646,10 @@
   :type: NOTE
   :date: '20240528'
   :file: data/note-wot-binding-templates-20240528.yaml
+- :code: wot-binding-templates
+  :type: NOTE
+  :date: '20230928'
+  :file: data/note-wot-binding-templates-20230928.yaml
 - :code: wot-binding-templates
   :type: NOTE
   :date: '20200130'
@@ -18092,6 +20664,18 @@
   :stage: REC
   :date: '20231205'
   :file: data/rec-wot-discovery-20231205.yaml
+- :code: wot-discovery
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-discovery-20230711.yaml
+- :code: wot-discovery
+  :stage: CR
+  :date: '20230119'
+  :file: data/cr-wot-discovery-20230119.yaml
+- :code: wot-discovery
+  :stage: WD
+  :date: '20220810'
+  :file: data/wd-wot-discovery-20220810.yaml
 - :code: wot-discovery
   :stage: WD
   :date: '20210602'
@@ -18172,6 +20756,18 @@
   :stage: REC
   :date: '20231205'
   :file: data/rec-wot-thing-description11-20231205.yaml
+- :code: wot-thing-description11
+  :stage: PR
+  :date: '20230711'
+  :file: data/pr-wot-thing-description11-20230711.yaml
+- :code: wot-thing-description11
+  :stage: CR
+  :date: '20230119'
+  :file: data/cr-wot-thing-description11-20230119.yaml
+- :code: wot-thing-description11
+  :stage: WD
+  :date: '20220803'
+  :file: data/wd-wot-thing-description11-20220803.yaml
 - :code: wot-thing-description11
   :stage: WD
   :date: '20220311'

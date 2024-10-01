@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CDNOTE-typography-20221101
+    docid:
+    - id: W3C DNOTE-typography-20221101
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-typography-20221101
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-typography-20200520
     docid:
     - id: W3C WD-typography-20200520
@@ -37,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-typography-20200520
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-typography-20240322
+    docid:
+    - id: W3C DNOTE-typography-20240322
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-typography-20240322
       format: text/plain
 - type: hasEdition
   bibitem:

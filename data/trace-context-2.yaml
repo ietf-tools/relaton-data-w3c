@@ -31,6 +31,26 @@ relation:
     formattedref:
       content: W3C CRD-trace-context-2-20240328
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-trace-context-2-20230418
+    docid:
+    - id: W3C CR-trace-context-2-20230418
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-trace-context-2-20230418
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-trace-context-2-20220929
+    docid:
+    - id: W3C WD-trace-context-2-20220929
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trace-context-2-20220929
+      format: text/plain
 series:
 - title:
     content: W3C CR

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-audio-output-20230504
+title:
+- content: Audio Output Devices API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-audio-output-20230504/
+  type: src
+- content: https://w3c.github.io/mediacapture-output/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-audio-output-20230504
+  type: W3C
+  primary: true
+docnumber: CRD-audio-output-20230504
+date:
+- type: published
+  value: '2023-05-04'
+contributor:
+- person:
+    name:
+      completename:
+        content: Guido Urdaneta
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Justin Uberti
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: youenn fablet
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-audio-output-20230203
+    docid:
+    - id: W3C CRD-audio-output-20230203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-audio-output-20230203
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-audio-output-20230504
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

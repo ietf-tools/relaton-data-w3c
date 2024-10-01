@@ -1,0 +1,77 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-maturity-model-20231215
+title:
+- content: Accessibility Maturity Model
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-maturity-model-20231215/
+  type: src
+- content: https://w3c.github.io/maturity-model/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-maturity-model-20231215
+  type: W3C
+  primary: true
+docnumber: DNOTE-maturity-model-20231215
+date:
+- type: published
+  value: '2023-12-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Charles LaPierre
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: David Fazio
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Janina Sajka
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-12-15'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-maturity-model-20230824
+    docid:
+    - id: W3C DNOTE-maturity-model-20230824
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-maturity-model-20230824
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-maturity-model-20231215
+doctype: groupNote
+editorialgroup:
+- name: Accessible Platform Architectures
+ext:
+  schema-version: v1.0.0

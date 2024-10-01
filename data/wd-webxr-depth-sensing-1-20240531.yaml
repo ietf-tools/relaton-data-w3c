@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-webxr-depth-sensing-1-20240531
+title:
+- content: WebXR Depth Sensing Module
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240531/
+  type: src
+- content: https://immersive-web.github.io/depth-sensing/
+  type: current
+type: standard
+docid:
+- id: W3C WD-webxr-depth-sensing-1-20240531
+  type: W3C
+  primary: true
+docnumber: WD-webxr-depth-sensing-1-20240531
+date:
+- type: published
+  value: '2024-05-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Piotr Bialecki
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webxr-depth-sensing-1-20240528
+    docid:
+    - id: W3C WD-webxr-depth-sensing-1-20240528
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-depth-sensing-1-20240528
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-webxr-depth-sensing-1-20240531
+doctype: technicalReport
+editorialgroup:
+- name: Immersive Web Working Group
+ext:
+  schema-version: v1.0.0

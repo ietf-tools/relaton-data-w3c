@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-WCAG22-20230517
+title:
+- content: Web Content Accessibility Guidelines (WCAG) 2.2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-WCAG22-20230517/
+  type: src
+- content: https://w3c.github.io/wcag/guidelines/22/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-WCAG22-20230517
+  type: W3C
+  primary: true
+docnumber: CRD-WCAG22-20230517
+date:
+- type: published
+  value: '2023-05-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Alastair Campbell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Andrew Kirkpatrick
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Charles Adams
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Cooper
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rachael Bradley Montgomery
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-05-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-WCAG22-20230125
+    docid:
+    - id: W3C CRD-WCAG22-20230125
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-WCAG22-20230125
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-WCAG22-20230517
+doctype: technicalReport
+editorialgroup:
+- name: Accessibility Guidelines Working Group
+ext:
+  schema-version: v1.0.0

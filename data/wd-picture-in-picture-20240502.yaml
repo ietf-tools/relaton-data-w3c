@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-picture-in-picture-20240502
+title:
+- content: Picture-in-Picture
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-picture-in-picture-20240502/
+  type: src
+- content: https://w3c.github.io/picture-in-picture/
+  type: current
+type: standard
+docid:
+- id: W3C WD-picture-in-picture-20240502
+  type: W3C
+  primary: true
+docnumber: WD-picture-in-picture-20240502
+date:
+- type: published
+  value: '2024-05-02'
+contributor:
+- person:
+    name:
+      completename:
+        content: Francois Beaufort
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-picture-in-picture-20221219
+    docid:
+    - id: W3C WD-picture-in-picture-20221219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-picture-in-picture-20221219
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-picture-in-picture-20240502
+doctype: technicalReport
+editorialgroup:
+- name: Media Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-hr-time-3-20230425
+title:
+- content: High Resolution Time
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-hr-time-3-20230425/
+  type: src
+- content: https://w3c.github.io/hr-time/
+  type: current
+type: standard
+docid:
+- id: W3C WD-hr-time-3-20230425
+  type: W3C
+  primary: true
+docnumber: WD-hr-time-3-20230425
+date:
+- type: published
+  value: '2023-04-25'
+contributor:
+- person:
+    name:
+      completename:
+        content: Yoav Weiss
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-25'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-hr-time-3-20230411
+    docid:
+    - id: W3C WD-hr-time-3-20230411
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-hr-time-3-20230411
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-hr-time-3-20230425
+doctype: technicalReport
+editorialgroup:
+- name: Web Performance Working Group
+ext:
+  schema-version: v1.0.0

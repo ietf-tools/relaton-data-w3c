@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CCR-trace-context-2-20230418
+title:
+- content: Trace Context Level 2
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CR-trace-context-2-20230418/
+  type: src
+- content: https://w3c.github.io/trace-context/
+  type: current
+type: standard
+docid:
+- id: W3C CR-trace-context-2-20230418
+  type: W3C
+  primary: true
+docnumber: CR-trace-context-2-20230418
+date:
+- type: published
+  value: '2023-04-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: Daniel Dyla
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Sergey Kanzhelev
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Yuri Shkuro
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-trace-context-2-20230406
+    docid:
+    - id: W3C WD-trace-context-2-20230406
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trace-context-2-20230406
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-trace-context-2-20230418
+doctype: technicalReport
+editorialgroup:
+- name: Distributed Tracing Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.3
+id: W3CWD-longtasks-1-20240311
+title:
+- content: Long Tasks API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-longtasks-1-20240311/
+  type: src
+- content: https://w3c.github.io/longtasks/
+  type: current
+type: standard
+docid:
+- id: W3C WD-longtasks-1-20240311
+  type: W3C
+  primary: true
+docnumber: WD-longtasks-1-20240311
+date:
+- type: published
+  value: '2024-03-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Noam Rosenthal
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-03-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-longtasks-1-20240216
+    docid:
+    - id: W3C WD-longtasks-1-20240216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-longtasks-1-20240216
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-longtasks-1-20240311
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

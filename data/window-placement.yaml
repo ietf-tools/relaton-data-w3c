@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cwindow-placement
+title:
+- content: Multi-Screen Window Placement
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/window-placement/
+  type: src
+type: standard
+docid:
+- id: W3C window-placement
+  type: W3C
+  primary: true
+docnumber: window-placement
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-window-placement-20221216
+    docid:
+    - id: W3C WD-window-placement-20221216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-window-placement-20221216
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: window-placement
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

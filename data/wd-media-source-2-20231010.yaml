@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CWD-media-source-2-20231010
+title:
+- content: Media Source Extensions™
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-media-source-2-20231010/
+  type: src
+- content: https://w3c.github.io/media-source/
+  type: current
+type: standard
+docid:
+- id: W3C WD-media-source-2-20231010
+  type: W3C
+  primary: true
+docnumber: WD-media-source-2-20231010
+date:
+- type: published
+  value: '2023-10-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Jean-Yves Avenard
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mark Watson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Matthew Wolenetz
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-media-source-2-20220921
+    docid:
+    - id: W3C WD-media-source-2-20220921
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-media-source-2-20220921
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-media-source-2-20231010
+doctype: technicalReport
+editorialgroup:
+- name: Media Working Group
+ext:
+  schema-version: v1.0.0

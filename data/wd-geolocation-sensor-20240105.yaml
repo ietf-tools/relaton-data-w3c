@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CWD-geolocation-sensor-20240105
+title:
+- content: Geolocation Sensor
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-geolocation-sensor-20240105/
+  type: src
+- content: https://w3c.github.io/geolocation-sensor/
+  type: current
+type: standard
+docid:
+- id: W3C WD-geolocation-sensor-20240105
+  type: W3C
+  primary: true
+docnumber: WD-geolocation-sensor-20240105
+date:
+- type: published
+  value: '2024-01-05'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Marijn Kruisselbrink
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Thomas Steiner
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-01-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-geolocation-sensor-20231127
+    docid:
+    - id: W3C WD-geolocation-sensor-20231127
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-geolocation-sensor-20231127
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-geolocation-sensor-20240105
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

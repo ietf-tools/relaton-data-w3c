@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CCR-dpub-aam-1.1-20240227
+title:
+- content: Digital Publishing Accessibility API Mappings 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/CR-dpub-aam-1.1-20240227/
+  type: src
+- content: https://w3c.github.io/dpub-aam/
+  type: current
+type: standard
+docid:
+- id: W3C CR-dpub-aam-1.1-20240227
+  type: W3C
+  primary: true
+docnumber: CR-dpub-aam-1.1-20240227
+date:
+- type: published
+  value: '2024-02-27'
+contributor:
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Tzviya Siegman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-02-27'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-dpub-aam-1.1-20240213
+    docid:
+    - id: W3C WD-dpub-aam-1.1-20240213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aam-1.1-20240213
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-dpub-aam-1.1-20240227
+doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
+ext:
+  schema-version: v1.0.0

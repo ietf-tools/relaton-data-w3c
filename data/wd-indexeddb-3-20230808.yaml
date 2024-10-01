@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-IndexedDB-3-20230808
+title:
+- content: Indexed Database API 3.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-IndexedDB-3-20230808/
+  type: src
+- content: https://w3c.github.io/IndexedDB/
+  type: current
+type: standard
+docid:
+- id: W3C WD-IndexedDB-3-20230808
+  type: W3C
+  primary: true
+docnumber: WD-IndexedDB-3-20230808
+date:
+- type: published
+  value: '2023-08-08'
+contributor:
+- person:
+    name:
+      completename:
+        content: Joshua Bell
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-08-08'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-IndexedDB-3-20230804
+    docid:
+    - id: W3C WD-IndexedDB-3-20230804
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-IndexedDB-3-20230804
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-IndexedDB-3-20230808
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CWD-payment-request-1.1-20230628
+title:
+- content: Payment Request API 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-payment-request-1.1-20230628/
+  type: src
+- content: https://w3c.github.io/payment-request/
+  type: current
+type: standard
+docid:
+- id: W3C WD-payment-request-1.1-20230628
+  type: W3C
+  primary: true
+docnumber: WD-payment-request-1.1-20230628
+date:
+- type: published
+  value: '2023-06-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: Ian Jacobs
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Marcos Caceres
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rouslan Solomakhin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-28'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-payment-request-1.1-20230627
+    docid:
+    - id: W3C WD-payment-request-1.1-20230627
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-payment-request-1.1-20230627
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-payment-request-1.1-20230628
+doctype: technicalReport
+editorialgroup:
+- name: Web Payments Working Group
+ext:
+  schema-version: v1.0.0

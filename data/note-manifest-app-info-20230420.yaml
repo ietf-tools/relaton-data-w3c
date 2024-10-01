@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-manifest-app-info-20230420
+title:
+- content: Web App Manifest - Application Information
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/NOTE-manifest-app-info-20230420/
+  type: src
+- content: https://w3c.github.io/manifest-app-info/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-manifest-app-info-20230420
+  type: W3C
+  primary: true
+docnumber: NOTE-manifest-app-info-20230420
+date:
+- type: published
+  value: '2023-04-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Aaron Gustafson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-20'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-manifest-app-info-20221025
+    docid:
+    - id: W3C NOTE-manifest-app-info-20221025
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-manifest-app-info-20221025
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-manifest-app-info-20230420
+doctype: groupNote
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

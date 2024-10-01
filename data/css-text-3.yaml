@@ -23,6 +23,26 @@ docstatus:
 relation:
 - type: instance
   bibitem:
+    id: W3CCRD-css-text-3-20240930
+    docid:
+    - id: W3C CRD-css-text-3-20240930
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-text-3-20240930
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-css-text-3-20230213
+    docid:
+    - id: W3C CRD-css-text-3-20230213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-text-3-20230213
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-css-text-3-20230903
     docid:
     - id: W3C CRD-css-text-3-20230903
@@ -50,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-text-3-20181212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-css-text-3-20220505
+    docid:
+    - id: W3C CRD-css-text-3-20220505
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-text-3-20220505
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,16 +120,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-text-3-20191113
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-css-text-3-20220505
-    docid:
-    - id: W3C CRD-css-text-3-20220505
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-css-text-3-20220505
       format: text/plain
 series:
 - title:

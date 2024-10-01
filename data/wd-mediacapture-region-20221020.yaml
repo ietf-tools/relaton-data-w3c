@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-mediacapture-region-20221020
+title:
+- content: Region Capture
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-mediacapture-region-20221020/
+  type: src
+- content: https://w3c.github.io/mediacapture-region/
+  type: current
+type: standard
+docid:
+- id: W3C WD-mediacapture-region-20221020
+  type: W3C
+  primary: true
+docnumber: WD-mediacapture-region-20221020
+date:
+- type: published
+  value: '2022-10-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Elad Alon
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-10-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mediacapture-region-20220721
+    docid:
+    - id: W3C WD-mediacapture-region-20220721
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediacapture-region-20220721
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mediacapture-region-20221020
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

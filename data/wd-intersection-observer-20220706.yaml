@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-intersection-observer-20220706
+title:
+- content: Intersection Observer
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2022/WD-intersection-observer-20220706/
+  type: src
+- content: https://w3c.github.io/IntersectionObserver/
+  type: current
+type: standard
+docid:
+- id: W3C WD-intersection-observer-20220706
+  type: W3C
+  primary: true
+docnumber: WD-intersection-observer-20220706
+date:
+- type: published
+  value: '2022-07-06'
+contributor:
+- person:
+    name:
+      completename:
+        content: Emilio Cobos Álvarez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Stefan Zager
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2022-07-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-intersection-observer-20220615
+    docid:
+    - id: W3C WD-intersection-observer-20220615
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-intersection-observer-20220615
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-intersection-observer-20220706
+doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
+ext:
+  schema-version: v1.0.0

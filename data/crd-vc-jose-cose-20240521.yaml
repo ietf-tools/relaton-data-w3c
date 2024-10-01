@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-vc-jose-cose-20240521
+title:
+- content: Securing Verifiable Credentials using JOSE and COSE
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240521/
+  type: src
+- content: https://w3c.github.io/vc-jose-cose/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-vc-jose-cose-20240521
+  type: W3C
+  primary: true
+docnumber: CRD-vc-jose-cose-20240521
+date:
+- type: published
+  value: '2024-05-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gabe Cohen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Jones
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Prorock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-05-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-vc-jose-cose-20240425
+    docid:
+    - id: W3C CRD-vc-jose-cose-20240425
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vc-jose-cose-20240425
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-vc-jose-cose-20240521
+doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

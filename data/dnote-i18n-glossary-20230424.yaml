@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-i18n-glossary-20230424
+title:
+- content: Internationalization Glossary
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/DNOTE-i18n-glossary-20230424/
+  type: src
+- content: https://w3c.github.io/i18n-glossary/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-i18n-glossary-20230424
+  type: W3C
+  primary: true
+docnumber: DNOTE-i18n-glossary-20230424
+date:
+- type: published
+  value: '2023-04-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-04-24'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-i18n-glossary-20220211
+    docid:
+    - id: W3C DNOTE-i18n-glossary-20220211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-i18n-glossary-20220211
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-i18n-glossary-20230424
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

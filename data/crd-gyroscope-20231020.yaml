@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-gyroscope-20231020
+title:
+- content: Gyroscope
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CRD-gyroscope-20231020/
+  type: src
+- content: https://w3c.github.io/gyroscope/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-gyroscope-20231020
+  type: W3C
+  primary: true
+docnumber: CRD-gyroscope-20231020
+date:
+- type: published
+  value: '2023-10-20'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-gyroscope-20231018
+    docid:
+    - id: W3C CRD-gyroscope-20231018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-gyroscope-20231018
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-gyroscope-20231020
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

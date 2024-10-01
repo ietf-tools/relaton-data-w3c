@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCR-imsc-hrm-20230622
+title:
+- content: IMSC Hypothetical Render Model
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/CR-imsc-hrm-20230622/
+  type: src
+- content: https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html
+  type: current
+type: standard
+docid:
+- id: W3C CR-imsc-hrm-20230622
+  type: W3C
+  primary: true
+docnumber: CR-imsc-hrm-20230622
+date:
+- type: published
+  value: '2023-06-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Pierre-Anthony Lemieux
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-06-22'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-imsc-hrm-20230620
+    docid:
+    - id: W3C WD-imsc-hrm-20230620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-imsc-hrm-20230620
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CR-imsc-hrm-20230622
+doctype: technicalReport
+editorialgroup:
+- name: Timed Text Working Group
+ext:
+  schema-version: v1.0.0

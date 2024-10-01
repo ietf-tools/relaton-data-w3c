@@ -1,0 +1,70 @@
+---
+schema-version: v1.2.3
+id: W3CWD-image-capture-20231010
+title:
+- content: MediaStream Image Capture
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-image-capture-20231010/
+  type: src
+- content: https://w3c.github.io/mediacapture-image/
+  type: current
+type: standard
+docid:
+- id: W3C WD-image-capture-20231010
+  type: W3C
+  primary: true
+docnumber: WD-image-capture-20231010
+date:
+- type: published
+  value: '2023-10-10'
+contributor:
+- person:
+    name:
+      completename:
+        content: Miguel Casas-sanchez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rijubrata Bhaumik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-10-10'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-image-capture-20230316
+    docid:
+    - id: W3C WD-image-capture-20230316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-image-capture-20230316
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-image-capture-20231010
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

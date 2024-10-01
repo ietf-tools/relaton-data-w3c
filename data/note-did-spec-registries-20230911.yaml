@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-did-spec-registries-20230911
+title:
+- content: DID Specification Registries
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230911/
+  type: src
+- content: https://w3c.github.io/did-spec-registries/
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-did-spec-registries-20230911
+  type: W3C
+  primary: true
+docnumber: NOTE-did-spec-registries-20230911
+date:
+- type: published
+  value: '2023-09-11'
+contributor:
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Orie Steele
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-09-11'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-did-spec-registries-20230829
+    docid:
+    - id: W3C NOTE-did-spec-registries-20230829
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-did-spec-registries-20230829
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-did-spec-registries-20230911
+doctype: groupNote
+editorialgroup:
+- name: Decentralized Identifier Working Group
+ext:
+  schema-version: v1.0.0

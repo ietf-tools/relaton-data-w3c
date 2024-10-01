@@ -1,0 +1,58 @@
+---
+schema-version: v1.2.3
+id: W3CWD-rdf12-xml-20230921
+title:
+- content: RDF 1.2 XML Syntax
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/
+  type: src
+- content: https://w3c.github.io/rdf-xml/spec/
+  type: current
+type: standard
+docid:
+- id: W3C WD-rdf12-xml-20230921
+  type: W3C
+  primary: true
+docnumber: WD-rdf12-xml-20230921
+date:
+- type: published
+  value: '2023-09-21'
+contributor:
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-09-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-rdf12-xml-20230831
+    docid:
+    - id: W3C WD-rdf12-xml-20230831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-xml-20230831
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-rdf12-xml-20230921
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

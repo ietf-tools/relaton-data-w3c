@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-picture-in-picture-20240902
+id: W3CWD-wasm-web-api-2-20241001
 title:
-- content: Picture-in-Picture
+- content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-picture-in-picture-20240902/
+- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20241001/
   type: src
-- content: https://w3c.github.io/picture-in-picture/
+- content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-picture-in-picture-20240902
+- id: W3C WD-wasm-web-api-2-20241001
   type: W3C
   primary: true
-docnumber: WD-picture-in-picture-20240902
+docnumber: WD-wasm-web-api-2-20241001
 date:
 - type: published
-  value: '2024-09-02'
+  value: '2024-10-01'
 contributor:
 - person:
     name:
       completename:
-        content: Francois Beaufort
+        content: ". Ms2ger"
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-02'
+revdate: '2024-10-01'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-picture-in-picture-20240704
+    id: W3CWD-wasm-web-api-2-20240930
     docid:
-    - id: W3C WD-picture-in-picture-20240704
+    - id: W3C WD-wasm-web-api-2-20240930
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-picture-in-picture-20240704
+      content: W3C WD-wasm-web-api-2-20240930
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-picture-in-picture-20240902
+  number: WD-wasm-web-api-2-20241001
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

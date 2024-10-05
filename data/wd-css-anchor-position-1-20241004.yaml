@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20240909
+id: W3CWD-css-anchor-position-1-20241004
 title:
-- content: WebCodecs
+- content: CSS Anchor Positioning
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webcodecs-20240909/
+- content: https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://drafts.csswg.org/css-anchor-position-1/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20240909
+- id: W3C WD-css-anchor-position-1-20241004
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20240909
+docnumber: WD-css-anchor-position-1-20241004
 date:
 - type: published
-  value: '2024-09-09'
+  value: '2024-10-04'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Eugene Zemtsov
+        content: Ian Kilpatrick
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Paul Adenot
+        content: Tab Atkins Jr.
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-09'
+revdate: '2024-10-04'
 language:
 - en
 script:
@@ -60,21 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20240717
+    id: W3CWD-css-anchor-position-1-20240326
     docid:
-    - id: W3C WD-webcodecs-20240717
+    - id: W3C WD-css-anchor-position-1-20240326
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20240717
+      content: W3C WD-css-anchor-position-1-20240326
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20240909
+  number: WD-css-anchor-position-1-20241004
 doctype: technicalReport
 editorialgroup:
-- name: Media Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

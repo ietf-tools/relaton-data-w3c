@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-eddsa-20240930
+id: W3CCRD-vc-data-model-2.0-20241005
 title:
-- content: Data Integrity EdDSA Cryptosuites v1.0
+- content: Verifiable Credentials Data Model v2.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20240930/
+- content: https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20241005/
   type: src
-- content: https://w3c.github.io/vc-di-eddsa/
+- content: https://w3c.github.io/vc-data-model/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-eddsa-20240930
+- id: W3C CRD-vc-data-model-2.0-20241005
   type: W3C
   primary: true
-docnumber: CRD-vc-di-eddsa-20240930
+docnumber: CRD-vc-data-model-2.0-20241005
 date:
 - type: published
-  value: '2024-09-30'
+  value: '2024-10-05'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Ivan Herman
         language:
         - en
         script:
@@ -52,14 +52,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Sebastian Crane
+        content: Michael Jones
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-30'
+- person:
+    name:
+      completename:
+        content: Ted Thibodeau Jr
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-05'
 language:
 - en
 script:
@@ -70,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-eddsa-20240929
+    id: W3CCRD-vc-data-model-2.0-20241001
     docid:
-    - id: W3C CRD-vc-di-eddsa-20240929
+    - id: W3C CRD-vc-data-model-2.0-20241001
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-eddsa-20240929
+      content: W3C CRD-vc-data-model-2.0-20241001
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-eddsa-20240930
+  number: CRD-vc-data-model-2.0-20241005
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

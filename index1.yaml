@@ -30841,16 +30841,6 @@
     :date: '20240930'
   :file: data/note-vc-extensions-20240930.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20240930'
-  :file: data/crd-vc-di-eddsa-20240930.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20240930'
-  :file: data/crd-vc-di-ecdsa-20240930.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20240930'
@@ -30871,11 +30861,6 @@
     :date: '20240930'
   :file: data/crd-css-text-3-20240930.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20241001'
-  :file: data/crd-vc-data-model-2.0-20241001.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20241002'
@@ -30890,11 +30875,6 @@
     :stage: CRD
     :date: '20241002'
   :file: data/crd-vc-data-integrity-20241002.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20241003'
-  :file: data/wd-wasm-web-api-2-20241003.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -30921,15 +30901,35 @@
     :date: '20241004'
   :file: data/crd-vc-jose-cose-20241004.yaml
 - :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20241004'
-  :file: data/wd-wasm-js-api-2-20241004.yaml
-- :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20241004'
   :file: data/wd-css-anchor-position-1-20241004.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20241005'
+  :file: data/crd-vc-di-eddsa-20241005.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20241005'
+  :file: data/crd-vc-di-ecdsa-20241005.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20241005'
+  :file: data/crd-vc-data-model-2.0-20241005.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20241006'
+  :file: data/wd-wasm-web-api-2-20241006.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20241006'
+  :file: data/wd-wasm-js-api-2-20241006.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

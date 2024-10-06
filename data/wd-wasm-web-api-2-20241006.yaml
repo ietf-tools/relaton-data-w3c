@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-web-api-2-20241003
+id: W3CWD-wasm-web-api-2-20241006
 title:
 - content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20241003/
+- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20241006/
   type: src
 - content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-web-api-2-20241003
+- id: W3C WD-wasm-web-api-2-20241006
   type: W3C
   primary: true
-docnumber: WD-wasm-web-api-2-20241003
+docnumber: WD-wasm-web-api-2-20241006
 date:
 - type: published
-  value: '2024-10-03'
+  value: '2024-10-06'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-03'
+revdate: '2024-10-06'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-web-api-2-20241001
+    id: W3CWD-wasm-web-api-2-20241003
     docid:
-    - id: W3C WD-wasm-web-api-2-20241001
+    - id: W3C WD-wasm-web-api-2-20241003
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-web-api-2-20241001
+      content: W3C WD-wasm-web-api-2-20241003
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-web-api-2-20241003
+  number: WD-wasm-web-api-2-20241006
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

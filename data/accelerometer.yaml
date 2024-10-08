@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-accelerometer-20240607
+    id: W3CCRD-accelerometer-20241008
     docid:
-    - id: W3C CRD-accelerometer-20240607
+    - id: W3C CRD-accelerometer-20241008
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-accelerometer-20240607
+      content: W3C CRD-accelerometer-20241008
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-accelerometer-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-accelerometer-20240607
+    docid:
+    - id: W3C CRD-accelerometer-20240607
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-accelerometer-20240607
       format: text/plain
 - type: hasEdition
   bibitem:

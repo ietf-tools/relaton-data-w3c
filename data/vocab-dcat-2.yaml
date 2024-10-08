@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-vocab-dcat-2-20200204
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-vocab-dcat-2-20200204
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CSPSD-vocab-dcat-2-20240822
+    docid:
+    - id: W3C SPSD-vocab-dcat-2-20240822
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C SPSD-vocab-dcat-2-20240822
       format: text/plain
 - type: hasEdition
   bibitem:

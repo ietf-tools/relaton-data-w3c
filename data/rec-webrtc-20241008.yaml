@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20240925
+id: W3CREC-webrtc-20241008
 title:
-- content: WebGPU Shading Language
+- content: 'WebRTC: Real-Time Communication in Browsers'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20240925/
+- content: https://www.w3.org/TR/2024/REC-webrtc-20241008/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/webrtc-pc/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20240925
+- id: W3C REC-webrtc-20241008
   type: W3C
   primary: true
-docnumber: WD-WGSL-20240925
+docnumber: REC-webrtc-20241008
 date:
 - type: published
-  value: '2024-09-25'
+  value: '2024-10-08'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Cullen Jennings
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Florent Castelli
         language:
         - en
         script:
@@ -42,37 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Henrik Boström
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-25'
+- person:
+    name:
+      completename:
+        content: Jan-Ivar Bruaroey
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-08'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20240924
+    id: W3CREC-webrtc-20230306
     docid:
-    - id: W3C WD-WGSL-20240924
+    - id: W3C REC-webrtc-20230306
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20240924
+      content: W3C REC-webrtc-20230306
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-WGSL-20240925
+  number: REC-webrtc-20241008
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

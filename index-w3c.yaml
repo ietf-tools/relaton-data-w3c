@@ -78,6 +78,10 @@
   :file: data/cr-accelerometer-20180320.yaml
 - :code: accelerometer
   :stage: CRD
+  :date: '20241008'
+  :file: data/crd-accelerometer-20241008.yaml
+- :code: accelerometer
+  :stage: CRD
   :date: '20240607'
   :file: data/crd-accelerometer-20240607.yaml
 - :code: accelerometer
@@ -9768,8 +9772,8 @@
   :file: data/media-capabilities.yaml
 - :code: media-capabilities
   :stage: WD
-  :date: '20240926'
-  :file: data/wd-media-capabilities-20240926.yaml
+  :date: '20241007'
+  :file: data/wd-media-capabilities-20241007.yaml
 - :code: media-capabilities
   :stage: WD
   :date: '20240212'
@@ -11076,8 +11080,8 @@
   :file: data/openscreenprotocol.yaml
 - :code: openscreenprotocol
   :stage: WD
-  :date: '20240923'
-  :file: data/wd-openscreenprotocol-20240923.yaml
+  :date: '20241007'
+  :file: data/wd-openscreenprotocol-20241007.yaml
 - :code: openscreenprotocol
   :stage: WD
   :date: '20240603'
@@ -18535,9 +18539,9 @@
 - :code: wcag2ict-22
   :file: data/wcag2ict-22.yaml
 - :code: wcag2ict-22
-  :type: DNOTE
-  :date: '20240702'
-  :file: data/dnote-wcag2ict-22-20240702.yaml
+  :type: NOTE
+  :date: '20241008'
+  :file: data/note-wcag2ict-22-20241008.yaml
 - :code: web-alarms
   :file: data/web-alarms.yaml
 - :code: web-alarms
@@ -19388,8 +19392,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20241002'
-  :file: data/wd-webgpu-20241002.yaml
+  :date: '20241007'
+  :file: data/wd-webgpu-20241007.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'
@@ -19642,6 +19646,10 @@
   :file: data/note-webpayments-overview-20161013.yaml
 - :code: webrtc
   :file: data/webrtc.yaml
+- :code: webrtc
+  :stage: REC
+  :date: '20241008'
+  :file: data/rec-webrtc-20241008.yaml
 - :code: webrtc
   :stage: REC
   :date: '20230306'
@@ -20191,8 +20199,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20240925'
-  :file: data/wd-wgsl-20240925.yaml
+  :date: '20241007'
+  :file: data/wd-wgsl-20241007.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'

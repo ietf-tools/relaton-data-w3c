@@ -30,26 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-grek-gap-20220316
-    docid:
-    - id: W3C DNOTE-grek-gap-20220316
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-grek-gap-20220316
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-grek-gap-20231004
-    docid:
-    - id: W3C DNOTE-grek-gap-20231004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-grek-gap-20231004
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-grek-gap-20200715
     docid:
     - id: W3C WD-grek-gap-20200715
@@ -60,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CDNOTE-grek-gap-20220316
+    docid:
+    - id: W3C DNOTE-grek-gap-20220316
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-grek-gap-20220316
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-grek-gap-20230614
     docid:
     - id: W3C DNOTE-grek-gap-20230614
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-grek-gap-20230614
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-grek-gap-20231004
+    docid:
+    - id: W3C DNOTE-grek-gap-20231004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-grek-gap-20231004
       format: text/plain
 - type: hasEdition
   bibitem:

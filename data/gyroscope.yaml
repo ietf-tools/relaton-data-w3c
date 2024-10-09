@@ -23,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-gyroscope-20240108
+    id: W3CCRD-gyroscope-20241008
     docid:
-    - id: W3C CRD-gyroscope-20240108
+    - id: W3C CRD-gyroscope-20241008
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-gyroscope-20240108
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-gyroscope-20230130
-    docid:
-    - id: W3C CRD-gyroscope-20230130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-gyroscope-20230130
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-gyroscope-20231020
-    docid:
-    - id: W3C CRD-gyroscope-20231020
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-gyroscope-20231020
+      content: W3C CRD-gyroscope-20241008
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +43,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-gyroscope-20180320
+    id: W3CCRD-gyroscope-20230130
     docid:
-    - id: W3C CR-gyroscope-20180320
+    - id: W3C CRD-gyroscope-20230130
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-gyroscope-20180320
+      content: W3C CRD-gyroscope-20230130
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-gyroscope-20240108
+    docid:
+    - id: W3C CRD-gyroscope-20240108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-gyroscope-20240108
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-gyroscope-20231020
+    docid:
+    - id: W3C CRD-gyroscope-20231020
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-gyroscope-20231020
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -100,6 +100,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-gyroscope-20160913
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-gyroscope-20180320
+    docid:
+    - id: W3C CR-gyroscope-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-gyroscope-20180320
       format: text/plain
 series:
 - title:

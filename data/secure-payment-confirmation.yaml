@@ -43,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-secure-payment-confirmation-20231018
+    id: W3CCR-secure-payment-confirmation-20230615
     docid:
-    - id: W3C CRD-secure-payment-confirmation-20231018
+    - id: W3C CR-secure-payment-confirmation-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-secure-payment-confirmation-20231018
+      content: W3C CR-secure-payment-confirmation-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,6 +60,26 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-secure-payment-confirmation-20231213
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-secure-payment-confirmation-20231018
+    docid:
+    - id: W3C CRD-secure-payment-confirmation-20231018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-secure-payment-confirmation-20231018
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-secure-payment-confirmation-20210831
+    docid:
+    - id: W3C WD-secure-payment-confirmation-20210831
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-secure-payment-confirmation-20210831
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,26 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-secure-payment-confirmation-20221209
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-secure-payment-confirmation-20210831
-    docid:
-    - id: W3C WD-secure-payment-confirmation-20210831
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-secure-payment-confirmation-20210831
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-secure-payment-confirmation-20230615
-    docid:
-    - id: W3C CR-secure-payment-confirmation-20230615
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-secure-payment-confirmation-20230615
       format: text/plain
 series:
 - title:

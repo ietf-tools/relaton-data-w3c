@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-json-ld11-20181214
-    docid:
-    - id: W3C WD-json-ld11-20181214
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-json-ld11-20181214
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-json-ld11-20191212
     docid:
     - id: W3C CR-json-ld11-20191212
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-json-ld11-20191212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-json-ld11-20181214
+    docid:
+    - id: W3C WD-json-ld11-20181214
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-json-ld11-20181214
       format: text/plain
 series:
 - title:

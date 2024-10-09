@@ -18,16 +18,6 @@ language:
 script:
 - Latn
 relation:
-- type: instance
-  bibitem:
-    id: W3CNOTE-vc-specs-dir-20240601
-    docid:
-    - id: W3C NOTE-vc-specs-dir-20240601
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-vc-specs-dir-20240601
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CNOTE-vc-specs-dir-20240201
@@ -37,6 +27,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-vc-specs-dir-20240201
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CNOTE-vc-specs-dir-20240601
+    docid:
+    - id: W3C NOTE-vc-specs-dir-20240601
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-vc-specs-dir-20240601
       format: text/plain
 series:
 - title:

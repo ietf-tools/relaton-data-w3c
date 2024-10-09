@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-accelerometer-20230130
-    docid:
-    - id: W3C CRD-accelerometer-20230130
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-accelerometer-20230130
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-accelerometer-20191212
     docid:
     - id: W3C CR-accelerometer-20191212
@@ -53,23 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-accelerometer-20240607
+    id: W3CCRD-accelerometer-20230130
     docid:
-    - id: W3C CRD-accelerometer-20240607
+    - id: W3C CRD-accelerometer-20230130
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-accelerometer-20240607
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-accelerometer-20180320
-    docid:
-    - id: W3C CR-accelerometer-20180320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-accelerometer-20180320
+      content: W3C CRD-accelerometer-20230130
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-accelerometer-20240108
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-accelerometer-20221018
-    docid:
-    - id: W3C CRD-accelerometer-20221018
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-accelerometer-20221018
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -120,6 +90,36 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-accelerometer-20160913
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-accelerometer-20180320
+    docid:
+    - id: W3C CR-accelerometer-20180320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-accelerometer-20180320
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-accelerometer-20240607
+    docid:
+    - id: W3C CRD-accelerometer-20240607
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-accelerometer-20240607
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-accelerometer-20221018
+    docid:
+    - id: W3C CRD-accelerometer-20221018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-accelerometer-20221018
       format: text/plain
 series:
 - title:

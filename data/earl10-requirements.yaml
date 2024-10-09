@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-EARL10-Requirements-20050711
-    docid:
-    - id: W3C WD-EARL10-Requirements-20050711
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-EARL10-Requirements-20050711
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-EARL10-Requirements-20091029
     docid:
     - id: W3C WD-EARL10-Requirements-20091029
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-EARL10-Requirements-20091029
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-EARL10-Requirements-20050711
+    docid:
+    - id: W3C WD-EARL10-Requirements-20050711
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-EARL10-Requirements-20050711
       format: text/plain
 series:
 - title:

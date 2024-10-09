@@ -43,6 +43,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-device-posture-20240408
+    docid:
+    - id: W3C WD-device-posture-20240408
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-device-posture-20240408
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-device-posture-20211104
+    docid:
+    - id: W3C WD-device-posture-20211104
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-device-posture-20211104
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-device-posture-20240605
     docid:
     - id: W3C WD-device-posture-20240605
@@ -60,26 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-device-posture-20240528
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-device-posture-20211104
-    docid:
-    - id: W3C WD-device-posture-20211104
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-device-posture-20211104
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-device-posture-20240408
-    docid:
-    - id: W3C WD-device-posture-20240408
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-device-posture-20240408
       format: text/plain
 series:
 - title:

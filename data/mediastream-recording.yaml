@@ -43,26 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediastream-recording-20170621
-    docid:
-    - id: W3C WD-mediastream-recording-20170621
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediastream-recording-20170621
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-mediastream-recording-20220607
-    docid:
-    - id: W3C WD-mediastream-recording-20220607
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediastream-recording-20220607
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mediastream-recording-20210604
     docid:
     - id: W3C WD-mediastream-recording-20210604
@@ -70,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediastream-recording-20210604
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-mediastream-recording-20161222
-    docid:
-    - id: W3C WD-mediastream-recording-20161222
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediastream-recording-20161222
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,6 +63,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-mediastream-recording-20170621
+    docid:
+    - id: W3C WD-mediastream-recording-20170621
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20170621
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediastream-recording-20161222
+    docid:
+    - id: W3C WD-mediastream-recording-20161222
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20161222
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-mediastream-recording-20150908
     docid:
     - id: W3C WD-mediastream-recording-20150908
@@ -100,6 +90,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediastream-recording-20150908
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediastream-recording-20220607
+    docid:
+    - id: W3C WD-mediastream-recording-20220607
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20220607
       format: text/plain
 series:
 - title:

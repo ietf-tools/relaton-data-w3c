@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-DOM-Parsing-20131210
-    docid:
-    - id: W3C WD-DOM-Parsing-20131210
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-DOM-Parsing-20131210
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-DOM-Parsing-20120920
     docid:
     - id: W3C WD-DOM-Parsing-20120920
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-DOM-Parsing-20120920
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-DOM-Parsing-20131210
+    docid:
+    - id: W3C WD-DOM-Parsing-20131210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-DOM-Parsing-20131210
       format: text/plain
 series:
 - title:

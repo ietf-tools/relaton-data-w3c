@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-css-backgrounds-3-20230214
-    docid:
-    - id: W3C CRD-css-backgrounds-3-20230214
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-css-backgrounds-3-20230214
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-css-backgrounds-3-20201222
     docid:
     - id: W3C CR-css-backgrounds-3-20201222
@@ -53,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-backgrounds-3-20171017
+    id: W3CCRD-css-backgrounds-3-20230214
     docid:
-    - id: W3C CR-css-backgrounds-3-20171017
+    - id: W3C CRD-css-backgrounds-3-20230214
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-css-backgrounds-3-20171017
+      content: W3C CRD-css-backgrounds-3-20230214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-css-backgrounds-3-20210726
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-backgrounds-3-20171017
+    docid:
+    - id: W3C CR-css-backgrounds-3-20171017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-backgrounds-3-20171017
       format: text/plain
 series:
 - title:

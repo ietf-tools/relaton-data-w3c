@@ -35,17 +35,6 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CREC-CSS2-19980512-generate
-    docid:
-    - id: W3C REC-CSS2-19980512/generate
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-CSS2-19980512/generate
-      format: text/plain
 series:
 - title:
     content: W3C WD

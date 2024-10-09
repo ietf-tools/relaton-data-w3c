@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-xslt-xquery-serialization-31-20161213
-    docid:
-    - id: W3C CR-xslt-xquery-serialization-31-20161213
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-xslt-xquery-serialization-31-20161213
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-xslt-xquery-serialization-31-20141007
     docid:
     - id: W3C WD-xslt-xquery-serialization-31-20141007
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-xslt-xquery-serialization-31-20141007
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-xslt-xquery-serialization-31-20161213
+    docid:
+    - id: W3C CR-xslt-xquery-serialization-31-20161213
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-xslt-xquery-serialization-31-20161213
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -30151,55 +30151,45 @@
     :date: '20240723'
   :file: data/note-mse-byte-stream-format-mpeg-audio-20240723.yaml
 - :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20240723'
-  :file: data/wd-webdriver2-20240723.yaml
+    :code: latn-nl-gap
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-latn-nl-gap-20240724.yaml
 - :id:
     :code: ilreq-taml
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-ilreq-taml-20240724.yaml
 - :id:
-    :code: latn-nl-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-nl-gap-20240724.yaml
+    :code: navigation-timing-2
+    :stage: WD
+    :date: '20240729'
+  :file: data/wd-navigation-timing-2-20240729.yaml
 - :id:
     :code: latn-de-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-de-gap-20240724.yaml
 - :id:
-    :code: navigation-timing-2
+    :code: mst-content-hint
     :stage: WD
-    :date: '20240729'
-  :file: data/wd-navigation-timing-2-20240729.yaml
+    :date: '20240801'
+  :file: data/wd-mst-content-hint-20240801.yaml
 - :id:
     :code: latn-fr-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-fr-gap-20240724.yaml
 - :id:
-    :code: mst-content-hint
-    :stage: WD
-    :date: '20240801'
-  :file: data/wd-mst-content-hint-20240801.yaml
-- :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-hu-gap-20240724.yaml
-- :id:
     :code: accname-1.2
     :stage: WD
     :date: '20240802'
   :file: data/wd-accname-1.2-20240802.yaml
 - :id:
-    :code: latn-ca-gap
+    :code: latn-hu-gap
     :type: DNOTE
     :date: '20240724'
-  :file: data/dnote-latn-ca-gap-20240724.yaml
+  :file: data/dnote-latn-hu-gap-20240724.yaml
 - :id:
     :code: css-box-4
     :stage: WD
@@ -30211,60 +30201,60 @@
     :date: '20240807'
   :file: data/wd-encrypted-media-2-20240807.yaml
 - :id:
+    :code: latn-ca-gap
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-latn-ca-gap-20240724.yaml
+- :id:
     :code: tlreq
     :type: DNOTE
     :date: '20240730'
   :file: data/dnote-tlreq-20240730.yaml
-- :id:
-    :code: adlm-lreq
-    :type: DNOTE
-    :date: '20240802'
-  :file: data/dnote-adlm-lreq-20240802.yaml
 - :id:
     :code: WOFF2
     :stage: REC
     :date: '20240808'
   :file: data/rec-woff2-20240808.yaml
 - :id:
-    :code: cher-lreq
+    :code: adlm-lreq
     :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-cher-lreq-20240808.yaml
+    :date: '20240802'
+  :file: data/dnote-adlm-lreq-20240802.yaml
 - :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
 - :id:
-    :code: osge-lreq
+    :code: cher-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-osge-lreq-20240808.yaml
+  :file: data/dnote-cher-lreq-20240808.yaml
 - :id:
     :code: geolocation
     :stage: REC
     :date: '20240809'
   :file: data/rec-geolocation-20240809.yaml
 - :id:
+    :code: osge-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-osge-lreq-20240808.yaml
+- :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-gujr-lreq-20240808.yaml
-- :id:
-    :code: guru-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-guru-lreq-20240808.yaml
 - :id:
     :code: css-position-3
     :stage: WD
     :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
 - :id:
-    :code: taml-lreq
+    :code: guru-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-taml-lreq-20240808.yaml
+  :file: data/dnote-guru-lreq-20240808.yaml
 - :id:
     :code: css-inline-3
     :stage: WD
@@ -30276,20 +30266,25 @@
     :date: '20240813'
   :file: data/note-privacy-principles-20240813.yaml
 - :id:
+    :code: taml-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-taml-lreq-20240808.yaml
+- :id:
     :code: kore-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-kore-lreq-20240808.yaml
 - :id:
-    :code: java-lreq
-    :type: DNOTE
-    :date: '20240809'
-  :file: data/dnote-java-lreq-20240809.yaml
-- :id:
     :code: ethical-web-principles
     :type: NOTE
     :date: '20240813'
   :file: data/note-ethical-web-principles-20240813.yaml
+- :id:
+    :code: java-lreq
+    :type: DNOTE
+    :date: '20240809'
+  :file: data/dnote-java-lreq-20240809.yaml
 - :id:
     :code: khmr-lreq
     :type: DNOTE
@@ -30846,11 +30841,6 @@
     :date: '20241004'
   :file: data/wd-mediasession-20241004.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20241004'
-  :file: data/crd-vc-jose-cose-20241004.yaml
-- :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20241004'
@@ -30886,11 +30876,6 @@
     :date: '20241007'
   :file: data/wd-device-posture-20241007.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20241007'
-  :file: data/wd-webgpu-20241007.yaml
-- :id:
     :code: media-capabilities
     :stage: WD
     :date: '20241007'
@@ -30905,11 +30890,6 @@
     :type: NOTE
     :date: '20241008'
   :file: data/note-wcag2ict-22-20241008.yaml
-- :id:
-    :code: accelerometer
-    :stage: CRD
-    :date: '20241008'
-  :file: data/crd-accelerometer-20241008.yaml
 - :id:
     :code: presentation-api
     :stage: CRD
@@ -30936,11 +30916,6 @@
     :date: '20241008'
   :file: data/wd-openscreenprotocol-20241008.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20241009'
-  :file: data/wd-dapt-20241009.yaml
-- :id:
     :code: mediacapture-viewport
     :stage: WD
     :date: '20241009'
@@ -30950,6 +30925,31 @@
     :stage: WD
     :date: '20241009'
   :file: data/wd-wgsl-20241009.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20241009'
+  :file: data/wd-webdriver2-20241009.yaml
+- :id:
+    :code: accelerometer
+    :stage: CRD
+    :date: '20241009'
+  :file: data/crd-accelerometer-20241009.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20241009'
+  :file: data/wd-webgpu-20241009.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20241009'
+  :file: data/crd-vc-jose-cose-20241009.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20241010'
+  :file: data/wd-dapt-20241010.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

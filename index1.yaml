@@ -30456,11 +30456,6 @@
     :date: '20240905'
   :file: data/wd-webmidi-20240905.yaml
 - :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20240905'
-  :file: data/wd-appmanifest-20240905.yaml
-- :id:
     :code: epub-a11y-exemption
     :type: NOTE
     :date: '20240906'
@@ -30943,13 +30938,18 @@
 - :id:
     :code: vc-jose-cose
     :stage: CRD
-    :date: '20241009'
-  :file: data/crd-vc-jose-cose-20241009.yaml
+    :date: '20241010'
+  :file: data/crd-vc-jose-cose-20241010.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20241011'
+  :file: data/wd-appmanifest-20241011.yaml
 - :id:
     :code: dapt
     :stage: WD
-    :date: '20241010'
-  :file: data/wd-dapt-20241010.yaml
+    :date: '20241011'
+  :file: data/wd-dapt-20241011.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

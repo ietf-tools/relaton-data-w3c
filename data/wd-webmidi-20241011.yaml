@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webmidi-20240905
+id: W3CWD-webmidi-20241011
 title:
 - content: Web MIDI API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webmidi-20240905/
+- content: https://www.w3.org/TR/2024/WD-webmidi-20241011/
   type: src
 - content: https://webaudio.github.io/web-midi-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-webmidi-20240905
+- id: W3C WD-webmidi-20241011
   type: W3C
   primary: true
-docnumber: WD-webmidi-20240905
+docnumber: WD-webmidi-20241011
 date:
 - type: published
-  value: '2024-09-05'
+  value: '2024-10-11'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-05'
+revdate: '2024-10-11'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webmidi-20240712
+    id: W3CWD-webmidi-20240905
     docid:
-    - id: W3C WD-webmidi-20240712
+    - id: W3C WD-webmidi-20240905
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webmidi-20240712
+      content: W3C WD-webmidi-20240905
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webmidi-20240905
+  number: WD-webmidi-20241011
 doctype: technicalReport
 editorialgroup:
 - name: Audio Working Group

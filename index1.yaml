@@ -30706,55 +30706,55 @@
     :date: '20240925'
   :file: data/wd-permissions-policy-1-20240925.yaml
 - :id:
+    :code: webxr
+    :stage: CRD
+    :date: '20240927'
+  :file: data/crd-webxr-20240927.yaml
+- :id:
     :code: osge-osa-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-osge-osa-gap-20240920.yaml
-- :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20240927'
-  :file: data/wd-controller-document-20240927.yaml
 - :id:
     :code: elreq-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-elreq-gap-20240920.yaml
 - :id:
-    :code: webxr
-    :stage: CRD
-    :date: '20240927'
-  :file: data/crd-webxr-20240927.yaml
-- :id:
     :code: latn-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-latn-gap-20240920.yaml
-- :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-geor-gap-20240920.yaml
-- :id:
-    :code: geor-lreq
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-geor-lreq-20240920.yaml
 - :id:
     :code: vc-extensions
     :type: NOTE
     :date: '20240930'
   :file: data/note-vc-extensions-20240930.yaml
 - :id:
-    :code: grek-lreq
+    :code: geor-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-grek-lreq-20240920.yaml
+  :file: data/dnote-geor-gap-20240920.yaml
 - :id:
     :code: compute-pressure
     :stage: WD
     :date: '20240930'
   :file: data/wd-compute-pressure-20240930.yaml
+- :id:
+    :code: geor-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-geor-lreq-20240920.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-grek-lreq-20240920.yaml
+- :id:
+    :code: selection-api
+    :stage: WD
+    :date: '20240930'
+  :file: data/wd-selection-api-20240930.yaml
 - :id:
     :code: grek-gap
     :type: DNOTE
@@ -30766,15 +30766,20 @@
     :date: '20240920'
   :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20240930'
+  :file: data/wd-rdf12-turtle-20240930.yaml
+- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-hebr-gap-20240920.yaml
 - :id:
-    :code: selection-api
-    :stage: WD
+    :code: css-text-3
+    :stage: CRD
     :date: '20240930'
-  :file: data/wd-selection-api-20240930.yaml
+  :file: data/crd-css-text-3-20240930.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
@@ -30786,35 +30791,25 @@
     :date: '20240920'
   :file: data/dnote-beng-gap-20240920.yaml
 - :id:
-    :code: rdf12-turtle
+    :code: picture-in-picture
     :stage: WD
-    :date: '20240930'
-  :file: data/wd-rdf12-turtle-20240930.yaml
+    :date: '20241002'
+  :file: data/wd-picture-in-picture-20241002.yaml
 - :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-deva-lreq-20240920.yaml
 - :id:
-    :code: css-text-3
+    :code: vc-data-integrity
     :stage: CRD
-    :date: '20240930'
-  :file: data/crd-css-text-3-20240930.yaml
+    :date: '20241002'
+  :file: data/crd-vc-data-integrity-20241002.yaml
 - :id:
     :code: deva-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-deva-gap-20240920.yaml
-- :id:
-    :code: picture-in-picture
-    :stage: WD
-    :date: '20241002'
-  :file: data/wd-picture-in-picture-20241002.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20241002'
-  :file: data/crd-vc-data-integrity-20241002.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -30951,6 +30946,11 @@
     :date: '20241011'
   :file: data/wd-webmidi-20241011.yaml
 - :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20241013'
+  :file: data/wd-controller-document-20241013.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31050,11 +31050,11 @@
     :code: latn-gap
   :file: data/latn-gap.yaml
 - :id:
-    :code: geor-lreq
-  :file: data/geor-lreq.yaml
-- :id:
     :code: vc-extensions
   :file: data/vc-extensions.yaml
+- :id:
+    :code: geor-lreq
+  :file: data/geor-lreq.yaml
 - :id:
     :code: grek-lreq
   :file: data/grek-lreq.yaml

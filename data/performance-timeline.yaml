@@ -31,6 +31,16 @@ relation:
     formattedref:
       content: W3C REC-performance-timeline-20131212
       format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-performance-timeline-20240216
+    docid:
+    - id: W3C CRD-performance-timeline-20240216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-performance-timeline-20240216
+      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCRD-performance-timeline-20221110
@@ -53,6 +63,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-performance-timeline-20110901
+    docid:
+    - id: W3C WD-performance-timeline-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-20110901
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-performance-timeline-20231011
     docid:
     - id: W3C CRD-performance-timeline-20231011
@@ -70,26 +90,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-performance-timeline-20240202
-      format: text/plain
-- type: instance
-  bibitem:
-    id: W3CCRD-performance-timeline-20240216
-    docid:
-    - id: W3C CRD-performance-timeline-20240216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-performance-timeline-20240216
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-performance-timeline-20110901
-    docid:
-    - id: W3C WD-performance-timeline-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-performance-timeline-20110901
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20240813
+id: W3CCRD-vc-di-bbs-20241015
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240813/
+- content: https://www.w3.org/TR/2024/CRD-vc-di-bbs-20241015/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20240813
+- id: W3C CRD-vc-di-bbs-20241015
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20240813
+docnumber: CRD-vc-di-bbs-20241015
 date:
 - type: published
-  value: '2024-08-13'
+  value: '2024-10-15'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Manu Sporny
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-13'
+revdate: '2024-10-15'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20240621
+    id: W3CCRD-vc-di-bbs-20240828
     docid:
-    - id: W3C CRD-core-aam-1.2-20240621
+    - id: W3C CRD-vc-di-bbs-20240828
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20240621
+      content: W3C CRD-vc-di-bbs-20240828
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-core-aam-1.2-20240813
+  number: CRD-vc-di-bbs-20241015
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

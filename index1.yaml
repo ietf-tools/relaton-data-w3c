@@ -30306,11 +30306,6 @@
     :date: '20240813'
   :file: data/wd-credential-management-1-20240813.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20240813'
-  :file: data/crd-core-aam-1.2-20240813.yaml
-- :id:
     :code: reporting-1
     :stage: WD
     :date: '20240813'
@@ -30405,11 +30400,6 @@
     :stage: WD
     :date: '20240822'
   :file: data/wd-rdf12-concepts-20240822.yaml
-- :id:
-    :code: vc-di-bbs
-    :stage: CRD
-    :date: '20240828'
-  :file: data/crd-vc-di-bbs-20240828.yaml
 - :id:
     :code: sparql12-update
     :stage: WD
@@ -30911,11 +30901,6 @@
     :date: '20241011'
   :file: data/wd-webmidi-20241011.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20241013'
-  :file: data/wd-controller-document-20241013.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20241013'
@@ -30926,10 +30911,10 @@
     :date: '20241014'
   :file: data/wd-csp3-20241014.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20241014'
-  :file: data/crd-vc-data-model-2.0-20241014.yaml
+    :code: IndexedDB-3
+    :stage: WD
+    :date: '20241015'
+  :file: data/wd-indexeddb-3-20241015.yaml
 - :id:
     :code: vc-overview
     :type: NOTE
@@ -30938,23 +30923,38 @@
 - :id:
     :code: vc-data-integrity
     :stage: CRD
-    :date: '20241014'
-  :file: data/crd-vc-data-integrity-20241014.yaml
+    :date: '20241015'
+  :file: data/crd-vc-data-integrity-20241015.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20241015'
+  :file: data/crd-vc-data-model-2.0-20241015.yaml
 - :id:
     :code: vc-di-ecdsa
     :stage: CRD
-    :date: '20241014'
-  :file: data/crd-vc-di-ecdsa-20241014.yaml
+    :date: '20241015'
+  :file: data/crd-vc-di-ecdsa-20241015.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: CRD
-    :date: '20241014'
-  :file: data/crd-vc-di-eddsa-20241014.yaml
+    :date: '20241015'
+  :file: data/crd-vc-di-eddsa-20241015.yaml
 - :id:
-    :code: IndexedDB-3
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20241015'
+  :file: data/crd-vc-di-bbs-20241015.yaml
+- :id:
+    :code: controller-document
     :stage: WD
     :date: '20241015'
-  :file: data/wd-indexeddb-3-20241015.yaml
+  :file: data/wd-controller-document-20241015.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20241015'
+  :file: data/crd-core-aam-1.2-20241015.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -30967,6 +30967,9 @@
 - :id:
     :code: json-ld-api1
   :file: data/json-ld-api1.yaml
+- :id:
+    :code: media-source-1
+  :file: data/media-source-1.yaml
 - :id:
     :code: encrypted-media-1
   :file: data/encrypted-media-1.yaml

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cmedia-source-1
+title:
+- content: Media Source Extensions™
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/media-source-1/
+  type: src
+type: standard
+docid:
+- id: W3C media-source-1
+  type: W3C
+  primary: true
+docnumber: media-source-1
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: instance
+  bibitem:
+    id: W3CREC-media-source-20161117
+    docid:
+    - id: W3C REC-media-source-20161117
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-media-source-20161117
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: media-source-1
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dapt-20241011
+id: W3CNOTE-string-meta-20241017
 title:
-- content: Dubbing and Audio description Profiles of TTML2
+- content: 'Strings on the Web: Language and Direction Metadata'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-dapt-20241011/
+- content: https://www.w3.org/TR/2024/NOTE-string-meta-20241017/
   type: src
-- content: https://w3c.github.io/dapt/
+- content: https://w3c.github.io/string-meta/
   type: current
 type: standard
 docid:
-- id: W3C WD-dapt-20241011
+- id: W3C NOTE-string-meta-20241017
   type: W3C
   primary: true
-docnumber: WD-dapt-20241011
+docnumber: NOTE-string-meta-20241017
 date:
 - type: published
-  value: '2024-10-11'
+  value: '2024-10-17'
 contributor:
 - person:
     name:
       completename:
-        content: Cyril Concolato
+        content: Addison Phillips
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Nigel Megitt
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-11'
+revdate: '2024-10-17'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dapt-20241010
+    id: W3CDNOTE-string-meta-20240718
     docid:
-    - id: W3C WD-dapt-20241010
+    - id: W3C DNOTE-string-meta-20240718
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dapt-20241010
+      content: W3C DNOTE-string-meta-20240718
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-dapt-20241011
-doctype: technicalReport
+  number: NOTE-string-meta-20241017
+doctype: groupNote
 editorialgroup:
-- name: Timed Text Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0

@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-epub-a11y-11-20230525
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-epub-a11y-11-20230525
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-epub-a11y-11-20241017
+    docid:
+    - id: W3C REC-epub-a11y-11-20241017
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-epub-a11y-11-20241017
       format: text/plain
 - type: hasEdition
   bibitem:

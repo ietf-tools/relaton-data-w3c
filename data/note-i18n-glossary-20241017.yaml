@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-jpan-lreq-20240919
+id: W3CNOTE-i18n-glossary-20241017
 title:
-- content: Japanese Script Resources
+- content: Internationalization Glossary
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240919/
+- content: https://www.w3.org/TR/2024/NOTE-i18n-glossary-20241017/
   type: src
-- content: https://w3c.github.io/jlreq/jpan/
+- content: https://w3c.github.io/i18n-glossary/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-jpan-lreq-20240919
+- id: W3C NOTE-i18n-glossary-20241017
   type: W3C
   primary: true
-docnumber: DNOTE-jpan-lreq-20240919
+docnumber: NOTE-i18n-glossary-20241017
 date:
 - type: published
-  value: '2024-09-19'
+  value: '2024-10-17'
 contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-19'
+revdate: '2024-10-17'
 language:
 - en
 script:
@@ -37,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-jpan-lreq-20240905
+    id: W3CDNOTE-i18n-glossary-20240422
     docid:
-    - id: W3C DNOTE-jpan-lreq-20240905
+    - id: W3C DNOTE-i18n-glossary-20240422
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-jpan-lreq-20240905
+      content: W3C DNOTE-i18n-glossary-20240422
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-jpan-lreq-20240919
+  number: NOTE-i18n-glossary-20241017
 doctype: groupNote
 editorialgroup:
 - name: Internationalization Working Group

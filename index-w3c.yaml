@@ -4797,8 +4797,8 @@
   :file: data/dapt.yaml
 - :code: dapt
   :stage: WD
-  :date: '20241011'
-  :file: data/wd-dapt-20241011.yaml
+  :date: '20241017'
+  :file: data/wd-dapt-20241017.yaml
 - :code: dapt
   :stage: WD
   :date: '20240412'
@@ -6172,6 +6172,10 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: REC
+  :date: '20241017'
+  :file: data/rec-epub-33-20241017.yaml
+- :code: epub-33
+  :stage: REC
   :date: '20230525'
   :file: data/rec-epub-33-20230525.yaml
 - :code: epub-33
@@ -6188,6 +6192,10 @@
   :file: data/wd-epub-33-20211218.yaml
 - :code: epub-a11y-11
   :file: data/epub-a11y-11.yaml
+- :code: epub-a11y-11
+  :stage: REC
+  :date: '20241017'
+  :file: data/rec-epub-a11y-11-20241017.yaml
 - :code: epub-a11y-11
   :stage: REC
   :date: '20230525'
@@ -6324,6 +6332,10 @@
   :file: data/note-epub-overview-33-20211208.yaml
 - :code: epub-rs-33
   :file: data/epub-rs-33.yaml
+- :code: epub-rs-33
+  :stage: REC
+  :date: '20241017'
+  :file: data/rec-epub-rs-33-20241017.yaml
 - :code: epub-rs-33
   :stage: REC
   :date: '20230525'
@@ -8316,6 +8328,10 @@
 - :code: i18n-glossary
   :file: data/i18n-glossary.yaml
 - :code: i18n-glossary
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-i18n-glossary-20241017.yaml
+- :code: i18n-glossary
   :type: DNOTE
   :date: '20240422'
   :file: data/dnote-i18n-glossary-20240422.yaml
@@ -8789,6 +8805,10 @@
 - :code: international-specs
   :file: data/international-specs.yaml
 - :code: international-specs
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-international-specs-20241017.yaml
+- :code: international-specs
   :type: DNOTE
   :date: '20240321'
   :file: data/dnote-international-specs-20240321.yaml
@@ -9023,8 +9043,8 @@
   :file: data/jpan-lreq.yaml
 - :code: jpan-lreq
   :type: DNOTE
-  :date: '20240919'
-  :file: data/dnote-jpan-lreq-20240919.yaml
+  :date: '20241017'
+  :file: data/dnote-jpan-lreq-20241017.yaml
 - :code: jsgf
   :file: data/jsgf.yaml
 - :code: jsgf
@@ -15809,9 +15829,9 @@
 - :code: string-meta
   :file: data/string-meta.yaml
 - :code: string-meta
-  :type: DNOTE
-  :date: '20240718'
-  :file: data/dnote-string-meta-20240718.yaml
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-string-meta-20241017.yaml
 - :code: string-meta
   :type: DNOTE
   :date: '20240418'
@@ -17395,8 +17415,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: CRD
-  :date: '20241010'
-  :file: data/crd-vc-jose-cose-20241010.yaml
+  :date: '20241016'
+  :file: data/crd-vc-jose-cose-20241016.yaml
 - :code: vc-jose-cose
   :stage: CRD
   :date: '20240521'

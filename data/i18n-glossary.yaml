@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-i18n-glossary-20240422
+    id: W3CNOTE-i18n-glossary-20241017
     docid:
-    - id: W3C DNOTE-i18n-glossary-20240422
+    - id: W3C NOTE-i18n-glossary-20241017
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-i18n-glossary-20240422
+      content: W3C NOTE-i18n-glossary-20241017
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -37,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-i18n-glossary-20230424
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-i18n-glossary-20240422
+    docid:
+    - id: W3C DNOTE-i18n-glossary-20240422
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-i18n-glossary-20240422
       format: text/plain
 - type: hasEdition
   bibitem:

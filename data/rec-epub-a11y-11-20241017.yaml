@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: W3CREC-epub-a11y-11-20241017
+title:
+- content: EPUB Accessibility 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/REC-epub-a11y-11-20241017/
+  type: src
+- content: https://w3c.github.io/epub-specs/epub33/a11y/
+  type: current
+type: standard
+docid:
+- id: W3C REC-epub-a11y-11-20241017
+  type: W3C
+  primary: true
+docnumber: REC-epub-a11y-11-20241017
+date:
+- type: published
+  value: '2024-10-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Avneesh Singh
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Charles LaPierre
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: George Kerscher
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Gregorio Pellegrino
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Matt Garrish
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: recommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CREC-epub-a11y-11-20230525
+    docid:
+    - id: W3C REC-epub-a11y-11-20230525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-epub-a11y-11-20230525
+      format: text/plain
+series:
+- title:
+    content: W3C REC
+    format: text/plain
+  number: REC-epub-a11y-11-20241017
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

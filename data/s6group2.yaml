@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3CS6Group2
+title:
+- content: A Proposed Convention for Embedding Metadata in HTML
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/S6Group2/
+  type: src
+type: standard
+docid:
+- id: W3C S6Group2
+  type: W3C
+  primary: true
+docnumber: S6Group2
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3C9605-Indexing-Workshop-ReportOutcomes
+    docid:
+    - id: W3C 9605-Indexing-Workshop/ReportOutcomes
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C 9605-Indexing-Workshop/ReportOutcomes
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: S6Group2
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

@@ -30886,30 +30886,10 @@
     :date: '20241015'
   :file: data/wd-indexeddb-3-20241015.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20241015'
-  :file: data/crd-vc-data-integrity-20241015.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20241015'
-  :file: data/crd-vc-di-ecdsa-20241015.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20241015'
-  :file: data/crd-vc-di-eddsa-20241015.yaml
-- :id:
     :code: vc-di-bbs
     :stage: CRD
     :date: '20241015'
   :file: data/crd-vc-di-bbs-20241015.yaml
-- :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20241015'
-  :file: data/wd-controller-document-20241015.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
@@ -30985,6 +30965,26 @@
     :stage: CRD
     :date: '20241019'
   :file: data/crd-vc-data-model-2.0-20241019.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20241019'
+  :file: data/crd-vc-data-integrity-20241019.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20241019'
+  :file: data/crd-vc-di-ecdsa-20241019.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20241019'
+  :file: data/crd-vc-di-eddsa-20241019.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20241019'
+  :file: data/wd-controller-document-20241019.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

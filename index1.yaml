@@ -30641,15 +30641,20 @@
     :date: '20240925'
   :file: data/wd-permissions-policy-1-20240925.yaml
 - :id:
-    :code: webxr
-    :stage: CRD
-    :date: '20240927'
-  :file: data/crd-webxr-20240927.yaml
+    :code: vc-extensions
+    :type: NOTE
+    :date: '20240930'
+  :file: data/note-vc-extensions-20240930.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-nkoo-gap-20240920.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20240930'
+  :file: data/wd-compute-pressure-20240930.yaml
 - :id:
     :code: cher-gap
     :type: DNOTE
@@ -30661,65 +30666,65 @@
     :date: '20240920'
   :file: data/dnote-typography-20240920.yaml
 - :id:
-    :code: vc-extensions
-    :type: NOTE
+    :code: selection-api
+    :stage: WD
     :date: '20240930'
-  :file: data/note-vc-extensions-20240930.yaml
+  :file: data/wd-selection-api-20240930.yaml
 - :id:
     :code: cans-lreq
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-cans-lreq-20240920.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20240930'
-  :file: data/wd-compute-pressure-20240930.yaml
-- :id:
     :code: cans-iu-cr-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-cans-iu-cr-gap-20240920.yaml
-- :id:
-    :code: osge-osa-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-osge-osa-gap-20240920.yaml
-- :id:
-    :code: elreq-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-elreq-gap-20240920.yaml
-- :id:
-    :code: selection-api
-    :stage: WD
-    :date: '20240930'
-  :file: data/wd-selection-api-20240930.yaml
-- :id:
-    :code: latn-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-latn-gap-20240920.yaml
-- :id:
-    :code: geor-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-geor-gap-20240920.yaml
 - :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20240930'
   :file: data/wd-rdf12-turtle-20240930.yaml
 - :id:
-    :code: geor-lreq
+    :code: osge-osa-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-geor-lreq-20240920.yaml
+  :file: data/dnote-osge-osa-gap-20240920.yaml
 - :id:
     :code: css-text-3
     :stage: CRD
     :date: '20240930'
   :file: data/crd-css-text-3-20240930.yaml
+- :id:
+    :code: elreq-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-elreq-gap-20240920.yaml
+- :id:
+    :code: latn-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-latn-gap-20240920.yaml
+- :id:
+    :code: picture-in-picture
+    :stage: WD
+    :date: '20241002'
+  :file: data/wd-picture-in-picture-20241002.yaml
+- :id:
+    :code: geor-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-geor-gap-20240920.yaml
+- :id:
+    :code: mediacapture-streams
+    :stage: CRD
+    :date: '20241003'
+  :file: data/crd-mediacapture-streams-20241003.yaml
+- :id:
+    :code: geor-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-geor-lreq-20240920.yaml
 - :id:
     :code: grek-lreq
     :type: DNOTE
@@ -30731,25 +30736,20 @@
     :date: '20240920'
   :file: data/dnote-grek-gap-20240920.yaml
 - :id:
-    :code: picture-in-picture
-    :stage: WD
-    :date: '20241002'
-  :file: data/wd-picture-in-picture-20241002.yaml
-- :id:
     :code: cyrl-lreq
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
-    :code: mediacapture-streams
-    :stage: CRD
-    :date: '20241003'
-  :file: data/crd-mediacapture-streams-20241003.yaml
-- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-hebr-gap-20240920.yaml
+- :id:
+    :code: css-grid-3
+    :stage: WD
+    :date: '20241003'
+  :file: data/wd-css-grid-3-20241003.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
@@ -30766,20 +30766,15 @@
     :date: '20240920'
   :file: data/dnote-deva-lreq-20240920.yaml
 - :id:
-    :code: deva-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-deva-gap-20240920.yaml
-- :id:
-    :code: css-grid-3
-    :stage: WD
-    :date: '20241003'
-  :file: data/wd-css-grid-3-20241003.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20241004'
   :file: data/wd-mediasession-20241004.yaml
+- :id:
+    :code: deva-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-deva-gap-20240920.yaml
 - :id:
     :code: css-anchor-position-1
     :stage: WD
@@ -30876,15 +30871,15 @@
     :date: '20241014'
   :file: data/wd-csp3-20241014.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20241014'
-  :file: data/note-vc-overview-20241014.yaml
-- :id:
     :code: IndexedDB-3
     :stage: WD
     :date: '20241015'
   :file: data/wd-indexeddb-3-20241015.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20241014'
+  :file: data/note-vc-overview-20241014.yaml
 - :id:
     :code: vc-di-bbs
     :stage: CRD
@@ -30896,11 +30891,6 @@
     :date: '20241015'
   :file: data/crd-core-aam-1.2-20241015.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20241016'
-  :file: data/crd-vc-jose-cose-20241016.yaml
-- :id:
     :code: jpan-lreq
     :type: DNOTE
     :date: '20241017'
@@ -30911,15 +30901,15 @@
     :date: '20241017'
   :file: data/rec-epub-33-20241017.yaml
 - :id:
-    :code: epub-rs-33
-    :stage: REC
-    :date: '20241017'
-  :file: data/rec-epub-rs-33-20241017.yaml
-- :id:
     :code: epub-a11y-11
     :stage: REC
     :date: '20241017'
   :file: data/rec-epub-a11y-11-20241017.yaml
+- :id:
+    :code: epub-rs-33
+    :stage: REC
+    :date: '20241017'
+  :file: data/rec-epub-rs-33-20241017.yaml
 - :id:
     :code: i18n-glossary
     :type: NOTE
@@ -30985,6 +30975,16 @@
     :stage: WD
     :date: '20241020'
   :file: data/wd-controller-document-20241020.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20241021'
+  :file: data/crd-vc-jose-cose-20241021.yaml
+- :id:
+    :code: webxr
+    :stage: CRD
+    :date: '20241021'
+  :file: data/crd-webxr-20241021.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31097,14 +31097,14 @@
     :code: cyrl-lreq
   :file: data/cyrl-lreq.yaml
 - :id:
+    :code: css-grid-3
+  :file: data/css-grid-3.yaml
+- :id:
     :code: beng-lreq
   :file: data/beng-lreq.yaml
 - :id:
     :code: deva-lreq
   :file: data/deva-lreq.yaml
-- :id:
-    :code: css-grid-3
-  :file: data/css-grid-3.yaml
 - :id:
     :code: vc-overview
   :file: data/vc-overview.yaml

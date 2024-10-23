@@ -30311,11 +30311,6 @@
     :date: '20240813'
   :file: data/crd-secure-payment-confirmation-20240813.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20240814'
-  :file: data/wd-pointerevents3-20240814.yaml
-- :id:
     :code: geolocation
     :stage: REC
     :date: '20240814'
@@ -30326,15 +30321,15 @@
     :date: '20240815'
   :file: data/rec-geolocation-20240815.yaml
 - :id:
-    :code: css-conditional-3
-    :stage: CRD
-    :date: '20240815'
-  :file: data/crd-css-conditional-3-20240815.yaml
-- :id:
     :code: ethi-lreq
     :type: DNOTE
     :date: '20240815'
   :file: data/dnote-ethi-lreq-20240815.yaml
+- :id:
+    :code: css-conditional-3
+    :stage: CRD
+    :date: '20240815'
+  :file: data/crd-css-conditional-3-20240815.yaml
 - :id:
     :code: latn-lreq
     :type: DNOTE
@@ -30346,35 +30341,35 @@
     :date: '20240815'
   :file: data/dnote-hebr-lreq-20240815.yaml
 - :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240817'
-  :file: data/wd-webrtc-svc-20240817.yaml
-- :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20240815'
   :file: data/dnote-thai-lreq-20240815.yaml
 - :id:
-    :code: html-aam-1.0
+    :code: webrtc-svc
     :stage: WD
-    :date: '20240819'
-  :file: data/wd-html-aam-1.0-20240819.yaml
+    :date: '20240817'
+  :file: data/wd-webrtc-svc-20240817.yaml
 - :id:
     :code: predefined-counter-styles
     :type: NOTE
     :date: '20240815'
   :file: data/note-predefined-counter-styles-20240815.yaml
 - :id:
-    :code: event-timing
+    :code: html-aam-1.0
     :stage: WD
     :date: '20240819'
-  :file: data/wd-event-timing-20240819.yaml
+  :file: data/wd-html-aam-1.0-20240819.yaml
 - :id:
     :code: java-gap
     :type: DNOTE
     :date: '20240816'
   :file: data/dnote-java-gap-20240816.yaml
+- :id:
+    :code: event-timing
+    :stage: WD
+    :date: '20240819'
+  :file: data/wd-event-timing-20240819.yaml
 - :id:
     :code: fedcm-1
     :stage: WD
@@ -30390,11 +30385,6 @@
     :stage: REC
     :date: '20240822'
   :file: data/rec-vocab-dcat-3-20240822.yaml
-- :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20240822'
-  :file: data/wd-rdf12-concepts-20240822.yaml
 - :id:
     :code: sparql12-update
     :stage: WD
@@ -30876,11 +30866,6 @@
     :date: '20241015'
   :file: data/wd-indexeddb-3-20241015.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20241014'
-  :file: data/note-vc-overview-20241014.yaml
-- :id:
     :code: vc-di-bbs
     :stage: CRD
     :date: '20241015'
@@ -30901,15 +30886,15 @@
     :date: '20241017'
   :file: data/rec-epub-33-20241017.yaml
 - :id:
-    :code: epub-a11y-11
-    :stage: REC
-    :date: '20241017'
-  :file: data/rec-epub-a11y-11-20241017.yaml
-- :id:
     :code: epub-rs-33
     :stage: REC
     :date: '20241017'
   :file: data/rec-epub-rs-33-20241017.yaml
+- :id:
+    :code: epub-a11y-11
+    :stage: REC
+    :date: '20241017'
+  :file: data/rec-epub-a11y-11-20241017.yaml
 - :id:
     :code: i18n-glossary
     :type: NOTE
@@ -30985,6 +30970,21 @@
     :stage: CRD
     :date: '20241021'
   :file: data/crd-webxr-20241021.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20241022'
+  :file: data/note-vc-overview-20241022.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20241023'
+  :file: data/wd-rdf12-concepts-20241023.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20241023'
+  :file: data/wd-pointerevents3-20241023.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31106,8 +31106,8 @@
     :code: deva-lreq
   :file: data/deva-lreq.yaml
 - :id:
-    :code: vc-overview
-  :file: data/vc-overview.yaml
-- :id:
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
+- :id:
+    :code: vc-overview
+  :file: data/vc-overview.yaml

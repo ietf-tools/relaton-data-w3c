@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20240930
+id: W3CWD-orientation-event-20241024
 title:
-- content: Compute Pressure Level 1
+- content: Device Orientation and Motion
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-compute-pressure-20240930/
+- content: https://www.w3.org/TR/2024/WD-orientation-event-20241024/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20240930
+- id: W3C WD-orientation-event-20241024
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20240930
+docnumber: WD-orientation-event-20241024
 date:
 - type: published
-  value: '2024-09-30'
+  value: '2024-10-24'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Reilly Grant
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Raphael Kubo da Costa
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-09-30'
+revdate: '2024-10-24'
 language:
 - en
 script:
@@ -60,21 +50,22 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20240919
+    id: W3CWD-orientation-event-20240514
     docid:
-    - id: W3C WD-compute-pressure-20240919
+    - id: W3C WD-orientation-event-20240514
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20240919
+      content: W3C WD-orientation-event-20240514
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-compute-pressure-20240930
+  number: WD-orientation-event-20241024
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

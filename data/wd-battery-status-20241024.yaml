@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-battery-status-20241024
+title:
+- content: Battery Status API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-battery-status-20241024/
+  type: src
+- content: https://w3c.github.io/battery/
+  type: current
+type: standard
+docid:
+- id: W3C WD-battery-status-20241024
+  type: W3C
+  primary: true
+docnumber: WD-battery-status-20241024
+date:
+- type: published
+  value: '2024-10-24'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-battery-status-20240523
+    docid:
+    - id: W3C WD-battery-status-20240523
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-battery-status-20240523
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-battery-status-20241024
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

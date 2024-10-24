@@ -1013,6 +1013,10 @@
   :file: data/cr-battery-status-20120508.yaml
 - :code: battery-status
   :stage: WD
+  :date: '20241024'
+  :file: data/wd-battery-status-20241024.yaml
+- :code: battery-status
+  :stage: WD
   :date: '20240523'
   :file: data/wd-battery-status-20240523.yaml
 - :code: battery-status
@@ -1674,8 +1678,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20240930'
-  :file: data/wd-compute-pressure-20240930.yaml
+  :date: '20241024'
+  :file: data/wd-compute-pressure-20241024.yaml
 - :code: compute-pressure
   :stage: WD
   :date: '20240607'
@@ -11169,6 +11173,10 @@
   :file: data/cr-orientation-event-20160818.yaml
 - :code: orientation-event
   :stage: WD
+  :date: '20241024'
+  :file: data/wd-orientation-event-20241024.yaml
+- :code: orientation-event
+  :stage: WD
   :date: '20240514'
   :file: data/wd-orientation-event-20240514.yaml
 - :code: orientation-event
@@ -13569,8 +13577,8 @@
   :file: data/rdf12-turtle.yaml
 - :code: rdf12-turtle
   :stage: WD
-  :date: '20240930'
-  :file: data/wd-rdf12-turtle-20240930.yaml
+  :date: '20241023'
+  :file: data/wd-rdf12-turtle-20241023.yaml
 - :code: rdf12-turtle
   :stage: WD
   :date: '20240418'
@@ -14458,6 +14466,10 @@
   :file: data/wd-screen-orientation-20121206.yaml
 - :code: screen-wake-lock
   :file: data/screen-wake-lock.yaml
+- :code: screen-wake-lock
+  :stage: WD
+  :date: '20241024'
+  :file: data/wd-screen-wake-lock-20241024.yaml
 - :code: screen-wake-lock
   :stage: WD
   :date: '20240527'
@@ -17417,8 +17429,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: CRD
-  :date: '20241021'
-  :file: data/crd-vc-jose-cose-20241021.yaml
+  :date: '20241023'
+  :file: data/crd-vc-jose-cose-20241023.yaml
 - :code: vc-jose-cose
   :stage: CRD
   :date: '20240521'

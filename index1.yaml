@@ -30386,11 +30386,6 @@
     :date: '20240822'
   :file: data/rec-vocab-dcat-3-20240822.yaml
 - :id:
-    :code: sparql12-update
-    :stage: WD
-    :date: '20240829'
-  :file: data/wd-sparql12-update-20240829.yaml
-- :id:
     :code: sparql12-protocol
     :stage: WD
     :date: '20240829'
@@ -30991,11 +30986,6 @@
     :date: '20241024'
   :file: data/wd-rdf12-turtle-20241024.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20241024'
-  :file: data/crd-vc-jose-cose-20241024.yaml
-- :id:
     :code: FileAPI
     :stage: WD
     :date: '20241024'
@@ -31005,6 +30995,16 @@
     :stage: WD
     :date: '20241024'
   :file: data/wd-rdf12-concepts-20241024.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20241025'
+  :file: data/crd-vc-jose-cose-20241025.yaml
+- :id:
+    :code: sparql12-update
+    :stage: WD
+    :date: '20241025'
+  :file: data/wd-sparql12-update-20241025.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

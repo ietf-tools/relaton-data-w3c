@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-jose-cose-20241024
+id: W3CCRD-vc-jose-cose-20241025
 title:
 - content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-jose-cose-20241024/
+- content: https://www.w3.org/TR/2024/CRD-vc-jose-cose-20241025/
   type: src
 - content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-jose-cose-20241024
+- id: W3C CRD-vc-jose-cose-20241025
   type: W3C
   primary: true
-docnumber: CRD-vc-jose-cose-20241024
+docnumber: CRD-vc-jose-cose-20241025
 date:
 - type: published
-  value: '2024-10-24'
+  value: '2024-10-25'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-24'
+revdate: '2024-10-25'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-jose-cose-20241023
+    id: W3CCRD-vc-jose-cose-20241024
     docid:
-    - id: W3C CRD-vc-jose-cose-20241023
+    - id: W3C CRD-vc-jose-cose-20241024
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-jose-cose-20241023
+      content: W3C CRD-vc-jose-cose-20241024
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-jose-cose-20241024
+  number: CRD-vc-jose-cose-20241025
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20241020
+id: W3CWD-rdf12-trig-20241027
 title:
-- content: Controller Documents 1.0
+- content: RDF 1.2 TriG
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-controller-document-20241020/
+- content: https://www.w3.org/TR/2024/WD-rdf12-trig-20241027/
   type: src
-- content: https://w3c.github.io/controller-document/
+- content: https://w3c.github.io/rdf-trig/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20241020
+- id: W3C WD-rdf12-trig-20241027
   type: W3C
   primary: true
-docnumber: WD-controller-document-20241020
+docnumber: WD-rdf12-trig-20241027
 date:
 - type: published
-  value: '2024-10-20'
+  value: '2024-10-27'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-20'
+revdate: '2024-10-27'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20241019
+    id: W3CWD-rdf12-trig-20240919
     docid:
-    - id: W3C WD-controller-document-20241019
+    - id: W3C WD-rdf12-trig-20240919
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20241019
+      content: W3C WD-rdf12-trig-20240919
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-controller-document-20241020
+  number: WD-rdf12-trig-20241027
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

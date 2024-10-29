@@ -1,18 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3Cmathml4
+id: W3CWD-mathml4-20241028
 title:
 - content: Mathematical Markup Language (MathML) Version 4.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/mathml4/
+- content: https://www.w3.org/TR/2024/WD-mathml4-20241028/
   type: src
+- content: https://w3c.github.io/mathml/
+  type: current
 type: standard
 docid:
-- id: W3C mathml4
+- id: W3C WD-mathml4-20241028
   type: W3C
   primary: true
-docnumber: mathml4
+docnumber: WD-mathml4-20241028
+date:
+- type: published
+  value: '2024-10-28'
+contributor:
+- person:
+    name:
+      completename:
+        content: David Carlisle
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-28'
 language:
 - en
 script:
@@ -21,17 +38,7 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
-  bibitem:
-    id: W3CWD-mathml4-20241028
-    docid:
-    - id: W3C WD-mathml4-20241028
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mathml4-20241028
-      format: text/plain
-- type: hasEdition
+- type: obsoletes
   bibitem:
     id: W3CWD-mathml4-20220908
     docid:
@@ -45,7 +52,9 @@ series:
 - title:
     content: W3C WD
     format: text/plain
-  number: mathml4
+  number: WD-mathml4-20241028
 doctype: technicalReport
+editorialgroup:
+- name: Math Working Group
 ext:
   schema-version: v1.0.0

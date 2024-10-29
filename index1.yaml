@@ -30741,30 +30741,25 @@
     :date: '20240920'
   :file: data/dnote-beng-lreq-20240920.yaml
 - :id:
-    :code: device-posture
+    :code: media-capabilities
     :stage: WD
     :date: '20241007'
-  :file: data/wd-device-posture-20241007.yaml
+  :file: data/wd-media-capabilities-20241007.yaml
 - :id:
     :code: beng-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-beng-gap-20240920.yaml
 - :id:
-    :code: media-capabilities
-    :stage: WD
-    :date: '20241007'
-  :file: data/wd-media-capabilities-20241007.yaml
+    :code: webrtc
+    :stage: REC
+    :date: '20241008'
+  :file: data/rec-webrtc-20241008.yaml
 - :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-deva-lreq-20240920.yaml
-- :id:
-    :code: webrtc
-    :stage: REC
-    :date: '20241008'
-  :file: data/rec-webrtc-20241008.yaml
 - :id:
     :code: deva-gap
     :type: DNOTE
@@ -30876,15 +30871,15 @@
     :date: '20241017'
   :file: data/note-i18n-glossary-20241017.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20241017'
-  :file: data/wd-dapt-20241017.yaml
-- :id:
     :code: string-meta
     :type: NOTE
     :date: '20241017'
   :file: data/note-string-meta-20241017.yaml
+- :id:
+    :code: dapt
+    :stage: WD
+    :date: '20241017'
+  :file: data/wd-dapt-20241017.yaml
 - :id:
     :code: international-specs
     :type: NOTE
@@ -30966,11 +30961,6 @@
     :date: '20241024'
   :file: data/wd-screen-wake-lock-20241024.yaml
 - :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20241024'
-  :file: data/wd-rdf12-turtle-20241024.yaml
-- :id:
     :code: FileAPI
     :stage: WD
     :date: '20241024'
@@ -31005,6 +30995,21 @@
     :stage: WD
     :date: '20241028'
   :file: data/wd-trusted-types-20241028.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20241028'
+  :file: data/wd-rdf12-turtle-20241028.yaml
+- :id:
+    :code: mathml4
+    :stage: WD
+    :date: '20241028'
+  :file: data/wd-mathml4-20241028.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20241029'
+  :file: data/wd-device-posture-20241029.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

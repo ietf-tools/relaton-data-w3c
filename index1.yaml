@@ -30821,11 +30821,6 @@
     :date: '20241011'
   :file: data/wd-webmidi-20241011.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20241013'
-  :file: data/wd-sparql12-query-20241013.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20241014'
@@ -30871,15 +30866,15 @@
     :date: '20241017'
   :file: data/note-i18n-glossary-20241017.yaml
 - :id:
-    :code: string-meta
-    :type: NOTE
-    :date: '20241017'
-  :file: data/note-string-meta-20241017.yaml
-- :id:
     :code: dapt
     :stage: WD
     :date: '20241017'
   :file: data/wd-dapt-20241017.yaml
+- :id:
+    :code: string-meta
+    :type: NOTE
+    :date: '20241017'
+  :file: data/note-string-meta-20241017.yaml
 - :id:
     :code: international-specs
     :type: NOTE
@@ -30966,11 +30961,6 @@
     :date: '20241024'
   :file: data/wd-fileapi-20241024.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20241024'
-  :file: data/wd-rdf12-concepts-20241024.yaml
-- :id:
     :code: vc-jose-cose
     :stage: CRD
     :date: '20241025'
@@ -31010,6 +31000,16 @@
     :stage: WD
     :date: '20241029'
   :file: data/wd-device-posture-20241029.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20241029'
+  :file: data/wd-rdf12-concepts-20241029.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20241030'
+  :file: data/wd-sparql12-query-20241030.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

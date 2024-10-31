@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cuser-timing
 title:
-- content: User Timing Level 3
+- content: User Timing
   format: text/plain
 link:
 - content: https://www.w3.org/TR/user-timing/
@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: instance
   bibitem:
-    id: W3CCRD-user-timing-20231114
+    id: W3CCRD-user-timing-20241031
     docid:
-    - id: W3C CRD-user-timing-20231114
+    - id: W3C CRD-user-timing-20241031
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-user-timing-20231114
+      content: W3C CRD-user-timing-20241031
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-user-timing-20231106
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-user-timing-20231114
+    docid:
+    - id: W3C CRD-user-timing-20231114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-user-timing-20231114
       format: text/plain
 - type: hasEdition
   bibitem:

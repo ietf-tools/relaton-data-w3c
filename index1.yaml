@@ -30621,40 +30621,35 @@
     :date: '20240920'
   :file: data/dnote-nkoo-lreq-20240920.yaml
 - :id:
-    :code: selection-api
-    :stage: WD
+    :code: css-text-3
+    :stage: CRD
     :date: '20240930'
-  :file: data/wd-selection-api-20240930.yaml
+  :file: data/crd-css-text-3-20240930.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-nkoo-gap-20240920.yaml
 - :id:
-    :code: css-text-3
-    :stage: CRD
-    :date: '20240930'
-  :file: data/crd-css-text-3-20240930.yaml
+    :code: picture-in-picture
+    :stage: WD
+    :date: '20241002'
+  :file: data/wd-picture-in-picture-20241002.yaml
 - :id:
     :code: cher-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-cher-gap-20240920.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-typography-20240920.yaml
-- :id:
-    :code: picture-in-picture
-    :stage: WD
-    :date: '20241002'
-  :file: data/wd-picture-in-picture-20241002.yaml
-- :id:
     :code: mediacapture-streams
     :stage: CRD
     :date: '20241003'
   :file: data/crd-mediacapture-streams-20241003.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-typography-20240920.yaml
 - :id:
     :code: cans-lreq
     :type: DNOTE
@@ -30676,15 +30671,15 @@
     :date: '20240920'
   :file: data/dnote-elreq-gap-20240920.yaml
 - :id:
-    :code: latn-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-latn-gap-20240920.yaml
-- :id:
     :code: css-grid-3
     :stage: WD
     :date: '20241003'
   :file: data/wd-css-grid-3-20241003.yaml
+- :id:
+    :code: latn-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-latn-gap-20240920.yaml
 - :id:
     :code: geor-gap
     :type: DNOTE
@@ -30696,35 +30691,35 @@
     :date: '20240920'
   :file: data/dnote-geor-lreq-20240920.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-grek-lreq-20240920.yaml
-- :id:
     :code: mediasession
     :stage: WD
     :date: '20241004'
   :file: data/wd-mediasession-20241004.yaml
 - :id:
-    :code: grek-gap
+    :code: grek-lreq
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-grek-gap-20240920.yaml
+  :file: data/dnote-grek-lreq-20240920.yaml
 - :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20241004'
   :file: data/wd-css-anchor-position-1-20241004.yaml
 - :id:
-    :code: cyrl-lreq
+    :code: grek-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-cyrl-lreq-20240920.yaml
+  :file: data/dnote-grek-gap-20240920.yaml
 - :id:
     :code: wasm-web-api-2
     :stage: WD
     :date: '20241007'
   :file: data/wd-wasm-web-api-2-20241007.yaml
+- :id:
+    :code: cyrl-lreq
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
     :code: wasm-js-api-2
     :stage: WD
@@ -30736,25 +30731,25 @@
     :date: '20240920'
   :file: data/dnote-hebr-gap-20240920.yaml
 - :id:
-    :code: beng-lreq
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-beng-lreq-20240920.yaml
-- :id:
     :code: media-capabilities
     :stage: WD
     :date: '20241007'
   :file: data/wd-media-capabilities-20241007.yaml
 - :id:
-    :code: beng-gap
+    :code: beng-lreq
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-beng-gap-20240920.yaml
+  :file: data/dnote-beng-lreq-20240920.yaml
 - :id:
     :code: webrtc
     :stage: REC
     :date: '20241008'
   :file: data/rec-webrtc-20241008.yaml
+- :id:
+    :code: beng-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-beng-gap-20240920.yaml
 - :id:
     :code: deva-lreq
     :type: DNOTE
@@ -31011,6 +31006,16 @@
     :date: '20241030'
   :file: data/wd-sparql12-query-20241030.yaml
 - :id:
+    :code: selection-api
+    :stage: WD
+    :date: '20241030'
+  :file: data/wd-selection-api-20241030.yaml
+- :id:
+    :code: user-timing
+    :stage: CRD
+    :date: '20241031'
+  :file: data/crd-user-timing-20241031.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31110,11 +31115,11 @@
     :code: cans-lreq
   :file: data/cans-lreq.yaml
 - :id:
-    :code: latn-gap
-  :file: data/latn-gap.yaml
-- :id:
     :code: css-grid-3
   :file: data/css-grid-3.yaml
+- :id:
+    :code: latn-gap
+  :file: data/latn-gap.yaml
 - :id:
     :code: geor-lreq
   :file: data/geor-lreq.yaml

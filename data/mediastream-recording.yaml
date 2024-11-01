@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-mediastream-recording-20230511
+    id: W3CWD-mediastream-recording-20241031
     docid:
-    - id: W3C WD-mediastream-recording-20230511
+    - id: W3C WD-mediastream-recording-20241031
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mediastream-recording-20230511
+      content: W3C WD-mediastream-recording-20241031
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediastream-recording-20201201
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediastream-recording-20230511
+    docid:
+    - id: W3C WD-mediastream-recording-20230511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20230511
       format: text/plain
 - type: hasEdition
   bibitem:

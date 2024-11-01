@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CWD-mediastream-recording-20241031
+title:
+- content: MediaStream Recording
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/WD-mediastream-recording-20241031/
+  type: src
+- content: https://w3c.github.io/mediacapture-record/
+  type: current
+type: standard
+docid:
+- id: W3C WD-mediastream-recording-20241031
+  type: W3C
+  primary: true
+docnumber: WD-mediastream-recording-20241031
+date:
+- type: published
+  value: '2024-10-31'
+contributor:
+- person:
+    name:
+      completename:
+        content: Miguel Casas-sanchez
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-10-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-mediastream-recording-20230511
+    docid:
+    - id: W3C WD-mediastream-recording-20230511
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20230511
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: WD-mediastream-recording-20241031
+doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
+ext:
+  schema-version: v1.0.0

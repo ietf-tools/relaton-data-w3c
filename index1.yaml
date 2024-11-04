@@ -30156,30 +30156,20 @@
     :date: '20240724'
   :file: data/dnote-ilreq-taml-20240724.yaml
 - :id:
-    :code: navigation-timing-2
+    :code: accname-1.2
     :stage: WD
-    :date: '20240729'
-  :file: data/wd-navigation-timing-2-20240729.yaml
+    :date: '20240802'
+  :file: data/wd-accname-1.2-20240802.yaml
 - :id:
     :code: latn-de-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-de-gap-20240724.yaml
 - :id:
-    :code: accname-1.2
-    :stage: WD
-    :date: '20240802'
-  :file: data/wd-accname-1.2-20240802.yaml
-- :id:
     :code: latn-fr-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-fr-gap-20240724.yaml
-- :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-hu-gap-20240724.yaml
 - :id:
     :code: css-box-4
     :stage: WD
@@ -30191,60 +30181,65 @@
     :date: '20240807'
   :file: data/wd-encrypted-media-2-20240807.yaml
 - :id:
-    :code: latn-ca-gap
+    :code: latn-hu-gap
     :type: DNOTE
     :date: '20240724'
-  :file: data/dnote-latn-ca-gap-20240724.yaml
+  :file: data/dnote-latn-hu-gap-20240724.yaml
 - :id:
     :code: WOFF2
     :stage: REC
     :date: '20240808'
   :file: data/rec-woff2-20240808.yaml
 - :id:
-    :code: tlreq
+    :code: latn-ca-gap
     :type: DNOTE
-    :date: '20240730'
-  :file: data/dnote-tlreq-20240730.yaml
+    :date: '20240724'
+  :file: data/dnote-latn-ca-gap-20240724.yaml
 - :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
 - :id:
-    :code: adlm-lreq
+    :code: tlreq
     :type: DNOTE
-    :date: '20240802'
-  :file: data/dnote-adlm-lreq-20240802.yaml
+    :date: '20240730'
+  :file: data/dnote-tlreq-20240730.yaml
 - :id:
     :code: geolocation
     :stage: REC
     :date: '20240809'
   :file: data/rec-geolocation-20240809.yaml
 - :id:
+    :code: adlm-lreq
+    :type: DNOTE
+    :date: '20240802'
+  :file: data/dnote-adlm-lreq-20240802.yaml
+- :id:
     :code: cher-lreq
     :type: DNOTE
     :date: '20240808'
   :file: data/dnote-cher-lreq-20240808.yaml
-- :id:
-    :code: osge-lreq
-    :type: DNOTE
-    :date: '20240808'
-  :file: data/dnote-osge-lreq-20240808.yaml
 - :id:
     :code: css-position-3
     :stage: WD
     :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
 - :id:
-    :code: gujr-lreq
+    :code: osge-lreq
     :type: DNOTE
     :date: '20240808'
-  :file: data/dnote-gujr-lreq-20240808.yaml
+  :file: data/dnote-osge-lreq-20240808.yaml
 - :id:
     :code: css-inline-3
     :stage: WD
     :date: '20240812'
   :file: data/wd-css-inline-3-20240812.yaml
+- :id:
+    :code: gujr-lreq
+    :type: DNOTE
+    :date: '20240808'
+  :file: data/dnote-gujr-lreq-20240808.yaml
 - :id:
     :code: privacy-principles
     :type: NOTE
@@ -31020,6 +31015,16 @@
     :type: DNOTE
     :date: '20241101'
   :file: data/dnote-typography-20241101.yaml
+- :id:
+    :code: resource-timing
+    :stage: CRD
+    :date: '20241104'
+  :file: data/crd-resource-timing-20241104.yaml
+- :id:
+    :code: navigation-timing-2
+    :stage: WD
+    :date: '20241104'
+  :file: data/wd-navigation-timing-2-20241104.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

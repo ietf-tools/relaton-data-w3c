@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cwebaudio-1.1
+title:
+- content: Web Audio API 1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/webaudio-1.1/
+  type: src
+type: standard
+docid:
+- id: W3C webaudio-1.1
+  type: W3C
+  primary: true
+docnumber: webaudio-1.1
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-webaudio-1.1-20241105
+    docid:
+    - id: W3C WD-webaudio-1.1-20241105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webaudio-1.1-20241105
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: webaudio-1.1
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

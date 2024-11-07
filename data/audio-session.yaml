@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Caudio-session
+title:
+- content: Audio Session
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/audio-session/
+  type: src
+type: standard
+docid:
+- id: W3C audio-session
+  type: W3C
+  primary: true
+docnumber: audio-session
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-audio-session-20241107
+    docid:
+    - id: W3C WD-audio-session-20241107
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-audio-session-20241107
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: audio-session
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

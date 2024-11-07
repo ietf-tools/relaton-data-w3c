@@ -30681,40 +30681,30 @@
     :date: '20240920'
   :file: data/dnote-grek-lreq-20240920.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20241007'
-  :file: data/wd-wasm-web-api-2-20241007.yaml
-- :id:
     :code: grek-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-grek-gap-20240920.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20241007'
-  :file: data/wd-wasm-js-api-2-20241007.yaml
-- :id:
-    :code: cyrl-lreq
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
     :code: media-capabilities
     :stage: WD
     :date: '20241007'
   :file: data/wd-media-capabilities-20241007.yaml
 - :id:
-    :code: hebr-gap
+    :code: cyrl-lreq
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-hebr-gap-20240920.yaml
+  :file: data/dnote-cyrl-lreq-20240920.yaml
 - :id:
     :code: webrtc
     :stage: REC
     :date: '20241008'
   :file: data/rec-webrtc-20241008.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-hebr-gap-20240920.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
@@ -30731,15 +30721,15 @@
     :date: '20240920'
   :file: data/dnote-deva-lreq-20240920.yaml
 - :id:
-    :code: deva-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-deva-gap-20240920.yaml
-- :id:
     :code: wcag2ict-22
     :type: NOTE
     :date: '20241008'
   :file: data/note-wcag2ict-22-20241008.yaml
+- :id:
+    :code: deva-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-deva-gap-20240920.yaml
 - :id:
     :code: presentation-api
     :stage: CRD
@@ -30780,11 +30770,6 @@
     :stage: CRD
     :date: '20241009'
   :file: data/crd-accelerometer-20241009.yaml
-- :id:
-    :code: appmanifest
-    :stage: WD
-    :date: '20241011'
-  :file: data/wd-appmanifest-20241011.yaml
 - :id:
     :code: webmidi
     :stage: WD
@@ -30846,20 +30831,15 @@
     :date: '20241017'
   :file: data/wd-dapt-20241017.yaml
 - :id:
-    :code: international-specs
-    :type: NOTE
-    :date: '20241017'
-  :file: data/note-international-specs-20241017.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20241018'
-  :file: data/wd-wgsl-20241018.yaml
-- :id:
     :code: input-events-2
     :stage: WD
     :date: '20241018'
   :file: data/wd-input-events-2-20241018.yaml
+- :id:
+    :code: international-specs
+    :type: NOTE
+    :date: '20241017'
+  :file: data/note-international-specs-20241017.yaml
 - :id:
     :code: w3c-vision
     :type: NOTE
@@ -30891,20 +30871,15 @@
     :date: '20241021'
   :file: data/crd-webxr-20241021.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20241022'
-  :file: data/note-vc-overview-20241022.yaml
-- :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20241023'
-  :file: data/wd-pointerevents3-20241023.yaml
-- :id:
     :code: compute-pressure
     :stage: WD
     :date: '20241024'
   :file: data/wd-compute-pressure-20241024.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20241022'
+  :file: data/note-vc-overview-20241022.yaml
 - :id:
     :code: battery-status
     :stage: WD
@@ -30991,11 +30966,6 @@
     :date: '20241101'
   :file: data/dnote-typography-20241101.yaml
 - :id:
-    :code: mathml4
-    :stage: WD
-    :date: '20241101'
-  :file: data/wd-mathml4-20241101.yaml
-- :id:
     :code: resource-timing
     :stage: CRD
     :date: '20241104'
@@ -31021,11 +30991,6 @@
     :date: '20241105'
   :file: data/wd-webaudio-1.1-20241105.yaml
 - :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20241105'
-  :file: data/wd-webgpu-20241105.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20241106'
@@ -31035,6 +31000,51 @@
     :stage: WD
     :date: '20241106'
   :file: data/wd-trusted-types-20241106.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20241106'
+  :file: data/wd-pointerevents3-20241106.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20241106'
+  :file: data/wd-wgsl-20241106.yaml
+- :id:
+    :code: mathml4
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-mathml4-20241107.yaml
+- :id:
+    :code: audio-session
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-audio-session-20241107.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-webgpu-20241107.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-wasm-web-api-2-20241107.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-wasm-js-api-2-20241107.yaml
+- :id:
+    :code: hr-time-3
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-hr-time-3-20241107.yaml
+- :id:
+    :code: appmanifest
+    :stage: WD
+    :date: '20241107'
+  :file: data/wd-appmanifest-20241107.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31164,3 +31174,6 @@
 - :id:
     :code: webaudio-1.1
   :file: data/webaudio-1.1.yaml
+- :id:
+    :code: audio-session
+  :file: data/audio-session.yaml

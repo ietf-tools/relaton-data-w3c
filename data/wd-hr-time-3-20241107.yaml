@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-js-api-2-20241007
+id: W3CWD-hr-time-3-20241107
 title:
-- content: WebAssembly JavaScript Interface
+- content: High Resolution Time
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20241007/
+- content: https://www.w3.org/TR/2024/WD-hr-time-3-20241107/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://w3c.github.io/hr-time/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-js-api-2-20241007
+- id: W3C WD-hr-time-3-20241107
   type: W3C
   primary: true
-docnumber: WD-wasm-js-api-2-20241007
+docnumber: WD-hr-time-3-20241107
 date:
 - type: published
-  value: '2024-10-07'
+  value: '2024-11-07'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-07'
+revdate: '2024-11-07'
 language:
 - en
 script:
@@ -40,21 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20241006
+    id: W3CWD-hr-time-3-20230719
     docid:
-    - id: W3C WD-wasm-js-api-2-20241006
+    - id: W3C WD-hr-time-3-20230719
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20241006
+      content: W3C WD-hr-time-3-20230719
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-js-api-2-20241007
+  number: WD-hr-time-3-20241107
 doctype: technicalReport
-editorialgroup:
-- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

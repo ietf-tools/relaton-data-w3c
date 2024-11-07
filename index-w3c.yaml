@@ -599,8 +599,8 @@
   :file: data/appmanifest.yaml
 - :code: appmanifest
   :stage: WD
-  :date: '20241011'
-  :file: data/wd-appmanifest-20241011.yaml
+  :date: '20241107'
+  :file: data/wd-appmanifest-20241107.yaml
 - :code: appmanifest
   :stage: WD
   :date: '20240606'
@@ -910,6 +910,12 @@
   :stage: WD
   :date: '20150210'
   :file: data/wd-audio-output-20150210.yaml
+- :code: audio-session
+  :file: data/audio-session.yaml
+- :code: audio-session
+  :stage: WD
+  :date: '20241107'
+  :file: data/wd-audio-session-20241107.yaml
 - :code: audiobooks
   :file: data/audiobooks.yaml
 - :code: audiobooks
@@ -7507,6 +7513,10 @@
   :file: data/note-hr-time-3-20170803.yaml
 - :code: hr-time-3
   :stage: WD
+  :date: '20241107'
+  :file: data/wd-hr-time-3-20241107.yaml
+- :code: hr-time-3
+  :stage: WD
   :date: '20230719'
   :file: data/wd-hr-time-3-20230719.yaml
 - :code: hr-time-3
@@ -9729,8 +9739,8 @@
   :file: data/mathml4.yaml
 - :code: mathml4
   :stage: WD
-  :date: '20241101'
-  :file: data/wd-mathml4-20241101.yaml
+  :date: '20241107'
+  :file: data/wd-mathml4-20241107.yaml
 - :code: mathml4
   :stage: WD
   :date: '20220908'
@@ -12223,8 +12233,8 @@
   :file: data/pointerevents3.yaml
 - :code: pointerevents3
   :stage: WD
-  :date: '20241023'
-  :file: data/wd-pointerevents3-20241023.yaml
+  :date: '20241106'
+  :file: data/wd-pointerevents3-20241106.yaml
 - :code: pointerevents3
   :stage: WD
   :date: '20240326'
@@ -18308,8 +18318,8 @@
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
   :stage: WD
-  :date: '20241007'
-  :file: data/wd-wasm-js-api-2-20241007.yaml
+  :date: '20241107'
+  :file: data/wd-wasm-js-api-2-20241107.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20240402'
@@ -18332,8 +18342,8 @@
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
   :stage: WD
-  :date: '20241007'
-  :file: data/wd-wasm-web-api-2-20241007.yaml
+  :date: '20241107'
+  :file: data/wd-wasm-web-api-2-20241107.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20240428'
@@ -19474,8 +19484,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20241105'
-  :file: data/wd-webgpu-20241105.yaml
+  :date: '20241107'
+  :file: data/wd-webgpu-20241107.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'
@@ -20281,8 +20291,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20241018'
-  :file: data/wd-wgsl-20241018.yaml
+  :date: '20241106'
+  :file: data/wd-wgsl-20241106.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'

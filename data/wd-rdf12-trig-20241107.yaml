@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20240911
+id: W3CWD-rdf12-trig-20241107
 title:
-- content: WebAssembly Core Specification
+- content: RDF 1.2 TriG
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20240911/
+- content: https://www.w3.org/TR/2024/WD-rdf12-trig-20241107/
   type: src
-- content: https://webassembly.github.io/spec/core/bikeshed/
+- content: https://w3c.github.io/rdf-trig/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20240911
+- id: W3C WD-rdf12-trig-20241107
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20240911
+docnumber: WD-rdf12-trig-20241107
 date:
 - type: published
-  value: '2024-09-11'
+  value: '2024-11-07'
 contributor:
 - person:
     name:
       completename:
-        content: Andreas Rossberg
+        content: Dominik Tomaszuk
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-11'
+- person:
+    name:
+      completename:
+        content: Gregg Kellogg
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-07'
 language:
 - en
 script:
@@ -40,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20240903
+    id: W3CWD-rdf12-trig-20241027
     docid:
-    - id: W3C WD-wasm-core-2-20240903
+    - id: W3C WD-rdf12-trig-20241027
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20240903
+      content: W3C WD-rdf12-trig-20241027
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20240911
+  number: WD-rdf12-trig-20241107
 doctype: technicalReport
-editorialgroup:
-- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

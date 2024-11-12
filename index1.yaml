@@ -30496,11 +30496,6 @@
     :date: '20240916'
   :file: data/rec-geolocation-20240916.yaml
 - :id:
-    :code: css-values-5
-    :stage: WD
-    :date: '20240917'
-  :file: data/wd-css-values-5-20240917.yaml
-- :id:
     :code: clreq-gap
     :type: DNOTE
     :date: '20240919'
@@ -31006,21 +31001,6 @@
     :date: '20241108'
   :file: data/wd-mathml4-20241108.yaml
 - :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20241108'
-  :file: data/wd-wasm-web-api-2-20241108.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20241108'
-  :file: data/wd-wasm-js-api-2-20241108.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20241108'
-  :file: data/wd-wasm-core-2-20241108.yaml
-- :id:
     :code: vc-overview
     :type: NOTE
     :date: '20241108'
@@ -31045,6 +31025,31 @@
     :stage: CRD
     :date: '20241111'
   :file: data/crd-secure-payment-confirmation-20241111.yaml
+- :id:
+    :code: css-values-5
+    :stage: WD
+    :date: '20241111'
+  :file: data/wd-css-values-5-20241111.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: WD
+    :date: '20241112'
+  :file: data/wd-wasm-web-api-2-20241112.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20241112'
+  :file: data/wd-wasm-js-api-2-20241112.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20241112'
+  :file: data/wd-wasm-core-2-20241112.yaml
+- :id:
+    :code: paint-timing
+    :stage: WD
+    :date: '20241112'
+  :file: data/wd-paint-timing-20241112.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31127,9 +31132,6 @@
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
-    :code: css-values-5
-  :file: data/css-values-5.yaml
-- :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml
 - :id:
@@ -31177,3 +31179,6 @@
 - :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
+- :id:
+    :code: css-values-5
+  :file: data/css-values-5.yaml

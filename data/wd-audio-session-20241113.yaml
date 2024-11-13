@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-audio-session-20241107
+id: W3CWD-audio-session-20241113
 title:
 - content: Audio Session
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-audio-session-20241107/
+- content: https://www.w3.org/TR/2024/WD-audio-session-20241113/
   type: src
 - content: https://w3c.github.io/audio-session/
   type: current
 type: standard
 docid:
-- id: W3C WD-audio-session-20241107
+- id: W3C WD-audio-session-20241113
   type: W3C
   primary: true
-docnumber: WD-audio-session-20241107
+docnumber: WD-audio-session-20241113
 date:
 - type: published
-  value: '2024-11-07'
+  value: '2024-11-13'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-07'
+revdate: '2024-11-13'
 language:
 - en
 script:
@@ -47,11 +47,22 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-audio-session-20241112
+    docid:
+    - id: W3C WD-audio-session-20241112
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-audio-session-20241112
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-audio-session-20241107
+  number: WD-audio-session-20241113
 doctype: technicalReport
 editorialgroup:
 - name: Media Working Group

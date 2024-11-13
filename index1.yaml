@@ -30941,11 +30941,6 @@
     :date: '20241106'
   :file: data/wd-pointerevents3-20241106.yaml
 - :id:
-    :code: audio-session
-    :stage: WD
-    :date: '20241107'
-  :file: data/wd-audio-session-20241107.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20241107'
@@ -31050,6 +31045,11 @@
     :stage: WD
     :date: '20241112'
   :file: data/wd-paint-timing-20241112.yaml
+- :id:
+    :code: audio-session
+    :stage: WD
+    :date: '20241113'
+  :file: data/wd-audio-session-20241113.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31174,11 +31174,11 @@
     :code: webaudio-1.1
   :file: data/webaudio-1.1.yaml
 - :id:
-    :code: audio-session
-  :file: data/audio-session.yaml
-- :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
 - :id:
     :code: css-values-5
   :file: data/css-values-5.yaml
+- :id:
+    :code: audio-session
+  :file: data/audio-session.yaml

@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-kore-lreq-20241115
+title:
+- content: Korean Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/DNOTE-kore-lreq-20241115/
+  type: src
+- content: https://w3c.github.io/klreq/kore/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-kore-lreq-20241115
+  type: W3C
+  primary: true
+docnumber: DNOTE-kore-lreq-20241115
+date:
+- type: published
+  value: '2024-11-15'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-15'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-kore-lreq-20241114
+    docid:
+    - id: W3C DNOTE-kore-lreq-20241114
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-kore-lreq-20241114
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-kore-lreq-20241115
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

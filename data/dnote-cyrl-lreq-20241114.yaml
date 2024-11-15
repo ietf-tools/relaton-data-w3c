@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-cyrl-lreq-20241114
+title:
+- content: Cyrillic Script Resources
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20241114/
+  type: src
+- content: https://w3c.github.io/eurlreq/cyrl/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-cyrl-lreq-20241114
+  type: W3C
+  primary: true
+docnumber: DNOTE-cyrl-lreq-20241114
+date:
+- type: published
+  value: '2024-11-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Richard Ishida
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-14'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-cyrl-lreq-20240920
+    docid:
+    - id: W3C DNOTE-cyrl-lreq-20240920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-cyrl-lreq-20240920
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-cyrl-lreq-20241114
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

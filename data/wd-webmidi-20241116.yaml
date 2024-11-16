@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-mathml4-20241114
+id: W3CWD-webmidi-20241116
 title:
-- content: Mathematical Markup Language (MathML) Version 4.0
+- content: Web MIDI API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-mathml4-20241114/
+- content: https://www.w3.org/TR/2024/WD-webmidi-20241116/
   type: src
-- content: https://w3c.github.io/mathml/
+- content: https://webaudio.github.io/web-midi-api/
   type: current
 type: standard
 docid:
-- id: W3C WD-mathml4-20241114
+- id: W3C WD-webmidi-20241116
   type: W3C
   primary: true
-docnumber: WD-mathml4-20241114
+docnumber: WD-webmidi-20241116
 date:
 - type: published
-  value: '2024-11-14'
+  value: '2024-11-16'
 contributor:
 - person:
     name:
       completename:
-        content: David Carlisle
+        content: Chris Wilson
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-14'
+- person:
+    name:
+      completename:
+        content: Michael Wilson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-16'
 language:
 - en
 script:
@@ -40,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-mathml4-20241108
+    id: W3CWD-webmidi-20241011
     docid:
-    - id: W3C WD-mathml4-20241108
+    - id: W3C WD-webmidi-20241011
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-mathml4-20241108
+      content: W3C WD-webmidi-20241011
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-mathml4-20241114
+  number: WD-webmidi-20241116
 doctype: technicalReport
 editorialgroup:
-- name: Math Working Group
+- name: Audio Working Group
 ext:
   schema-version: v1.0.0

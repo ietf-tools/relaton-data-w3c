@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-bitstring-status-list-20240610
+id: W3CCRD-vc-data-integrity-20241117
 title:
-- content: Bitstring Status List v1.0
+- content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-bitstring-status-list-20240610/
+- content: https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241117/
   type: src
-- content: https://w3c.github.io/vc-bitstring-status-list/
+- content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-bitstring-status-list-20240610
+- id: W3C CRD-vc-data-integrity-20241117
   type: W3C
   primary: true
-docnumber: CRD-vc-bitstring-status-list-20240610
+docnumber: CRD-vc-data-integrity-20241117
 date:
 - type: published
-  value: '2024-06-10'
+  value: '2024-11-17'
 contributor:
 - person:
     name:
@@ -32,7 +32,17 @@ contributor:
 - person:
     name:
       completename:
-        content: Mahmoud Alkhraishi
+        content: Dmitri Zagidulin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -52,14 +62,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Sebastian Crane
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-06-10'
+revdate: '2024-11-17'
 language:
 - en
 script:
@@ -70,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-bitstring-status-list-20240608
+    id: W3CCRD-vc-data-integrity-20241019
     docid:
-    - id: W3C CRD-vc-bitstring-status-list-20240608
+    - id: W3C CRD-vc-data-integrity-20241019
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-bitstring-status-list-20240608
+      content: W3C CRD-vc-data-integrity-20241019
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-bitstring-status-list-20240610
+  number: CRD-vc-data-integrity-20241117
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

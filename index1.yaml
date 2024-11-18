@@ -29881,11 +29881,6 @@
     :date: '20240829'
   :file: data/wd-css-easing-2-20240829.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20240610'
-  :file: data/crd-vc-bitstring-status-list-20240610.yaml
-- :id:
     :code: webxr-hit-test-1
     :stage: WD
     :date: '20240611'
@@ -30631,16 +30626,6 @@
     :date: '20241019'
   :file: data/crd-vc-data-model-2.0-20241019.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20241019'
-  :file: data/crd-vc-data-integrity-20241019.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20241019'
-  :file: data/crd-vc-di-ecdsa-20241019.yaml
-- :id:
     :code: vc-di-eddsa
     :stage: CRD
     :date: '20241019'
@@ -30735,11 +30720,6 @@
     :stage: WD
     :date: '20241105'
   :file: data/wd-webaudio-1.1-20241105.yaml
-- :id:
-    :code: trusted-types
-    :stage: WD
-    :date: '20241106'
-  :file: data/wd-trusted-types-20241106.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -30956,30 +30936,25 @@
     :date: '20241114'
   :file: data/dnote-geor-lreq-20241114.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-grek-lreq-20241114.yaml
-- :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20241115'
-  :file: data/wd-device-posture-20241115.yaml
-- :id:
     :code: mathml4
     :stage: WD
     :date: '20241115'
   :file: data/wd-mathml4-20241115.yaml
 - :id:
-    :code: latn-lreq
+    :code: grek-lreq
     :type: DNOTE
     :date: '20241114'
-  :file: data/dnote-latn-lreq-20241114.yaml
+  :file: data/dnote-grek-lreq-20241114.yaml
 - :id:
     :code: wcag2ict-22
     :type: NOTE
     :date: '20241115'
   :file: data/note-wcag2ict-22-20241115.yaml
+- :id:
+    :code: latn-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-latn-lreq-20241114.yaml
 - :id:
     :code: hebr-lreq
     :type: DNOTE
@@ -30991,30 +30966,35 @@
     :date: '20241114'
   :file: data/dnote-beng-lreq-20241114.yaml
 - :id:
-    :code: deva-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-deva-lreq-20241114.yaml
-- :id:
     :code: webnn
     :stage: CRD
     :date: '20241115'
   :file: data/crd-webnn-20241115.yaml
+- :id:
+    :code: deva-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-deva-lreq-20241114.yaml
 - :id:
     :code: gujr-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-gujr-lreq-20241114.yaml
 - :id:
+    :code: webmidi
+    :stage: WD
+    :date: '20241116'
+  :file: data/wd-webmidi-20241116.yaml
+- :id:
     :code: guru-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-guru-lreq-20241114.yaml
 - :id:
-    :code: webmidi
-    :stage: WD
-    :date: '20241116'
-  :file: data/wd-webmidi-20241116.yaml
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20241117'
+  :file: data/crd-vc-data-integrity-20241117.yaml
 - :id:
     :code: taml-lreq
     :type: DNOTE
@@ -31041,6 +31021,11 @@
     :date: '20241114'
   :file: data/dnote-thai-lreq-20241114.yaml
 - :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20241117'
+  :file: data/crd-vc-di-ecdsa-20241117.yaml
+- :id:
     :code: tibt-lreq
     :type: DNOTE
     :date: '20241114'
@@ -31061,6 +31046,11 @@
     :date: '20241115'
   :file: data/dnote-jpan-lreq-20241115.yaml
 - :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20241118'
+  :file: data/crd-vc-bitstring-status-list-20241118.yaml
+- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20241115'
@@ -31070,6 +31060,16 @@
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-kore-lreq-20241115.yaml
+- :id:
+    :code: trusted-types
+    :stage: WD
+    :date: '20241118'
+  :file: data/wd-trusted-types-20241118.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20241118'
+  :file: data/wd-device-posture-20241118.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

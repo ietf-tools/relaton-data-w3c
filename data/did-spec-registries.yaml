@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cdid-spec-registries
 title:
-- content: Decentralized Identifier Extensions
+- content: DID Specification Registries
   format: text/plain
 link:
 - content: https://www.w3.org/TR/did-spec-registries/
@@ -18,16 +18,6 @@ language:
 script:
 - Latn
 relation:
-- type: instance
-  bibitem:
-    id: W3CNOTE-did-spec-registries-20240831
-    docid:
-    - id: W3C NOTE-did-spec-registries-20240831
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-did-spec-registries-20240831
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CNOTE-did-spec-registries-20201221
@@ -48,7 +38,7 @@ relation:
     formattedref:
       content: W3C NOTE-did-spec-registries-20230514
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
     id: W3CNOTE-did-spec-registries-20240516
     docid:

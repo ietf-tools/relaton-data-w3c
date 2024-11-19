@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cdid-extensions-properties
+title:
+- content: DID Document Property Extensions
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/did-extensions-properties/
+  type: src
+type: standard
+docid:
+- id: W3C did-extensions-properties
+  type: W3C
+  primary: true
+docnumber: did-extensions-properties
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-did-extensions-properties-20241119
+    docid:
+    - id: W3C NOTE-did-extensions-properties-20241119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-did-extensions-properties-20241119
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: did-extensions-properties
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

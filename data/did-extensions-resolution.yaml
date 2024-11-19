@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cdid-extensions-resolution
+title:
+- content: DID Resolution Extensions
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/did-extensions-resolution/
+  type: src
+type: standard
+docid:
+- id: W3C did-extensions-resolution
+  type: W3C
+  primary: true
+docnumber: did-extensions-resolution
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-did-extensions-resolution-20241119
+    docid:
+    - id: W3C NOTE-did-extensions-resolution-20241119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-did-extensions-resolution-20241119
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: did-extensions-resolution
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

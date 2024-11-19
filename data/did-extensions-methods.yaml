@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Cdid-extensions-methods
+title:
+- content: DID Methods
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/did-extensions-methods/
+  type: src
+type: standard
+docid:
+- id: W3C did-extensions-methods
+  type: W3C
+  primary: true
+docnumber: did-extensions-methods
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-did-extensions-methods-20241119
+    docid:
+    - id: W3C NOTE-did-extensions-methods-20241119
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-did-extensions-methods-20241119
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: did-extensions-methods
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

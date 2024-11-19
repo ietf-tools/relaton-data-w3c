@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-spec-registries-20240831
+id: W3CNOTE-did-extensions-20241119
 title:
 - content: Decentralized Identifier Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240831/
+- content: https://www.w3.org/TR/2024/NOTE-did-extensions-20241119/
   type: src
 - content: https://w3c.github.io/did-extensions/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-spec-registries-20240831
+- id: W3C NOTE-did-extensions-20241119
   type: W3C
   primary: true
-docnumber: NOTE-did-spec-registries-20240831
+docnumber: NOTE-did-extensions-20241119
 date:
 - type: published
-  value: '2024-08-31'
+  value: '2024-11-19'
 contributor:
 - person:
     name:
@@ -29,7 +29,17 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-08-31'
+- person:
+    name:
+      completename:
+        content: Markus Sabadello
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-19'
 language:
 - en
 script:
@@ -37,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-did-spec-registries-20240830
+    id: W3CNOTE-did-spec-registries-20240831
     docid:
-    - id: W3C NOTE-did-spec-registries-20240830
+    - id: W3C NOTE-did-spec-registries-20240831
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20240830
+      content: W3C NOTE-did-spec-registries-20240831
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-did-spec-registries-20240831
+  number: NOTE-did-extensions-20241119
 doctype: groupNote
 ext:
   schema-version: v1.0.0

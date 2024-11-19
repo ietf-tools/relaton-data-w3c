@@ -5176,6 +5176,30 @@
   :stage: WD
   :date: '20191209'
   :file: data/wd-did-core-20191209.yaml
+- :code: did-extensions
+  :file: data/did-extensions.yaml
+- :code: did-extensions
+  :type: NOTE
+  :date: '20241119'
+  :file: data/note-did-extensions-20241119.yaml
+- :code: did-extensions-methods
+  :file: data/did-extensions-methods.yaml
+- :code: did-extensions-methods
+  :type: NOTE
+  :date: '20241119'
+  :file: data/note-did-extensions-methods-20241119.yaml
+- :code: did-extensions-properties
+  :file: data/did-extensions-properties.yaml
+- :code: did-extensions-properties
+  :type: NOTE
+  :date: '20241119'
+  :file: data/note-did-extensions-properties-20241119.yaml
+- :code: did-extensions-resolution
+  :file: data/did-extensions-resolution.yaml
+- :code: did-extensions-resolution
+  :type: NOTE
+  :date: '20241119'
+  :file: data/note-did-extensions-resolution-20241119.yaml
 - :code: did-imp-guide
   :file: data/did-imp-guide.yaml
 - :code: did-imp-guide
@@ -5190,10 +5214,6 @@
   :file: data/note-did-rubric-20211119.yaml
 - :code: did-spec-registries
   :file: data/did-spec-registries.yaml
-- :code: did-spec-registries
-  :type: NOTE
-  :date: '20240831'
-  :file: data/note-did-spec-registries-20240831.yaml
 - :code: did-spec-registries
   :type: NOTE
   :date: '20240516'
@@ -9747,8 +9767,8 @@
   :file: data/mathml4.yaml
 - :code: mathml4
   :stage: WD
-  :date: '20241115'
-  :file: data/wd-mathml4-20241115.yaml
+  :date: '20241119'
+  :file: data/wd-mathml4-20241119.yaml
 - :code: mathml4
   :stage: WD
   :date: '20220908'
@@ -14669,8 +14689,8 @@
   :file: data/cr-secure-payment-confirmation-20230615.yaml
 - :code: secure-payment-confirmation
   :stage: CRD
-  :date: '20241111'
-  :file: data/crd-secure-payment-confirmation-20241111.yaml
+  :date: '20241118'
+  :file: data/crd-secure-payment-confirmation-20241118.yaml
 - :code: secure-payment-confirmation
   :stage: CRD
   :date: '20231213'
@@ -19504,8 +19524,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20241107'
-  :file: data/wd-webgpu-20241107.yaml
+  :date: '20241118'
+  :file: data/wd-webgpu-20241118.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'

@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: recommendation
+    value: candidateRecommendation
 relation:
-- type: instance
-  bibitem:
-    id: W3CREC-webaudio-20210617
-    docid:
-    - id: W3C REC-webaudio-20210617
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C REC-webaudio-20210617
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CCR-webaudio-20200611
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-webaudio-20200611
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CREC-webaudio-20210617
+    docid:
+    - id: W3C REC-webaudio-20210617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C REC-webaudio-20210617
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,7 +93,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C REC
+    content: W3C CR
     format: text/plain
   number: webaudio
 doctype: technicalReport

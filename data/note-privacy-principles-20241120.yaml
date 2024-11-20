@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-pointerevents3-20241106
+id: W3CNOTE-privacy-principles-20241120
 title:
-- content: Pointer Events
+- content: Privacy Principles
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-pointerevents3-20241106/
+- content: https://www.w3.org/TR/2024/NOTE-privacy-principles-20241120/
   type: src
-- content: https://w3c.github.io/pointerevents/
+- content: https://w3ctag.github.io/privacy-principles/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents3-20241106
+- id: W3C NOTE-privacy-principles-20241120
   type: W3C
   primary: true
-docnumber: WD-pointerevents3-20241106
+docnumber: NOTE-privacy-principles-20241120
 date:
 - type: published
-  value: '2024-11-06'
+  value: '2024-11-20'
 contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Jeffrey Yasskin
         language:
         - en
         script:
@@ -32,39 +32,36 @@ contributor:
 - person:
     name:
       completename:
-        content: Robert Flack
+        content: Robin Berjon
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-06'
+revdate: '2024-11-20'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents3-20241023
+    id: W3CNOTE-privacy-principles-20240813
     docid:
-    - id: W3C WD-pointerevents3-20241023
+    - id: W3C NOTE-privacy-principles-20240813
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents3-20241023
+      content: W3C NOTE-privacy-principles-20240813
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-pointerevents3-20241106
-doctype: technicalReport
+  number: NOTE-privacy-principles-20241120
+doctype: groupNote
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Technical Architecture Group
 ext:
   schema-version: v1.0.0

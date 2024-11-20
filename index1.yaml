@@ -30206,11 +30206,6 @@
     :date: '20240812'
   :file: data/wd-css-inline-3-20240812.yaml
 - :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-privacy-principles-20240813.yaml
-- :id:
     :code: ethical-web-principles
     :type: NOTE
     :date: '20240813'
@@ -30241,25 +30236,25 @@
     :date: '20240815'
   :file: data/crd-css-conditional-3-20240815.yaml
 - :id:
-    :code: predefined-counter-styles
-    :type: NOTE
-    :date: '20240815'
-  :file: data/note-predefined-counter-styles-20240815.yaml
-- :id:
-    :code: java-gap
-    :type: DNOTE
-    :date: '20240816'
-  :file: data/dnote-java-gap-20240816.yaml
-- :id:
     :code: webrtc-svc
     :stage: WD
     :date: '20240817'
   :file: data/wd-webrtc-svc-20240817.yaml
 - :id:
+    :code: predefined-counter-styles
+    :type: NOTE
+    :date: '20240815'
+  :file: data/note-predefined-counter-styles-20240815.yaml
+- :id:
     :code: event-timing
     :stage: WD
     :date: '20240819'
   :file: data/wd-event-timing-20240819.yaml
+- :id:
+    :code: java-gap
+    :type: DNOTE
+    :date: '20240816'
+  :file: data/dnote-java-gap-20240816.yaml
 - :id:
     :code: fedcm-1
     :stage: WD
@@ -30631,11 +30626,6 @@
     :date: '20241021'
   :file: data/crd-webxr-20241021.yaml
 - :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20241024'
-  :file: data/wd-compute-pressure-20241024.yaml
-- :id:
     :code: battery-status
     :stage: WD
     :date: '20241024'
@@ -30665,11 +30655,6 @@
     :stage: WD
     :date: '20241028'
   :file: data/wd-controller-document-20241028.yaml
-- :id:
-    :code: selection-api
-    :stage: WD
-    :date: '20241030'
-  :file: data/wd-selection-api-20241030.yaml
 - :id:
     :code: user-timing
     :stage: CRD
@@ -30716,11 +30701,6 @@
     :date: '20241105'
   :file: data/wd-webaudio-1.1-20241105.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20241106'
-  :file: data/wd-pointerevents3-20241106.yaml
-- :id:
     :code: hr-time-3
     :stage: WD
     :date: '20241107'
@@ -30765,11 +30745,6 @@
     :type: NOTE
     :date: '20241108'
   :file: data/note-vc-overview-20241108.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20241108'
-  :file: data/wd-wgsl-20241108.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -30861,30 +30836,30 @@
     :date: '20241114'
   :file: data/wd-dapt-20241114.yaml
 - :id:
-    :code: miniapp-manifest
-    :stage: WD
-    :date: '20241114'
-  :file: data/wd-miniapp-manifest-20241114.yaml
-- :id:
     :code: adlm-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-adlm-lreq-20241114.yaml
+- :id:
+    :code: miniapp-manifest
+    :stage: WD
+    :date: '20241114'
+  :file: data/wd-miniapp-manifest-20241114.yaml
 - :id:
     :code: nkoo-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-nkoo-lreq-20241114.yaml
 - :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20241114'
-  :file: data/crd-core-aam-1.2-20241114.yaml
-- :id:
     :code: arab-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-arab-lreq-20241114.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20241114'
+  :file: data/crd-core-aam-1.2-20241114.yaml
 - :id:
     :code: cher-lreq
     :type: DNOTE
@@ -30896,20 +30871,15 @@
     :date: '20241114'
   :file: data/dnote-osge-lreq-20241114.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20241114'
-  :file: data/wd-rdf12-concepts-20241114.yaml
-- :id:
     :code: cans-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-cans-lreq-20241114.yaml
 - :id:
-    :code: wcag2ict-22
-    :type: NOTE
-    :date: '20241115'
-  :file: data/note-wcag2ict-22-20241115.yaml
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20241114'
+  :file: data/wd-rdf12-concepts-20241114.yaml
 - :id:
     :code: ethi-lreq
     :type: DNOTE
@@ -30921,15 +30891,15 @@
     :date: '20241114'
   :file: data/dnote-cyrl-lreq-20241114.yaml
 - :id:
+    :code: wcag2ict-22
+    :type: NOTE
+    :date: '20241115'
+  :file: data/note-wcag2ict-22-20241115.yaml
+- :id:
     :code: geor-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-geor-lreq-20241114.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20241115'
-  :file: data/crd-webnn-20241115.yaml
 - :id:
     :code: grek-lreq
     :type: DNOTE
@@ -31036,25 +31006,20 @@
     :date: '20241118'
   :file: data/wd-trusted-types-20241118.yaml
 - :id:
+    :code: secure-payment-confirmation
+    :stage: CRD
+    :date: '20241118'
+  :file: data/crd-secure-payment-confirmation-20241118.yaml
+- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-mong-lreq-20241115.yaml
 - :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20241118'
-  :file: data/wd-device-posture-20241118.yaml
-- :id:
     :code: kore-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-kore-lreq-20241115.yaml
-- :id:
-    :code: secure-payment-confirmation
-    :stage: CRD
-    :date: '20241118'
-  :file: data/crd-secure-payment-confirmation-20241118.yaml
 - :id:
     :code: webgpu
     :stage: WD
@@ -31086,6 +31051,46 @@
     :date: '20241119'
   :file: data/wd-mathml4-20241119.yaml
 - :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20241119'
+  :file: data/wd-pointerevents3-20241119.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20241119'
+  :file: data/crd-webnn-20241119.yaml
+- :id:
+    :code: edit-context
+    :stage: WD
+    :date: '20241119'
+  :file: data/wd-edit-context-20241119.yaml
+- :id:
+    :code: selection-api
+    :stage: WD
+    :date: '20241120'
+  :file: data/wd-selection-api-20241120.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20241120'
+  :file: data/wd-compute-pressure-20241120.yaml
+- :id:
+    :code: privacy-principles
+    :type: NOTE
+    :date: '20241120'
+  :file: data/note-privacy-principles-20241120.yaml
+- :id:
+    :code: device-posture
+    :stage: WD
+    :date: '20241120'
+  :file: data/wd-device-posture-20241120.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20241120'
+  :file: data/wd-wgsl-20241120.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31106,6 +31111,9 @@
 - :id:
     :code: encrypted-media-1
   :file: data/encrypted-media-1.yaml
+- :id:
+    :code: webaudio-1.0
+  :file: data/webaudio-1.0.yaml
 - :id:
     :code: act-rules-format-1.1
   :file: data/act-rules-format-1.1.yaml

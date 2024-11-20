@@ -1684,8 +1684,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20241024'
-  :file: data/wd-compute-pressure-20241024.yaml
+  :date: '20241120'
+  :file: data/wd-compute-pressure-20241120.yaml
 - :code: compute-pressure
   :stage: WD
   :date: '20240607'
@@ -5040,8 +5040,8 @@
   :file: data/device-posture.yaml
 - :code: device-posture
   :stage: WD
-  :date: '20241118'
-  :file: data/wd-device-posture-20241118.yaml
+  :date: '20241120'
+  :file: data/wd-device-posture-20241120.yaml
 - :code: device-posture
   :stage: WD
   :date: '20240605'
@@ -5906,6 +5906,10 @@
   :file: data/dnote-edge-cloud-reqs-20230926.yaml
 - :code: edit-context
   :file: data/edit-context.yaml
+- :code: edit-context
+  :stage: WD
+  :date: '20241119'
+  :file: data/wd-edit-context-20241119.yaml
 - :code: edit-context
   :stage: WD
   :date: '20211221'
@@ -12269,8 +12273,8 @@
   :file: data/pointerevents3.yaml
 - :code: pointerevents3
   :stage: WD
-  :date: '20241106'
-  :file: data/wd-pointerevents3-20241106.yaml
+  :date: '20241119'
+  :file: data/wd-pointerevents3-20241119.yaml
 - :code: pointerevents3
   :stage: WD
   :date: '20240326'
@@ -12585,8 +12589,8 @@
   :file: data/privacy-principles.yaml
 - :code: privacy-principles
   :type: NOTE
-  :date: '20240813'
-  :file: data/note-privacy-principles-20240813.yaml
+  :date: '20241120'
+  :file: data/note-privacy-principles-20241120.yaml
 - :code: privacy-principles
   :type: DNOTE
   :date: '20240511'
@@ -14737,8 +14741,8 @@
   :file: data/selection-api.yaml
 - :code: selection-api
   :stage: WD
-  :date: '20241030'
-  :file: data/wd-selection-api-20241030.yaml
+  :date: '20241120'
+  :file: data/wd-selection-api-20241120.yaml
 - :code: selection-api
   :stage: WD
   :date: '20230516'
@@ -18854,6 +18858,8 @@
   :stage: WD
   :date: '20111215'
   :file: data/wd-webaudio-20111215.yaml
+- :code: webaudio-1.0
+  :file: data/webaudio-1.0.yaml
 - :code: webaudio-1.1
   :file: data/webaudio-1.1.yaml
 - :code: webaudio-1.1
@@ -19694,8 +19700,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20241115'
-  :file: data/crd-webnn-20241115.yaml
+  :date: '20241119'
+  :file: data/crd-webnn-20241119.yaml
 - :code: webnn
   :stage: CRD
   :date: '20240608'
@@ -20331,8 +20337,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20241108'
-  :file: data/wd-wgsl-20241108.yaml
+  :date: '20241120'
+  :file: data/wd-wgsl-20241120.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'

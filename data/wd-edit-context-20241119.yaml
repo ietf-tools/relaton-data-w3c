@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20241108
+id: W3CWD-edit-context-20241119
 title:
-- content: WebGPU Shading Language
+- content: EditContext API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20241108/
+- content: https://www.w3.org/TR/2024/WD-edit-context-20241119/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://w3c.github.io/edit-context/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20241108
+- id: W3C WD-edit-context-20241119
   type: W3C
   primary: true
-docnumber: WD-WGSL-20241108
+docnumber: WD-edit-context-20241119
 date:
 - type: published
-  value: '2024-11-08'
+  value: '2024-11-19'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Anupam Snigdha
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Daniel Clark
         language:
         - en
         script:
@@ -42,14 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: alex keng
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-08'
+revdate: '2024-11-19'
 language:
 - en
 script:
@@ -60,19 +60,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20241107
+    id: W3CWD-edit-context-20211221
     docid:
-    - id: W3C WD-WGSL-20241107
+    - id: W3C WD-edit-context-20211221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20241107
+      content: W3C WD-edit-context-20211221
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20241108
+  number: WD-edit-context-20241119
 doctype: technicalReport
+editorialgroup:
+- name: Web Editing Working Group
 ext:
   schema-version: v1.0.0

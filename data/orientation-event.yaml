@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-orientation-event-20241024
+    id: W3CCR-orientation-event-20241121
     docid:
-    - id: W3C WD-orientation-event-20241024
+    - id: W3C CR-orientation-event-20241121
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20241024
+      content: W3C CR-orientation-event-20241121
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,7 +103,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: orientation-event
 doctype: technicalReport

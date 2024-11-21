@@ -1828,12 +1828,12 @@
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
   :stage: CR
+  :date: '20241121'
+  :file: data/cr-core-aam-1.2-20241121.yaml
+- :code: core-aam-1.2
+  :stage: CR
   :date: '20221122'
   :file: data/cr-core-aam-1.2-20221122.yaml
-- :code: core-aam-1.2
-  :stage: CRD
-  :date: '20241114'
-  :file: data/crd-core-aam-1.2-20241114.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -7192,6 +7192,12 @@
   :stage: WD
   :date: '20090908'
   :file: data/wd-gov-data-20090908.yaml
+- :code: gpc
+  :file: data/gpc.yaml
+- :code: gpc
+  :stage: WD
+  :date: '20241121'
+  :file: data/wd-gpc-20241121.yaml
 - :code: graphics-aam-1.0
   :file: data/graphics-aam-1.0.yaml
 - :code: graphics-aam-1.0
@@ -7589,8 +7595,8 @@
   :file: data/html-aam-1.0.yaml
 - :code: html-aam-1.0
   :stage: WD
-  :date: '20241111'
-  :file: data/wd-html-aam-1.0-20241111.yaml
+  :date: '20241121'
+  :file: data/wd-html-aam-1.0-20241121.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20240418'
@@ -11231,12 +11237,12 @@
   :file: data/note-orientation-event-20170530.yaml
 - :code: orientation-event
   :stage: CR
+  :date: '20241121'
+  :file: data/cr-orientation-event-20241121.yaml
+- :code: orientation-event
+  :stage: CR
   :date: '20160818'
   :file: data/cr-orientation-event-20160818.yaml
-- :code: orientation-event
-  :stage: WD
-  :date: '20241024'
-  :file: data/wd-orientation-event-20241024.yaml
 - :code: orientation-event
   :stage: WD
   :date: '20240514'
@@ -16688,8 +16694,8 @@
   :file: data/trusted-types.yaml
 - :code: trusted-types
   :stage: WD
-  :date: '20241118'
-  :file: data/wd-trusted-types-20241118.yaml
+  :date: '20241121'
+  :file: data/wd-trusted-types-20241121.yaml
 - :code: trusted-types
   :stage: WD
   :date: '20240531'
@@ -19474,6 +19480,12 @@
   :stage: WD
   :date: '20120710'
   :file: data/wd-webdriver-20120710.yaml
+- :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml
+- :code: webdriver-bidi
+  :stage: WD
+  :date: '20241121'
+  :file: data/wd-webdriver-bidi-20241121.yaml
 - :code: webdriver1
   :file: data/webdriver1.yaml
 - :code: webdriver1
@@ -19530,8 +19542,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20241118'
-  :file: data/wd-webgpu-20241118.yaml
+  :date: '20241120'
+  :file: data/wd-webgpu-20241120.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'
@@ -20337,8 +20349,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20241120'
-  :file: data/wd-wgsl-20241120.yaml
+  :date: '20241121'
+  :file: data/wd-wgsl-20241121.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cwebdriver-bidi
+title:
+- content: WebDriver BiDi
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/webdriver-bidi/
+  type: src
+type: standard
+docid:
+- id: W3C webdriver-bidi
+  type: W3C
+  primary: true
+docnumber: webdriver-bidi
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-webdriver-bidi-20241121
+    docid:
+    - id: W3C WD-webdriver-bidi-20241121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-bidi-20241121
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: webdriver-bidi
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

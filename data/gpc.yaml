@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cgpc
+title:
+- content: Global Privacy Control (GPC)
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/gpc/
+  type: src
+type: standard
+docid:
+- id: W3C gpc
+  type: W3C
+  primary: true
+docnumber: gpc
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-gpc-20241121
+    docid:
+    - id: W3C WD-gpc-20241121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-gpc-20241121
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: gpc
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

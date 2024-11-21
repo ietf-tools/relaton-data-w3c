@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-html-aam-1.0-20241111
+id: W3CWD-trusted-types-20241121
 title:
-- content: HTML Accessibility API Mappings 1.0
+- content: Trusted Types
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-html-aam-1.0-20241111/
+- content: https://www.w3.org/TR/2024/WD-trusted-types-20241121/
   type: src
-- content: https://w3c.github.io/html-aam/
+- content: https://w3c.github.io/trusted-types/dist/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-html-aam-1.0-20241111
+- id: W3C WD-trusted-types-20241121
   type: W3C
   primary: true
-docnumber: WD-html-aam-1.0-20241111
+docnumber: WD-trusted-types-20241121
 date:
 - type: published
-  value: '2024-11-11'
+  value: '2024-11-21'
 contributor:
 - person:
     name:
       completename:
-        content: Scott O'Hara
+        content: Krzysztof Kotowicz
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-11'
+revdate: '2024-11-21'
 language:
 - en
 script:
@@ -40,21 +40,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-html-aam-1.0-20240819
+    id: W3CWD-trusted-types-20241118
     docid:
-    - id: W3C WD-html-aam-1.0-20240819
+    - id: W3C WD-trusted-types-20241118
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-html-aam-1.0-20240819
+      content: W3C WD-trusted-types-20241118
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-html-aam-1.0-20241111
+  number: WD-trusted-types-20241121
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

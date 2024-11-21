@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20241120
+id: W3CWD-webgpu-20241120
 title:
-- content: WebGPU Shading Language
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20241120/
+- content: https://www.w3.org/TR/2024/WD-webgpu-20241120/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20241120
+- id: W3C WD-webgpu-20241120
   type: W3C
   primary: true
-docnumber: WD-WGSL-20241120
+docnumber: WD-webgpu-20241120
 date:
 - type: published
   value: '2024-11-20'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mehmet Oguz Derin
+        content: Kai Ninomiya
         language:
         - en
         script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20241119
+    id: W3CWD-webgpu-20241118
     docid:
-    - id: W3C WD-WGSL-20241119
+    - id: W3C WD-webgpu-20241118
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20241119
+      content: W3C WD-webgpu-20241118
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20241120
+  number: WD-webgpu-20241120
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

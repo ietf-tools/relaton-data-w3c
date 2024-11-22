@@ -1684,8 +1684,8 @@
   :file: data/compute-pressure.yaml
 - :code: compute-pressure
   :stage: WD
-  :date: '20241120'
-  :file: data/wd-compute-pressure-20241120.yaml
+  :date: '20241122'
+  :file: data/wd-compute-pressure-20241122.yaml
 - :code: compute-pressure
   :stage: WD
   :date: '20240607'
@@ -1828,12 +1828,12 @@
   :file: data/core-aam-1.2.yaml
 - :code: core-aam-1.2
   :stage: CR
-  :date: '20241121'
-  :file: data/cr-core-aam-1.2-20241121.yaml
-- :code: core-aam-1.2
-  :stage: CR
   :date: '20221122'
   :file: data/cr-core-aam-1.2-20221122.yaml
+- :code: core-aam-1.2
+  :stage: CRD
+  :date: '20241122'
+  :file: data/crd-core-aam-1.2-20241122.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -4811,8 +4811,8 @@
   :file: data/dapt.yaml
 - :code: dapt
   :stage: WD
-  :date: '20241114'
-  :file: data/wd-dapt-20241114.yaml
+  :date: '20241121'
+  :file: data/wd-dapt-20241121.yaml
 - :code: dapt
   :stage: WD
   :date: '20240412'
@@ -13521,8 +13521,8 @@
   :file: data/rdf12-concepts.yaml
 - :code: rdf12-concepts
   :stage: WD
-  :date: '20241114'
-  :file: data/wd-rdf12-concepts-20241114.yaml
+  :date: '20241121'
+  :file: data/wd-rdf12-concepts-20241121.yaml
 - :code: rdf12-concepts
   :stage: WD
   :date: '20240502'

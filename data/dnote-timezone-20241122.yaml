@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CDNOTE-timezone-20241122
+title:
+- content: Working with Time and Timezones
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/DNOTE-timezone-20241122/
+  type: src
+- content: https://w3c.github.io/timezone/
+  type: current
+type: standard
+docid:
+- id: W3C DNOTE-timezone-20241122
+  type: W3C
+  primary: true
+docnumber: DNOTE-timezone-20241122
+date:
+- type: published
+  value: '2024-11-22'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-22'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-timezone-20110705
+    docid:
+    - id: W3C NOTE-timezone-20110705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-timezone-20110705
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: DNOTE-timezone-20241122
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

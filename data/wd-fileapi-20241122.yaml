@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-FileAPI-20241024
+id: W3CWD-FileAPI-20241122
 title:
 - content: File API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-FileAPI-20241024/
+- content: https://www.w3.org/TR/2024/WD-FileAPI-20241122/
   type: src
 - content: https://w3c.github.io/FileAPI/
   type: current
 type: standard
 docid:
-- id: W3C WD-FileAPI-20241024
+- id: W3C WD-FileAPI-20241122
   type: W3C
   primary: true
-docnumber: WD-FileAPI-20241024
+docnumber: WD-FileAPI-20241122
 date:
 - type: published
-  value: '2024-10-24'
+  value: '2024-11-22'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-24'
+revdate: '2024-11-22'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-FileAPI-20240524
+    id: W3CWD-FileAPI-20241024
     docid:
-    - id: W3C WD-FileAPI-20240524
+    - id: W3C WD-FileAPI-20241024
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-FileAPI-20240524
+      content: W3C WD-FileAPI-20241024
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-FileAPI-20241024
+  number: WD-FileAPI-20241122
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

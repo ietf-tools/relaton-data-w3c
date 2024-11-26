@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-device-posture-20241120
+    id: W3CCR-device-posture-20241126
     docid:
-    - id: W3C WD-device-posture-20241120
+    - id: W3C CR-device-posture-20241126
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20241120
+      content: W3C CR-device-posture-20241126
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,7 +83,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: device-posture
 doctype: technicalReport

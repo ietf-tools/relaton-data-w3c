@@ -19,17 +19,17 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: proposedRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CCR-uievents-key-20230530
+    id: W3CPR-uievents-key-20241126
     docid:
-    - id: W3C CR-uievents-key-20230530
+    - id: W3C PR-uievents-key-20241126
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-uievents-key-20230530
+      content: W3C PR-uievents-key-20241126
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-uievents-key-20170601
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-uievents-key-20230530
+    docid:
+    - id: W3C CR-uievents-key-20230530
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-uievents-key-20230530
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,7 +73,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C PR
     format: text/plain
   number: uievents-key
 doctype: technicalReport

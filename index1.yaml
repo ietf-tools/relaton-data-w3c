@@ -31026,11 +31026,6 @@
     :date: '20241120'
   :file: data/note-privacy-principles-20241120.yaml
 - :id:
-    :code: device-posture
-    :stage: WD
-    :date: '20241120'
-  :file: data/wd-device-posture-20241120.yaml
-- :id:
     :code: orientation-event
     :stage: CR
     :date: '20241121'
@@ -31105,6 +31100,21 @@
     :stage: WD
     :date: '20241122'
   :file: data/wd-webgpu-20241122.yaml
+- :id:
+    :code: device-posture
+    :stage: CR
+    :date: '20241126'
+  :file: data/cr-device-posture-20241126.yaml
+- :id:
+    :code: uievents-code
+    :stage: PR
+    :date: '20241126'
+  :file: data/pr-uievents-code-20241126.yaml
+- :id:
+    :code: uievents-key
+    :stage: PR
+    :date: '20241126'
+  :file: data/pr-uievents-key-20241126.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20241120
+id: W3CCR-device-posture-20241126
 title:
 - content: Device Posture API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20241120/
+- content: https://www.w3.org/TR/2024/CR-device-posture-20241126/
   type: src
 - content: https://w3c.github.io/device-posture/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20241120
+- id: W3C CR-device-posture-20241126
   type: W3C
   primary: true
-docnumber: WD-device-posture-20241120
+docnumber: CR-device-posture-20241126
 date:
 - type: published
-  value: '2024-11-20'
+  value: '2024-11-26'
 contributor:
 - person:
     name:
@@ -49,30 +49,30 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-20'
+revdate: '2024-11-26'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20241118
+    id: W3CWD-device-posture-20241120
     docid:
-    - id: W3C WD-device-posture-20241118
+    - id: W3C WD-device-posture-20241120
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20241118
+      content: W3C WD-device-posture-20241120
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-device-posture-20241120
+  number: CR-device-posture-20241126
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

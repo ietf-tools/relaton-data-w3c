@@ -5039,9 +5039,9 @@
 - :code: device-posture
   :file: data/device-posture.yaml
 - :code: device-posture
-  :stage: WD
-  :date: '20241120'
-  :file: data/wd-device-posture-20241120.yaml
+  :stage: CR
+  :date: '20241126'
+  :file: data/cr-device-posture-20241126.yaml
 - :code: device-posture
   :stage: WD
   :date: '20240605'
@@ -17074,6 +17074,10 @@
 - :code: uievents-code
   :file: data/uievents-code.yaml
 - :code: uievents-code
+  :stage: PR
+  :date: '20241126'
+  :file: data/pr-uievents-code-20241126.yaml
+- :code: uievents-code
   :stage: CR
   :date: '20230530'
   :file: data/cr-uievents-code-20230530.yaml
@@ -17091,6 +17095,10 @@
   :file: data/wd-uievents-code-20151215.yaml
 - :code: uievents-key
   :file: data/uievents-key.yaml
+- :code: uievents-key
+  :stage: PR
+  :date: '20241126'
+  :file: data/pr-uievents-key-20241126.yaml
 - :code: uievents-key
   :stage: CR
   :date: '20230530'

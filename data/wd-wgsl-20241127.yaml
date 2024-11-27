@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-WGSL-20241122
+id: W3CWD-WGSL-20241127
 title:
 - content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-WGSL-20241122/
+- content: https://www.w3.org/TR/2024/WD-WGSL-20241127/
   type: src
 - content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-WGSL-20241122
+- id: W3C WD-WGSL-20241127
   type: W3C
   primary: true
-docnumber: WD-WGSL-20241122
+docnumber: WD-WGSL-20241127
 date:
 - type: published
-  value: '2024-11-22'
+  value: '2024-11-27'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-22'
+revdate: '2024-11-27'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-WGSL-20241121
+    id: W3CWD-WGSL-20241122
     docid:
-    - id: W3C WD-WGSL-20241121
+    - id: W3C WD-WGSL-20241122
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-WGSL-20241121
+      content: W3C WD-WGSL-20241122
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-WGSL-20241122
+  number: WD-WGSL-20241127
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

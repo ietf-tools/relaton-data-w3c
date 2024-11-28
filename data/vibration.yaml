@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Cvibration
 title:
-- content: Vibration API (Second Edition)
+- content: Vibration API
   format: text/plain
 link:
 - content: https://www.w3.org/TR/vibration/
@@ -31,7 +31,7 @@ relation:
     formattedref:
       content: W3C REC-vibration-20150210
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-vibration-20161018
     docid:
@@ -40,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-vibration-20161018
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCR-vibration-20241128
+    docid:
+    - id: W3C CR-vibration-20241128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-vibration-20241128
       format: text/plain
 - type: hasEdition
   bibitem:

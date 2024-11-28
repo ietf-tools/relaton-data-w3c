@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cpointerevents4
+title:
+- content: Pointer Events
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/pointerevents4/
+  type: src
+type: standard
+docid:
+- id: W3C pointerevents4
+  type: W3C
+  primary: true
+docnumber: pointerevents4
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-pointerevents4-20241128
+    docid:
+    - id: W3C WD-pointerevents4-20241128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pointerevents4-20241128
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: pointerevents4
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

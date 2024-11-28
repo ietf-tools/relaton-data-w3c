@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-js-api-2-20241112
+id: W3CWD-webdriver2-20241128
 title:
-- content: WebAssembly JavaScript Interface
+- content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-js-api-2-20241112/
+- content: https://www.w3.org/TR/2024/WD-webdriver2-20241128/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-js-api-2-20241112
+- id: W3C WD-webdriver2-20241128
   type: W3C
   primary: true
-docnumber: WD-wasm-js-api-2-20241112
+docnumber: WD-webdriver2-20241128
 date:
 - type: published
-  value: '2024-11-12'
+  value: '2024-11-28'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: David Burns
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-12'
+- person:
+    name:
+      completename:
+        content: Simon Stewart
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-28'
 language:
 - en
 script:
@@ -40,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20241108
+    id: W3CWD-webdriver2-20241009
     docid:
-    - id: W3C WD-wasm-js-api-2-20241108
+    - id: W3C WD-webdriver2-20241009
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20241108
+      content: W3C WD-webdriver2-20241009
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-js-api-2-20241112
+  number: WD-webdriver2-20241128
 doctype: technicalReport
-editorialgroup:
-- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

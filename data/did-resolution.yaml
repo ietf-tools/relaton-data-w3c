@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cdid-resolution
+title:
+- content: Decentralized Identifier (DID) Resolution and DID URL Dereferencing v1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/did-resolution/
+  type: src
+type: standard
+docid:
+- id: W3C did-resolution
+  type: W3C
+  primary: true
+docnumber: did-resolution
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-did-resolution-20241128
+    docid:
+    - id: W3C WD-did-resolution-20241128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-did-resolution-20241128
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: did-resolution
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

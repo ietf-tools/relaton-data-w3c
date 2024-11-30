@@ -29881,11 +29881,6 @@
     :date: '20240829'
   :file: data/wd-css-easing-2-20240829.yaml
 - :id:
-    :code: pointerevents4
-    :stage: WD
-    :date: '20241128'
-  :file: data/wd-pointerevents4-20241128.yaml
-- :id:
     :code: webxr-hit-test-1
     :stage: WD
     :date: '20240611'
@@ -30541,11 +30536,6 @@
     :date: '20241008'
   :file: data/wd-magnetometer-20241008.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20241008'
-  :file: data/wd-openscreenprotocol-20241008.yaml
-- :id:
     :code: mediacapture-viewport
     :stage: WD
     :date: '20241009'
@@ -30586,15 +30576,15 @@
     :date: '20241017'
   :file: data/note-string-meta-20241017.yaml
 - :id:
-    :code: international-specs
-    :type: NOTE
-    :date: '20241017'
-  :file: data/note-international-specs-20241017.yaml
-- :id:
     :code: input-events-2
     :stage: WD
     :date: '20241018'
   :file: data/wd-input-events-2-20241018.yaml
+- :id:
+    :code: international-specs
+    :type: NOTE
+    :date: '20241017'
+  :file: data/note-international-specs-20241017.yaml
 - :id:
     :code: w3c-vision
     :type: NOTE
@@ -30981,11 +30971,6 @@
     :date: '20241119'
   :file: data/wd-mathml4-20241119.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20241119'
-  :file: data/wd-pointerevents3-20241119.yaml
-- :id:
     :code: edit-context
     :stage: WD
     :date: '20241119'
@@ -31121,24 +31106,36 @@
     :date: '20241128'
   :file: data/wd-webdriver2-20241128.yaml
 - :id:
+    :code: vibration
+    :stage: CRD
+    :date: '20241129'
+  :file: data/crd-vibration-20241129.yaml
+- :id:
     :code: jpan-gap
     :type: DNOTE
     :date: '20241129'
   :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
-    :code: vibration
-    :stage: CRD
+    :code: openscreenprotocol
+    :stage: WD
     :date: '20241129'
-  :file: data/crd-vibration-20241129.yaml
+  :file: data/wd-openscreenprotocol-20241129.yaml
+- :id:
+    :code: pointerevents4
+    :stage: WD
+    :date: '20241129'
+  :file: data/wd-pointerevents4-20241129.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20241129'
+  :file: data/wd-pointerevents3-20241129.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
     :code: css-easing-2
   :file: data/css-easing-2.yaml
-- :id:
-    :code: pointerevents4
-  :file: data/pointerevents4.yaml
 - :id:
     :code: S6Group2
   :file: data/s6group2.yaml
@@ -31289,3 +31286,6 @@
 - :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
+- :id:
+    :code: pointerevents4
+  :file: data/pointerevents4.yaml

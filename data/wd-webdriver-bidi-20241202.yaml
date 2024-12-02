@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver-bidi-20241121
+id: W3CWD-webdriver-bidi-20241202
 title:
 - content: WebDriver BiDi
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/
+- content: https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/
   type: src
 - content: https://w3c.github.io/webdriver-bidi/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver-bidi-20241121
+- id: W3C WD-webdriver-bidi-20241202
   type: W3C
   primary: true
-docnumber: WD-webdriver-bidi-20241121
+docnumber: WD-webdriver-bidi-20241202
 date:
 - type: published
-  value: '2024-11-21'
+  value: '2024-12-02'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-21'
+revdate: '2024-12-02'
 language:
 - en
 script:
@@ -57,11 +57,22 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-webdriver-bidi-20241121
+    docid:
+    - id: W3C WD-webdriver-bidi-20241121
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webdriver-bidi-20241121
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver-bidi-20241121
+  number: WD-webdriver-bidi-20241202
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

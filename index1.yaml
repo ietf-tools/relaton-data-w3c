@@ -30981,11 +30981,6 @@
     :date: '20241121'
   :file: data/cr-orientation-event-20241121.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20241121'
-  :file: data/wd-webdriver-bidi-20241121.yaml
-- :id:
     :code: trusted-types
     :stage: WD
     :date: '20241121'
@@ -31130,6 +31125,11 @@
     :stage: WD
     :date: '20241130'
   :file: data/wd-wasm-core-2-20241130.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20241202'
+  :file: data/wd-webdriver-bidi-20241202.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31278,9 +31278,6 @@
     :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: gpc
   :file: data/gpc.yaml
 - :id:
@@ -31289,3 +31286,6 @@
 - :id:
     :code: pointerevents4
   :file: data/pointerevents4.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

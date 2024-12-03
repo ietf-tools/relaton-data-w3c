@@ -30886,10 +30886,10 @@
     :date: '20241114'
   :file: data/dnote-taml-lreq-20241114.yaml
 - :id:
-    :code: did-extensions
+    :code: did-extensions-methods
     :type: NOTE
     :date: '20241119'
-  :file: data/note-did-extensions-20241119.yaml
+  :file: data/note-did-extensions-methods-20241119.yaml
 - :id:
     :code: java-lreq
     :type: DNOTE
@@ -30901,10 +30901,10 @@
     :date: '20241114'
   :file: data/dnote-khmr-lreq-20241114.yaml
 - :id:
-    :code: did-extensions-methods
+    :code: did-extensions-properties
     :type: NOTE
     :date: '20241119'
-  :file: data/note-did-extensions-methods-20241119.yaml
+  :file: data/note-did-extensions-properties-20241119.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -30916,10 +30916,10 @@
     :date: '20241114'
   :file: data/dnote-thai-lreq-20241114.yaml
 - :id:
-    :code: did-extensions-properties
+    :code: did-extensions-resolution
     :type: NOTE
     :date: '20241119'
-  :file: data/note-did-extensions-properties-20241119.yaml
+  :file: data/note-did-extensions-resolution-20241119.yaml
 - :id:
     :code: tibt-lreq
     :type: DNOTE
@@ -30931,10 +30931,10 @@
     :date: '20241115'
   :file: data/dnote-typography-20241115.yaml
 - :id:
-    :code: did-extensions-resolution
-    :type: NOTE
+    :code: mathml4
+    :stage: WD
     :date: '20241119'
-  :file: data/note-did-extensions-resolution-20241119.yaml
+  :file: data/wd-mathml4-20241119.yaml
 - :id:
     :code: hani-lreq
     :type: DNOTE
@@ -30946,25 +30946,20 @@
     :date: '20241115'
   :file: data/dnote-jpan-lreq-20241115.yaml
 - :id:
-    :code: mathml4
-    :stage: WD
-    :date: '20241119'
-  :file: data/wd-mathml4-20241119.yaml
-- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-mong-lreq-20241115.yaml
 - :id:
-    :code: kore-lreq
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-kore-lreq-20241115.yaml
-- :id:
     :code: edit-context
     :stage: WD
     :date: '20241119'
   :file: data/wd-edit-context-20241119.yaml
+- :id:
+    :code: kore-lreq
+    :type: DNOTE
+    :date: '20241115'
+  :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
     :code: selection-api
     :stage: WD
@@ -31026,11 +31021,6 @@
     :date: '20241122'
   :file: data/wd-fileapi-20241122.yaml
 - :id:
-    :code: gpc
-    :stage: WD
-    :date: '20241122'
-  :file: data/wd-gpc-20241122.yaml
-- :id:
     :code: webgpu
     :stage: WD
     :date: '20241122'
@@ -31086,11 +31076,6 @@
     :date: '20241129'
   :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20241129'
-  :file: data/wd-openscreenprotocol-20241129.yaml
-- :id:
     :code: pointerevents4
     :stage: WD
     :date: '20241129'
@@ -31126,10 +31111,25 @@
     :date: '20241130'
   :file: data/wd-wasm-core-2-20241130.yaml
 - :id:
+    :code: gpc
+    :stage: WD
+    :date: '20241203'
+  :file: data/wd-gpc-20241203.yaml
+- :id:
     :code: webdriver-bidi
     :stage: WD
-    :date: '20241202'
-  :file: data/wd-webdriver-bidi-20241202.yaml
+    :date: '20241203'
+  :file: data/wd-webdriver-bidi-20241203.yaml
+- :id:
+    :code: did-extensions
+    :type: NOTE
+    :date: '20241203'
+  :file: data/note-did-extensions-20241203.yaml
+- :id:
+    :code: openscreenprotocol
+    :stage: WD
+    :date: '20241203'
+  :file: data/wd-openscreenprotocol-20241203.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31248,23 +31248,20 @@
     :code: taml-lreq
   :file: data/taml-lreq.yaml
 - :id:
-    :code: did-extensions
-  :file: data/did-extensions.yaml
+    :code: did-extensions-methods
+  :file: data/did-extensions-methods.yaml
 - :id:
     :code: java-lreq
   :file: data/java-lreq.yaml
 - :id:
-    :code: did-extensions-methods
-  :file: data/did-extensions-methods.yaml
-- :id:
     :code: did-extensions-properties
   :file: data/did-extensions-properties.yaml
 - :id:
-    :code: tibt-lreq
-  :file: data/tibt-lreq.yaml
-- :id:
     :code: did-extensions-resolution
   :file: data/did-extensions-resolution.yaml
+- :id:
+    :code: tibt-lreq
+  :file: data/tibt-lreq.yaml
 - :id:
     :code: hani-lreq
   :file: data/hani-lreq.yaml
@@ -31278,14 +31275,17 @@
     :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :id:
-    :code: gpc
-  :file: data/gpc.yaml
-- :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
 - :id:
     :code: pointerevents4
   :file: data/pointerevents4.yaml
 - :id:
+    :code: gpc
+  :file: data/gpc.yaml
+- :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml
+- :id:
+    :code: did-extensions
+  :file: data/did-extensions.yaml

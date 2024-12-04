@@ -29981,11 +29981,6 @@
     :date: '20240704'
   :file: data/wd-autoplay-detection-20240704.yaml
 - :id:
-    :code: epub-a11y-tech-11
-    :type: NOTE
-    :date: '20240704'
-  :file: data/note-epub-a11y-tech-11-20240704.yaml
-- :id:
     :code: contact-picker
     :stage: WD
     :date: '20240708'
@@ -30001,35 +29996,40 @@
     :date: '20240709'
   :file: data/dnote-mlreq-20240709.yaml
 - :id:
-    :code: taml-gap
-    :type: DNOTE
-    :date: '20240709'
-  :file: data/dnote-taml-gap-20240709.yaml
-- :id:
     :code: ctaur
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-ctaur-20240710.yaml
 - :id:
-    :code: gujr-gap
+    :code: taml-gap
     :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-gujr-gap-20240710.yaml
-- :id:
-    :code: guru-gap
-    :type: DNOTE
-    :date: '20240710'
-  :file: data/dnote-guru-gap-20240710.yaml
+    :date: '20240709'
+  :file: data/dnote-taml-gap-20240709.yaml
 - :id:
     :code: kore-gap
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-kore-gap-20240710.yaml
 - :id:
+    :code: gujr-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-gujr-gap-20240710.yaml
+- :id:
     :code: eme-initdata-cenc
     :type: NOTE
     :date: '20240718'
   :file: data/note-eme-initdata-cenc-20240718.yaml
+- :id:
+    :code: guru-gap
+    :type: DNOTE
+    :date: '20240710'
+  :file: data/dnote-guru-gap-20240710.yaml
+- :id:
+    :code: eme-initdata-webm
+    :type: NOTE
+    :date: '20240718'
+  :file: data/note-eme-initdata-webm-20240718.yaml
 - :id:
     :code: thai-gap
     :type: DNOTE
@@ -30041,10 +30041,10 @@
     :date: '20240710'
   :file: data/dnote-laoo-gap-20240710.yaml
 - :id:
-    :code: eme-initdata-webm
+    :code: eme-stream-mp4
     :type: NOTE
     :date: '20240718'
-  :file: data/note-eme-initdata-webm-20240718.yaml
+  :file: data/note-eme-stream-mp4-20240718.yaml
 - :id:
     :code: khmr-gap
     :type: DNOTE
@@ -30055,11 +30055,6 @@
     :type: DNOTE
     :date: '20240710'
   :file: data/dnote-tibt-gap-20240710.yaml
-- :id:
-    :code: eme-stream-mp4
-    :type: NOTE
-    :date: '20240718'
-  :file: data/note-eme-stream-mp4-20240718.yaml
 - :id:
     :code: eme-stream-webm
     :type: NOTE
@@ -30076,6 +30071,11 @@
     :date: '20240718'
   :file: data/note-design-principles-20240718.yaml
 - :id:
+    :code: css-scroll-snap-2
+    :stage: WD
+    :date: '20240723'
+  :file: data/wd-css-scroll-snap-2-20240723.yaml
+- :id:
     :code: arab-ks-gap
     :type: DNOTE
     :date: '20240719'
@@ -30086,75 +30086,65 @@
     :date: '20240719'
   :file: data/dnote-arab-ks-lreq-20240719.yaml
 - :id:
-    :code: css-scroll-snap-2
-    :stage: WD
+    :code: mse-byte-stream-format-isobmff
+    :type: NOTE
     :date: '20240723'
-  :file: data/wd-css-scroll-snap-2-20240723.yaml
+  :file: data/note-mse-byte-stream-format-isobmff-20240723.yaml
 - :id:
     :code: arab-ug-gap
     :type: DNOTE
     :date: '20240719'
   :file: data/dnote-arab-ug-gap-20240719.yaml
 - :id:
-    :code: mse-byte-stream-format-isobmff
+    :code: mse-byte-stream-format-webm
     :type: NOTE
     :date: '20240723'
-  :file: data/note-mse-byte-stream-format-isobmff-20240723.yaml
+  :file: data/note-mse-byte-stream-format-webm-20240723.yaml
 - :id:
     :code: arab-ur-lreq
     :type: DNOTE
     :date: '20240719'
   :file: data/dnote-arab-ur-lreq-20240719.yaml
 - :id:
-    :code: mse-byte-stream-format-webm
-    :type: NOTE
-    :date: '20240723'
-  :file: data/note-mse-byte-stream-format-webm-20240723.yaml
-- :id:
-    :code: arab-ur-gap
-    :type: DNOTE
-    :date: '20240719'
-  :file: data/dnote-arab-ur-gap-20240719.yaml
-- :id:
     :code: mse-byte-stream-format-mp2t
     :type: NOTE
     :date: '20240723'
   :file: data/note-mse-byte-stream-format-mp2t-20240723.yaml
-- :id:
-    :code: arab-ug-lreq
-    :type: DNOTE
-    :date: '20240719'
-  :file: data/dnote-arab-ug-lreq-20240719.yaml
 - :id:
     :code: mse-byte-stream-format-mpeg-audio
     :type: NOTE
     :date: '20240723'
   :file: data/note-mse-byte-stream-format-mpeg-audio-20240723.yaml
 - :id:
+    :code: arab-ur-gap
+    :type: DNOTE
+    :date: '20240719'
+  :file: data/dnote-arab-ur-gap-20240719.yaml
+- :id:
     :code: latn-nl-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-nl-gap-20240724.yaml
 - :id:
-    :code: ilreq-taml
+    :code: arab-ug-lreq
     :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-ilreq-taml-20240724.yaml
+    :date: '20240719'
+  :file: data/dnote-arab-ug-lreq-20240719.yaml
 - :id:
     :code: accname-1.2
     :stage: WD
     :date: '20240802'
   :file: data/wd-accname-1.2-20240802.yaml
 - :id:
+    :code: ilreq-taml
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-ilreq-taml-20240724.yaml
+- :id:
     :code: latn-de-gap
     :type: DNOTE
     :date: '20240724'
   :file: data/dnote-latn-de-gap-20240724.yaml
-- :id:
-    :code: latn-fr-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-fr-gap-20240724.yaml
 - :id:
     :code: css-box-4
     :stage: WD
@@ -30166,6 +30156,11 @@
     :date: '20240807'
   :file: data/wd-encrypted-media-2-20240807.yaml
 - :id:
+    :code: latn-fr-gap
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-latn-fr-gap-20240724.yaml
+- :id:
     :code: latn-hu-gap
     :type: DNOTE
     :date: '20240724'
@@ -30176,25 +30171,25 @@
     :date: '20240808'
   :file: data/rec-woff2-20240808.yaml
 - :id:
-    :code: latn-ca-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-ca-gap-20240724.yaml
-- :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
 - :id:
-    :code: tlreq
+    :code: latn-ca-gap
     :type: DNOTE
-    :date: '20240730'
-  :file: data/dnote-tlreq-20240730.yaml
+    :date: '20240724'
+  :file: data/dnote-latn-ca-gap-20240724.yaml
 - :id:
     :code: geolocation
     :stage: REC
     :date: '20240809'
   :file: data/rec-geolocation-20240809.yaml
+- :id:
+    :code: tlreq
+    :type: DNOTE
+    :date: '20240730'
+  :file: data/dnote-tlreq-20240730.yaml
 - :id:
     :code: css-position-3
     :stage: WD
@@ -31051,16 +31046,6 @@
     :date: '20241127'
   :file: data/wd-webmidi-20241127.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20241128'
-  :file: data/crd-webnn-20241128.yaml
-- :id:
-    :code: did-resolution
-    :stage: WD
-    :date: '20241128'
-  :file: data/wd-did-resolution-20241128.yaml
-- :id:
     :code: webdriver2
     :stage: WD
     :date: '20241128'
@@ -31131,6 +31116,21 @@
     :date: '20241203'
   :file: data/wd-openscreenprotocol-20241203.yaml
 - :id:
+    :code: epub-a11y-tech-11
+    :type: NOTE
+    :date: '20241203'
+  :file: data/note-epub-a11y-tech-11-20241203.yaml
+- :id:
+    :code: did-resolution
+    :stage: WD
+    :date: '20241203'
+  :file: data/wd-did-resolution-20241203.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20241204'
+  :file: data/crd-webnn-20241204.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31161,11 +31161,11 @@
     :code: eme-hdcp-version-registry
   :file: data/eme-hdcp-version-registry.yaml
 - :id:
-    :code: arab-ks-lreq
-  :file: data/arab-ks-lreq.yaml
-- :id:
     :code: css-scroll-snap-2
   :file: data/css-scroll-snap-2.yaml
+- :id:
+    :code: arab-ks-lreq
+  :file: data/arab-ks-lreq.yaml
 - :id:
     :code: arab-ur-lreq
   :file: data/arab-ur-lreq.yaml
@@ -31275,9 +31275,6 @@
     :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :id:
-    :code: did-resolution
-  :file: data/did-resolution.yaml
-- :id:
     :code: pointerevents4
   :file: data/pointerevents4.yaml
 - :id:
@@ -31289,3 +31286,6 @@
 - :id:
     :code: did-extensions
   :file: data/did-extensions.yaml
+- :id:
+    :code: did-resolution
+  :file: data/did-resolution.yaml

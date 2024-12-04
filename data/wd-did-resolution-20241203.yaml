@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20241128
+id: W3CWD-did-resolution-20241203
 title:
-- content: Decentralized Identifier (DID) Resolution and DID URL Dereferencing v1.0
+- content: Decentralized Identifier Resolution (DID Resolution) v0.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-did-resolution-20241128/
+- content: https://www.w3.org/TR/2024/WD-did-resolution-20241203/
   type: src
 - content: https://w3c.github.io/did-resolution/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20241128
+- id: W3C WD-did-resolution-20241203
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20241128
+docnumber: WD-did-resolution-20241203
 date:
 - type: published
-  value: '2024-11-28'
+  value: '2024-12-03'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-28'
+revdate: '2024-12-03'
 language:
 - en
 script:
@@ -47,11 +47,22 @@ script:
 docstatus:
   stage:
     value: workingDraft
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CWD-did-resolution-20241128
+    docid:
+    - id: W3C WD-did-resolution-20241128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-did-resolution-20241128
+      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-did-resolution-20241128
+  number: WD-did-resolution-20241203
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

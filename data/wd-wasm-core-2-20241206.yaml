@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-web-api-2-20241130
+id: W3CWD-wasm-core-2-20241206
 title:
-- content: WebAssembly Web API
+- content: WebAssembly Core Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-web-api-2-20241130/
+- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20241206/
   type: src
-- content: https://webassembly.github.io/spec/web-api/
+- content: https://webassembly.github.io/spec/core/bikeshed/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-web-api-2-20241130
+- id: W3C WD-wasm-core-2-20241206
   type: W3C
   primary: true
-docnumber: WD-wasm-web-api-2-20241130
+docnumber: WD-wasm-core-2-20241206
 date:
 - type: published
-  value: '2024-11-30'
+  value: '2024-12-06'
 contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Andreas Rossberg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-30'
+revdate: '2024-12-06'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-web-api-2-20241128
+    id: W3CWD-wasm-core-2-20241130
     docid:
-    - id: W3C WD-wasm-web-api-2-20241128
+    - id: W3C WD-wasm-core-2-20241130
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-web-api-2-20241128
+      content: W3C WD-wasm-core-2-20241130
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-web-api-2-20241130
+  number: WD-wasm-core-2-20241206
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

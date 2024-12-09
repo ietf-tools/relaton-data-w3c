@@ -30586,11 +30586,6 @@
     :date: '20241019'
   :file: data/crd-vc-data-model-2.0-20241019.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20241019'
-  :file: data/crd-vc-di-eddsa-20241019.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20241021'
@@ -30836,10 +30831,10 @@
     :date: '20241114'
   :file: data/dnote-latn-lreq-20241114.yaml
 - :id:
-    :code: vc-di-ecdsa
+    :code: secure-payment-confirmation
     :stage: CRD
-    :date: '20241117'
-  :file: data/crd-vc-di-ecdsa-20241117.yaml
+    :date: '20241118'
+  :file: data/crd-secure-payment-confirmation-20241118.yaml
 - :id:
     :code: hebr-lreq
     :type: DNOTE
@@ -30851,6 +30846,11 @@
     :date: '20241114'
   :file: data/dnote-beng-lreq-20241114.yaml
 - :id:
+    :code: did-extensions-methods
+    :type: NOTE
+    :date: '20241119'
+  :file: data/note-did-extensions-methods-20241119.yaml
+- :id:
     :code: deva-lreq
     :type: DNOTE
     :date: '20241114'
@@ -30861,10 +30861,10 @@
     :date: '20241114'
   :file: data/dnote-gujr-lreq-20241114.yaml
 - :id:
-    :code: secure-payment-confirmation
-    :stage: CRD
-    :date: '20241118'
-  :file: data/crd-secure-payment-confirmation-20241118.yaml
+    :code: did-extensions-properties
+    :type: NOTE
+    :date: '20241119'
+  :file: data/note-did-extensions-properties-20241119.yaml
 - :id:
     :code: guru-lreq
     :type: DNOTE
@@ -30876,10 +30876,10 @@
     :date: '20241114'
   :file: data/dnote-taml-lreq-20241114.yaml
 - :id:
-    :code: did-extensions-methods
+    :code: did-extensions-resolution
     :type: NOTE
     :date: '20241119'
-  :file: data/note-did-extensions-methods-20241119.yaml
+  :file: data/note-did-extensions-resolution-20241119.yaml
 - :id:
     :code: java-lreq
     :type: DNOTE
@@ -30891,10 +30891,10 @@
     :date: '20241114'
   :file: data/dnote-khmr-lreq-20241114.yaml
 - :id:
-    :code: did-extensions-properties
-    :type: NOTE
+    :code: mathml4
+    :stage: WD
     :date: '20241119'
-  :file: data/note-did-extensions-properties-20241119.yaml
+  :file: data/wd-mathml4-20241119.yaml
 - :id:
     :code: laoo-lreq
     :type: DNOTE
@@ -30906,30 +30906,35 @@
     :date: '20241114'
   :file: data/dnote-thai-lreq-20241114.yaml
 - :id:
-    :code: did-extensions-resolution
-    :type: NOTE
-    :date: '20241119'
-  :file: data/note-did-extensions-resolution-20241119.yaml
-- :id:
     :code: tibt-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-tibt-lreq-20241114.yaml
+- :id:
+    :code: edit-context
+    :stage: WD
+    :date: '20241119'
+  :file: data/wd-edit-context-20241119.yaml
 - :id:
     :code: typography
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-typography-20241115.yaml
 - :id:
-    :code: mathml4
+    :code: selection-api
     :stage: WD
-    :date: '20241119'
-  :file: data/wd-mathml4-20241119.yaml
+    :date: '20241120'
+  :file: data/wd-selection-api-20241120.yaml
 - :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-hani-lreq-20241115.yaml
+- :id:
+    :code: privacy-principles
+    :type: NOTE
+    :date: '20241120'
+  :file: data/note-privacy-principles-20241120.yaml
 - :id:
     :code: jpan-lreq
     :type: DNOTE
@@ -30941,30 +30946,15 @@
     :date: '20241115'
   :file: data/dnote-mong-lreq-20241115.yaml
 - :id:
-    :code: edit-context
-    :stage: WD
-    :date: '20241119'
-  :file: data/wd-edit-context-20241119.yaml
+    :code: orientation-event
+    :stage: CR
+    :date: '20241121'
+  :file: data/cr-orientation-event-20241121.yaml
 - :id:
     :code: kore-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-kore-lreq-20241115.yaml
-- :id:
-    :code: selection-api
-    :stage: WD
-    :date: '20241120'
-  :file: data/wd-selection-api-20241120.yaml
-- :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20241120'
-  :file: data/note-privacy-principles-20241120.yaml
-- :id:
-    :code: orientation-event
-    :stage: CR
-    :date: '20241121'
-  :file: data/cr-orientation-event-20241121.yaml
 - :id:
     :code: trusted-types
     :stage: WD
@@ -31051,16 +31041,6 @@
     :date: '20241129'
   :file: data/wd-pointerevents3-20241129.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20241130'
-  :file: data/wd-controller-document-20241130.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20241130'
-  :file: data/crd-vc-bitstring-status-list-20241130.yaml
-- :id:
     :code: gpc
     :stage: WD
     :date: '20241203'
@@ -31130,6 +31110,26 @@
     :stage: WD
     :date: '20241206'
   :file: data/wd-wasm-core-2-20241206.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20241208'
+  :file: data/crd-vc-bitstring-status-list-20241208.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20241208'
+  :file: data/crd-vc-di-ecdsa-20241208.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20241208'
+  :file: data/crd-vc-di-eddsa-20241208.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20241209'
+  :file: data/wd-controller-document-20241209.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31239,26 +31239,26 @@
     :code: beng-lreq
   :file: data/beng-lreq.yaml
 - :id:
+    :code: did-extensions-methods
+  :file: data/did-extensions-methods.yaml
+- :id:
     :code: deva-lreq
   :file: data/deva-lreq.yaml
 - :id:
     :code: gujr-lreq
   :file: data/gujr-lreq.yaml
 - :id:
-    :code: taml-lreq
-  :file: data/taml-lreq.yaml
-- :id:
-    :code: did-extensions-methods
-  :file: data/did-extensions-methods.yaml
-- :id:
-    :code: java-lreq
-  :file: data/java-lreq.yaml
-- :id:
     :code: did-extensions-properties
   :file: data/did-extensions-properties.yaml
 - :id:
+    :code: taml-lreq
+  :file: data/taml-lreq.yaml
+- :id:
     :code: did-extensions-resolution
   :file: data/did-extensions-resolution.yaml
+- :id:
+    :code: java-lreq
+  :file: data/java-lreq.yaml
 - :id:
     :code: tibt-lreq
   :file: data/tibt-lreq.yaml

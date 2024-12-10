@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDISC-RangeRequest-20241210
+    docid:
+    - id: W3C DISC-RangeRequest-20241210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DISC-RangeRequest-20241210
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-RangeRequest-20230530
     docid:
@@ -43,7 +50,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: RangeRequest
 doctype: technicalReport

@@ -17,19 +17,16 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-openscreenprotocol-20241203
+    id: W3CDISC-openscreenprotocol-20241210
     docid:
-    - id: W3C WD-openscreenprotocol-20241203
+    - id: W3C DISC-openscreenprotocol-20241210
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-openscreenprotocol-20241203
+      content: W3C DISC-openscreenprotocol-20241210
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,7 +110,7 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C technicalReport
     format: text/plain
   number: openscreenprotocol
 doctype: technicalReport

@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Copenscreen-network
+title:
+- content: Open Screen Network Protocol
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/openscreen-network/
+  type: src
+type: standard
+docid:
+- id: W3C openscreen-network
+  type: W3C
+  primary: true
+docnumber: openscreen-network
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-openscreen-network-20241210
+    docid:
+    - id: W3C WD-openscreen-network-20241210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-openscreen-network-20241210
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: openscreen-network
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

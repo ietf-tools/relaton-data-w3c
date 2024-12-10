@@ -31051,11 +31051,6 @@
     :date: '20241203'
   :file: data/note-did-extensions-20241203.yaml
 - :id:
-    :code: openscreenprotocol
-    :stage: WD
-    :date: '20241203'
-  :file: data/wd-openscreenprotocol-20241203.yaml
-- :id:
     :code: epub-a11y-tech-11
     :type: NOTE
     :date: '20241203'
@@ -31130,6 +31125,16 @@
     :stage: WD
     :date: '20241209'
   :file: data/wd-controller-document-20241209.yaml
+- :id:
+    :code: openscreen-application
+    :stage: WD
+    :date: '20241210'
+  :file: data/wd-openscreen-application-20241210.yaml
+- :id:
+    :code: openscreen-network
+    :stage: WD
+    :date: '20241210'
+  :file: data/wd-openscreen-network-20241210.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31289,3 +31294,9 @@
 - :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml
+- :id:
+    :code: openscreen-application
+  :file: data/openscreen-application.yaml
+- :id:
+    :code: openscreen-network
+  :file: data/openscreen-network.yaml

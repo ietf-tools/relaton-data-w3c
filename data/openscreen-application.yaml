@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Copenscreen-application
+title:
+- content: Open Screen Application Protocol
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/openscreen-application/
+  type: src
+type: standard
+docid:
+- id: W3C openscreen-application
+  type: W3C
+  primary: true
+docnumber: openscreen-application
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-openscreen-application-20241210
+    docid:
+    - id: W3C WD-openscreen-application-20241210
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-openscreen-application-20241210
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: openscreen-application
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

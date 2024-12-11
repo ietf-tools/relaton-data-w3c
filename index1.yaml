@@ -30376,30 +30376,25 @@
     :date: '20240919'
   :file: data/dnote-clreq-gap-20240919.yaml
 - :id:
-    :code: mong-gap
-    :type: DNOTE
-    :date: '20240919'
-  :file: data/dnote-mong-gap-20240919.yaml
-- :id:
     :code: webxr-depth-sensing-1
     :stage: WD
     :date: '20240923'
   :file: data/wd-webxr-depth-sensing-1-20240923.yaml
 - :id:
-    :code: alreq-gap
+    :code: mong-gap
     :type: DNOTE
     :date: '20240919'
-  :file: data/dnote-alreq-gap-20240919.yaml
+  :file: data/dnote-mong-gap-20240919.yaml
 - :id:
     :code: webxr-dom-overlays-1
     :stage: WD
     :date: '20240924'
   :file: data/wd-webxr-dom-overlays-1-20240924.yaml
 - :id:
-    :code: alreq
+    :code: alreq-gap
     :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-alreq-20240920.yaml
+    :date: '20240919'
+  :file: data/dnote-alreq-gap-20240919.yaml
 - :id:
     :code: permissions-policy-1
     :stage: WD
@@ -30411,95 +30406,100 @@
     :date: '20240930'
   :file: data/note-vc-extensions-20240930.yaml
 - :id:
-    :code: adlm-gap
+    :code: alreq
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-adlm-gap-20240920.yaml
+  :file: data/dnote-alreq-20240920.yaml
 - :id:
     :code: css-text-3
     :stage: CRD
     :date: '20240930'
   :file: data/crd-css-text-3-20240930.yaml
 - :id:
-    :code: nkoo-gap
+    :code: adlm-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-nkoo-gap-20240920.yaml
-- :id:
-    :code: cher-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-cher-gap-20240920.yaml
+  :file: data/dnote-adlm-gap-20240920.yaml
 - :id:
     :code: picture-in-picture
     :stage: WD
     :date: '20241002'
   :file: data/wd-picture-in-picture-20241002.yaml
 - :id:
-    :code: cans-iu-cr-gap
+    :code: nkoo-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-cans-iu-cr-gap-20240920.yaml
+  :file: data/dnote-nkoo-gap-20240920.yaml
 - :id:
     :code: css-grid-3
     :stage: WD
     :date: '20241003'
   :file: data/wd-css-grid-3-20241003.yaml
 - :id:
+    :code: cher-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-cher-gap-20240920.yaml
+- :id:
+    :code: cans-iu-cr-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-cans-iu-cr-gap-20240920.yaml
+- :id:
     :code: osge-osa-gap
     :type: DNOTE
     :date: '20240920'
   :file: data/dnote-osge-osa-gap-20240920.yaml
-- :id:
-    :code: elreq-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-elreq-gap-20240920.yaml
-- :id:
-    :code: latn-gap
-    :type: DNOTE
-    :date: '20240920'
-  :file: data/dnote-latn-gap-20240920.yaml
 - :id:
     :code: mediasession
     :stage: WD
     :date: '20241004'
   :file: data/wd-mediasession-20241004.yaml
 - :id:
-    :code: geor-gap
+    :code: elreq-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-geor-gap-20240920.yaml
+  :file: data/dnote-elreq-gap-20240920.yaml
 - :id:
     :code: css-anchor-position-1
     :stage: WD
     :date: '20241004'
   :file: data/wd-css-anchor-position-1-20241004.yaml
 - :id:
-    :code: grek-gap
+    :code: latn-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-grek-gap-20240920.yaml
+  :file: data/dnote-latn-gap-20240920.yaml
 - :id:
-    :code: hebr-gap
+    :code: geor-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-hebr-gap-20240920.yaml
+  :file: data/dnote-geor-gap-20240920.yaml
 - :id:
     :code: media-capabilities
     :stage: WD
     :date: '20241007'
   :file: data/wd-media-capabilities-20241007.yaml
 - :id:
-    :code: beng-gap
+    :code: grek-gap
     :type: DNOTE
     :date: '20240920'
-  :file: data/dnote-beng-gap-20240920.yaml
+  :file: data/dnote-grek-gap-20240920.yaml
 - :id:
     :code: webrtc
     :stage: REC
     :date: '20241008'
   :file: data/rec-webrtc-20241008.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-hebr-gap-20240920.yaml
+- :id:
+    :code: beng-gap
+    :type: DNOTE
+    :date: '20240920'
+  :file: data/dnote-beng-gap-20240920.yaml
 - :id:
     :code: deva-gap
     :type: DNOTE
@@ -30566,15 +30566,15 @@
     :date: '20241017'
   :file: data/note-string-meta-20241017.yaml
 - :id:
-    :code: input-events-2
-    :stage: WD
-    :date: '20241018'
-  :file: data/wd-input-events-2-20241018.yaml
-- :id:
     :code: international-specs
     :type: NOTE
     :date: '20241017'
   :file: data/note-international-specs-20241017.yaml
+- :id:
+    :code: input-events-2
+    :stage: WD
+    :date: '20241018'
+  :file: data/wd-input-events-2-20241018.yaml
 - :id:
     :code: w3c-vision
     :type: NOTE
@@ -30966,20 +30966,10 @@
     :date: '20241121'
   :file: data/wd-html-aam-1.0-20241121.yaml
 - :id:
-    :code: dapt
-    :stage: WD
-    :date: '20241121'
-  :file: data/wd-dapt-20241121.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20241121'
   :file: data/wd-rdf12-concepts-20241121.yaml
-- :id:
-    :code: compute-pressure
-    :stage: WD
-    :date: '20241122'
-  :file: data/wd-compute-pressure-20241122.yaml
 - :id:
     :code: core-aam-1.2
     :stage: CRD
@@ -30990,11 +30980,6 @@
     :type: DNOTE
     :date: '20241122'
   :file: data/dnote-timezone-20241122.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20241122'
-  :file: data/wd-webgpu-20241122.yaml
 - :id:
     :code: device-posture
     :stage: CR
@@ -31136,6 +31121,21 @@
     :date: '20241210'
   :file: data/wd-openscreen-network-20241210.yaml
 - :id:
+    :code: dapt
+    :stage: WD
+    :date: '20241210'
+  :file: data/wd-dapt-20241210.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20241210'
+  :file: data/wd-webgpu-20241210.yaml
+- :id:
+    :code: compute-pressure
+    :stage: WD
+    :date: '20241211'
+  :file: data/wd-compute-pressure-20241211.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31186,9 +31186,6 @@
 - :id:
     :code: fedcm-1
   :file: data/fedcm-1.yaml
-- :id:
-    :code: webcodecs-video-frame-metadata-registry
-  :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
     :code: vc-extensions
   :file: data/vc-extensions.yaml
@@ -31300,3 +31297,6 @@
 - :id:
     :code: openscreen-network
   :file: data/openscreen-network.yaml
+- :id:
+    :code: webcodecs-video-frame-metadata-registry
+  :file: data/webcodecs-video-frame-metadata-registry.yaml

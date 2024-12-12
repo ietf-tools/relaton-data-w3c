@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CREC-WCAG21-20180605
+id: W3CWD-wcag-3.0-20241212
 title:
-- content: Web Content Accessibility Guidelines (WCAG) 2.1
+- content: W3C Accessibility Guidelines (WCAG) 3.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2018/REC-WCAG21-20180605/
+- content: https://www.w3.org/TR/2024/WD-wcag-3.0-20241212/
   type: src
-- content: https://w3c.github.io/wcag/guidelines/
+- content: https://w3c.github.io/wcag3/guidelines/
   type: current
 type: standard
 docid:
-- id: W3C REC-WCAG21-20180605
+- id: W3C WD-wcag-3.0-20241212
   type: W3C
   primary: true
-docnumber: REC-WCAG21-20180605
+docnumber: WD-wcag-3.0-20241212
 date:
 - type: published
-  value: '2018-06-05'
+  value: '2024-12-12'
 contributor:
 - person:
     name:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Andrew Kirkpatrick
+        content: Charles Adams
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Joshue O'Connor
+        content: Francis Storr
         language:
         - en
         script:
@@ -52,50 +52,57 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Cooper
+        content: Jeanne F Spellman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2018-06-05'
+- person:
+    name:
+      completename:
+        content: Kevin White
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Rachael Bradley Montgomery
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-12-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: recommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CPR-WCAG21-20180424
+    id: W3CWD-wcag-3.0-20240528
     docid:
-    - id: W3C PR-WCAG21-20180424
+    - id: W3C WD-wcag-3.0-20240528
       type: W3C
       primary: true
     formattedref:
-      content: W3C PR-WCAG21-20180424
+      content: W3C WD-wcag-3.0-20240528
       format: text/plain
-- type: updatedBy
-  bibitem:
-    id: W3Cerrata
-    docid:
-    - id: W3C errata
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C errata
-      format: text/plain
-  description:
-    content: errata
-    format: text/plain
 series:
 - title:
-    content: W3C REC
+    content: W3C WD
     format: text/plain
-  number: REC-WCAG21-20180605
+  number: WD-wcag-3.0-20241212
 doctype: technicalReport
 editorialgroup:
 - name: Accessibility Guidelines Working Group

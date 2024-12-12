@@ -30131,21 +30131,6 @@
     :date: '20240719'
   :file: data/dnote-arab-ug-lreq-20240719.yaml
 - :id:
-    :code: accname-1.2
-    :stage: WD
-    :date: '20240802'
-  :file: data/wd-accname-1.2-20240802.yaml
-- :id:
-    :code: ilreq-taml
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-ilreq-taml-20240724.yaml
-- :id:
-    :code: latn-de-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-de-gap-20240724.yaml
-- :id:
     :code: css-box-4
     :stage: WD
     :date: '20240804'
@@ -30156,55 +30141,60 @@
     :date: '20240807'
   :file: data/wd-encrypted-media-2-20240807.yaml
 - :id:
-    :code: latn-fr-gap
+    :code: ilreq-taml
     :type: DNOTE
     :date: '20240724'
-  :file: data/dnote-latn-fr-gap-20240724.yaml
-- :id:
-    :code: latn-hu-gap
-    :type: DNOTE
-    :date: '20240724'
-  :file: data/dnote-latn-hu-gap-20240724.yaml
+  :file: data/dnote-ilreq-taml-20240724.yaml
 - :id:
     :code: WOFF2
     :stage: REC
     :date: '20240808'
   :file: data/rec-woff2-20240808.yaml
 - :id:
+    :code: latn-de-gap
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-latn-de-gap-20240724.yaml
+- :id:
     :code: gamepad
     :stage: WD
     :date: '20240809'
   :file: data/wd-gamepad-20240809.yaml
 - :id:
-    :code: latn-ca-gap
+    :code: latn-fr-gap
     :type: DNOTE
     :date: '20240724'
-  :file: data/dnote-latn-ca-gap-20240724.yaml
+  :file: data/dnote-latn-fr-gap-20240724.yaml
 - :id:
     :code: geolocation
     :stage: REC
     :date: '20240809'
   :file: data/rec-geolocation-20240809.yaml
 - :id:
-    :code: tlreq
+    :code: latn-hu-gap
     :type: DNOTE
-    :date: '20240730'
-  :file: data/dnote-tlreq-20240730.yaml
+    :date: '20240724'
+  :file: data/dnote-latn-hu-gap-20240724.yaml
+- :id:
+    :code: latn-ca-gap
+    :type: DNOTE
+    :date: '20240724'
+  :file: data/dnote-latn-ca-gap-20240724.yaml
 - :id:
     :code: css-position-3
     :stage: WD
     :date: '20240810'
   :file: data/wd-css-position-3-20240810.yaml
 - :id:
+    :code: tlreq
+    :type: DNOTE
+    :date: '20240730'
+  :file: data/dnote-tlreq-20240730.yaml
+- :id:
     :code: css-inline-3
     :stage: WD
     :date: '20240812'
   :file: data/wd-css-inline-3-20240812.yaml
-- :id:
-    :code: ethical-web-principles
-    :type: NOTE
-    :date: '20240813'
-  :file: data/note-ethical-web-principles-20240813.yaml
 - :id:
     :code: credential-management-1
     :stage: WD
@@ -30231,25 +30221,25 @@
     :date: '20240815'
   :file: data/crd-css-conditional-3-20240815.yaml
 - :id:
-    :code: webrtc-svc
-    :stage: WD
-    :date: '20240817'
-  :file: data/wd-webrtc-svc-20240817.yaml
-- :id:
     :code: predefined-counter-styles
     :type: NOTE
     :date: '20240815'
   :file: data/note-predefined-counter-styles-20240815.yaml
 - :id:
-    :code: event-timing
+    :code: webrtc-svc
     :stage: WD
-    :date: '20240819'
-  :file: data/wd-event-timing-20240819.yaml
+    :date: '20240817'
+  :file: data/wd-webrtc-svc-20240817.yaml
 - :id:
     :code: java-gap
     :type: DNOTE
     :date: '20240816'
   :file: data/dnote-java-gap-20240816.yaml
+- :id:
+    :code: event-timing
+    :stage: WD
+    :date: '20240819'
+  :file: data/wd-event-timing-20240819.yaml
 - :id:
     :code: fedcm-1
     :stage: WD
@@ -30961,20 +30951,10 @@
     :date: '20241121'
   :file: data/wd-trusted-types-20241121.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20241121'
-  :file: data/wd-html-aam-1.0-20241121.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20241121'
   :file: data/wd-rdf12-concepts-20241121.yaml
-- :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20241122'
-  :file: data/crd-core-aam-1.2-20241122.yaml
 - :id:
     :code: timezone
     :type: DNOTE
@@ -31031,20 +31011,10 @@
     :date: '20241203'
   :file: data/wd-gpc-20241203.yaml
 - :id:
-    :code: did-extensions
-    :type: NOTE
-    :date: '20241203'
-  :file: data/note-did-extensions-20241203.yaml
-- :id:
     :code: epub-a11y-tech-11
     :type: NOTE
     :date: '20241203'
   :file: data/note-epub-a11y-tech-11-20241203.yaml
-- :id:
-    :code: did-resolution
-    :stage: WD
-    :date: '20241203'
-  :file: data/wd-did-resolution-20241203.yaml
 - :id:
     :code: webnn
     :stage: CRD
@@ -31055,11 +31025,6 @@
     :stage: WD
     :date: '20241204'
   :file: data/wd-fileapi-20241204.yaml
-- :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20241205'
-  :file: data/wd-webdriver2-20241205.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -31135,6 +31100,61 @@
     :stage: WD
     :date: '20241211'
   :file: data/wd-compute-pressure-20241211.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20241211'
+  :file: data/crd-core-aam-1.2-20241211.yaml
+- :id:
+    :code: accname-1.2
+    :stage: WD
+    :date: '20241211'
+  :file: data/wd-accname-1.2-20241211.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20241211'
+  :file: data/wd-html-aam-1.0-20241211.yaml
+- :id:
+    :code: did-extensions
+    :type: NOTE
+    :date: '20241211'
+  :file: data/note-did-extensions-20241211.yaml
+- :id:
+    :code: WCAG21
+    :stage: REC
+    :date: '20241212'
+  :file: data/rec-wcag21-20241212.yaml
+- :id:
+    :code: WCAG22
+    :stage: REC
+    :date: '20241212'
+  :file: data/rec-wcag22-20241212.yaml
+- :id:
+    :code: wcag-3.0
+    :stage: WD
+    :date: '20241212'
+  :file: data/wd-wcag-3.0-20241212.yaml
+- :id:
+    :code: wcag-3.0-explainer
+    :type: DNOTE
+    :date: '20241212'
+  :file: data/dnote-wcag-3.0-explainer-20241212.yaml
+- :id:
+    :code: wcag-3.0-requirements
+    :type: DNOTE
+    :date: '20241212'
+  :file: data/dnote-wcag-3.0-requirements-20241212.yaml
+- :id:
+    :code: did-resolution
+    :stage: WD
+    :date: '20241212'
+  :file: data/wd-did-resolution-20241212.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20241212'
+  :file: data/wd-webdriver2-20241212.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31283,12 +31303,6 @@
     :code: gpc
   :file: data/gpc.yaml
 - :id:
-    :code: did-extensions
-  :file: data/did-extensions.yaml
-- :id:
-    :code: did-resolution
-  :file: data/did-resolution.yaml
-- :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml
 - :id:
@@ -31300,3 +31314,9 @@
 - :id:
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
+- :id:
+    :code: did-extensions
+  :file: data/did-extensions.yaml
+- :id:
+    :code: did-resolution
+  :file: data/did-resolution.yaml

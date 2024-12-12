@@ -148,8 +148,8 @@
   :file: data/accname-1.2.yaml
 - :code: accname-1.2
   :stage: WD
-  :date: '20240802'
-  :file: data/wd-accname-1.2-20240802.yaml
+  :date: '20241211'
+  :file: data/wd-accname-1.2-20241211.yaml
 - :code: accname-1.2
   :stage: WD
   :date: '20240607'
@@ -1832,8 +1832,8 @@
   :file: data/cr-core-aam-1.2-20221122.yaml
 - :code: core-aam-1.2
   :stage: CRD
-  :date: '20241122'
-  :file: data/crd-core-aam-1.2-20241122.yaml
+  :date: '20241211'
+  :file: data/crd-core-aam-1.2-20241211.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -5180,8 +5180,8 @@
   :file: data/did-extensions.yaml
 - :code: did-extensions
   :type: NOTE
-  :date: '20241203'
-  :file: data/note-did-extensions-20241203.yaml
+  :date: '20241211'
+  :file: data/note-did-extensions-20241211.yaml
 - :code: did-extensions-methods
   :file: data/did-extensions-methods.yaml
 - :code: did-extensions-methods
@@ -5210,8 +5210,8 @@
   :file: data/did-resolution.yaml
 - :code: did-resolution
   :stage: WD
-  :date: '20241203'
-  :file: data/wd-did-resolution-20241203.yaml
+  :date: '20241212'
+  :file: data/wd-did-resolution-20241212.yaml
 - :code: did-rubric
   :file: data/did-rubric.yaml
 - :code: did-rubric
@@ -6461,10 +6461,6 @@
 - :code: ethical-web-principles
   :file: data/ethical-web-principles.yaml
 - :code: ethical-web-principles
-  :type: NOTE
-  :date: '20240813'
-  :file: data/note-ethical-web-principles-20240813.yaml
-- :code: ethical-web-principles
   :type: DNOTE
   :date: '20240531'
   :file: data/dnote-ethical-web-principles-20240531.yaml
@@ -7601,8 +7597,8 @@
   :file: data/html-aam-1.0.yaml
 - :code: html-aam-1.0
   :stage: WD
-  :date: '20241121'
-  :file: data/wd-html-aam-1.0-20241121.yaml
+  :date: '20241211'
+  :file: data/wd-html-aam-1.0-20241211.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20240418'
@@ -18460,6 +18456,10 @@
   :file: data/wcag-3.0.yaml
 - :code: wcag-3.0
   :stage: WD
+  :date: '20241212'
+  :file: data/wd-wcag-3.0-20241212.yaml
+- :code: wcag-3.0
+  :stage: WD
   :date: '20240528'
   :file: data/wd-wcag-3.0-20240528.yaml
 - :code: wcag-3.0
@@ -18478,10 +18478,18 @@
   :file: data/wcag-3.0-explainer.yaml
 - :code: wcag-3.0-explainer
   :type: DNOTE
+  :date: '20241212'
+  :file: data/dnote-wcag-3.0-explainer-20241212.yaml
+- :code: wcag-3.0-explainer
+  :type: DNOTE
   :date: '20211207'
   :file: data/dnote-wcag-3.0-explainer-20211207.yaml
 - :code: wcag-3.0-requirements
   :file: data/wcag-3.0-requirements.yaml
+- :code: wcag-3.0-requirements
+  :type: DNOTE
+  :date: '20241212'
+  :file: data/dnote-wcag-3.0-requirements-20241212.yaml
 - :code: wcag-3.0-requirements
   :stage: WD
   :date: '20210121'
@@ -18662,6 +18670,10 @@
   :file: data/wcag21.yaml
 - :code: WCAG21
   :stage: REC
+  :date: '20241212'
+  :file: data/rec-wcag21-20241212.yaml
+- :code: WCAG21
+  :stage: REC
   :date: '20230921'
   :file: data/rec-wcag21-20230921.yaml
 - :code: WCAG21
@@ -18674,6 +18686,10 @@
   :file: data/wd-wcag21-20171207.yaml
 - :code: WCAG22
   :file: data/wcag22.yaml
+- :code: WCAG22
+  :stage: REC
+  :date: '20241212'
+  :file: data/rec-wcag22-20241212.yaml
 - :code: WCAG22
   :stage: REC
   :date: '20231005'
@@ -19532,8 +19548,8 @@
   :file: data/webdriver2.yaml
 - :code: webdriver2
   :stage: WD
-  :date: '20241205'
-  :file: data/wd-webdriver2-20241205.yaml
+  :date: '20241212'
+  :file: data/wd-webdriver2-20241212.yaml
 - :code: webdriver2
   :stage: WD
   :date: '20240607'

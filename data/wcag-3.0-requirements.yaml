@@ -17,11 +17,18 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: instance
+  bibitem:
+    id: W3CDNOTE-wcag-3.0-requirements-20241212
+    docid:
+    - id: W3C DNOTE-wcag-3.0-requirements-20241212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-wcag-3.0-requirements-20241212
+      format: text/plain
+- type: hasEdition
   bibitem:
     id: W3CWD-wcag-3.0-requirements-20210121
     docid:
@@ -33,9 +40,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
   number: wcag-3.0-requirements
-doctype: technicalReport
+doctype: groupNote
 ext:
   schema-version: v1.0.0

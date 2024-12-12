@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20241122
+id: W3CCRD-core-aam-1.2-20241211
 title:
 - content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241122/
+- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241211/
   type: src
 - content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20241122
+- id: W3C CRD-core-aam-1.2-20241211
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20241122
+docnumber: CRD-core-aam-1.2-20241211
 date:
 - type: published
-  value: '2024-11-22'
+  value: '2024-12-11'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-22'
+revdate: '2024-12-11'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-core-aam-1.2-20241121
+    id: W3CCRD-core-aam-1.2-20241122
     docid:
-    - id: W3C CR-core-aam-1.2-20241121
+    - id: W3C CRD-core-aam-1.2-20241122
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-core-aam-1.2-20241121
+      content: W3C CRD-core-aam-1.2-20241122
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-core-aam-1.2-20241122
+  number: CRD-core-aam-1.2-20241211
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

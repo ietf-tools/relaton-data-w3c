@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver2-20241205
+id: W3CNOTE-did-extensions-20241211
 title:
-- content: WebDriver
+- content: Decentralized Identifier Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver2-20241205/
+- content: https://www.w3.org/TR/2024/NOTE-did-extensions-20241211/
   type: src
-- content: https://w3c.github.io/webdriver/
+- content: https://w3c.github.io/did-extensions/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20241205
+- id: W3C NOTE-did-extensions-20241211
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20241205
+docnumber: NOTE-did-extensions-20241211
 date:
 - type: published
-  value: '2024-12-05'
+  value: '2024-12-11'
 contributor:
 - person:
     name:
       completename:
-        content: David Burns
+        content: Manu Sporny
         language:
         - en
         script:
@@ -32,37 +32,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Simon Stewart
+        content: Markus Sabadello
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-05'
+revdate: '2024-12-11'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20241128
+    id: W3CNOTE-did-extensions-20241203
     docid:
-    - id: W3C WD-webdriver2-20241128
+    - id: W3C NOTE-did-extensions-20241203
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20241128
+      content: W3C NOTE-did-extensions-20241203
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-webdriver2-20241205
-doctype: technicalReport
+  number: NOTE-did-extensions-20241211
+doctype: groupNote
 ext:
   schema-version: v1.0.0

@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CNOTE-ethical-web-principles-20240813
+    id: W3CSTMT-ethical-web-principles-20241212
     docid:
-    - id: W3C NOTE-ethical-web-principles-20240813
+    - id: W3C STMT-ethical-web-principles-20241212
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-ethical-web-principles-20240813
+      content: W3C STMT-ethical-web-principles-20241212
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,9 +80,9 @@ relation:
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C technicalReport
     format: text/plain
   number: ethical-web-principles
-doctype: groupNote
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

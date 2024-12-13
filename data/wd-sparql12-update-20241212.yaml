@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-update-20241113
+id: W3CWD-sparql12-update-20241212
 title:
 - content: SPARQL 1.2 Update
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-update-20241113/
+- content: https://www.w3.org/TR/2024/WD-sparql12-update-20241212/
   type: src
 - content: https://w3c.github.io/sparql-update/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-update-20241113
+- id: W3C WD-sparql12-update-20241212
   type: W3C
   primary: true
-docnumber: WD-sparql12-update-20241113
+docnumber: WD-sparql12-update-20241212
 date:
 - type: published
-  value: '2024-11-13'
+  value: '2024-12-12'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-13'
+revdate: '2024-12-12'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-update-20241025
+    id: W3CWD-sparql12-update-20241113
     docid:
-    - id: W3C WD-sparql12-update-20241025
+    - id: W3C WD-sparql12-update-20241113
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-update-20241025
+      content: W3C WD-sparql12-update-20241113
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-update-20241113
+  number: WD-sparql12-update-20241212
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

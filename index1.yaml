@@ -30956,11 +30956,6 @@
     :date: '20241126'
   :file: data/pr-uievents-key-20241126.yaml
 - :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20241127'
-  :file: data/wd-wgsl-20241127.yaml
-- :id:
     :code: webmidi
     :stage: WD
     :date: '20241127'
@@ -31026,30 +31021,10 @@
     :date: '20241206'
   :file: data/wd-wasm-web-api-2-20241206.yaml
 - :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20241206'
-  :file: data/wd-wasm-js-api-2-20241206.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20241206'
-  :file: data/wd-wasm-core-2-20241206.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20241208'
   :file: data/crd-vc-bitstring-status-list-20241208.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20241208'
-  :file: data/crd-vc-di-ecdsa-20241208.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20241208'
-  :file: data/crd-vc-di-eddsa-20241208.yaml
 - :id:
     :code: controller-document
     :stage: WD
@@ -31070,11 +31045,6 @@
     :stage: WD
     :date: '20241210'
   :file: data/wd-dapt-20241210.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20241210'
-  :file: data/wd-webgpu-20241210.yaml
 - :id:
     :code: compute-pressure
     :stage: WD
@@ -31151,10 +31121,45 @@
     :date: '20241212'
   :file: data/wd-webcodecs-20241212.yaml
 - :id:
-    :code: vc-data-integrity
+    :code: html-aria
+    :stage: REC
+    :date: '20241213'
+  :file: data/rec-html-aria-20241213.yaml
+- :id:
+    :code: vc-di-eddsa
     :stage: CRD
     :date: '20241213'
-  :file: data/crd-vc-data-integrity-20241213.yaml
+  :file: data/crd-vc-di-eddsa-20241213.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: WD
+    :date: '20241213'
+  :file: data/wd-wasm-js-api-2-20241213.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: WD
+    :date: '20241213'
+  :file: data/wd-wasm-core-2-20241213.yaml
+- :id:
+    :code: WGSL
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-wgsl-20241214.yaml
+- :id:
+    :code: webgpu
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-webgpu-20241214.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20241214'
+  :file: data/crd-vc-data-integrity-20241214.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20241214'
+  :file: data/crd-vc-di-ecdsa-20241214.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

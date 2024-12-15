@@ -30701,16 +30701,6 @@
     :date: '20241113'
   :file: data/wd-sparql12-federated-query-20241113.yaml
 - :id:
-    :code: sparql12-service-description
-    :stage: WD
-    :date: '20241113'
-  :file: data/wd-sparql12-service-description-20241113.yaml
-- :id:
-    :code: sparql12-results-json
-    :stage: WD
-    :date: '20241113'
-  :file: data/wd-sparql12-results-json-20241113.yaml
-- :id:
     :code: sparql12-protocol
     :stage: WD
     :date: '20241113'
@@ -30720,11 +30710,6 @@
     :stage: WD
     :date: '20241113'
   :file: data/wd-sparql12-results-csv-tsv-20241113.yaml
-- :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20241113'
-  :file: data/wd-sparql12-results-xml-20241113.yaml
 - :id:
     :code: css-view-transitions-2
     :stage: WD
@@ -30741,25 +30726,25 @@
     :date: '20241114'
   :file: data/dnote-adlm-lreq-20241114.yaml
 - :id:
-    :code: nkoo-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-nkoo-lreq-20241114.yaml
-- :id:
     :code: miniapp-manifest
     :stage: WD
     :date: '20241114'
   :file: data/wd-miniapp-manifest-20241114.yaml
 - :id:
-    :code: arab-lreq
+    :code: nkoo-lreq
     :type: DNOTE
     :date: '20241114'
-  :file: data/dnote-arab-lreq-20241114.yaml
+  :file: data/dnote-nkoo-lreq-20241114.yaml
 - :id:
     :code: wcag2ict-22
     :type: NOTE
     :date: '20241115'
   :file: data/note-wcag2ict-22-20241115.yaml
+- :id:
+    :code: arab-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-arab-lreq-20241114.yaml
 - :id:
     :code: cher-lreq
     :type: DNOTE
@@ -30771,75 +30756,75 @@
     :date: '20241114'
   :file: data/dnote-osge-lreq-20241114.yaml
 - :id:
-    :code: cans-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-cans-lreq-20241114.yaml
-- :id:
     :code: secure-payment-confirmation
     :stage: CRD
     :date: '20241118'
   :file: data/crd-secure-payment-confirmation-20241118.yaml
+- :id:
+    :code: cans-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-cans-lreq-20241114.yaml
 - :id:
     :code: ethi-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-ethi-lreq-20241114.yaml
 - :id:
-    :code: cyrl-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-cyrl-lreq-20241114.yaml
-- :id:
     :code: did-extensions-methods
     :type: NOTE
     :date: '20241119'
   :file: data/note-did-extensions-methods-20241119.yaml
+- :id:
+    :code: cyrl-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-cyrl-lreq-20241114.yaml
 - :id:
     :code: geor-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-geor-lreq-20241114.yaml
 - :id:
-    :code: grek-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-grek-lreq-20241114.yaml
-- :id:
     :code: did-extensions-properties
     :type: NOTE
     :date: '20241119'
   :file: data/note-did-extensions-properties-20241119.yaml
+- :id:
+    :code: grek-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-grek-lreq-20241114.yaml
 - :id:
     :code: latn-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-latn-lreq-20241114.yaml
 - :id:
-    :code: hebr-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-hebr-lreq-20241114.yaml
-- :id:
     :code: did-extensions-resolution
     :type: NOTE
     :date: '20241119'
   :file: data/note-did-extensions-resolution-20241119.yaml
+- :id:
+    :code: hebr-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-hebr-lreq-20241114.yaml
 - :id:
     :code: beng-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-beng-lreq-20241114.yaml
 - :id:
-    :code: deva-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-deva-lreq-20241114.yaml
-- :id:
     :code: mathml4
     :stage: WD
     :date: '20241119'
   :file: data/wd-mathml4-20241119.yaml
+- :id:
+    :code: deva-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-deva-lreq-20241114.yaml
 - :id:
     :code: gujr-lreq
     :type: DNOTE
@@ -30856,40 +30841,40 @@
     :date: '20241119'
   :file: data/wd-edit-context-20241119.yaml
 - :id:
-    :code: taml-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-taml-lreq-20241114.yaml
-- :id:
     :code: selection-api
     :stage: WD
     :date: '20241120'
   :file: data/wd-selection-api-20241120.yaml
 - :id:
-    :code: java-lreq
+    :code: taml-lreq
     :type: DNOTE
     :date: '20241114'
-  :file: data/dnote-java-lreq-20241114.yaml
+  :file: data/dnote-taml-lreq-20241114.yaml
 - :id:
     :code: privacy-principles
     :type: NOTE
     :date: '20241120'
   :file: data/note-privacy-principles-20241120.yaml
 - :id:
+    :code: java-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-java-lreq-20241114.yaml
+- :id:
     :code: khmr-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-khmr-lreq-20241114.yaml
 - :id:
-    :code: laoo-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-laoo-lreq-20241114.yaml
-- :id:
     :code: orientation-event
     :stage: CR
     :date: '20241121'
   :file: data/cr-orientation-event-20241121.yaml
+- :id:
+    :code: laoo-lreq
+    :type: DNOTE
+    :date: '20241114'
+  :file: data/dnote-laoo-lreq-20241114.yaml
 - :id:
     :code: thai-lreq
     :type: DNOTE
@@ -30901,20 +30886,35 @@
     :date: '20241114'
   :file: data/dnote-tibt-lreq-20241114.yaml
 - :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-typography-20241115.yaml
-- :id:
     :code: trusted-types
     :stage: WD
     :date: '20241121'
   :file: data/wd-trusted-types-20241121.yaml
 - :id:
+    :code: timezone
+    :type: DNOTE
+    :date: '20241122'
+  :file: data/dnote-timezone-20241122.yaml
+- :id:
+    :code: typography
+    :type: DNOTE
+    :date: '20241115'
+  :file: data/dnote-typography-20241115.yaml
+- :id:
+    :code: device-posture
+    :stage: CR
+    :date: '20241126'
+  :file: data/cr-device-posture-20241126.yaml
+- :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-hani-lreq-20241115.yaml
+- :id:
+    :code: uievents-code
+    :stage: PR
+    :date: '20241126'
+  :file: data/pr-uievents-code-20241126.yaml
 - :id:
     :code: jpan-lreq
     :type: DNOTE
@@ -30926,45 +30926,20 @@
     :date: '20241115'
   :file: data/dnote-mong-lreq-20241115.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20241121'
-  :file: data/wd-rdf12-concepts-20241121.yaml
+    :code: uievents-key
+    :stage: PR
+    :date: '20241126'
+  :file: data/pr-uievents-key-20241126.yaml
 - :id:
     :code: kore-lreq
     :type: DNOTE
     :date: '20241115'
   :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
-    :code: timezone
-    :type: DNOTE
-    :date: '20241122'
-  :file: data/dnote-timezone-20241122.yaml
-- :id:
-    :code: device-posture
-    :stage: CR
-    :date: '20241126'
-  :file: data/cr-device-posture-20241126.yaml
-- :id:
-    :code: uievents-code
-    :stage: PR
-    :date: '20241126'
-  :file: data/pr-uievents-code-20241126.yaml
-- :id:
-    :code: uievents-key
-    :stage: PR
-    :date: '20241126'
-  :file: data/pr-uievents-key-20241126.yaml
-- :id:
     :code: webmidi
     :stage: WD
     :date: '20241127'
   :file: data/wd-webmidi-20241127.yaml
-- :id:
-    :code: jpan-gap
-    :type: DNOTE
-    :date: '20241129'
-  :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
     :code: vibration
     :stage: CRD
@@ -30975,6 +30950,11 @@
     :stage: WD
     :date: '20241129'
   :file: data/wd-pointerevents4-20241129.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20241129'
+  :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
     :code: pointerevents3
     :stage: WD
@@ -31161,6 +31141,26 @@
     :date: '20241214'
   :file: data/crd-vc-di-ecdsa-20241214.yaml
 - :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-sparql12-results-xml-20241214.yaml
+- :id:
+    :code: sparql12-results-json
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-sparql12-results-json-20241214.yaml
+- :id:
+    :code: sparql12-service-description
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-sparql12-service-description-20241214.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20241214'
+  :file: data/wd-rdf12-concepts-20241214.yaml
+- :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
 - :id:
@@ -31248,29 +31248,29 @@
     :code: ethi-lreq
   :file: data/ethi-lreq.yaml
 - :id:
-    :code: cyrl-lreq
-  :file: data/cyrl-lreq.yaml
-- :id:
     :code: did-extensions-methods
   :file: data/did-extensions-methods.yaml
+- :id:
+    :code: cyrl-lreq
+  :file: data/cyrl-lreq.yaml
 - :id:
     :code: geor-lreq
   :file: data/geor-lreq.yaml
 - :id:
-    :code: grek-lreq
-  :file: data/grek-lreq.yaml
-- :id:
     :code: did-extensions-properties
   :file: data/did-extensions-properties.yaml
+- :id:
+    :code: grek-lreq
+  :file: data/grek-lreq.yaml
 - :id:
     :code: latn-lreq
   :file: data/latn-lreq.yaml
 - :id:
-    :code: hebr-lreq
-  :file: data/hebr-lreq.yaml
-- :id:
     :code: did-extensions-resolution
   :file: data/did-extensions-resolution.yaml
+- :id:
+    :code: hebr-lreq
+  :file: data/hebr-lreq.yaml
 - :id:
     :code: beng-lreq
   :file: data/beng-lreq.yaml

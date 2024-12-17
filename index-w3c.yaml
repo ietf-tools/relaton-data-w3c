@@ -2056,8 +2056,8 @@
   :file: data/csp3.yaml
 - :code: CSP3
   :stage: WD
-  :date: '20241206'
-  :file: data/wd-csp3-20241206.yaml
+  :date: '20241217'
+  :file: data/wd-csp3-20241217.yaml
 - :code: CSP3
   :stage: WD
   :date: '20240424'
@@ -2510,6 +2510,12 @@
   :stage: WD
   :date: '20190523'
   :file: data/wd-css-color-adjust-1-20190523.yaml
+- :code: css-color-hdr-1
+  :file: data/css-color-hdr-1.yaml
+- :code: css-color-hdr-1
+  :stage: WD
+  :date: '20241217'
+  :file: data/wd-css-color-hdr-1-20241217.yaml
 - :code: css-conditional-3
   :file: data/css-conditional-3.yaml
 - :code: css-conditional-3
@@ -3072,6 +3078,12 @@
   :stage: WD
   :date: '20170613'
   :file: data/wd-css-overflow-4-20170613.yaml
+- :code: css-overflow-5
+  :file: data/css-overflow-5.yaml
+- :code: css-overflow-5
+  :stage: WD
+  :date: '20241217'
+  :file: data/wd-css-overflow-5-20241217.yaml
 - :code: css-overscroll-1
   :file: data/css-overscroll-1.yaml
 - :code: css-overscroll-1
@@ -7709,6 +7721,10 @@
   :file: data/wd-html-alt-techniques-20101019.yaml
 - :code: html-aria
   :file: data/html-aria.yaml
+- :code: html-aria
+  :stage: REC
+  :date: '20241217'
+  :file: data/rec-html-aria-20241217.yaml
 - :code: html-aria
   :stage: REC
   :date: '20241213'
@@ -17545,8 +17561,8 @@
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
   :stage: CRD
-  :date: '20241025'
-  :file: data/crd-vc-jose-cose-20241025.yaml
+  :date: '20241216'
+  :file: data/crd-vc-jose-cose-20241216.yaml
 - :code: vc-jose-cose
   :stage: CRD
   :date: '20240521'
@@ -18379,9 +18395,9 @@
 - :code: wasm-core-2
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
-  :stage: WD
-  :date: '20241213'
-  :file: data/wd-wasm-core-2-20241213.yaml
+  :stage: CR
+  :date: '20241217'
+  :file: data/cr-wasm-core-2-20241217.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20240428'
@@ -18403,9 +18419,9 @@
 - :code: wasm-js-api-2
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
-  :stage: WD
-  :date: '20241213'
-  :file: data/wd-wasm-js-api-2-20241213.yaml
+  :stage: CR
+  :date: '20241217'
+  :file: data/cr-wasm-js-api-2-20241217.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20240402'
@@ -18427,9 +18443,9 @@
 - :code: wasm-web-api-2
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
-  :stage: WD
-  :date: '20241206'
-  :file: data/wd-wasm-web-api-2-20241206.yaml
+  :stage: CR
+  :date: '20241217'
+  :file: data/cr-wasm-web-api-2-20241217.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20240428'

@@ -1,35 +1,45 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-wasm-core-2-20241213
+id: W3CWD-CSP3-20241217
 title:
-- content: WebAssembly Core Specification
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-wasm-core-2-20241213/
+- content: https://www.w3.org/TR/2024/WD-CSP3-20241217/
   type: src
-- content: https://webassembly.github.io/spec/core/bikeshed/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-wasm-core-2-20241213
+- id: W3C WD-CSP3-20241217
   type: W3C
   primary: true
-docnumber: WD-wasm-core-2-20241213
+docnumber: WD-CSP3-20241217
 date:
 - type: published
-  value: '2024-12-13'
+  value: '2024-12-17'
 contributor:
 - person:
     name:
       completename:
-        content: Andreas Rossberg
+        content: Antonio Sartori
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-13'
+- person:
+    name:
+      completename:
+        content: Mike West
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-12-17'
 language:
 - en
 script:
@@ -40,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20241206
+    id: W3CWD-CSP3-20241206
     docid:
-    - id: W3C WD-wasm-core-2-20241206
+    - id: W3C WD-CSP3-20241206
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20241206
+      content: W3C WD-CSP3-20241206
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-wasm-core-2-20241213
+  number: WD-CSP3-20241217
 doctype: technicalReport
 editorialgroup:
-- name: WebAssembly Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-CSP3-20241206
+id: W3CWD-css-overflow-5-20241217
 title:
-- content: Content Security Policy Level 3
+- content: CSS Overflow Module Level 5
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-CSP3-20241206/
+- content: https://www.w3.org/TR/2024/WD-css-overflow-5-20241217/
   type: src
-- content: https://w3c.github.io/webappsec-csp/
+- content: https://drafts.csswg.org/css-overflow-5/
   type: current
 type: standard
 docid:
-- id: W3C WD-CSP3-20241206
+- id: W3C WD-css-overflow-5-20241217
   type: W3C
   primary: true
-docnumber: WD-CSP3-20241206
+docnumber: WD-css-overflow-5-20241217
 date:
 - type: published
-  value: '2024-12-06'
+  value: '2024-12-17'
 contributor:
 - person:
     name:
       completename:
-        content: Antonio Sartori
+        content: Elika Etemad
         language:
         - en
         script:
@@ -32,14 +32,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Mike West
+        content: Florian Rivoal
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-06'
+- person:
+    name:
+      completename:
+        content: Robert Flack
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-12-17'
 language:
 - en
 script:
@@ -47,24 +57,13 @@ script:
 docstatus:
   stage:
     value: workingDraft
-relation:
-- type: obsoletes
-  bibitem:
-    id: W3CWD-CSP3-20241122
-    docid:
-    - id: W3C WD-CSP3-20241122
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSP3-20241122
-      format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-CSP3-20241206
+  number: WD-css-overflow-5-20241217
 doctype: technicalReport
 editorialgroup:
-- name: Web Application Security Working Group
+- name: Cascading Style Sheets Working Group
 ext:
   schema-version: v1.0.0

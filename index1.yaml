@@ -30571,11 +30571,6 @@
     :date: '20241024'
   :file: data/wd-screen-wake-lock-20241024.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20241025'
-  :file: data/crd-vc-jose-cose-20241025.yaml
-- :id:
     :code: user-timing
     :stage: CRD
     :date: '20241031'
@@ -30971,16 +30966,6 @@
     :date: '20241206'
   :file: data/wd-webdriver-bidi-20241206.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20241206'
-  :file: data/wd-csp3-20241206.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: WD
-    :date: '20241206'
-  :file: data/wd-wasm-web-api-2-20241206.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20241208'
@@ -31091,16 +31076,6 @@
     :date: '20241213'
   :file: data/crd-vc-di-eddsa-20241213.yaml
 - :id:
-    :code: wasm-js-api-2
-    :stage: WD
-    :date: '20241213'
-  :file: data/wd-wasm-js-api-2-20241213.yaml
-- :id:
-    :code: wasm-core-2
-    :stage: WD
-    :date: '20241213'
-  :file: data/wd-wasm-core-2-20241213.yaml
-- :id:
     :code: WGSL
     :stage: WD
     :date: '20241214'
@@ -31160,6 +31135,46 @@
     :stage: WD
     :date: '20241216'
   :file: data/wd-sparql12-query-20241216.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CRD
+    :date: '20241216'
+  :file: data/crd-vc-jose-cose-20241216.yaml
+- :id:
+    :code: css-color-hdr-1
+    :stage: WD
+    :date: '20241217'
+  :file: data/wd-css-color-hdr-1-20241217.yaml
+- :id:
+    :code: css-overflow-5
+    :stage: WD
+    :date: '20241217'
+  :file: data/wd-css-overflow-5-20241217.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: CR
+    :date: '20241217'
+  :file: data/cr-wasm-core-2-20241217.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: CR
+    :date: '20241217'
+  :file: data/cr-wasm-js-api-2-20241217.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: CR
+    :date: '20241217'
+  :file: data/cr-wasm-web-api-2-20241217.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20241217'
+  :file: data/wd-csp3-20241217.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20241217'
+  :file: data/rec-html-aria-20241217.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31325,3 +31340,9 @@
 - :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
+- :id:
+    :code: css-color-hdr-1
+  :file: data/css-color-hdr-1.yaml
+- :id:
+    :code: css-overflow-5
+  :file: data/css-overflow-5.yaml

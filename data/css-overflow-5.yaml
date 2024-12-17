@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Ccss-overflow-5
+title:
+- content: CSS Overflow Module Level 5
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/css-overflow-5/
+  type: src
+type: standard
+docid:
+- id: W3C css-overflow-5
+  type: W3C
+  primary: true
+docnumber: css-overflow-5
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-css-overflow-5-20241217
+    docid:
+    - id: W3C WD-css-overflow-5-20241217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-overflow-5-20241217
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: css-overflow-5
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

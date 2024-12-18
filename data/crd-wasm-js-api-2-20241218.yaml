@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-wasm-js-api-2-20241218
+title:
+- content: WebAssembly JavaScript Interface
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2024/CRD-wasm-js-api-2-20241218/
+  type: src
+- content: https://webassembly.github.io/spec/js-api/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-wasm-js-api-2-20241218
+  type: W3C
+  primary: true
+docnumber: CRD-wasm-js-api-2-20241218
+date:
+- type: published
+  value: '2024-12-18'
+contributor:
+- person:
+    name:
+      completename:
+        content: ". Ms2ger"
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-12-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-wasm-js-api-2-20241217
+    docid:
+    - id: W3C CRD-wasm-js-api-2-20241217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-wasm-js-api-2-20241217
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-wasm-js-api-2-20241218
+doctype: technicalReport
+editorialgroup:
+- name: WebAssembly Working Group
+ext:
+  schema-version: v1.0.0

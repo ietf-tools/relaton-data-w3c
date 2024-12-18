@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-wasm-core-2-20241217
+id: W3CCRD-wasm-core-2-20241218
 title:
 - content: WebAssembly Core Specification
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CR-wasm-core-2-20241217/
+- content: https://www.w3.org/TR/2024/CRD-wasm-core-2-20241218/
   type: src
 - content: https://webassembly.github.io/spec/core/bikeshed/
   type: current
 type: standard
 docid:
-- id: W3C CR-wasm-core-2-20241217
+- id: W3C CRD-wasm-core-2-20241218
   type: W3C
   primary: true
-docnumber: CR-wasm-core-2-20241217
+docnumber: CRD-wasm-core-2-20241218
 date:
 - type: published
-  value: '2024-12-17'
+  value: '2024-12-18'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-17'
+revdate: '2024-12-18'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-core-2-20241213
+    id: W3CCR-wasm-core-2-20241217
     docid:
-    - id: W3C WD-wasm-core-2-20241213
+    - id: W3C CR-wasm-core-2-20241217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-core-2-20241213
+      content: W3C CR-wasm-core-2-20241217
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-wasm-core-2-20241217
+  number: CRD-wasm-core-2-20241218
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

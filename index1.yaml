@@ -30551,11 +30551,6 @@
     :date: '20241018'
   :file: data/note-w3c-vision-20241018.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20241019'
-  :file: data/crd-vc-data-model-2.0-20241019.yaml
-- :id:
     :code: webxr
     :stage: CRD
     :date: '20241021'
@@ -30806,35 +30801,35 @@
     :date: '20241114'
   :file: data/dnote-gujr-lreq-20241114.yaml
 - :id:
+    :code: selection-api
+    :stage: WD
+    :date: '20241120'
+  :file: data/wd-selection-api-20241120.yaml
+- :id:
     :code: guru-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-guru-lreq-20241114.yaml
 - :id:
-    :code: edit-context
-    :stage: WD
-    :date: '20241119'
-  :file: data/wd-edit-context-20241119.yaml
+    :code: privacy-principles
+    :type: NOTE
+    :date: '20241120'
+  :file: data/note-privacy-principles-20241120.yaml
 - :id:
     :code: taml-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-taml-lreq-20241114.yaml
 - :id:
-    :code: selection-api
-    :stage: WD
-    :date: '20241120'
-  :file: data/wd-selection-api-20241120.yaml
-- :id:
     :code: java-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-java-lreq-20241114.yaml
 - :id:
-    :code: privacy-principles
-    :type: NOTE
-    :date: '20241120'
-  :file: data/note-privacy-principles-20241120.yaml
+    :code: orientation-event
+    :stage: CR
+    :date: '20241121'
+  :file: data/cr-orientation-event-20241121.yaml
 - :id:
     :code: khmr-lreq
     :type: DNOTE
@@ -30846,70 +30841,65 @@
     :date: '20241114'
   :file: data/dnote-laoo-lreq-20241114.yaml
 - :id:
-    :code: orientation-event
-    :stage: CR
-    :date: '20241121'
-  :file: data/cr-orientation-event-20241121.yaml
-- :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-thai-lreq-20241114.yaml
-- :id:
-    :code: tibt-lreq
-    :type: DNOTE
-    :date: '20241114'
-  :file: data/dnote-tibt-lreq-20241114.yaml
-- :id:
-    :code: typography
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-typography-20241115.yaml
 - :id:
     :code: trusted-types
     :stage: WD
     :date: '20241121'
   :file: data/wd-trusted-types-20241121.yaml
 - :id:
-    :code: hani-lreq
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-hani-lreq-20241115.yaml
-- :id:
     :code: timezone
     :type: DNOTE
     :date: '20241122'
   :file: data/dnote-timezone-20241122.yaml
 - :id:
-    :code: jpan-lreq
+    :code: tibt-lreq
     :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-jpan-lreq-20241115.yaml
+    :date: '20241114'
+  :file: data/dnote-tibt-lreq-20241114.yaml
 - :id:
     :code: device-posture
     :stage: CR
     :date: '20241126'
   :file: data/cr-device-posture-20241126.yaml
 - :id:
-    :code: mong-lreq
+    :code: typography
     :type: DNOTE
     :date: '20241115'
-  :file: data/dnote-mong-lreq-20241115.yaml
+  :file: data/dnote-typography-20241115.yaml
 - :id:
     :code: uievents-code
     :stage: PR
     :date: '20241126'
   :file: data/pr-uievents-code-20241126.yaml
 - :id:
-    :code: kore-lreq
+    :code: hani-lreq
     :type: DNOTE
     :date: '20241115'
-  :file: data/dnote-kore-lreq-20241115.yaml
+  :file: data/dnote-hani-lreq-20241115.yaml
+- :id:
+    :code: jpan-lreq
+    :type: DNOTE
+    :date: '20241115'
+  :file: data/dnote-jpan-lreq-20241115.yaml
 - :id:
     :code: uievents-key
     :stage: PR
     :date: '20241126'
   :file: data/pr-uievents-key-20241126.yaml
+- :id:
+    :code: mong-lreq
+    :type: DNOTE
+    :date: '20241115'
+  :file: data/dnote-mong-lreq-20241115.yaml
+- :id:
+    :code: kore-lreq
+    :type: DNOTE
+    :date: '20241115'
+  :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
     :code: webmidi
     :stage: WD
@@ -30965,11 +30955,6 @@
     :stage: WD
     :date: '20241206'
   :file: data/wd-webdriver-bidi-20241206.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20241208'
-  :file: data/crd-vc-bitstring-status-list-20241208.yaml
 - :id:
     :code: controller-document
     :stage: WD
@@ -31151,21 +31136,6 @@
     :date: '20241217'
   :file: data/wd-css-overflow-5-20241217.yaml
 - :id:
-    :code: wasm-core-2
-    :stage: CR
-    :date: '20241217'
-  :file: data/cr-wasm-core-2-20241217.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: CR
-    :date: '20241217'
-  :file: data/cr-wasm-js-api-2-20241217.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: CR
-    :date: '20241217'
-  :file: data/cr-wasm-web-api-2-20241217.yaml
-- :id:
     :code: CSP3
     :stage: WD
     :date: '20241217'
@@ -31175,6 +31145,41 @@
     :stage: REC
     :date: '20241217'
   :file: data/rec-html-aria-20241217.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20241217'
+  :file: data/crd-vc-data-model-2.0-20241217.yaml
+- :id:
+    :code: edit-context
+    :stage: WD
+    :date: '20241217'
+  :file: data/wd-edit-context-20241217.yaml
+- :id:
+    :code: requestidlecallback
+    :stage: WD
+    :date: '20241217'
+  :file: data/wd-requestidlecallback-20241217.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: CRD
+    :date: '20241218'
+  :file: data/crd-wasm-js-api-2-20241218.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: CRD
+    :date: '20241218'
+  :file: data/crd-wasm-web-api-2-20241218.yaml
+- :id:
+    :code: wasm-core-2
+    :stage: CRD
+    :date: '20241218'
+  :file: data/crd-wasm-core-2-20241218.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20241218'
+  :file: data/crd-vc-bitstring-status-list-20241218.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

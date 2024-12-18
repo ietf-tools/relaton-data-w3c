@@ -5926,8 +5926,8 @@
   :file: data/edit-context.yaml
 - :code: edit-context
   :stage: WD
-  :date: '20241119'
-  :file: data/wd-edit-context-20241119.yaml
+  :date: '20241217'
+  :file: data/wd-edit-context-20241217.yaml
 - :code: edit-context
   :stage: WD
   :date: '20211221'
@@ -13942,6 +13942,10 @@
   :file: data/pr-requestidlecallback-20171010.yaml
 - :code: requestidlecallback
   :stage: WD
+  :date: '20241217'
+  :file: data/wd-requestidlecallback-20241217.yaml
+- :code: requestidlecallback
+  :stage: WD
   :date: '20220628'
   :file: data/wd-requestidlecallback-20220628.yaml
 - :code: requestidlecallback
@@ -17391,8 +17395,8 @@
   :file: data/cr-vc-bitstring-status-list-20240521.yaml
 - :code: vc-bitstring-status-list
   :stage: CRD
-  :date: '20241208'
-  :file: data/crd-vc-bitstring-status-list-20241208.yaml
+  :date: '20241218'
+  :file: data/crd-vc-bitstring-status-list-20241218.yaml
 - :code: vc-bitstring-status-list
   :stage: CRD
   :date: '20240608'
@@ -17441,8 +17445,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20241019'
-  :file: data/crd-vc-data-model-2.0-20241019.yaml
+  :date: '20241217'
+  :file: data/crd-vc-data-model-2.0-20241217.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
   :date: '20240608'
@@ -18395,9 +18399,9 @@
 - :code: wasm-core-2
   :file: data/wasm-core-2.yaml
 - :code: wasm-core-2
-  :stage: CR
-  :date: '20241217'
-  :file: data/cr-wasm-core-2-20241217.yaml
+  :stage: CRD
+  :date: '20241218'
+  :file: data/crd-wasm-core-2-20241218.yaml
 - :code: wasm-core-2
   :stage: WD
   :date: '20240428'
@@ -18419,9 +18423,9 @@
 - :code: wasm-js-api-2
   :file: data/wasm-js-api-2.yaml
 - :code: wasm-js-api-2
-  :stage: CR
-  :date: '20241217'
-  :file: data/cr-wasm-js-api-2-20241217.yaml
+  :stage: CRD
+  :date: '20241218'
+  :file: data/crd-wasm-js-api-2-20241218.yaml
 - :code: wasm-js-api-2
   :stage: WD
   :date: '20240402'
@@ -18443,9 +18447,9 @@
 - :code: wasm-web-api-2
   :file: data/wasm-web-api-2.yaml
 - :code: wasm-web-api-2
-  :stage: CR
-  :date: '20241217'
-  :file: data/cr-wasm-web-api-2-20241217.yaml
+  :stage: CRD
+  :date: '20241218'
+  :file: data/crd-wasm-web-api-2-20241218.yaml
 - :code: wasm-web-api-2
   :stage: WD
   :date: '20240428'

@@ -1,20 +1,20 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-wasm-js-api-2-20241217
+id: W3CWD-requestidlecallback-20241217
 title:
-- content: WebAssembly JavaScript Interface
+- content: requestIdleCallback()
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CR-wasm-js-api-2-20241217/
+- content: https://www.w3.org/TR/2024/WD-requestidlecallback-20241217/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://w3c.github.io/requestidlecallback/
   type: current
 type: standard
 docid:
-- id: W3C CR-wasm-js-api-2-20241217
+- id: W3C WD-requestidlecallback-20241217
   type: W3C
   primary: true
-docnumber: CR-wasm-js-api-2-20241217
+docnumber: WD-requestidlecallback-20241217
 date:
 - type: published
   value: '2024-12-17'
@@ -22,7 +22,7 @@ contributor:
 - person:
     name:
       completename:
-        content: ". Ms2ger"
+        content: Scott Haseley
         language:
         - en
         script:
@@ -36,25 +36,23 @@ script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-wasm-js-api-2-20241213
+    id: W3CWD-requestidlecallback-20220628
     docid:
-    - id: W3C WD-wasm-js-api-2-20241213
+    - id: W3C WD-requestidlecallback-20220628
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wasm-js-api-2-20241213
+      content: W3C WD-requestidlecallback-20220628
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-wasm-js-api-2-20241217
+  number: WD-requestidlecallback-20241217
 doctype: technicalReport
-editorialgroup:
-- name: WebAssembly Working Group
 ext:
   schema-version: v1.0.0

@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cwebdriver-bidi
+id: W3Ccss-multicol-2
 title:
-- content: WebDriver BiDi
+- content: CSS Multi-column Layout Module Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/webdriver-bidi/
+- content: https://www.w3.org/TR/css-multicol-2/
   type: src
 type: standard
 docid:
-- id: W3C webdriver-bidi
+- id: W3C css-multicol-2
   type: W3C
   primary: true
-docnumber: webdriver-bidi
+docnumber: css-multicol-2
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webdriver-bidi-20241219
+    id: W3CWD-css-multicol-2-20241219
     docid:
-    - id: W3C WD-webdriver-bidi-20241219
+    - id: W3C WD-css-multicol-2-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver-bidi-20241219
+      content: W3C WD-css-multicol-2-20241219
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: webdriver-bidi
+  number: css-multicol-2
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

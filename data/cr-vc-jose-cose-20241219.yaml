@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-eddsa-20241213
+id: W3CCR-vc-jose-cose-20241219
 title:
-- content: Data Integrity EdDSA Cryptosuites v1.0
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20241213/
+- content: https://www.w3.org/TR/2024/CR-vc-jose-cose-20241219/
   type: src
-- content: https://w3c.github.io/vc-di-eddsa/
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-eddsa-20241213
+- id: W3C CR-vc-jose-cose-20241219
   type: W3C
   primary: true
-docnumber: CRD-vc-di-eddsa-20241213
+docnumber: CR-vc-jose-cose-20241219
 date:
 - type: published
-  value: '2024-12-13'
+  value: '2024-12-19'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Michael Jones
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Michael Prorock
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Sebastian Crane
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-12-13'
+revdate: '2024-12-19'
 language:
 - en
 script:
@@ -70,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-eddsa-20241208
+    id: W3CCRD-vc-jose-cose-20241216
     docid:
-    - id: W3C CRD-vc-di-eddsa-20241208
+    - id: W3C CRD-vc-jose-cose-20241216
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-eddsa-20241208
+      content: W3C CRD-vc-jose-cose-20241216
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-eddsa-20241213
+  number: CR-vc-jose-cose-20241219
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

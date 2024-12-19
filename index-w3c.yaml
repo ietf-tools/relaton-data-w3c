@@ -1528,8 +1528,8 @@
   :file: data/clreq.yaml
 - :code: clreq
   :type: DNOTE
-  :date: '20240701'
-  :file: data/dnote-clreq-20240701.yaml
+  :date: '20241219'
+  :file: data/dnote-clreq-20241219.yaml
 - :code: clreq
   :type: DNOTE
   :date: '20231101'
@@ -2698,6 +2698,12 @@
   :stage: WD
   :date: '20140911'
   :file: data/wd-css-display-3-20140911.yaml
+- :code: css-display-4
+  :file: data/css-display-4.yaml
+- :code: css-display-4
+  :stage: WD
+  :date: '20241219'
+  :file: data/wd-css-display-4-20241219.yaml
 - :code: css-easing-1
   :file: data/css-easing-1.yaml
 - :code: css-easing-1
@@ -2890,8 +2896,8 @@
   :file: data/css-inline-3.yaml
 - :code: css-inline-3
   :stage: WD
-  :date: '20240812'
-  :file: data/wd-css-inline-3-20240812.yaml
+  :date: '20241218'
+  :file: data/wd-css-inline-3-20241218.yaml
 - :code: css-inline-3
   :stage: WD
   :date: '20230401'
@@ -3020,6 +3026,12 @@
   :stage: WD
   :date: '20171005'
   :file: data/wd-css-multicol-1-20171005.yaml
+- :code: css-multicol-2
+  :file: data/css-multicol-2.yaml
+- :code: css-multicol-2
+  :stage: WD
+  :date: '20241219'
+  :file: data/wd-css-multicol-2-20241219.yaml
 - :code: css-namespaces-3
   :file: data/css-namespaces-3.yaml
 - :code: css-namespaces-3
@@ -5708,8 +5720,8 @@
   :file: data/cr-dpub-aria-1.1-20240227.yaml
 - :code: dpub-aria-1.1
   :stage: CRD
-  :date: '20240621'
-  :file: data/crd-dpub-aria-1.1-20240621.yaml
+  :date: '20241218'
+  :file: data/crd-dpub-aria-1.1-20241218.yaml
 - :code: dpub-aria-1.1
   :stage: WD
   :date: '20230902'
@@ -12309,8 +12321,8 @@
   :file: data/pointerevents3.yaml
 - :code: pointerevents3
   :stage: WD
-  :date: '20241129'
-  :file: data/wd-pointerevents3-20241129.yaml
+  :date: '20241218'
+  :file: data/wd-pointerevents3-20241218.yaml
 - :code: pointerevents3
   :stage: WD
   :date: '20240326'
@@ -17404,9 +17416,9 @@
 - :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
-  :stage: CRD
-  :date: '20241214'
-  :file: data/crd-vc-data-integrity-20241214.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-vc-data-integrity-20241219.yaml
 - :code: vc-data-integrity
   :stage: CRD
   :date: '20240605'
@@ -17444,9 +17456,9 @@
 - :code: vc-data-model-2.0
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
-  :stage: CRD
-  :date: '20241217'
-  :file: data/crd-vc-data-model-2.0-20241217.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-vc-data-model-2.0-20241219.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
   :date: '20240608'
@@ -17504,9 +17516,9 @@
 - :code: vc-di-ecdsa
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
-  :stage: CRD
-  :date: '20241214'
-  :file: data/crd-vc-di-ecdsa-20241214.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-vc-di-ecdsa-20241219.yaml
 - :code: vc-di-ecdsa
   :stage: CRD
   :date: '20240428'
@@ -17530,9 +17542,9 @@
 - :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :code: vc-di-eddsa
-  :stage: CRD
-  :date: '20241213'
-  :file: data/crd-vc-di-eddsa-20241213.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-vc-di-eddsa-20241219.yaml
 - :code: vc-di-eddsa
   :stage: CRD
   :date: '20240303'
@@ -17564,9 +17576,9 @@
 - :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
-  :stage: CRD
-  :date: '20241216'
-  :file: data/crd-vc-jose-cose-20241216.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-vc-jose-cose-20241219.yaml
 - :code: vc-jose-cose
   :stage: CRD
   :date: '20240521'
@@ -19560,8 +19572,8 @@
   :file: data/webdriver-bidi.yaml
 - :code: webdriver-bidi
   :stage: WD
-  :date: '20241206'
-  :file: data/wd-webdriver-bidi-20241206.yaml
+  :date: '20241219'
+  :file: data/wd-webdriver-bidi-20241219.yaml
 - :code: webdriver1
   :file: data/webdriver1.yaml
 - :code: webdriver1
@@ -19617,9 +19629,9 @@
 - :code: webgpu
   :file: data/webgpu.yaml
 - :code: webgpu
-  :stage: WD
-  :date: '20241214'
-  :file: data/wd-webgpu-20241214.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-webgpu-20241219.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'
@@ -20424,9 +20436,9 @@
 - :code: WGSL
   :file: data/wgsl.yaml
 - :code: WGSL
-  :stage: WD
-  :date: '20241214'
-  :file: data/wd-wgsl-20241214.yaml
+  :stage: CR
+  :date: '20241219'
+  :file: data/cr-wgsl-20241219.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'

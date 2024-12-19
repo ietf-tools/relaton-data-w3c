@@ -29931,11 +29931,6 @@
     :date: '20240621'
   :file: data/crd-dpub-aam-1.1-20240621.yaml
 - :id:
-    :code: dpub-aria-1.1
-    :stage: CRD
-    :date: '20240621'
-  :file: data/crd-dpub-aria-1.1-20240621.yaml
-- :id:
     :code: css-contain-1
     :stage: REC
     :date: '20240625'
@@ -29960,11 +29955,6 @@
     :stage: WD
     :date: '20240627'
   :file: data/wd-rdf12-semantics-20240627.yaml
-- :id:
-    :code: clreq
-    :type: DNOTE
-    :date: '20240701'
-  :file: data/dnote-clreq-20240701.yaml
 - :id:
     :code: geolocation
     :stage: REC
@@ -30185,11 +30175,6 @@
     :type: DNOTE
     :date: '20240730'
   :file: data/dnote-tlreq-20240730.yaml
-- :id:
-    :code: css-inline-3
-    :stage: WD
-    :date: '20240812'
-  :file: data/wd-css-inline-3-20240812.yaml
 - :id:
     :code: credential-management-1
     :stage: WD
@@ -30921,11 +30906,6 @@
     :date: '20241129'
   :file: data/wd-pointerevents4-20241129.yaml
 - :id:
-    :code: pointerevents3
-    :stage: WD
-    :date: '20241129'
-  :file: data/wd-pointerevents3-20241129.yaml
-- :id:
     :code: gpc
     :stage: WD
     :date: '20241203'
@@ -30950,11 +30930,6 @@
     :stage: CRD
     :date: '20241205'
   :file: data/crd-mediacapture-streams-20241205.yaml
-- :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20241206'
-  :file: data/wd-webdriver-bidi-20241206.yaml
 - :id:
     :code: controller-document
     :stage: WD
@@ -31056,31 +31031,6 @@
     :date: '20241213'
   :file: data/rec-html-aria-20241213.yaml
 - :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20241213'
-  :file: data/crd-vc-di-eddsa-20241213.yaml
-- :id:
-    :code: WGSL
-    :stage: WD
-    :date: '20241214'
-  :file: data/wd-wgsl-20241214.yaml
-- :id:
-    :code: webgpu
-    :stage: WD
-    :date: '20241214'
-  :file: data/wd-webgpu-20241214.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20241214'
-  :file: data/crd-vc-data-integrity-20241214.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20241214'
-  :file: data/crd-vc-di-ecdsa-20241214.yaml
-- :id:
     :code: sparql12-results-json
     :stage: WD
     :date: '20241214'
@@ -31121,11 +31071,6 @@
     :date: '20241216'
   :file: data/wd-sparql12-query-20241216.yaml
 - :id:
-    :code: vc-jose-cose
-    :stage: CRD
-    :date: '20241216'
-  :file: data/crd-vc-jose-cose-20241216.yaml
-- :id:
     :code: css-color-hdr-1
     :stage: WD
     :date: '20241217'
@@ -31145,11 +31090,6 @@
     :stage: REC
     :date: '20241217'
   :file: data/rec-html-aria-20241217.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20241217'
-  :file: data/crd-vc-data-model-2.0-20241217.yaml
 - :id:
     :code: edit-context
     :stage: WD
@@ -31180,6 +31120,76 @@
     :stage: CRD
     :date: '20241218'
   :file: data/crd-vc-bitstring-status-list-20241218.yaml
+- :id:
+    :code: pointerevents3
+    :stage: WD
+    :date: '20241218'
+  :file: data/wd-pointerevents3-20241218.yaml
+- :id:
+    :code: dpub-aria-1.1
+    :stage: CRD
+    :date: '20241218'
+  :file: data/crd-dpub-aria-1.1-20241218.yaml
+- :id:
+    :code: css-inline-3
+    :stage: WD
+    :date: '20241218'
+  :file: data/wd-css-inline-3-20241218.yaml
+- :id:
+    :code: css-multicol-2
+    :stage: WD
+    :date: '20241219'
+  :file: data/wd-css-multicol-2-20241219.yaml
+- :id:
+    :code: webgpu
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-webgpu-20241219.yaml
+- :id:
+    :code: WGSL
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-wgsl-20241219.yaml
+- :id:
+    :code: css-display-4
+    :stage: WD
+    :date: '20241219'
+  :file: data/wd-css-display-4-20241219.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-vc-data-model-2.0-20241219.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-vc-data-integrity-20241219.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-vc-di-eddsa-20241219.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-vc-di-ecdsa-20241219.yaml
+- :id:
+    :code: vc-jose-cose
+    :stage: CR
+    :date: '20241219'
+  :file: data/cr-vc-jose-cose-20241219.yaml
+- :id:
+    :code: clreq
+    :type: DNOTE
+    :date: '20241219'
+  :file: data/dnote-clreq-20241219.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20241219'
+  :file: data/wd-webdriver-bidi-20241219.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31328,9 +31338,6 @@
     :code: gpc
   :file: data/gpc.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: openscreen-application
   :file: data/openscreen-application.yaml
 - :id:
@@ -31351,3 +31358,12 @@
 - :id:
     :code: css-overflow-5
   :file: data/css-overflow-5.yaml
+- :id:
+    :code: css-multicol-2
+  :file: data/css-multicol-2.yaml
+- :id:
+    :code: css-display-4
+  :file: data/css-display-4.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

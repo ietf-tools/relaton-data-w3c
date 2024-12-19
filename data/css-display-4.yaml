@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: W3Cwebdriver-bidi
+id: W3Ccss-display-4
 title:
-- content: WebDriver BiDi
+- content: CSS Display Module Level 4
   format: text/plain
 link:
-- content: https://www.w3.org/TR/webdriver-bidi/
+- content: https://www.w3.org/TR/css-display-4/
   type: src
 type: standard
 docid:
-- id: W3C webdriver-bidi
+- id: W3C css-display-4
   type: W3C
   primary: true
-docnumber: webdriver-bidi
+docnumber: css-display-4
 language:
 - en
 script:
@@ -23,19 +23,19 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webdriver-bidi-20241219
+    id: W3CWD-css-display-4-20241219
     docid:
-    - id: W3C WD-webdriver-bidi-20241219
+    - id: W3C WD-css-display-4-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver-bidi-20241219
+      content: W3C WD-css-display-4-20241219
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: webdriver-bidi
+  number: css-display-4
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

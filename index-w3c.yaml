@@ -1832,8 +1832,8 @@
   :file: data/cr-core-aam-1.2-20221122.yaml
 - :code: core-aam-1.2
   :stage: CRD
-  :date: '20241211'
-  :file: data/crd-core-aam-1.2-20241211.yaml
+  :date: '20241219'
+  :file: data/crd-core-aam-1.2-20241219.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -10104,8 +10104,8 @@
   :file: data/cr-mediacapture-streams-20160519.yaml
 - :code: mediacapture-streams
   :stage: CRD
-  :date: '20241205'
-  :file: data/crd-mediacapture-streams-20241205.yaml
+  :date: '20241219'
+  :file: data/crd-mediacapture-streams-20241219.yaml
 - :code: mediacapture-streams
   :stage: CRD
   :date: '20240530'
@@ -11995,6 +11995,10 @@
   :file: data/permissions.yaml
 - :code: permissions
   :stage: WD
+  :date: '20241219'
+  :file: data/wd-permissions-20241219.yaml
+- :code: permissions
+  :stage: WD
   :date: '20240319'
   :file: data/wd-permissions-20240319.yaml
 - :code: permissions
@@ -13569,8 +13573,8 @@
   :file: data/rdf12-concepts.yaml
 - :code: rdf12-concepts
   :stage: WD
-  :date: '20241214'
-  :file: data/wd-rdf12-concepts-20241214.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-concepts-20241219.yaml
 - :code: rdf12-concepts
   :stage: WD
   :date: '20240502'
@@ -13595,8 +13599,8 @@
   :file: data/rdf12-n-quads.yaml
 - :code: rdf12-n-quads
   :stage: WD
-  :date: '20241107'
-  :file: data/wd-rdf12-n-quads-20241107.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-n-quads-20241219.yaml
 - :code: rdf12-n-quads
   :stage: WD
   :date: '20240418'
@@ -13617,8 +13621,8 @@
   :file: data/rdf12-n-triples.yaml
 - :code: rdf12-n-triples
   :stage: WD
-  :date: '20241107'
-  :file: data/wd-rdf12-n-triples-20241107.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-n-triples-20241219.yaml
 - :code: rdf12-n-triples
   :stage: WD
   :date: '20240418'
@@ -13639,6 +13643,10 @@
   :file: data/rdf12-schema.yaml
 - :code: rdf12-schema
   :stage: WD
+  :date: '20241219'
+  :file: data/wd-rdf12-schema-20241219.yaml
+- :code: rdf12-schema
+  :stage: WD
   :date: '20240418'
   :file: data/wd-rdf12-schema-20240418.yaml
 - :code: rdf12-schema
@@ -13657,8 +13665,8 @@
   :file: data/rdf12-semantics.yaml
 - :code: rdf12-semantics
   :stage: WD
-  :date: '20240627'
-  :file: data/wd-rdf12-semantics-20240627.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-semantics-20241219.yaml
 - :code: rdf12-semantics
   :stage: WD
   :date: '20240418'
@@ -13679,8 +13687,8 @@
   :file: data/rdf12-trig.yaml
 - :code: rdf12-trig
   :stage: WD
-  :date: '20241107'
-  :file: data/wd-rdf12-trig-20241107.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-trig-20241219.yaml
 - :code: rdf12-trig
   :stage: WD
   :date: '20240418'
@@ -13697,8 +13705,8 @@
   :file: data/rdf12-turtle.yaml
 - :code: rdf12-turtle
   :stage: WD
-  :date: '20241031'
-  :file: data/wd-rdf12-turtle-20241031.yaml
+  :date: '20241219'
+  :file: data/wd-rdf12-turtle-20241219.yaml
 - :code: rdf12-turtle
   :stage: WD
   :date: '20240418'
@@ -13717,6 +13725,10 @@
   :file: data/wd-rdf12-turtle-20230516.yaml
 - :code: rdf12-xml
   :file: data/rdf12-xml.yaml
+- :code: rdf12-xml
+  :stage: WD
+  :date: '20241219'
+  :file: data/wd-rdf12-xml-20241219.yaml
 - :code: rdf12-xml
   :stage: WD
   :date: '20240418'
@@ -14494,8 +14506,8 @@
   :file: data/screen-capture.yaml
 - :code: screen-capture
   :stage: WD
-  :date: '20240627'
-  :file: data/wd-screen-capture-20240627.yaml
+  :date: '20241219'
+  :file: data/wd-screen-capture-20241219.yaml
 - :code: screen-capture
   :stage: WD
   :date: '20240208'
@@ -14799,8 +14811,8 @@
   :file: data/selection-api.yaml
 - :code: selection-api
   :stage: WD
-  :date: '20241120'
-  :file: data/wd-selection-api-20241120.yaml
+  :date: '20241219'
+  :file: data/wd-selection-api-20241219.yaml
 - :code: selection-api
   :stage: WD
   :date: '20230516'
@@ -15662,6 +15674,10 @@
   :file: data/sparql12-entailment.yaml
 - :code: sparql12-entailment
   :stage: WD
+  :date: '20241219'
+  :file: data/wd-sparql12-entailment-20241219.yaml
+- :code: sparql12-entailment
+  :stage: WD
   :date: '20240418'
   :file: data/wd-sparql12-entailment-20240418.yaml
 - :code: sparql12-entailment
@@ -15676,8 +15692,8 @@
   :file: data/sparql12-federated-query.yaml
 - :code: sparql12-federated-query
   :stage: WD
-  :date: '20241113'
-  :file: data/wd-sparql12-federated-query-20241113.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-federated-query-20241219.yaml
 - :code: sparql12-federated-query
   :stage: WD
   :date: '20240418'
@@ -15694,8 +15710,8 @@
   :file: data/sparql12-graph-store-protocol.yaml
 - :code: sparql12-graph-store-protocol
   :stage: WD
-  :date: '20241212'
-  :file: data/wd-sparql12-graph-store-protocol-20241212.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-graph-store-protocol-20241219.yaml
 - :code: sparql12-graph-store-protocol
   :stage: WD
   :date: '20240418'
@@ -15712,8 +15728,8 @@
   :file: data/sparql12-protocol.yaml
 - :code: sparql12-protocol
   :stage: WD
-  :date: '20241113'
-  :file: data/wd-sparql12-protocol-20241113.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-protocol-20241219.yaml
 - :code: sparql12-protocol
   :stage: WD
   :date: '20240502'
@@ -15730,8 +15746,8 @@
   :file: data/sparql12-query.yaml
 - :code: sparql12-query
   :stage: WD
-  :date: '20241216'
-  :file: data/wd-sparql12-query-20241216.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-query-20241219.yaml
 - :code: sparql12-query
   :stage: WD
   :date: '20240502'
@@ -15752,8 +15768,8 @@
   :file: data/sparql12-results-csv-tsv.yaml
 - :code: sparql12-results-csv-tsv
   :stage: WD
-  :date: '20241113'
-  :file: data/wd-sparql12-results-csv-tsv-20241113.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-results-csv-tsv-20241219.yaml
 - :code: sparql12-results-csv-tsv
   :stage: WD
   :date: '20240502'
@@ -15774,8 +15790,8 @@
   :file: data/sparql12-results-json.yaml
 - :code: sparql12-results-json
   :stage: WD
-  :date: '20241214'
-  :file: data/wd-sparql12-results-json-20241214.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-results-json-20241219.yaml
 - :code: sparql12-results-json
   :stage: WD
   :date: '20240502'
@@ -15796,8 +15812,8 @@
   :file: data/sparql12-results-xml.yaml
 - :code: sparql12-results-xml
   :stage: WD
-  :date: '20241216'
-  :file: data/wd-sparql12-results-xml-20241216.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-results-xml-20241219.yaml
 - :code: sparql12-results-xml
   :stage: WD
   :date: '20240502'
@@ -15818,8 +15834,8 @@
   :file: data/sparql12-service-description.yaml
 - :code: sparql12-service-description
   :stage: WD
-  :date: '20241214'
-  :file: data/wd-sparql12-service-description-20241214.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-service-description-20241219.yaml
 - :code: sparql12-service-description
   :stage: WD
   :date: '20240502'
@@ -15836,8 +15852,8 @@
   :file: data/sparql12-update.yaml
 - :code: sparql12-update
   :stage: WD
-  :date: '20241212'
-  :file: data/wd-sparql12-update-20241212.yaml
+  :date: '20241219'
+  :file: data/wd-sparql12-update-20241219.yaml
 - :code: sparql12-update
   :stage: WD
   :date: '20240502'
@@ -17654,8 +17670,8 @@
   :file: data/vc-overview.yaml
 - :code: vc-overview
   :type: NOTE
-  :date: '20241108'
-  :file: data/note-vc-overview-20241108.yaml
+  :date: '20241220'
+  :file: data/note-vc-overview-20241220.yaml
 - :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :code: vc-specs-dir
@@ -19572,8 +19588,8 @@
   :file: data/webdriver-bidi.yaml
 - :code: webdriver-bidi
   :stage: WD
-  :date: '20241219'
-  :file: data/wd-webdriver-bidi-20241219.yaml
+  :date: '20241220'
+  :file: data/wd-webdriver-bidi-20241220.yaml
 - :code: webdriver1
   :file: data/webdriver1.yaml
 - :code: webdriver1

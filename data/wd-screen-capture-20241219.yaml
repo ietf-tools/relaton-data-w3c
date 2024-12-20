@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20241211
+id: W3CWD-screen-capture-20241219
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Screen Capture
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241211/
+- content: https://www.w3.org/TR/2024/WD-screen-capture-20241219/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/mediacapture-screen-share/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20241211
+- id: W3C WD-screen-capture-20241219
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20241211
+docnumber: WD-screen-capture-20241219
 date:
 - type: published
-  value: '2024-12-11'
+  value: '2024-12-19'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Elad Alon
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Jan-Ivar Bruaroey
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-11'
+revdate: '2024-12-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20241122
+    id: W3CWD-screen-capture-20240627
     docid:
-    - id: W3C CRD-core-aam-1.2-20241122
+    - id: W3C WD-screen-capture-20240627
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20241122
+      content: W3C WD-screen-capture-20240627
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20241211
+  number: WD-screen-capture-20241219
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

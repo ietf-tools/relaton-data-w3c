@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-federated-query-20241113
+id: W3CCRD-core-aam-1.2-20241219
 title:
-- content: SPARQL 1.2 Federated Query
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-federated-query-20241113/
+- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241219/
   type: src
-- content: https://w3c.github.io/sparql-federated-query/spec/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-federated-query-20241113
+- id: W3C CRD-core-aam-1.2-20241219
   type: W3C
   primary: true
-docnumber: WD-sparql12-federated-query-20241113
+docnumber: CRD-core-aam-1.2-20241219
 date:
 - type: published
-  value: '2024-11-13'
+  value: '2024-12-19'
 contributor:
 - person:
     name:
       completename:
-        content: Gregory Williams
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,37 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ruben Taelman
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-13'
+revdate: '2024-12-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-federated-query-20240912
+    id: W3CCRD-core-aam-1.2-20241211
     docid:
-    - id: W3C WD-sparql12-federated-query-20240912
+    - id: W3C CRD-core-aam-1.2-20241211
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-federated-query-20240912
+      content: W3C CRD-core-aam-1.2-20241211
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-sparql12-federated-query-20241113
+  number: CRD-core-aam-1.2-20241219
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

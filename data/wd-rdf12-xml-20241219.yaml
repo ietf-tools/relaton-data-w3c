@@ -1,34 +1,24 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-n-quads-20241107
+id: W3CWD-rdf12-xml-20241219
 title:
-- content: RDF 1.2 N-Quads
+- content: RDF 1.2 XML Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-rdf12-n-quads-20241107/
+- content: https://www.w3.org/TR/2024/WD-rdf12-xml-20241219/
   type: src
-- content: https://w3c.github.io/rdf-n-quads/spec/
+- content: https://w3c.github.io/rdf-xml/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-n-quads-20241107
+- id: W3C WD-rdf12-xml-20241219
   type: W3C
   primary: true
-docnumber: WD-rdf12-n-quads-20241107
+docnumber: WD-rdf12-xml-20241219
 date:
 - type: published
-  value: '2024-11-07'
+  value: '2024-12-19'
 contributor:
-- person:
-    name:
-      completename:
-        content: Dominik Tomaszuk
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
 - person:
     name:
       completename:
@@ -39,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-07'
+revdate: '2024-12-19'
 language:
 - en
 script:
@@ -50,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-n-quads-20240919
+    id: W3CWD-rdf12-xml-20240418
     docid:
-    - id: W3C WD-rdf12-n-quads-20240919
+    - id: W3C WD-rdf12-xml-20240418
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-n-quads-20240919
+      content: W3C WD-rdf12-xml-20240418
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-n-quads-20241107
+  number: WD-rdf12-xml-20241219
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

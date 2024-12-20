@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-results-csv-tsv-20241113
+id: W3CWD-sparql12-results-json-20241219
 title:
-- content: SPARQL 1.2 Query Results CSV and TSV Formats
+- content: SPARQL 1.2 Query Results JSON Format
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20241113/
+- content: https://www.w3.org/TR/2024/WD-sparql12-results-json-20241219/
   type: src
-- content: https://w3c.github.io/sparql-results-csv-tsv/spec/
+- content: https://w3c.github.io/sparql-results-json/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-results-csv-tsv-20241113
+- id: W3C WD-sparql12-results-json-20241219
   type: W3C
   primary: true
-docnumber: WD-sparql12-results-csv-tsv-20241113
+docnumber: WD-sparql12-results-json-20241219
 date:
 - type: published
-  value: '2024-11-13'
+  value: '2024-12-19'
 contributor:
+- person:
+    name:
+      completename:
+        content: Andy Seaborne
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -49,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-13'
+revdate: '2024-12-19'
 language:
 - en
 script:
@@ -60,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-results-csv-tsv-20240829
+    id: W3CWD-sparql12-results-json-20241214
     docid:
-    - id: W3C WD-sparql12-results-csv-tsv-20240829
+    - id: W3C WD-sparql12-results-json-20241214
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-results-csv-tsv-20240829
+      content: W3C WD-sparql12-results-json-20241214
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-results-csv-tsv-20241113
+  number: WD-sparql12-results-json-20241219
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

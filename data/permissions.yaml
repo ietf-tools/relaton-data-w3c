@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-permissions-20240319
+    id: W3CWD-permissions-20241219
     docid:
-    - id: W3C WD-permissions-20240319
+    - id: W3C WD-permissions-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-permissions-20240319
+      content: W3C WD-permissions-20241219
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-permissions-20230613
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20240319
+    docid:
+    - id: W3C WD-permissions-20240319
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20240319
       format: text/plain
 - type: hasEdition
   bibitem:

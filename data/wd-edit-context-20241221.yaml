@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-edit-context-20241217
+id: W3CWD-edit-context-20241221
 title:
 - content: EditContext API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-edit-context-20241217/
+- content: https://www.w3.org/TR/2024/WD-edit-context-20241221/
   type: src
 - content: https://w3c.github.io/edit-context/
   type: current
 type: standard
 docid:
-- id: W3C WD-edit-context-20241217
+- id: W3C WD-edit-context-20241221
   type: W3C
   primary: true
-docnumber: WD-edit-context-20241217
+docnumber: WD-edit-context-20241221
 date:
 - type: published
-  value: '2024-12-17'
+  value: '2024-12-21'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-17'
+revdate: '2024-12-21'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-edit-context-20241119
+    id: W3CWD-edit-context-20241217
     docid:
-    - id: W3C WD-edit-context-20241119
+    - id: W3C WD-edit-context-20241217
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-edit-context-20241119
+      content: W3C WD-edit-context-20241217
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-edit-context-20241217
+  number: WD-edit-context-20241221
 doctype: technicalReport
 editorialgroup:
 - name: Web Editing Working Group

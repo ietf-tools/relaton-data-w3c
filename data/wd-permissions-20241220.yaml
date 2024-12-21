@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-dapt-20241210
+id: W3CWD-permissions-20241220
 title:
-- content: Dubbing and Audio description Profiles of TTML2
+- content: Permissions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-dapt-20241210/
+- content: https://www.w3.org/TR/2024/WD-permissions-20241220/
   type: src
-- content: https://w3c.github.io/dapt/
+- content: https://w3c.github.io/permissions/
   type: current
 type: standard
 docid:
-- id: W3C WD-dapt-20241210
+- id: W3C WD-permissions-20241220
   type: W3C
   primary: true
-docnumber: WD-dapt-20241210
+docnumber: WD-permissions-20241220
 date:
 - type: published
-  value: '2024-12-10'
+  value: '2024-12-20'
 contributor:
 - person:
     name:
       completename:
-        content: Cyril Concolato
+        content: Marcos Caceres
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Nigel Megitt
+        content: Mike Taylor
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-10'
+revdate: '2024-12-20'
 language:
 - en
 script:
@@ -50,21 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-dapt-20241121
+    id: W3CWD-permissions-20241219
     docid:
-    - id: W3C WD-dapt-20241121
+    - id: W3C WD-permissions-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-dapt-20241121
+      content: W3C WD-permissions-20241219
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-dapt-20241210
+  number: WD-permissions-20241220
 doctype: technicalReport
 editorialgroup:
-- name: Timed Text Working Group
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

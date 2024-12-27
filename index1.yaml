@@ -30901,11 +30901,6 @@
     :date: '20241211'
   :file: data/wd-html-aam-1.0-20241211.yaml
 - :id:
-    :code: did-extensions
-    :type: NOTE
-    :date: '20241211'
-  :file: data/note-did-extensions-20241211.yaml
-- :id:
     :code: WCAG21
     :stage: REC
     :date: '20241212'
@@ -31141,20 +31136,10 @@
     :date: '20241219'
   :file: data/wd-sparql12-update-20241219.yaml
 - :id:
-    :code: sparql12-results-xml
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-sparql12-results-xml-20241219.yaml
-- :id:
     :code: sparql12-results-csv-tsv
     :stage: WD
     :date: '20241219'
   :file: data/wd-sparql12-results-csv-tsv-20241219.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-sparql12-query-20241219.yaml
 - :id:
     :code: sparql12-protocol
     :stage: WD
@@ -31215,6 +31200,21 @@
     :stage: REC
     :date: '20241223'
   :file: data/rec-html-aria-20241223.yaml
+- :id:
+    :code: did-extensions
+    :type: NOTE
+    :date: '20241227'
+  :file: data/note-did-extensions-20241227.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20241227'
+  :file: data/wd-sparql12-query-20241227.yaml
+- :id:
+    :code: sparql12-results-xml
+    :stage: WD
+    :date: '20241227'
+  :file: data/wd-sparql12-results-xml-20241227.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31369,9 +31369,6 @@
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
 - :id:
-    :code: did-extensions
-  :file: data/did-extensions.yaml
-- :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
 - :id:
@@ -31392,3 +31389,6 @@
 - :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
+- :id:
+    :code: did-extensions
+  :file: data/did-extensions.yaml

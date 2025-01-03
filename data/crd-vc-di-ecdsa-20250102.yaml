@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver-bidi-20241220
+id: W3CCRD-vc-di-ecdsa-20250102
 title:
-- content: WebDriver BiDi
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/
+- content: https://www.w3.org/TR/2025/CRD-vc-di-ecdsa-20250102/
   type: src
-- content: https://w3c.github.io/webdriver-bidi/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver-bidi-20241220
+- id: W3C CRD-vc-di-ecdsa-20250102
   type: W3C
   primary: true
-docnumber: WD-webdriver-bidi-20241220
+docnumber: CRD-vc-di-ecdsa-20250102
 date:
 - type: published
-  value: '2024-12-20'
+  value: '2025-01-02'
 contributor:
 - person:
     name:
       completename:
-        content: Alex Rudenko
+        content: Greg Bernstein
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: James Graham
+        content: Manu Sporny
         language:
         - en
         script:
@@ -42,37 +42,49 @@ contributor:
 - person:
     name:
       completename:
-        content: Maksim Sadym
+        content: Martin Reed
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-20'
+- person:
+    name:
+      completename:
+        content: Sebastian Crane
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-01-02'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver-bidi-20241219
+    id: W3CCR-vc-di-ecdsa-20241219
     docid:
-    - id: W3C WD-webdriver-bidi-20241219
+    - id: W3C CR-vc-di-ecdsa-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver-bidi-20241219
+      content: W3C CR-vc-di-ecdsa-20241219
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webdriver-bidi-20241220
+  number: CRD-vc-di-ecdsa-20250102
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

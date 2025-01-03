@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-extensions-20241227
+id: W3CNOTE-did-extensions-20250102
 title:
 - content: Decentralized Identifier Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/NOTE-did-extensions-20241227/
+- content: https://www.w3.org/TR/2025/NOTE-did-extensions-20250102/
   type: src
 - content: https://w3c.github.io/did-extensions/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-extensions-20241227
+- id: W3C NOTE-did-extensions-20250102
   type: W3C
   primary: true
-docnumber: NOTE-did-extensions-20241227
+docnumber: NOTE-did-extensions-20250102
 date:
 - type: published
-  value: '2024-12-27'
+  value: '2025-01-02'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-27'
+revdate: '2025-01-02'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-did-extensions-20241211
+    id: W3CNOTE-did-extensions-20241227
     docid:
-    - id: W3C NOTE-did-extensions-20241211
+    - id: W3C NOTE-did-extensions-20241227
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-extensions-20241211
+      content: W3C NOTE-did-extensions-20241227
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-did-extensions-20241227
+  number: NOTE-did-extensions-20250102
 doctype: groupNote
 ext:
   schema-version: v1.0.0

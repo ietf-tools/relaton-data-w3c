@@ -31186,11 +31186,6 @@
     :date: '20241227'
   :file: data/wd-sparql12-results-xml-20241227.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20241229'
-  :file: data/wd-controller-document-20241229.yaml
-- :id:
     :code: vc-di-ecdsa
     :stage: CRD
     :date: '20250102'
@@ -31206,15 +31201,20 @@
     :date: '20250102'
   :file: data/note-did-extensions-20250102.yaml
 - :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20250103'
+  :file: data/note-vc-overview-20250103.yaml
+- :id:
     :code: webdriver-bidi
     :stage: WD
     :date: '20250103'
   :file: data/wd-webdriver-bidi-20250103.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
+    :code: controller-document
+    :stage: WD
     :date: '20250103'
-  :file: data/note-vc-overview-20250103.yaml
+  :file: data/wd-controller-document-20250103.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31387,8 +31387,8 @@
     :code: did-extensions
   :file: data/did-extensions.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

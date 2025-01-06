@@ -1,24 +1,34 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-design-principles-20240718
+id: W3CNOTE-design-principles-20250106
 title:
 - content: Web Platform Design Principles
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/NOTE-design-principles-20240718/
+- content: https://www.w3.org/TR/2025/NOTE-design-principles-20250106/
   type: src
 - content: https://w3ctag.github.io/design-principles/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-design-principles-20240718
+- id: W3C NOTE-design-principles-20250106
   type: W3C
   primary: true
-docnumber: NOTE-design-principles-20240718
+docnumber: NOTE-design-principles-20250106
 date:
 - type: published
-  value: '2024-07-18'
+  value: '2025-01-06'
 contributor:
+- person:
+    name:
+      completename:
+        content: Jeffrey Yasskin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
 - person:
     name:
       completename:
@@ -29,7 +39,17 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-18'
+- person:
+    name:
+      completename:
+        content: Martin Thomson
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-01-06'
 language:
 - en
 script:
@@ -37,19 +57,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-design-principles-20240130
+    id: W3CNOTE-design-principles-20240718
     docid:
-    - id: W3C NOTE-design-principles-20240130
+    - id: W3C NOTE-design-principles-20240718
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-design-principles-20240130
+      content: W3C NOTE-design-principles-20240718
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-design-principles-20240718
+  number: NOTE-design-principles-20250106
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

@@ -31186,11 +31186,6 @@
     :date: '20250102'
   :file: data/note-did-extensions-20250102.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250103'
-  :file: data/wd-webdriver-bidi-20250103.yaml
-- :id:
     :code: vc-overview
     :type: NOTE
     :date: '20250103'
@@ -31215,6 +31210,21 @@
     :stage: CRD
     :date: '20250106'
   :file: data/crd-vc-data-integrity-20250106.yaml
+- :id:
+    :code: epub-33
+    :stage: REC
+    :date: '20250107'
+  :file: data/rec-epub-33-20250107.yaml
+- :id:
+    :code: string-search
+    :type: DNOTE
+    :date: '20250107'
+  :file: data/dnote-string-search-20250107.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250107'
+  :file: data/wd-webdriver-bidi-20250107.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31387,8 +31397,11 @@
     :code: did-extensions
   :file: data/did-extensions.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
+- :id:
+    :code: string-search
+  :file: data/string-search.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

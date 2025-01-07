@@ -6240,6 +6240,10 @@
   :file: data/epub-33.yaml
 - :code: epub-33
   :stage: REC
+  :date: '20250107'
+  :file: data/rec-epub-33-20250107.yaml
+- :code: epub-33
+  :stage: REC
   :date: '20241017'
   :file: data/rec-epub-33-20241017.yaml
 - :code: epub-33
@@ -16018,6 +16022,12 @@
   :stage: WD
   :date: '20190611'
   :file: data/wd-string-meta-20190611.yaml
+- :code: string-search
+  :file: data/string-search.yaml
+- :code: string-search
+  :type: DNOTE
+  :date: '20250107'
+  :file: data/dnote-string-search-20250107.yaml
 - :code: stts2
   :type: NOTE
   :file: data/note-stts2.yaml
@@ -19592,8 +19602,8 @@
   :file: data/webdriver-bidi.yaml
 - :code: webdriver-bidi
   :stage: WD
-  :date: '20250103'
-  :file: data/wd-webdriver-bidi-20250103.yaml
+  :date: '20250107'
+  :file: data/wd-webdriver-bidi-20250107.yaml
 - :code: webdriver1
   :file: data/webdriver1.yaml
 - :code: webdriver1

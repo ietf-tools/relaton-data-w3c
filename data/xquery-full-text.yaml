@@ -21,15 +21,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-xquery-full-text-20060501
+    id: W3CWD-xquery-full-text-20040709
     docid:
-    - id: W3C WD-xquery-full-text-20060501
+    - id: W3C WD-xquery-full-text-20040709
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xquery-full-text-20060501
+      content: W3C WD-xquery-full-text-20040709
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -41,15 +41,15 @@ relation:
     formattedref:
       content: W3C WD-xquery-full-text-20051103
       format: text/plain
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-xquery-full-text-20040709
+    id: W3CWD-xquery-full-text-20060501
     docid:
-    - id: W3C WD-xquery-full-text-20040709
+    - id: W3C WD-xquery-full-text-20060501
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xquery-full-text-20040709
+      content: W3C WD-xquery-full-text-20060501
       format: text/plain
 series:
 - title:

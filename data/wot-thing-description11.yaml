@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wot-thing-description11-20201124
-    docid:
-    - id: W3C WD-wot-thing-description11-20201124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wot-thing-description11-20201124
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCR-wot-thing-description11-20230119
     docid:
     - id: W3C CR-wot-thing-description11-20230119
@@ -50,16 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-wot-thing-description11-20230119
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPR-wot-thing-description11-20230711
-    docid:
-    - id: W3C PR-wot-thing-description11-20230711
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-wot-thing-description11-20230711
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,13 +53,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-wot-thing-description11-20220311
+    id: W3CPR-wot-thing-description11-20230711
     docid:
-    - id: W3C WD-wot-thing-description11-20220311
+    - id: W3C PR-wot-thing-description11-20230711
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-wot-thing-description11-20220311
+      content: W3C PR-wot-thing-description11-20230711
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-thing-description11-20201124
+    docid:
+    - id: W3C WD-wot-thing-description11-20201124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description11-20201124
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-wot-thing-description11-20220803
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-thing-description11-20220311
+    docid:
+    - id: W3C WD-wot-thing-description11-20220311
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-thing-description11-20220311
       format: text/plain
 series:
 - title:

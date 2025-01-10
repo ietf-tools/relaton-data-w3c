@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-css-display-3-20201218
-    docid:
-    - id: W3C CRD-css-display-3-20201218
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-css-display-3-20201218
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-css-display-3-20210903
     docid:
     - id: W3C CRD-css-display-3-20210903
@@ -50,6 +40,26 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-css-display-3-20210903
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-display-3-20151015
+    docid:
+    - id: W3C WD-css-display-3-20151015
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-display-3-20151015
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-css-display-3-20201218
+    docid:
+    - id: W3C CRD-css-display-3-20201218
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-css-display-3-20201218
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,23 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-display-3-20170720
+    id: W3CCRD-css-display-3-20221118
     docid:
-    - id: W3C WD-css-display-3-20170720
+    - id: W3C CRD-css-display-3-20221118
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-display-3-20170720
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css-display-3-20151015
-    docid:
-    - id: W3C WD-css-display-3-20151015
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-display-3-20151015
+      content: W3C CRD-css-display-3-20221118
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,13 +103,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-css-display-3-20221118
+    id: W3CWD-css-display-3-20170720
     docid:
-    - id: W3C CRD-css-display-3-20221118
+    - id: W3C WD-css-display-3-20170720
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-css-display-3-20221118
+      content: W3C WD-css-display-3-20170720
       format: text/plain
 series:
 - title:

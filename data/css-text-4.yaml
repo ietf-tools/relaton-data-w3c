@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-text-4-20191113
-    docid:
-    - id: W3C WD-css-text-4-20191113
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-text-4-20191113
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-text-4-20230329
     docid:
     - id: W3C WD-css-text-4-20230329
@@ -53,13 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-text-4-20240219
+    id: W3CWD-css-text-4-20191113
     docid:
-    - id: W3C WD-css-text-4-20240219
+    - id: W3C WD-css-text-4-20191113
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-text-4-20240219
+      content: W3C WD-css-text-4-20191113
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,16 +73,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-text-4-20180920
-    docid:
-    - id: W3C WD-css-text-4-20180920
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-text-4-20180920
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-text-4-20220505
     docid:
     - id: W3C WD-css-text-4-20220505
@@ -100,6 +80,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-text-4-20220505
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-text-4-20240219
+    docid:
+    - id: W3C WD-css-text-4-20240219
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-text-4-20240219
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-text-4-20180920
+    docid:
+    - id: W3C WD-css-text-4-20180920
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-text-4-20180920
       format: text/plain
 series:
 - title:

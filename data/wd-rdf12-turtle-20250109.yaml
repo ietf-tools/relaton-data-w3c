@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-clreq-gap-20240919
+id: W3CWD-rdf12-turtle-20250109
 title:
-- content: Chinese Layout Gap Analysis
+- content: RDF 1.2 Turtle
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240919/
+- content: https://www.w3.org/TR/2025/WD-rdf12-turtle-20250109/
   type: src
-- content: https://www.w3.org/International/clreq/gap-analysis/
+- content: https://w3c.github.io/rdf-turtle/spec/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-clreq-gap-20240919
+- id: W3C WD-rdf12-turtle-20250109
   type: W3C
   primary: true
-docnumber: DNOTE-clreq-gap-20240919
+docnumber: WD-rdf12-turtle-20250109
 date:
 - type: published
-  value: '2024-09-19'
+  value: '2025-01-09'
 contributor:
 - person:
     name:
       completename:
-        content: Fuqiao Xue
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,36 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Ishida
+        content: Gregg Kellogg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-19'
+revdate: '2025-01-09'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-clreq-gap-20240709
+    id: W3CWD-rdf12-turtle-20241219
     docid:
-    - id: W3C DNOTE-clreq-gap-20240709
+    - id: W3C WD-rdf12-turtle-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-clreq-gap-20240709
+      content: W3C WD-rdf12-turtle-20241219
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-clreq-gap-20240919
-doctype: groupNote
-editorialgroup:
-- name: Internationalization Working Group
+  number: WD-rdf12-turtle-20250109
+doctype: technicalReport
 ext:
   schema-version: v1.0.0

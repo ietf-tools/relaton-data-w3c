@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CNOTE-timezone-20110705
-    docid:
-    - id: W3C NOTE-timezone-20110705
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C NOTE-timezone-20110705
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CNOTE-timezone-20051013
     docid:
     - id: W3C NOTE-timezone-20051013
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-timezone-20051013
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-timezone-20110705
+    docid:
+    - id: W3C NOTE-timezone-20110705
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-timezone-20110705
       format: text/plain
 series:
 - title:

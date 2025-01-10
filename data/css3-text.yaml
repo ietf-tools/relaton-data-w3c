@@ -23,26 +23,6 @@ docstatus:
 relation:
 - type: hasEdition
   bibitem:
-    id: W3CWD-css3-text-20110901
-    docid:
-    - id: W3C WD-css3-text-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20110901
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20050627
-    docid:
-    - id: W3C WD-css3-text-20050627
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20050627
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css3-text-20070306
     docid:
     - id: W3C WD-css3-text-20070306
@@ -50,16 +30,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-text-20070306
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-text-20021024
-    docid:
-    - id: W3C WD-css3-text-20021024
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-text-20021024
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,6 +53,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-css3-text-20021024
+    docid:
+    - id: W3C WD-css3-text-20021024
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20021024
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20110901
+    docid:
+    - id: W3C WD-css3-text-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20110901
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-css3-text-20101005
     docid:
     - id: W3C WD-css3-text-20101005
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css3-text-20101005
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-text-20050627
+    docid:
+    - id: W3C WD-css3-text-20050627
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-text-20050627
       format: text/plain
 series:
 - title:

@@ -43,26 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vc-json-schema-20230613
-    docid:
-    - id: W3C WD-vc-json-schema-20230613
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vc-json-schema-20230613
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-vc-json-schema-20231218
-    docid:
-    - id: W3C CRD-vc-json-schema-20231218
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-vc-json-schema-20231218
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-vc-json-schema-20231014
     docid:
     - id: W3C WD-vc-json-schema-20231014
@@ -73,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-vc-json-schema-20230613
+    docid:
+    - id: W3C WD-vc-json-schema-20230613
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-json-schema-20230613
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-vc-json-schema-20230612
     docid:
     - id: W3C WD-vc-json-schema-20230612
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-vc-json-schema-20230612
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-vc-json-schema-20231218
+    docid:
+    - id: W3C CRD-vc-json-schema-20231218
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vc-json-schema-20231218
       format: text/plain
 series:
 - title:

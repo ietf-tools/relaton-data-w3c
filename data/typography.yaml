@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-typography-20200520
-    docid:
-    - id: W3C WD-typography-20200520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-typography-20200520
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-typography-20221101
     docid:
     - id: W3C DNOTE-typography-20221101
@@ -50,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-typography-20200520
+    docid:
+    - id: W3C WD-typography-20200520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-typography-20200520
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-typography-20240322
     docid:
     - id: W3C DNOTE-typography-20240322
@@ -57,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-typography-20240322
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-typography-20170209
-    docid:
-    - id: W3C WD-typography-20170209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-typography-20170209
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -87,6 +77,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-typography-20180828
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-typography-20170209
+    docid:
+    - id: W3C WD-typography-20170209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-typography-20170209
       format: text/plain
 series:
 - title:

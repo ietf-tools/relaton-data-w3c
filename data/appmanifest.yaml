@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-appmanifest-20201019
-    docid:
-    - id: W3C WD-appmanifest-20201019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20201019
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-appmanifest-20230502
     docid:
     - id: W3C WD-appmanifest-20230502
@@ -50,26 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-appmanifest-20230502
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20240517
-    docid:
-    - id: W3C WD-appmanifest-20240517
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20240517
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20231012
-    docid:
-    - id: W3C WD-appmanifest-20231012
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20231012
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,73 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-appmanifest-20131217
+    id: W3CWD-appmanifest-20231012
     docid:
-    - id: W3C WD-appmanifest-20131217
+    - id: W3C WD-appmanifest-20231012
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-appmanifest-20131217
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20171129
-    docid:
-    - id: W3C WD-appmanifest-20171129
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20171129
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20161212
-    docid:
-    - id: W3C WD-appmanifest-20161212
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20161212
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20191209
-    docid:
-    - id: W3C WD-appmanifest-20191209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20191209
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20181212
-    docid:
-    - id: W3C WD-appmanifest-20181212
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20181212
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20240606
-    docid:
-    - id: W3C WD-appmanifest-20240606
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20240606
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-appmanifest-20220217
-    docid:
-    - id: W3C WD-appmanifest-20220217
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-appmanifest-20220217
+      content: W3C WD-appmanifest-20231012
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -163,6 +73,36 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-appmanifest-20201019
+    docid:
+    - id: W3C WD-appmanifest-20201019
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20201019
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20131217
+    docid:
+    - id: W3C WD-appmanifest-20131217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20131217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20240606
+    docid:
+    - id: W3C WD-appmanifest-20240606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20240606
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-appmanifest-20221220
     docid:
     - id: W3C WD-appmanifest-20221220
@@ -170,6 +110,66 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-appmanifest-20221220
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20240517
+    docid:
+    - id: W3C WD-appmanifest-20240517
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20240517
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20191209
+    docid:
+    - id: W3C WD-appmanifest-20191209
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20191209
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20220217
+    docid:
+    - id: W3C WD-appmanifest-20220217
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20220217
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20161212
+    docid:
+    - id: W3C WD-appmanifest-20161212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20161212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20181212
+    docid:
+    - id: W3C WD-appmanifest-20181212
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20181212
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-appmanifest-20171129
+    docid:
+    - id: W3C WD-appmanifest-20171129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-appmanifest-20171129
       format: text/plain
 series:
 - title:

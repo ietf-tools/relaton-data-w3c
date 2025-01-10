@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-activitystreams-vocabulary-20151215
+    docid:
+    - id: W3C WD-activitystreams-vocabulary-20151215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-activitystreams-vocabulary-20151215
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-activitystreams-vocabulary-20141023
     docid:
     - id: W3C WD-activitystreams-vocabulary-20141023
@@ -50,16 +60,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-activitystreams-vocabulary-20161215
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-activitystreams-vocabulary-20151215
-    docid:
-    - id: W3C WD-activitystreams-vocabulary-20151215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-activitystreams-vocabulary-20151215
       format: text/plain
 series:
 - title:

@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-miniapp-packaging-20220428
-    docid:
-    - id: W3C WD-miniapp-packaging-20220428
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-miniapp-packaging-20220428
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-miniapp-packaging-20221027
     docid:
     - id: W3C WD-miniapp-packaging-20221027
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-miniapp-packaging-20221027
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-miniapp-packaging-20220428
+    docid:
+    - id: W3C WD-miniapp-packaging-20220428
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-packaging-20220428
       format: text/plain
 series:
 - title:

@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-longtasks-1-20240311
-    docid:
-    - id: W3C WD-longtasks-1-20240311
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-longtasks-1-20240311
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-longtasks-1-20230719
     docid:
     - id: W3C WD-longtasks-1-20230719
@@ -60,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-longtasks-1-20230719
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-longtasks-1-20240311
+    docid:
+    - id: W3C WD-longtasks-1-20240311
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-longtasks-1-20240311
       format: text/plain
 series:
 - title:

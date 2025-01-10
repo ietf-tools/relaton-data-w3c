@@ -2,10 +2,10 @@
 schema-version: v1.2.3
 id: W3Ccss3-grid-layout
 title:
-- content: Grid Layout
+- content: CSS Grid Layout Module Level 1
   format: text/plain
 link:
-- content: http://www.w3.org/TR/css3-grid-layout
+- content: http://www.w3.org/TR/css3-grid-layout/
   type: src
 type: standard
 docid:
@@ -21,15 +21,15 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CWD-css3-grid-layout-20110407
+    id: W3CWD-css3-grid-layout-20130910
     docid:
-    - id: W3C WD-css3-grid-layout-20110407
+    - id: W3C WD-css3-grid-layout-20130910
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-grid-layout-20110407
+      content: W3C WD-css3-grid-layout-20130910
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -41,15 +41,15 @@ relation:
     formattedref:
       content: W3C WD-css3-grid-layout-20121106
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CWD-css3-grid-layout-20130910
+    id: W3CWD-css3-grid-layout-20110407
     docid:
-    - id: W3C WD-css3-grid-layout-20130910
+    - id: W3C WD-css3-grid-layout-20110407
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css3-grid-layout-20130910
+      content: W3C WD-css3-grid-layout-20110407
       format: text/plain
 series:
 - title:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-css-variables-1-20151203
-    docid:
-    - id: W3C CR-css-variables-1-20151203
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-variables-1-20151203
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-css-variables-1-20211111
     docid:
     - id: W3C CRD-css-variables-1-20211111
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-css-variables-1-20211111
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-css-variables-1-20151203
+    docid:
+    - id: W3C CR-css-variables-1-20151203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-css-variables-1-20151203
       format: text/plain
 - type: hasEdition
   bibitem:

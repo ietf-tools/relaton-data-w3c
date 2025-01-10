@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-css-flexbox-1-20150514
+    docid:
+    - id: W3C WD-css-flexbox-1-20150514
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-flexbox-1-20150514
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-css-flexbox-1-20140925
     docid:
     - id: W3C WD-css-flexbox-1-20140925
@@ -40,16 +50,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-flexbox-1-20140925
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-css-flexbox-1-20171019
-    docid:
-    - id: W3C CR-css-flexbox-1-20171019
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-css-flexbox-1-20171019
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-flexbox-1-20150514
+    id: W3CCR-css-flexbox-1-20171019
     docid:
-    - id: W3C WD-css-flexbox-1-20150514
+    - id: W3C CR-css-flexbox-1-20171019
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-css-flexbox-1-20150514
+      content: W3C CR-css-flexbox-1-20171019
       format: text/plain
 series:
 - title:

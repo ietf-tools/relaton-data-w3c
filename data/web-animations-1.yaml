@@ -33,13 +33,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-web-animations-1-20181011
+    id: W3CWD-web-animations-1-20210518
     docid:
-    - id: W3C WD-web-animations-1-20181011
+    - id: W3C WD-web-animations-1-20210518
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-web-animations-1-20181011
+      content: W3C WD-web-animations-1-20210518
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-web-animations-1-20150707
+    docid:
+    - id: W3C WD-web-animations-1-20150707
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-web-animations-1-20150707
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-web-animations-1-20210518
+    id: W3CWD-web-animations-1-20181011
     docid:
-    - id: W3C WD-web-animations-1-20210518
+    - id: W3C WD-web-animations-1-20181011
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-web-animations-1-20210518
+      content: W3C WD-web-animations-1-20181011
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-web-animations-1-20160913
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-web-animations-1-20150707
-    docid:
-    - id: W3C WD-web-animations-1-20150707
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-web-animations-1-20150707
       format: text/plain
 series:
 - title:

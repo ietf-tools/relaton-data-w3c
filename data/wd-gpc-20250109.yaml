@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20241219
+id: W3CWD-gpc-20250109
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: Global Privacy Control (GPC)
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-rdf12-concepts-20241219/
+- content: https://www.w3.org/TR/2025/WD-gpc-20250109/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/gpc/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20241219
+- id: W3C WD-gpc-20250109
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20241219
+docnumber: WD-gpc-20250109
 date:
 - type: published
-  value: '2024-12-19'
+  value: '2025-01-09'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Aram Zucker-Scharff
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: Justin Brookman
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Peter Snyder
         language:
         - en
         script:
@@ -52,14 +52,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Pierre-Antoine Champin
+        content: Sebastian Zimmeck
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-19'
+revdate: '2025-01-09'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20241214
+    id: W3CWD-gpc-20241203
     docid:
-    - id: W3C WD-rdf12-concepts-20241214
+    - id: W3C WD-gpc-20241203
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20241214
+      content: W3C WD-gpc-20241203
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20241219
+  number: WD-gpc-20250109
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

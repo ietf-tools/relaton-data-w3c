@@ -19,18 +19,8 @@ script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-wot-architecture-20170914
-    docid:
-    - id: W3C WD-wot-architecture-20170914
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-wot-architecture-20170914
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CCR-wot-architecture-20191106
@@ -41,9 +31,19 @@ relation:
     formattedref:
       content: W3C CR-wot-architecture-20191106
       format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-wot-architecture-20170914
+    docid:
+    - id: W3C WD-wot-architecture-20170914
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-wot-architecture-20170914
+      format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
   number: wot-architecture
 doctype: technicalReport

@@ -34,16 +34,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CCPP-struct-vocab-20021108
-    docid:
-    - id: W3C WD-CCPP-struct-vocab-20021108
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CCPP-struct-vocab-20021108
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CPR-CCPP-struct-vocab-20031015
     docid:
     - id: W3C PR-CCPP-struct-vocab-20031015
@@ -51,6 +41,16 @@ relation:
       primary: true
     formattedref:
       content: W3C PR-CCPP-struct-vocab-20031015
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CCPP-struct-vocab-20021108
+    docid:
+    - id: W3C WD-CCPP-struct-vocab-20021108
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CCPP-struct-vocab-20021108
       format: text/plain
 series:
 - title:

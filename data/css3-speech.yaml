@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccss3-speech
 title:
-- content: CSS Speech Module
+- content: CSS3 Speech Module
   format: text/plain
 link:
 - content: http://www.w3.org/TR/css3-speech
@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css3-speech-20110818
-    docid:
-    - id: W3C WD-css3-speech-20110818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css3-speech-20110818
-      format: text/plain
 - type: hasEdition
   bibitem:
     id: W3CWD-css3-speech-20041216
@@ -70,6 +60,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-css3-speech-20180605
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css3-speech-20110818
+    docid:
+    - id: W3C WD-css3-speech-20110818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css3-speech-20110818
       format: text/plain
 - type: hasEdition
   bibitem:

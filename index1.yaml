@@ -30346,11 +30346,6 @@
     :date: '20240919'
   :file: data/dnote-alreq-gap-20240919.yaml
 - :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20240925'
-  :file: data/wd-permissions-policy-1-20240925.yaml
-- :id:
     :code: vc-extensions
     :type: NOTE
     :date: '20240930'
@@ -31141,11 +31136,6 @@
     :date: '20250102'
   :file: data/crd-vc-di-eddsa-20250102.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20250103'
-  :file: data/wd-controller-document-20250103.yaml
-- :id:
     :code: selection-api
     :stage: WD
     :date: '20250105'
@@ -31176,20 +31166,15 @@
     :date: '20250107'
   :file: data/wd-webmidi-20250107.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250108'
-  :file: data/wd-webdriver-bidi-20250108.yaml
+    :code: clreq-gap
+    :type: DNOTE
+    :date: '20250109'
+  :file: data/dnote-clreq-gap-20250109.yaml
 - :id:
     :code: vc-overview
     :type: NOTE
     :date: '20250109'
   :file: data/note-vc-overview-20250109.yaml
-- :id:
-    :code: clreq-gap
-    :type: DNOTE
-    :date: '20250109'
-  :file: data/dnote-clreq-gap-20250109.yaml
 - :id:
     :code: rdf12-concepts
     :stage: WD
@@ -31225,6 +31210,21 @@
     :stage: WD
     :date: '20250110'
   :file: data/wd-html-aam-1.0-20250110.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20250112'
+  :file: data/wd-controller-document-20250112.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250113'
+  :file: data/wd-webdriver-bidi-20250113.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20250113'
+  :file: data/wd-permissions-policy-1-20250113.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31394,9 +31394,6 @@
     :code: string-search
   :file: data/string-search.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
 - :id:
@@ -31405,3 +31402,6 @@
 - :id:
     :code: did-extensions
   :file: data/did-extensions.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

@@ -31161,20 +31161,15 @@
     :date: '20250107'
   :file: data/dnote-string-search-20250107.yaml
 - :id:
-    :code: webmidi
-    :stage: WD
-    :date: '20250107'
-  :file: data/wd-webmidi-20250107.yaml
+    :code: vc-overview
+    :type: NOTE
+    :date: '20250109'
+  :file: data/note-vc-overview-20250109.yaml
 - :id:
     :code: clreq-gap
     :type: DNOTE
     :date: '20250109'
   :file: data/dnote-clreq-gap-20250109.yaml
-- :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20250109'
-  :file: data/note-vc-overview-20250109.yaml
 - :id:
     :code: rdf12-concepts
     :stage: WD
@@ -31216,15 +31211,20 @@
     :date: '20250112'
   :file: data/wd-controller-document-20250112.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250113'
-  :file: data/wd-webdriver-bidi-20250113.yaml
-- :id:
     :code: permissions-policy-1
     :stage: WD
     :date: '20250113'
   :file: data/wd-permissions-policy-1-20250113.yaml
+- :id:
+    :code: webmidi
+    :stage: WD
+    :date: '20250114'
+  :file: data/wd-webmidi-20250114.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250115'
+  :file: data/wd-webdriver-bidi-20250115.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

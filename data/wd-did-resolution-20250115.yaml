@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20241212
+id: W3CWD-did-resolution-20250115
 title:
 - content: Decentralized Identifier Resolution (DID Resolution) v0.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-did-resolution-20241212/
+- content: https://www.w3.org/TR/2025/WD-did-resolution-20250115/
   type: src
 - content: https://w3c.github.io/did-resolution/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20241212
+- id: W3C WD-did-resolution-20250115
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20241212
+docnumber: WD-did-resolution-20250115
 date:
 - type: published
-  value: '2024-12-12'
+  value: '2025-01-15'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-12'
+revdate: '2025-01-15'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20241203
+    id: W3CWD-did-resolution-20241212
     docid:
-    - id: W3C WD-did-resolution-20241203
+    - id: W3C WD-did-resolution-20241212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20241203
+      content: W3C WD-did-resolution-20241212
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-did-resolution-20241212
+  number: WD-did-resolution-20250115
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

@@ -30806,30 +30806,20 @@
     :date: '20241115'
   :file: data/dnote-jpan-lreq-20241115.yaml
 - :id:
-    :code: mong-lreq
+    :code: kore-lreq
     :type: DNOTE
     :date: '20241115'
-  :file: data/dnote-mong-lreq-20241115.yaml
+  :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
     :code: epub-a11y-tech-11
     :type: NOTE
     :date: '20241203'
   :file: data/note-epub-a11y-tech-11-20241203.yaml
 - :id:
-    :code: kore-lreq
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-kore-lreq-20241115.yaml
-- :id:
     :code: jpan-gap
     :type: DNOTE
     :date: '20241129'
   :file: data/dnote-jpan-gap-20241129.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20241204'
-  :file: data/crd-webnn-20241204.yaml
 - :id:
     :code: FileAPI
     :stage: WD
@@ -30880,11 +30870,6 @@
     :type: DNOTE
     :date: '20241212'
   :file: data/dnote-wcag-3.0-requirements-20241212.yaml
-- :id:
-    :code: did-resolution
-    :stage: WD
-    :date: '20241212'
-  :file: data/wd-did-resolution-20241212.yaml
 - :id:
     :code: webdriver2
     :stage: WD
@@ -31201,16 +31186,6 @@
     :date: '20250110'
   :file: data/wd-indexeddb-3-20250110.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20250110'
-  :file: data/wd-html-aam-1.0-20250110.yaml
-- :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20250112'
-  :file: data/wd-controller-document-20250112.yaml
-- :id:
     :code: permissions-policy-1
     :stage: WD
     :date: '20250113'
@@ -31221,10 +31196,35 @@
     :date: '20250114'
   :file: data/wd-webmidi-20250114.yaml
 - :id:
-    :code: webdriver-bidi
+    :code: did-resolution
     :stage: WD
     :date: '20250115'
-  :file: data/wd-webdriver-bidi-20250115.yaml
+  :file: data/wd-did-resolution-20250115.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250116'
+  :file: data/crd-webnn-20250116.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250116'
+  :file: data/wd-webdriver-bidi-20250116.yaml
+- :id:
+    :code: mong-lreq
+    :type: DNOTE
+    :date: '20250116'
+  :file: data/dnote-mong-lreq-20250116.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20250116'
+  :file: data/wd-html-aam-1.0-20250116.yaml
+- :id:
+    :code: controller-document
+    :stage: WD
+    :date: '20250116'
+  :file: data/wd-controller-document-20250116.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31361,9 +31361,6 @@
     :code: jpan-lreq
   :file: data/jpan-lreq.yaml
 - :id:
-    :code: mong-lreq
-  :file: data/mong-lreq.yaml
-- :id:
     :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :id:
@@ -31375,9 +31372,6 @@
 - :id:
     :code: webcodecs-video-frame-metadata-registry
   :file: data/webcodecs-video-frame-metadata-registry.yaml
-- :id:
-    :code: did-resolution
-  :file: data/did-resolution.yaml
 - :id:
     :code: css-color-hdr-1
   :file: data/css-color-hdr-1.yaml
@@ -31403,5 +31397,11 @@
     :code: did-extensions
   :file: data/did-extensions.yaml
 - :id:
+    :code: did-resolution
+  :file: data/did-resolution.yaml
+- :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml
+- :id:
+    :code: mong-lreq
+  :file: data/mong-lreq.yaml

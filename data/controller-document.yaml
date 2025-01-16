@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: W3Ccontroller-document
 title:
-- content: Controlled Identifier Document 1.0
+- content: Controlled Identifiers (CIDs) v1.0
   format: text/plain
 link:
 - content: https://www.w3.org/TR/controller-document/
@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-controller-document-20250112
+    id: W3CWD-controller-document-20250116
     docid:
-    - id: W3C WD-controller-document-20250112
+    - id: W3C WD-controller-document-20250116
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20250112
+      content: W3C WD-controller-document-20250116
       format: text/plain
 - type: hasEdition
   bibitem:

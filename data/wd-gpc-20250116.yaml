@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-gpc-20250109
+id: W3CWD-gpc-20250116
 title:
 - content: Global Privacy Control (GPC)
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-gpc-20250109/
+- content: https://www.w3.org/TR/2025/WD-gpc-20250116/
   type: src
 - content: https://w3c.github.io/gpc/
   type: current
 type: standard
 docid:
-- id: W3C WD-gpc-20250109
+- id: W3C WD-gpc-20250116
   type: W3C
   primary: true
-docnumber: WD-gpc-20250109
+docnumber: WD-gpc-20250116
 date:
 - type: published
-  value: '2025-01-09'
+  value: '2025-01-16'
 contributor:
 - person:
     name:
@@ -59,7 +59,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-09'
+revdate: '2025-01-16'
 language:
 - en
 script:
@@ -70,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-gpc-20241203
+    id: W3CWD-gpc-20250109
     docid:
-    - id: W3C WD-gpc-20241203
+    - id: W3C WD-gpc-20250109
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-gpc-20241203
+      content: W3C WD-gpc-20250109
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-gpc-20250109
+  number: WD-gpc-20250116
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

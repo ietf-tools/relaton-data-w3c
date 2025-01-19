@@ -30951,11 +30951,6 @@
     :date: '20241219'
   :file: data/wd-css-display-4-20241219.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CR
-    :date: '20241219'
-  :file: data/cr-vc-data-model-2.0-20241219.yaml
-- :id:
     :code: vc-jose-cose
     :stage: CR
     :date: '20241219'
@@ -31101,11 +31096,6 @@
     :date: '20250106'
   :file: data/note-design-principles-20250106.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20250106'
-  :file: data/crd-vc-data-integrity-20250106.yaml
-- :id:
     :code: epub-33
     :stage: REC
     :date: '20250107'
@@ -31166,15 +31156,15 @@
     :date: '20250116'
   :file: data/crd-webnn-20250116.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250116'
-  :file: data/wd-webdriver-bidi-20250116.yaml
-- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20250116'
   :file: data/dnote-mong-lreq-20250116.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250116'
+  :file: data/wd-webdriver-bidi-20250116.yaml
 - :id:
     :code: html-aam-1.0
     :stage: WD
@@ -31216,6 +31206,11 @@
     :date: '20250117'
   :file: data/dnote-hebr-gap-20250117.yaml
 - :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20250118'
+  :file: data/crd-vc-data-model-2.0-20250118.yaml
+- :id:
     :code: adlm-gap
     :type: DNOTE
     :date: '20250117'
@@ -31225,6 +31220,11 @@
     :type: DNOTE
     :date: '20250117'
   :file: data/dnote-nkoo-gap-20250117.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20250118'
+  :file: data/crd-vc-data-integrity-20250118.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31397,11 +31397,11 @@
     :code: did-resolution
   :file: data/did-resolution.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: mong-lreq
   :file: data/mong-lreq.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml
 - :id:
     :code: gpc
   :file: data/gpc.yaml

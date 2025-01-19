@@ -1,38 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20250106
+id: W3CCRD-vc-data-integrity-20250118
 title:
 - content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250106/
+- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250118/
   type: src
 - content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20250106
+- id: W3C CRD-vc-data-integrity-20250118
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20250106
+docnumber: CRD-vc-data-integrity-20250118
 date:
 - type: published
-  value: '2025-01-06'
+  value: '2025-01-18'
 contributor:
 - person:
     name:
       completename:
         content: Dave Longley
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -52,6 +42,16 @@ contributor:
 - person:
     name:
       completename:
+        content: Ivan Herman
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
         content: Manu Sporny
         language:
         - en
@@ -62,14 +62,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Sebastian Crane
+        content: Ted Thibodeau Jr
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-06'
+revdate: '2025-01-18'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-vc-data-integrity-20241219
+    id: W3CCRD-vc-data-integrity-20250106
     docid:
-    - id: W3C CR-vc-data-integrity-20241219
+    - id: W3C CRD-vc-data-integrity-20250106
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-vc-data-integrity-20241219
+      content: W3C CRD-vc-data-integrity-20250106
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20250106
+  number: CRD-vc-data-integrity-20250118
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

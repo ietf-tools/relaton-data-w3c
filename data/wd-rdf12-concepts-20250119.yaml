@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-bitstring-status-list-20241218
+id: W3CWD-rdf12-concepts-20250119
 title:
-- content: Bitstring Status List v1.0
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-bitstring-status-list-20241218/
+- content: https://www.w3.org/TR/2025/WD-rdf12-concepts-20250119/
   type: src
-- content: https://w3c.github.io/vc-bitstring-status-list/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-bitstring-status-list-20241218
+- id: W3C WD-rdf12-concepts-20250119
   type: W3C
   primary: true
-docnumber: CRD-vc-bitstring-status-list-20241218
+docnumber: WD-rdf12-concepts-20250119
 date:
 - type: published
-  value: '2024-12-18'
+  value: '2025-01-19'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mahmoud Alkhraishi
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Olaf Hartig
         language:
         - en
         script:
@@ -52,39 +52,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Pierre-Antoine Champin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-18'
+revdate: '2025-01-19'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-bitstring-status-list-20241217
+    id: W3CWD-rdf12-concepts-20250117
     docid:
-    - id: W3C CRD-vc-bitstring-status-list-20241217
+    - id: W3C WD-rdf12-concepts-20250117
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-bitstring-status-list-20241217
+      content: W3C WD-rdf12-concepts-20250117
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-bitstring-status-list-20241218
+  number: WD-rdf12-concepts-20250119
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

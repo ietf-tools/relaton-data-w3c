@@ -30921,11 +30921,6 @@
     :date: '20241218'
   :file: data/crd-wasm-core-2-20241218.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20241218'
-  :file: data/crd-vc-bitstring-status-list-20241218.yaml
-- :id:
     :code: pointerevents3
     :stage: WD
     :date: '20241218'
@@ -31191,25 +31186,20 @@
     :date: '20250116'
   :file: data/wd-gpc-20250116.yaml
 - :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20250118'
+  :file: data/crd-vc-data-integrity-20250118.yaml
+- :id:
     :code: alreq-gap
     :type: DNOTE
     :date: '20250117'
   :file: data/dnote-alreq-gap-20250117.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250117'
-  :file: data/wd-rdf12-concepts-20250117.yaml
-- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20250117'
   :file: data/dnote-hebr-gap-20250117.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20250118'
-  :file: data/crd-vc-data-model-2.0-20250118.yaml
 - :id:
     :code: adlm-gap
     :type: DNOTE
@@ -31221,10 +31211,20 @@
     :date: '20250117'
   :file: data/dnote-nkoo-gap-20250117.yaml
 - :id:
-    :code: vc-data-integrity
+    :code: vc-data-model-2.0
     :stage: CRD
-    :date: '20250118'
-  :file: data/crd-vc-data-integrity-20250118.yaml
+    :date: '20250119'
+  :file: data/crd-vc-data-model-2.0-20250119.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250119'
+  :file: data/wd-rdf12-concepts-20250119.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20250120'
+  :file: data/crd-vc-bitstring-status-list-20250120.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

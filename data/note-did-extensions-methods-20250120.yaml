@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-controller-document-20250116
+id: W3CNOTE-did-extensions-methods-20250120
 title:
-- content: Controlled Identifiers (CIDs) v1.0
+- content: DID Methods
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-controller-document-20250116/
+- content: https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/
   type: src
-- content: https://w3c.github.io/cid/
+- content: https://w3c.github.io/did-extensions/methods/
   type: current
 type: standard
 docid:
-- id: W3C WD-controller-document-20250116
+- id: W3C NOTE-did-extensions-methods-20250120
   type: W3C
   primary: true
-docnumber: WD-controller-document-20250116
+docnumber: NOTE-did-extensions-methods-20250120
 date:
 - type: published
-  value: '2025-01-16'
+  value: '2025-01-20'
 contributor:
 - person:
     name:
@@ -32,39 +32,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Markus Sabadello
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-16'
+revdate: '2025-01-20'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20250112
+    id: W3CNOTE-did-extensions-methods-20241119
     docid:
-    - id: W3C WD-controller-document-20250112
+    - id: W3C NOTE-did-extensions-methods-20241119
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20250112
+      content: W3C NOTE-did-extensions-methods-20241119
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-controller-document-20250116
-doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
+  number: NOTE-did-extensions-methods-20250120
+doctype: groupNote
 ext:
   schema-version: v1.0.0

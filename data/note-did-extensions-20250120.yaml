@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-extensions-methods-20241119
+id: W3CNOTE-did-extensions-20250120
 title:
-- content: DID Methods
+- content: Decentralized Identifier Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/NOTE-did-extensions-methods-20241119/
+- content: https://www.w3.org/TR/2025/NOTE-did-extensions-20250120/
   type: src
-- content: https://w3c.github.io/did-extensions/methods/
+- content: https://w3c.github.io/did-extensions/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-extensions-methods-20241119
+- id: W3C NOTE-did-extensions-20250120
   type: W3C
   primary: true
-docnumber: NOTE-did-extensions-methods-20241119
+docnumber: NOTE-did-extensions-20250120
 date:
 - type: published
-  value: '2024-11-19'
+  value: '2025-01-20'
 contributor:
 - person:
     name:
@@ -39,16 +39,27 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-19'
+revdate: '2025-01-20'
 language:
 - en
 script:
 - Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CNOTE-did-extensions-20250110
+    docid:
+    - id: W3C NOTE-did-extensions-20250110
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-did-extensions-20250110
+      format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-did-extensions-methods-20241119
+  number: NOTE-did-extensions-20250120
 doctype: groupNote
 ext:
   schema-version: v1.0.0

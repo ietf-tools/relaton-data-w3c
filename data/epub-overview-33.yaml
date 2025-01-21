@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CNOTE-epub-overview-33-20231221
+    id: W3CNOTE-epub-overview-33-20250121
     docid:
-    - id: W3C NOTE-epub-overview-33-20231221
+    - id: W3C NOTE-epub-overview-33-20250121
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-epub-overview-33-20231221
+      content: W3C NOTE-epub-overview-33-20250121
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -47,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C NOTE-epub-overview-33-20211208
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CNOTE-epub-overview-33-20231221
+    docid:
+    - id: W3C NOTE-epub-overview-33-20231221
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-epub-overview-33-20231221
       format: text/plain
 - type: hasEdition
   bibitem:

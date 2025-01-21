@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-ctaur-20240710
+id: W3CNOTE-ctaur-20250121
 title:
 - content: Collaboration Tools Accessibility User Requirements
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-ctaur-20240710/
+- content: https://www.w3.org/TR/2025/NOTE-ctaur-20250121/
   type: src
 - content: https://w3c.github.io/ctaur/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-ctaur-20240710
+- id: W3C NOTE-ctaur-20250121
   type: W3C
   primary: true
-docnumber: DNOTE-ctaur-20240710
+docnumber: NOTE-ctaur-20250121
 date:
 - type: published
-  value: '2024-07-10'
+  value: '2025-01-21'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-07-10'
+revdate: '2025-01-21'
 language:
 - en
 script:
@@ -57,19 +57,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-ctaur-20240320
+    id: W3CDNOTE-ctaur-20240710
     docid:
-    - id: W3C DNOTE-ctaur-20240320
+    - id: W3C DNOTE-ctaur-20240710
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-ctaur-20240320
+      content: W3C DNOTE-ctaur-20240710
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-ctaur-20240710
+  number: NOTE-ctaur-20250121
 doctype: groupNote
 editorialgroup:
 - name: Accessible Platform Architectures

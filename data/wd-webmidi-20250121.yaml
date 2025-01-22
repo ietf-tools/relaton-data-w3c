@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-WGSL-20250116
+id: W3CWD-webmidi-20250121
 title:
-- content: WebGPU Shading Language
+- content: Web MIDI API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-WGSL-20250116/
+- content: https://www.w3.org/TR/2025/WD-webmidi-20250121/
   type: src
-- content: https://gpuweb.github.io/gpuweb/wgsl/
+- content: https://webaudio.github.io/web-midi-api/
   type: current
 type: standard
 docid:
-- id: W3C CRD-WGSL-20250116
+- id: W3C WD-webmidi-20250121
   type: W3C
   primary: true
-docnumber: CRD-WGSL-20250116
+docnumber: WD-webmidi-20250121
 date:
 - type: published
-  value: '2025-01-16'
+  value: '2025-01-21'
 contributor:
 - person:
     name:
       completename:
-        content: Alan Baker
+        content: Chris Wilson
         language:
         - en
         script:
@@ -32,47 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: David Neto
+        content: Michael Wilson
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Mehmet Oguz Derin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-01-16'
+revdate: '2025-01-21'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCR-WGSL-20241219
+    id: W3CWD-webmidi-20250114
     docid:
-    - id: W3C CR-WGSL-20241219
+    - id: W3C WD-webmidi-20250114
       type: W3C
       primary: true
     formattedref:
-      content: W3C CR-WGSL-20241219
+      content: W3C WD-webmidi-20250114
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-WGSL-20250116
+  number: WD-webmidi-20250121
 doctype: technicalReport
+editorialgroup:
+- name: Audio Working Group
 ext:
   schema-version: v1.0.0

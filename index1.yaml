@@ -31111,11 +31111,6 @@
     :date: '20250113'
   :file: data/wd-permissions-policy-1-20250113.yaml
 - :id:
-    :code: webmidi
-    :stage: WD
-    :date: '20250114'
-  :file: data/wd-webmidi-20250114.yaml
-- :id:
     :code: did-resolution
     :stage: WD
     :date: '20250115'
@@ -31126,20 +31121,15 @@
     :date: '20250116'
   :file: data/crd-webnn-20250116.yaml
 - :id:
-    :code: mong-lreq
-    :type: DNOTE
-    :date: '20250116'
-  :file: data/dnote-mong-lreq-20250116.yaml
-- :id:
     :code: html-aam-1.0
     :stage: WD
     :date: '20250116'
   :file: data/wd-html-aam-1.0-20250116.yaml
 - :id:
-    :code: WGSL
-    :stage: CRD
+    :code: mong-lreq
+    :type: DNOTE
     :date: '20250116'
-  :file: data/crd-wgsl-20250116.yaml
+  :file: data/dnote-mong-lreq-20250116.yaml
 - :id:
     :code: webgpu
     :stage: CRD
@@ -31156,15 +31146,15 @@
     :date: '20250117'
   :file: data/dnote-alreq-gap-20250117.yaml
 - :id:
-    :code: hebr-gap
-    :type: DNOTE
-    :date: '20250117'
-  :file: data/dnote-hebr-gap-20250117.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20250118'
   :file: data/crd-vc-data-integrity-20250118.yaml
+- :id:
+    :code: hebr-gap
+    :type: DNOTE
+    :date: '20250117'
+  :file: data/dnote-hebr-gap-20250117.yaml
 - :id:
     :code: adlm-gap
     :type: DNOTE
@@ -31191,11 +31181,6 @@
     :date: '20250120'
   :file: data/note-did-extensions-20250120.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250120'
-  :file: data/wd-rdf12-concepts-20250120.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20250120'
@@ -31221,15 +31206,30 @@
     :date: '20250121'
   :file: data/note-ctaur-20250121.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250121'
-  :file: data/wd-webdriver-bidi-20250121.yaml
-- :id:
     :code: epub-overview-33
     :type: NOTE
     :date: '20250121'
   :file: data/note-epub-overview-33-20250121.yaml
+- :id:
+    :code: webmidi
+    :stage: WD
+    :date: '20250121'
+  :file: data/wd-webmidi-20250121.yaml
+- :id:
+    :code: WGSL
+    :stage: CRD
+    :date: '20250121'
+  :file: data/crd-wgsl-20250121.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250122'
+  :file: data/wd-webdriver-bidi-20250122.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250122'
+  :file: data/wd-rdf12-concepts-20250122.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-concepts-20250120
+id: W3CWD-webdriver-bidi-20250122
 title:
-- content: RDF 1.2 Concepts and Abstract Syntax
+- content: WebDriver BiDi
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-rdf12-concepts-20250120/
+- content: https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/
   type: src
-- content: https://w3c.github.io/rdf-concepts/spec/
+- content: https://w3c.github.io/webdriver-bidi/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-concepts-20250120
+- id: W3C WD-webdriver-bidi-20250122
   type: W3C
   primary: true
-docnumber: WD-rdf12-concepts-20250120
+docnumber: WD-webdriver-bidi-20250122
 date:
 - type: published
-  value: '2025-01-20'
+  value: '2025-01-22'
 contributor:
 - person:
     name:
       completename:
-        content: Andy Seaborne
+        content: Alex Rudenko
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gregg Kellogg
+        content: James Graham
         language:
         - en
         script:
@@ -42,24 +42,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Olaf Hartig
+        content: Maksim Sadym
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Pierre-Antoine Champin
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-01-20'
+revdate: '2025-01-22'
 language:
 - en
 script:
@@ -70,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-concepts-20250119
+    id: W3CWD-webdriver-bidi-20250121
     docid:
-    - id: W3C WD-rdf12-concepts-20250119
+    - id: W3C WD-webdriver-bidi-20250121
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-concepts-20250119
+      content: W3C WD-webdriver-bidi-20250121
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-concepts-20250120
+  number: WD-webdriver-bidi-20250122
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

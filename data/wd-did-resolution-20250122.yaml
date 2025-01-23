@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-FileAPI-20130912
+id: W3CWD-did-resolution-20250122
 title:
-- content: File API
+- content: Decentralized Identifier Resolution (DID Resolution) v0.3
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2013/WD-FileAPI-20130912/
+- content: https://www.w3.org/TR/2025/WD-did-resolution-20250122/
   type: src
+- content: https://w3c.github.io/did-resolution/
+  type: current
 type: standard
 docid:
-- id: W3C WD-FileAPI-20130912
+- id: W3C WD-did-resolution-20250122
   type: W3C
   primary: true
-docnumber: WD-FileAPI-20130912
+docnumber: WD-did-resolution-20250122
 date:
 - type: published
-  value: '2013-09-12'
+  value: '2025-01-22'
 contributor:
 - person:
     name:
       completename:
-        content: Arun Ranganathan
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -30,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Jonas Sicking
+        content: Markus Sabadello
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2013-09-12'
+revdate: '2025-01-22'
 language:
 - en
 script:
@@ -48,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-FileAPI-20121025
+    id: W3CWD-did-resolution-20250115
     docid:
-    - id: W3C WD-FileAPI-20121025
+    - id: W3C WD-did-resolution-20250115
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-FileAPI-20121025
+      content: W3C WD-did-resolution-20250115
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-FileAPI-20130912
+  number: WD-did-resolution-20250122
 doctype: technicalReport
-editorialgroup:
-- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

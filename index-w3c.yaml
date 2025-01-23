@@ -3895,12 +3895,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -5234,8 +5234,8 @@
   :file: data/did-resolution.yaml
 - :code: did-resolution
   :stage: WD
-  :date: '20250115'
-  :file: data/wd-did-resolution-20250115.yaml
+  :date: '20250122'
+  :file: data/wd-did-resolution-20250122.yaml
 - :code: did-rubric
   :file: data/did-rubric.yaml
 - :code: did-rubric
@@ -6384,8 +6384,8 @@
   :file: data/epub-overview-33.yaml
 - :code: epub-overview-33
   :type: NOTE
-  :date: '20250121'
-  :file: data/note-epub-overview-33-20250121.yaml
+  :date: '20250123'
+  :file: data/note-epub-overview-33-20250123.yaml
 - :code: epub-overview-33
   :type: NOTE
   :date: '20231221'
@@ -7741,6 +7741,10 @@
   :file: data/wd-html-alt-techniques-20101019.yaml
 - :code: html-aria
   :file: data/html-aria.yaml
+- :code: html-aria
+  :stage: REC
+  :date: '20250123'
+  :file: data/rec-html-aria-20250123.yaml
 - :code: html-aria
   :stage: REC
   :date: '20241223'
@@ -10284,8 +10288,8 @@
   :file: data/mediasession.yaml
 - :code: mediasession
   :stage: WD
-  :date: '20241216'
-  :file: data/wd-mediasession-20241216.yaml
+  :date: '20250123'
+  :file: data/wd-mediasession-20250123.yaml
 - :code: mediasession
   :stage: WD
   :date: '20240531'
@@ -19834,8 +19838,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20250116'
-  :file: data/crd-webnn-20250116.yaml
+  :date: '20250123'
+  :file: data/crd-webnn-20250123.yaml
 - :code: webnn
   :stage: CRD
   :date: '20240608'

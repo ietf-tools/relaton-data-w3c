@@ -23,43 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-webnn-20250116
+    id: W3CCRD-webnn-20250123
     docid:
-    - id: W3C CRD-webnn-20250116
+    - id: W3C CRD-webnn-20250123
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webnn-20250116
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webnn-20230519
-    docid:
-    - id: W3C CRD-webnn-20230519
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webnn-20230519
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webnn-20211215
-    docid:
-    - id: W3C WD-webnn-20211215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webnn-20211215
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webnn-20230830
-    docid:
-    - id: W3C CRD-webnn-20230830
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webnn-20230830
+      content: W3C CRD-webnn-20250123
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,6 +43,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webnn-20220520
+    docid:
+    - id: W3C WD-webnn-20220520
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webnn-20220520
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-webnn-20230830
+    docid:
+    - id: W3C CRD-webnn-20230830
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webnn-20230830
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-webnn-20240608
     docid:
     - id: W3C CRD-webnn-20240608
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-webnn-20240608
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-webnn-20230519
+    docid:
+    - id: W3C CRD-webnn-20230519
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webnn-20230519
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -103,6 +103,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webnn-20211215
+    docid:
+    - id: W3C WD-webnn-20211215
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webnn-20211215
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-webnn-20240523
     docid:
     - id: W3C CRD-webnn-20240523
@@ -110,16 +120,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-webnn-20240523
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webnn-20220520
-    docid:
-    - id: W3C WD-webnn-20220520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webnn-20220520
       format: text/plain
 - type: hasEdition
   bibitem:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-css-lists-3-20140320
-    docid:
-    - id: W3C WD-css-lists-3-20140320
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-lists-3-20140320
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-css-lists-3-20190817
     docid:
     - id: W3C WD-css-lists-3-20190817
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-lists-3-20190817
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-css-lists-3-20140320
+    docid:
+    - id: W3C WD-css-lists-3-20140320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-lists-3-20140320
       format: text/plain
 series:
 - title:

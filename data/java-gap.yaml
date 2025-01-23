@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-java-gap-20210525
-    docid:
-    - id: W3C WD-java-gap-20210525
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-java-gap-20210525
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-java-gap-20230807
     docid:
     - id: W3C DNOTE-java-gap-20230807
@@ -77,6 +67,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-java-gap-20230615
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-java-gap-20210525
+    docid:
+    - id: W3C WD-java-gap-20210525
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-java-gap-20210525
       format: text/plain
 series:
 - title:

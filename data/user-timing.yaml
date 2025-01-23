@@ -73,6 +73,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-user-timing-20110901
+    docid:
+    - id: W3C WD-user-timing-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-user-timing-20110901
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-user-timing-20231106
     docid:
     - id: W3C CRD-user-timing-20231106
@@ -100,16 +110,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-user-timing-20120726
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-user-timing-20110901
-    docid:
-    - id: W3C WD-user-timing-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-user-timing-20110901
       format: text/plain
 series:
 - title:

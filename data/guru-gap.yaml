@@ -50,16 +50,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-guru-gap-20230614
-    docid:
-    - id: W3C DNOTE-guru-gap-20230614
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-guru-gap-20230614
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-guru-gap-20200616
     docid:
     - id: W3C WD-guru-gap-20200616
@@ -67,6 +57,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-guru-gap-20200616
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-guru-gap-20230614
+    docid:
+    - id: W3C DNOTE-guru-gap-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-guru-gap-20230614
       format: text/plain
 series:
 - title:

@@ -40,6 +40,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CDNOTE-arab-ks-gap-20220407
+    docid:
+    - id: W3C DNOTE-arab-ks-gap-20220407
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-arab-ks-gap-20220407
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-arab-ks-gap-20231004
     docid:
     - id: W3C DNOTE-arab-ks-gap-20231004
@@ -67,16 +77,6 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-arab-ks-gap-20240314
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-arab-ks-gap-20220407
-    docid:
-    - id: W3C DNOTE-arab-ks-gap-20220407
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-arab-ks-gap-20220407
       format: text/plain
 series:
 - title:

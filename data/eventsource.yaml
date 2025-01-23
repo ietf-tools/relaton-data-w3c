@@ -43,23 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-eventsource-20091029
+    id: W3CWD-eventsource-20111020
     docid:
-    - id: W3C WD-eventsource-20091029
+    - id: W3C WD-eventsource-20111020
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-eventsource-20091029
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CPR-eventsource-20141209
-    docid:
-    - id: W3C PR-eventsource-20141209
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C PR-eventsource-20141209
+      content: W3C WD-eventsource-20111020
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -73,13 +63,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-eventsource-20111020
+    id: W3CPR-eventsource-20141209
     docid:
-    - id: W3C WD-eventsource-20111020
+    - id: W3C PR-eventsource-20141209
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-eventsource-20111020
+      content: W3C PR-eventsource-20141209
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-eventsource-20091029
+    docid:
+    - id: W3C WD-eventsource-20091029
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-eventsource-20091029
       format: text/plain
 - type: hasEdition
   bibitem:

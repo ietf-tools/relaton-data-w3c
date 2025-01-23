@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20250115
+id: W3CREC-html-aria-20250123
 title:
-- content: Decentralized Identifier Resolution (DID Resolution) v0.3
+- content: ARIA in HTML
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-did-resolution-20250115/
+- content: https://www.w3.org/TR/2025/REC-html-aria-20250123/
   type: src
-- content: https://w3c.github.io/did-resolution/
+- content: https://w3c.github.io/html-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20250115
+- id: W3C REC-html-aria-20250123
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20250115
+docnumber: REC-html-aria-20250123
 date:
 - type: published
-  value: '2025-01-15'
+  value: '2025-01-23'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Patrick Lauke
         language:
         - en
         script:
@@ -32,37 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Markus Sabadello
+        content: Scott O'Hara
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-15'
+revdate: '2025-01-23'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: recommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20241212
+    id: W3CREC-html-aria-20241223
     docid:
-    - id: W3C WD-did-resolution-20241212
+    - id: W3C REC-html-aria-20241223
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20241212
+      content: W3C REC-html-aria-20241223
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C REC
     format: text/plain
-  number: WD-did-resolution-20250115
+  number: REC-html-aria-20250123
 doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

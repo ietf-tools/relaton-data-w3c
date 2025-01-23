@@ -43,23 +43,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webcodecs-20210608
+    id: W3CWD-webcodecs-20220524
     docid:
-    - id: W3C WD-webcodecs-20210608
+    - id: W3C WD-webcodecs-20220524
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20210608
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webcodecs-20211216
-    docid:
-    - id: W3C WD-webcodecs-20211216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webcodecs-20211216
+      content: W3C WD-webcodecs-20220524
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,13 +83,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webcodecs-20220524
+    id: W3CWD-webcodecs-20210608
     docid:
-    - id: W3C WD-webcodecs-20220524
+    - id: W3C WD-webcodecs-20210608
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20220524
+      content: W3C WD-webcodecs-20210608
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webcodecs-20211216
+    docid:
+    - id: W3C WD-webcodecs-20211216
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webcodecs-20211216
       format: text/plain
 series:
 - title:

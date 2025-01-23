@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-miniapp-addressing-20240131
-    docid:
-    - id: W3C WD-miniapp-addressing-20240131
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-miniapp-addressing-20240131
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-miniapp-addressing-20220311
     docid:
     - id: W3C DNOTE-miniapp-addressing-20220311
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-miniapp-addressing-20220311
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-miniapp-addressing-20240131
+    docid:
+    - id: W3C WD-miniapp-addressing-20240131
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-miniapp-addressing-20240131
       format: text/plain
 series:
 - title:

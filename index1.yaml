@@ -30871,11 +30871,6 @@
     :date: '20241217'
   :file: data/wd-css-overflow-5-20241217.yaml
 - :id:
-    :code: CSP3
-    :stage: WD
-    :date: '20241217'
-  :file: data/wd-csp3-20241217.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20241217'
@@ -30885,16 +30880,6 @@
     :stage: WD
     :date: '20241217'
   :file: data/wd-requestidlecallback-20241217.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: CRD
-    :date: '20241218'
-  :file: data/crd-wasm-js-api-2-20241218.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: CRD
-    :date: '20241218'
-  :file: data/crd-wasm-web-api-2-20241218.yaml
 - :id:
     :code: wasm-core-2
     :stage: CRD
@@ -30935,11 +30920,6 @@
     :type: DNOTE
     :date: '20241219'
   :file: data/dnote-clreq-20241219.yaml
-- :id:
-    :code: screen-capture
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-screen-capture-20241219.yaml
 - :id:
     :code: mediacapture-streams
     :stage: CRD
@@ -31151,11 +31131,6 @@
     :date: '20250117'
   :file: data/dnote-nkoo-gap-20250117.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20250119'
-  :file: data/crd-vc-data-model-2.0-20250119.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20250120'
@@ -31165,11 +31140,6 @@
     :type: NOTE
     :date: '20250120'
   :file: data/note-did-extensions-20250120.yaml
-- :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20250120'
-  :file: data/wd-sparql12-query-20250120.yaml
 - :id:
     :code: did-extensions-methods
     :type: NOTE
@@ -31196,21 +31166,6 @@
     :date: '20250121'
   :file: data/wd-webmidi-20250121.yaml
 - :id:
-    :code: WGSL
-    :stage: CRD
-    :date: '20250121'
-  :file: data/crd-wgsl-20250121.yaml
-- :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250122'
-  :file: data/wd-webdriver-bidi-20250122.yaml
-- :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250122'
-  :file: data/wd-rdf12-concepts-20250122.yaml
-- :id:
     :code: did-resolution
     :stage: WD
     :date: '20250122'
@@ -31235,6 +31190,56 @@
     :stage: WD
     :date: '20250123'
   :file: data/wd-mediasession-20250123.yaml
+- :id:
+    :code: CSP3
+    :stage: WD
+    :date: '20250123'
+  :file: data/wd-csp3-20250123.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250123'
+  :file: data/wd-rdf12-concepts-20250123.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20250123'
+  :file: data/crd-vc-data-model-2.0-20250123.yaml
+- :id:
+    :code: html-aria
+    :stage: REC
+    :date: '20250124'
+  :file: data/rec-html-aria-20250124.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250124'
+  :file: data/wd-webdriver-bidi-20250124.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20250124'
+  :file: data/wd-sparql12-query-20250124.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: CRD
+    :date: '20250124'
+  :file: data/crd-wasm-js-api-2-20250124.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: CRD
+    :date: '20250124'
+  :file: data/crd-wasm-web-api-2-20250124.yaml
+- :id:
+    :code: screen-capture
+    :stage: WD
+    :date: '20250124'
+  :file: data/wd-screen-capture-20250124.yaml
+- :id:
+    :code: WGSL
+    :stage: CRD
+    :date: '20250124'
+  :file: data/crd-wgsl-20250124.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31410,8 +31415,8 @@
     :code: did-extensions-methods
   :file: data/did-extensions-methods.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-wasm-js-api-2-20241218
+id: W3CCRD-wasm-web-api-2-20250124
 title:
-- content: WebAssembly JavaScript Interface
+- content: WebAssembly Web API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-wasm-js-api-2-20241218/
+- content: https://www.w3.org/TR/2025/CRD-wasm-web-api-2-20250124/
   type: src
-- content: https://webassembly.github.io/spec/js-api/
+- content: https://webassembly.github.io/spec/web-api/
   type: current
 type: standard
 docid:
-- id: W3C CRD-wasm-js-api-2-20241218
+- id: W3C CRD-wasm-web-api-2-20250124
   type: W3C
   primary: true
-docnumber: CRD-wasm-js-api-2-20241218
+docnumber: CRD-wasm-web-api-2-20250124
 date:
 - type: published
-  value: '2024-12-18'
+  value: '2025-01-24'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-18'
+revdate: '2025-01-24'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-wasm-js-api-2-20241217
+    id: W3CCRD-wasm-web-api-2-20241218
     docid:
-    - id: W3C CRD-wasm-js-api-2-20241217
+    - id: W3C CRD-wasm-web-api-2-20241218
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-wasm-js-api-2-20241217
+      content: W3C CRD-wasm-web-api-2-20241218
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-wasm-js-api-2-20241218
+  number: CRD-wasm-web-api-2-20250124
 doctype: technicalReport
 editorialgroup:
 - name: WebAssembly Working Group

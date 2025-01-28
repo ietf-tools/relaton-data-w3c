@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-model-2.0-20250126
+id: W3CWD-miniapp-packaging-20250128
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: MiniApp Packaging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-model-2.0-20250126/
+- content: https://www.w3.org/TR/2025/WD-miniapp-packaging-20250128/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/miniapp-packaging/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-model-2.0-20250126
+- id: W3C WD-miniapp-packaging-20250128
   type: W3C
   primary: true
-docnumber: CRD-vc-data-model-2.0-20250126
+docnumber: WD-miniapp-packaging-20250128
 date:
 - type: published
-  value: '2025-01-26'
+  value: '2025-01-28'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Dan Zhou
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Martin Alvarez-Espinar
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Qing An
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Tengyuan Zhang
         language:
         - en
         script:
@@ -62,39 +62,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Ted Thibodeau Jr
+        content: Yongjing ZHANG
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-26'
+revdate: '2025-01-28'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20250123
+    id: W3CWD-miniapp-packaging-20231023
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20250123
+    - id: W3C WD-miniapp-packaging-20231023
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20250123
+      content: W3C WD-miniapp-packaging-20231023
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-data-model-2.0-20250126
+  number: WD-miniapp-packaging-20250128
 doctype: technicalReport
 editorialgroup:
-- name: Verifiable Credentials Working Group
+- name: MiniApps Working Group
 ext:
   schema-version: v1.0.0

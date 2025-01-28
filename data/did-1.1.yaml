@@ -1,0 +1,41 @@
+---
+schema-version: v1.2.3
+id: W3Cdid-1.1
+title:
+- content: Decentralized Identifiers (DIDs) v1.1
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/did-1.1/
+  type: src
+type: standard
+docid:
+- id: W3C did-1.1
+  type: W3C
+  primary: true
+docnumber: did-1.1
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: workingDraft
+relation:
+- type: instance
+  bibitem:
+    id: W3CWD-did-1.1-20250128
+    docid:
+    - id: W3C WD-did-1.1-20250128
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-did-1.1-20250128
+      format: text/plain
+series:
+- title:
+    content: W3C WD
+    format: text/plain
+  number: did-1.1
+doctype: technicalReport
+ext:
+  schema-version: v1.0.0

@@ -5176,6 +5176,12 @@
   :stage: WD
   :date: '20061010'
   :file: data/wd-dial-primer-20061010.yaml
+- :code: did-1.1
+  :file: data/did-1.1.yaml
+- :code: did-1.1
+  :stage: WD
+  :date: '20250128'
+  :file: data/wd-did-1.1-20250128.yaml
 - :code: did-cbor-representation
   :file: data/did-cbor-representation.yaml
 - :code: did-cbor-representation
@@ -10496,8 +10502,8 @@
   :file: data/miniapp-manifest.yaml
 - :code: miniapp-manifest
   :stage: WD
-  :date: '20241114'
-  :file: data/wd-miniapp-manifest-20241114.yaml
+  :date: '20250128'
+  :file: data/wd-miniapp-manifest-20250128.yaml
 - :code: miniapp-manifest
   :stage: WD
   :date: '20230530'
@@ -10516,6 +10522,10 @@
   :file: data/wd-miniapp-manifest-20211221.yaml
 - :code: miniapp-packaging
   :file: data/miniapp-packaging.yaml
+- :code: miniapp-packaging
+  :stage: WD
+  :date: '20250128'
+  :file: data/wd-miniapp-packaging-20250128.yaml
 - :code: miniapp-packaging
   :stage: WD
   :date: '20231023'
@@ -17499,8 +17509,8 @@
   :file: data/vc-data-model-2.0.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
-  :date: '20250126'
-  :file: data/crd-vc-data-model-2.0-20250126.yaml
+  :date: '20250127'
+  :file: data/crd-vc-data-model-2.0-20250127.yaml
 - :code: vc-data-model-2.0
   :stage: CRD
   :date: '20240608'
@@ -19114,8 +19124,8 @@
   :file: data/webcodecs.yaml
 - :code: webcodecs
   :stage: WD
-  :date: '20241212'
-  :file: data/wd-webcodecs-20241212.yaml
+  :date: '20250128'
+  :file: data/wd-webcodecs-20250128.yaml
 - :code: webcodecs
   :stage: WD
   :date: '20240520'

@@ -31151,35 +31151,15 @@
     :date: '20250123'
   :file: data/wd-csp3-20250123.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250123'
-  :file: data/wd-rdf12-concepts-20250123.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20250124'
   :file: data/rec-html-aria-20250124.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250124'
-  :file: data/wd-webdriver-bidi-20250124.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20250124'
   :file: data/wd-sparql12-query-20250124.yaml
-- :id:
-    :code: wasm-js-api-2
-    :stage: CRD
-    :date: '20250124'
-  :file: data/crd-wasm-js-api-2-20250124.yaml
-- :id:
-    :code: wasm-web-api-2
-    :stage: CRD
-    :date: '20250124'
-  :file: data/crd-wasm-web-api-2-20250124.yaml
 - :id:
     :code: screen-capture
     :stage: WD
@@ -31226,11 +31206,6 @@
     :date: '20250127'
   :file: data/wd-webauthn-3-20250127.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20250127'
-  :file: data/crd-webnn-20250127.yaml
-- :id:
     :code: vc-data-model-2.0
     :stage: CRD
     :date: '20250127'
@@ -31255,6 +31230,31 @@
     :stage: WD
     :date: '20250128'
   :file: data/wd-did-1.1-20250128.yaml
+- :id:
+    :code: wasm-js-api-2
+    :stage: CRD
+    :date: '20250128'
+  :file: data/crd-wasm-js-api-2-20250128.yaml
+- :id:
+    :code: wasm-web-api-2
+    :stage: CRD
+    :date: '20250128'
+  :file: data/crd-wasm-web-api-2-20250128.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250129'
+  :file: data/crd-webnn-20250129.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250129'
+  :file: data/wd-webdriver-bidi-20250129.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250129'
+  :file: data/wd-rdf12-concepts-20250129.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31433,8 +31433,8 @@
     :code: did-resolution
   :file: data/did-resolution.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: did-1.1
   :file: data/did-1.1.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

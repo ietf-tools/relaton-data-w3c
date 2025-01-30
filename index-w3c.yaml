@@ -1450,6 +1450,12 @@
   :type: DNOTE
   :date: '20241114'
   :file: data/dnote-cher-lreq-20241114.yaml
+- :code: cid-1.0
+  :file: data/cid-1.0.yaml
+- :code: cid-1.0
+  :stage: CR
+  :date: '20250130'
+  :file: data/cr-cid-1.0-20250130.yaml
 - :code: clear-site-data
   :file: data/clear-site-data.yaml
 - :code: clear-site-data
@@ -1788,10 +1794,6 @@
   :file: data/wd-content-in-rdf10-20091029.yaml
 - :code: controller-document
   :file: data/controller-document.yaml
-- :code: controller-document
-  :stage: WD
-  :date: '20250126'
-  :file: data/wd-controller-document-20250126.yaml
 - :code: controller-document
   :stage: WD
   :date: '20240523'
@@ -12393,8 +12395,8 @@
   :file: data/pointerevents4.yaml
 - :code: pointerevents4
   :stage: WD
-  :date: '20241129'
-  :file: data/wd-pointerevents4-20241129.yaml
+  :date: '20250129'
+  :file: data/wd-pointerevents4-20250129.yaml
 - :code: pointerlock
   :file: data/pointerlock.yaml
 - :code: pointerlock
@@ -14821,6 +14823,10 @@
   :file: data/wd-secure-payment-confirmation-20210831.yaml
 - :code: security-privacy-questionnaire
   :file: data/security-privacy-questionnaire.yaml
+- :code: security-privacy-questionnaire
+  :type: NOTE
+  :date: '20250130'
+  :file: data/note-security-privacy-questionnaire-20250130.yaml
 - :code: security-privacy-questionnaire
   :type: NOTE
   :date: '20211216'
@@ -19124,8 +19130,8 @@
   :file: data/webcodecs.yaml
 - :code: webcodecs
   :stage: WD
-  :date: '20250128'
-  :file: data/wd-webcodecs-20250128.yaml
+  :date: '20250129'
+  :file: data/wd-webcodecs-20250129.yaml
 - :code: webcodecs
   :stage: WD
   :date: '20240520'
@@ -19628,8 +19634,8 @@
   :file: data/webdriver-bidi.yaml
 - :code: webdriver-bidi
   :stage: WD
-  :date: '20250129'
-  :file: data/wd-webdriver-bidi-20250129.yaml
+  :date: '20250130'
+  :file: data/wd-webdriver-bidi-20250130.yaml
 - :code: webdriver1
   :file: data/webdriver1.yaml
 - :code: webdriver1

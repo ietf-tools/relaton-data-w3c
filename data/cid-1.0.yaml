@@ -1,41 +1,41 @@
 ---
 schema-version: v1.2.3
-id: W3Ccontroller-document
+id: W3Ccid-1.0
 title:
-- content: Controller Documents 1.0
+- content: Controlled Identifiers (CIDs) v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/controller-document/
+- content: https://www.w3.org/TR/cid-1.0/
   type: src
 type: standard
 docid:
-- id: W3C controller-document
+- id: W3C cid-1.0
   type: W3C
   primary: true
-docnumber: controller-document
+docnumber: cid-1.0
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-controller-document-20240523
+    id: W3CCR-cid-1.0-20250130
     docid:
-    - id: W3C WD-controller-document-20240523
+    - id: W3C CR-cid-1.0-20250130
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20240523
+      content: W3C CR-cid-1.0-20250130
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: controller-document
+  number: cid-1.0
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

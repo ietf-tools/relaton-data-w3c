@@ -30731,15 +30731,15 @@
     :date: '20241129'
   :file: data/crd-vibration-20241129.yaml
 - :id:
-    :code: pointerevents4
-    :stage: WD
-    :date: '20241129'
-  :file: data/wd-pointerevents4-20241129.yaml
-- :id:
     :code: thai-lreq
     :type: DNOTE
     :date: '20241114'
   :file: data/dnote-thai-lreq-20241114.yaml
+- :id:
+    :code: epub-a11y-tech-11
+    :type: NOTE
+    :date: '20241203'
+  :file: data/note-epub-a11y-tech-11-20241203.yaml
 - :id:
     :code: tibt-lreq
     :type: DNOTE
@@ -30751,11 +30751,6 @@
     :date: '20241115'
   :file: data/dnote-typography-20241115.yaml
 - :id:
-    :code: epub-a11y-tech-11
-    :type: NOTE
-    :date: '20241203'
-  :file: data/note-epub-a11y-tech-11-20241203.yaml
-- :id:
     :code: hani-lreq
     :type: DNOTE
     :date: '20241115'
@@ -30766,20 +30761,15 @@
     :date: '20241115'
   :file: data/dnote-jpan-lreq-20241115.yaml
 - :id:
-    :code: kore-lreq
-    :type: DNOTE
-    :date: '20241115'
-  :file: data/dnote-kore-lreq-20241115.yaml
-- :id:
     :code: FileAPI
     :stage: WD
     :date: '20241204'
   :file: data/wd-fileapi-20241204.yaml
 - :id:
-    :code: jpan-gap
+    :code: kore-lreq
     :type: DNOTE
-    :date: '20241129'
-  :file: data/dnote-jpan-gap-20241129.yaml
+    :date: '20241115'
+  :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
     :code: openscreen-application
     :stage: WD
@@ -30790,6 +30780,11 @@
     :stage: WD
     :date: '20241210'
   :file: data/wd-openscreen-network-20241210.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20241129'
+  :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
     :code: compute-pressure
     :stage: WD
@@ -31181,11 +31176,6 @@
     :date: '20250124'
   :file: data/dnote-khmr-gap-20250124.yaml
 - :id:
-    :code: controller-document
-    :stage: WD
-    :date: '20250126'
-  :file: data/wd-controller-document-20250126.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20250126'
@@ -31210,11 +31200,6 @@
     :stage: CRD
     :date: '20250127'
   :file: data/crd-vc-data-model-2.0-20250127.yaml
-- :id:
-    :code: webcodecs
-    :stage: WD
-    :date: '20250128'
-  :file: data/wd-webcodecs-20250128.yaml
 - :id:
     :code: miniapp-packaging
     :stage: WD
@@ -31246,15 +31231,35 @@
     :date: '20250129'
   :file: data/crd-webnn-20250129.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250129'
-  :file: data/wd-webdriver-bidi-20250129.yaml
-- :id:
     :code: rdf12-concepts
     :stage: WD
     :date: '20250129'
   :file: data/wd-rdf12-concepts-20250129.yaml
+- :id:
+    :code: webcodecs
+    :stage: WD
+    :date: '20250129'
+  :file: data/wd-webcodecs-20250129.yaml
+- :id:
+    :code: pointerevents4
+    :stage: WD
+    :date: '20250129'
+  :file: data/wd-pointerevents4-20250129.yaml
+- :id:
+    :code: cid-1.0
+    :stage: CR
+    :date: '20250130'
+  :file: data/cr-cid-1.0-20250130.yaml
+- :id:
+    :code: security-privacy-questionnaire
+    :type: NOTE
+    :date: '20250130'
+  :file: data/note-security-privacy-questionnaire-20250130.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250130'
+  :file: data/wd-webdriver-bidi-20250130.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31376,9 +31381,6 @@
     :code: java-lreq
   :file: data/java-lreq.yaml
 - :id:
-    :code: pointerevents4
-  :file: data/pointerevents4.yaml
-- :id:
     :code: tibt-lreq
   :file: data/tibt-lreq.yaml
 - :id:
@@ -31435,6 +31437,12 @@
 - :id:
     :code: did-1.1
   :file: data/did-1.1.yaml
+- :id:
+    :code: pointerevents4
+  :file: data/pointerevents4.yaml
+- :id:
+    :code: cid-1.0
+  :file: data/cid-1.0.yaml
 - :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml

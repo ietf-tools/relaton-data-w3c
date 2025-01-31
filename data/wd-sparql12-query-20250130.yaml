@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-sparql12-query-20250124
+id: W3CWD-sparql12-query-20250130
 title:
 - content: SPARQL 1.2 Query Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-sparql12-query-20250124/
+- content: https://www.w3.org/TR/2025/WD-sparql12-query-20250130/
   type: src
 - content: https://w3c.github.io/sparql-query/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-sparql12-query-20250124
+- id: W3C WD-sparql12-query-20250130
   type: W3C
   primary: true
-docnumber: WD-sparql12-query-20250124
+docnumber: WD-sparql12-query-20250130
 date:
 - type: published
-  value: '2025-01-24'
+  value: '2025-01-30'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-24'
+revdate: '2025-01-30'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-sparql12-query-20250120
+    id: W3CWD-sparql12-query-20250124
     docid:
-    - id: W3C WD-sparql12-query-20250120
+    - id: W3C WD-sparql12-query-20250124
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-sparql12-query-20250120
+      content: W3C WD-sparql12-query-20250124
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-sparql12-query-20250124
+  number: WD-sparql12-query-20250130
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

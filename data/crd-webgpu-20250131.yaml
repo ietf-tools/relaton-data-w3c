@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver-bidi-20250130
+id: W3CCRD-webgpu-20250131
 title:
-- content: WebDriver BiDi
+- content: WebGPU
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/
+- content: https://www.w3.org/TR/2025/CRD-webgpu-20250131/
   type: src
-- content: https://w3c.github.io/webdriver-bidi/
+- content: https://gpuweb.github.io/gpuweb/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver-bidi-20250130
+- id: W3C CRD-webgpu-20250131
   type: W3C
   primary: true
-docnumber: WD-webdriver-bidi-20250130
+docnumber: CRD-webgpu-20250131
 date:
 - type: published
-  value: '2025-01-30'
+  value: '2025-01-31'
 contributor:
 - person:
     name:
       completename:
-        content: Alex Rudenko
+        content: Brandon Jones
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: James Graham
+        content: Jim Blandy
         language:
         - en
         script:
@@ -42,37 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Maksim Sadym
+        content: Kai Ninomiya
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-30'
+revdate: '2025-01-31'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver-bidi-20250129
+    id: W3CCRD-webgpu-20250116
     docid:
-    - id: W3C WD-webdriver-bidi-20250129
+    - id: W3C CRD-webgpu-20250116
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver-bidi-20250129
+      content: W3C CRD-webgpu-20250116
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-webdriver-bidi-20250130
+  number: CRD-webgpu-20250131
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

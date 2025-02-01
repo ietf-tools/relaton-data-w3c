@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver2-20241212
+id: W3CWD-webdriver2-20250131
 title:
 - content: WebDriver
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webdriver2-20241212/
+- content: https://www.w3.org/TR/2025/WD-webdriver2-20250131/
   type: src
 - content: https://w3c.github.io/webdriver/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver2-20241212
+- id: W3C WD-webdriver2-20250131
   type: W3C
   primary: true
-docnumber: WD-webdriver2-20241212
+docnumber: WD-webdriver2-20250131
 date:
 - type: published
-  value: '2024-12-12'
+  value: '2025-01-31'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-12'
+revdate: '2025-01-31'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver2-20241205
+    id: W3CWD-webdriver2-20241212
     docid:
-    - id: W3C WD-webdriver2-20241205
+    - id: W3C WD-webdriver2-20241212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver2-20241205
+      content: W3C WD-webdriver2-20241212
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver2-20241212
+  number: WD-webdriver2-20250131
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

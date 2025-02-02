@@ -30921,11 +30921,6 @@
     :date: '20241219'
   :file: data/wd-rdf12-trig-20241219.yaml
 - :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-rdf12-xml-20241219.yaml
-- :id:
     :code: sparql12-service-description
     :stage: WD
     :date: '20241219'
@@ -31011,15 +31006,15 @@
     :date: '20250107'
   :file: data/dnote-string-search-20250107.yaml
 - :id:
-    :code: clreq-gap
-    :type: DNOTE
-    :date: '20250109'
-  :file: data/dnote-clreq-gap-20250109.yaml
-- :id:
     :code: vc-overview
     :type: NOTE
     :date: '20250109'
   :file: data/note-vc-overview-20250109.yaml
+- :id:
+    :code: clreq-gap
+    :type: DNOTE
+    :date: '20250109'
+  :file: data/dnote-clreq-gap-20250109.yaml
 - :id:
     :code: rdf12-turtle
     :stage: WD
@@ -31041,30 +31036,30 @@
     :date: '20250113'
   :file: data/wd-permissions-policy-1-20250113.yaml
 - :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20250116'
-  :file: data/wd-html-aam-1.0-20250116.yaml
-- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20250116'
   :file: data/dnote-mong-lreq-20250116.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20250116'
+  :file: data/wd-html-aam-1.0-20250116.yaml
 - :id:
     :code: gpc
     :stage: WD
     :date: '20250116'
   :file: data/wd-gpc-20250116.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20250120'
-  :file: data/crd-vc-bitstring-status-list-20250120.yaml
-- :id:
     :code: alreq-gap
     :type: DNOTE
     :date: '20250117'
   :file: data/dnote-alreq-gap-20250117.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20250120'
+  :file: data/crd-vc-bitstring-status-list-20250120.yaml
 - :id:
     :code: hebr-gap
     :type: DNOTE
@@ -31260,6 +31255,11 @@
     :stage: WD
     :date: '20250131'
   :file: data/wd-rdf12-concepts-20250131.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20250201'
+  :file: data/wd-rdf12-xml-20250201.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

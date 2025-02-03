@@ -31056,10 +31056,10 @@
     :date: '20250117'
   :file: data/dnote-alreq-gap-20250117.yaml
 - :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
+    :code: did-extensions
+    :type: NOTE
     :date: '20250120'
-  :file: data/crd-vc-bitstring-status-list-20250120.yaml
+  :file: data/note-did-extensions-20250120.yaml
 - :id:
     :code: hebr-gap
     :type: DNOTE
@@ -31071,20 +31071,15 @@
     :date: '20250117'
   :file: data/dnote-adlm-gap-20250117.yaml
 - :id:
-    :code: nkoo-gap
-    :type: DNOTE
-    :date: '20250117'
-  :file: data/dnote-nkoo-gap-20250117.yaml
-- :id:
-    :code: did-extensions
-    :type: NOTE
-    :date: '20250120'
-  :file: data/note-did-extensions-20250120.yaml
-- :id:
     :code: did-extensions-methods
     :type: NOTE
     :date: '20250120'
   :file: data/note-did-extensions-methods-20250120.yaml
+- :id:
+    :code: nkoo-gap
+    :type: DNOTE
+    :date: '20250117'
+  :file: data/dnote-nkoo-gap-20250117.yaml
 - :id:
     :code: png-3
     :stage: CRD
@@ -31145,21 +31140,6 @@
     :type: DNOTE
     :date: '20250124'
   :file: data/dnote-khmr-gap-20250124.yaml
-- :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20250126'
-  :file: data/crd-vc-data-integrity-20250126.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20250126'
-  :file: data/crd-vc-di-ecdsa-20250126.yaml
-- :id:
-    :code: vc-di-eddsa
-    :stage: CRD
-    :date: '20250126'
-  :file: data/crd-vc-di-eddsa-20250126.yaml
 - :id:
     :code: webauthn-3
     :stage: WD
@@ -31260,6 +31240,31 @@
     :stage: WD
     :date: '20250201'
   :file: data/wd-rdf12-xml-20250201.yaml
+- :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20250202'
+  :file: data/crd-vc-di-ecdsa-20250202.yaml
+- :id:
+    :code: vc-di-eddsa
+    :stage: CRD
+    :date: '20250202'
+  :file: data/crd-vc-di-eddsa-20250202.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20250202'
+  :file: data/crd-vc-bitstring-status-list-20250202.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20250203'
+  :file: data/crd-vc-bitstring-status-list-20250203.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20250203'
+  :file: data/crd-vc-data-integrity-20250203.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

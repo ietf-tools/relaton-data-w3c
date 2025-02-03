@@ -21,15 +21,25 @@ docstatus:
   stage:
     value: candidateRecommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CCRD-vc-bitstring-status-list-20250120
+    id: W3CCRD-vc-bitstring-status-list-20250202
     docid:
-    - id: W3C CRD-vc-bitstring-status-list-20250120
+    - id: W3C CRD-vc-bitstring-status-list-20250202
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-bitstring-status-list-20250120
+      content: W3C CRD-vc-bitstring-status-list-20250202
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-vc-bitstring-status-list-20250203
+    docid:
+    - id: W3C CRD-vc-bitstring-status-list-20250203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vc-bitstring-status-list-20250203
       format: text/plain
 - type: hasEdition
   bibitem:

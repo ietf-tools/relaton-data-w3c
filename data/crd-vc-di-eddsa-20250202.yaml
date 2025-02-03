@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20250126
+id: W3CCRD-vc-di-eddsa-20250202
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250126/
+- content: https://www.w3.org/TR/2025/CRD-vc-di-eddsa-20250202/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20250126
+- id: W3C CRD-vc-di-eddsa-20250202
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20250126
+docnumber: CRD-vc-di-eddsa-20250202
 date:
 - type: published
-  value: '2025-01-26'
+  value: '2025-02-02'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Manu Sporny
         language:
         - en
         script:
@@ -52,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Sebastian Crane
         language:
         - en
         script:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-26'
+revdate: '2025-02-02'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-integrity-20250118
+    id: W3CCRD-vc-di-eddsa-20250126
     docid:
-    - id: W3C CRD-vc-data-integrity-20250118
+    - id: W3C CRD-vc-di-eddsa-20250126
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-integrity-20250118
+      content: W3C CRD-vc-di-eddsa-20250126
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20250126
+  number: CRD-vc-di-eddsa-20250202
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

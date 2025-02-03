@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-ecdsa-20250126
+id: W3CCRD-vc-bitstring-status-list-20250203
 title:
-- content: Data Integrity ECDSA Cryptosuites v1.0
+- content: Bitstring Status List v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-di-ecdsa-20250126/
+- content: https://www.w3.org/TR/2025/CRD-vc-bitstring-status-list-20250203/
   type: src
-- content: https://w3c.github.io/vc-di-ecdsa/
+- content: https://w3c.github.io/vc-bitstring-status-list/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-ecdsa-20250126
+- id: W3C CRD-vc-bitstring-status-list-20250203
   type: W3C
   primary: true
-docnumber: CRD-vc-di-ecdsa-20250126
+docnumber: CRD-vc-bitstring-status-list-20250203
 date:
 - type: published
-  value: '2025-01-26'
+  value: '2025-02-03'
 contributor:
 - person:
     name:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Greg Bernstein
+        content: Mahmoud Alkhraishi
         language:
         - en
         script:
@@ -49,7 +49,17 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-26'
+- person:
+    name:
+      completename:
+        content: Michael Prorock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-03'
 language:
 - en
 script:
@@ -60,19 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-ecdsa-20250102
+    id: W3CCRD-vc-bitstring-status-list-20250120
     docid:
-    - id: W3C CRD-vc-di-ecdsa-20250102
+    - id: W3C CRD-vc-bitstring-status-list-20250120
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-ecdsa-20250102
+      content: W3C CRD-vc-bitstring-status-list-20250120
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-ecdsa-20250126
+  number: CRD-vc-bitstring-status-list-20250203
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

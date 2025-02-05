@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-json-schema-20240912
+id: W3CWD-rdf12-semantics-20250204
 title:
-- content: Verifiable Credentials JSON Schema Specification
+- content: RDF 1.2 Semantics
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-vc-json-schema-20240912/
+- content: https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/
   type: src
-- content: https://w3c.github.io/vc-json-schema/
+- content: https://w3c.github.io/rdf-semantics/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-json-schema-20240912
+- id: W3C WD-rdf12-semantics-20250204
   type: W3C
   primary: true
-docnumber: CRD-vc-json-schema-20240912
+docnumber: WD-rdf12-semantics-20250204
 date:
 - type: published
-  value: '2024-09-12'
+  value: '2025-02-04'
 contributor:
 - person:
     name:
       completename:
-        content: Andres Uribe
+        content: Dörthe Arndt
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Peter Patel-Schneider
         language:
         - en
         script:
@@ -42,39 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Prorock
+        content: Timothée Haudebourg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-12'
+revdate: '2025-02-04'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-json-schema-20231218
+    id: W3CWD-rdf12-semantics-20250131
     docid:
-    - id: W3C CRD-vc-json-schema-20231218
+    - id: W3C WD-rdf12-semantics-20250131
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-json-schema-20231218
+      content: W3C WD-rdf12-semantics-20250131
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-json-schema-20240912
+  number: WD-rdf12-semantics-20250204
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

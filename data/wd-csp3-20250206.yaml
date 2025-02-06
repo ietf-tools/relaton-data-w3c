@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-semantics-20250204
+id: W3CWD-CSP3-20250206
 title:
-- content: RDF 1.2 Semantics
+- content: Content Security Policy Level 3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/
+- content: https://www.w3.org/TR/2025/WD-CSP3-20250206/
   type: src
-- content: https://w3c.github.io/rdf-semantics/spec/
+- content: https://w3c.github.io/webappsec-csp/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-semantics-20250204
+- id: W3C WD-CSP3-20250206
   type: W3C
   primary: true
-docnumber: WD-rdf12-semantics-20250204
+docnumber: WD-CSP3-20250206
 date:
 - type: published
-  value: '2025-02-04'
+  value: '2025-02-06'
 contributor:
 - person:
     name:
       completename:
-        content: Dörthe Arndt
+        content: Antonio Sartori
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Patel-Schneider
+        content: Mike West
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Timothée Haudebourg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-02-04'
+revdate: '2025-02-06'
 language:
 - en
 script:
@@ -60,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-semantics-20250131
+    id: W3CWD-CSP3-20250123
     docid:
-    - id: W3C WD-rdf12-semantics-20250131
+    - id: W3C WD-CSP3-20250123
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-semantics-20250131
+      content: W3C WD-CSP3-20250123
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-semantics-20250204
+  number: WD-CSP3-20250206
 doctype: technicalReport
+editorialgroup:
+- name: Web Application Security Working Group
 ext:
   schema-version: v1.0.0

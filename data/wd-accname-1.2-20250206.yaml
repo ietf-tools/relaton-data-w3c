@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20250122
+id: W3CWD-accname-1.2-20250206
 title:
-- content: Decentralized Identifier Resolution (DID Resolution) v0.3
+- content: Accessible Name and Description Computation 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-did-resolution-20250122/
+- content: https://www.w3.org/TR/2025/WD-accname-1.2-20250206/
   type: src
-- content: https://w3c.github.io/did-resolution/
+- content: https://w3c.github.io/accname/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20250122
+- id: W3C WD-accname-1.2-20250206
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20250122
+docnumber: WD-accname-1.2-20250206
 date:
 - type: published
-  value: '2025-01-22'
+  value: '2025-02-06'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Bryan Garaventa
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Markus Sabadello
+        content: Melanie Sumner
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-22'
+revdate: '2025-02-06'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20250115
+    id: W3CWD-accname-1.2-20241211
     docid:
-    - id: W3C WD-did-resolution-20250115
+    - id: W3C WD-accname-1.2-20241211
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20250115
+      content: W3C WD-accname-1.2-20241211
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-did-resolution-20250122
+  number: WD-accname-1.2-20250206
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-accname-1.2-20241211
+id: W3CWD-network-error-logging-20250207
 title:
-- content: Accessible Name and Description Computation 1.2
+- content: Network Error Logging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-accname-1.2-20241211/
+- content: https://www.w3.org/TR/2025/WD-network-error-logging-20250207/
   type: src
-- content: https://w3c.github.io/accname/
+- content: https://w3c.github.io/network-error-logging/
   type: current
 type: standard
 docid:
-- id: W3C WD-accname-1.2-20241211
+- id: W3C WD-network-error-logging-20250207
   type: W3C
   primary: true
-docnumber: WD-accname-1.2-20241211
+docnumber: WD-network-error-logging-20250207
 date:
 - type: published
-  value: '2024-12-11'
+  value: '2025-02-07'
 contributor:
 - person:
     name:
       completename:
-        content: Bryan Garaventa
+        content: Douglas Creager
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Melanie Sumner
+        content: Ian Clelland
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-11'
+revdate: '2025-02-07'
 language:
 - en
 script:
@@ -50,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-accname-1.2-20240802
+    id: W3CWD-network-error-logging-20250205
     docid:
-    - id: W3C WD-accname-1.2-20240802
+    - id: W3C WD-network-error-logging-20250205
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-accname-1.2-20240802
+      content: W3C WD-network-error-logging-20250205
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-accname-1.2-20241211
+  number: WD-network-error-logging-20250207
 doctype: technicalReport
-editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

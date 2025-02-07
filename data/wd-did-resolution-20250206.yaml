@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-cid-1.0-20250130
+id: W3CWD-did-resolution-20250206
 title:
-- content: Controlled Identifiers (CIDs) v1.0
+- content: Decentralized Identifier Resolution (DID Resolution) v0.3
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CR-cid-1.0-20250130/
+- content: https://www.w3.org/TR/2025/WD-did-resolution-20250206/
   type: src
-- content: https://w3c.github.io/cid/
+- content: https://w3c.github.io/did-resolution/
   type: current
 type: standard
 docid:
-- id: W3C CR-cid-1.0-20250130
+- id: W3C WD-did-resolution-20250206
   type: W3C
   primary: true
-docnumber: CR-cid-1.0-20250130
+docnumber: WD-did-resolution-20250206
 date:
 - type: published
-  value: '2025-01-30'
+  value: '2025-02-06'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Dmitri Zagidulin
         language:
         - en
         script:
@@ -32,39 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Markus Sabadello
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-30'
+revdate: '2025-02-06'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-controller-document-20250126
+    id: W3CWD-did-resolution-20250122
     docid:
-    - id: W3C WD-controller-document-20250126
+    - id: W3C WD-did-resolution-20250122
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-controller-document-20250126
+      content: W3C WD-did-resolution-20250122
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CR-cid-1.0-20250130
+  number: WD-did-resolution-20250206
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

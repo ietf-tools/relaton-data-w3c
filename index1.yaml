@@ -30976,11 +30976,6 @@
     :date: '20250109'
   :file: data/dnote-clreq-gap-20250109.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20250109'
-  :file: data/note-vc-overview-20250109.yaml
-- :id:
     :code: rdf12-turtle
     :stage: WD
     :date: '20250109'
@@ -31141,25 +31136,10 @@
     :date: '20250131'
   :file: data/crd-webnn-20250131.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250131'
-  :file: data/wd-webdriver-bidi-20250131.yaml
-- :id:
     :code: security-privacy-questionnaire
     :type: NOTE
     :date: '20250131'
   :file: data/note-security-privacy-questionnaire-20250131.yaml
-- :id:
-    :code: webdriver2
-    :stage: WD
-    :date: '20250131'
-  :file: data/wd-webdriver2-20250131.yaml
-- :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250131'
-  :file: data/wd-rdf12-concepts-20250131.yaml
 - :id:
     :code: rdf12-xml
     :stage: WD
@@ -31201,11 +31181,6 @@
     :date: '20250206'
   :file: data/wd-csp3-20250206.yaml
 - :id:
-    :code: sparql12-query
-    :stage: WD
-    :date: '20250206'
-  :file: data/wd-sparql12-query-20250206.yaml
-- :id:
     :code: sparql12-update
     :stage: WD
     :date: '20250206'
@@ -31216,15 +31191,15 @@
     :date: '20250206'
   :file: data/wd-rdf12-semantics-20250206.yaml
 - :id:
-    :code: accname-1.2
-    :stage: WD
-    :date: '20250206'
-  :file: data/wd-accname-1.2-20250206.yaml
-- :id:
     :code: alreq-gap
     :type: DNOTE
     :date: '20250206'
   :file: data/dnote-alreq-gap-20250206.yaml
+- :id:
+    :code: accname-1.2
+    :stage: WD
+    :date: '20250206'
+  :file: data/wd-accname-1.2-20250206.yaml
 - :id:
     :code: did-resolution
     :stage: WD
@@ -31235,11 +31210,6 @@
     :stage: WD
     :date: '20250207'
   :file: data/wd-appmanifest-20250207.yaml
-- :id:
-    :code: cid-1.0
-    :stage: CRD
-    :date: '20250207'
-  :file: data/crd-cid-1.0-20250207.yaml
 - :id:
     :code: network-error-logging
     :stage: WD
@@ -31275,6 +31245,36 @@
     :stage: WD
     :date: '20250207'
   :file: data/wd-css-grid-3-20250207.yaml
+- :id:
+    :code: cid-1.0
+    :stage: CRD
+    :date: '20250209'
+  :file: data/crd-cid-1.0-20250209.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20250210'
+  :file: data/note-vc-overview-20250210.yaml
+- :id:
+    :code: sparql12-query
+    :stage: WD
+    :date: '20250210'
+  :file: data/wd-sparql12-query-20250210.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250210'
+  :file: data/wd-rdf12-concepts-20250210.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250210'
+  :file: data/wd-webdriver-bidi-20250210.yaml
+- :id:
+    :code: webdriver2
+    :stage: WD
+    :date: '20250210'
+  :file: data/wd-webdriver2-20250210.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31429,9 +31429,6 @@
     :code: string-search
   :file: data/string-search.yaml
 - :id:
-    :code: vc-overview
-  :file: data/vc-overview.yaml
-- :id:
     :code: mong-lreq
   :file: data/mong-lreq.yaml
 - :id:
@@ -31450,14 +31447,17 @@
     :code: pointerevents4
   :file: data/pointerevents4.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
+- :id:
+    :code: css-grid-3
+  :file: data/css-grid-3.yaml
 - :id:
     :code: cid-1.0
   :file: data/cid-1.0.yaml
 - :id:
-    :code: css-grid-3
-  :file: data/css-grid-3.yaml
+    :code: vc-overview
+  :file: data/vc-overview.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

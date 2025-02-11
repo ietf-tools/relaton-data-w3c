@@ -30991,11 +30991,6 @@
     :date: '20250110'
   :file: data/wd-indexeddb-3-20250110.yaml
 - :id:
-    :code: permissions-policy-1
-    :stage: WD
-    :date: '20250113'
-  :file: data/wd-permissions-policy-1-20250113.yaml
-- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20250116'
@@ -31166,11 +31161,6 @@
     :date: '20250203'
   :file: data/crd-vc-bitstring-status-list-20250203.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20250203'
-  :file: data/crd-vc-data-integrity-20250203.yaml
-- :id:
     :code: vc-json-schema
     :stage: CRD
     :date: '20250204'
@@ -31275,6 +31265,16 @@
     :stage: WD
     :date: '20250210'
   :file: data/wd-webdriver2-20250210.yaml
+- :id:
+    :code: permissions-policy-1
+    :stage: WD
+    :date: '20250210'
+  :file: data/wd-permissions-policy-1-20250210.yaml
+- :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20250210'
+  :file: data/crd-vc-data-integrity-20250210.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

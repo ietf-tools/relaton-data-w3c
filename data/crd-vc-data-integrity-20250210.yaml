@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20250203
+id: W3CCRD-vc-data-integrity-20250210
 title:
 - content: Verifiable Credential Data Integrity 1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250203/
+- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250210/
   type: src
 - content: https://w3c.github.io/vc-data-integrity/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20250203
+- id: W3C CRD-vc-data-integrity-20250210
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20250203
+docnumber: CRD-vc-data-integrity-20250210
 date:
 - type: published
-  value: '2025-02-03'
+  value: '2025-02-10'
 contributor:
 - person:
     name:
@@ -69,7 +69,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-03'
+revdate: '2025-02-10'
 language:
 - en
 script:
@@ -80,19 +80,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-integrity-20250202
+    id: W3CCRD-vc-data-integrity-20250203
     docid:
-    - id: W3C CRD-vc-data-integrity-20250202
+    - id: W3C CRD-vc-data-integrity-20250203
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-integrity-20250202
+      content: W3C CRD-vc-data-integrity-20250203
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20250203
+  number: CRD-vc-data-integrity-20250210
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

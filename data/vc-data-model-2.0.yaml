@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-vc-data-model-2.0-20230617
+    docid:
+    - id: W3C WD-vc-data-model-2.0-20230617
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-data-model-2.0-20230617
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-vc-data-model-2.0-20230520
     docid:
     - id: W3C WD-vc-data-model-2.0-20230520
@@ -53,16 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20231021
-    docid:
-    - id: W3C WD-vc-data-model-2.0-20231021
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vc-data-model-2.0-20231021
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-vc-data-model-2.0-20240608
     docid:
     - id: W3C CRD-vc-data-model-2.0-20240608
@@ -70,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-vc-data-model-2.0-20240608
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-vc-data-model-2.0-20240601
+    docid:
+    - id: W3C CRD-vc-data-model-2.0-20240601
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vc-data-model-2.0-20240601
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,23 +93,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vc-data-model-2.0-20230617
+    id: W3CWD-vc-data-model-2.0-20231021
     docid:
-    - id: W3C WD-vc-data-model-2.0-20230617
+    - id: W3C WD-vc-data-model-2.0-20231021
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-data-model-2.0-20230617
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-vc-data-model-2.0-20221218
-    docid:
-    - id: W3C WD-vc-data-model-2.0-20221218
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vc-data-model-2.0-20221218
+      content: W3C WD-vc-data-model-2.0-20231021
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,13 +113,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20240601
+    id: W3CWD-vc-data-model-2.0-20221218
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20240601
+    - id: W3C WD-vc-data-model-2.0-20221218
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20240601
+      content: W3C WD-vc-data-model-2.0-20221218
       format: text/plain
 series:
 - title:

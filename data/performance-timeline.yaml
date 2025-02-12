@@ -73,16 +73,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-performance-timeline-20110901
-    docid:
-    - id: W3C WD-performance-timeline-20110901
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-performance-timeline-20110901
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-performance-timeline-20231011
     docid:
     - id: W3C CRD-performance-timeline-20231011
@@ -110,6 +100,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CR-performance-timeline-20120726
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-performance-timeline-20110901
+    docid:
+    - id: W3C WD-performance-timeline-20110901
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-performance-timeline-20110901
       format: text/plain
 series:
 - title:

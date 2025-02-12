@@ -33,6 +33,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CCR-secure-payment-confirmation-20230615
+    docid:
+    - id: W3C CR-secure-payment-confirmation-20230615
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-secure-payment-confirmation-20230615
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-secure-payment-confirmation-20230530
     docid:
     - id: W3C WD-secure-payment-confirmation-20230530
@@ -53,26 +63,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-secure-payment-confirmation-20231018
-    docid:
-    - id: W3C CRD-secure-payment-confirmation-20231018
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-secure-payment-confirmation-20231018
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCR-secure-payment-confirmation-20230615
-    docid:
-    - id: W3C CR-secure-payment-confirmation-20230615
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-secure-payment-confirmation-20230615
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-secure-payment-confirmation-20231213
     docid:
     - id: W3C CRD-secure-payment-confirmation-20231213
@@ -90,6 +80,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-secure-payment-confirmation-20230621
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-secure-payment-confirmation-20231018
+    docid:
+    - id: W3C CRD-secure-payment-confirmation-20231018
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-secure-payment-confirmation-20231018
       format: text/plain
 - type: hasEdition
   bibitem:

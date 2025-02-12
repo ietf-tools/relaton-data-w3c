@@ -21,16 +21,6 @@ docstatus:
   stage:
     value: workingDraft
 relation:
-- type: hasEdition
-  bibitem:
-    id: W3CWD-vc-jwt-20230607
-    docid:
-    - id: W3C WD-vc-jwt-20230607
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vc-jwt-20230607
-      format: text/plain
 - type: instance
   bibitem:
     id: W3CWD-vc-jwt-20230615
@@ -40,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-vc-jwt-20230615
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vc-jwt-20230606
+    docid:
+    - id: W3C WD-vc-jwt-20230606
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-jwt-20230606
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vc-jwt-20230606
+    id: W3CWD-vc-jwt-20230607
     docid:
-    - id: W3C WD-vc-jwt-20230606
+    - id: W3C WD-vc-jwt-20230607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-vc-jwt-20230606
+      content: W3C WD-vc-jwt-20230607
       format: text/plain
 - type: hasEdition
   bibitem:

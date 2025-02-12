@@ -1,28 +1,38 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-security-privacy-questionnaire-20250131
+id: W3CNOTE-security-privacy-questionnaire-20250212
 title:
 - content: 'Self-Review Questionnaire: Security and Privacy'
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/NOTE-security-privacy-questionnaire-20250131/
+- content: https://www.w3.org/TR/2025/NOTE-security-privacy-questionnaire-20250212/
   type: src
 - content: https://w3ctag.github.io/security-questionnaire/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-security-privacy-questionnaire-20250131
+- id: W3C NOTE-security-privacy-questionnaire-20250212
   type: W3C
   primary: true
-docnumber: NOTE-security-privacy-questionnaire-20250131
+docnumber: NOTE-security-privacy-questionnaire-20250212
 date:
 - type: published
-  value: '2025-01-31'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
         content: Peter Snyder
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Simone Onofri
         language:
         - en
         script:
@@ -39,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-31'
+revdate: '2025-02-12'
 language:
 - en
 script:
@@ -47,19 +57,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-security-privacy-questionnaire-20250130
+    id: W3CNOTE-security-privacy-questionnaire-20250131
     docid:
-    - id: W3C NOTE-security-privacy-questionnaire-20250130
+    - id: W3C NOTE-security-privacy-questionnaire-20250131
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-security-privacy-questionnaire-20250130
+      content: W3C NOTE-security-privacy-questionnaire-20250131
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-security-privacy-questionnaire-20250131
+  number: NOTE-security-privacy-questionnaire-20250212
 doctype: groupNote
 editorialgroup:
 - name: Technical Architecture Group

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCR-orientation-event-20241121
+id: W3CCRD-orientation-event-20250212
 title:
 - content: Device Orientation and Motion
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CR-orientation-event-20241121/
+- content: https://www.w3.org/TR/2025/CRD-orientation-event-20250212/
   type: src
 - content: https://w3c.github.io/deviceorientation/
   type: current
 type: standard
 docid:
-- id: W3C CR-orientation-event-20241121
+- id: W3C CRD-orientation-event-20250212
   type: W3C
   primary: true
-docnumber: CR-orientation-event-20241121
+docnumber: CRD-orientation-event-20250212
 date:
 - type: published
-  value: '2024-11-21'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-21'
+revdate: '2025-02-12'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-orientation-event-20241024
+    id: W3CCR-orientation-event-20241121
     docid:
-    - id: W3C WD-orientation-event-20241024
+    - id: W3C CR-orientation-event-20241121
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20241024
+      content: W3C CR-orientation-event-20241121
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CR-orientation-event-20241121
+  number: CRD-orientation-event-20250212
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

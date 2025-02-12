@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-vc-jose-cose-20231016
-    docid:
-    - id: W3C WD-vc-jose-cose-20231016
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-vc-jose-cose-20231016
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-vc-jose-cose-20240521
     docid:
     - id: W3C CRD-vc-jose-cose-20240521
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-vc-jose-cose-20240521
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-vc-jose-cose-20231016
+    docid:
+    - id: W3C WD-vc-jose-cose-20231016
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-vc-jose-cose-20231016
       format: text/plain
 series:
 - title:

@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-css-beijing-20100727
+    docid:
+    - id: W3C WD-css-beijing-20100727
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-css-beijing-20100727
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-css-beijing-20071019
     docid:
     - id: W3C WD-css-beijing-20071019
@@ -47,16 +57,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-css-beijing-20080516
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-css-beijing-20100727
-    docid:
-    - id: W3C WD-css-beijing-20100727
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-css-beijing-20100727
       format: text/plain
 series:
 - title:

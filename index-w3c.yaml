@@ -3897,12 +3897,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -10080,6 +10080,10 @@
   :file: data/mediacapture-fromelement.yaml
 - :code: mediacapture-fromelement
   :stage: WD
+  :date: '20250212'
+  :file: data/wd-mediacapture-fromelement-20250212.yaml
+- :code: mediacapture-fromelement
+  :stage: WD
   :date: '20231212'
   :file: data/wd-mediacapture-fromelement-20231212.yaml
 - :code: mediacapture-fromelement
@@ -11319,12 +11323,12 @@
   :file: data/note-orientation-event-20170530.yaml
 - :code: orientation-event
   :stage: CR
-  :date: '20241121'
-  :file: data/cr-orientation-event-20241121.yaml
-- :code: orientation-event
-  :stage: CR
   :date: '20160818'
   :file: data/cr-orientation-event-20160818.yaml
+- :code: orientation-event
+  :stage: CRD
+  :date: '20250212'
+  :file: data/crd-orientation-event-20250212.yaml
 - :code: orientation-event
   :stage: WD
   :date: '20240514'
@@ -14833,8 +14837,8 @@
   :file: data/security-privacy-questionnaire.yaml
 - :code: security-privacy-questionnaire
   :type: NOTE
-  :date: '20250131'
-  :file: data/note-security-privacy-questionnaire-20250131.yaml
+  :date: '20250212'
+  :file: data/note-security-privacy-questionnaire-20250212.yaml
 - :code: security-privacy-questionnaire
   :type: NOTE
   :date: '20211216'
@@ -17724,8 +17728,8 @@
   :file: data/vc-overview.yaml
 - :code: vc-overview
   :type: NOTE
-  :date: '20250210'
-  :file: data/note-vc-overview-20250210.yaml
+  :date: '20250212'
+  :file: data/note-vc-overview-20250212.yaml
 - :code: vc-specs-dir
   :file: data/vc-specs-dir.yaml
 - :code: vc-specs-dir

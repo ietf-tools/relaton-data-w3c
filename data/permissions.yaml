@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-permissions-20221220
-    docid:
-    - id: W3C WD-permissions-20221220
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-permissions-20221220
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-permissions-20170925
-    docid:
-    - id: W3C WD-permissions-20170925
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-permissions-20170925
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-permissions-20230613
     docid:
     - id: W3C WD-permissions-20230613
@@ -60,26 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-permissions-20230613
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-permissions-20220527
-    docid:
-    - id: W3C WD-permissions-20220527
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-permissions-20220527
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-permissions-20200720
-    docid:
-    - id: W3C WD-permissions-20200720
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-permissions-20200720
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-permissions-20240319
+    id: W3CWD-permissions-20221220
     docid:
-    - id: W3C WD-permissions-20240319
+    - id: W3C WD-permissions-20221220
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-permissions-20240319
+      content: W3C WD-permissions-20221220
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -110,6 +70,46 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-permissions-20211207
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20240319
+    docid:
+    - id: W3C WD-permissions-20240319
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20240319
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20170925
+    docid:
+    - id: W3C WD-permissions-20170925
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20170925
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20200720
+    docid:
+    - id: W3C WD-permissions-20200720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20200720
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-permissions-20220527
+    docid:
+    - id: W3C WD-permissions-20220527
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-permissions-20220527
       format: text/plain
 series:
 - title:

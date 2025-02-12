@@ -30,6 +30,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CDNOTE-latn-nl-gap-20230614
+    docid:
+    - id: W3C DNOTE-latn-nl-gap-20230614
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-latn-nl-gap-20230614
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CDNOTE-latn-nl-gap-20230530
     docid:
     - id: W3C DNOTE-latn-nl-gap-20230530
@@ -40,23 +50,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-latn-nl-gap-20220126
+    id: W3CWD-latn-nl-gap-20210811
     docid:
-    - id: W3C DNOTE-latn-nl-gap-20220126
+    - id: W3C WD-latn-nl-gap-20210811
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-latn-nl-gap-20220126
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CDNOTE-latn-nl-gap-20230614
-    docid:
-    - id: W3C DNOTE-latn-nl-gap-20230614
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-latn-nl-gap-20230614
+      content: W3C WD-latn-nl-gap-20210811
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -70,13 +70,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-latn-nl-gap-20210811
+    id: W3CDNOTE-latn-nl-gap-20220126
     docid:
-    - id: W3C WD-latn-nl-gap-20210811
+    - id: W3C DNOTE-latn-nl-gap-20220126
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-latn-nl-gap-20210811
+      content: W3C DNOTE-latn-nl-gap-20220126
       format: text/plain
 series:
 - title:

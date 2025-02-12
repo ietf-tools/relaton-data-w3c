@@ -40,16 +40,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-webrtc-nv-use-cases-20181211
-    docid:
-    - id: W3C WD-webrtc-nv-use-cases-20181211
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webrtc-nv-use-cases-20181211
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-webrtc-nv-use-cases-20211123
     docid:
     - id: W3C DNOTE-webrtc-nv-use-cases-20211123
@@ -60,13 +50,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-webrtc-nv-use-cases-20231019
+    id: W3CDNOTE-webrtc-nv-use-cases-20230405
     docid:
-    - id: W3C DNOTE-webrtc-nv-use-cases-20231019
+    - id: W3C DNOTE-webrtc-nv-use-cases-20230405
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webrtc-nv-use-cases-20231019
+      content: W3C DNOTE-webrtc-nv-use-cases-20230405
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webrtc-nv-use-cases-20181211
+    docid:
+    - id: W3C WD-webrtc-nv-use-cases-20181211
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webrtc-nv-use-cases-20181211
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,13 +80,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-webrtc-nv-use-cases-20230405
+    id: W3CDNOTE-webrtc-nv-use-cases-20231019
     docid:
-    - id: W3C DNOTE-webrtc-nv-use-cases-20230405
+    - id: W3C DNOTE-webrtc-nv-use-cases-20231019
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webrtc-nv-use-cases-20230405
+      content: W3C DNOTE-webrtc-nv-use-cases-20231019
       format: text/plain
 - type: hasEdition
   bibitem:

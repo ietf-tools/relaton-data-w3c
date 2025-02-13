@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-accelerometer-20241009
+id: W3CWD-proximity-20250212
 title:
-- content: Accelerometer
+- content: Proximity Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-accelerometer-20241009/
+- content: https://www.w3.org/TR/2025/WD-proximity-20250212/
   type: src
-- content: https://w3c.github.io/accelerometer/
+- content: https://w3c.github.io/proximity/
   type: current
 type: standard
 docid:
-- id: W3C CRD-accelerometer-20241009
+- id: W3C WD-proximity-20250212
   type: W3C
   primary: true
-docnumber: CRD-accelerometer-20241009
+docnumber: WD-proximity-20250212
 date:
 - type: published
-  value: '2024-10-09'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
@@ -29,30 +29,40 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-09'
+- person:
+    name:
+      completename:
+        content: Rijubrata Bhaumik
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-accelerometer-20241008
+    id: W3CWD-proximity-20231127
     docid:
-    - id: W3C CRD-accelerometer-20241008
+    - id: W3C WD-proximity-20231127
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-accelerometer-20241008
+      content: W3C WD-proximity-20231127
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-accelerometer-20241009
+  number: WD-proximity-20250212
 doctype: technicalReport
 editorialgroup:
 - name: Devices and Sensors Working Group

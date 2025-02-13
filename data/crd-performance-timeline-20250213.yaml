@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-presentation-api-20241008
+id: W3CCRD-performance-timeline-20250213
 title:
-- content: Presentation API
+- content: Performance Timeline
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-presentation-api-20241008/
+- content: https://www.w3.org/TR/2025/CRD-performance-timeline-20250213/
   type: src
-- content: https://w3c.github.io/presentation-api/
+- content: https://w3c.github.io/performance-timeline/
   type: current
 type: standard
 docid:
-- id: W3C CRD-presentation-api-20241008
+- id: W3C CRD-performance-timeline-20250213
   type: W3C
   primary: true
-docnumber: CRD-presentation-api-20241008
+docnumber: CRD-performance-timeline-20250213
 date:
 - type: published
-  value: '2024-10-08'
+  value: '2025-02-13'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Nicolas Pena Moreno
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-08'
+revdate: '2025-02-13'
 language:
 - en
 script:
@@ -40,21 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-presentation-api-20240823
+    id: W3CCRD-performance-timeline-20240216
     docid:
-    - id: W3C CRD-presentation-api-20240823
+    - id: W3C CRD-performance-timeline-20240216
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20240823
+      content: W3C CRD-performance-timeline-20240216
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-presentation-api-20241008
+  number: CRD-performance-timeline-20250213
 doctype: technicalReport
-editorialgroup:
-- name: Second Screen Working Group
 ext:
   schema-version: v1.0.0

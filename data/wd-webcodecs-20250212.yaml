@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-aac-codec-registration-20240909
+id: W3CWD-webcodecs-20250212
 title:
-- content: AAC WebCodecs Registration
+- content: WebCodecs
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-aac-codec-registration-20240909/
+- content: https://www.w3.org/TR/2025/WD-webcodecs-20250212/
   type: src
-- content: https://w3c.github.io/webcodecs/aac_codec_registration.html
+- content: https://w3c.github.io/webcodecs/
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-aac-codec-registration-20240909
+- id: W3C WD-webcodecs-20250212
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-aac-codec-registration-20240909
+docnumber: WD-webcodecs-20250212
 date:
 - type: published
-  value: '2024-09-09'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -39,28 +39,31 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-09'
+revdate: '2025-02-12'
 language:
 - en
 script:
 - Latn
+docstatus:
+  stage:
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-aac-codec-registration-20240717
+    id: W3CWD-webcodecs-20250129
     docid:
-    - id: W3C DNOTE-webcodecs-aac-codec-registration-20240717
+    - id: W3C WD-webcodecs-20250129
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-aac-codec-registration-20240717
+      content: W3C WD-webcodecs-20250129
       format: text/plain
 series:
 - title:
-    content: W3C NOTE
+    content: W3C WD
     format: text/plain
-  number: DNOTE-webcodecs-aac-codec-registration-20240909
-doctype: groupNote
+  number: WD-webcodecs-20250212
+doctype: technicalReport
 editorialgroup:
 - name: Media Working Group
 ext:

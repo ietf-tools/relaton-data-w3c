@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-media-capabilities-20241007
+id: W3CCRD-resource-timing-20250213
 title:
-- content: Media Capabilities
+- content: Resource Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-media-capabilities-20241007/
+- content: https://www.w3.org/TR/2025/CRD-resource-timing-20250213/
   type: src
-- content: https://w3c.github.io/media-capabilities/
+- content: https://w3c.github.io/resource-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-media-capabilities-20241007
+- id: W3C CRD-resource-timing-20250213
   type: W3C
   primary: true
-docnumber: WD-media-capabilities-20241007
+docnumber: CRD-resource-timing-20250213
 date:
 - type: published
-  value: '2024-10-07'
+  value: '2025-02-13'
 contributor:
 - person:
     name:
       completename:
-        content: Jean-Yves Avenard
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,39 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Mark Foltz
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-07'
+revdate: '2025-02-13'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-media-capabilities-20240926
+    id: W3CCRD-resource-timing-20241104
     docid:
-    - id: W3C WD-media-capabilities-20240926
+    - id: W3C CRD-resource-timing-20241104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-media-capabilities-20240926
+      content: W3C CRD-resource-timing-20241104
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-media-capabilities-20241007
+  number: CRD-resource-timing-20250213
 doctype: technicalReport
-editorialgroup:
-- name: Media Working Group
 ext:
   schema-version: v1.0.0

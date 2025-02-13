@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-pointerevents4-20250129
+id: W3CCRD-dpub-aria-1.1-20250212
 title:
-- content: Pointer Events
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-pointerevents4-20250129/
+- content: https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250212/
   type: src
-- content: https://w3c.github.io/pointerevents/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C WD-pointerevents4-20250129
+- id: W3C CRD-dpub-aria-1.1-20250212
   type: W3C
   primary: true
-docnumber: WD-pointerevents4-20250129
+docnumber: CRD-dpub-aria-1.1-20250212
 date:
 - type: published
-  value: '2025-01-29'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Patrick Lauke
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Robert Flack
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-29'
+revdate: '2025-02-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-pointerevents4-20241129
+    id: W3CCRD-dpub-aria-1.1-20241218
     docid:
-    - id: W3C WD-pointerevents4-20241129
+    - id: W3C CRD-dpub-aria-1.1-20241218
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerevents4-20241129
+      content: W3C CRD-dpub-aria-1.1-20241218
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-pointerevents4-20250129
+  number: CRD-dpub-aria-1.1-20250212
 doctype: technicalReport
 editorialgroup:
-- name: Pointer Events Working Group
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

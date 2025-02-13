@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webtransport-20240531
+id: W3CWD-network-error-logging-20250212
 title:
-- content: WebTransport
+- content: Network Error Logging
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-webtransport-20240531/
+- content: https://www.w3.org/TR/2025/WD-network-error-logging-20250212/
   type: src
-- content: https://w3c.github.io/webtransport/
+- content: https://w3c.github.io/network-error-logging/
   type: current
 type: standard
 docid:
-- id: W3C WD-webtransport-20240531
+- id: W3C WD-network-error-logging-20250212
   type: W3C
   primary: true
-docnumber: WD-webtransport-20240531
+docnumber: WD-network-error-logging-20250212
 date:
 - type: published
-  value: '2024-05-31'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Douglas Creager
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Nidhi Jaju
+        content: Ian Clelland
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Victor Vasiliev
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2024-05-31'
+revdate: '2025-02-12'
 language:
 - en
 script:
@@ -60,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webtransport-20231220
+    id: W3CWD-network-error-logging-20250207
     docid:
-    - id: W3C WD-webtransport-20231220
+    - id: W3C WD-network-error-logging-20250207
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20231220
+      content: W3C WD-network-error-logging-20250207
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webtransport-20240531
+  number: WD-network-error-logging-20250212
 doctype: technicalReport
-editorialgroup:
-- name: WebTransport Working Group
 ext:
   schema-version: v1.0.0

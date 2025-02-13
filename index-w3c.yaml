@@ -78,8 +78,8 @@
   :file: data/cr-accelerometer-20180320.yaml
 - :code: accelerometer
   :stage: CRD
-  :date: '20241009'
-  :file: data/crd-accelerometer-20241009.yaml
+  :date: '20250212'
+  :file: data/crd-accelerometer-20250212.yaml
 - :code: accelerometer
   :stage: CRD
   :date: '20240607'
@@ -435,6 +435,10 @@
   :stage: CR
   :date: '20131001'
   :file: data/cr-ambient-light-20131001.yaml
+- :code: ambient-light
+  :stage: WD
+  :date: '20250212'
+  :file: data/wd-ambient-light-20250212.yaml
 - :code: ambient-light
   :stage: WD
   :date: '20240124'
@@ -1834,8 +1838,8 @@
   :file: data/cr-core-aam-1.2-20221122.yaml
 - :code: core-aam-1.2
   :stage: CRD
-  :date: '20241219'
-  :file: data/crd-core-aam-1.2-20241219.yaml
+  :date: '20250212'
+  :file: data/crd-core-aam-1.2-20250212.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -5728,8 +5732,8 @@
   :file: data/cr-dpub-aria-1.1-20240227.yaml
 - :code: dpub-aria-1.1
   :stage: CRD
-  :date: '20241218'
-  :file: data/crd-dpub-aria-1.1-20241218.yaml
+  :date: '20250212'
+  :file: data/crd-dpub-aria-1.1-20250212.yaml
 - :code: dpub-aria-1.1
   :stage: WD
   :date: '20230902'
@@ -7637,8 +7641,8 @@
   :file: data/html-aam-1.0.yaml
 - :code: html-aam-1.0
   :stage: WD
-  :date: '20250207'
-  :file: data/wd-html-aam-1.0-20250207.yaml
+  :date: '20250212'
+  :file: data/wd-html-aam-1.0-20250212.yaml
 - :code: html-aam-1.0
   :stage: WD
   :date: '20240418'
@@ -9684,8 +9688,8 @@
   :file: data/cr-magnetometer-20180320.yaml
 - :code: magnetometer
   :stage: WD
-  :date: '20241008'
-  :file: data/wd-magnetometer-20241008.yaml
+  :date: '20250212'
+  :file: data/wd-magnetometer-20250212.yaml
 - :code: magnetometer
   :stage: WD
   :date: '20240515'
@@ -9930,8 +9934,8 @@
   :file: data/media-capabilities.yaml
 - :code: media-capabilities
   :stage: WD
-  :date: '20241007'
-  :file: data/wd-media-capabilities-20241007.yaml
+  :date: '20250212'
+  :file: data/wd-media-capabilities-20250212.yaml
 - :code: media-capabilities
   :stage: WD
   :date: '20240212'
@@ -11022,8 +11026,8 @@
   :file: data/navigation-timing-2.yaml
 - :code: navigation-timing-2
   :stage: WD
-  :date: '20241104'
-  :file: data/wd-navigation-timing-2-20241104.yaml
+  :date: '20250213'
+  :file: data/wd-navigation-timing-2-20250213.yaml
 - :code: navigation-timing-2
   :stage: WD
   :date: '20240307'
@@ -11108,8 +11112,8 @@
   :file: data/note-network-error-logging-20160720.yaml
 - :code: network-error-logging
   :stage: WD
-  :date: '20250207'
-  :file: data/wd-network-error-logging-20250207.yaml
+  :date: '20250212'
+  :file: data/wd-network-error-logging-20250212.yaml
 - :code: network-error-logging
   :stage: WD
   :date: '20231005'
@@ -11995,6 +11999,10 @@
   :file: data/cr-performance-timeline-20120726.yaml
 - :code: performance-timeline
   :stage: CRD
+  :date: '20250213'
+  :file: data/crd-performance-timeline-20250213.yaml
+- :code: performance-timeline
+  :stage: CRD
   :date: '20240216'
   :file: data/crd-performance-timeline-20240216.yaml
 - :code: performance-timeline
@@ -12407,8 +12415,8 @@
   :file: data/pointerevents4.yaml
 - :code: pointerevents4
   :stage: WD
-  :date: '20250129'
-  :file: data/wd-pointerevents4-20250129.yaml
+  :date: '20250213'
+  :file: data/wd-pointerevents4-20250213.yaml
 - :code: pointerlock
   :file: data/pointerlock.yaml
 - :code: pointerlock
@@ -12654,8 +12662,8 @@
   :file: data/cr-presentation-api-20160714.yaml
 - :code: presentation-api
   :stage: CRD
-  :date: '20241008'
-  :file: data/crd-presentation-api-20241008.yaml
+  :date: '20250212'
+  :file: data/crd-presentation-api-20250212.yaml
 - :code: presentation-api
   :stage: CRD
   :date: '20231016'
@@ -12939,6 +12947,10 @@
   :stage: CR
   :date: '20131001'
   :file: data/cr-proximity-20131001.yaml
+- :code: proximity
+  :stage: WD
+  :date: '20250212'
+  :file: data/wd-proximity-20250212.yaml
 - :code: proximity
   :stage: WD
   :date: '20231127'
@@ -14078,8 +14090,8 @@
   :file: data/cr-resource-timing-20120522.yaml
 - :code: resource-timing
   :stage: CRD
-  :date: '20241104'
-  :file: data/crd-resource-timing-20241104.yaml
+  :date: '20250213'
+  :file: data/crd-resource-timing-20250213.yaml
 - :code: resource-timing
   :stage: CRD
   :date: '20240524'
@@ -17391,8 +17403,8 @@
   :file: data/cr-user-timing-20120726.yaml
 - :code: user-timing
   :stage: CRD
-  :date: '20241031'
-  :file: data/crd-user-timing-20241031.yaml
+  :date: '20250213'
+  :file: data/crd-user-timing-20250213.yaml
 - :code: user-timing
   :stage: CRD
   :date: '20231114'
@@ -17650,9 +17662,9 @@
 - :code: vc-jose-cose
   :file: data/vc-jose-cose.yaml
 - :code: vc-jose-cose
-  :stage: CR
-  :date: '20241219'
-  :file: data/cr-vc-jose-cose-20241219.yaml
+  :stage: CRD
+  :date: '20250212'
+  :file: data/crd-vc-jose-cose-20250212.yaml
 - :code: vc-jose-cose
   :stage: CRD
   :date: '20240521'
@@ -17844,8 +17856,8 @@
   :file: data/cr-vibration-20120508.yaml
 - :code: vibration
   :stage: CRD
-  :date: '20241129'
-  :file: data/crd-vibration-20241129.yaml
+  :date: '20250212'
+  :file: data/crd-vibration-20250212.yaml
 - :code: vibration
   :stage: WD
   :date: '20111117'
@@ -19146,8 +19158,8 @@
   :file: data/webcodecs.yaml
 - :code: webcodecs
   :stage: WD
-  :date: '20250129'
-  :file: data/wd-webcodecs-20250129.yaml
+  :date: '20250212'
+  :file: data/wd-webcodecs-20250212.yaml
 - :code: webcodecs
   :stage: WD
   :date: '20240520'
@@ -19180,8 +19192,8 @@
   :file: data/webcodecs-aac-codec-registration.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-aac-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-aac-codec-registration-20250212.yaml
 - :code: webcodecs-aac-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19240,8 +19252,8 @@
   :file: data/webcodecs-av1-codec-registration.yaml
 - :code: webcodecs-av1-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-av1-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-av1-codec-registration-20250212.yaml
 - :code: webcodecs-av1-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19270,8 +19282,8 @@
   :file: data/webcodecs-avc-codec-registration.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-avc-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-avc-codec-registration-20250212.yaml
 - :code: webcodecs-avc-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19310,8 +19322,8 @@
   :file: data/webcodecs-flac-codec-registration.yaml
 - :code: webcodecs-flac-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-flac-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-flac-codec-registration-20250212.yaml
 - :code: webcodecs-flac-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19340,8 +19352,8 @@
   :file: data/webcodecs-hevc-codec-registration.yaml
 - :code: webcodecs-hevc-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-hevc-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-hevc-codec-registration-20250212.yaml
 - :code: webcodecs-hevc-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19392,8 +19404,8 @@
   :file: data/webcodecs-opus-codec-registration.yaml
 - :code: webcodecs-opus-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-opus-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-opus-codec-registration-20250212.yaml
 - :code: webcodecs-opus-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19452,8 +19464,8 @@
   :file: data/webcodecs-ulaw-codec-registration.yaml
 - :code: webcodecs-ulaw-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-ulaw-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-ulaw-codec-registration-20250212.yaml
 - :code: webcodecs-ulaw-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -19544,8 +19556,8 @@
   :file: data/webcodecs-vp9-codec-registration.yaml
 - :code: webcodecs-vp9-codec-registration
   :type: DNOTE
-  :date: '20240909'
-  :file: data/dnote-webcodecs-vp9-codec-registration-20240909.yaml
+  :date: '20250212'
+  :file: data/dnote-webcodecs-vp9-codec-registration-20250212.yaml
 - :code: webcodecs-vp9-codec-registration
   :type: DNOTE
   :date: '20240520'
@@ -20273,6 +20285,10 @@
   :file: data/wd-websub-20161124.yaml
 - :code: webtransport
   :file: data/webtransport.yaml
+- :code: webtransport
+  :stage: WD
+  :date: '20250212'
+  :file: data/wd-webtransport-20250212.yaml
 - :code: webtransport
   :stage: WD
   :date: '20240531'

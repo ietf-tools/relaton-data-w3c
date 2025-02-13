@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-navigation-timing-2-20241104
+id: W3CCRD-core-aam-1.2-20250212
 title:
-- content: Navigation Timing Level 2
+- content: Core Accessibility API Mappings 1.2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-navigation-timing-2-20241104/
+- content: https://www.w3.org/TR/2025/CRD-core-aam-1.2-20250212/
   type: src
-- content: https://w3c.github.io/navigation-timing/
+- content: https://w3c.github.io/core-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-navigation-timing-2-20241104
+- id: W3C CRD-core-aam-1.2-20250212
   type: W3C
   primary: true
-docnumber: WD-navigation-timing-2-20241104
+docnumber: CRD-core-aam-1.2-20250212
 date:
 - type: published
-  value: '2024-11-04'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Alexander Surkov
         language:
         - en
         script:
@@ -32,37 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Yoav Weiss
+        content: Valerie Young
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-04'
+revdate: '2025-02-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-navigation-timing-2-20240729
+    id: W3CCRD-core-aam-1.2-20241219
     docid:
-    - id: W3C WD-navigation-timing-2-20240729
+    - id: W3C CRD-core-aam-1.2-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-navigation-timing-2-20240729
+      content: W3C CRD-core-aam-1.2-20241219
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-navigation-timing-2-20241104
+  number: CRD-core-aam-1.2-20250212
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

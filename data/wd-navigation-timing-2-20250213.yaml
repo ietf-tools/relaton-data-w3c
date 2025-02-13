@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-network-error-logging-20250207
+id: W3CWD-navigation-timing-2-20250213
 title:
-- content: Network Error Logging
+- content: Navigation Timing Level 2
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-network-error-logging-20250207/
+- content: https://www.w3.org/TR/2025/WD-navigation-timing-2-20250213/
   type: src
-- content: https://w3c.github.io/network-error-logging/
+- content: https://w3c.github.io/navigation-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-network-error-logging-20250207
+- id: W3C WD-navigation-timing-2-20250213
   type: W3C
   primary: true
-docnumber: WD-network-error-logging-20250207
+docnumber: WD-navigation-timing-2-20250213
 date:
 - type: published
-  value: '2025-02-07'
+  value: '2025-02-13'
 contributor:
 - person:
     name:
       completename:
-        content: Douglas Creager
+        content: Noam Rosenthal
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Ian Clelland
+        content: Yoav Weiss
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-07'
+revdate: '2025-02-13'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-network-error-logging-20250205
+    id: W3CWD-navigation-timing-2-20241104
     docid:
-    - id: W3C WD-network-error-logging-20250205
+    - id: W3C WD-navigation-timing-2-20241104
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-network-error-logging-20250205
+      content: W3C WD-navigation-timing-2-20241104
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-network-error-logging-20250207
+  number: WD-navigation-timing-2-20250213
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

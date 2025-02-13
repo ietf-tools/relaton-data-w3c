@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20241219
+id: W3CWD-ambient-light-20250212
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Ambient Light Sensor
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241219/
+- content: https://www.w3.org/TR/2025/WD-ambient-light-20250212/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/ambient-light/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20241219
+- id: W3C WD-ambient-light-20250212
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20241219
+docnumber: WD-ambient-light-20250212
 date:
 - type: published
-  value: '2024-12-19'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Anssi Kostiainen
         language:
         - en
         script:
@@ -32,39 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Rijubrata Bhaumik
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-19'
+revdate: '2025-02-12'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20241211
+    id: W3CWD-ambient-light-20240124
     docid:
-    - id: W3C CRD-core-aam-1.2-20241211
+    - id: W3C WD-ambient-light-20240124
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20241211
+      content: W3C WD-ambient-light-20240124
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-core-aam-1.2-20241219
+  number: WD-ambient-light-20250212
 doctype: technicalReport
 editorialgroup:
-- name: Accessible Rich Internet Applications Working Group
+- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

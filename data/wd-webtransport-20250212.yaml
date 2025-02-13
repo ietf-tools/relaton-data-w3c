@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webcodecs-20250129
+id: W3CWD-webtransport-20250212
 title:
-- content: WebCodecs
+- content: WebTransport
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-webcodecs-20250129/
+- content: https://www.w3.org/TR/2025/WD-webtransport-20250212/
   type: src
-- content: https://w3c.github.io/webcodecs/
+- content: https://w3c.github.io/webtransport/
   type: current
 type: standard
 docid:
-- id: W3C WD-webcodecs-20250129
+- id: W3C WD-webtransport-20250212
   type: W3C
   primary: true
-docnumber: WD-webcodecs-20250129
+docnumber: WD-webtransport-20250212
 date:
 - type: published
-  value: '2025-01-29'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Nidhi Jaju
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Eugene Zemtsov
+        content: Victor Vasiliev
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Paul Adenot
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-01-29'
+revdate: '2025-02-12'
 language:
 - en
 script:
@@ -60,21 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webcodecs-20250128
+    id: W3CWD-webtransport-20240531
     docid:
-    - id: W3C WD-webcodecs-20250128
+    - id: W3C WD-webtransport-20240531
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webcodecs-20250128
+      content: W3C WD-webtransport-20240531
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webcodecs-20250129
+  number: WD-webtransport-20250212
 doctype: technicalReport
-editorialgroup:
-- name: Media Working Group
 ext:
   schema-version: v1.0.0

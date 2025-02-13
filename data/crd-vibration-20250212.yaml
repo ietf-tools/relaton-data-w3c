@@ -1,0 +1,60 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-vibration-20250212
+title:
+- content: Vibration API
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2025/CRD-vibration-20250212/
+  type: src
+- content: https://w3c.github.io/vibration/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-vibration-20250212
+  type: W3C
+  primary: true
+docnumber: CRD-vibration-20250212
+date:
+- type: published
+  value: '2025-02-12'
+contributor:
+- person:
+    name:
+      completename:
+        content: Anssi Kostiainen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-vibration-20241129
+    docid:
+    - id: W3C CRD-vibration-20241129
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vibration-20241129
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-vibration-20250212
+doctype: technicalReport
+editorialgroup:
+- name: Devices and Sensors Working Group
+ext:
+  schema-version: v1.0.0

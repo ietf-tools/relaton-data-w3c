@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CWD-webtransport-20240531
+    id: W3CWD-webtransport-20250212
     docid:
-    - id: W3C WD-webtransport-20240531
+    - id: W3C WD-webtransport-20250212
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webtransport-20240531
+      content: W3C WD-webtransport-20250212
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -50,6 +50,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-webtransport-20211014
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webtransport-20240531
+    docid:
+    - id: W3C WD-webtransport-20240531
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webtransport-20240531
       format: text/plain
 - type: hasEdition
   bibitem:

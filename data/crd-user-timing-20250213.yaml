@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-user-timing-20241031
+id: W3CCRD-user-timing-20250213
 title:
 - content: User Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-user-timing-20241031/
+- content: https://www.w3.org/TR/2025/CRD-user-timing-20250213/
   type: src
 - content: https://w3c.github.io/user-timing/
   type: current
 type: standard
 docid:
-- id: W3C CRD-user-timing-20241031
+- id: W3C CRD-user-timing-20250213
   type: W3C
   primary: true
-docnumber: CRD-user-timing-20241031
+docnumber: CRD-user-timing-20250213
 date:
 - type: published
-  value: '2024-10-31'
+  value: '2025-02-13'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-31'
+revdate: '2025-02-13'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-user-timing-20231114
+    id: W3CCRD-user-timing-20241031
     docid:
-    - id: W3C CRD-user-timing-20231114
+    - id: W3C CRD-user-timing-20241031
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-user-timing-20231114
+      content: W3C CRD-user-timing-20241031
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-user-timing-20241031
+  number: CRD-user-timing-20250213
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

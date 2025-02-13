@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CDNOTE-webcodecs-opus-codec-registration-20240909
+id: W3CDNOTE-webcodecs-vp9-codec-registration-20250212
 title:
-- content: Opus WebCodecs Registration
+- content: VP9 WebCodecs Registration
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/DNOTE-webcodecs-opus-codec-registration-20240909/
+- content: https://www.w3.org/TR/2025/DNOTE-webcodecs-vp9-codec-registration-20250212/
   type: src
-- content: https://w3c.github.io/webcodecs/opus_codec_registration.html
+- content: https://w3c.github.io/webcodecs/vp9_codec_registration.html
   type: current
 type: standard
 docid:
-- id: W3C DNOTE-webcodecs-opus-codec-registration-20240909
+- id: W3C DNOTE-webcodecs-vp9-codec-registration-20250212
   type: W3C
   primary: true
-docnumber: DNOTE-webcodecs-opus-codec-registration-20240909
+docnumber: DNOTE-webcodecs-vp9-codec-registration-20250212
 date:
 - type: published
-  value: '2024-09-09'
+  value: '2025-02-12'
 contributor:
 - person:
     name:
       completename:
-        content: Bernard Aboba
+        content: Eugene Zemtsov
         language:
         - en
         script:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2024-09-09'
+revdate: '2025-02-12'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CDNOTE-webcodecs-opus-codec-registration-20240717
+    id: W3CDNOTE-webcodecs-vp9-codec-registration-20240909
     docid:
-    - id: W3C DNOTE-webcodecs-opus-codec-registration-20240717
+    - id: W3C DNOTE-webcodecs-vp9-codec-registration-20240909
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-webcodecs-opus-codec-registration-20240717
+      content: W3C DNOTE-webcodecs-vp9-codec-registration-20240909
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: DNOTE-webcodecs-opus-codec-registration-20240909
+  number: DNOTE-webcodecs-vp9-codec-registration-20250212
 doctype: groupNote
 editorialgroup:
 - name: Media Working Group

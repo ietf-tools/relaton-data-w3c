@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20250206
+id: W3CWD-gamepad-20250214
 title:
-- content: Decentralized Identifier Resolution (DID Resolution) v0.3
+- content: Gamepad
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-did-resolution-20250206/
+- content: https://www.w3.org/TR/2025/WD-gamepad-20250214/
   type: src
-- content: https://w3c.github.io/did-resolution/
+- content: https://w3c.github.io/gamepad/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20250206
+- id: W3C WD-gamepad-20250214
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20250206
+docnumber: WD-gamepad-20250214
 date:
 - type: published
-  value: '2025-02-06'
+  value: '2025-02-14'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Matthew Reynolds
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Markus Sabadello
+        content: Steve Agoston
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-06'
+revdate: '2025-02-14'
 language:
 - en
 script:
@@ -50,19 +50,21 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20250122
+    id: W3CWD-gamepad-20240809
     docid:
-    - id: W3C WD-did-resolution-20250122
+    - id: W3C WD-gamepad-20240809
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20250122
+      content: W3C WD-gamepad-20240809
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-did-resolution-20250206
+  number: WD-gamepad-20250214
 doctype: technicalReport
+editorialgroup:
+- name: Web Applications Working Group
 ext:
   schema-version: v1.0.0

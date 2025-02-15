@@ -31066,11 +31066,6 @@
     :date: '20250207'
   :file: data/wd-css-grid-3-20250207.yaml
 - :id:
-    :code: cid-1.0
-    :stage: CRD
-    :date: '20250209'
-  :file: data/crd-cid-1.0-20250209.yaml
-- :id:
     :code: sparql12-query
     :stage: WD
     :date: '20250210'
@@ -31096,11 +31091,6 @@
     :date: '20250210'
   :file: data/wd-permissions-policy-1-20250210.yaml
 - :id:
-    :code: vc-data-integrity
-    :stage: CRD
-    :date: '20250210'
-  :file: data/crd-vc-data-integrity-20250210.yaml
-- :id:
     :code: orientation-event
     :stage: CRD
     :date: '20250212'
@@ -31111,15 +31101,15 @@
     :date: '20250212'
   :file: data/note-security-privacy-questionnaire-20250212.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20250212'
-  :file: data/note-vc-overview-20250212.yaml
-- :id:
     :code: mediacapture-fromelement
     :stage: WD
     :date: '20250212'
   :file: data/wd-mediacapture-fromelement-20250212.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20250212'
+  :file: data/note-vc-overview-20250212.yaml
 - :id:
     :code: vc-jose-cose
     :stage: CRD
@@ -31266,11 +31256,6 @@
     :date: '20250213'
   :file: data/note-international-specs-20250213.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20250213'
-  :file: data/crd-webnn-20250213.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20250213'
@@ -31306,10 +31291,30 @@
     :date: '20250214'
   :file: data/dnote-deva-gap-20250214.yaml
 - :id:
+    :code: vc-data-integrity
+    :stage: CRD
+    :date: '20250214'
+  :file: data/crd-vc-data-integrity-20250214.yaml
+- :id:
     :code: gujr-gap
     :type: DNOTE
     :date: '20250214'
   :file: data/dnote-gujr-gap-20250214.yaml
+- :id:
+    :code: cid-1.0
+    :stage: CRD
+    :date: '20250214'
+  :file: data/crd-cid-1.0-20250214.yaml
+- :id:
+    :code: localizable-manifests
+    :type: NOTE
+    :date: '20250214'
+  :file: data/note-localizable-manifests-20250214.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250215'
+  :file: data/crd-webnn-20250215.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31482,9 +31487,6 @@
     :code: css-grid-3
   :file: data/css-grid-3.yaml
 - :id:
-    :code: cid-1.0
-  :file: data/cid-1.0.yaml
-- :id:
     :code: webdriver-bidi
   :file: data/webdriver-bidi.yaml
 - :id:
@@ -31496,3 +31498,6 @@
 - :id:
     :code: did-resolution
   :file: data/did-resolution.yaml
+- :id:
+    :code: cid-1.0
+  :file: data/cid-1.0.yaml

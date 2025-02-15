@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-localizable-manifests-20231206
+    id: W3CNOTE-localizable-manifests-20250214
     docid:
-    - id: W3C DNOTE-localizable-manifests-20231206
+    - id: W3C NOTE-localizable-manifests-20250214
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-localizable-manifests-20231206
+      content: W3C NOTE-localizable-manifests-20250214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -37,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-localizable-manifests-20210824
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-localizable-manifests-20231206
+    docid:
+    - id: W3C DNOTE-localizable-manifests-20231206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-localizable-manifests-20231206
       format: text/plain
 series:
 - title:

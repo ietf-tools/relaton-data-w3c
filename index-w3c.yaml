@@ -1458,8 +1458,8 @@
   :file: data/cid-1.0.yaml
 - :code: cid-1.0
   :stage: CRD
-  :date: '20250209'
-  :file: data/crd-cid-1.0-20250209.yaml
+  :date: '20250214'
+  :file: data/crd-cid-1.0-20250214.yaml
 - :code: clear-site-data
   :file: data/clear-site-data.yaml
 - :code: clear-site-data
@@ -9622,6 +9622,10 @@
 - :code: localizable-manifests
   :file: data/localizable-manifests.yaml
 - :code: localizable-manifests
+  :type: NOTE
+  :date: '20250214'
+  :file: data/note-localizable-manifests-20250214.yaml
+- :code: localizable-manifests
   :type: DNOTE
   :date: '20231206'
   :file: data/dnote-localizable-manifests-20231206.yaml
@@ -17507,8 +17511,8 @@
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
   :stage: CRD
-  :date: '20250210'
-  :file: data/crd-vc-data-integrity-20250210.yaml
+  :date: '20250214'
+  :file: data/crd-vc-data-integrity-20250214.yaml
 - :code: vc-data-integrity
   :stage: CRD
   :date: '20240605'
@@ -19894,8 +19898,8 @@
   :file: data/webnn.yaml
 - :code: webnn
   :stage: CRD
-  :date: '20250213'
-  :file: data/crd-webnn-20250213.yaml
+  :date: '20250215'
+  :file: data/crd-webnn-20250215.yaml
 - :code: webnn
   :stage: CRD
   :date: '20240608'

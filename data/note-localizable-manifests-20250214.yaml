@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.3
+id: W3CNOTE-localizable-manifests-20250214
+title:
+- content: Developing Localizable Manifests
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2025/NOTE-localizable-manifests-20250214/
+  type: src
+- content: https://w3c.github.io/localizable-manifests
+  type: current
+type: standard
+docid:
+- id: W3C NOTE-localizable-manifests-20250214
+  type: W3C
+  primary: true
+docnumber: NOTE-localizable-manifests-20250214
+date:
+- type: published
+  value: '2025-02-14'
+contributor:
+- person:
+    name:
+      completename:
+        content: Addison Phillips
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-14'
+language:
+- en
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CDNOTE-localizable-manifests-20231206
+    docid:
+    - id: W3C DNOTE-localizable-manifests-20231206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-localizable-manifests-20231206
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: NOTE-localizable-manifests-20250214
+doctype: groupNote
+editorialgroup:
+- name: Internationalization Working Group
+ext:
+  schema-version: v1.0.0

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20250214
+id: W3CCRD-vc-di-ecdsa-20250217
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity ECDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250214/
+- content: https://www.w3.org/TR/2025/CRD-vc-di-ecdsa-20250217/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-ecdsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20250214
+- id: W3C CRD-vc-di-ecdsa-20250217
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20250214
+docnumber: CRD-vc-di-ecdsa-20250217
 date:
 - type: published
-  value: '2025-02-14'
+  value: '2025-02-17'
 contributor:
 - person:
     name:
@@ -42,16 +42,6 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
         content: Manu Sporny
         language:
         - en
@@ -59,17 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Ted Thibodeau Jr
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-02-14'
+revdate: '2025-02-17'
 language:
 - en
 script:
@@ -80,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-integrity-20250210
+    id: W3CCRD-vc-di-ecdsa-20250202
     docid:
-    - id: W3C CRD-vc-data-integrity-20250210
+    - id: W3C CRD-vc-di-ecdsa-20250202
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-integrity-20250210
+      content: W3C CRD-vc-di-ecdsa-20250202
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20250214
+  number: CRD-vc-di-ecdsa-20250217
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.3
+id: W3CCRD-vc-bitstring-status-list-20250217
+title:
+- content: Bitstring Status List v1.0
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/2025/CRD-vc-bitstring-status-list-20250217/
+  type: src
+- content: https://w3c.github.io/vc-bitstring-status-list/
+  type: current
+type: standard
+docid:
+- id: W3C CRD-vc-bitstring-status-list-20250217
+  type: W3C
+  primary: true
+docnumber: CRD-vc-bitstring-status-list-20250217
+date:
+- type: published
+  value: '2025-02-17'
+contributor:
+- person:
+    name:
+      completename:
+        content: Dave Longley
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mahmoud Alkhraishi
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Manu Sporny
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Michael Prorock
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: candidateRecommendation
+relation:
+- type: obsoletes
+  bibitem:
+    id: W3CCRD-vc-bitstring-status-list-20250203
+    docid:
+    - id: W3C CRD-vc-bitstring-status-list-20250203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-vc-bitstring-status-list-20250203
+      format: text/plain
+series:
+- title:
+    content: W3C CR
+    format: text/plain
+  number: CRD-vc-bitstring-status-list-20250217
+doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
+ext:
+  schema-version: v1.0.0

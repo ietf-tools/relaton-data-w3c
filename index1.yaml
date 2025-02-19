@@ -30971,11 +30971,6 @@
     :date: '20250128'
   :file: data/crd-wasm-web-api-2-20250128.yaml
 - :id:
-    :code: vc-di-bbs
-    :stage: CRD
-    :date: '20250130'
-  :file: data/crd-vc-di-bbs-20250130.yaml
-- :id:
     :code: webgpu
     :stage: CRD
     :date: '20250131'
@@ -31011,15 +31006,15 @@
     :date: '20250206'
   :file: data/wd-rdf12-semantics-20250206.yaml
 - :id:
-    :code: alreq-gap
-    :type: DNOTE
-    :date: '20250206'
-  :file: data/dnote-alreq-gap-20250206.yaml
-- :id:
     :code: accname-1.2
     :stage: WD
     :date: '20250206'
   :file: data/wd-accname-1.2-20250206.yaml
+- :id:
+    :code: alreq-gap
+    :type: DNOTE
+    :date: '20250206'
+  :file: data/dnote-alreq-gap-20250206.yaml
 - :id:
     :code: appmanifest
     :stage: WD
@@ -31276,11 +31271,6 @@
     :date: '20250214'
   :file: data/dnote-gujr-gap-20250214.yaml
 - :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20250215'
-  :file: data/crd-webnn-20250215.yaml
-- :id:
     :code: mediastream-recording
     :stage: WD
     :date: '20250217'
@@ -31315,6 +31305,16 @@
     :stage: CRD
     :date: '20250218'
   :file: data/crd-cid-1.0-20250218.yaml
+- :id:
+    :code: vc-di-bbs
+    :stage: CRD
+    :date: '20250218'
+  :file: data/crd-vc-di-bbs-20250218.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250218'
+  :file: data/crd-webnn-20250218.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-di-bbs-20250130
+id: W3CCRD-vc-di-bbs-20250218
 title:
 - content: Data Integrity BBS Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250130/
+- content: https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250218/
   type: src
 - content: https://w3c.github.io/vc-di-bbs/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-di-bbs-20250130
+- id: W3C CRD-vc-di-bbs-20250218
   type: W3C
   primary: true
-docnumber: CRD-vc-di-bbs-20250130
+docnumber: CRD-vc-di-bbs-20250218
 date:
 - type: published
-  value: '2025-01-30'
+  value: '2025-02-18'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-30'
+revdate: '2025-02-18'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-di-bbs-20241015
+    id: W3CCRD-vc-di-bbs-20250130
     docid:
-    - id: W3C CRD-vc-di-bbs-20241015
+    - id: W3C CRD-vc-di-bbs-20250130
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-di-bbs-20241015
+      content: W3C CRD-vc-di-bbs-20250130
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-di-bbs-20250130
+  number: CRD-vc-di-bbs-20250218
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

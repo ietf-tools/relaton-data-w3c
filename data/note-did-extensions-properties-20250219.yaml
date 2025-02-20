@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CNOTE-did-extensions-methods-20250120
+id: W3CNOTE-did-extensions-properties-20250219
 title:
-- content: DID Methods
+- content: DID Document Property Extensions
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/
+- content: https://www.w3.org/TR/2025/NOTE-did-extensions-properties-20250219/
   type: src
-- content: https://w3c.github.io/did-extensions/methods/
+- content: https://w3c.github.io/did-extensions/properties/
   type: current
 type: standard
 docid:
-- id: W3C NOTE-did-extensions-methods-20250120
+- id: W3C NOTE-did-extensions-properties-20250219
   type: W3C
   primary: true
-docnumber: NOTE-did-extensions-methods-20250120
+docnumber: NOTE-did-extensions-properties-20250219
 date:
 - type: published
-  value: '2025-01-20'
+  value: '2025-02-19'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-20'
+revdate: '2025-02-19'
 language:
 - en
 script:
@@ -47,19 +47,19 @@ script:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CNOTE-did-extensions-methods-20241119
+    id: W3CNOTE-did-extensions-properties-20241119
     docid:
-    - id: W3C NOTE-did-extensions-methods-20241119
+    - id: W3C NOTE-did-extensions-properties-20241119
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-extensions-methods-20241119
+      content: W3C NOTE-did-extensions-properties-20241119
       format: text/plain
 series:
 - title:
     content: W3C NOTE
     format: text/plain
-  number: NOTE-did-extensions-methods-20250120
+  number: NOTE-did-extensions-properties-20250219
 doctype: groupNote
 ext:
   schema-version: v1.0.0

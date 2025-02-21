@@ -30411,11 +30411,6 @@
     :date: '20241107'
   :file: data/wd-hr-time-3-20241107.yaml
 - :id:
-    :code: webrtc-stats
-    :stage: CRD
-    :date: '20241107'
-  :file: data/crd-webrtc-stats-20241107.yaml
-- :id:
     :code: css-values-5
     :stage: WD
     :date: '20241111'
@@ -30736,11 +30731,6 @@
     :date: '20241219'
   :file: data/crd-mediacapture-streams-20241219.yaml
 - :id:
-    :code: rdf12-n-quads
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-rdf12-n-quads-20241219.yaml
-- :id:
     :code: rdf12-n-triples
     :stage: WD
     :date: '20241219'
@@ -30841,11 +30831,6 @@
     :date: '20250109'
   :file: data/dnote-clreq-gap-20250109.yaml
 - :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20250109'
-  :file: data/wd-rdf12-turtle-20250109.yaml
-- :id:
     :code: trusted-types
     :stage: WD
     :date: '20250110'
@@ -30866,6 +30851,11 @@
     :date: '20250116'
   :file: data/wd-gpc-20250116.yaml
 - :id:
+    :code: png-3
+    :stage: CRD
+    :date: '20250121'
+  :file: data/crd-png-3-20250121.yaml
+- :id:
     :code: hebr-gap
     :type: DNOTE
     :date: '20250117'
@@ -30875,11 +30865,6 @@
     :type: DNOTE
     :date: '20250117'
   :file: data/dnote-adlm-gap-20250117.yaml
-- :id:
-    :code: png-3
-    :stage: CRD
-    :date: '20250121'
-  :file: data/crd-png-3-20250121.yaml
 - :id:
     :code: nkoo-gap
     :type: DNOTE
@@ -30951,11 +30936,6 @@
     :date: '20250128'
   :file: data/crd-wasm-web-api-2-20250128.yaml
 - :id:
-    :code: webgpu
-    :stage: CRD
-    :date: '20250131'
-  :file: data/crd-webgpu-20250131.yaml
-- :id:
     :code: rdf12-xml
     :stage: WD
     :date: '20250201'
@@ -30980,11 +30960,6 @@
     :stage: WD
     :date: '20250206'
   :file: data/wd-sparql12-update-20250206.yaml
-- :id:
-    :code: rdf12-semantics
-    :stage: WD
-    :date: '20250206'
-  :file: data/wd-rdf12-semantics-20250206.yaml
 - :id:
     :code: accname-1.2
     :stage: WD
@@ -31021,11 +30996,6 @@
     :date: '20250210'
   :file: data/wd-sparql12-query-20250210.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250210'
-  :file: data/wd-rdf12-concepts-20250210.yaml
-- :id:
     :code: webdriver-bidi
     :stage: WD
     :date: '20250210'
@@ -31051,15 +31021,15 @@
     :date: '20250212'
   :file: data/note-security-privacy-questionnaire-20250212.yaml
 - :id:
-    :code: mediacapture-fromelement
-    :stage: WD
-    :date: '20250212'
-  :file: data/wd-mediacapture-fromelement-20250212.yaml
-- :id:
     :code: vc-overview
     :type: NOTE
     :date: '20250212'
   :file: data/note-vc-overview-20250212.yaml
+- :id:
+    :code: mediacapture-fromelement
+    :stage: WD
+    :date: '20250212'
+  :file: data/wd-mediacapture-fromelement-20250212.yaml
 - :id:
     :code: vc-jose-cose
     :stage: CRD
@@ -31075,11 +31045,6 @@
     :stage: CRD
     :date: '20250212'
   :file: data/crd-dpub-aria-1.1-20250212.yaml
-- :id:
-    :code: core-aam-1.2
-    :stage: CRD
-    :date: '20250212'
-  :file: data/crd-core-aam-1.2-20250212.yaml
 - :id:
     :code: webcodecs-aac-codec-registration
     :type: DNOTE
@@ -31315,6 +31280,41 @@
     :stage: WD
     :date: '20250220'
   :file: data/wd-ift-20250220.yaml
+- :id:
+    :code: webrtc-stats
+    :stage: CRD
+    :date: '20250220'
+  :file: data/crd-webrtc-stats-20250220.yaml
+- :id:
+    :code: rdf12-semantics
+    :stage: WD
+    :date: '20250220'
+  :file: data/wd-rdf12-semantics-20250220.yaml
+- :id:
+    :code: webgpu
+    :stage: CRD
+    :date: '20250220'
+  :file: data/crd-webgpu-20250220.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250220'
+  :file: data/wd-rdf12-concepts-20250220.yaml
+- :id:
+    :code: rdf12-n-quads
+    :stage: WD
+    :date: '20250220'
+  :file: data/wd-rdf12-n-quads-20250220.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20250220'
+  :file: data/wd-rdf12-turtle-20250220.yaml
+- :id:
+    :code: core-aam-1.2
+    :stage: CRD
+    :date: '20250221'
+  :file: data/crd-core-aam-1.2-20250221.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

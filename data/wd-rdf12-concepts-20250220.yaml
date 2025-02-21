@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webrtc-stats-20241107
+id: W3CWD-rdf12-concepts-20250220
 title:
-- content: Identifiers for WebRTC's Statistics API
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/CRD-webrtc-stats-20241107/
+- content: https://www.w3.org/TR/2025/WD-rdf12-concepts-20250220/
   type: src
-- content: https://w3c.github.io/webrtc-stats/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webrtc-stats-20241107
+- id: W3C WD-rdf12-concepts-20250220
   type: W3C
   primary: true
-docnumber: CRD-webrtc-stats-20241107
+docnumber: WD-rdf12-concepts-20250220
 date:
 - type: published
-  value: '2024-11-07'
+  value: '2025-02-20'
 contributor:
 - person:
     name:
       completename:
-        content: Harald Alvestrand
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Henrik Boström
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -42,39 +42,47 @@ contributor:
 - person:
     name:
       completename:
-        content: Varun Singh
+        content: Olaf Hartig
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-07'
+- person:
+    name:
+      completename:
+        content: Pierre-Antoine Champin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webrtc-stats-20240718
+    id: W3CWD-rdf12-concepts-20250210
     docid:
-    - id: W3C CRD-webrtc-stats-20240718
+    - id: W3C WD-rdf12-concepts-20250210
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webrtc-stats-20240718
+      content: W3C WD-rdf12-concepts-20250210
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webrtc-stats-20241107
+  number: WD-rdf12-concepts-20250220
 doctype: technicalReport
-editorialgroup:
-- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-webgpu-20250131
+id: W3CWD-rdf12-semantics-20250220
 title:
-- content: WebGPU
+- content: RDF 1.2 Semantics
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-webgpu-20250131/
+- content: https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/
   type: src
-- content: https://gpuweb.github.io/gpuweb/
+- content: https://w3c.github.io/rdf-semantics/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-webgpu-20250131
+- id: W3C WD-rdf12-semantics-20250220
   type: W3C
   primary: true
-docnumber: CRD-webgpu-20250131
+docnumber: WD-rdf12-semantics-20250220
 date:
 - type: published
-  value: '2025-01-31'
+  value: '2025-02-20'
 contributor:
 - person:
     name:
       completename:
-        content: Brandon Jones
+        content: Dörthe Arndt
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Jim Blandy
+        content: Peter Patel-Schneider
         language:
         - en
         script:
@@ -42,37 +42,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Kai Ninomiya
+        content: Timothée Haudebourg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-01-31'
+revdate: '2025-02-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-webgpu-20250116
+    id: W3CWD-rdf12-semantics-20250206
     docid:
-    - id: W3C CRD-webgpu-20250116
+    - id: W3C WD-rdf12-semantics-20250206
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webgpu-20250116
+      content: W3C WD-rdf12-semantics-20250206
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-webgpu-20250131
+  number: WD-rdf12-semantics-20250220
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

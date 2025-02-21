@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-semantics-20250206
+id: W3CCRD-webrtc-stats-20250220
 title:
-- content: RDF 1.2 Semantics
+- content: Identifiers for WebRTC's Statistics API
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-rdf12-semantics-20250206/
+- content: https://www.w3.org/TR/2025/CRD-webrtc-stats-20250220/
   type: src
-- content: https://w3c.github.io/rdf-semantics/spec/
+- content: https://w3c.github.io/webrtc-stats/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-semantics-20250206
+- id: W3C CRD-webrtc-stats-20250220
   type: W3C
   primary: true
-docnumber: WD-rdf12-semantics-20250206
+docnumber: CRD-webrtc-stats-20250220
 date:
 - type: published
-  value: '2025-02-06'
+  value: '2025-02-20'
 contributor:
 - person:
     name:
       completename:
-        content: Dörthe Arndt
+        content: Harald Alvestrand
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Patel-Schneider
+        content: Henrik Boström
         language:
         - en
         script:
@@ -42,37 +42,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Timothée Haudebourg
+        content: Varun Singh
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-06'
+revdate: '2025-02-20'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-semantics-20250204
+    id: W3CCRD-webrtc-stats-20241107
     docid:
-    - id: W3C WD-rdf12-semantics-20250204
+    - id: W3C CRD-webrtc-stats-20241107
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-semantics-20250204
+      content: W3C CRD-webrtc-stats-20241107
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-rdf12-semantics-20250206
+  number: CRD-webrtc-stats-20250220
 doctype: technicalReport
+editorialgroup:
+- name: Web Real-Time Communications Working Group
 ext:
   schema-version: v1.0.0

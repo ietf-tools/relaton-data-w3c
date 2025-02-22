@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20250214
+id: W3CCRD-WGSL-20250222
 title:
-- content: Decentralized Identifier Resolution (DID Resolution) v0.3
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-did-resolution-20250214/
+- content: https://www.w3.org/TR/2025/CRD-WGSL-20250222/
   type: src
-- content: https://w3c.github.io/did-resolution/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20250214
+- id: W3C CRD-WGSL-20250222
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20250214
+docnumber: CRD-WGSL-20250222
 date:
 - type: published
-  value: '2025-02-14'
+  value: '2025-02-22'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,37 +32,47 @@ contributor:
 - person:
     name:
       completename:
-        content: Markus Sabadello
+        content: David Neto
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-14'
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-22'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20250206
+    id: W3CCRD-WGSL-20250207
     docid:
-    - id: W3C WD-did-resolution-20250206
+    - id: W3C CRD-WGSL-20250207
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20250206
+      content: W3C CRD-WGSL-20250207
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-did-resolution-20250214
+  number: CRD-WGSL-20250222
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

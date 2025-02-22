@@ -30836,11 +30836,6 @@
     :date: '20250110'
   :file: data/wd-trusted-types-20250110.yaml
 - :id:
-    :code: IndexedDB-3
-    :stage: WD
-    :date: '20250110'
-  :file: data/wd-indexeddb-3-20250110.yaml
-- :id:
     :code: mong-lreq
     :type: DNOTE
     :date: '20250116'
@@ -30976,11 +30971,6 @@
     :date: '20250207'
   :file: data/wd-appmanifest-20250207.yaml
 - :id:
-    :code: WGSL
-    :stage: CRD
-    :date: '20250207'
-  :file: data/crd-wgsl-20250207.yaml
-- :id:
     :code: html-aria
     :stage: REC
     :date: '20250207'
@@ -31021,15 +31011,15 @@
     :date: '20250212'
   :file: data/note-security-privacy-questionnaire-20250212.yaml
 - :id:
-    :code: vc-overview
-    :type: NOTE
-    :date: '20250212'
-  :file: data/note-vc-overview-20250212.yaml
-- :id:
     :code: mediacapture-fromelement
     :stage: WD
     :date: '20250212'
   :file: data/wd-mediacapture-fromelement-20250212.yaml
+- :id:
+    :code: vc-overview
+    :type: NOTE
+    :date: '20250212'
+  :file: data/note-vc-overview-20250212.yaml
 - :id:
     :code: vc-jose-cose
     :stage: CRD
@@ -31191,10 +31181,15 @@
     :date: '20250214'
   :file: data/wd-media-capabilities-20250214.yaml
 - :id:
-    :code: did-resolution
-    :stage: WD
+    :code: localizable-manifests
+    :type: NOTE
     :date: '20250214'
-  :file: data/wd-did-resolution-20250214.yaml
+  :file: data/note-localizable-manifests-20250214.yaml
+- :id:
+    :code: mediastream-recording
+    :stage: WD
+    :date: '20250217'
+  :file: data/wd-mediastream-recording-20250217.yaml
 - :id:
     :code: beng-gap
     :type: DNOTE
@@ -31206,25 +31201,15 @@
     :date: '20250214'
   :file: data/dnote-deva-gap-20250214.yaml
 - :id:
-    :code: localizable-manifests
-    :type: NOTE
-    :date: '20250214'
-  :file: data/note-localizable-manifests-20250214.yaml
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20250217'
+  :file: data/crd-vc-data-model-2.0-20250217.yaml
 - :id:
     :code: gujr-gap
     :type: DNOTE
     :date: '20250214'
   :file: data/dnote-gujr-gap-20250214.yaml
-- :id:
-    :code: mediastream-recording
-    :stage: WD
-    :date: '20250217'
-  :file: data/wd-mediastream-recording-20250217.yaml
-- :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20250217'
-  :file: data/crd-vc-data-model-2.0-20250217.yaml
 - :id:
     :code: vc-di-ecdsa
     :stage: CRD
@@ -31250,11 +31235,6 @@
     :stage: CRD
     :date: '20250218'
   :file: data/crd-vc-di-bbs-20250218.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20250218'
-  :file: data/crd-webnn-20250218.yaml
 - :id:
     :code: vc-data-integrity
     :stage: CRD
@@ -31315,6 +31295,26 @@
     :stage: CRD
     :date: '20250221'
   :file: data/crd-core-aam-1.2-20250221.yaml
+- :id:
+    :code: did-resolution
+    :stage: WD
+    :date: '20250221'
+  :file: data/wd-did-resolution-20250221.yaml
+- :id:
+    :code: IndexedDB-3
+    :stage: WD
+    :date: '20250221'
+  :file: data/wd-indexeddb-3-20250221.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250222'
+  :file: data/crd-webnn-20250222.yaml
+- :id:
+    :code: WGSL
+    :stage: CRD
+    :date: '20250222'
+  :file: data/crd-wgsl-20250222.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31487,9 +31487,6 @@
     :code: pointerevents4
   :file: data/pointerevents4.yaml
 - :id:
-    :code: did-resolution
-  :file: data/did-resolution.yaml
-- :id:
     :code: cid-1.0
   :file: data/cid-1.0.yaml
 - :id:
@@ -31501,3 +31498,6 @@
 - :id:
     :code: did-extensions
   :file: data/did-extensions.yaml
+- :id:
+    :code: did-resolution
+  :file: data/did-resolution.yaml

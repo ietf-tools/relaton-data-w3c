@@ -31196,25 +31196,20 @@
     :date: '20250214'
   :file: data/dnote-beng-gap-20250214.yaml
 - :id:
+    :code: vc-di-ecdsa
+    :stage: CRD
+    :date: '20250217'
+  :file: data/crd-vc-di-ecdsa-20250217.yaml
+- :id:
     :code: deva-gap
     :type: DNOTE
     :date: '20250214'
   :file: data/dnote-deva-gap-20250214.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20250217'
-  :file: data/crd-vc-data-model-2.0-20250217.yaml
-- :id:
     :code: gujr-gap
     :type: DNOTE
     :date: '20250214'
   :file: data/dnote-gujr-gap-20250214.yaml
-- :id:
-    :code: vc-di-ecdsa
-    :stage: CRD
-    :date: '20250217'
-  :file: data/crd-vc-di-ecdsa-20250217.yaml
 - :id:
     :code: vc-di-eddsa
     :stage: CRD
@@ -31315,6 +31310,11 @@
     :stage: CRD
     :date: '20250222'
   :file: data/crd-wgsl-20250222.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20250223'
+  :file: data/crd-vc-data-model-2.0-20250223.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml

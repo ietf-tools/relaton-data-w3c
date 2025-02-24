@@ -1,48 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-integrity-20250219
+id: W3CCRD-vc-di-eddsa-20250223
 title:
-- content: Verifiable Credential Data Integrity 1.0
+- content: Data Integrity EdDSA Cryptosuites v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250219/
+- content: https://www.w3.org/TR/2025/CRD-vc-di-eddsa-20250223/
   type: src
-- content: https://w3c.github.io/vc-data-integrity/
+- content: https://w3c.github.io/vc-di-eddsa/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-integrity-20250219
+- id: W3C CRD-vc-di-eddsa-20250223
   type: W3C
   primary: true
-docnumber: CRD-vc-data-integrity-20250219
+docnumber: CRD-vc-di-eddsa-20250223
 date:
 - type: published
-  value: '2025-02-19'
+  value: '2025-02-23'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
         content: Greg Bernstein
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Ivan Herman
         language:
         - en
         script:
@@ -69,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-19'
+revdate: '2025-02-23'
 language:
 - en
 script:
@@ -80,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-integrity-20250217
+    id: W3CCRD-vc-di-eddsa-20250217
     docid:
-    - id: W3C CRD-vc-data-integrity-20250217
+    - id: W3C CRD-vc-di-eddsa-20250217
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-integrity-20250217
+      content: W3C CRD-vc-di-eddsa-20250217
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-data-integrity-20250219
+  number: CRD-vc-di-eddsa-20250223
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

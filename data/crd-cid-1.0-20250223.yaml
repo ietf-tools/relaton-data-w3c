@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-paint-timing-20241112
+id: W3CCRD-cid-1.0-20250223
 title:
-- content: Paint Timing
+- content: Controlled Identifiers v1.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-paint-timing-20241112/
+- content: https://www.w3.org/TR/2025/CRD-cid-1.0-20250223/
   type: src
-- content: https://w3c.github.io/paint-timing/
+- content: https://w3c.github.io/cid/
   type: current
 type: standard
 docid:
-- id: W3C WD-paint-timing-20241112
+- id: W3C CRD-cid-1.0-20250223
   type: W3C
   primary: true
-docnumber: WD-paint-timing-20241112
+docnumber: CRD-cid-1.0-20250223
 date:
 - type: published
-  value: '2024-11-12'
+  value: '2025-02-23'
 contributor:
 - person:
     name:
       completename:
-        content: Ian Clelland
+        content: Manu Sporny
         language:
         - en
         script:
@@ -32,37 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Noam Rosenthal
+        content: Michael Jones
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-11-12'
+revdate: '2025-02-23'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-paint-timing-20241111
+    id: W3CCRD-cid-1.0-20250218
     docid:
-    - id: W3C WD-paint-timing-20241111
+    - id: W3C CRD-cid-1.0-20250218
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-paint-timing-20241111
+      content: W3C CRD-cid-1.0-20250218
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-paint-timing-20241112
+  number: CRD-cid-1.0-20250223
 doctype: technicalReport
+editorialgroup:
+- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

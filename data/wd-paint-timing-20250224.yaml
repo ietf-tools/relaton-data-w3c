@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-rdf12-semantics-20250220
+id: W3CWD-paint-timing-20250224
 title:
-- content: RDF 1.2 Semantics
+- content: Paint Timing
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/
+- content: https://www.w3.org/TR/2025/WD-paint-timing-20250224/
   type: src
-- content: https://w3c.github.io/rdf-semantics/spec/
+- content: https://w3c.github.io/paint-timing/
   type: current
 type: standard
 docid:
-- id: W3C WD-rdf12-semantics-20250220
+- id: W3C WD-paint-timing-20250224
   type: W3C
   primary: true
-docnumber: WD-rdf12-semantics-20250220
+docnumber: WD-paint-timing-20250224
 date:
 - type: published
-  value: '2025-02-20'
+  value: '2025-02-24'
 contributor:
 - person:
     name:
       completename:
-        content: Dörthe Arndt
+        content: Ian Clelland
         language:
         - en
         script:
@@ -32,24 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Peter Patel-Schneider
+        content: Noam Rosenthal
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Timothée Haudebourg
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-02-20'
+revdate: '2025-02-24'
 language:
 - en
 script:
@@ -60,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-rdf12-semantics-20250206
+    id: W3CWD-paint-timing-20241112
     docid:
-    - id: W3C WD-rdf12-semantics-20250206
+    - id: W3C WD-paint-timing-20241112
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf12-semantics-20250206
+      content: W3C WD-paint-timing-20241112
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-rdf12-semantics-20250220
+  number: WD-paint-timing-20250224
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

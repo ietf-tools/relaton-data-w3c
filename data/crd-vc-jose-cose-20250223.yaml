@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-bitstring-status-list-20250217
+id: W3CCRD-vc-jose-cose-20250223
 title:
-- content: Bitstring Status List v1.0
+- content: Securing Verifiable Credentials using JOSE and COSE
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-bitstring-status-list-20250217/
+- content: https://www.w3.org/TR/2025/CRD-vc-jose-cose-20250223/
   type: src
-- content: https://w3c.github.io/vc-bitstring-status-list/
+- content: https://w3c.github.io/vc-jose-cose/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-bitstring-status-list-20250217
+- id: W3C CRD-vc-jose-cose-20250223
   type: W3C
   primary: true
-docnumber: CRD-vc-bitstring-status-list-20250217
+docnumber: CRD-vc-jose-cose-20250223
 date:
 - type: published
-  value: '2025-02-17'
+  value: '2025-02-23'
 contributor:
 - person:
     name:
       completename:
-        content: Dave Longley
+        content: Gabe Cohen
         language:
         - en
         script:
@@ -32,17 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Mahmoud Alkhraishi
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-- person:
-    name:
-      completename:
-        content: Manu Sporny
+        content: Michael Jones
         language:
         - en
         script:
@@ -59,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-17'
+revdate: '2025-02-23'
 language:
 - en
 script:
@@ -70,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-bitstring-status-list-20250203
+    id: W3CCRD-vc-jose-cose-20250212
     docid:
-    - id: W3C CRD-vc-bitstring-status-list-20250203
+    - id: W3C CRD-vc-jose-cose-20250212
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-bitstring-status-list-20250203
+      content: W3C CRD-vc-jose-cose-20250212
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-vc-bitstring-status-list-20250217
+  number: CRD-vc-jose-cose-20250223
 doctype: technicalReport
 editorialgroup:
 - name: Verifiable Credentials Working Group

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-cid-1.0-20250218
+id: W3CWD-rdf12-schema-20250224
 title:
-- content: Controlled Identifiers v1.0
+- content: RDF 1.2 Schema
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-cid-1.0-20250218/
+- content: https://www.w3.org/TR/2025/WD-rdf12-schema-20250224/
   type: src
-- content: https://w3c.github.io/cid/
+- content: https://w3c.github.io/rdf-schema/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-cid-1.0-20250218
+- id: W3C WD-rdf12-schema-20250224
   type: W3C
   primary: true
-docnumber: CRD-cid-1.0-20250218
+docnumber: WD-rdf12-schema-20250224
 date:
 - type: published
-  value: '2025-02-18'
+  value: '2025-02-24'
 contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Dominik Tomaszuk
         language:
         - en
         script:
@@ -32,39 +32,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Timothée Haudebourg
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-18'
+revdate: '2025-02-24'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-cid-1.0-20250214
+    id: W3CWD-rdf12-schema-20241219
     docid:
-    - id: W3C CRD-cid-1.0-20250214
+    - id: W3C WD-rdf12-schema-20241219
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-cid-1.0-20250214
+      content: W3C WD-rdf12-schema-20241219
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-cid-1.0-20250218
+  number: WD-rdf12-schema-20250224
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

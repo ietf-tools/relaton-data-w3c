@@ -30171,11 +30171,6 @@
     :date: '20240817'
   :file: data/wd-webrtc-svc-20240817.yaml
 - :id:
-    :code: event-timing
-    :stage: WD
-    :date: '20240819'
-  :file: data/wd-event-timing-20240819.yaml
-- :id:
     :code: fedcm-1
     :stage: WD
     :date: '20240820'
@@ -31221,11 +31216,6 @@
     :date: '20250220'
   :file: data/crd-webgpu-20250220.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20250220'
-  :file: data/wd-rdf12-concepts-20250220.yaml
-- :id:
     :code: rdf12-n-quads
     :stage: WD
     :date: '20250220'
@@ -31261,11 +31251,6 @@
     :date: '20250222'
   :file: data/crd-wgsl-20250222.yaml
 - :id:
-    :code: vc-data-model-2.0
-    :stage: CRD
-    :date: '20250223'
-  :file: data/crd-vc-data-model-2.0-20250223.yaml
-- :id:
     :code: vc-data-integrity
     :stage: CRD
     :date: '20250223'
@@ -31280,11 +31265,6 @@
     :stage: CRD
     :date: '20250223'
   :file: data/crd-vc-di-eddsa-20250223.yaml
-- :id:
-    :code: vc-bitstring-status-list
-    :stage: CRD
-    :date: '20250223'
-  :file: data/crd-vc-bitstring-status-list-20250223.yaml
 - :id:
     :code: cid-1.0
     :stage: CRD
@@ -31306,15 +31286,40 @@
     :date: '20250224'
   :file: data/wd-rdf12-schema-20250224.yaml
 - :id:
-    :code: rdf12-semantics
+    :code: event-timing
     :stage: WD
     :date: '20250224'
-  :file: data/wd-rdf12-semantics-20250224.yaml
+  :file: data/wd-event-timing-20250224.yaml
 - :id:
     :code: webrtc-encoded-transform
     :stage: WD
-    :date: '20250224'
-  :file: data/wd-webrtc-encoded-transform-20250224.yaml
+    :date: '20250225'
+  :file: data/wd-webrtc-encoded-transform-20250225.yaml
+- :id:
+    :code: vc-bitstring-status-list
+    :stage: CRD
+    :date: '20250225'
+  :file: data/crd-vc-bitstring-status-list-20250225.yaml
+- :id:
+    :code: vc-data-model-2.0
+    :stage: CRD
+    :date: '20250225'
+  :file: data/crd-vc-data-model-2.0-20250225.yaml
+- :id:
+    :code: css-2024
+    :type: NOTE
+    :date: '20250225'
+  :file: data/note-css-2024-20250225.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250225'
+  :file: data/wd-rdf12-concepts-20250225.yaml
+- :id:
+    :code: rdf12-semantics
+    :stage: WD
+    :date: '20250225'
+  :file: data/wd-rdf12-semantics-20250225.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31501,3 +31506,7 @@
 - :id:
     :code: cid-1.0
   :file: data/cid-1.0.yaml
+- :id:
+    :code: css
+    :date: '2024'
+  :file: data/css-2024.yaml

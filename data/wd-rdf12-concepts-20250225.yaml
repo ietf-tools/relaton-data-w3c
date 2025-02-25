@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-vc-data-model-2.0-20250223
+id: W3CWD-rdf12-concepts-20250225
 title:
-- content: Verifiable Credentials Data Model v2.0
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-vc-data-model-2.0-20250223/
+- content: https://www.w3.org/TR/2025/WD-rdf12-concepts-20250225/
   type: src
-- content: https://w3c.github.io/vc-data-model/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C CRD-vc-data-model-2.0-20250223
+- id: W3C WD-rdf12-concepts-20250225
   type: W3C
   primary: true
-docnumber: CRD-vc-data-model-2.0-20250223
+docnumber: WD-rdf12-concepts-20250225
 date:
 - type: published
-  value: '2025-02-23'
+  value: '2025-02-25'
 contributor:
 - person:
     name:
       completename:
-        content: Gabe Cohen
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Ivan Herman
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -42,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Manu Sporny
+        content: Olaf Hartig
         language:
         - en
         script:
@@ -52,49 +52,37 @@ contributor:
 - person:
     name:
       completename:
-        content: Michael Jones
+        content: Pierre-Antoine Champin
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-- person:
-    name:
-      completename:
-        content: Ted Thibodeau Jr
-        language:
-        - en
-        script:
-        - Latn
-  role:
-  - type: editor
-revdate: '2025-02-23'
+revdate: '2025-02-25'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: candidateRecommendation
+    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-vc-data-model-2.0-20250217
+    id: W3CWD-rdf12-concepts-20250220
     docid:
-    - id: W3C CRD-vc-data-model-2.0-20250217
+    - id: W3C WD-rdf12-concepts-20250220
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-vc-data-model-2.0-20250217
+      content: W3C WD-rdf12-concepts-20250220
       format: text/plain
 series:
 - title:
-    content: W3C CR
+    content: W3C WD
     format: text/plain
-  number: CRD-vc-data-model-2.0-20250223
+  number: WD-rdf12-concepts-20250225
 doctype: technicalReport
-editorialgroup:
-- name: Verifiable Credentials Working Group
 ext:
   schema-version: v1.0.0

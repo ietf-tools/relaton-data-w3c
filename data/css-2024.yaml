@@ -1,0 +1,38 @@
+---
+schema-version: v1.2.3
+id: W3Ccss-2024
+title:
+- content: CSS Snapshot 2024
+  format: text/plain
+link:
+- content: https://www.w3.org/TR/css-2024/
+  type: src
+type: standard
+docid:
+- id: W3C css-2024
+  type: W3C
+  primary: true
+docnumber: css-2024
+language:
+- en
+script:
+- Latn
+relation:
+- type: instance
+  bibitem:
+    id: W3CNOTE-css-2024-20250225
+    docid:
+    - id: W3C NOTE-css-2024-20250225
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C NOTE-css-2024-20250225
+      format: text/plain
+series:
+- title:
+    content: W3C NOTE
+    format: text/plain
+  number: css-2024
+doctype: groupNote
+ext:
+  schema-version: v1.0.0

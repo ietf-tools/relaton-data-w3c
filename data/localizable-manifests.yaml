@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-localizable-manifests-20210824
-    docid:
-    - id: W3C WD-localizable-manifests-20210824
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-localizable-manifests-20210824
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-localizable-manifests-20231206
     docid:
     - id: W3C DNOTE-localizable-manifests-20231206
@@ -47,6 +37,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-localizable-manifests-20231206
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-localizable-manifests-20210824
+    docid:
+    - id: W3C WD-localizable-manifests-20210824
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-localizable-manifests-20210824
       format: text/plain
 series:
 - title:

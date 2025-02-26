@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-orientation-event-20230421
+    id: W3CWD-orientation-event-20240514
     docid:
-    - id: W3C WD-orientation-event-20230421
+    - id: W3C WD-orientation-event-20240514
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20230421
+      content: W3C WD-orientation-event-20240514
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-orientation-event-20240514
+    id: W3CWD-orientation-event-20230421
     docid:
-    - id: W3C WD-orientation-event-20240514
+    - id: W3C WD-orientation-event-20230421
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-orientation-event-20240514
+      content: W3C WD-orientation-event-20230421
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,16 +83,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCR-orientation-event-20160818
-    docid:
-    - id: W3C CR-orientation-event-20160818
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CR-orientation-event-20160818
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-orientation-event-20220919
     docid:
     - id: W3C WD-orientation-event-20220919
@@ -100,6 +90,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-orientation-event-20220919
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCR-orientation-event-20160818
+    docid:
+    - id: W3C CR-orientation-event-20160818
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CR-orientation-event-20160818
       format: text/plain
 series:
 - title:

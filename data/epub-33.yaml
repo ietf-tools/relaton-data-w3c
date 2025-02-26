@@ -53,16 +53,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-epub-33-20211218
-    docid:
-    - id: W3C WD-epub-33-20211218
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-epub-33-20211218
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-epub-33-20220527
     docid:
     - id: W3C CRD-epub-33-20220527
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-epub-33-20221214
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-epub-33-20211218
+    docid:
+    - id: W3C WD-epub-33-20211218
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-epub-33-20211218
       format: text/plain
 series:
 - title:

@@ -43,6 +43,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-rdf-canon-20230609
+    docid:
+    - id: W3C WD-rdf-canon-20230609
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-canon-20230609
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf-canon-20231004
+    docid:
+    - id: W3C WD-rdf-canon-20231004
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf-canon-20231004
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-rdf-canon-20230524
     docid:
     - id: W3C WD-rdf-canon-20230524
@@ -53,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf-canon-20230609
+    id: W3CWD-rdf-canon-20221219
     docid:
-    - id: W3C WD-rdf-canon-20230609
+    - id: W3C WD-rdf-canon-20221219
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-rdf-canon-20230609
+      content: W3C WD-rdf-canon-20221219
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,26 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-rdf-canon-20230619
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-rdf-canon-20231004
-    docid:
-    - id: W3C WD-rdf-canon-20231004
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf-canon-20231004
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-rdf-canon-20221219
-    docid:
-    - id: W3C WD-rdf-canon-20221219
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf-canon-20221219
       format: text/plain
 series:
 - title:

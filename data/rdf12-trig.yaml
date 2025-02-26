@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-rdf12-trig-20230516
-    docid:
-    - id: W3C WD-rdf12-trig-20230516
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-rdf12-trig-20230516
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-rdf12-trig-20240418
     docid:
     - id: W3C WD-rdf12-trig-20240418
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-rdf12-trig-20240418
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-rdf12-trig-20230516
+    docid:
+    - id: W3C WD-rdf12-trig-20230516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-rdf12-trig-20230516
       format: text/plain
 - type: hasEdition
   bibitem:

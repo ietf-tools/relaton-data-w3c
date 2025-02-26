@@ -18,15 +18,15 @@ language:
 script:
 - Latn
 relation:
-- type: hasEdition
+- type: instance
   bibitem:
-    id: W3CNOTE-did-spec-registries-20230514
+    id: W3CNOTE-did-spec-registries-20240516
     docid:
-    - id: W3C NOTE-did-spec-registries-20230514
+    - id: W3C NOTE-did-spec-registries-20240516
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20230514
+      content: W3C NOTE-did-spec-registries-20240516
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -38,15 +38,15 @@ relation:
     formattedref:
       content: W3C NOTE-did-spec-registries-20211102
       format: text/plain
-- type: instance
+- type: hasEdition
   bibitem:
-    id: W3CNOTE-did-spec-registries-20240516
+    id: W3CNOTE-did-spec-registries-20230514
     docid:
-    - id: W3C NOTE-did-spec-registries-20240516
+    - id: W3C NOTE-did-spec-registries-20230514
       type: W3C
       primary: true
     formattedref:
-      content: W3C NOTE-did-spec-registries-20240516
+      content: W3C NOTE-did-spec-registries-20230514
       format: text/plain
 - type: hasEdition
   bibitem:

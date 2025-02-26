@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-uievents-20230509
+    id: W3CWD-uievents-20240607
     docid:
-    - id: W3C WD-uievents-20230509
+    - id: W3C WD-uievents-20240607
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20230509
+      content: W3C WD-uievents-20240607
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-uievents-20240607
+    id: W3CWD-uievents-20230509
     docid:
-    - id: W3C WD-uievents-20240607
+    - id: W3C WD-uievents-20230509
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20240607
+      content: W3C WD-uievents-20230509
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,16 +80,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-uievents-20240221
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-uievents-20181108
-    docid:
-    - id: W3C WD-uievents-20181108
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-uievents-20181108
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,16 +103,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-uievents-20160804
-    docid:
-    - id: W3C WD-uievents-20160804
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-uievents-20160804
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-uievents-20230915
     docid:
     - id: W3C WD-uievents-20230915
@@ -133,13 +113,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-uievents-20131105
+    id: W3CWD-uievents-20181108
     docid:
-    - id: W3C WD-uievents-20131105
+    - id: W3C WD-uievents-20181108
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-uievents-20131105
+      content: W3C WD-uievents-20181108
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-uievents-20160804
+    docid:
+    - id: W3C WD-uievents-20160804
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-uievents-20160804
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -150,6 +140,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-uievents-20220913
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-uievents-20131105
+    docid:
+    - id: W3C WD-uievents-20131105
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-uievents-20131105
       format: text/plain
 series:
 - title:

@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-trusted-types-20220927
-    docid:
-    - id: W3C WD-trusted-types-20220927
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-trusted-types-20220927
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-trusted-types-20240531
     docid:
     - id: W3C WD-trusted-types-20240531
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-trusted-types-20240531
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-trusted-types-20220927
+    docid:
+    - id: W3C WD-trusted-types-20220927
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-trusted-types-20220927
       format: text/plain
 series:
 - title:

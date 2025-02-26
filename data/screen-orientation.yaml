@@ -43,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-orientation-20230504
-    docid:
-    - id: W3C WD-screen-orientation-20230504
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-orientation-20230504
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-screen-orientation-20151223
     docid:
     - id: W3C WD-screen-orientation-20151223
@@ -73,13 +63,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-orientation-20181214
+    id: W3CWD-screen-orientation-20230504
     docid:
-    - id: W3C WD-screen-orientation-20181214
+    - id: W3C WD-screen-orientation-20230504
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-orientation-20181214
+      content: W3C WD-screen-orientation-20230504
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,6 +83,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-screen-orientation-20191102
+    docid:
+    - id: W3C WD-screen-orientation-20191102
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-orientation-20191102
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-screen-orientation-20201019
     docid:
     - id: W3C WD-screen-orientation-20201019
@@ -103,23 +103,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-orientation-20161031
+    id: W3CWD-screen-orientation-20181214
     docid:
-    - id: W3C WD-screen-orientation-20161031
+    - id: W3C WD-screen-orientation-20181214
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-orientation-20161031
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-screen-orientation-20171105
-    docid:
-    - id: W3C WD-screen-orientation-20171105
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-screen-orientation-20171105
+      content: W3C WD-screen-orientation-20181214
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -133,13 +123,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-screen-orientation-20191102
+    id: W3CWD-screen-orientation-20171105
     docid:
-    - id: W3C WD-screen-orientation-20191102
+    - id: W3C WD-screen-orientation-20171105
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-screen-orientation-20191102
+      content: W3C WD-screen-orientation-20171105
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -150,6 +140,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-screen-orientation-20221216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-screen-orientation-20161031
+    docid:
+    - id: W3C WD-screen-orientation-20161031
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-screen-orientation-20161031
       format: text/plain
 series:
 - title:

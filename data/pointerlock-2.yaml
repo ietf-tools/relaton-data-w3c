@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-pointerlock-2-20220708
+    id: W3CWD-pointerlock-2-20240516
     docid:
-    - id: W3C WD-pointerlock-2-20220708
+    - id: W3C WD-pointerlock-2-20240516
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerlock-2-20220708
+      content: W3C WD-pointerlock-2-20240516
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,23 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-pointerlock-2-20240516
+    id: W3CWD-pointerlock-2-20220708
     docid:
-    - id: W3C WD-pointerlock-2-20240516
+    - id: W3C WD-pointerlock-2-20220708
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-pointerlock-2-20240516
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-pointerlock-2-20181106
-    docid:
-    - id: W3C WD-pointerlock-2-20181106
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-pointerlock-2-20181106
+      content: W3C WD-pointerlock-2-20220708
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,6 +70,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-pointerlock-2-20190828
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-pointerlock-2-20181106
+    docid:
+    - id: W3C WD-pointerlock-2-20181106
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-pointerlock-2-20181106
       format: text/plain
 - type: hasEdition
   bibitem:

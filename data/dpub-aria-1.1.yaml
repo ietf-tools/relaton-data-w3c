@@ -23,33 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-dpub-aria-1.1-20250212
+    id: W3CCRD-dpub-aria-1.1-20250225
     docid:
-    - id: W3C CRD-dpub-aria-1.1-20250212
+    - id: W3C CRD-dpub-aria-1.1-20250225
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-dpub-aria-1.1-20250212
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-dpub-aria-1.1-20230515
-    docid:
-    - id: W3C WD-dpub-aria-1.1-20230515
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-dpub-aria-1.1-20230515
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-dpub-aria-1.1-20211203
-    docid:
-    - id: W3C WD-dpub-aria-1.1-20211203
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-dpub-aria-1.1-20211203
+      content: W3C CRD-dpub-aria-1.1-20250225
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,16 +43,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-dpub-aria-1.1-20230620
-    docid:
-    - id: W3C WD-dpub-aria-1.1-20230620
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-dpub-aria-1.1-20230620
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-dpub-aria-1.1-20220530
     docid:
     - id: W3C WD-dpub-aria-1.1-20220530
@@ -83,6 +53,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-dpub-aria-1.1-20230515
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20230515
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20230515
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-dpub-aria-1.1-20230902
     docid:
     - id: W3C WD-dpub-aria-1.1-20230902
@@ -90,6 +70,26 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-dpub-aria-1.1-20230902
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dpub-aria-1.1-20211203
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20211203
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20211203
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-dpub-aria-1.1-20230620
+    docid:
+    - id: W3C WD-dpub-aria-1.1-20230620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-dpub-aria-1.1-20230620
       format: text/plain
 series:
 - title:

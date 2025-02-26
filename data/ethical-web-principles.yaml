@@ -30,16 +30,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CDNOTE-ethical-web-principles-20221207
-    docid:
-    - id: W3C DNOTE-ethical-web-principles-20221207
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C DNOTE-ethical-web-principles-20221207
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CDNOTE-ethical-web-principles-20240531
     docid:
     - id: W3C DNOTE-ethical-web-principles-20240531
@@ -57,6 +47,16 @@ relation:
       primary: true
     formattedref:
       content: W3C DNOTE-ethical-web-principles-20220512
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CDNOTE-ethical-web-principles-20221207
+    docid:
+    - id: W3C DNOTE-ethical-web-principles-20221207
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C DNOTE-ethical-web-principles-20221207
       format: text/plain
 - type: hasEdition
   bibitem:

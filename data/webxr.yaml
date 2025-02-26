@@ -33,26 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-webxr-20230303
-    docid:
-    - id: W3C CRD-webxr-20230303
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webxr-20230303
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webxr-20211224
-    docid:
-    - id: W3C WD-webxr-20211224
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webxr-20211224
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CCRD-webxr-20240416
     docid:
     - id: W3C CRD-webxr-20240416
@@ -60,26 +40,6 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-webxr-20240416
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CCRD-webxr-20230621
-    docid:
-    - id: W3C CRD-webxr-20230621
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C CRD-webxr-20230621
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-webxr-20200724
-    docid:
-    - id: W3C WD-webxr-20200724
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-webxr-20200724
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CCRD-webxr-20231005
+    id: W3CCRD-webxr-20230303
     docid:
-    - id: W3C CRD-webxr-20231005
+    - id: W3C CRD-webxr-20230303
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-webxr-20231005
+      content: W3C CRD-webxr-20230303
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -113,6 +73,26 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-webxr-20200724
+    docid:
+    - id: W3C WD-webxr-20200724
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-20200724
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-webxr-20231005
+    docid:
+    - id: W3C CRD-webxr-20231005
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webxr-20231005
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CCRD-webxr-20220824
     docid:
     - id: W3C CRD-webxr-20220824
@@ -120,6 +100,26 @@ relation:
       primary: true
     formattedref:
       content: W3C CRD-webxr-20220824
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-webxr-20211224
+    docid:
+    - id: W3C WD-webxr-20211224
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-webxr-20211224
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CCRD-webxr-20230621
+    docid:
+    - id: W3C CRD-webxr-20230621
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-webxr-20230621
       format: text/plain
 series:
 - title:

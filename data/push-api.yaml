@@ -33,13 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20220630
+    id: W3CWD-push-api-20240530
     docid:
-    - id: W3C WD-push-api-20220630
+    - id: W3C WD-push-api-20240530
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20220630
+      content: W3C WD-push-api-20240530
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -53,33 +53,23 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20211103
+    id: W3CWD-push-api-20220323
     docid:
-    - id: W3C WD-push-api-20211103
+    - id: W3C WD-push-api-20220323
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20211103
+      content: W3C WD-push-api-20220323
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20240530
+    id: W3CWD-push-api-20220630
     docid:
-    - id: W3C WD-push-api-20240530
+    - id: W3C WD-push-api-20220630
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20240530
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-push-api-20181026
-    docid:
-    - id: W3C WD-push-api-20181026
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-push-api-20181026
+      content: W3C WD-push-api-20220630
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -93,6 +83,16 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
+    id: W3CWD-push-api-20191003
+    docid:
+    - id: W3C WD-push-api-20191003
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-push-api-20191003
+      format: text/plain
+- type: hasEdition
+  bibitem:
     id: W3CWD-push-api-20200204
     docid:
     - id: W3C WD-push-api-20200204
@@ -100,26 +100,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-push-api-20200204
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-push-api-20220323
-    docid:
-    - id: W3C WD-push-api-20220323
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-push-api-20220323
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-push-api-20171215
-    docid:
-    - id: W3C WD-push-api-20171215
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-push-api-20171215
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -133,16 +113,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20130815
-    docid:
-    - id: W3C WD-push-api-20130815
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-push-api-20130815
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-push-api-20231211
     docid:
     - id: W3C WD-push-api-20231211
@@ -150,6 +120,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-push-api-20231211
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-push-api-20181026
+    docid:
+    - id: W3C WD-push-api-20181026
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-push-api-20181026
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -163,13 +143,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-push-api-20191003
+    id: W3CWD-push-api-20171215
     docid:
-    - id: W3C WD-push-api-20191003
+    - id: W3C WD-push-api-20171215
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-push-api-20191003
+      content: W3C WD-push-api-20171215
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-push-api-20130815
+    docid:
+    - id: W3C WD-push-api-20130815
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-push-api-20130815
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-push-api-20211103
+    docid:
+    - id: W3C WD-push-api-20211103
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-push-api-20211103
       format: text/plain
 series:
 - title:

@@ -33,23 +33,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CSP3-20230615
+    id: W3CWD-CSP3-20240424
     docid:
-    - id: W3C WD-CSP3-20230615
+    - id: W3C WD-CSP3-20240424
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20230615
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-CSP3-20230503
-    docid:
-    - id: W3C WD-CSP3-20230503
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-CSP3-20230503
+      content: W3C WD-CSP3-20240424
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -63,13 +53,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CSP3-20240424
+    id: W3CWD-CSP3-20230615
     docid:
-    - id: W3C WD-CSP3-20240424
+    - id: W3C WD-CSP3-20230615
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20240424
+      content: W3C WD-CSP3-20230615
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -83,13 +73,13 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-CSP3-20160913
+    id: W3CWD-CSP3-20230503
     docid:
-    - id: W3C WD-CSP3-20160913
+    - id: W3C WD-CSP3-20230503
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-CSP3-20160913
+      content: W3C WD-CSP3-20230503
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -100,6 +90,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-CSP3-20230920
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-CSP3-20160913
+    docid:
+    - id: W3C WD-CSP3-20160913
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-CSP3-20160913
       format: text/plain
 - type: hasEdition
   bibitem:

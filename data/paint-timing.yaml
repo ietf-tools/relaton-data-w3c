@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-paint-timing-20170907
-    docid:
-    - id: W3C WD-paint-timing-20170907
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-paint-timing-20170907
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-paint-timing-20240112
     docid:
     - id: W3C WD-paint-timing-20240112
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-paint-timing-20240112
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-paint-timing-20170907
+    docid:
+    - id: W3C WD-paint-timing-20170907
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-paint-timing-20170907
       format: text/plain
 - type: hasEdition
   bibitem:

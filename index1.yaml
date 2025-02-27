@@ -30906,11 +30906,6 @@
     :date: '20250128'
   :file: data/crd-wasm-web-api-2-20250128.yaml
 - :id:
-    :code: rdf12-xml
-    :stage: WD
-    :date: '20250201'
-  :file: data/wd-rdf12-xml-20250201.yaml
-- :id:
     :code: vc-bitstring-status-list
     :stage: CRD
     :date: '20250202'
@@ -30990,11 +30985,6 @@
     :stage: WD
     :date: '20250212'
   :file: data/wd-mediacapture-fromelement-20250212.yaml
-- :id:
-    :code: html-aam-1.0
-    :stage: WD
-    :date: '20250212'
-  :file: data/wd-html-aam-1.0-20250212.yaml
 - :id:
     :code: webcodecs-aac-codec-registration
     :type: DNOTE
@@ -31211,16 +31201,6 @@
     :date: '20250221'
   :file: data/wd-did-resolution-20250221.yaml
 - :id:
-    :code: IndexedDB-3
-    :stage: WD
-    :date: '20250221'
-  :file: data/wd-indexeddb-3-20250221.yaml
-- :id:
-    :code: webnn
-    :stage: CRD
-    :date: '20250222'
-  :file: data/crd-webnn-20250222.yaml
-- :id:
     :code: WGSL
     :stage: CRD
     :date: '20250222'
@@ -31296,16 +31276,6 @@
     :date: '20250225'
   :file: data/wd-rdf12-semantics-20250225.yaml
 - :id:
-    :code: webdriver-bidi
-    :stage: WD
-    :date: '20250225'
-  :file: data/wd-webdriver-bidi-20250225.yaml
-- :id:
-    :code: dpub-aria-1.1
-    :stage: CRD
-    :date: '20250225'
-  :file: data/crd-dpub-aria-1.1-20250225.yaml
-- :id:
     :code: design-principles
     :type: NOTE
     :date: '20250226'
@@ -31320,6 +31290,36 @@
     :stage: WD
     :date: '20250226'
   :file: data/wd-pointerevents4-20250226.yaml
+- :id:
+    :code: html-aam-1.0
+    :stage: WD
+    :date: '20250226'
+  :file: data/wd-html-aam-1.0-20250226.yaml
+- :id:
+    :code: dpub-aria-1.1
+    :stage: CRD
+    :date: '20250226'
+  :file: data/crd-dpub-aria-1.1-20250226.yaml
+- :id:
+    :code: rdf12-xml
+    :stage: WD
+    :date: '20250226'
+  :file: data/wd-rdf12-xml-20250226.yaml
+- :id:
+    :code: IndexedDB-3
+    :stage: WD
+    :date: '20250226'
+  :file: data/wd-indexeddb-3-20250226.yaml
+- :id:
+    :code: webnn
+    :stage: CRD
+    :date: '20250227'
+  :file: data/crd-webnn-20250227.yaml
+- :id:
+    :code: webdriver-bidi
+    :stage: WD
+    :date: '20250227'
+  :file: data/wd-webdriver-bidi-20250227.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31505,8 +31505,8 @@
     :date: '2024'
   :file: data/css-2024.yaml
 - :id:
-    :code: webdriver-bidi
-  :file: data/webdriver-bidi.yaml
-- :id:
     :code: pointerevents4
   :file: data/pointerevents4.yaml
+- :id:
+    :code: webdriver-bidi
+  :file: data/webdriver-bidi.yaml

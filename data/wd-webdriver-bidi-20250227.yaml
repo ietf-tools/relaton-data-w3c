@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-webdriver-bidi-20250225
+id: W3CWD-webdriver-bidi-20250227
 title:
 - content: WebDriver BiDi
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/
+- content: https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/
   type: src
 - content: https://w3c.github.io/webdriver-bidi/
   type: current
 type: standard
 docid:
-- id: W3C WD-webdriver-bidi-20250225
+- id: W3C WD-webdriver-bidi-20250227
   type: W3C
   primary: true
-docnumber: WD-webdriver-bidi-20250225
+docnumber: WD-webdriver-bidi-20250227
 date:
 - type: published
-  value: '2025-02-25'
+  value: '2025-02-27'
 contributor:
 - person:
     name:
@@ -49,7 +49,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-25'
+revdate: '2025-02-27'
 language:
 - en
 script:
@@ -60,19 +60,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-webdriver-bidi-20250210
+    id: W3CWD-webdriver-bidi-20250225
     docid:
-    - id: W3C WD-webdriver-bidi-20250210
+    - id: W3C WD-webdriver-bidi-20250225
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-webdriver-bidi-20250210
+      content: W3C WD-webdriver-bidi-20250225
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-webdriver-bidi-20250225
+  number: WD-webdriver-bidi-20250227
 doctype: technicalReport
 ext:
   schema-version: v1.0.0

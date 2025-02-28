@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-compute-pressure-20241211
+id: W3CCRD-WGSL-20250227
 title:
-- content: Compute Pressure Level 1
+- content: WebGPU Shading Language
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-compute-pressure-20241211/
+- content: https://www.w3.org/TR/2025/CRD-WGSL-20250227/
   type: src
-- content: https://w3c.github.io/compute-pressure/
+- content: https://gpuweb.github.io/gpuweb/wgsl/
   type: current
 type: standard
 docid:
-- id: W3C WD-compute-pressure-20241211
+- id: W3C CRD-WGSL-20250227
   type: W3C
   primary: true
-docnumber: WD-compute-pressure-20241211
+docnumber: CRD-WGSL-20250227
 date:
 - type: published
-  value: '2024-12-11'
+  value: '2025-02-27'
 contributor:
 - person:
     name:
       completename:
-        content: Arnaud Mandy
+        content: Alan Baker
         language:
         - en
         script:
@@ -32,39 +32,47 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: David Neto
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-12-11'
+- person:
+    name:
+      completename:
+        content: Mehmet Oguz Derin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2025-02-27'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-compute-pressure-20241122
+    id: W3CCRD-WGSL-20250222
     docid:
-    - id: W3C WD-compute-pressure-20241122
+    - id: W3C CRD-WGSL-20250222
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-compute-pressure-20241122
+      content: W3C CRD-WGSL-20250222
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-compute-pressure-20241211
+  number: CRD-WGSL-20250227
 doctype: technicalReport
-editorialgroup:
-- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-did-resolution-20250221
+id: W3CCRD-dpub-aam-1.1-20250228
 title:
-- content: Decentralized Identifier Resolution (DID Resolution) v0.3
+- content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-did-resolution-20250221/
+- content: https://www.w3.org/TR/2025/CRD-dpub-aam-1.1-20250228/
   type: src
-- content: https://w3c.github.io/did-resolution/
+- content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C WD-did-resolution-20250221
+- id: W3C CRD-dpub-aam-1.1-20250228
   type: W3C
   primary: true
-docnumber: WD-did-resolution-20250221
+docnumber: CRD-dpub-aam-1.1-20250228
 date:
 - type: published
-  value: '2025-02-21'
+  value: '2025-02-28'
 contributor:
 - person:
     name:
       completename:
-        content: Dmitri Zagidulin
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,37 +32,39 @@ contributor:
 - person:
     name:
       completename:
-        content: Markus Sabadello
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-21'
+revdate: '2025-02-28'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: workingDraft
+    value: candidateRecommendation
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-did-resolution-20250214
+    id: W3CCRD-dpub-aam-1.1-20240621
     docid:
-    - id: W3C WD-did-resolution-20250214
+    - id: W3C CRD-dpub-aam-1.1-20240621
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-did-resolution-20250214
+      content: W3C CRD-dpub-aam-1.1-20240621
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C CR
     format: text/plain
-  number: WD-did-resolution-20250221
+  number: CRD-dpub-aam-1.1-20250228
 doctype: technicalReport
+editorialgroup:
+- name: Accessible Rich Internet Applications Working Group
 ext:
   schema-version: v1.0.0

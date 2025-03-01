@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-core-aam-1.2-20250221
+id: W3CCRD-dpub-aria-1.1-20250301
 title:
-- content: Core Accessibility API Mappings 1.2
+- content: Digital Publishing WAI-ARIA Module 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-core-aam-1.2-20250221/
+- content: https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250301/
   type: src
-- content: https://w3c.github.io/core-aam/
+- content: https://w3c.github.io/dpub-aria/
   type: current
 type: standard
 docid:
-- id: W3C CRD-core-aam-1.2-20250221
+- id: W3C CRD-dpub-aria-1.1-20250301
   type: W3C
   primary: true
-docnumber: CRD-core-aam-1.2-20250221
+docnumber: CRD-dpub-aria-1.1-20250301
 date:
 - type: published
-  value: '2025-02-21'
+  value: '2025-03-01'
 contributor:
 - person:
     name:
       completename:
-        content: Alexander Surkov
+        content: Matt Garrish
         language:
         - en
         script:
@@ -32,14 +32,14 @@ contributor:
 - person:
     name:
       completename:
-        content: Valerie Young
+        content: Tzviya Siegman
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-21'
+revdate: '2025-03-01'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-core-aam-1.2-20250212
+    id: W3CCRD-dpub-aria-1.1-20250226
     docid:
-    - id: W3C CRD-core-aam-1.2-20250212
+    - id: W3C CRD-dpub-aria-1.1-20250226
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-core-aam-1.2-20250212
+      content: W3C CRD-dpub-aria-1.1-20250226
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-core-aam-1.2-20250221
+  number: CRD-dpub-aria-1.1-20250301
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group

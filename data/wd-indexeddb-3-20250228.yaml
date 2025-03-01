@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-IndexedDB-3-20250226
+id: W3CWD-IndexedDB-3-20250228
 title:
 - content: Indexed Database API 3.0
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/WD-IndexedDB-3-20250226/
+- content: https://www.w3.org/TR/2025/WD-IndexedDB-3-20250228/
   type: src
 - content: https://w3c.github.io/IndexedDB/
   type: current
 type: standard
 docid:
-- id: W3C WD-IndexedDB-3-20250226
+- id: W3C WD-IndexedDB-3-20250228
   type: W3C
   primary: true
-docnumber: WD-IndexedDB-3-20250226
+docnumber: WD-IndexedDB-3-20250228
 date:
 - type: published
-  value: '2025-02-26'
+  value: '2025-02-28'
 contributor:
 - person:
     name:
@@ -29,7 +29,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-26'
+revdate: '2025-02-28'
 language:
 - en
 script:
@@ -40,19 +40,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-IndexedDB-3-20250221
+    id: W3CWD-IndexedDB-3-20250226
     docid:
-    - id: W3C WD-IndexedDB-3-20250221
+    - id: W3C WD-IndexedDB-3-20250226
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-IndexedDB-3-20250221
+      content: W3C WD-IndexedDB-3-20250226
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-IndexedDB-3-20250226
+  number: WD-IndexedDB-3-20250228
 doctype: technicalReport
 editorialgroup:
 - name: Web Applications Working Group

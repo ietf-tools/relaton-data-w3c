@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: W3CCRD-dpub-aam-1.1-20250228
+id: W3CCRD-dpub-aam-1.1-20250301
 title:
 - content: Digital Publishing Accessibility API Mappings 1.1
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2025/CRD-dpub-aam-1.1-20250228/
+- content: https://www.w3.org/TR/2025/CRD-dpub-aam-1.1-20250301/
   type: src
 - content: https://w3c.github.io/dpub-aam/
   type: current
 type: standard
 docid:
-- id: W3C CRD-dpub-aam-1.1-20250228
+- id: W3C CRD-dpub-aam-1.1-20250301
   type: W3C
   primary: true
-docnumber: CRD-dpub-aam-1.1-20250228
+docnumber: CRD-dpub-aam-1.1-20250301
 date:
 - type: published
-  value: '2025-02-28'
+  value: '2025-03-01'
 contributor:
 - person:
     name:
@@ -39,7 +39,7 @@ contributor:
         - Latn
   role:
   - type: editor
-revdate: '2025-02-28'
+revdate: '2025-03-01'
 language:
 - en
 script:
@@ -50,19 +50,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CCRD-dpub-aam-1.1-20240621
+    id: W3CCRD-dpub-aam-1.1-20250228
     docid:
-    - id: W3C CRD-dpub-aam-1.1-20240621
+    - id: W3C CRD-dpub-aam-1.1-20250228
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-dpub-aam-1.1-20240621
+      content: W3C CRD-dpub-aam-1.1-20250228
       format: text/plain
 series:
 - title:
     content: W3C CR
     format: text/plain
-  number: CRD-dpub-aam-1.1-20250228
+  number: CRD-dpub-aam-1.1-20250301
 doctype: technicalReport
 editorialgroup:
 - name: Accessible Rich Internet Applications Working Group
